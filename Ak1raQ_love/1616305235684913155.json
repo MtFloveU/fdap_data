@@ -5,7 +5,7 @@
     "description": "你好亲，这里是星梦哦\n有躁郁症所以不太好交流呢\n喜欢逛街出去玩\n发情才会涩涩\n现实里面有点性冷淡\n会很粘人的哦\n在玉玉自闭…\n姐姐大人:@error_aira8964\nQQ：暂时不加了哦亲",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1834691248093118465/U1qgMU6f_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616305235684913155/1678520099",
-    "followers_count": 271,
+    "followers_count": 280,
     "statuses_count": 175,
     "favourites_count": 214,
     "listed_count": 1,
@@ -14,5 +14,46 @@
     "following": true,
     "followed_by": true,
     "created_at": "2023-01-20 13:23:12 +08:00",
-    "url": "https://twitter.com/duzengxu"
+    "url": "https://twitter.com/duzengxu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjE2MzA1MjM1Njg0OTEzMTU1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 133,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Minato-ku, Tokyo",
+            "media_count": 28,
+            "pinned_tweet_ids_str": [
+                "1877685983556383074"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1674192192000,
+            "updated_at": 1739589265461
+        }
+    }
 }

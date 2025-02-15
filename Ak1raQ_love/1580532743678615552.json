@@ -5,14 +5,69 @@
     "description": "\"The Only Constant in Life Is Change.\" |\nI Love Elysia FOREVER❤ |\nMtF🏳️‍⚧️| 2009.02.19 | HRT 2024.07.08 | 有一个值得托付终身的男朋友 |\n抗爭的事太多, 平息的事太少\n我們都是想不起何時搞砸的人\n同病相憐",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1624768426500837376/fq-6kowq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580532743678615552/1682407830",
-    "followers_count": 146,
-    "statuses_count": 125,
-    "favourites_count": 1034,
-    "listed_count": 0,
+    "followers_count": 294,
+    "statuses_count": 480,
+    "favourites_count": 8907,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2022-10-13 20:15:53 +08:00",
-    "url": "https://twitter.com/Tw1l1ghtGamer"
+    "url": "https://twitter.com/Tw1l1ghtGamer",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTgwNTMyNzQzNjc4NjE1NTUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/tw1l1ghtgamer",
+                            "expanded_url": "http://ngl.link/tw1l1ghtgamer",
+                            "url": "https://t.co/4Fe7hOGzvt",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 468,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "擱淺的人 早習慣啦 就這樣吧 算了啊",
+            "media_count": 89,
+            "pinned_tweet_ids_str": [
+                "1878033100082471231"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/4Fe7hOGzvt",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1665663353000,
+            "updated_at": 1739589270270
+        }
+    }
 }

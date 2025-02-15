@@ -1,18 +1,57 @@
 {
-  "id": "1564621327050280967",
-  "screen_name": "BackMoon77",
-  "name": "於桅灯",
-  "description": "不建议关注我 负能量爆炸 /不喜欢可屏蔽 不混任何圈/你觉得什么是我什么就是我/乱嗑药磕糖/还是加个MTX吧不然雷我早点屏蔽就好了🏳️🏳️/这辈子如果变成美少女就好了",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1817214392615993344/QzPmA9pc_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564621327050280967/1708608777",
-  "followers_count": 450,
-  "statuses_count": 6197,
-  "favourites_count": 13735,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2022-08-30 22:29:35 +08:00",
-  "url": "https://twitter.com/BackMoon77"
+    "id": "1564621327050280967",
+    "screen_name": "BackMoon77",
+    "name": "於桅灯",
+    "description": "不建议关注我 负能量爆炸 /不喜欢可屏蔽 不混任何圈/你觉得什么是我什么就是我/乱嗑药磕糖/还是加个MTX吧不然雷我早点屏蔽就好了🏳️🏳️/这辈子如果变成美少女就好了",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1817214392615993344/QzPmA9pc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564621327050280967/1708608777",
+    "followers_count": 440,
+    "statuses_count": 6177,
+    "favourites_count": 13289,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-08-30 22:29:35 +08:00",
+    "url": "https://twitter.com/BackMoon77",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTY0NjIxMzI3MDUwMjgwOTY3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 895,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "精神病的日记",
+            "media_count": 339,
+            "pinned_tweet_ids_str": [
+                "1758015566185685341"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1661869775000,
+            "updated_at": 1739589247181
+        }
+    }
 }

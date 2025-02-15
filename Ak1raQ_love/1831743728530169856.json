@@ -5,14 +5,95 @@
     "description": "小药娘怎么你了😠\nGPG Key (Personal): F0EB 9289 3C9B 487C CE2C  7A16 3B38 5D98 2992 E954",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1831745719545262080/EQQ9g5Uq_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 110,
-    "statuses_count": 1105,
-    "favourites_count": 3541,
+    "followers_count": 120,
+    "statuses_count": 1543,
+    "favourites_count": 5351,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-06 01:18:57 +08:00",
-    "url": "https://twitter.com/MisakaNetwkSys"
+    "url": "https://twitter.com/MisakaNetwkSys",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODMxNzQzNzI4NTMwMTY5ODU2",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @misaka__network",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "misaka__network",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "misaka__network"
+                                        },
+                                        "rest_id": "1826871427972362240"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "webpagesvc.misakanetworksystem.org/index.html",
+                            "expanded_url": "http://webpagesvc.misakanetworksystem.org/index.html",
+                            "url": "https://t.co/pYr94k73ss",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 169,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "/Users/MisakaNetworkSystem/",
+            "media_count": 15,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/pYr94k73ss",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1725556737000,
+            "updated_at": 1739589270270
+        }
+    }
 }

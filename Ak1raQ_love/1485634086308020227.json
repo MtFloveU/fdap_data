@@ -1,18 +1,68 @@
 {
-  "id": "1485634086308020227",
-  "screen_name": "ahshang05",
-  "name": "ah_shang_er",
-  "description": "這是一部融合幽默與哲學的漫畫。人類聚在一起開始享用美味的鮭魚飯、炸雞、和水果...隨著故事展開，人類不僅探索美食的奧秘，還開始質疑上帝是否存在。幽默與哲理交織，讓人反思生命意義，食物與信仰的界線究竟在哪裡。",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1847589316819816448/bOQ9YhF3_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1485634086308020227/1731042622",
-  "followers_count": 407,
-  "statuses_count": 171,
-  "favourites_count": 1302,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2022-01-24 23:24:52 +08:00",
-  "url": "https://twitter.com/ahshang05"
+    "id": "1485634086308020227",
+    "screen_name": "ahshang05",
+    "name": "ah_shang_er",
+    "description": "這是一部融合幽默與哲學的漫畫。人類聚在一起開始享用美味的鮭魚飯、炸雞、和水果...隨著故事展開，人類不僅探索美食的奧秘，還開始質疑上帝是否存在。幽默與哲理交織，讓人反思生命意義，食物與信仰的界線究竟在哪裡。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1847589316819816448/bOQ9YhF3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1485634086308020227/1731042622",
+    "followers_count": 746,
+    "statuses_count": 286,
+    "favourites_count": 1427,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-01-24 23:24:52 +08:00",
+    "url": "https://twitter.com/ahshang05",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDg1NjM0MDg2MzA4MDIwMjI3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2578,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 222,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1830586743239934422",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1076,
+                    "name": "Comic",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1643037892000,
+            "updated_at": 1739589198293
+        }
+    }
 }

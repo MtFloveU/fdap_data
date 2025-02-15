@@ -5,14 +5,78 @@
     "description": "種花郵政的小小經辦..\n無證 無糖🍥\n\n考後憂鬱症\n苦命家暴黨\n\n多一點圓融 生活更美好",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1814284664854675456/V3Uf43Pk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746533971809431552/1724944422",
-    "followers_count": 148,
-    "statuses_count": 664,
-    "favourites_count": 5900,
+    "followers_count": 143,
+    "statuses_count": 667,
+    "favourites_count": 5854,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-01-14 22:05:53 +08:00",
-    "url": "https://twitter.com/35FPK10520"
+    "url": "https://twitter.com/35FPK10520",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQ2NTMzOTcxODA5NDMxNTUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "post.gov.tw",
+                            "expanded_url": "https://www.post.gov.tw",
+                            "url": "https://t.co/kVuk0ihfll",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 125,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Chaozhou to Hualien(coastline)",
+            "media_count": 138,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/kVuk0ihfll",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1749821697589645478",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 919,
+                    "name": "Railroad Company",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1705241153000,
+            "updated_at": 1739589265461
+        }
+    }
 }

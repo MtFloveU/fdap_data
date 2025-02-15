@@ -5,7 +5,7 @@
     "description": "常驻山东济南欢迎贴贴|🍥|含糖家长不管|中度抑郁|Arch用户|Rust新手",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1771704515793952768/tQ0kzi-t_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643176894739644416/1694938158",
-    "followers_count": 381,
+    "followers_count": 382,
     "statuses_count": 538,
     "favourites_count": 3563,
     "listed_count": 0,
@@ -13,6 +13,52 @@
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-04-04 09:01:21 +00:00",
-    "url": "https://twitter.com/woshishabi60923"
+    "created_at": "2023-04-04 17:01:21 +08:00",
+    "url": "https://twitter.com/woshishabi60923",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjQzMTc2ODk0NzM5NjQ0NDE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1572,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "妈妈生的",
+            "media_count": 33,
+            "pinned_tweet_ids_str": [
+                "1841880098955489376"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1653193429701263362",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1680598881000,
+            "updated_at": 1739589289590
+        }
+    }
 }

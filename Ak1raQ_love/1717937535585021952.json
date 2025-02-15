@@ -1,18 +1,57 @@
 {
-  "id": "1717937535585021952",
-  "screen_name": "muxii442714",
-  "name": "栀子的幻想世界🍥",
-  "description": "06無證含糖MtF//炸柜后重新深櫃秘密hrt中\n/雙相/焦慮症/ADHD/狀態欠佳淡推/\n在努力變好\n\n*希望每个善良的人都能被世界温柔以待*",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1863132667513868288/e49vOj7N_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717937535585021952/1704438483",
-  "followers_count": 1000,
-  "statuses_count": 1646,
-  "favourites_count": 18784,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-10-28 00:13:38 +08:00",
-  "url": "https://twitter.com/muxii442714"
+    "id": "1717937535585021952",
+    "screen_name": "muxii442714",
+    "name": "栀子的幻想世界🍥",
+    "description": "06無證含糖MtF//炸柜后重新深櫃秘密hrt中\n/雙相/焦慮症/ADHD/狀態欠佳淡推/\n在努力變好\n\n*希望每个善良的人都能被世界温柔以待*",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1863132667513868288/e49vOj7N_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717937535585021952/1704438483",
+    "followers_count": 1132,
+    "statuses_count": 1866,
+    "favourites_count": 19026,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-10-28 00:13:38 +08:00",
+    "url": "https://twitter.com/muxii442714",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzE3OTM3NTM1NTg1MDIxOTUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1063,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 190,
+            "pinned_tweet_ids_str": [
+                "1885802223084642763"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1698423218000,
+            "updated_at": 1739589298729
+        }
+    }
 }

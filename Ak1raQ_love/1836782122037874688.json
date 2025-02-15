@@ -5,14 +5,53 @@
     "description": "我是三崎，@misakixyg这个也是我哦谢谢你和我一起玩，我会记得你😽",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887983199336476672/YFxSqeQJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836782122037874688/1735351573",
-    "followers_count": 4853,
-    "statuses_count": 8847,
-    "favourites_count": 11560,
-    "listed_count": 7,
+    "followers_count": 4847,
+    "statuses_count": 8862,
+    "favourites_count": 11556,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
     "created_at": "2024-09-19 22:59:26 +08:00",
-    "url": "https://twitter.com/mio1738468"
+    "url": "https://twitter.com/mio1738468",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM2NzgyMTIyMDM3ODc0Njg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 509,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距离你3km",
+            "media_count": 955,
+            "pinned_tweet_ids_str": [
+                "1887720941645615580"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1726757966000,
+            "updated_at": 1739589270270
+        }
+    }
 }

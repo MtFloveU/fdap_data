@@ -1,18 +1,55 @@
 {
-  "id": "1694670928293326848",
-  "screen_name": "inainaixwx",
-  "name": "ina🏳️⚧🍥",
-  "description": "淡推惹/06无证含糖mtf/infp/hrt2024.2.18/同类互fo/可能会od割手/弱受~/车万/术术/月计/好闺蜜❤️@questionastar ❤️/信仰的神仆姐姐@1leassis",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1704503893588082688/zqm5johD_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694670928293326848/1692876773",
-  "followers_count": 624,
-  "statuses_count": 1436,
-  "favourites_count": 34418,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-08-24 19:20:21 +08:00",
-  "url": "https://twitter.com/inainaixwx"
+    "id": "1694670928293326848",
+    "screen_name": "inainaixwx",
+    "name": "ina🏳️⚧🍥",
+    "description": "淡推惹/06无证含糖mtf/infp/hrt2024.2.18/同类互fo/可能会od割手/弱受~/车万/术术/月计/好闺蜜❤️@questionastar ❤️/信仰的神仆姐姐@1leassis",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1704503893588082688/zqm5johD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694670928293326848/1692876773",
+    "followers_count": 649,
+    "statuses_count": 1453,
+    "favourites_count": 33260,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-08-24 19:20:21 +08:00",
+    "url": "https://twitter.com/inainaixwx",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjk0NjcwOTI4MjkzMzI2ODQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 928,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "江西 抚州",
+            "media_count": 31,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1692876021000,
+            "updated_at": 1739589285081
+        }
+    }
 }

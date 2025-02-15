@@ -3,16 +3,79 @@
     "screen_name": "LunarLeahhhh",
     "name": "Hannah🏳️‍⚧️",
     "description": "woman 🏳️‍⚧️ (she/they)\nlesbian \nfurry \natheist\nsocialist\nnsfw, zoos, pedo and maps dni \nswedish 🇸🇪 \n16 y/o \nvent: @LunarLeahhhh2\nhttps://t.co/P4W1ZrayfD",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1883806951726874624/l7MFAfd__normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417207209520472073/1735103687",
-    "followers_count": 9985,
-    "statuses_count": 9653,
-    "favourites_count": 17691,
-    "listed_count": 38,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1887894481753571328/r3epIqIv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417207209520472073/1738511742",
+    "followers_count": 10833,
+    "statuses_count": 10233,
+    "favourites_count": 19090,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
     "created_at": "2021-07-20 03:38:29 +08:00",
-    "url": "https://twitter.com/LunarLeahhhh"
+    "url": "https://twitter.com/LunarLeahhhh",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDE3MjA3MjA5NTIwNDcyMDcz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "x.com/LGBTQNewss",
+                            "expanded_url": "https://x.com/LGBTQNewss",
+                            "url": "https://t.co/P4W1ZrayfD",
+                            "indices": [
+                                129,
+                                152
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "discord.gg/hannahshangout",
+                            "expanded_url": "http://discord.gg/hannahshangout",
+                            "url": "https://t.co/tkz5LfORN9",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2481,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Stockholms Län, Sweden",
+            "media_count": 1577,
+            "pinned_tweet_ids_str": [
+                "1882670829571641571"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/tkz5LfORN9",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1626723509000,
+            "updated_at": 1739589262851
+        }
+    }
 }

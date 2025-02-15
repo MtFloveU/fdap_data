@@ -5,14 +5,65 @@
     "description": "明明冰冷的触感却能为你带来些许温暖，你震惊的看着这一切……\n叫我暖凉就好，很高兴认识你，请多指教。\nhrt🍥  |  带我入推的sensei:@y271727uy  |",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888007686543036416/rLv5qA-H_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885000912697163776/1738971138",
-    "followers_count": 56,
-    "statuses_count": 47,
-    "favourites_count": 600,
+    "followers_count": 59,
+    "statuses_count": 49,
+    "favourites_count": 612,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2025-01-30 16:23:45 +00:00",
-    "url": "https://twitter.com/ningyuanruci"
+    "created_at": "2025-01-31 00:23:45 +08:00",
+    "url": "https://twitter.com/ningyuanruci",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODg1MDAwOTEyNjk3MTYzNzc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/ningyuanruci1",
+                            "expanded_url": "https://ngl.link/ningyuanruci1",
+                            "url": "https://t.co/g1AyEE3PUd",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 119,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 4,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/g1AyEE3PUd",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1738254225000,
+            "updated_at": 1739589257611
+        }
+    }
 }

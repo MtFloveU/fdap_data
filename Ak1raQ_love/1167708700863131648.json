@@ -5,14 +5,78 @@
     "description": "元Mugen勢、ゲームが好きな人。部分中国製作者のキャラを代理、日本語が下手だ、よろしくお願いします。\nPokemon/Smm2/FEH/Warcraft III\nDiscord Snakeヘビ#6317\nアイコン@sorachi_maru\nQQ:2785442184\nK20-XSX-S4G\nLeto Squad",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1848669368630317056/r330yr2t_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167708700863131648/1659867388",
-    "followers_count": 3084,
-    "statuses_count": 5910,
-    "favourites_count": 51966,
+    "followers_count": 3243,
+    "statuses_count": 6016,
+    "favourites_count": 53920,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2019-08-31 16:06:23 +08:00",
-    "url": "https://twitter.com/cn_snake"
+    "url": "https://twitter.com/cn_snake",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTY3NzA4NzAwODYzMTMxNjQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/@cn_snake",
+                            "expanded_url": "https://www.youtube.com/@cn_snake",
+                            "url": "https://t.co/5BrWKK0z5C",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 6692,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "DeathWing#1",
+            "media_count": 829,
+            "pinned_tweet_ids_str": [
+                "1239154872433258496"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/5BrWKK0z5C",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1734353791410143521",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 959,
+                    "name": "Gamer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1567238783000,
+            "updated_at": 1739589192754
+        }
+    }
 }

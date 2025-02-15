@@ -5,14 +5,70 @@
     "description": "hrt2024.5.8 身高170体重53.5kg ˃ʍ˂无证含糖 \n08年            \n16岁哎 (-^〇^-)\n住在重庆的一个边缘小镇",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1851580126796083201/BZa5z-O3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759955681593917440/1734001138",
-    "followers_count": 536,
-    "statuses_count": 335,
-    "favourites_count": 133,
+    "followers_count": 590,
+    "statuses_count": 386,
+    "favourites_count": 157,
     "listed_count": 1,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2024-02-20 22:58:41 +08:00",
-    "url": "https://twitter.com/Xioa_SuLi"
+    "url": "https://twitter.com/Xioa_SuLi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU5OTU1NjgxNTkzOTE3NDQw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me",
+                            "expanded_url": "http://t.me/",
+                            "url": "https://t.co/gdzgiN9nZv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 327,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "地球",
+            "media_count": 92,
+            "pinned_tweet_ids_str": [
+                "1884266070405681243"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/gdzgiN9nZv",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false,
+            "bitcoin_handle": "bc1qv3az62jkn5k20s580zwnveqapyan8x5qss5z0w"
+        },
+        "twe_private_fields": {
+            "created_at": 1708441121000,
+            "updated_at": 1739589267789
+        }
+    }
 }

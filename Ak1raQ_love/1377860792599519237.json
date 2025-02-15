@@ -1,18 +1,57 @@
 {
-  "id": "1377860792599519237",
-  "screen_name": "alexder51947745",
-  "name": "糖渍胡萝卜🏳️‍⚧️🇺🇦",
-  "description": "自由意志主义者 友跨 支持平权 想要成为一个可爱的人 mtx 无证不含糖 妹妹：@sesamesama",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1725356277973520384/Qu66uhAC_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 825,
-  "statuses_count": 8392,
-  "favourites_count": 170338,
-  "listed_count": 4,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2021-04-02 13:49:54 +08:00",
-  "url": "https://twitter.com/alexder51947745"
+    "id": "1377860792599519237",
+    "screen_name": "alexder51947745",
+    "name": "糖渍胡萝卜🏳️‍⚧️🇺🇦",
+    "description": "自由意志主义者 友跨 支持平权 想要成为一个可爱的人 mtx 无证不含糖 妹妹：@sesamesama",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1725356277973520384/Qu66uhAC_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 840,
+    "statuses_count": 8512,
+    "favourites_count": 173174,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-04-02 13:49:54 +08:00",
+    "url": "https://twitter.com/alexder51947745",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzc3ODYwNzkyNTk5NTE5MjM3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2836,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 60,
+            "pinned_tweet_ids_str": [
+                "1742408171870953829"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1617342594000,
+            "updated_at": 1739589292073
+        }
+    }
 }

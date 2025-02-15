@@ -1,18 +1,55 @@
 {
-  "id": "1464839941461000192",
-  "screen_name": "_redstone_17_",
-  "name": "Twilight.🏳️‍⚧️",
-  "description": "05大一牲｜175cm/57kg｜She/Her｜热爱绘制地图｜选科物化地｜INTJ/INTP(现在也没弄明白)｜超爱玩Minecraft",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1780991170686181377/xbS60IBl_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464839941461000192/1718168989",
-  "followers_count": 55,
-  "statuses_count": 61,
-  "favourites_count": 46,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2021-11-28 14:14:04 +08:00",
-  "url": "https://twitter.com/_redstone_17_"
+    "id": "1464839941461000192",
+    "screen_name": "_redstone_17_",
+    "name": "Twilight.🏳️‍⚧️",
+    "description": "05大一牲｜175cm/57kg｜She/Her｜热爱绘制地图｜选科物化地｜INTJ/INTP(现在也没弄明白)｜超爱玩Minecraft",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1780991170686181377/xbS60IBl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464839941461000192/1718168989",
+    "followers_count": 54,
+    "statuses_count": 61,
+    "favourites_count": 47,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-11-28 14:14:04 +08:00",
+    "url": "https://twitter.com/_redstone_17_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDY0ODM5OTQxNDYxMDAwMTky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 123,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "天津",
+            "media_count": 27,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1638080044000,
+            "updated_at": 1739589294389
+        }
+    }
 }

@@ -1,18 +1,59 @@
 {
-  "id": "900234651490410497",
-  "screen_name": "Sora_desu_YWs",
-  "name": "0x55AA",
-  "description": "含糖MtF | 🏳‍⚧🍥 | 透明人 | debu | 社恐",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1775424926427791360/l6DYqP7o_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/900234651490410497/1680088989",
-  "followers_count": 2085,
-  "statuses_count": 435,
-  "favourites_count": 182,
-  "listed_count": 4,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2017-08-23 13:54:01 +08:00",
-  "url": "https://twitter.com/Sora_desu_YWs"
+    "id": "900234651490410497",
+    "screen_name": "Sora_desu_YWs",
+    "name": "0x55AA",
+    "description": "含糖MtF | 🏳‍⚧🍥 | 透明人 | debu | 社恐",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1775424926427791360/l6DYqP7o_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/900234651490410497/1680088989",
+    "followers_count": 2159,
+    "statuses_count": 442,
+    "favourites_count": 183,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2017-08-23 13:54:01 +08:00",
+    "url": "https://twitter.com/Sora_desu_YWs",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5MDAyMzQ2NTE0OTA0MTA0OTc=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1509,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "佐伯湾泊地",
+            "media_count": 285,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false,
+            "bitcoin_handle": "bc1qaqm3hv8fjmd5vds3cxm2278s2h82yzewcj5m5v",
+            "ethereum_handle": "0x4114239FFA5994047EdF8A538EDFc90feD9d2E8d"
+        },
+        "twe_private_fields": {
+            "created_at": 1503467641000,
+            "updated_at": 1739589203159
+        }
+    }
 }

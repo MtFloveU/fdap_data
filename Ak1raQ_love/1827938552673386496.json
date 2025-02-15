@@ -5,14 +5,51 @@
     "description": "嘿嘿\n04.12.1/大龄mtf😭 同类互fo！/定位安徽巢湖（现处巢湖）/随缘旅行中（回归中），欢迎同类线下找我贴贴！/音游b/神椿箱推（主情、透）/百合！里百合！/24小时陪伴版，无论怎样都会陪伴着的大姐姐！",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1827941954279075840/zY2JnwY-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827938552673386496/1724650315",
-    "followers_count": 280,
-    "statuses_count": 479,
-    "favourites_count": 578,
+    "followers_count": 326,
+    "statuses_count": 541,
+    "favourites_count": 707,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-08-26 13:18:15 +08:00",
-    "url": "https://twitter.com/Linler_sa"
+    "url": "https://twitter.com/Linler_sa",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI3OTM4NTUyNjczMzg2NDk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 186,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 71,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1724649495000,
+            "updated_at": 1739589265461
+        }
+    }
 }

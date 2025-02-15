@@ -5,14 +5,55 @@
     "description": "✨爱喝小麦果汁✨和@TKNS_kanatsu是柏拉图恋爱",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1843125432352489472/PQwTMhh8_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196633399999389696/1722792727",
-    "followers_count": 44948,
-    "statuses_count": 4010,
-    "favourites_count": 11878,
-    "listed_count": 186,
+    "followers_count": 45874,
+    "statuses_count": 4018,
+    "favourites_count": 11906,
+    "listed_count": 188,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
     "created_at": "2019-11-19 11:36:57 +08:00",
-    "url": "https://twitter.com/cai233QAQ"
+    "url": "https://twitter.com/cai233QAQ",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTk2NjMzMzk5OTk5Mzg5Njk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1582,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Shibuya-ku, Tokyo",
+            "media_count": 266,
+            "pinned_tweet_ids_str": [
+                "1819596960892178485"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1574134617000,
+            "updated_at": 1739589296476
+        }
+    }
 }

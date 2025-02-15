@@ -3,16 +3,55 @@
     "screen_name": "Cynun75",
     "name": "Cynun",
     "description": "Cynun | 碎碎念 | 计算机用户",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1762544794117742592/ibUegizA_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1889986897759686656/qS6XIa1v_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751235517860196352/1715384753",
-    "followers_count": 572,
-    "statuses_count": 3367,
-    "favourites_count": 15190,
+    "followers_count": 593,
+    "statuses_count": 3634,
+    "favourites_count": 15775,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-01-27 21:27:55 +08:00",
-    "url": "https://twitter.com/Cynun75"
+    "url": "https://twitter.com/Cynun75",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzUxMjM1NTE3ODYwMTk2MzUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 668,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "@ringochichidim身旁",
+            "media_count": 371,
+            "pinned_tweet_ids_str": [
+                "1887750572708684007"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1706362075000,
+            "updated_at": 1739589272743
+        }
+    }
 }

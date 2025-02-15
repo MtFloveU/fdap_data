@@ -1,18 +1,69 @@
 {
-  "id": "1615986254344065024",
-  "screen_name": "navorjoyce25",
-  "name": "Joyce",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1634475538793259009/MbFf2XsE_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 347,
-  "statuses_count": 2,
-  "favourites_count": 29,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-01-19 16:15:32 +08:00",
-  "url": "https://twitter.com/navorjoyce25"
+    "id": "1615986254344065024",
+    "screen_name": "navorjoyce25",
+    "name": "Joyce",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1634475538793259009/MbFf2XsE_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 372,
+    "statuses_count": 2,
+    "favourites_count": 29,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-01-19 16:15:32 +08:00",
+    "url": "https://twitter.com/navorjoyce25",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjE1OTg2MjU0MzQ0MDY1MDI0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "freee-webcams.fun/girl/navorjoyc…",
+                            "expanded_url": "http://freee-webcams.fun/girl/navorjoyce25",
+                            "url": "https://t.co/XvEU6BS7hh",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3001,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Norfolk",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/XvEU6BS7hh",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1674116132000,
+            "updated_at": 1739589249659
+        }
+    }
 }

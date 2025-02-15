@@ -1,18 +1,57 @@
 {
-  "id": "1763814983224397824",
-  "screen_name": "lngl51929",
-  "name": "凌厲🏳️‍🌈🏳️‍⚧️💜💛🖤",
-  "description": "🏴🚩",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1764348354962796544/kLkAiB8X_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763814983224397824/1709362027",
-  "followers_count": 17,
-  "statuses_count": 97,
-  "favourites_count": 207,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-03-02 14:34:36 +08:00",
-  "url": "https://twitter.com/lngl51929"
+    "id": "1763814983224397824",
+    "screen_name": "lngl51929",
+    "name": "凌厲🏳️‍🌈🏳️‍⚧️💜💛🖤",
+    "description": "🏴🚩",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1764348354962796544/kLkAiB8X_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763814983224397824/1709362027",
+    "followers_count": 23,
+    "statuses_count": 107,
+    "favourites_count": 218,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-03-02 14:34:36 +08:00",
+    "url": "https://twitter.com/lngl51929",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzYzODE0OTgzMjI0Mzk3ODI0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 538,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Combined Syndicates of America",
+            "media_count": 2,
+            "pinned_tweet_ids_str": [
+                "1765426350192754916"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1709361276000,
+            "updated_at": 1739589220929
+        }
+    }
 }

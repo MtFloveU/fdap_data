@@ -5,14 +5,63 @@
     "description": "07年大学牲｜偶尔抽象｜来推特发癫｜日记推（阴湿之物）｜礼（窝）貌（囊）｜不关心政治｜我从不否认自己是傻逼｜互联网重度依赖\nhttps://t.co/jLUjmSEaHT提问箱",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1863409830171742208/hTjZ4qQl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862933126466666496/1733106559",
-    "followers_count": 519,
-    "statuses_count": 10992,
-    "favourites_count": 25337,
+    "followers_count": 550,
+    "statuses_count": 11530,
+    "favourites_count": 26835,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-12-01 02:54:15 +08:00",
-    "url": "https://twitter.com/moremoreagain"
+    "url": "https://twitter.com/moremoreagain",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODYyOTMzMTI2NDY2NjY2NDk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/moremoreagain",
+                            "expanded_url": "https://ngl.link/moremoreagain",
+                            "url": "https://t.co/jLUjmSEaHT",
+                            "indices": [
+                                62,
+                                85
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 604,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 305,
+            "pinned_tweet_ids_str": [
+                "1884931805645803882"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1732992855000,
+            "updated_at": 1739589257611
+        }
+    }
 }

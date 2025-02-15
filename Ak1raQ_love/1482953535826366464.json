@@ -1,18 +1,116 @@
 {
-  "id": "1482953535826366464",
-  "screen_name": "XIAXIAKT",
-  "name": "夏夏_ℳℯ𝓋𝒾𝓊𝓈🍥",
-  "description": "MTF🏳️‍⚧️ ｜04｜现居湖北武汉｜社恐｜同类互fo｜🍥HRT 2023/11/04｜只求更多的人能喜欢咱｜热爱计算机技术！梦想成为超pass的xyn和码农｜有喜欢的宝宝｜有事请私信｜我没有离开大家，只是一直一直在等那个人｜大概是日常推｜某不知名猫猫｜夏峰协会官方账号@MtFXIEPT",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1817380313687113728/RNCc3VTz_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482953535826366464/1721829373",
-  "followers_count": 2337,
-  "statuses_count": 26,
-  "favourites_count": 239,
-  "listed_count": 10,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2022-01-17 13:51:08 +08:00",
-  "url": "https://twitter.com/XIAXIAKT"
+    "id": "1482953535826366464",
+    "screen_name": "XIAXIAKT",
+    "name": "夏夏_ℳℯ𝓋𝒾𝓊𝓈🍥",
+    "description": "MTF🏳️‍⚧️ ｜04｜现居湖北武汉｜社恐｜同类互fo｜🍥HRT 2023/11/04｜只求更多的人能喜欢咱｜热爱计算机技术！梦想成为超pass的xyn和码农｜有喜欢的宝宝｜有事请私信｜我没有离开大家，只是一直一直在等那个人｜大概是日常推｜某不知名猫猫｜夏峰协会官方账号@MtFXIEPT",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1817380313687113728/RNCc3VTz_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482953535826366464/1721829373",
+    "followers_count": 2330,
+    "statuses_count": 27,
+    "favourites_count": 234,
+    "listed_count": 10,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-01-17 13:51:08 +08:00",
+    "url": "https://twitter.com/XIAXIAKT",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDgyOTUzNTM1ODI2MzY2NDY0",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @MtFXIEPT",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 22,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "MtFXIEPT",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "MtFXIEPT"
+                                        },
+                                        "rest_id": "1618209038113861632"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "wiolp.gaiya.gay",
+                            "expanded_url": "http://wiolp.gaiya.gay",
+                            "url": "https://t.co/ttPEwRAFT6",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4569,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "参宿四",
+            "media_count": 4,
+            "pinned_tweet_ids_str": [
+                "1818910036732637387"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/ttPEwRAFT6",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1602379700051279872",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 239,
+                    "name": "Tiki Bar",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "12gpPySDU1a9UJJLZmHmgZe6WMeQLTLC7f",
+            "ethereum_handle": "0x5cc169414635f289e3c2cb958fc78e5f44ff636e"
+        },
+        "twe_private_fields": {
+            "created_at": 1642398668000,
+            "updated_at": 1739589247181
+        }
+    }
 }

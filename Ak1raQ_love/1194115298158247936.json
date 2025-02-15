@@ -5,14 +5,55 @@
     "description": "努力学习/喜欢画画✍️/想成为温柔的魅魔/最爱的兔宝宝@miya051223/长发及腰的虚假魅魔😈/一緒懸命勉強している/魅魔になりたい/絵を描くことが大好きな/日本の愛知県に留学中",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881855451094245376/9VKbIYQP_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1194115298158247936/1737377004",
-    "followers_count": 1858,
-    "statuses_count": 7635,
-    "favourites_count": 28259,
+    "followers_count": 1862,
+    "statuses_count": 7653,
+    "favourites_count": 28320,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2019-11-12 12:51:11 +08:00",
-    "url": "https://twitter.com/yawarakai421"
+    "url": "https://twitter.com/yawarakai421",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTk0MTE1Mjk4MTU4MjQ3OTM2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2270,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "日本 愛知県岡崎市",
+            "media_count": 1321,
+            "pinned_tweet_ids_str": [
+                "1690035772634841089"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1573534271000,
+            "updated_at": 1739589277836
+        }
+    }
 }

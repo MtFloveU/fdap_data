@@ -1,18 +1,68 @@
 {
-  "id": "1775851282710122496",
-  "screen_name": "Vincy1230",
-  "name": "Vincy SHI 🍥",
-  "description": "如果都回不来那么我该为了谁而存在 | 推友寻回中 | 只给熟人看的情绪垃圾场 @BeforeDawnBreak | 坏蛋主人 @HzShibari86",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1861596813599608832/SPu60rTq_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775851282710122496/1712232777",
-  "followers_count": 938,
-  "statuses_count": 2145,
-  "favourites_count": 699,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": true,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2024-04-04 19:42:12 +08:00",
-  "url": "https://twitter.com/Vincy1230"
+    "id": "1775851282710122496",
+    "screen_name": "Vincy1230",
+    "name": "Vincy SHI 🍥",
+    "description": "如果都回不来那么我该为了谁而存在 | 推友寻回中 | 只给熟人看的情绪垃圾场 @BeforeDawnBreak | 坏蛋主人 @HzShibari86",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1861596813599608832/SPu60rTq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775851282710122496/1712232777",
+    "followers_count": 1082,
+    "statuses_count": 2568,
+    "favourites_count": 851,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2024-04-04 19:42:12 +08:00",
+    "url": "https://twitter.com/Vincy1230",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzc1ODUxMjgyNzEwMTIyNDk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 207,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Macau SAR / Beijing, P.R.China",
+            "media_count": 305,
+            "pinned_tweet_ids_str": [
+                "1868911562502947297"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1775878042721955876",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 986,
+                    "name": "Software Application",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1712230932000,
+            "updated_at": 1739589294389
+        }
+    }
 }

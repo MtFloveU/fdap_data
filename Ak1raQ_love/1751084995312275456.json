@@ -5,14 +5,78 @@
     "description": "君といる毎日は奇跡だよ                                                           友達！：@Reisa_Music     @Ludwig_von_Remi  对象：@Mikuloverr_  親愛的：@miku_suki393939  （新教徒谢谢喵",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1871583265565667328/a2_GEkoz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751084995312275456/1719296321",
-    "followers_count": 2086,
-    "statuses_count": 9081,
-    "favourites_count": 23652,
+    "followers_count": 2092,
+    "statuses_count": 9100,
+    "favourites_count": 23704,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-01-27 03:30:20 +00:00",
-    "url": "https://twitter.com/MikuMiku3648"
+    "created_at": "2024-01-27 11:30:20 +08:00",
+    "url": "https://twitter.com/MikuMiku3648",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzUxMDg0OTk1MzEyMjc1NDU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/mikumi…",
+                            "expanded_url": "https://bsky.app/profile/mikumiku3648.bsky.social",
+                            "url": "https://t.co/qSa8esaGUo",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1168,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "原来是生命，而非死亡，才是没有止境的",
+            "media_count": 1257,
+            "pinned_tweet_ids_str": [
+                "1880594421248630859"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/qSa8esaGUo",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1768825610363912600",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1037,
+                    "name": "Game Developer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1706326220000,
+            "updated_at": 1739589257611
+        }
+    }
 }

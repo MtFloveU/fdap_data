@@ -5,14 +5,69 @@
     "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（嘘～）｜唔～暂时就这些，很高兴认识你哦｜友人@_akitayura",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888969125638422529/OKy-cju9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700935161301655552/1739200416",
-    "followers_count": 414,
-    "statuses_count": 3498,
-    "favourites_count": 8686,
+    "followers_count": 417,
+    "statuses_count": 3531,
+    "favourites_count": 8851,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-09-10 18:12:06 +00:00",
-    "url": "https://twitter.com/qingshixiang258"
+    "created_at": "2023-09-11 02:12:06 +08:00",
+    "url": "https://twitter.com/qingshixiang258",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzAwOTM1MTYxMzAxNjU1NTUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                            "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                            "url": "https://t.co/YIQfZV5t3b",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 831,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "小于1km",
+            "media_count": 118,
+            "pinned_tweet_ids_str": [
+                "1866186558715678826"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/YIQfZV5t3b",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1694369526000,
+            "updated_at": 1739589267789
+        }
+    }
 }

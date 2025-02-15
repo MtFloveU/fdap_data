@@ -5,14 +5,53 @@
     "description": "当你看见这句话的时候我就知道你在看/希望自己能慢慢变优秀/04/mtf/非天赋党/可以和我交朋友吗/属性未知/不太想精神内耗/普通又理所当然",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864701514335571972/b1QNXH4G_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684900024596271104/1715842529",
-    "followers_count": 61,
-    "statuses_count": 148,
-    "favourites_count": 561,
+    "followers_count": 65,
+    "statuses_count": 152,
+    "favourites_count": 564,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-07-28 20:14:14 +08:00",
-    "url": "https://twitter.com/xx1xx9xx8xx8xx"
+    "url": "https://twitter.com/xx1xx9xx8xx8xx",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjg0OTAwMDI0NTk2MjcxMTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 137,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 4,
+            "pinned_tweet_ids_str": [
+                "1745545694239420897"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1690546454000,
+            "updated_at": 1739589195795
+        }
+    }
 }

@@ -1,18 +1,61 @@
 {
-  "id": "1427198883055165442",
-  "screen_name": "8TyjkJdFkli2vk0",
-  "name": "跪下，舔",
-  "description": "长春经验S主",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1456306702127865856/df5_ZMHf_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427198883055165442/1636045549",
-  "followers_count": 69,
-  "statuses_count": 515,
-  "favourites_count": 161659,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2021-08-16 17:21:56 +08:00",
-  "url": "https://twitter.com/8TyjkJdFkli2vk0"
+    "id": "1427198883055165442",
+    "screen_name": "8TyjkJdFkli2vk0",
+    "name": "跪下，舔",
+    "description": "长春经验S主",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1456306702127865856/df5_ZMHf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427198883055165442/1636045549",
+    "followers_count": 70,
+    "statuses_count": 514,
+    "favourites_count": 171069,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-08-16 17:21:56 +08:00",
+    "url": "https://twitter.com/8TyjkJdFkli2vk0",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDI3MTk4ODgzMDU1MTY1NDQy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2473,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 3,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1677549986027036672",
+            "professional_type": "Business",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1629105716000,
+            "updated_at": 1739589214059
+        }
+    }
 }

@@ -5,14 +5,69 @@
     "description": "100305 l 无证含糖Mtf🏳️‍⚧️ l hrt240115 l 天残早熟家暴党 l 177cm80kg l 崩壊:スターレイル | Arcaea | 双向警告 I 初三牲早6晚9一周6天",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887472259498975232/JU7lf6LT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1696374863894589440/1736938726",
-    "followers_count": 406,
-    "statuses_count": 652,
-    "favourites_count": 6980,
+    "followers_count": 427,
+    "statuses_count": 691,
+    "favourites_count": 7150,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-08-29 04:11:29 +00:00",
-    "url": "https://twitter.com/MilkSugar223"
+    "created_at": "2023-08-29 12:11:29 +08:00",
+    "url": "https://twitter.com/MilkSugar223",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjk2Mzc0ODYzODk0NTg5NDQw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/milksugar17165",
+                            "expanded_url": "https://ngl.link/milksugar17165",
+                            "url": "https://t.co/XGqBrdcNp6",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 155,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 81,
+            "pinned_tweet_ids_str": [
+                "1888580327716569467"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/XGqBrdcNp6",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1693282289000,
+            "updated_at": 1739589265460
+        }
+    }
 }

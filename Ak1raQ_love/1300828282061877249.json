@@ -5,14 +5,79 @@
     "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
-    "followers_count": 34316,
-    "statuses_count": 1974,
-    "favourites_count": 300,
-    "listed_count": 60,
+    "followers_count": 35763,
+    "statuses_count": 2173,
+    "favourites_count": 517,
+    "listed_count": 59,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2020-09-02 00:10:13 +08:00",
-    "url": "https://twitter.com/HANLIANYI331"
+    "url": "https://twitter.com/HANLIANYI331",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzAwODI4MjgyMDYxODc3MjQ5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/HANLIANYI331",
+                            "expanded_url": "http://t.me/HANLIANYI331",
+                            "url": "https://t.co/DPmfCokcD1",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "m.bilibili.com/audio/au3631341",
+                            "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                            "url": "https://t.co/LbtcvsOjLp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3579,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "涟漪危机干预小组",
+            "media_count": 301,
+            "pinned_tweet_ids_str": [
+                "1883897989900701855"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/LbtcvsOjLp",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1598976613000,
+            "updated_at": 1739589301194
+        }
+    }
 }

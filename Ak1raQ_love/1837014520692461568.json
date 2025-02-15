@@ -5,14 +5,51 @@
     "description": "指挥官？博士？开拓者？漂泊者？GTI干员？正是在下！",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1852721855750352896/Z6rw4xEl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837014520692461568/1730558443",
-    "followers_count": 207,
-    "statuses_count": 1506,
-    "favourites_count": 4143,
+    "followers_count": 216,
+    "statuses_count": 1595,
+    "favourites_count": 4449,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-09-20 06:23:00 +00:00",
-    "url": "https://twitter.com/KalTsit51699"
+    "created_at": "2024-09-20 14:23:00 +08:00",
+    "url": "https://twitter.com/KalTsit51699",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM3MDE0NTIwNjkyNDYxNTY4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 718,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "港区-皇家宿舍，柴郡喵的猫窝内",
+            "media_count": 288,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1726813380000,
+            "updated_at": 1739589262851
+        }
+    }
 }

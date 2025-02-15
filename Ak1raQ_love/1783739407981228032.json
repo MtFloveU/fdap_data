@@ -5,14 +5,64 @@
     "description": "一辆只会傻乐的破压路机，女装鬼火少年，自创教派ing，叛徒林彪孔老二都是坏东西，致敬JM，机箱里有蟒蛇，专门折腾破电动车/摩托车/违规三四轮车，江浙沪可约",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876292352194887680/TCnvWwy__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1783739407981228032/1735876624",
-    "followers_count": 274,
-    "statuses_count": 3836,
-    "favourites_count": 12011,
+    "followers_count": 275,
+    "statuses_count": 3843,
+    "favourites_count": 12069,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-04-26 06:06:38 +00:00",
-    "url": "https://twitter.com/MasahiroV2"
+    "created_at": "2024-04-26 14:06:38 +08:00",
+    "url": "https://twitter.com/MasahiroV2",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzgzNzM5NDA3OTgxMjI4MDMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 345,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距离沪国国界10km",
+            "media_count": 95,
+            "pinned_tweet_ids_str": [
+                "1887389514202816948"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1875486447068967336",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 132,
+                    "name": "Commercial & Industrial",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1714111598000,
+            "updated_at": 1739589270270
+        }
+    }
 }

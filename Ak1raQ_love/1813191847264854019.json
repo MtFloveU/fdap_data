@@ -5,14 +5,69 @@
     "description": "09年丨🏳️‍⚧️无糖可乐哦丨乐子人丨喜欢二游丨偶尔发疯丨不定期复活丨可能有负能量丨性别认知混乱丨3月27日的避难所@hhk1546562丨最可爱的宝宝@moremoreagain丨最好的姐姐@jinsenala丨很好的妈咪@qingshixiang258丨懒懒的芙芙厨@wuminzhe45",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886741785088811010/Pjlc-4bU_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813191847264854019/1738669367",
-    "followers_count": 210,
-    "statuses_count": 1684,
-    "favourites_count": 802,
-    "listed_count": 5,
+    "followers_count": 225,
+    "statuses_count": 1964,
+    "favourites_count": 990,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-16 20:40:39 +08:00",
-    "url": "https://twitter.com/hhngki7292924"
+    "url": "https://twitter.com/hhngki7292924",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODEzMTkxODQ3MjY0ODU0MDE5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/hhngki7262624",
+                            "expanded_url": "https://ngl.link/hhngki7262624",
+                            "url": "https://t.co/eTZfSf7jUs",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 387,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "圣洛夫基金会",
+            "media_count": 107,
+            "pinned_tweet_ids_str": [
+                "1887137651846770796"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/eTZfSf7jUs",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1721133639000,
+            "updated_at": 1739589262851
+        }
+    }
 }

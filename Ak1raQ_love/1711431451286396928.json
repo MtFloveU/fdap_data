@@ -6,13 +6,92 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881945398333603840/okbfYzmE_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711431451286396928/1730617163",
     "followers_count": 54,
-    "statuses_count": 1557,
-    "favourites_count": 6008,
+    "statuses_count": 1562,
+    "favourites_count": 6062,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-10-10 01:20:41 +08:00",
-    "url": "https://twitter.com/kagurazakachomi"
+    "url": "https://twitter.com/kagurazakachomi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzExNDMxNDUxMjg2Mzk2OTI4",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @President_Lei",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 27,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "President_Lei",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "UserUnavailable",
+                                        "reason": "Suspended",
+                                        "message": "User is suspended"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 74,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "上海市自来水厂",
+            "media_count": 275,
+            "pinned_tweet_ids_str": [
+                "1872734137263767723"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1778452449831104938",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 478,
+                    "name": "Advertising & Marketing Agency",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1696872041000,
+            "updated_at": 1739589267789
+        }
+    }
 }

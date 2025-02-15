@@ -5,14 +5,72 @@
     "description": "男 |08｜Arknights | 崩壊:スターレイル| Arcaea | MaimaiDX | Paradigm: Reboot | 東方Project | VOCALOID | Galgame |Like @yeziyu7777 or 小号@Waking_Shadows",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889910313207934976/O3by_sVw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1739419746",
-    "followers_count": 973,
-    "statuses_count": 11956,
-    "favourites_count": 22199,
+    "followers_count": 977,
+    "statuses_count": 12144,
+    "favourites_count": 22497,
     "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-03-18 12:37:55 +00:00",
-    "url": "https://twitter.com/LiuSuK_Arcaea"
+    "created_at": "2022-03-18 20:37:55 +08:00",
+    "url": "https://twitter.com/LiuSuK_Arcaea",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTA0Nzk5MjExNzk5MjY1Mjgy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/k94158",
+                            "expanded_url": "https://ngl.link/k94158",
+                            "url": "https://t.co/vFrWPupjta",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1111,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "▖▜▖▜▖▖▜▖▜",
+            "media_count": 629,
+            "pinned_tweet_ids_str": [
+                "1865970707970351307"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/vFrWPupjta",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1855542289902473364",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1647607075000,
+            "updated_at": 1739589262851
+        }
+    }
 }

@@ -1,18 +1,55 @@
 {
-  "id": "1824699081496649728",
-  "screen_name": "lat_me2die",
-  "name": "138亿年的红移",
-  "description": "大家嚎，这里是红移，一个17岁的蟈蝻高中生喵，希望可以和大家成为朋友，会爱每一个人🥺（不要离开我）║重抑重焦精神病一位║LGBTQ+友好║会OD/割手║左下的三个梦想：英雄纳雄耐尔，自由与世界和平║坚定的互fo主义者║🇺🇦🇵🇸反抗侵略是每个人的责任",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1837775488993095680/IgFOL1Yv_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824699081496649728/1726700625",
-  "followers_count": 145,
-  "statuses_count": 121,
-  "favourites_count": 319,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-08-17 14:46:00 +08:00",
-  "url": "https://twitter.com/lat_me2die"
+    "id": "1824699081496649728",
+    "screen_name": "lat_me2die",
+    "name": "138亿年的红移",
+    "description": "大家嚎，这里是红移，一个17岁的蟈蝻高中生喵，希望可以和大家成为朋友，会爱每一个人🥺（不要离开我）║重抑重焦精神病一位║LGBTQ+友好║会OD/割手║左下的三个梦想：英雄纳雄耐尔，自由与世界和平║坚定的互fo主义者║🇺🇦🇵🇸反抗侵略是每个人的责任",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1837775488993095680/IgFOL1Yv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824699081496649728/1726700625",
+    "followers_count": 142,
+    "statuses_count": 120,
+    "favourites_count": 318,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-08-17 14:46:00 +08:00",
+    "url": "https://twitter.com/lat_me2die",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI0Njk5MDgxNDk2NjQ5NzI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 137,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "深圳湾底",
+            "media_count": 5,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1723877160000,
+            "updated_at": 1739589285081
+        }
+    }
 }

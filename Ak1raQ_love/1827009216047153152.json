@@ -5,14 +5,63 @@
     "description": "苑猫猫在此♪\n中国人~是猫猫高中生/INFP/高三休学/ftx/微负能/键政哒咩/米游三坑玩家/粥粥博士/鸣潮漂泊者/想要学习cs/喵~欢迎互fo\n匿名提问:https://t.co/lO8rhcfepS\n头像一定会画完的喵!",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887440600540323840/W3jHuY0M_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827009216047153152/1735578810",
-    "followers_count": 252,
-    "statuses_count": 278,
-    "favourites_count": 2538,
+    "followers_count": 256,
+    "statuses_count": 282,
+    "favourites_count": 2616,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-08-23 15:45:39 +00:00",
-    "url": "https://twitter.com/yuan_wu33078"
+    "created_at": "2024-08-23 23:45:39 +08:00",
+    "url": "https://twitter.com/yuan_wu33078",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI3MDA5MjE2MDQ3MTUzMTUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/yuan_wu33078",
+                            "expanded_url": "https://ngl.link/yuan_wu33078",
+                            "url": "https://t.co/lO8rhcfepS",
+                            "indices": [
+                                79,
+                                102
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 401,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "往世乐土♪",
+            "media_count": 32,
+            "pinned_tweet_ids_str": [
+                "1885747950430917061"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1724427939000,
+            "updated_at": 1739589169406
+        }
+    }
 }

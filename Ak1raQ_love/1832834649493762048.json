@@ -3,16 +3,55 @@
     "screen_name": "1n_fhtagn",
     "name": "雪他妈的山葵",
     "description": "🥺",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1888254540035792896/qGIU5iwb_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1888600101402419200/Vnl1CWLh_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832834649493762048/1725977591",
-    "followers_count": 2860,
-    "statuses_count": 9825,
-    "favourites_count": 25311,
-    "listed_count": 5,
+    "followers_count": 2921,
+    "statuses_count": 10085,
+    "favourites_count": 25642,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-09 01:34:06 +08:00",
-    "url": "https://twitter.com/1n_fhtagn"
+    "url": "https://twitter.com/1n_fhtagn",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODMyODM0NjQ5NDkzNzYyMDQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1207,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Hong Kong",
+            "media_count": 2216,
+            "pinned_tweet_ids_str": [
+                "1888601125664051682"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1725816846000,
+            "updated_at": 1739589275107
+        }
+    }
 }

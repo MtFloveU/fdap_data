@@ -5,14 +5,67 @@
     "description": "♂️です/⚧️🏳️‍⚧️ friendly/最推し:🍀@shino_nome22\\🍫💪@chocolat_cos0\\🐇@rin_risu2\\🌸@angelia_lapin\\🐤@kc_2_cos/一番好きなVtuber:❤️🏴‍☠️@houshoumarine\\💜🪐@niboshi_cute",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1853491399666417664/UG1W76PL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444347089308184581/1730741760",
-    "followers_count": 1715,
-    "statuses_count": 18457,
-    "favourites_count": 15485,
+    "followers_count": 1726,
+    "statuses_count": 19074,
+    "favourites_count": 15975,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2021-10-03 01:02:52 +08:00",
-    "url": "https://twitter.com/HellKillerEX"
+    "url": "https://twitter.com/HellKillerEX",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDQ0MzQ3MDg5MzA4MTg0NTgx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/@AlphaWillys?s…",
+                            "expanded_url": "https://youtube.com/@AlphaWillys?si=cWwGmkZepQMO7fsK",
+                            "url": "https://t.co/gaynrNg14n",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 7499,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1225,
+            "pinned_tweet_ids_str": [
+                "1847219315176767521"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/gaynrNg14n",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1633194172000,
+            "updated_at": 1739589272743
+        }
+    }
 }

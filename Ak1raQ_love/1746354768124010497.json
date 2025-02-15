@@ -1,18 +1,57 @@
 {
-  "id": "1746354768124010497",
-  "screen_name": "Niko41402",
-  "name": "蛋黄派",
-  "description": "专注和简单。简单，可以比实现复杂的东西更难。你必须花很多力气去让你的思维变得简单、有条理",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1842547438202023936/2GCCbwzR_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746354768124010497/1707137497",
-  "followers_count": 20,
-  "statuses_count": 69,
-  "favourites_count": 1398,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-01-14 10:13:32 +08:00",
-  "url": "https://twitter.com/Niko41402"
+    "id": "1746354768124010497",
+    "screen_name": "Niko41402",
+    "name": "蛋黄派",
+    "description": "专注和简单。简单，可以比实现复杂的东西更难。你必须花很多力气去让你的思维变得简单、有条理",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1842547438202023936/2GCCbwzR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746354768124010497/1707137497",
+    "followers_count": 20,
+    "statuses_count": 72,
+    "favourites_count": 1415,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-01-14 10:13:32 +08:00",
+    "url": "https://twitter.com/Niko41402",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQ2MzU0NzY4MTI0MDEwNDk3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 654,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 9,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1705198412000,
+            "updated_at": 1739589212649
+        }
+    }
 }

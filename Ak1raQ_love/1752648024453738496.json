@@ -3,16 +3,71 @@
     "screen_name": "AnAnzonHH",
     "name": "「暗中坏坏」🍥 🔪",
     "description": "我不知道我丟失了個什麽東西，我傷心了很久，我哭了很久，然後我給忘了，只是我知道那個東西很重要。\n后来我才知道我的内心已经破碎，还有什么能拯救我支离破碎的我呢，原来我丢失的，是我自己",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1874775620129001472/51hEzyPQ_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1883533788782944256/xYEMjpWr_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752648024453738496/1732576442",
-    "followers_count": 3913,
-    "statuses_count": 2788,
-    "favourites_count": 76,
-    "listed_count": 11,
+    "followers_count": 4121,
+    "statuses_count": 3026,
+    "favourites_count": 174,
+    "listed_count": 13,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-01-31 19:01:10 +08:00",
-    "url": "https://twitter.com/AnAnzonHH"
+    "url": "https://twitter.com/AnAnzonHH",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzUyNjQ4MDI0NDUzNzM4NDk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "1989.64.com",
+                            "expanded_url": "http://1989.64.com",
+                            "url": "https://t.co/3D6ylYFOwn",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 458,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "手枪星 ",
+            "media_count": 642,
+            "pinned_tweet_ids_str": [
+                "1871444039914144179"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/3D6ylYFOwn",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1706698870000,
+            "updated_at": 1739589296475
+        }
+    }
 }

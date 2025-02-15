@@ -5,14 +5,67 @@
     "description": "🏳️‍⚧️ she/her |\nhrt: 21/8/2024 |\nmade with Copper and Tellurium |\nborn and raised in 🇭🇰, living in 🇦🇺|\nI play rhythm games|\ndiscord: stellawa_",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1642248924265324544/iHYEATDX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1373650271251820554/1642102001",
-    "followers_count": 817,
-    "statuses_count": 8977,
-    "favourites_count": 14086,
+    "followers_count": 838,
+    "statuses_count": 9064,
+    "favourites_count": 14253,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-03-21 22:58:47 +08:00",
-    "url": "https://twitter.com/CwuteMarikowo"
+    "url": "https://twitter.com/CwuteMarikowo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzczNjUwMjcxMjUxODIwNTU0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/channel/UCMZ0z…",
+                            "expanded_url": "https://www.youtube.com/channel/UCMZ0z7Gc34s9fL9FFZSiRkw",
+                            "url": "https://t.co/vWjqZO4Wwv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1430,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "in your heart",
+            "media_count": 935,
+            "pinned_tweet_ids_str": [
+                "1671574181467791360"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/vWjqZO4Wwv",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1616338727000,
+            "updated_at": 1739589257611
+        }
+    }
 }

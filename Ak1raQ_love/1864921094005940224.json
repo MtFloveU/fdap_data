@@ -5,14 +5,53 @@
     "description": "2代目帳號 | 原名：不稱職的二次元 | 頭像是本人 | 看不爽的就b，b我的也回b | 除了粉蛆和機器人號都會回fo滴 | 前世：@hotcat9269_2（840fo的號被封了）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885923533169328128/YHR7_E8o_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864921094005940224/1737382382",
-    "followers_count": 512,
-    "statuses_count": 923,
-    "favourites_count": 4105,
-    "listed_count": 2,
+    "followers_count": 571,
+    "statuses_count": 1151,
+    "favourites_count": 5702,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-12-06 14:33:47 +08:00",
-    "url": "https://twitter.com/hotcat9269_"
+    "url": "https://twitter.com/hotcat9269_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODY0OTIxMDk0MDA1OTQwMjI0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 630,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距離你-3cm",
+            "media_count": 122,
+            "pinned_tweet_ids_str": [
+                "1880596437421236332"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1733466827000,
+            "updated_at": 1739589262852
+        }
+    }
 }

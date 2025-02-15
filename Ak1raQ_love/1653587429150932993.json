@@ -1,18 +1,73 @@
 {
-  "id": "1653587429150932993",
-  "screen_name": "qibai05",
-  "name": "于飞飞",
-  "description": "168/50｜萝莉控（所以纳西妲是我老婆！）｜飞飞不是人机！说什么飞飞都会回的 哪怕是回一个句号｜算半个吃糖的！？｜三分之一？｜好迷茫不知道以后要怎么过｜有个很好的宝宝是床上的鸭鸭",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1653587985588183040/pUquZSJd_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653587429150932993/1715665049",
-  "followers_count": 134,
-  "statuses_count": 52,
-  "favourites_count": 16,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-05-03 10:29:16 +08:00",
-  "url": "https://twitter.com/qibai05"
+    "id": "1653587429150932993",
+    "screen_name": "qibai05",
+    "name": "于飞飞",
+    "description": "168/50｜萝莉控（所以纳西妲是我老婆！）｜飞飞不是人机！说什么飞飞都会回的 哪怕是回一个句号｜算半个吃糖的！？｜三分之一？｜好迷茫不知道以后要怎么过｜有个很好的宝宝是床上的鸭鸭",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1653587985588183040/pUquZSJd_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653587429150932993/1715665049",
+    "followers_count": 145,
+    "statuses_count": 57,
+    "favourites_count": 21,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-05-03 10:29:16 +08:00",
+    "url": "https://twitter.com/qibai05",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjUzNTg3NDI5MTUwOTMyOTkz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/profile.php?id…",
+                            "expanded_url": "https://www.facebook.com/profile.php?id=61559303656827",
+                            "url": "https://t.co/tAaTmBkXv5",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 19,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 16,
+            "pinned_tweet_ids_str": [
+                "1789609477009965435"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/tAaTmBkXv5",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1683080956000,
+            "updated_at": 1739589205528
+        }
+    }
 }

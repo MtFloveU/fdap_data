@@ -5,14 +5,66 @@
     "description": "去爱就是去找死",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879841950452600832/IkE84NA7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076084505901916161/1695276648",
-    "followers_count": 329,
-    "statuses_count": 203,
-    "favourites_count": 1183,
+    "followers_count": 336,
+    "statuses_count": 206,
+    "favourites_count": 1184,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2018-12-21 19:58:33 +08:00",
-    "url": "https://twitter.com/TszCoco"
+    "url": "https://twitter.com/TszCoco",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMDc2MDg0NTA1OTAxOTE2MTYx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 345,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 95,
+            "pinned_tweet_ids_str": [
+                "1713160771528696073"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1700519752719085766",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 659,
+                    "name": "Pediatrician",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1545393513000,
+            "updated_at": 1739589260496
+        }
+    }
 }

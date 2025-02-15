@@ -4,15 +4,68 @@
     "name": "MAY🍥",
     "description": "这里是主人～ℳℯ𝓋𝒾𝓊𝓈 @MeviuslX_Xl 的小女仆哦～｜最最最最爱的老公～@mengxintu 还有大主人～@mengx1ntu｜牢梅的妈咪～@miya051223｜欢迎同类互fo～｜提问箱⬇️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888604676813463552/fulvZXPZ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767041606295912448/1722997605",
-    "followers_count": 173,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767041606295912448/1739554683",
+    "followers_count": 175,
     "statuses_count": 82,
-    "favourites_count": 167,
+    "favourites_count": 170,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-03-11 12:15:35 +08:00",
-    "url": "https://twitter.com/Mevius01X"
+    "url": "https://twitter.com/Mevius01X",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY3MDQxNjA2Mjk1OTEyNDQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/MeviuslX_Xl843…",
+                            "expanded_url": "https://ngl.link/MeviuslX_Xl84305",
+                            "url": "https://t.co/uMGcMKODlm",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 111,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "ℳℯ𝓋𝒾𝓊𝓈的心里",
+            "media_count": 24,
+            "pinned_tweet_ids_str": [
+                "1888791886317736048"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/uMGcMKODlm",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1710130535000,
+            "updated_at": 1739589257611
+        }
+    }
 }

@@ -1,18 +1,57 @@
 {
-  "id": "1489291007867101184",
-  "screen_name": "H6p98c3qHmMfSaz",
-  "name": "玲子jkig",
-  "description": "我现在已经不做自己的梦了，有时候我觉得我是你。",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1859525346573549570/PdstgAdC_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489291007867101184/1731082471",
-  "followers_count": 23,
-  "statuses_count": 298,
-  "favourites_count": 106,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2022-02-04 01:33:53 +08:00",
-  "url": "https://twitter.com/H6p98c3qHmMfSaz"
+    "id": "1489291007867101184",
+    "screen_name": "H6p98c3qHmMfSaz",
+    "name": "玲子jkig",
+    "description": "我现在已经不做自己的梦了，有时候我觉得我是你。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1859525346573549570/PdstgAdC_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489291007867101184/1731082471",
+    "followers_count": 25,
+    "statuses_count": 298,
+    "favourites_count": 107,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-02-04 01:33:53 +08:00",
+    "url": "https://twitter.com/H6p98c3qHmMfSaz",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDg5MjkxMDA3ODY3MTAxMTg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 510,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 29,
+            "pinned_tweet_ids_str": [
+                "1857287210443428308"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1643909633000,
+            "updated_at": 1739589198293
+        }
+    }
 }

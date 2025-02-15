@@ -1,18 +1,55 @@
 {
-  "id": "1756256982510514176",
-  "screen_name": "GordonEliz9419",
-  "name": "3ᐝ🍥",
-  "description": "03/小药娘/无证含糖/政键勿扰/间歇性碎碎念ing/纯爱战士现已转纯恨/互关吖//////////",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1845069897996566532/krckl0HJ_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756256982510514176/1729287607",
-  "followers_count": 394,
-  "statuses_count": 51,
-  "favourites_count": 82,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-02-10 18:01:13 +08:00",
-  "url": "https://twitter.com/GordonEliz9419"
+    "id": "1756256982510514176",
+    "screen_name": "GordonEliz9419",
+    "name": "3ᐝ🍥",
+    "description": "03/小药娘/无证含糖/政键勿扰/间歇性碎碎念ing/纯爱战士现已转纯恨/互关吖//////////",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1845069897996566532/krckl0HJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756256982510514176/1729287607",
+    "followers_count": 464,
+    "statuses_count": 58,
+    "favourites_count": 85,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-02-10 18:01:13 +08:00",
+    "url": "https://twitter.com/GordonEliz9419",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU2MjU2OTgyNTEwNTE0MTc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 516,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": " Poteau",
+            "media_count": 11,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1707559273000,
+            "updated_at": 1739589270270
+        }
+    }
 }

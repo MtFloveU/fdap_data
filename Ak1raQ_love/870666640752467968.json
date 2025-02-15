@@ -5,14 +5,67 @@
     "description": "ENFP-T | 09 | 想交朋友 | 可爱的男孩纸 | 中(native) Eng(maybe fluent) 日(translator) | 关注即可互fo | 是(伪)技术宅 | 友跨 | 疑似 ADHD (未确诊) | 暂时还没想好写什么…",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1806317193900249089/wQlLShaE_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/870666640752467968/1692585714",
-    "followers_count": 776,
-    "statuses_count": 4915,
-    "favourites_count": 9557,
+    "followers_count": 797,
+    "statuses_count": 5102,
+    "favourites_count": 9816,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2017-06-02 23:41:18 +08:00",
-    "url": "https://twitter.com/belostedme"
+    "url": "https://twitter.com/belostedme",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo4NzA2NjY2NDA3NTI0Njc5Njg=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/belostedme",
+                            "expanded_url": "https://t.me/belostedme",
+                            "url": "https://t.co/QtxvUZrJd5",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2357,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "あまねく奇跡の始発点",
+            "media_count": 498,
+            "pinned_tweet_ids_str": [
+                "1839996964592857435"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/QtxvUZrJd5",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1496418078000,
+            "updated_at": 1739589277836
+        }
+    }
 }

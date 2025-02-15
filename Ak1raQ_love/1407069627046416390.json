@@ -3,16 +3,55 @@
     "screen_name": "Areter19",
     "name": "Areter（找工作版）",
     "description": "普普通通一男(?)的｜in my late 20s | 试着包容看到的世界｜NO Politics | MS BINF, BS Bio, BA Math | INFP-T 9w1 | 波士顿的小伙伴可以线下玩 | ymsf警察 | depression & anxiety｜“牵引我们黑暗的心” | 绝赞求职中｜是猫",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1577440377652580354/1uW7o2kY_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1880103349682352128/mYkK63j1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1407069627046416390/1664926107",
-    "followers_count": 264,
-    "statuses_count": 4299,
-    "favourites_count": 12086,
-    "listed_count": 0,
+    "followers_count": 303,
+    "statuses_count": 5024,
+    "favourites_count": 14634,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2021-06-22 04:15:41 +08:00",
-    "url": "https://twitter.com/Areter19"
+    "url": "https://twitter.com/Areter19",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDA3MDY5NjI3MDQ2NDE2Mzkw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 634,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "某个小房间",
+            "media_count": 464,
+            "pinned_tweet_ids_str": [
+                "1882171821883314187"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1624306541000,
+            "updated_at": 1739589190763
+        }
+    }
 }

@@ -5,14 +5,80 @@
     "description": "（羡慕党）|  无证含糖🍬 | HRT 24-4-24 ~ ? | 很少发帖 | 🏳️‍⚧️mtf | 随时鱼鱼蒸饭| 定居广东 | 05-11-15 | 超绝死宅假期不出门",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1854767911833096192/gShg1Y84_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705973929435873280/1695575754",
-    "followers_count": 211,
-    "statuses_count": 644,
-    "favourites_count": 1928,
+    "followers_count": 229,
+    "statuses_count": 683,
+    "favourites_count": 2088,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-09-24 23:54:26 +08:00",
-    "url": "https://twitter.com/JiuChiyl"
+    "url": "https://twitter.com/JiuChiyl",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzA1OTczOTI5NDM1ODczMjgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/+Se_7akOuhYwzY…",
+                            "expanded_url": "https://t.me/+Se_7akOuhYwzYzNl",
+                            "url": "https://t.co/SHSaUb7CGm",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 617,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "罗德岛",
+            "media_count": 116,
+            "pinned_tweet_ids_str": [
+                "1869286333371556100"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/SHSaUb7CGm",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1823059884847583652",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1019,
+                    "name": "UI Designer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1695570866000,
+            "updated_at": 1739589285081
+        }
+    }
 }

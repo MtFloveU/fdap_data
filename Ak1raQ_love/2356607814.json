@@ -1,18 +1,57 @@
 {
-  "id": "2356607814",
-  "screen_name": "IseulDawn",
-  "name": "Dawn Li 李晨婸 (She/Her/她)🏳️‍⚧️🏳️‍🌈🚩🌹🇵🇸🇺🇦",
-  "description": "Female♀|Trans🏳️‍⚧️|Bisexual🏳️‍🌈|TransFeminist跨女权主义⚧|Non-dogmatic Marxist泛马克思主义🚩🌹|Spiritual Universalist/Liberation Theology☯️☸️☽◯☾✝️☪️✡️|From 🇨🇳 |持证HRT",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1686596421284216832/NygcUSix_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2356607814/1682016713",
-  "followers_count": 858,
-  "statuses_count": 3963,
-  "favourites_count": 21917,
-  "listed_count": 3,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2014-02-23 00:43:15 +08:00",
-  "url": "https://twitter.com/IseulDawn"
+    "id": "2356607814",
+    "screen_name": "IseulDawn",
+    "name": "Dawn Li 李晨婸 (She/Her/她)🏳️‍⚧️🏳️‍🌈🚩🌹🇵🇸🇺🇦",
+    "description": "Female♀|Trans🏳️‍⚧️|Bisexual🏳️‍🌈|TransFeminist跨女权主义⚧|Non-dogmatic Marxist泛马克思主义🚩🌹|Spiritual Universalist/Liberation Theology☯️☸️☽◯☾✝️☪️✡️|From 🇨🇳 |持证HRT",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1686596421284216832/NygcUSix_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2356607814/1682016713",
+    "followers_count": 847,
+    "statuses_count": 3950,
+    "favourites_count": 21567,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2014-02-23 00:43:15 +08:00",
+    "url": "https://twitter.com/IseulDawn",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoyMzU2NjA3ODE0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 474,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "London, UK",
+            "media_count": 146,
+            "pinned_tweet_ids_str": [
+                "1825178576271872458"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1393087395000,
+            "updated_at": 1739589292073
+        }
+    }
 }

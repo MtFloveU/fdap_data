@@ -5,7 +5,7 @@
     "description": "杂鱼qwq|降低鉴证强度|出生于2008年|不介意与任何观点的推油友善交流|杠就是你对|淡推中|乐子人|中推第一猫娘|成分复杂|深柜mtx|拍车佬|minecraft|物理翻墙|坚信arch linux是世界上最好的操作系统｜咱好朋友!:@mizuki_bot 逃生舱:@aaazbushi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888954217781747712/AX57t6JO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804154448215969795/1724138803",
-    "followers_count": 252,
+    "followers_count": 253,
     "statuses_count": 1071,
     "favourites_count": 2421,
     "listed_count": 0,
@@ -13,6 +13,103 @@
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-06-21 14:08:50 +00:00",
-    "url": "https://twitter.com/bushi_233"
+    "created_at": "2024-06-21 22:08:50 +08:00",
+    "url": "https://twitter.com/bushi_233",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODA0MTU0NDQ4MjE1OTY5Nzk1",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @aaazbushi",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 23,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "aaazbushi",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "aaazbushi"
+                                        },
+                                        "rest_id": "1842810157417582592"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/bushi-…",
+                            "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
+                            "url": "https://t.co/eHYOCP1WJf",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 565,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "IP属地：璃月港",
+            "media_count": 97,
+            "pinned_tweet_ids_str": [
+                "1849612974287462759"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/eHYOCP1WJf",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1842818262603841753",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 530,
+                    "name": "Astrologist",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "3D5hhE38Zpv5kM8qyu5ZwHWkEJXADh59vS"
+        },
+        "twe_private_fields": {
+            "created_at": 1718978930000,
+            "updated_at": 1739589282809
+        }
+    }
 }

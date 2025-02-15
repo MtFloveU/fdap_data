@@ -1,18 +1,57 @@
 {
-  "id": "1729090153124376576",
-  "screen_name": "Sallyand99",
-  "name": "Sally和她家的美少女",
-  "description": "记录Sally和久九一起的日子和心情，目前用来分享日常 \n@sally7731478613 💖 @Ninetynie15279",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1866539665672769540/hFdkPKg-_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729090153124376576/1733852710",
-  "followers_count": 8443,
-  "statuses_count": 176,
-  "favourites_count": 410,
-  "listed_count": 25,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2023-11-27 18:50:02 +08:00",
-  "url": "https://twitter.com/Sallyand99"
+    "id": "1729090153124376576",
+    "screen_name": "Sallyand99",
+    "name": "Sally和她家的美少女",
+    "description": "记录Sally和久九一起的日子和心情，目前用来分享日常 \n@sally7731478613 💖 @Ninetynie15279",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1866539665672769540/hFdkPKg-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729090153124376576/1733852710",
+    "followers_count": 8740,
+    "statuses_count": 184,
+    "favourites_count": 411,
+    "listed_count": 24,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2023-11-27 18:50:02 +08:00",
+    "url": "https://twitter.com/Sallyand99",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzI5MDkwMTUzMTI0Mzc2NTc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 120,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "❤️",
+            "media_count": 57,
+            "pinned_tweet_ids_str": [
+                "1732194253156356588"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1701082202000,
+            "updated_at": 1739589301193
+        }
+    }
 }

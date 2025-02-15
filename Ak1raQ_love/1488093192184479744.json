@@ -5,14 +5,55 @@
     "description": "真实的活在自己的世界里，底层逻辑为不自杀，\n自发解离者，\n我们活着就是对恶意最大的反抗。\n对死亡不再感性，只求问心无愧，\n面基可找我，不怎么主动找人说话，但看到私信必回，",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1776504483616268288/SBgGOi44_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 604,
+    "followers_count": 605,
     "statuses_count": 634,
-    "favourites_count": 5477,
+    "favourites_count": 5459,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-01-31 18:14:08 +08:00",
-    "url": "https://twitter.com/ceg1632"
+    "url": "https://twitter.com/ceg1632",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDg4MDkzMTkyMTg0NDc5NzQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2576,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 148,
+            "pinned_tweet_ids_str": [
+                "1809513400755531897"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1643624048000,
+            "updated_at": 1739589236483
+        }
+    }
 }

@@ -1,18 +1,88 @@
 {
-  "id": "1778656100621152256",
-  "screen_name": "KagurazakaSusie",
-  "name": "神楽坂 蘇西🍥🏳️‍⚧️",
-  "description": "@Susiethegamer的赛博骨灰盒",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1837807280605233152/8kyTT6Xq_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778656100621152256/1727002386",
-  "followers_count": 178,
-  "statuses_count": 357,
-  "favourites_count": 1808,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-04-12 13:27:23 +08:00",
-  "url": "https://twitter.com/KagurazakaSusie"
+    "id": "1778656100621152256",
+    "screen_name": "KagurazakaSusie",
+    "name": "神楽坂 蘇西🍥🏳️‍⚧️",
+    "description": "@Susiethegamer的赛博骨灰盒",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1837807280605233152/8kyTT6Xq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778656100621152256/1727002386",
+    "followers_count": 174,
+    "statuses_count": 357,
+    "favourites_count": 1769,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-04-12 13:27:23 +08:00",
+    "url": "https://twitter.com/KagurazakaSusie",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzc4NjU2MTAwNjIxMTUyMjU2",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @JR_YamanoteE235",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "JR_YamanoteE235",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "JR_YamanoteE235"
+                                        },
+                                        "rest_id": "1688233455363219456"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 198,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Shinagawa-ku, Tokyo",
+            "media_count": 31,
+            "pinned_tweet_ids_str": [
+                "1838416439231021197"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1712899643000,
+            "updated_at": 1739589277836
+        }
+    }
 }

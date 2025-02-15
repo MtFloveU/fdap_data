@@ -5,14 +5,67 @@
     "description": "推友寻回中，最高学历是胎教，政治启蒙是《母猪的产后护理》，意识形态是欧码吉利曼波，二次元马警察，特雷森评论家，拜😹教教主  无特定立场 拒绝极民，对线不一定回 一些随笔（大概），主要搞抽象，傻了吧唧研究中心院长兼头号研究对象  Market anarchism 🏴三号机@demo53420 星怒@elonmusk",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881293885504421888/4ngbArzF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847901231920140294/1735890238",
-    "followers_count": 682,
-    "statuses_count": 5054,
-    "favourites_count": 31679,
+    "followers_count": 684,
+    "statuses_count": 5160,
+    "favourites_count": 32137,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-10-20 07:22:53 +00:00",
-    "url": "https://twitter.com/Aspirinpills534"
+    "created_at": "2024-10-20 15:22:53 +08:00",
+    "url": "https://twitter.com/Aspirinpills534",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQ3OTAxMjMxOTIwMTQwMjk0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "cnmmusknmsl.com",
+                            "expanded_url": "http://www.cnmmusknmsl.com",
+                            "url": "https://t.co/7yooNKFSz9",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 455,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "傻了吧唧研究中心",
+            "media_count": 655,
+            "pinned_tweet_ids_str": [
+                "1868148551097909408"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/7yooNKFSz9",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1729408973000,
+            "updated_at": 1739589265461
+        }
+    }
 }

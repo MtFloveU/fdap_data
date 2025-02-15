@@ -5,14 +5,74 @@
     "description": "是一只因为上辈子鉴证过多而被打入万丈深渊的可怜猫猫😿\n上帝说这一世我要好好做🐱为大家带来欢乐和愉悦喵\n大家的fo和私信都会回哒😘😘😘\n提问箱https://t.co/0pl5RlWtgl",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1840697876139450368/VDogEhXi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840696853324795905/1727692130",
-    "followers_count": 284,
-    "statuses_count": 467,
-    "favourites_count": 939,
+    "followers_count": 560,
+    "statuses_count": 779,
+    "favourites_count": 1432,
     "listed_count": 2,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-30 18:15:12 +08:00",
-    "url": "https://twitter.com/smartest8964"
+    "url": "https://twitter.com/smartest8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQwNjk2ODUzMzI0Nzk1OTA1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/smartest8964",
+                            "expanded_url": "https://ngl.link/smartest8964",
+                            "url": "https://t.co/0pl5RlWtgl",
+                            "indices": [
+                                70,
+                                93
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 208,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "打飞机",
+            "media_count": 275,
+            "pinned_tweet_ids_str": [
+                "1840704449330786644"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1888901850713502088",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1727691312000,
+            "updated_at": 1739589275107
+        }
+    }
 }

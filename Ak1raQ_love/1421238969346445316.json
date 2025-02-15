@@ -5,14 +5,55 @@
     "description": "私宅阴暗b isfp  重度精神病 精神状态不太稳定 od 自伤 雪兔 会发癫 泛性恋 成分复杂 可以做你的树洞噢   (全是负能量/介意慎入)   可以叫我天天！我很好说话 喜欢所有乖宝宝  欢迎互fo！ 球球你们找我玩吧🥺",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881935423548870656/foFkOjX6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1421238969346445316/1737523343",
-    "followers_count": 157,
-    "statuses_count": 502,
-    "favourites_count": 604,
-    "listed_count": 0,
+    "followers_count": 243,
+    "statuses_count": 625,
+    "favourites_count": 850,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-07-31 06:39:18 +08:00",
-    "url": "https://twitter.com/qianduzz"
+    "url": "https://twitter.com/qianduzz",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDIxMjM4OTY5MzQ2NDQ1MzE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 274,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 26,
+            "pinned_tweet_ids_str": [
+                "1888362184788623632"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1627684758000,
+            "updated_at": 1739589260496
+        }
+    }
 }

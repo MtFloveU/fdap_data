@@ -5,14 +5,51 @@
     "description": "骂我的折戟把酒诗出声，美蝶美暮美佳人😹😹😹",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1824574771281137668/Mwztkqe0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692055372318773250/1720311085",
-    "followers_count": 652,
-    "statuses_count": 4703,
-    "favourites_count": 54495,
-    "listed_count": 0,
+    "followers_count": 685,
+    "statuses_count": 5161,
+    "favourites_count": 58791,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-08-17 14:07:14 +08:00",
-    "url": "https://twitter.com/yjX1637538"
+    "url": "https://twitter.com/yjX1637538",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjkyMDU1MzcyMzE4NzczMjUw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 601,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距离0.1公里",
+            "media_count": 326,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1692252434000,
+            "updated_at": 1739589280337
+        }
+    }
 }

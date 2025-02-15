@@ -1,18 +1,56 @@
 {
-  "id": "889009407421366272",
-  "screen_name": "yapzhong5269",
-  "name": "yapzhong",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/919163740292919296/zDOCHpb2_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 6,
-  "statuses_count": 24,
-  "favourites_count": 579,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2017-07-23 14:28:54 +08:00",
-  "url": "https://twitter.com/yapzhong5269"
+    "id": "889009407421366272",
+    "screen_name": "yapzhong5269",
+    "name": "yapzhong",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/919163740292919296/zDOCHpb2_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 6,
+    "statuses_count": 25,
+    "favourites_count": 581,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2017-07-23 14:28:54 +08:00",
+    "url": "https://twitter.com/yapzhong5269",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo4ODkwMDk0MDc0MjEzNjYyNzI=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 596,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1500791334000,
+            "updated_at": 1739589241831
+        }
+    }
 }

@@ -6,13 +6,53 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884929141549805568/8VEkfZJJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764149440133447680/1738237437",
     "followers_count": 555,
-    "statuses_count": 4153,
-    "favourites_count": 23731,
+    "statuses_count": 4213,
+    "favourites_count": 23909,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-03-03 12:43:06 +08:00",
-    "url": "https://twitter.com/RinTka8964"
+    "url": "https://twitter.com/RinTka8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY0MTQ5NDQwMTMzNDQ3Njgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 174,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "世界革命的浪潮中",
+            "media_count": 278,
+            "pinned_tweet_ids_str": [
+                "1889632012769669370"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1709440986000,
+            "updated_at": 1739589277837
+        }
+    }
 }

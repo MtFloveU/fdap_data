@@ -5,14 +5,90 @@
     "description": "（我暂时不能关注更多用户。）Lead Programmer of S.E.T. Group. PG-13 (doing my best). Moved to https://t.co/UkziVSwyMv",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1797075151772884992/dlxmOZgI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1540024964979367937/1735203226",
-    "followers_count": 1477,
-    "statuses_count": 2951,
-    "favourites_count": 153293,
+    "followers_count": 1470,
+    "statuses_count": 2954,
+    "favourites_count": 153326,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-06-24 01:32:27 +08:00",
-    "url": "https://twitter.com/Sunset17089641"
+    "url": "https://twitter.com/Sunset17089641",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQwMDI0OTY0OTc5MzY3OTM3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/sunmkt…",
+                            "expanded_url": "https://bsky.app/profile/sunmkt.bsky.social",
+                            "url": "https://t.co/UkziVSwyMv",
+                            "indices": [
+                                79,
+                                102
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/sunmkt…",
+                            "expanded_url": "https://bsky.app/profile/sunmkt.bsky.social",
+                            "url": "https://t.co/UkziVSwyMv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 7470,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Japan",
+            "media_count": 76,
+            "pinned_tweet_ids_str": [
+                "1872204252875203062"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/UkziVSwyMv",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1757944002157129941",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1656005547000,
+            "updated_at": 1739589215956
+        }
+    }
 }

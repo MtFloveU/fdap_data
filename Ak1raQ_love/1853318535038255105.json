@@ -1,18 +1,55 @@
 {
-  "id": "1853318535038255105",
-  "screen_name": "YangYi79750",
-  "name": "想要睡觉的Kei",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1854637336933638144/tRThJmd5_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 2,
-  "statuses_count": 1,
-  "favourites_count": 25,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-11-04 14:09:24 +08:00",
-  "url": "https://twitter.com/YangYi79750"
+    "id": "1853318535038255105",
+    "screen_name": "YangYi79750",
+    "name": "想要睡觉的Kei",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1854637336933638144/tRThJmd5_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 2,
+    "statuses_count": 1,
+    "favourites_count": 26,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-11-04 14:09:24 +08:00",
+    "url": "https://twitter.com/YangYi79750",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODUzMzE4NTM1MDM4MjU1MTA1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 27,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1730700564000,
+            "updated_at": 1739589200571
+        }
+    }
 }

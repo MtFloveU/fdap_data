@@ -6,13 +6,84 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882441374316064768/wURe9UWT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759721938191110144/1736513807",
     "followers_count": 517,
-    "statuses_count": 848,
-    "favourites_count": 543,
+    "statuses_count": 849,
+    "favourites_count": 551,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-02-20 07:29:39 +08:00",
-    "url": "https://twitter.com/Aurora71310"
+    "url": "https://twitter.com/Aurora71310",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU5NzIxOTM4MTkxMTEwMTQ0",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Aurora102938475",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Aurora102938475",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Aurora102938475"
+                                        },
+                                        "rest_id": "1878816996013608960"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 583,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "北京",
+            "media_count": 47,
+            "pinned_tweet_ids_str": [
+                "1890365330150601116"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1708385379000,
+            "updated_at": 1739589257610
+        }
+    }
 }

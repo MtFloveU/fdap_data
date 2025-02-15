@@ -5,14 +5,53 @@
     "description": "发癫/od/轻度 游戏:SCPSL/MC/L4D2 文章类:SCP中分/后室Fandom系列",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1795801971318026241/26FLh4mB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795801888128139264/1724388488",
-    "followers_count": 119,
-    "statuses_count": 999,
+    "followers_count": 120,
+    "statuses_count": 1001,
     "favourites_count": 762,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-05-29 12:58:36 +00:00",
-    "url": "https://twitter.com/XuaEdward"
+    "created_at": "2024-05-29 20:58:36 +08:00",
+    "url": "https://twitter.com/XuaEdward",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk1ODAxODg4MTI4MTM5MjY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 540,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Zhejiang",
+            "media_count": 56,
+            "pinned_tweet_ids_str": [
+                "1866723453589655607"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1716987516000,
+            "updated_at": 1739589280337
+        }
+    }
 }

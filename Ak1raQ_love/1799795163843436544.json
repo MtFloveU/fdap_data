@@ -5,14 +5,55 @@
     "description": "=beeti犬or鼻涕狗/ASD+ADHD/我是生理女的/何も無い。。。喜欢乱关注人/中文 ENG ok! 日本語少し/ 病み垢多雜/不怎么运营可以随意关注、互fo大欢迎",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873573738257756160/iAWE5ly9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799795163843436544/1717940291",
-    "followers_count": 29,
-    "statuses_count": 261,
-    "favourites_count": 1717,
+    "followers_count": 30,
+    "statuses_count": 274,
+    "favourites_count": 1846,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-06-09 21:26:33 +08:00",
-    "url": "https://twitter.com/BEETIdogis11"
+    "url": "https://twitter.com/BEETIdogis11",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk5Nzk1MTYzODQzNDM2NTQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 446,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "≥999999km",
+            "media_count": 9,
+            "pinned_tweet_ids_str": [
+                "1876457834612965547"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1717939593000,
+            "updated_at": 1739589212649
+        }
+    }
 }

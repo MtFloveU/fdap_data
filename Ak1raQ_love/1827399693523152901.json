@@ -1,18 +1,76 @@
 {
-  "id": "1827399693523152901",
-  "screen_name": "kiming568416",
-  "name": "Reming",
-  "description": "An ordinary person who enjoys sharing their hobbies,Ilike public transportation，air part2:",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1865419808860454914/UOIOXIIu_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827399693523152901/1724811679",
-  "followers_count": 432,
-  "statuses_count": 723,
-  "favourites_count": 4813,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-08-25 01:37:01 +08:00",
-  "url": "https://twitter.com/kiming568416"
+    "id": "1827399693523152901",
+    "screen_name": "kiming568416",
+    "name": "Reming",
+    "description": "An ordinary person who enjoys sharing their hobbies,Ilike public transportation，air part2:",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1876649959937945600/A0GToOKa_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827399693523152901/1724811679",
+    "followers_count": 444,
+    "statuses_count": 941,
+    "favourites_count": 6452,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-08-25 01:37:01 +08:00",
+    "url": "https://twitter.com/kiming568416",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI3Mzk5NjkzNTIzMTUyOTAx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "404unkonw.com",
+                            "expanded_url": "http://404unkonw.com",
+                            "url": "https://t.co/qB3tmbeYdM",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1700,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 209,
+            "pinned_tweet_ids_str": [
+                "1853412569953747049"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/qB3tmbeYdM",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1829348732628050161",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1724521021000,
+            "updated_at": 1739589272743
+        }
+    }
 }

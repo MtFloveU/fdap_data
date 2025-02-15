@@ -3,16 +3,82 @@
     "screen_name": "hatsuyuki_suki",
     "name": "初雪🏳️‍⚧️in 冷凍庫 | 書道練習生 | HRT重啟進行時",
     "description": "💬记得和过去说再见 ❄️07低糖MtF，INFP 🔥变身酷姐帅爆大家 🌌大概是日常推 💫爱人@Letisin75 🐾 貼地爬行的陰暗b 🐱本體兔猻 半死不活  ☕關注初雪謝謝喵 🩷我一直都會陪著大家",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1872531971106279424/cSrrHRok_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557353901044555776/1736917310",
-    "followers_count": 876,
-    "statuses_count": 9599,
-    "favourites_count": 25924,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1888175684503445504/p10C1d3X_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557353901044555776/1739016552",
+    "followers_count": 894,
+    "statuses_count": 9725,
+    "favourites_count": 26035,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-08-10 21:11:29 +08:00",
-    "url": "https://twitter.com/hatsuyuki_suki"
+    "url": "https://twitter.com/hatsuyuki_suki",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTU3MzUzOTAxMDQ0NTU1Nzc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "elysium.fandom.com/zh",
+                            "expanded_url": "https://elysium.fandom.com/zh",
+                            "url": "https://t.co/Fu6MCIVzye",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1296,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "No Such BAR “不在这吧”",
+            "media_count": 613,
+            "pinned_tweet_ids_str": [
+                "1885976619929739551"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/Fu6MCIVzye",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1875567556721045828",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1092,
+                    "name": "Game Designer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1660137089000,
+            "updated_at": 1739589267789
+        }
+    }
 }

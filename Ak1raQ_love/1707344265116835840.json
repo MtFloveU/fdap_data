@@ -1,18 +1,58 @@
 {
-  "id": "1707344265116835840",
-  "screen_name": "littlefishpie",
-  "name": "っうヴェ✨",
-  "description": "Everything but conventional.",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1849425981179871232/RsfjlCoZ_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707344265116835840/1729772507",
-  "followers_count": 113,
-  "statuses_count": 0,
-  "favourites_count": 6,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-09-28 18:39:42 +08:00",
-  "url": "https://twitter.com/littlefishpie"
+    "id": "1707344265116835840",
+    "screen_name": "littlefishpie",
+    "name": "っうヴェ✨",
+    "description": "Everything but conventional.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1849425981179871232/RsfjlCoZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707344265116835840/1729772507",
+    "followers_count": 159,
+    "statuses_count": 0,
+    "favourites_count": 6,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-09-28 18:39:42 +08:00",
+    "url": "https://twitter.com/littlefishpie",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzA3MzQ0MjY1MTE2ODM1ODQw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4814,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "空の領域",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1695897582000,
+            "updated_at": 1739589239229
+        }
+    }
 }

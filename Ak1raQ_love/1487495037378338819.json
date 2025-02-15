@@ -5,14 +5,80 @@
     "description": "维罗纳的夏天找不到这样一朵好花。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885176938593214464/Ga3X5RxA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487495037378338819/1738296829",
-    "followers_count": 179,
-    "statuses_count": 155,
-    "favourites_count": 70,
+    "followers_count": 253,
+    "statuses_count": 204,
+    "favourites_count": 91,
     "listed_count": 0,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2022-01-30 02:37:08 +08:00",
-    "url": "https://twitter.com/aobachann"
+    "url": "https://twitter.com/aobachann",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDg3NDk1MDM3Mzc4MzM4ODE5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "skr.moe",
+                            "expanded_url": "https://skr.moe",
+                            "url": "https://t.co/cXBM9x6RAS",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 818,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "你的心裡💕",
+            "media_count": 17,
+            "pinned_tweet_ids_str": [
+                "1875103480035397882"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/cXBM9x6RAS",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1875065475090264201",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1643481428000,
+            "updated_at": 1739589262851
+        }
+    }
 }

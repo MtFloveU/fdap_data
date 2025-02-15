@@ -3,16 +3,64 @@
     "screen_name": "Inhara_Akime",
     "name": "温原アキメ🍥🫖",
     "description": "その時僕は、僕を忘れてほしいのです",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1885264863385313283/jf6LodvH_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890046964836061184/8RoJz3P7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680834021377593344/1735933697",
-    "followers_count": 1851,
-    "statuses_count": 20856,
-    "favourites_count": 62645,
-    "listed_count": 13,
+    "followers_count": 2024,
+    "statuses_count": 21707,
+    "favourites_count": 66491,
+    "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-07-17 14:57:26 +08:00",
-    "url": "https://twitter.com/Inhara_Akime"
+    "url": "https://twitter.com/Inhara_Akime",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjgwODM0MDIxMzc3NTkzMzQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 938,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "土星",
+            "media_count": 3599,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1728445304196976876",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 93,
+                    "name": "Aviation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1689577046000,
+            "updated_at": 1739589272743
+        }
+    }
 }

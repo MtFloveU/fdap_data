@@ -5,14 +5,80 @@
     "description": "07｜互fo｜焦慮｜アークナイツ& ブルーアーカイブ垢｜里推：@sidoux682｜男朋友： @QianliFrost",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873020186095501312/DzLhY3jJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500818219493322754/1736941313",
-    "followers_count": 833,
-    "statuses_count": 7429,
-    "favourites_count": 27103,
-    "listed_count": 3,
+    "followers_count": 834,
+    "statuses_count": 7563,
+    "favourites_count": 27239,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-03-07 21:07:20 +08:00",
-    "url": "https://twitter.com/eee_bree"
+    "url": "https://twitter.com/eee_bree",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTAwODE4MjE5NDkzMzIyNzU0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtu.be/eP4eqhWc7sI?si…",
+                            "expanded_url": "https://youtu.be/eP4eqhWc7sI?si=EbQV-SR0Y4KcJajK",
+                            "url": "https://t.co/SkYBy9eCvG",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 748,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Endfield",
+            "media_count": 673,
+            "pinned_tweet_ids_str": [
+                "1881015411346686155"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/SkYBy9eCvG",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1842405675886162349",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 618,
+                    "name": "Speech Pathologist",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1646658440000,
+            "updated_at": 1739589292073
+        }
+    }
 }

@@ -1,18 +1,82 @@
 {
-  "id": "1736364540722589696",
-  "screen_name": "JuneSinary",
-  "name": "June Sinary(^v^)🏳️‍⚧️🦊🌈🏳️‍⚧️🏳️‍🌈",
-  "description": "苍天给了我一条光秃秃的生路，却并没给我一粒走完这条生路需要的干粮",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1862691606245048320/Calc0VsY_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736364540722589696/1718638902",
-  "followers_count": 95,
-  "statuses_count": 1350,
-  "favourites_count": 928,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-12-17 20:35:57 +08:00",
-  "url": "https://twitter.com/JuneSinary"
+    "id": "1736364540722589696",
+    "screen_name": "JuneSinary",
+    "name": "June Sinary(^v^)🏳️‍⚧️🦊🌈🏳️‍⚧️🏳️‍🌈",
+    "description": "苍天给了我一条光秃秃的生路，却并没给我一粒走完这条生路需要的干粮",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1862691606245048320/Calc0VsY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736364540722589696/1718638902",
+    "followers_count": 125,
+    "statuses_count": 1759,
+    "favourites_count": 1130,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-12-17 20:35:57 +08:00",
+    "url": "https://twitter.com/JuneSinary",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzM2MzY0NTQwNzIyNTg5Njk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/junesinary_gma…",
+                            "expanded_url": "https://t.me/junesinary_gmail_com",
+                            "url": "https://t.co/MkqyLPKhdB",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 298,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 172,
+            "pinned_tweet_ids_str": [
+                "1885672940731297953"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/MkqyLPKhdB",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1740781920026533920",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 983,
+                    "name": "Technology-Security Company",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1702816557000,
+            "updated_at": 1739589210635
+        }
+    }
 }

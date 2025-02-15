@@ -1,18 +1,57 @@
 {
-  "id": "1733491347431321600",
-  "screen_name": "AlphaOrionis09",
-  "name": "Akari",
-  "description": "⚜️幽霊＆ﾃﾝｼ｜ＳＮＳノ詩人。",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1867493725351686145/mrgfkn29_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733491347431321600/1732026659",
-  "followers_count": 1167,
-  "statuses_count": 8199,
-  "favourites_count": 15990,
-  "listed_count": 4,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-12-09 22:18:47 +08:00",
-  "url": "https://twitter.com/AlphaOrionis09"
+    "id": "1733491347431321600",
+    "screen_name": "AlphaOrionis09",
+    "name": "Akari",
+    "description": "⚜️幽霊＆ﾃﾝｼ｜ＳＮＳノ詩人。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1867493725351686145/mrgfkn29_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733491347431321600/1732026659",
+    "followers_count": 1147,
+    "statuses_count": 7897,
+    "favourites_count": 15822,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-12-09 22:18:47 +08:00",
+    "url": "https://twitter.com/AlphaOrionis09",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzMzNDkxMzQ3NDMxMzIxNjAw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 703,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "无线电波",
+            "media_count": 599,
+            "pinned_tweet_ids_str": [
+                "1850896106701595124"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1702131527000,
+            "updated_at": 1739589301192
+        }
+    }
 }

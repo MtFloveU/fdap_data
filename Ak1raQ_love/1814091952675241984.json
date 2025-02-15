@@ -1,18 +1,73 @@
 {
-  "id": "1814091952675241984",
-  "screen_name": "mikufans39397",
-  "name": "ne ne da yo",
-  "description": "06小女孩 可以叫我柚子/宁宁丨Mikufans丨intp 泛性恋丨双相丨jpop吃丨术批丨galgame丨车万｜后朋克｜不键政 喜欢猫猫｜ 日常推 欢迎互fo呀",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1866105834331340801/cgOdoGRE_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814091952675241984/1721448635",
-  "followers_count": 982,
-  "statuses_count": 799,
-  "favourites_count": 3760,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-07-19 08:16:53 +08:00",
-  "url": "https://twitter.com/mikufans39397"
+    "id": "1814091952675241984",
+    "screen_name": "mikufans39397",
+    "name": "ne ne da yo",
+    "description": "06小女孩 可以叫我柚子/宁宁丨Mikufans丨intp 泛性恋丨双相丨jpop吃丨术批丨galgame丨车万｜后朋克｜不键政 喜欢猫猫｜ 日常推 欢迎互fo呀",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1866105834331340801/cgOdoGRE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814091952675241984/1721448635",
+    "followers_count": 970,
+    "statuses_count": 875,
+    "favourites_count": 4103,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-07-19 08:16:53 +08:00",
+    "url": "https://twitter.com/mikufans39397",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE0MDkxOTUyNjc1MjQxOTg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/nenedayo/",
+                            "expanded_url": "https://ngl.link/nenedayo/",
+                            "url": "https://t.co/X0EpsMzOpE",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1143,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距你3.9m",
+            "media_count": 67,
+            "pinned_tweet_ids_str": [
+                "1845846553216626725"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/X0EpsMzOpE",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1721348213000,
+            "updated_at": 1739589270270
+        }
+    }
 }

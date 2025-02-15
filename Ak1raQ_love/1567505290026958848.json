@@ -3,16 +3,71 @@
     "screen_name": "woshiami",
     "name": "阿mi",
     "description": "客服小祥,随时待命！",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1873008320698826756/gHpW8XqF_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1887872470319022080/E1KjNWh5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567505290026958848/1738236147",
-    "followers_count": 1548,
-    "statuses_count": 4206,
-    "favourites_count": 56787,
+    "followers_count": 1737,
+    "statuses_count": 4525,
+    "favourites_count": 60017,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-09-07 21:29:57 +08:00",
-    "url": "https://twitter.com/woshiami"
+    "url": "https://twitter.com/woshiami",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTY3NTA1MjkwMDI2OTU4ODQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/woshiami",
+                            "expanded_url": "https://ngl.link/woshiami",
+                            "url": "https://t.co/5BLeIu7ql7",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1942,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距您2.8km",
+            "media_count": 784,
+            "pinned_tweet_ids_str": [
+                "1876099002103746722"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/5BLeIu7ql7",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1662557397000,
+            "updated_at": 1739589287485
+        }
+    }
 }

@@ -1,18 +1,58 @@
 {
-  "id": "1842339205495631872",
-  "screen_name": "Bocchi0221520",
-  "name": "一裡",
-  "description": "@Bocchi520_的裡推\n@yangaaa111 愛人\n不涉政，碎碎念\n不是黃推，友善的人多來\n喜歡友善的人",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1851215743985348608/FVkCJlfu_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 55,
-  "statuses_count": 2065,
-  "favourites_count": 4229,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-10-05 07:01:22 +08:00",
-  "url": "https://twitter.com/Bocchi0221520"
+    "id": "1842339205495631872",
+    "screen_name": "Bocchi0221520",
+    "name": "一裡",
+    "description": "@Bocchi520_的裡推\n@yangaaa111 愛人\n不涉政，碎碎念\n不是黃推，友善的人多來\n喜歡友善的人",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1851215743985348608/FVkCJlfu_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 56,
+    "statuses_count": 2142,
+    "favourites_count": 3728,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-10-05 07:01:22 +08:00",
+    "url": "https://twitter.com/Bocchi0221520",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQyMzM5MjA1NDk1NjMxODcy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 64,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "睡覺了就犯病，有人了就心慌",
+            "media_count": 38,
+            "pinned_tweet_ids_str": [
+                "1846904280181326082"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1728082882000,
+            "updated_at": 1739589275107
+        }
+    }
 }

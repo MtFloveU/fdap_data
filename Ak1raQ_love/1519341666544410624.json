@@ -5,14 +5,66 @@
     "description": "INFJ-A大学生一枚\nCS2菜鸡\n热爱祖国，热爱人民，热爱中国共产党，台湾是中华人民共和国的一部分！\n全世界无产者，联合起来！\nProletarians of the world, unite!",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1743606264419278848/gOa5hytZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519341666544410624/1670736970",
-    "followers_count": 516,
-    "statuses_count": 1126,
-    "favourites_count": 3527,
+    "followers_count": 512,
+    "statuses_count": 1135,
+    "favourites_count": 3520,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-04-27 23:44:46 +08:00",
-    "url": "https://twitter.com/LeoLi74434336"
+    "url": "https://twitter.com/LeoLi74434336",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTE5MzQxNjY2NTQ0NDEwNjI0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1621,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "中华人民共和国🇨🇳·北京",
+            "media_count": 100,
+            "pinned_tweet_ids_str": [
+                "1576628722165198848"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1616094659276869633",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 150,
+                    "name": "College & University",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1651074286000,
+            "updated_at": 1739589236483
+        }
+    }
 }

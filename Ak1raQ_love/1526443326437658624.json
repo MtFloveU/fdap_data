@@ -5,14 +5,53 @@
     "description": "🏳️‍⚧️mtf‖长沙‖免费提供医学咨询‖@miku_tofacegirl",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1786328982616678400/D_ZflZsF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526443326437658624/1714728995",
-    "followers_count": 1457,
-    "statuses_count": 12554,
-    "favourites_count": 4444,
+    "followers_count": 1459,
+    "statuses_count": 12767,
+    "favourites_count": 4443,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-05-17 14:04:14 +08:00",
-    "url": "https://twitter.com/thanks9874"
+    "url": "https://twitter.com/thanks9874",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTI2NDQzMzI2NDM3NjU4NjI0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 377,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "NGC 2237",
+            "media_count": 661,
+            "pinned_tweet_ids_str": [
+                "1830663056109773108"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1652767454000,
+            "updated_at": 1739589301192
+        }
+    }
 }

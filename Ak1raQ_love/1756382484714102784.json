@@ -1,18 +1,55 @@
 {
-  "id": "1756382484714102784",
-  "screen_name": "Crazy_Juziilk",
-  "name": "橘子。",
-  "description": "我知这世界本如露水般短暂。然而，然而。/姐姐：@ringochichidim",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1786006843468468224/iaOCcpYp_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756382484714102784/1707836021",
-  "followers_count": 552,
-  "statuses_count": 1401,
-  "favourites_count": 6054,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-02-11 02:20:00 +08:00",
-  "url": "https://twitter.com/Crazy_Juziilk"
+    "id": "1756382484714102784",
+    "screen_name": "Crazy_Juziilk",
+    "name": "橘子。",
+    "description": "我知这世界本如露水般短暂。然而，然而。/姐姐：@ringochichidim",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1786006843468468224/iaOCcpYp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756382484714102784/1707836021",
+    "followers_count": 573,
+    "statuses_count": 1464,
+    "favourites_count": 6065,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-02-11 02:20:00 +08:00",
+    "url": "https://twitter.com/Crazy_Juziilk",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU2MzgyNDg0NzE0MTAyNzg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 535,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Kyoto-shi Nakagyo, Kyoto",
+            "media_count": 154,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1707589200000,
+            "updated_at": 1739589296476
+        }
+    }
 }

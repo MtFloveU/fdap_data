@@ -5,14 +5,54 @@
     "description": "斯毛派，极左上，前保党救国改良派，现已对中共彻底失望。民族共产主义/威权主义/人类中心主义/极端生产主义/暴力革命/LGBT平权/讨厌进步b/好战分子。阶级斗争要年年讲月月讲日日讲，一切触及不到阶级的所谓革命必然失败，反自反修，反右，反支黑，反安匪，反逆民，谢绝左派幼稚病与纯文化左翼，反以反美反北约。有意见可以拉黑",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1880637409228099584/Vih7m0sQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797808410433560576/1733924781",
-    "followers_count": 370,
-    "statuses_count": 5204,
-    "favourites_count": 14944,
+    "followers_count": 378,
+    "statuses_count": 5493,
+    "favourites_count": 15778,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-06-04 09:52:47 +08:00",
-    "url": "https://twitter.com/Lilisideyeye"
+    "url": "https://twitter.com/Lilisideyeye",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk3ODA4NDEwNDMzNTYwNTc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 891,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "秦城监狱",
+            "media_count": 335,
+            "pinned_tweet_ids_str": [
+                "1832480062320603604"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1717465967000,
+            "updated_at": 1739589229033
+        }
+    }
 }

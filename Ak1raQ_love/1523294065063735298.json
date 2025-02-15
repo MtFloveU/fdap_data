@@ -5,14 +5,64 @@
     "description": "关注莲莲喵～关注莲莲谢谢喵～",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882883539441438720/ruYuAXTw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1523294065063735298/1732395025",
-    "followers_count": 3463,
-    "statuses_count": 2981,
-    "favourites_count": 44438,
+    "followers_count": 3458,
+    "statuses_count": 3004,
+    "favourites_count": 44687,
     "listed_count": 13,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-05-08 21:29:58 +08:00",
-    "url": "https://twitter.com/Daryl336"
+    "url": "https://twitter.com/Daryl336",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTIzMjk0MDY1MDYzNzM1Mjk4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2715,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "二次元世界",
+            "media_count": 480,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1523295420801200129",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1652016598000,
+            "updated_at": 1739589280337
+        }
+    }
 }

@@ -5,14 +5,60 @@
     "description": "初三牲/maimai/鸣潮/喵斯/phigros/cytoid",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885390474627997698/yRuGD_yc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676228046247038976/1738846204",
-    "followers_count": 235,
-    "statuses_count": 2513,
-    "favourites_count": 6800,
+    "followers_count": 259,
+    "statuses_count": 2894,
+    "favourites_count": 7495,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-07-04 21:55:00 +08:00",
-    "url": "https://twitter.com/1ka16103257"
+    "url": "https://twitter.com/1ka16103257",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjc2MjI4MDQ2MjQ3MDM4OTc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 482,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Internet",
+            "media_count": 98,
+            "pinned_tweet_ids_str": [
+                "1887566455723729026"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1685236997449801729",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1688478900000,
+            "updated_at": 1739589260496
+        }
+    }
 }

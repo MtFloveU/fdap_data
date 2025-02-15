@@ -1,18 +1,68 @@
 {
-  "id": "1461262194717630465",
-  "screen_name": "kiss_xoxokiss",
-  "name": "𝐊𝐢𝐬𝐬𝐊𝐢𝐬𝐬𝐊𝐢𝐬𝐬",
-  "description": "𝐐𝐮𝐢𝐞𝐭 𝐲𝐨𝐮𝐫 𝐧𝐨𝐢𝐬𝐲 𝐦𝐨𝐮𝐭𝐡 𝐰𝐢𝐭𝐡 𝐚 𝐤𝐢𝐬𝐬.  https://t.co/pMHsrtMO5Z",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1461262796981964800/WAVhI8V9_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461262194717630465/1637227258",
-  "followers_count": 180273,
-  "statuses_count": 1201,
-  "favourites_count": 4,
-  "listed_count": 527,
-  "verified_type": null,
-  "is_blue_verified": true,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2021-11-18 17:17:21 +08:00",
-  "url": "https://twitter.com/kiss_xoxokiss"
+    "id": "1461262194717630465",
+    "screen_name": "kiss_xoxokiss",
+    "name": "𝐊𝐢𝐬𝐬𝐊𝐢𝐬𝐬𝐊𝐢𝐬𝐬",
+    "description": "𝐐𝐮𝐢𝐞𝐭 𝐲𝐨𝐮𝐫 𝐧𝐨𝐢𝐬𝐲 𝐦𝐨𝐮𝐭𝐡 𝐰𝐢𝐭𝐡 𝐚 𝐤𝐢𝐬𝐬.  https://t.co/pMHsrtMO5Z",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1461262796981964800/WAVhI8V9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461262194717630465/1637227258",
+    "followers_count": 189750,
+    "statuses_count": 1240,
+    "favourites_count": 4,
+    "listed_count": 549,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2021-11-18 17:17:21 +08:00",
+    "url": "https://twitter.com/kiss_xoxokiss",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDYxMjYyMTk0NzE3NjMwNDY1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "youtu.be/7Y04RsUALyA",
+                            "expanded_url": "https://youtu.be/7Y04RsUALyA",
+                            "url": "https://t.co/pMHsrtMO5Z",
+                            "indices": [
+                                37,
+                                60
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 0,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1238,
+            "pinned_tweet_ids_str": [
+                "1818690060294013089"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "super_follow_eligible": true,
+        "twe_private_fields": {
+            "created_at": 1637227041000,
+            "updated_at": 1739589294389
+        }
+    }
 }

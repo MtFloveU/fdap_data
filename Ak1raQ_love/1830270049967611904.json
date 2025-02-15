@@ -5,14 +5,55 @@
     "description": "09年｜15碎｜含糖｜162cm.43kg｜炸柜｜微天赋｜上学ing…｜hrt2024.5.19｜超级社恐｜同类秒fo｜其他互fo看成分，没回请私信哦👀",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883501363004575744/_3aMFogf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830270049967611904/1725814867",
-    "followers_count": 2509,
-    "statuses_count": 256,
-    "favourites_count": 1048,
+    "followers_count": 2504,
+    "statuses_count": 257,
+    "favourites_count": 1049,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-01 23:43:23 +08:00",
-    "url": "https://twitter.com/mmbb111222333"
+    "url": "https://twitter.com/mmbb111222333",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODMwMjcwMDQ5OTY3NjExOTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 470,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "不知道",
+            "media_count": 17,
+            "pinned_tweet_ids_str": [
+                "1871545927284269483"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1725205403000,
+            "updated_at": 1739589265460
+        }
+    }
 }

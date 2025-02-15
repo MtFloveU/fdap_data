@@ -1,18 +1,134 @@
 {
-  "id": "1419403960696385546",
-  "screen_name": "WaiFu8964",
-  "name": "Waifu 🏳️‍⚧️卖数据的小女孩",
-  "description": "我键政出壬乐壬嗑药赌博玩黑产，但我是个好mtf! |雌墮中|姓老名婆所以你們叫我老婆好了| 小名fufu|个人频道 https://t.co/G1WLyLh0Rj\n |aff成交金额10%返现|网站 https://t.co/GpjdUCMYn8\n |虱子多了不咬，案子多了不愁|❤️  @Mionostand",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1733661370220941312/ZfY5xhjf_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1419403960696385546/1684912852",
-  "followers_count": 6417,
-  "statuses_count": 4727,
-  "favourites_count": 4836,
-  "listed_count": 17,
-  "verified_type": null,
-  "is_blue_verified": true,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2021-07-26 05:07:49 +08:00",
-  "url": "https://twitter.com/WaiFu8964"
+    "id": "1419403960696385546",
+    "screen_name": "WaiFu8964",
+    "name": "Waifu 🏳️‍⚧️卖数据的小女孩",
+    "description": "我键政出壬乐壬嗑药赌博玩黑产，但我是个好mtf! |雌墮中|姓老名婆所以你們叫我老婆好了| 小名fufu|个人频道 https://t.co/G1WLyLh0Rj\n |aff成交金额10%返现|网站 https://t.co/GpjdUCMYn8\n |虱子多了不咬，案子多了不愁|❤️  @Mionostand",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1733661370220941312/ZfY5xhjf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1419403960696385546/1684912852",
+    "followers_count": 6748,
+    "statuses_count": 5118,
+    "favourites_count": 4914,
+    "listed_count": 17,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-07-26 05:07:49 +08:00",
+    "url": "https://twitter.com/WaiFu8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDE5NDAzOTYwNjk2Mzg1NTQ2",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @warma1026",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 23,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "warma1026",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "warma1026"
+                                        },
+                                        "rest_id": "83532940"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/waifu2x",
+                            "expanded_url": "https://t.me/waifu2x",
+                            "url": "https://t.co/G1WLyLh0Rj",
+                            "indices": [
+                                58,
+                                81
+                            ]
+                        },
+                        {
+                            "display_url": "chakaifang.org",
+                            "expanded_url": "http://chakaifang.org",
+                            "url": "https://t.co/GpjdUCMYn8",
+                            "indices": [
+                                100,
+                                123
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/waifu2x",
+                            "expanded_url": "https://t.me/waifu2x",
+                            "url": "https://t.co/G1WLyLh0Rj",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2002,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "IP归属地:深圳",
+            "media_count": 640,
+            "pinned_tweet_ids_str": [
+                "1889677863458095549"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/G1WLyLh0Rj",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1579932757773500416",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 158,
+                    "name": "High School",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "ethereum_handle": "0x52013145daF17e0fACD25Fd83607e35eD08C79c3"
+        },
+        "twe_private_fields": {
+            "created_at": 1627247269000,
+            "updated_at": 1739589294389
+        }
+    }
 }

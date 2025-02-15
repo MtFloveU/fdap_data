@@ -1,18 +1,58 @@
 {
-  "id": "1828621046045691904",
-  "screen_name": "haku_uchi",
-  "name": "面具下的世界",
-  "description": "这是@haku_dabai的垃圾桶\n感谢各位的阅览",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1828621204695265280/HvB3lMZD_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 110,
-  "statuses_count": 458,
-  "favourites_count": 220,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-08-28 10:30:16 +08:00",
-  "url": "https://twitter.com/haku_uchi"
+    "id": "1828621046045691904",
+    "screen_name": "haku_uchi",
+    "name": "面具下的世界",
+    "description": "这是@haku_dabai的垃圾桶\n感谢各位的阅览",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1828621204695265280/HvB3lMZD_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 120,
+    "statuses_count": 515,
+    "favourites_count": 236,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-08-28 10:30:16 +08:00",
+    "url": "https://twitter.com/haku_uchi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI4NjIxMDQ2MDQ1NjkxOTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 120,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 28,
+            "pinned_tweet_ids_str": [
+                "1829048841439748170"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1724812216000,
+            "updated_at": 1739589280337
+        }
+    }
 }

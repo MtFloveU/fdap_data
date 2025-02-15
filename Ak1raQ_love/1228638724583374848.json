@@ -5,14 +5,95 @@
     "description": "🎄🎄🎄They/them🎄🎄🎄 ⚠️⚠️⚠️有裸体⚠️⚠️⚠️ 🚪88 一般不搞黄偶尔掉落色色 Bluesky:https://t.co/uWtv3YTCqv",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228638724583374848/1733024994",
-    "followers_count": 9672,
-    "statuses_count": 5387,
-    "favourites_count": 18284,
-    "listed_count": 33,
+    "followers_count": 9947,
+    "statuses_count": 5509,
+    "favourites_count": 18371,
+    "listed_count": 36,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
     "created_at": "2020-02-15 19:14:49 +08:00",
-    "url": "https://twitter.com/Plantie_uwu"
+    "url": "https://twitter.com/Plantie_uwu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjI4NjM4NzI0NTgzMzc0ODQ4",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @plantie_awa",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 25,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "plantie_awa",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "plantie_awa"
+                                        },
+                                        "rest_id": "1612855155128504335"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "plantie.bsky.social",
+                            "expanded_url": "http://plantie.bsky.social",
+                            "url": "https://t.co/uWtv3YTCqv",
+                            "indices": [
+                                56,
+                                79
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1729,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "海上",
+            "media_count": 927,
+            "pinned_tweet_ids_str": [
+                "1842822973146939567"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1581765289000,
+            "updated_at": 1739589296476
+        }
+    }
 }

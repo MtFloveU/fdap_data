@@ -5,14 +5,64 @@
     "description": "原名fufuhu",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1722996114973233152/Q9PR-gp2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675529366334480386/1691495718",
-    "followers_count": 429,
-    "statuses_count": 4608,
-    "favourites_count": 29538,
+    "followers_count": 443,
+    "statuses_count": 4818,
+    "favourites_count": 31009,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-07-02 23:38:39 +08:00",
-    "url": "https://twitter.com/bigfufu1145"
+    "url": "https://twitter.com/bigfufu1145",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjc1NTI5MzY2MzM0NDgwMzg2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 706,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 795,
+            "pinned_tweet_ids_str": [
+                "1882136228881190940"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1844030981302526247",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 576,
+                    "name": "Maid & Butler Service",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1688312319000,
+            "updated_at": 1739589282809
+        }
+    }
 }

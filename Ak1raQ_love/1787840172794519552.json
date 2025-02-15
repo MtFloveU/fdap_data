@@ -1,0 +1,87 @@
+{
+    "id": "1787840172794519552",
+    "screen_name": "59ryq",
+    "name": "アルバ·にん",
+    "description": "中国の高校3年生｜MtX🏳️‍⚧️｜PUBGMとHonor of Kingsのプレイヤー | PUBGM ID:51758460894｜HOK：BLGKnight｜iPhone13 2本指｜本垢：@yqua_",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1797274137033089024/Cta8PhOR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787840172794519552/1717205912",
+    "followers_count": 120,
+    "statuses_count": 58,
+    "favourites_count": 331,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-05-07 21:41:57 +08:00",
+    "url": "https://twitter.com/59ryq",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzg3ODQwMTcyNzk0NTE5NTUy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @ryq59",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 19,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "ryq59",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "ryq59"
+                                        },
+                                        "rest_id": "1243945571796295681"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 100,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 19,
+            "pinned_tweet_ids_str": [
+                "1793268774071914515"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1715089317000,
+            "updated_at": 1739589272743
+        }
+    }
+}

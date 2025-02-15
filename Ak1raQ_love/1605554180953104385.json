@@ -5,14 +5,80 @@
     "description": "小Molly二代目 | 🚪25 | 常驻沪国 | 沐汐是一只可爱猫娘 丨是@ziqing0120的女奴老婆 | 喜欢@thesnowwinter | 大猫🐱@baize27824770 | 3人以上大课免费提供嗓音训练 | 一对一50CNY/节/1小时 l 淘宝小店→https://t.co/IzAkzXOFWq",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873955483251597312/_fpMRidm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605554180953104385/1735620837",
-    "followers_count": 2213,
-    "statuses_count": 4501,
-    "favourites_count": 11783,
+    "followers_count": 2208,
+    "statuses_count": 4504,
+    "favourites_count": 11784,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-12-21 21:22:11 +08:00",
-    "url": "https://twitter.com/xynmuxi"
+    "url": "https://twitter.com/xynmuxi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjA1NTU0MTgwOTUzMTA0Mzg1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "m.tb.cn/h.Tn2gqyv",
+                            "expanded_url": "http://m.tb.cn/h.Tn2gqyv",
+                            "url": "https://t.co/IzAkzXOFWq",
+                            "indices": [
+                                134,
+                                157
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "cwcu.cn",
+                            "expanded_url": "http://cwcu.cn",
+                            "url": "https://t.co/eUyLuG3Ugq",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1602,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "zh-sh",
+            "media_count": 482,
+            "pinned_tweet_ids_str": [
+                "1888817864834187529"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/eUyLuG3Ugq",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "187a1qZUCYnk4zv52bxVmwJCUQRwBMYGEP"
+        },
+        "twe_private_fields": {
+            "created_at": 1671628931000,
+            "updated_at": 1739589301192
+        }
+    }
 }

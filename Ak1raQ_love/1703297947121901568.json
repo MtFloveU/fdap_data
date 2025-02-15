@@ -5,14 +5,86 @@
     "description": "头像是小药娘（确信）药理学新娘||2008.4.28出厂🎉||2021.7.29持证/20.11.11含糖MtF🏳️‍⚧️||持“证”ADHD&ASD🤕||2024.4.28大证||411已约2026.7手术🥳||退役CChOer🧪||拒绝od但我也理解||业余:药理学💊＆有机化学⚗️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887703881578389506/l5PxO2Co_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703297947121901568/1738898651",
-    "followers_count": 1401,
-    "statuses_count": 1510,
-    "favourites_count": 6316,
+    "followers_count": 1409,
+    "statuses_count": 1531,
+    "favourites_count": 6340,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-09-17 14:41:15 +08:00",
-    "url": "https://twitter.com/xue_zhi2008"
+    "url": "https://twitter.com/xue_zhi2008",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzAzMjk3OTQ3MTIxOTAxNTY4",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @xue_zhi_2nd",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 25,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "xue_zhi_2nd",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "xue_zhi_2nd"
+                                        },
+                                        "rest_id": "1836957331198001152"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 383,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "重庆市",
+            "media_count": 421,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1848758841166680515",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1694932875000,
+            "updated_at": 1739589285081
+        }
+    }
 }

@@ -5,14 +5,55 @@
     "description": "MTF/哲逼\n食我者@sayonara149也",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1796466737287954433/1kBjJj9g_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 188,
-    "statuses_count": 2249,
-    "favourites_count": 8005,
-    "listed_count": 2,
+    "followers_count": 189,
+    "statuses_count": 2273,
+    "favourites_count": 8087,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-11-04 23:03:25 +08:00",
-    "url": "https://twitter.com/Pissenlit_AH"
+    "url": "https://twitter.com/Pissenlit_AH",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzIwODE5MDExMDU3ODQwMTI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 222,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "辩证法的每个环节",
+            "media_count": 293,
+            "pinned_tweet_ids_str": [
+                "1856146280483102878"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1699110205000,
+            "updated_at": 1739589287485
+        }
+    }
 }

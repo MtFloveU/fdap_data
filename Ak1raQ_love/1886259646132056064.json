@@ -5,7 +5,7 @@
     "description": "中国国家安全部唯一推特账号，打击境外势力。维护国家安全。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890075410890911745/QPUiUZ15_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886259646132056064/1739464120",
-    "followers_count": 42,
+    "followers_count": 44,
     "statuses_count": 34,
     "favourites_count": 17,
     "listed_count": 0,
@@ -13,6 +13,43 @@
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2025-02-03 03:46:32 +00:00",
-    "url": "https://twitter.com/yho1029230"
+    "created_at": "2025-02-03 11:46:32 +08:00",
+    "url": "https://twitter.com/yho1029230",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODg2MjU5NjQ2MTMyMDU2MDY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 352,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "中南海",
+            "media_count": 3,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1738554392000,
+            "updated_at": 1739589169406
+        }
+    }
 }

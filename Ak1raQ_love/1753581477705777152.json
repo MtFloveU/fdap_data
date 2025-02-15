@@ -5,14 +5,63 @@
     "description": "这里是可爱的🥥，请和我眼熟吧！/互fo/友跨人士/双相患者/INTP-T/你的避风港/♡@Ivy250104♡/\nhttps://t.co/wNVLzqZiM4\n请仔细核对id：正确ID为 @PoloCoconut2；大号@PoloCoconut遭蚂蚁龙永封\n三代目：@PoloCoconut3",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1753584828426149888/vtvvQckx_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753581477705777152/1706922180",
-    "followers_count": 189,
-    "statuses_count": 343,
-    "favourites_count": 870,
+    "followers_count": 197,
+    "statuses_count": 362,
+    "favourites_count": 916,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-02-03 00:49:48 +00:00",
-    "url": "https://twitter.com/PoloCoconut2"
+    "created_at": "2024-02-03 08:49:48 +08:00",
+    "url": "https://twitter.com/PoloCoconut2",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzUzNTgxNDc3NzA1Nzc3MTUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "polococonut.bsky.social",
+                            "expanded_url": "http://polococonut.bsky.social",
+                            "url": "https://t.co/wNVLzqZiM4",
+                            "indices": [
+                                57,
+                                80
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 344,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 69,
+            "pinned_tweet_ids_str": [
+                "1886077239646904647"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1706921388000,
+            "updated_at": 1739589301192
+        }
+    }
 }

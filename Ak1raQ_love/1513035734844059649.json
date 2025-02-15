@@ -5,14 +5,78 @@
     "description": "主人喵 @liychn30019070 | 伊蕾娜天下第一|水月|御坂|澄闪|友跨|键政🚫|这里是冰可乐！|Minecraft|Arknights|Clash Royale|精神状态堪忧|对大多数人友好||愿世间没有死亡，也愿已经离开的人会在另一个世界被温柔以待||梦想是让死者苏生 |",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1717177890356580352/Fpvn8tR4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1513035734844059649/1700378423",
-    "followers_count": 80,
-    "statuses_count": 254,
-    "favourites_count": 651,
+    "followers_count": 94,
+    "statuses_count": 304,
+    "favourites_count": 1184,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-04-10 14:06:58 +08:00",
-    "url": "https://twitter.com/Bingkler"
+    "url": "https://twitter.com/Bingkler",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTEzMDM1NzM0ODQ0MDU5NjQ5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bingkler.com",
+                            "expanded_url": "http://bingkler.com",
+                            "url": "https://t.co/MrotFr3hDP",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 331,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "ShangHai",
+            "media_count": 27,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/MrotFr3hDP",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1717154913019695113",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 959,
+                    "name": "Gamer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1649570818000,
+            "updated_at": 1739589195794
+        }
+    }
 }

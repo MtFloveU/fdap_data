@@ -1,18 +1,55 @@
 {
-  "id": "1571902100128268290",
-  "screen_name": "wji38908023",
-  "name": "久叶",
-  "description": "吴子，文学家，哲学家\n寒蝉真好看，沙皇天下无敌",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1845098446992097295/VdoAfrpp_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571902100128268290/1703454348",
-  "followers_count": 377,
-  "statuses_count": 3369,
-  "favourites_count": 6897,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-09-20 00:41:00 +08:00",
-  "url": "https://twitter.com/wji38908023"
+    "id": "1571902100128268290",
+    "screen_name": "wji38908023",
+    "name": "久叶",
+    "description": "吴子，文学家，哲学家\n寒蝉真好看，沙皇天下无敌",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1845098446992097295/VdoAfrpp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571902100128268290/1703454348",
+    "followers_count": 367,
+    "statuses_count": 3370,
+    "favourites_count": 6607,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-09-20 00:41:00 +08:00",
+    "url": "https://twitter.com/wji38908023",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTcxOTAyMTAwMTI4MjY4Mjkw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1269,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Alicante, Spain",
+            "media_count": 152,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1663605660000,
+            "updated_at": 1739589294390
+        }
+    }
 }

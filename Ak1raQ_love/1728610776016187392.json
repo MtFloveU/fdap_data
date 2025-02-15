@@ -5,14 +5,53 @@
     "description": "三和大神（挂壁中）😢\n时不时更点抽象梗图与小视频/您的大脑🧠寄存处🤳",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1840330142033309696/R_d9fK_z_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728610776016187392/1739028739",
-    "followers_count": 222,
-    "statuses_count": 1381,
-    "favourites_count": 6287,
+    "followers_count": 257,
+    "statuses_count": 1421,
+    "favourites_count": 6587,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-11-26 11:05:25 +08:00",
-    "url": "https://twitter.com/tankman__8964"
+    "url": "https://twitter.com/tankman__8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzI4NjEwNzc2MDE2MTg3Mzky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 533,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 289,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1700967925000,
+            "updated_at": 1739589192754
+        }
+    }
 }

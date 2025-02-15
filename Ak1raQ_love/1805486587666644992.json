@@ -5,14 +5,51 @@
     "description": "淡推",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1806730517360021507/fxNZnaJ1_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 283,
-    "statuses_count": 304,
-    "favourites_count": 4605,
+    "followers_count": 308,
+    "statuses_count": 322,
+    "favourites_count": 5156,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-06-25 14:22:20 +08:00",
-    "url": "https://twitter.com/Asahi167503"
+    "url": "https://twitter.com/Asahi167503",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODA1NDg2NTg3NjY2NjQ0OTky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2644,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 22,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1719296540000,
+            "updated_at": 1739589205528
+        }
+    }
 }

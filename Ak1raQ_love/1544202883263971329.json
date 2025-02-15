@@ -5,14 +5,53 @@
     "description": "雄关漫道真如铁，而今迈步从头越。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1859234882494283776/NRf1wreg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544202883263971329/1732111112",
-    "followers_count": 3768,
-    "statuses_count": 16069,
-    "favourites_count": 10034,
-    "listed_count": 23,
+    "followers_count": 3807,
+    "statuses_count": 16224,
+    "favourites_count": 10274,
+    "listed_count": 24,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-07-05 14:14:03 +08:00",
-    "url": "https://twitter.com/dai54717034"
+    "url": "https://twitter.com/dai54717034",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQ0MjAyODgzMjYzOTcxMzI5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2287,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "我们能相见的彼岸",
+            "media_count": 1814,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1657001643000,
+            "updated_at": 1739589280337
+        }
+    }
 }

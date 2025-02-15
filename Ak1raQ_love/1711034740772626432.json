@@ -1,18 +1,69 @@
 {
-  "id": "1711034740772626432",
-  "screen_name": "inu_ruri",
-  "name": "如晿昌曰日晶 🪳",
-  "description": "我不是@neko_ruyue，与@neko_ruyue毫无关系，如月小姐是圣洁的天使，我只是在下水道暗恋如月小姐的一条臭狗，臭狗的抽象文案与如月小姐无关",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1820800115915026432/U7R3Z22Q_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711034740772626432/1721180026",
-  "followers_count": 555,
-  "statuses_count": 1451,
-  "favourites_count": 3538,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-10-08 23:04:15 +08:00",
-  "url": "https://twitter.com/inu_ruri"
+    "id": "1711034740772626432",
+    "screen_name": "inu_ruri",
+    "name": "如晿昌曰日晶 🪳",
+    "description": "我不是@neko_ruyue，与@neko_ruyue毫无关系，如月小姐是圣洁的天使，我只是在下水道暗恋如月小姐的一条臭狗，臭狗的抽象文案与如月小姐无关",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1820800115915026432/U7R3Z22Q_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711034740772626432/1721180026",
+    "followers_count": 546,
+    "statuses_count": 1402,
+    "favourites_count": 3407,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-10-08 23:04:15 +08:00",
+    "url": "https://twitter.com/inu_ruri",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzExMDM0NzQwNzcyNjI2NDMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "4399.com",
+                            "expanded_url": "http://www.4399.com",
+                            "url": "https://t.co/rvB9D8Ffxf",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 976,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距离你＜2km",
+            "media_count": 86,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/rvB9D8Ffxf",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1696777455000,
+            "updated_at": 1739589289590
+        }
+    }
 }

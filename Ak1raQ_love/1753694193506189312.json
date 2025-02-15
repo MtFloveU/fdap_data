@@ -5,14 +5,53 @@
     "description": "好看的，好玩的",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1862450482490273792/fKAbJRdo_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753694193506189312/1732982044",
-    "followers_count": 6,
-    "statuses_count": 144,
-    "favourites_count": 389,
+    "followers_count": 8,
+    "statuses_count": 167,
+    "favourites_count": 423,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-02-03 16:17:47 +08:00",
-    "url": "https://twitter.com/gsodyodwisyldi"
+    "url": "https://twitter.com/gsodyodwisyldi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzUzNjk0MTkzNTA2MTg5MzEy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 421,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Kita-ku, Hyogo",
+            "media_count": 13,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1706948267000,
+            "updated_at": 1739589179994
+        }
+    }
 }

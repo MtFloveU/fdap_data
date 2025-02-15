@@ -4,15 +4,93 @@
     "name": "晴猫@幻夢結社",
     "description": "e/acc | harukawa.eth | sayaka.sol | 東方好き | 🦋https://t.co/2AAZSRcJvL",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1880127217394688000/75_xQKXr_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/850937205040087040/1723239474",
-    "followers_count": 20430,
-    "statuses_count": 10431,
-    "favourites_count": 43584,
-    "listed_count": 59,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/850937205040087040/1738871095",
+    "followers_count": 20581,
+    "statuses_count": 10740,
+    "favourites_count": 44279,
+    "listed_count": 50,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": false,
     "followed_by": true,
     "created_at": "2017-04-09 13:03:34 +08:00",
-    "url": "https://twitter.com/KomeijiSechi"
+    "url": "https://twitter.com/KomeijiSechi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo4NTA5MzcyMDUwNDAwODcwNDA=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "harukawasayaka.bsky.social",
+                            "expanded_url": "http://harukawasayaka.bsky.social",
+                            "url": "https://t.co/2AAZSRcJvL",
+                            "indices": [
+                                44,
+                                67
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "baka.studio",
+                            "expanded_url": "http://baka.studio",
+                            "url": "https://t.co/1u0JcQmwv3",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 10321,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "東京 町田市",
+            "media_count": 1904,
+            "pinned_tweet_ids_str": [
+                "1829520537032466918"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/1u0JcQmwv3",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1627987472042057728",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "bc1qqfl9hqr04e9ewzekqaxtc8smsp2u0g8cw7t739",
+            "ethereum_handle": "0x10A3f297865AA62d3cd4CE424c86Ba8Cf106D0F6"
+        },
+        "twe_private_fields": {
+            "created_at": 1491714214000,
+            "updated_at": 1739589239229
+        }
+    }
 }

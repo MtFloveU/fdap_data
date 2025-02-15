@@ -1,18 +1,57 @@
 {
-  "id": "2293028624",
-  "screen_name": "Ariel77451s",
-  "name": "MAGA",
-  "description": "IMO银牌、全栈&网安工程师、无政府主义者",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1861824639669870592/GFQar_9r_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293028624/1732727781",
-  "followers_count": 58,
-  "statuses_count": 743,
-  "favourites_count": 312,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2014-01-16 01:29:13 +08:00",
-  "url": "https://twitter.com/Ariel77451s"
+    "id": "2293028624",
+    "screen_name": "Ariel77451s",
+    "name": "MAGA",
+    "description": "IMO银牌、全栈&网安工程师、无政府主义者",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1861824639669870592/GFQar_9r_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293028624/1732727781",
+    "followers_count": 54,
+    "statuses_count": 742,
+    "favourites_count": 312,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2014-01-16 01:29:13 +08:00",
+    "url": "https://twitter.com/Ariel77451s",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoyMjkzMDI4NjI0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 24,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Los Angeles, CA",
+            "media_count": 72,
+            "pinned_tweet_ids_str": [
+                "1866352142329467332"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1389806953000,
+            "updated_at": 1739589289590
+        }
+    }
 }

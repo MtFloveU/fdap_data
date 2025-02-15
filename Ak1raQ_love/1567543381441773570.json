@@ -1,18 +1,101 @@
 {
-  "id": "1567543381441773570",
-  "screen_name": "darkuture8964",
-  "name": "𝒮𝒽𝒾𝓃ℯ",
-  "description": "Some living things/爱和平/多少都沾点/我推超天酱さいこう！/喜欢Sci-Fi，妄想死前人类能去太空殖民/会不时发疯/互fo主义",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1841894597590396928/-cUjrwI6_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567543381441773570/1721055685",
-  "followers_count": 278,
-  "statuses_count": 2551,
-  "favourites_count": 4307,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-09-08 00:00:47 +08:00",
-  "url": "https://twitter.com/darkuture8964"
+    "id": "1567543381441773570",
+    "screen_name": "darkuture8964",
+    "name": "𝒮𝒽𝒾𝓃ℯ",
+    "description": "Some living things/爱和平/多少都沾点/我推超天酱さいこう！/喜欢Sci-Fi，妄想死前人类能去太空殖民/会不时发疯/互fo主义",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1841894597590396928/-cUjrwI6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567543381441773570/1721055685",
+    "followers_count": 272,
+    "statuses_count": 2380,
+    "favourites_count": 4261,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-09-08 00:00:47 +08:00",
+    "url": "https://twitter.com/darkuture8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTY3NTQzMzgxNDQxNzczNTcw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Valhalla198964",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 28,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Valhalla198964",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Valhalla198964"
+                                        },
+                                        "rest_id": "1796510239136632832"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 403,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Listenbourg",
+            "media_count": 161,
+            "pinned_tweet_ids_str": [
+                "1817127169371574326"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1653082760544923650",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1662566447000,
+            "updated_at": 1739589275107
+        }
+    }
 }

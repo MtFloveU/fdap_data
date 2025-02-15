@@ -5,14 +5,108 @@
     "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1734521143",
-    "followers_count": 349,
-    "statuses_count": 145,
-    "favourites_count": 1131,
-    "listed_count": 0,
+    "followers_count": 1078,
+    "statuses_count": 666,
+    "favourites_count": 5866,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-11-07 22:23:44 +08:00",
-    "url": "https://twitter.com/Strf_9040C"
+    "url": "https://twitter.com/Strf_9040C",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzIxODk1OTM3MzU3MDA0ODAw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @SAAB_37A",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 22,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "SAAB_37A",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "SAAB_37A"
+                                        },
+                                        "rest_id": "1869719469633011712"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "forsvarsmakten.se/sv/information…",
+                            "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                            "url": "https://t.co/T2zrnjpxkS",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1664,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 305,
+            "pinned_tweet_ids_str": [
+                "1888264013416645010"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/T2zrnjpxkS",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1753523908836565120",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 665,
+                    "name": "Emergency Room",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1699367024000,
+            "updated_at": 1739589267789
+        }
+    }
 }

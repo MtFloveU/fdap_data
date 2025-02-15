@@ -1,18 +1,55 @@
 {
-  "id": "1809398167366168576",
-  "screen_name": "lny1077545",
-  "name": "林逸",
-  "description": "卢森堡主义\n\n坚持国际主义/反修正主义/革命进步主义 \n建制派/自由派/社达/皇汉/老保/法西斯/各类歧视者勿扰",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1809398660427370496/o4GKd-9x_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 18,
-  "statuses_count": 14,
-  "favourites_count": 70,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-07-06 09:26:06 +08:00",
-  "url": "https://twitter.com/lny1077545"
+    "id": "1809398167366168576",
+    "screen_name": "lny1077545",
+    "name": "林逸",
+    "description": "卢森堡主义\n\n坚持国际主义/反修正主义/革命进步主义 \n建制派/自由派/社达/皇汉/老保/法西斯/各类歧视者勿扰",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1809398660427370496/o4GKd-9x_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 17,
+    "statuses_count": 13,
+    "favourites_count": 68,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-07-06 09:26:06 +08:00",
+    "url": "https://twitter.com/lny1077545",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODA5Mzk4MTY3MzY2MTY4NTc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 194,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1720229166000,
+            "updated_at": 1739589215956
+        }
+    }
 }

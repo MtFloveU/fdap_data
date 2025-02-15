@@ -5,14 +5,92 @@
     "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1806979035916029952/VFgFUc0L_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670458419986464768/1717741393",
-    "followers_count": 1806,
-    "statuses_count": 5107,
-    "favourites_count": 7168,
+    "followers_count": 1803,
+    "statuses_count": 5109,
+    "favourites_count": 7165,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-06-18 23:50:22 +08:00",
-    "url": "https://twitter.com/nn66676"
+    "url": "https://twitter.com/nn66676",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjcwNDU4NDE5OTg2NDY0NzY4",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @breath1024",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 24,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "breath1024",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "breath1024"
+                                        },
+                                        "rest_id": "1595402946694762496"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 683,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "云南昆明",
+            "media_count": 855,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1679782604839714817",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 93,
+                    "name": "Aviation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1687103422000,
+            "updated_at": 1739589298729
+        }
+    }
 }

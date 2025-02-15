@@ -4,15 +4,54 @@
     "name": "漓梓（go一辈子）",
     "description": "我要看阿贝母鸡卡😭",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750804799031824384/1737640037",
-    "followers_count": 1136,
-    "statuses_count": 3480,
-    "favourites_count": 9326,
-    "listed_count": 3,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750804799031824384/1738410021",
+    "followers_count": 1213,
+    "statuses_count": 4038,
+    "favourites_count": 10602,
+    "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-01-26 16:56:14 +08:00",
-    "url": "https://twitter.com/lizi5202"
+    "url": "https://twitter.com/lizi5202",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzUwODA0Nzk5MDMxODI0Mzg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1198,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "月之森女子学园",
+            "media_count": 437,
+            "pinned_tweet_ids_str": [
+                "1886654791146987559"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1706259374000,
+            "updated_at": 1739589277836
+        }
+    }
 }

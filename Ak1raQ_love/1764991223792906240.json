@@ -1,18 +1,62 @@
 {
-  "id": "1764991223792906240",
-  "screen_name": "ZW3333T",
-  "name": "wet.zZz😿📝",
-  "description": "我说话笨笨的，打字也慢慢的",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1864299916555853824/kzmMGJ_P_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764991223792906240/1725845381",
-  "followers_count": 1332,
-  "statuses_count": 17115,
-  "favourites_count": 159753,
-  "listed_count": 10,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-03-05 20:28:14 +08:00",
-  "url": "https://twitter.com/ZW3333T"
+    "id": "1764991223792906240",
+    "screen_name": "ZW3333T",
+    "name": "wet.zZz😿📝",
+    "description": "我说话笨笨的，打字也慢慢的",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1864299916555853824/kzmMGJ_P_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764991223792906240/1725845381",
+    "followers_count": 1514,
+    "statuses_count": 19129,
+    "favourites_count": 183209,
+    "listed_count": 13,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-03-05 20:28:14 +08:00",
+    "url": "https://twitter.com/ZW3333T",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY0OTkxMjIzNzkyOTA2MjQw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2338,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "VA-11 HALL-A ",
+            "media_count": 767,
+            "pinned_tweet_ids_str": [
+                "1837145243860488666"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1836764542409506837",
+            "professional_type": "Business",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1709641694000,
+            "updated_at": 1739589285081
+        }
+    }
 }

@@ -1,18 +1,57 @@
 {
-  "id": "1673386998097416192",
-  "screen_name": "beheaderSQY",
-  "name": "SQY秽土转生形态 互fo",
-  "description": "如果我没有回关请以任意方式提醒我\n\n誤b致歉，请联系我的互fo帮助解b\n\n该说的就这么多了。",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1690813767268052992/klUvVZRj_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1673386998097416192/1694083400",
-  "followers_count": 1880,
-  "statuses_count": 26737,
-  "favourites_count": 69274,
-  "listed_count": 9,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-06-27 01:45:32 +08:00",
-  "url": "https://twitter.com/beheaderSQY"
+    "id": "1673386998097416192",
+    "screen_name": "beheaderSQY",
+    "name": "SQY秽土转生形态 互fo",
+    "description": "如果我没有回关请以任意方式提醒我\n\n誤b致歉，请联系我的互fo帮助解b\n\n该说的就这么多了。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1690813767268052992/klUvVZRj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1673386998097416192/1694083400",
+    "followers_count": 1963,
+    "statuses_count": 29114,
+    "favourites_count": 68554,
+    "listed_count": 9,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-06-27 01:45:32 +08:00",
+    "url": "https://twitter.com/beheaderSQY",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjczMzg2OTk4MDk3NDE2MTky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1826,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 2550,
+            "pinned_tweet_ids_str": [
+                "1860364562228556189"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1687801532000,
+            "updated_at": 1739589275107
+        }
+    }
 }

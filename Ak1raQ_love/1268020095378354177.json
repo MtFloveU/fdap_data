@@ -1,18 +1,55 @@
 {
-  "id": "1268020095378354177",
-  "screen_name": "zl0zw1C0ZNNqUQi",
-  "name": "哈罗德.白光",
-  "description": "涩涩的时候很涩涩，正经的时候很正经\n努力成为对社会和谐、世界和平有贡献的涩涩人",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1690124310265171970/2z145fte_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268020095378354177/1691792070",
-  "followers_count": 185,
-  "statuses_count": 2962,
-  "favourites_count": 26249,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2020-06-03 11:22:41 +08:00",
-  "url": "https://twitter.com/zl0zw1C0ZNNqUQi"
+    "id": "1268020095378354177",
+    "screen_name": "zl0zw1C0ZNNqUQi",
+    "name": "哈罗德.白光",
+    "description": "涩涩的时候很涩涩，正经的时候很正经\n努力成为对社会和谐、世界和平有贡献的涩涩人",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1690124310265171970/2z145fte_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268020095378354177/1691792070",
+    "followers_count": 189,
+    "statuses_count": 2971,
+    "favourites_count": 28403,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2020-06-03 11:22:41 +08:00",
+    "url": "https://twitter.com/zl0zw1C0ZNNqUQi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjY4MDIwMDk1Mzc4MzU0MTc3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 5496,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 2,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1591154561000,
+            "updated_at": 1739589234225
+        }
+    }
 }

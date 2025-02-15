@@ -5,14 +5,53 @@
     "description": "No man is an island. Every loss is shared by all, for we're all part of the same human race.\n没有人是孤岛。每一次失落，大家共同承受，因为我们都是人类的一部分 - @Cyber_Socialism",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1878387825831452672/LMVpJQ7d_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 609,
-    "statuses_count": 9634,
-    "favourites_count": 19664,
+    "followers_count": 765,
+    "statuses_count": 12622,
+    "favourites_count": 26424,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-08-25 20:24:36 +08:00",
-    "url": "https://twitter.com/HunhTnP42329159"
+    "url": "https://twitter.com/HunhTnP42329159",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTYyNzc3NjUwNjE1NDI3MDcz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2938,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Vietnam🇻🇳",
+            "media_count": 302,
+            "pinned_tweet_ids_str": [
+                "1883021709412016447"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1661430276000,
+            "updated_at": 1739589182252
+        }
+    }
 }

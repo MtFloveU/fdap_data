@@ -5,14 +5,54 @@
     "description": "Radio:BH2VSQ，是有主的猫猫啦！最爱的老婆&主人 @BH2USU，生活中的一些东西会发在 @VSQ_Life 上面🥺",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1750344663960330240/TSHacDl2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1501393967245496320/1708040854",
-    "followers_count": 1107,
-    "statuses_count": 7387,
-    "favourites_count": 32004,
+    "followers_count": 1105,
+    "statuses_count": 7393,
+    "favourites_count": 32123,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-03-09 11:06:38 +08:00",
-    "url": "https://twitter.com/KaZeNaGi_Q"
+    "url": "https://twitter.com/KaZeNaGi_Q",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTAxMzkzOTY3MjQ1NDk2MzIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1799,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "在你身后",
+            "media_count": 404,
+            "pinned_tweet_ids_str": [
+                "1830367284193628538"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1646795198000,
+            "updated_at": 1739589298729
+        }
+    }
 }

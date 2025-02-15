@@ -5,14 +5,64 @@
     "description": "06年的药药（性别酷儿）曾经是mtf/100％互fo/175，63kg/现居墨尔本，平常在南京/男生女生都接受的🏳️‍🌈🌈t/社民/肌肉and古典健身爱好者/容易吃醋/🚪200/正在冲击2030年奥林匹亚健美冠军/是病娇/地雷女/仇恨之书12.13/找墨尔本市区合租朋友（急）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1865748407220056064/gJd5UpI9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426793440046632963/1716448311",
-    "followers_count": 3817,
-    "statuses_count": 7541,
-    "favourites_count": 8453,
-    "listed_count": 5,
+    "followers_count": 3980,
+    "statuses_count": 7955,
+    "favourites_count": 9043,
+    "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2021-08-15 14:30:49 +08:00",
-    "url": "https://twitter.com/reedreedandsoon"
+    "url": "https://twitter.com/reedreedandsoon",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDI2NzkzNDQwMDQ2NjMyOTYz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3245,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "神圣泰拉 审判庭马上到你家门口",
+            "media_count": 899,
+            "pinned_tweet_ids_str": [
+                "1832365696644161672"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1793540502761230749",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1629009049000,
+            "updated_at": 1739589294389
+        }
+    }
 }

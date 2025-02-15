@@ -5,14 +5,96 @@
     "description": "𝒲𝒾𝓁𝓁 𝒾𝓃 𝓇𝓊𝒾𝓃ℯ𝒹 𝒶ℊℯ 𝓁𝒶𝓈𝓉 𝒻ℴ𝓇ℯ𝓋ℯ𝓇\n 🚪88.88\ntelegram账号:@muziliiiiiiiii\n二代帐号:@mugong5037",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1805646126517043204/oHmN8H3L_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 297,
-    "statuses_count": 2636,
-    "favourites_count": 14683,
+    "followers_count": 294,
+    "statuses_count": 2655,
+    "favourites_count": 14588,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-02-24 19:47:58 +08:00",
-    "url": "https://twitter.com/mugong5036"
+    "url": "https://twitter.com/mugong5036",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzYxMzU3MjQ3NjQzNTk0NzUy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @mugong5037",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 24,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "mugong5037",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "mugong5037"
+                                        },
+                                        "rest_id": "1766337299166744576"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 465,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 173,
+            "pinned_tweet_ids_str": [
+                "1848871237067673986"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1761481900294799728",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1708775278000,
+            "updated_at": 1739589285081
+        }
+    }
 }

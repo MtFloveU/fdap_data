@@ -5,14 +5,52 @@
     "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1727248592312905728/FNzS7PiN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/708107801407594501/1574684873",
-    "followers_count": 366433,
+    "followers_count": 366200,
     "statuses_count": 305,
     "favourites_count": 0,
-    "listed_count": 1432,
+    "listed_count": 1433,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
     "created_at": "2016-03-11 09:50:30 +08:00",
-    "url": "https://twitter.com/HamsterFragment"
+    "url": "https://twitter.com/HamsterFragment",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo3MDgxMDc4MDE0MDc1OTQ1MDE=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 0,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 299,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1457661030000,
+            "updated_at": 1739589294389
+        }
+    }
 }

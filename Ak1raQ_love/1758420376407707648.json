@@ -1,18 +1,57 @@
 {
-  "id": "1758420376407707648",
-  "screen_name": "tomato11451419",
-  "name": "tomato🍅（开学の似人）",
-  "description": "一只北方小城的社恐/*时不时发癫/富哥可以V50吗/回复会一个一个看的/友跨/连直线都不会画的画渣/isfp/不涉政/定期回fo/日常推/可以聊天/有人找我我乐还来不及/簡繁體看心情/@tomato11451420  备用",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1835806993594060800/vIu1CXr-_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758420376407707648/1726329442",
-  "followers_count": 272,
-  "statuses_count": 4152,
-  "favourites_count": 16435,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-02-16 17:17:55 +08:00",
-  "url": "https://twitter.com/tomato11451419"
+    "id": "1758420376407707648",
+    "screen_name": "tomato11451419",
+    "name": "tomato🍅（开学の似人）",
+    "description": "一只北方小城的社恐/*时不时发癫/富哥可以V50吗/回复会一个一个看的/友跨/连直线都不会画的画渣/isfp/不涉政/定期回fo/日常推/可以聊天/有人找我我乐还来不及/簡繁體看心情/@tomato11451420  备用",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1835806993594060800/vIu1CXr-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758420376407707648/1726329442",
+    "followers_count": 264,
+    "statuses_count": 4150,
+    "favourites_count": 16166,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-02-16 17:17:55 +08:00",
+    "url": "https://twitter.com/tomato11451419",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU4NDIwMzc2NDA3NzA3NjQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 247,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "蔬菜大棚",
+            "media_count": 325,
+            "pinned_tweet_ids_str": [
+                "1834891727083389367"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1708075075000,
+            "updated_at": 1739589280337
+        }
+    }
 }

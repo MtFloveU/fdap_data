@@ -1,18 +1,55 @@
 {
-  "id": "1767163684399300609",
-  "screen_name": "rand_int_",
-  "name": "Rand_int",
-  "description": "（基本上的）只读模式，无需回 fo\n「不愁萬死成焦土，但欲千劫奠市塵」",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1767164279239639040/3Ro0-VFD_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 24,
-  "statuses_count": 33,
-  "favourites_count": 736,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-03-11 20:20:42 +08:00",
-  "url": "https://twitter.com/rand_int_"
+    "id": "1767163684399300609",
+    "screen_name": "rand_int_",
+    "name": "Rand_int",
+    "description": "（基本上的）只读模式，无需回 fo\n「不愁萬死成焦土，但欲千劫奠市塵」",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1767164279239639040/3Ro0-VFD_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 24,
+    "statuses_count": 34,
+    "favourites_count": 736,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-03-11 20:20:42 +08:00",
+    "url": "https://twitter.com/rand_int_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY3MTYzNjg0Mzk5MzAwNjA5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 203,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1710159642000,
+            "updated_at": 1739589214059
+        }
+    }
 }

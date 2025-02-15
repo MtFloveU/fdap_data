@@ -3,16 +3,55 @@
     "screen_name": "0d000721olm",
     "name": "灵感菇",
     "description": "凌波丽",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1882631507371782144/pa7aNrqm_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847841056932712452/1732513498",
-    "followers_count": 24,
-    "statuses_count": 27,
-    "favourites_count": 84,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890069054918139904/be_k_8yW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847841056932712452/1739372901",
+    "followers_count": 33,
+    "statuses_count": 74,
+    "favourites_count": 148,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-10-20 11:23:53 +08:00",
-    "url": "https://twitter.com/0d000721olm"
+    "url": "https://twitter.com/0d000721olm",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQ3ODQxMDU2OTMyNzEyNDUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 433,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "迷你世界",
+            "media_count": 7,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1729394633000,
+            "updated_at": 1739589179994
+        }
+    }
 }

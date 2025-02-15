@@ -1,18 +1,57 @@
 {
-  "id": "911876148702744577",
-  "screen_name": "Mike98258643",
-  "name": "Mikeさん~",
-  "description": "禮貌的佛係青年，躺平不想努力了。明鏡止水 寧靜致遠~\nFollowing contents🔞/偶爾，會有澀情內容，請注意（捂眼睛）\nP.S 吾從來不做仗勢欺人的事情——吾喜歡被動~（聳肩）",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/911877299733008385/2tdmymuh_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/911876148702744577/1506244900",
-  "followers_count": 570,
-  "statuses_count": 5780,
-  "favourites_count": 25298,
-  "listed_count": 36,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2017-09-24 16:53:10 +08:00",
-  "url": "https://twitter.com/Mike98258643"
+    "id": "911876148702744577",
+    "screen_name": "Mike98258643",
+    "name": "Mikeさん~",
+    "description": "禮貌的佛係青年，躺平不想努力了。明鏡止水 寧靜致遠~\nFollowing contents🔞/偶爾，會有澀情內容，請注意（捂眼睛）\nP.S 吾從來不做仗勢欺人的事情——吾喜歡被動~（聳肩）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/911877299733008385/2tdmymuh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/911876148702744577/1506244900",
+    "followers_count": 570,
+    "statuses_count": 5835,
+    "favourites_count": 25388,
+    "listed_count": 22,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2017-09-24 16:53:10 +08:00",
+    "url": "https://twitter.com/Mike98258643",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5MTE4NzYxNDg3MDI3NDQ1Nzc=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 5052,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "中华人民共和国",
+            "media_count": 85,
+            "pinned_tweet_ids_str": [
+                "1622773417694093313"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1506243190000,
+            "updated_at": 1739589203159
+        }
+    }
 }

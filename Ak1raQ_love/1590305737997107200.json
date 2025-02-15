@@ -1,18 +1,73 @@
 {
-  "id": "1590305737997107200",
-  "screen_name": "ITC_Idoit",
-  "name": "笨蛋雀雀",
-  "description": "希望在看简介的你天天开心！｜未知性别｜喜欢可爱的大家！｜希望能给可爱的大家带去温柔和爱～希望你们可以喜欢我！｜提问箱在下面哦",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1820089791771463680/x6QZdKoo_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590305737997107200/1733493272",
-  "followers_count": 26,
-  "statuses_count": 188,
-  "favourites_count": 215,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2022-11-09 19:30:32 +08:00",
-  "url": "https://twitter.com/ITC_Idoit"
+    "id": "1590305737997107200",
+    "screen_name": "ITC_Idoit",
+    "name": "笨蛋雀雀",
+    "description": "希望在看简介的你天天开心！｜未知性别｜喜欢可爱的大家！｜希望能给可爱的大家带去温柔和爱～希望你们可以喜欢我！｜提问箱在下面哦",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1820089791771463680/x6QZdKoo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590305737997107200/1733493272",
+    "followers_count": 34,
+    "statuses_count": 285,
+    "favourites_count": 252,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-11-09 19:30:32 +08:00",
+    "url": "https://twitter.com/ITC_Idoit",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTkwMzA1NzM3OTk3MTA3MjAw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/bdqq",
+                            "expanded_url": "https://ngl.link/bdqq",
+                            "url": "https://t.co/AB2z0MtZxj",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 150,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "翻斗花园",
+            "media_count": 31,
+            "pinned_tweet_ids_str": [
+                "1863635886874955989"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/AB2z0MtZxj",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1667993432000,
+            "updated_at": 1739589195795
+        }
+    }
 }

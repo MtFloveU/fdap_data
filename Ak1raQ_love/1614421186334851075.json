@@ -5,14 +5,67 @@
     "description": "18 yo | Republic of China 🇹🇼 | 现居苏州 | 战雷苦手 HLL新兵蛋子| 𝙉𝙞𝙠𝙤𝙣摄影新手 | IT/AI/Handware | 🈲政治话题 | DM🆗 | 不喜激烈言辞，不善言辞",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1845438051969007617/zz6gi3YI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1614421186334851075/1714889846",
-    "followers_count": 1314,
-    "statuses_count": 5522,
-    "favourites_count": 45354,
+    "followers_count": 1315,
+    "statuses_count": 5525,
+    "favourites_count": 45400,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-01-15 00:36:43 +00:00",
-    "url": "https://twitter.com/HoneyWhiteCloud"
+    "created_at": "2023-01-15 08:36:43 +08:00",
+    "url": "https://twitter.com/HoneyWhiteCloud",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjE0NDIxMTg2MzM0ODUxMDc1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "honeywhite.cloud",
+                            "expanded_url": "http://www.honeywhite.cloud",
+                            "url": "https://t.co/lMq73qcPkf",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 721,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Suzhou Jiangsu China",
+            "media_count": 899,
+            "pinned_tweet_ids_str": [
+                "1888127985544204313"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/lMq73qcPkf",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1673743003000,
+            "updated_at": 1739589282809
+        }
+    }
 }

@@ -1,18 +1,57 @@
 {
-  "id": "1361846361453330434",
-  "screen_name": "colorsh76467",
-  "name": "Color(grayscale)image",
-  "description": "这里是小彩，也是小灰，什么都没有只有友善和真诚了/自救中/失败废物人/色批（已划掉）/评论游荡人/正在努力中（打卡？）/喜欢美好的/说的话会当真/讨厌串子/有自己的观念/立场：为了美好生活/如果冒犯到了很是抱歉，我会立马删掉的（/｡＼)",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1361846835309019136/iNA6whk0_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361846361453330434/1728290565",
-  "followers_count": 147,
-  "statuses_count": 2421,
-  "favourites_count": 6109,
-  "listed_count": 5,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2021-02-17 09:14:26 +08:00",
-  "url": "https://twitter.com/colorsh76467"
+    "id": "1361846361453330434",
+    "screen_name": "colorsh76467",
+    "name": "Color(grayscale)image",
+    "description": "这里是小彩，也是小灰，什么都没有只有友善和真诚了/自救中/失败废物人/色批（已划掉）/评论游荡人/正在努力中（打卡？）/喜欢美好的/说的话会当真/讨厌串子/有自己的观念/立场：为了美好生活/如果冒犯到了很是抱歉，我会立马删掉的（/｡＼)",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1361846835309019136/iNA6whk0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361846361453330434/1728290565",
+    "followers_count": 139,
+    "statuses_count": 2422,
+    "favourites_count": 6045,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-02-17 09:14:26 +08:00",
+    "url": "https://twitter.com/colorsh76467",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzYxODQ2MzYxNDUzMzMwNDM0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 424,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 84,
+            "pinned_tweet_ids_str": [
+                "1840385412751364461"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1613524466000,
+            "updated_at": 1739589277836
+        }
+    }
 }

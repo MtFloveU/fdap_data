@@ -5,14 +5,54 @@
     "description": "嗯？所以你为什么被我吸引呢……\n可爱的妹妹@_XiaoYu_OvO_\n椿宫姐姐（大雾）@ATRIyatuoliQAQ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861693473185042432/SeVXhxm4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794825887554387968/1729543752",
-    "followers_count": 381,
-    "statuses_count": 3520,
-    "favourites_count": 43139,
+    "followers_count": 374,
+    "statuses_count": 3533,
+    "favourites_count": 43255,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-05-26 20:21:30 +00:00",
-    "url": "https://twitter.com/porphyrin49"
+    "created_at": "2024-05-27 04:21:30 +08:00",
+    "url": "https://twitter.com/porphyrin49",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk0ODI1ODg3NTU0Mzg3OTY4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 372,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距你 460亿Ly",
+            "media_count": 685,
+            "pinned_tweet_ids_str": [
+                "1862214995960046023"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1716754890000,
+            "updated_at": 1739589275107
+        }
+    }
 }

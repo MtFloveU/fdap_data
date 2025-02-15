@@ -5,14 +5,53 @@
     "description": "一個很喜歡色色，但又很善良的人，如果心情不好的話，可以和我聊聊天哦😉歡迎互fo，高崎的祝福：我的朋友們，愿你們開心每一天🥰",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1842945106892218368/P0lc9XEG_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 146,
-    "statuses_count": 1182,
-    "favourites_count": 10298,
+    "followers_count": 150,
+    "statuses_count": 1187,
+    "favourites_count": 10351,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-02-05 06:37:14 +00:00",
-    "url": "https://twitter.com/qi_gao20319"
+    "created_at": "2024-02-05 14:37:14 +08:00",
+    "url": "https://twitter.com/qi_gao20319",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU0MzkzNjYwNDQ2NDI5MTg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 509,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 54,
+            "pinned_tweet_ids_str": [
+                "1843198462885806510"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1707115034000,
+            "updated_at": 1739589207840
+        }
+    }
 }

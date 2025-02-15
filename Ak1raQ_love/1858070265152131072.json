@@ -1,18 +1,57 @@
 {
-  "id": "1858070265152131072",
-  "screen_name": "changmengxk",
-  "name": "guoke（过客）",
-  "description": "一颗孤单的星星就此滑过，有被独特的你看见吗，有吗有吗！",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1858070439823818752/oCnVuZd1_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858070265152131072/1732395383",
-  "followers_count": 18,
-  "statuses_count": 59,
-  "favourites_count": 45,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-11-17 16:51:14 +08:00",
-  "url": "https://twitter.com/changmengxk"
+    "id": "1858070265152131072",
+    "screen_name": "changmengxk",
+    "name": "guoke（过客）",
+    "description": "一颗孤单的星星就此滑过，有被独特的你看见吗，有吗有吗！",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1877473974122328067/YLEJ9hCo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858070265152131072/1732395383",
+    "followers_count": 27,
+    "statuses_count": 77,
+    "favourites_count": 101,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-11-17 16:51:14 +08:00",
+    "url": "https://twitter.com/changmengxk",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODU4MDcwMjY1MTUyMTMxMDcy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 167,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "不远呢",
+            "media_count": 8,
+            "pinned_tweet_ids_str": [
+                "1877259560605344099"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1731833474000,
+            "updated_at": 1739589270270
+        }
+    }
 }

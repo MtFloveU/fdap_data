@@ -1,18 +1,67 @@
 {
-  "id": "1372701311112785923",
-  "screen_name": "f85f9Pg75fotcud",
-  "name": "ブーツ",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1806866892080222208/n0vs6mQE_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1372701311112785923/1732490708",
-  "followers_count": 23,
-  "statuses_count": 193,
-  "favourites_count": 3296,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2021-03-19 08:08:02 +08:00",
-  "url": "https://twitter.com/f85f9Pg75fotcud"
+    "id": "1372701311112785923",
+    "screen_name": "f85f9Pg75fotcud",
+    "name": "ブーツ",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1806866892080222208/n0vs6mQE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1372701311112785923/1732490708",
+    "followers_count": 25,
+    "statuses_count": 224,
+    "favourites_count": 3541,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-03-19 08:08:02 +08:00",
+    "url": "https://twitter.com/f85f9Pg75fotcud",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzcyNzAxMzExMTEyNzg1OTIz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2261,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1698687293157240906",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1616112482000,
+            "updated_at": 1739589214059
+        }
+    }
 }

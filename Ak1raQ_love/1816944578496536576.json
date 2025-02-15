@@ -5,14 +5,80 @@
     "description": "好欸!\n没有日常的日常推 | New Zealander 🇳🇿 | 想要和大家交朋友!\n妹妹 @OrangeIsIdiot @N552AA @Bolichara0\n姐姐 @enocxzlw @NMC604 @59ryq\n负能小号 @Liangzhikapai\n日本語 @Hitotsukado2",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1816944835888316417/vRLSYcxF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816944578496536576/1722167680",
-    "followers_count": 1263,
-    "statuses_count": 2014,
-    "favourites_count": 25250,
-    "listed_count": 2,
+    "followers_count": 1293,
+    "statuses_count": 2024,
+    "favourites_count": 24794,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-27 05:12:09 +08:00",
-    "url": "https://twitter.com/Yizhikapaiqaq"
+    "url": "https://twitter.com/Yizhikapaiqaq",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE2OTQ0NTc4NDk2NTM2NTc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/@yizhikapaiqaq",
+                            "expanded_url": "https://youtube.com/@yizhikapaiqaq",
+                            "url": "https://t.co/WGqIx9g7x0",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1731,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "天国",
+            "media_count": 45,
+            "pinned_tweet_ids_str": [
+                "1859811765456126094"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/WGqIx9g7x0",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1880245142604640412",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 933,
+                    "name": "Media Personality",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1722028329000,
+            "updated_at": 1739589287485
+        }
+    }
 }

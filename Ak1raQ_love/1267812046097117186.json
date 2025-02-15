@@ -5,14 +5,65 @@
     "description": "無言フォロー失礼します                                               喜欢大家，想交朋友，请多关照\n     ウマ娘/東方project/プロセカ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872809291771707392/cPtKj79K_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267812046097117186/1736325566",
-    "followers_count": 825,
-    "statuses_count": 2518,
-    "favourites_count": 45196,
-    "listed_count": 4,
+    "followers_count": 906,
+    "statuses_count": 3481,
+    "favourites_count": 55860,
+    "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2020-06-02 21:35:28 +08:00",
-    "url": "https://twitter.com/Utsuho_223"
+    "url": "https://twitter.com/Utsuho_223",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjY3ODEyMDQ2MDk3MTE3MTg2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/utsuho_233",
+                            "expanded_url": "https://ngl.link/utsuho_233",
+                            "url": "https://t.co/KSKQc3lpr9",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2814,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Sol3",
+            "media_count": 342,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/KSKQc3lpr9",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1591104928000,
+            "updated_at": 1739589272743
+        }
+    }
 }

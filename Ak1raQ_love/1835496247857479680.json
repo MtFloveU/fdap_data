@@ -1,18 +1,55 @@
 {
-  "id": "1835496247857479680",
-  "screen_name": "erogayoiya",
-  "name": "大きくて硬い",
-  "description": "皆さんこんにちは！中国人です\n\nアニメやマンガやgalgame大好きで\n\n只の御宅に社会人に過ぎないんです\n\nEnglish🇬🇧と日本語はほぼ大丈夫で\n\n韓国語🇰🇷とスペイン語🇪🇸は勉強中なのです!\n\n何処かで間違ったら是非ご指摘を\n\n一緒に楽しもうや！",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1835496509657448448/MmrKHHAJ_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835496247857479680/1726621330",
-  "followers_count": 72,
-  "statuses_count": 436,
-  "favourites_count": 1662,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-09-16 09:50:01 +08:00",
-  "url": "https://twitter.com/erogayoiya"
+    "id": "1835496247857479680",
+    "screen_name": "erogayoiya",
+    "name": "大きくて硬い",
+    "description": "皆さんこんにちは！中国人です\n\nアニメやマンガやgalgame大好きで\n\n只の御宅に社会人に過ぎないんです\n\nEnglish🇬🇧と日本語はほぼ大丈夫で\n\n韓国語🇰🇷とスペイン語🇪🇸は勉強中なのです!\n\n何処かで間違ったら是非ご指摘を\n\n一緒に楽しもうや！",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1835496509657448448/MmrKHHAJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835496247857479680/1726621330",
+    "followers_count": 70,
+    "statuses_count": 436,
+    "favourites_count": 1765,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-09-16 09:50:01 +08:00",
+    "url": "https://twitter.com/erogayoiya",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM1NDk2MjQ3ODU3NDc5Njgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1178,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "遥か遠くに浮かぶ星で",
+            "media_count": 8,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1726451401000,
+            "updated_at": 1739589200572
+        }
+    }
 }

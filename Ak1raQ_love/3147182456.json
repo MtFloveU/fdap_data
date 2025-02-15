@@ -1,18 +1,55 @@
 {
-  "id": "3147182456",
-  "screen_name": "_Yozora_28",
-  "name": "-Yozora-🍥",
-  "description": "🏳️‍🌈She,Her🏳️‍⚧️Be myself/Lolita&JK制服/📷🚃✈️/🚆✈️➡️🇭🇰🇯🇵/⚠️推是情绪溢出的树洞",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1270596841617289217/Y45EwyHG_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3147182456/1714218679",
-  "followers_count": 1477,
-  "statuses_count": 1315,
-  "favourites_count": 1141,
-  "listed_count": 8,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2015-04-10 13:56:05 +08:00",
-  "url": "https://twitter.com/_Yozora_28"
+    "id": "3147182456",
+    "screen_name": "_Yozora_28",
+    "name": "-Yozora-🍥",
+    "description": "🏳️‍🌈She,Her🏳️‍⚧️Be myself/Lolita&JK制服/📷🚃✈️/🚆✈️➡️🇭🇰🇯🇵/⚠️推是情绪溢出的树洞",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1270596841617289217/Y45EwyHG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3147182456/1714218679",
+    "followers_count": 1476,
+    "statuses_count": 1318,
+    "favourites_count": 1116,
+    "listed_count": 9,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2015-04-10 13:56:05 +08:00",
+    "url": "https://twitter.com/_Yozora_28",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjozMTQ3MTgyNDU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 347,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "🌌",
+            "media_count": 152,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1428645365000,
+            "updated_at": 1739589298729
+        }
+    }
 }

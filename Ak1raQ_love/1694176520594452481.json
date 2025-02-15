@@ -1,18 +1,55 @@
 {
-  "id": "1694176520594452481",
-  "screen_name": "hanqiumu1202",
-  "name": "寒秋",
-  "description": "啊？",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1773319921637998592/Gttg-GBD_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694176520594452481/1711627390",
-  "followers_count": 30,
-  "statuses_count": 17,
-  "favourites_count": 71,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-08-23 10:35:53 +08:00",
-  "url": "https://twitter.com/hanqiumu1202"
+    "id": "1694176520594452481",
+    "screen_name": "hanqiumu1202",
+    "name": "寒秋",
+    "description": "啊？",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1876999252033081344/Wftgi7z2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694176520594452481/1711627390",
+    "followers_count": 30,
+    "statuses_count": 17,
+    "favourites_count": 76,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-08-23 10:35:53 +08:00",
+    "url": "https://twitter.com/hanqiumu1202",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjk0MTc2NTIwNTk0NDUyNDgx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 39,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "现实与梦幻之界",
+            "media_count": 2,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1692758153000,
+            "updated_at": 1739589195794
+        }
+    }
 }

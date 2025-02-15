@@ -5,14 +5,54 @@
     "description": "田某的分身，鉴定为苦逼。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879614417601736704/TIJ9aeJN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817541908174188544/1724475875",
-    "followers_count": 131,
-    "statuses_count": 1241,
-    "favourites_count": 2822,
+    "followers_count": 129,
+    "statuses_count": 1271,
+    "favourites_count": 2864,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-28 20:45:42 +08:00",
-    "url": "https://twitter.com/TianXiaoTangDLZ"
+    "url": "https://twitter.com/TianXiaoTangDLZ",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE3NTQxOTA4MTc0MTg4NTQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 157,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 159,
+            "pinned_tweet_ids_str": [
+                "1822371203841139143"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1722170742000,
+            "updated_at": 1739589282809
+        }
+    }
 }

@@ -5,7 +5,7 @@
     "description": "168cm/48kg/mtf/hrt：2024.11.16/09年16岁高中牲（理科）/深柜/重庆一中唯一含糖🏳️‍⚧️🍥（暴论）/简中/繁中/Eng/日本語（在学）/成分正常都会回fo的/逃生舱@Mikufans_/请fo @mikumiku3648/药商推荐：@Minokakay",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884101359940886529/Q7xEg_xl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779149099084009472/1737108121",
-    "followers_count": 900,
+    "followers_count": 899,
     "statuses_count": 8626,
     "favourites_count": 17122,
     "listed_count": 7,
@@ -13,6 +13,101 @@
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-04-13 14:06:24 +00:00",
-    "url": "https://twitter.com/MikuLoverr_"
+    "created_at": "2024-04-13 22:06:24 +08:00",
+    "url": "https://twitter.com/MikuLoverr_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzc5MTQ5MDk5MDg0MDA5NDcy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Mikufans_",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 23,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Mikufans_",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Mikufans_"
+                                        },
+                                        "rest_id": "1815195966271815680"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ys-api.mihoyo.com/event/download…",
+                            "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                            "url": "https://t.co/rz5fLl5d1r",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 919,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Chongqing or back of you",
+            "media_count": 555,
+            "pinned_tweet_ids_str": [
+                "1884488453842460899"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/rz5fLl5d1r",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1829224304300699921",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 157,
+                    "name": "Secondary School",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1713017184000,
+            "updated_at": 1739589277836
+        }
+    }
 }

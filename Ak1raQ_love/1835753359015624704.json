@@ -5,14 +5,78 @@
     "description": "Arcaea の世界への旅、まもなく始まる / a fading light awaits two in a closed world of forgotten conflict / ❤️🐱 / 🇨🇳人で🇯🇵🇬🇧語を話せる音ゲーマ / FF以外通知OFF / tg个人频道在链接",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886391653264773121/7ZgSnzbH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835753359015624704/1739090938",
-    "followers_count": 517,
-    "statuses_count": 1402,
-    "favourites_count": 8712,
+    "followers_count": 519,
+    "statuses_count": 1417,
+    "favourites_count": 8870,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-09-16 18:51:28 +00:00",
-    "url": "https://twitter.com/msmaoi_"
+    "created_at": "2024-09-17 02:51:28 +08:00",
+    "url": "https://twitter.com/msmaoi_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM1NzUzMzU5MDE1NjI0NzA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/aoinohanaya",
+                            "expanded_url": "https://t.me/aoinohanaya",
+                            "url": "https://t.co/6qqNCfY8WN",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 434,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Arcaea Land ",
+            "media_count": 347,
+            "pinned_tweet_ids_str": [
+                "1889137602579824702"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/6qqNCfY8WN",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1874773863806243195",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 144,
+                    "name": "Education",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1726512688000,
+            "updated_at": 1739589262852
+        }
+    }
 }

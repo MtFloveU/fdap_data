@@ -1,18 +1,60 @@
 {
-  "id": "1643490407094030338",
-  "screen_name": "Usam8964",
-  "name": "イレンナ🍥伊莲娜",
-  "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1680968416",
-  "followers_count": 2301,
-  "statuses_count": 3593,
-  "favourites_count": 30683,
-  "listed_count": 4,
-  "verified_type": null,
-  "is_blue_verified": true,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-04-05 13:47:19 +08:00",
-  "url": "https://twitter.com/Usam8964"
+    "id": "1643490407094030338",
+    "screen_name": "Usam8964",
+    "name": "イレンナ🍥伊莲娜",
+    "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1680968416",
+    "followers_count": 2532,
+    "statuses_count": 3658,
+    "favourites_count": 31600,
+    "listed_count": 7,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-04-05 13:47:19 +08:00",
+    "url": "https://twitter.com/Usam8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjQzNDkwNDA3MDk0MDMwMzM4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1013,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 424,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1644803777999015936",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1680673639000,
+            "updated_at": 1739589285081
+        }
+    }
 }

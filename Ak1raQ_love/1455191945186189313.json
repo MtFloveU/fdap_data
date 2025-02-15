@@ -5,14 +5,78 @@
     "description": "這裡是 lelenext /\n轉推咱喜歡的內容 ww",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1455192269259100162/e7BTB6U6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455191945186189313/1662191751",
-    "followers_count": 527,
-    "statuses_count": 1909,
-    "favourites_count": 18323,
+    "followers_count": 526,
+    "statuses_count": 1924,
+    "favourites_count": 18484,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2021-11-01 23:16:19 +08:00",
-    "url": "https://twitter.com/lelenextxuan"
+    "url": "https://twitter.com/lelenextxuan",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDU1MTkxOTQ1MTg2MTg5MzEz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "lelenextworld.t.me",
+                            "expanded_url": "http://lelenextworld.t.me",
+                            "url": "https://t.co/UCmAZ9snJs",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4466,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "香港",
+            "media_count": 25,
+            "pinned_tweet_ids_str": [
+                "1565966469468368896"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/UCmAZ9snJs",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1464273947651080192",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 149,
+                    "name": "School",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1635779779000,
+            "updated_at": 1739589239229
+        }
+    }
 }

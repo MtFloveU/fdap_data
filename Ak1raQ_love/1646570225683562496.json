@@ -1,18 +1,68 @@
 {
-  "id": "1646570225683562496",
-  "screen_name": "3548268636jiu",
-  "name": "玖醉火火",
-  "description": "星星之火，可以燎原 /墙内外网名相同(玖醉火火/玖醉火)",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1785298316085137408/HwzGtnW9_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646570225683562496/1714694170",
-  "followers_count": 539,
-  "statuses_count": 942,
-  "favourites_count": 7604,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-04-14 01:45:19 +08:00",
-  "url": "https://twitter.com/3548268636jiu"
+    "id": "1646570225683562496",
+    "screen_name": "3548268636jiu",
+    "name": "玖醉火火",
+    "description": "星星之火，可以燎原 /墙内外网名相同(玖醉火火/玖醉火)",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1885217742271234048/OsMZNlaw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646570225683562496/1714694170",
+    "followers_count": 584,
+    "statuses_count": 995,
+    "favourites_count": 8560,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-04-14 01:45:19 +08:00",
+    "url": "https://twitter.com/3548268636jiu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjQ2NTcwMjI1NjgzNTYyNDk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2013,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 245,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1781485515130507279",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 959,
+                    "name": "Gamer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1681407919000,
+            "updated_at": 1739589214059
+        }
+    }
 }

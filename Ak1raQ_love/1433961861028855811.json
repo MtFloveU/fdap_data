@@ -5,14 +5,65 @@
     "description": "可怜的孩子 不再胆怯",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1775512359832088576/n3Z6KamT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433961861028855811/1719067700",
-    "followers_count": 1279,
-    "statuses_count": 3840,
-    "favourites_count": 95646,
+    "followers_count": 1306,
+    "statuses_count": 3874,
+    "favourites_count": 98075,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2021-09-04 09:16:00 +08:00",
-    "url": "https://twitter.com/harukiO_0"
+    "url": "https://twitter.com/harukiO_0",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDMzOTYxODYxMDI4ODU1ODEx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "haruki.tweblog.com",
+                            "expanded_url": "https://haruki.tweblog.com/",
+                            "url": "https://t.co/XT0u09z2C6",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1102,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 435,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/XT0u09z2C6",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1630718160000,
+            "updated_at": 1739589179994
+        }
+    }
 }

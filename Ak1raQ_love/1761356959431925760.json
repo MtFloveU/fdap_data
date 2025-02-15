@@ -5,14 +5,51 @@
     "description": "请注意我对隐私非常重视，写着玩玩的🙃🤚 请重定向到我的大号：@saonanaa 通过iMessage联系我：elictop@icloud.com",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1843962920012795904/iSqECHYN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761356959431925760/1728470005",
-    "followers_count": 58,
-    "statuses_count": 429,
-    "favourites_count": 398,
+    "followers_count": 67,
+    "statuses_count": 480,
+    "favourites_count": 441,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-02-24 11:48:04 +00:00",
-    "url": "https://twitter.com/zhweaa"
+    "created_at": "2024-02-24 19:48:04 +08:00",
+    "url": "https://twitter.com/zhweaa",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzYxMzU2OTU5NDMxOTI1NzYw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 38,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "千年商港",
+            "media_count": 83,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1708775284000,
+            "updated_at": 1739589275107
+        }
+    }
 }

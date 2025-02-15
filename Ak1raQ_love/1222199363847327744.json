@@ -5,14 +5,80 @@
     "description": "小药娘/OD/双相/军迷/德棍/英吹/美分/乌贼/台独/有机/数竞/穷玩车的/臭外地的",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1792915151596732416/gqkmbRRd_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222199363847327744/1586799517",
-    "followers_count": 3789,
-    "statuses_count": 9478,
-    "favourites_count": 78659,
-    "listed_count": 12,
+    "followers_count": 3869,
+    "statuses_count": 9482,
+    "favourites_count": 78680,
+    "listed_count": 13,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2020-01-28 16:46:59 +00:00",
-    "url": "https://twitter.com/Mikuma1936"
+    "created_at": "2020-01-29 00:46:59 +08:00",
+    "url": "https://twitter.com/Mikuma1936",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjIyMTk5MzYzODQ3MzI3NzQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/mikuma…",
+                            "expanded_url": "https://bsky.app/profile/mikuma1936.bsky.social",
+                            "url": "https://t.co/coQ3AGsDs6",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1046,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "木衛三·Ganymede",
+            "media_count": 1440,
+            "pinned_tweet_ids_str": [
+                "1874418807294578705"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/coQ3AGsDs6",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1560107375176163328",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 141,
+                    "name": "Gas & Oil Company",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1580230019000,
+            "updated_at": 1739589262852
+        }
+    }
 }

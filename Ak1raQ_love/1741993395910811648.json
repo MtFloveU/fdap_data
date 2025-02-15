@@ -1,18 +1,73 @@
 {
-  "id": "1741993395910811648",
-  "screen_name": "AnIncandescence",
-  "name": "炽烈已极",
-  "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741993395910811648/1720619087",
-  "followers_count": 281,
-  "statuses_count": 1461,
-  "favourites_count": 4766,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-01-02 09:22:57 +08:00",
-  "url": "https://twitter.com/AnIncandescence"
+    "id": "1741993395910811648",
+    "screen_name": "AnIncandescence",
+    "name": "炽烈已极",
+    "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741993395910811648/1720619087",
+    "followers_count": 284,
+    "statuses_count": 1558,
+    "favourites_count": 4721,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-01-02 09:22:57 +08:00",
+    "url": "https://twitter.com/AnIncandescence",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQxOTkzMzk1OTEwODExNjQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/anincandescence",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "url": "https://t.co/MuEKSg3VTk",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 157,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "0°00′N 260°00′E Mars",
+            "media_count": 373,
+            "pinned_tweet_ids_str": [
+                "1822993431469150227"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/MuEKSg3VTk",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1704158577000,
+            "updated_at": 1739589280337
+        }
+    }
 }

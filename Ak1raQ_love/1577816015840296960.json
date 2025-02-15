@@ -1,18 +1,98 @@
 {
-  "id": "1577816015840296960",
-  "screen_name": "yangaaa111",
-  "name": "yang",
-  "description": "一个无趣的人\n永远的爱人@Bocchi0221520\n里推@yangeee555（只过熟人）",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1836073477641768960/UW7mPXZy_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577816015840296960/1690185368",
-  "followers_count": 442,
-  "statuses_count": 8092,
-  "favourites_count": 42187,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-10-06 08:20:49 +08:00",
-  "url": "https://twitter.com/yangaaa111"
+    "id": "1577816015840296960",
+    "screen_name": "yangaaa111",
+    "name": "yang",
+    "description": "一个无趣的人\n永远的爱人@Bocchi0221520\n里推@yangeee555（只过熟人）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1836073477641768960/UW7mPXZy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577816015840296960/1690185368",
+    "followers_count": 455,
+    "statuses_count": 8334,
+    "favourites_count": 45491,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-10-06 08:20:49 +08:00",
+    "url": "https://twitter.com/yangaaa111",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTc3ODE2MDE1ODQwMjk2OTYw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @yangddd444",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 24,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "yangddd444",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "yangddd444"
+                                        },
+                                        "rest_id": "1818080742339149824"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 517,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "「結束バンド」",
+            "media_count": 247,
+            "pinned_tweet_ids_str": [
+                "1821150161479069831"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1819541139659411532",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1665015649000,
+            "updated_at": 1739589287485
+        }
+    }
 }

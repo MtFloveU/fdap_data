@@ -5,14 +5,54 @@
     "description": "I just can't lose my pride.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866389067157602305/6nLaXy4V_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842677529376854016/1735337051",
-    "followers_count": 32,
-    "statuses_count": 615,
-    "favourites_count": 1233,
+    "followers_count": 38,
+    "statuses_count": 710,
+    "favourites_count": 1325,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-10-06 05:25:47 +08:00",
-    "url": "https://twitter.com/TeririKatarina"
+    "url": "https://twitter.com/TeririKatarina",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQyNjc3NTI5Mzc2ODU0MDE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 39,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 48,
+            "pinned_tweet_ids_str": [
+                "1871052716048613709"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1728163547000,
+            "updated_at": 1739589265461
+        }
+    }
 }

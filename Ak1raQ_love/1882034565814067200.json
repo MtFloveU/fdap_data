@@ -5,14 +5,55 @@
     "description": "🚪50/100/200一个比一个贵和我回不回复你的区别/男的不过门不回会查成分/\n我不搞h，我能接受的只有一起聊生理反应和解决欲望的事/\n何時能皮包骨。/\n直fo会回",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884866474885468160/bPkNZSJO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882034565814067200/1737547300",
-    "followers_count": 29,
-    "statuses_count": 185,
-    "favourites_count": 104,
+    "followers_count": 35,
+    "statuses_count": 196,
+    "favourites_count": 117,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2025-01-22 19:56:49 +08:00",
-    "url": "https://twitter.com/Annsa917"
+    "url": "https://twitter.com/Annsa917",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODgyMDM0NTY1ODE0MDY3MjAw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 69,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 43,
+            "pinned_tweet_ids_str": [
+                "1882272127015076270"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1737547009000,
+            "updated_at": 1739589260496
+        }
+    }
 }

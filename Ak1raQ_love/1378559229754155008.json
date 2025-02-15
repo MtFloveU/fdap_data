@@ -5,14 +5,78 @@
     "description": "普通大学生/数学系/分析学爱好者/电音迷/Minecraft ｜中文/English",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879396987734474752/GnD-mnHX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378559229754155008/1736919144",
-    "followers_count": 208,
-    "statuses_count": 297,
-    "favourites_count": 1128,
+    "followers_count": 281,
+    "statuses_count": 333,
+    "favourites_count": 1459,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2021-04-04 12:05:18 +08:00",
-    "url": "https://twitter.com/panhh233"
+    "url": "https://twitter.com/panhh233",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzc4NTU5MjI5NzU0MTU1MDA4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linktr.ee/panhh_",
+                            "expanded_url": "https://linktr.ee/panhh_",
+                            "url": "https://t.co/TzQ1N6iU9N",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 467,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "苏州市",
+            "media_count": 32,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/TzQ1N6iU9N",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1549320613244063744",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1051,
+                    "name": "Mathematician",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1617509118000,
+            "updated_at": 1739589260496
+        }
+    }
 }

@@ -5,14 +5,80 @@
     "description": "Just a patriot studying AI (Orthodox Marxism)🏳️‍⚧️🏳️‍🌈🐉/Enby(Any pronouns)💛🤍💜🖤/Pansexual/ANTI-Racism/ANTI-Hegemony/LGBTQ+权利万岁/Free Palestine🇵🇸",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884883748962861056/h-sP9bC2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392059387573796869/1739413772",
-    "followers_count": 931,
-    "statuses_count": 5361,
-    "favourites_count": 2904,
+    "followers_count": 930,
+    "statuses_count": 5363,
+    "favourites_count": 2911,
     "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2021-05-11 10:10:05 +00:00",
-    "url": "https://twitter.com/AGIMangrove_25"
+    "created_at": "2021-05-11 18:10:05 +08:00",
+    "url": "https://twitter.com/AGIMangrove_25",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzkyMDU5Mzg3NTczNzk2ODY5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "leftvalues.github.io/results.html?a…",
+                            "expanded_url": "https://leftvalues.github.io/results.html?a=76.5&b=56.3&c=56.7&d=64.3&e=59.6&f=45.8&g=26.5",
+                            "url": "https://t.co/j6PH7ki37b",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3675,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Republic of Chechnya, Russia",
+            "media_count": 622,
+            "pinned_tweet_ids_str": [
+                "1884885909369139501"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/j6PH7ki37b",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1556158089463640065",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1620727805000,
+            "updated_at": 1739589280337
+        }
+    }
 }

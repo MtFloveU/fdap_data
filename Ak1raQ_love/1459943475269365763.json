@@ -1,18 +1,55 @@
 {
-  "id": "1459943475269365763",
-  "screen_name": "yihong23",
-  "name": "坂下一宏",
-  "description": "我是太阳",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1801896978340847616/upvLccZj_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1459943475269365763/1652599934",
-  "followers_count": 905,
-  "statuses_count": 3179,
-  "favourites_count": 7263,
-  "listed_count": 4,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2021-11-15 01:57:26 +08:00",
-  "url": "https://twitter.com/yihong23"
+    "id": "1459943475269365763",
+    "screen_name": "yihong23",
+    "name": "坂下一宏",
+    "description": "我是太阳",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1801896978340847616/upvLccZj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1459943475269365763/1652599934",
+    "followers_count": 917,
+    "statuses_count": 3188,
+    "favourites_count": 7201,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-11-15 01:57:26 +08:00",
+    "url": "https://twitter.com/yihong23",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDU5OTQzNDc1MjY5MzY1NzYz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 813,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 130,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1636912646000,
+            "updated_at": 1739589289590
+        }
+    }
 }

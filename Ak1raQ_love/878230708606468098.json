@@ -3,16 +3,55 @@
     "screen_name": "McSpicyOwO",
     "name": "麦辣鸡腿堡🍔",
     "description": "辣堡喵\n啊啊辣堡喵\n辣堡喵——\n互fo大欢迎！",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1878502238970322944/cYH7C-Wn_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1889247889391861760/FgFOaJ3A_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/878230708606468098/1736704846",
-    "followers_count": 415,
-    "statuses_count": 3208,
-    "favourites_count": 32319,
+    "followers_count": 469,
+    "statuses_count": 3396,
+    "favourites_count": 33148,
     "listed_count": 0,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2017-06-23 20:38:12 +08:00",
-    "url": "https://twitter.com/McSpicyOwO"
+    "url": "https://twitter.com/McSpicyOwO",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo4NzgyMzA3MDg2MDY0NjgwOTg=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 875,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "麦門町",
+            "media_count": 531,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1498221492000,
+            "updated_at": 1739589296476
+        }
+    }
 }

@@ -5,14 +5,74 @@
     "description": "Helping @mindvalley developers boost productivity | visionOS | I shoot rays at triangles with #AppleMetal 🔺 | Passionate about making remarkable software",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866134550692413440/SWyDU3LN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/2452784959/1733755714",
-    "followers_count": 272,
-    "statuses_count": 3135,
-    "favourites_count": 9120,
-    "listed_count": 10,
+    "followers_count": 282,
+    "statuses_count": 3356,
+    "favourites_count": 10150,
+    "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": true,
     "following": false,
     "followed_by": true,
     "created_at": "2014-04-19 16:13:17 +08:00",
-    "url": "https://twitter.com/jk_gan"
+    "url": "https://twitter.com/jk_gan",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoyNDUyNzg0OTU5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "jkgan.com",
+                            "expanded_url": "https://jkgan.com",
+                            "url": "https://t.co/Yc9DbFnP6s",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2270,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 170,
+            "pinned_tweet_ids_str": [
+                "1686746782171316224"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/Yc9DbFnP6s",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1645822431117058049",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1397895197000,
+            "updated_at": 1739589190763
+        }
+    }
 }

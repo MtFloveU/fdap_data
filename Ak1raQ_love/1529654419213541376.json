@@ -5,14 +5,64 @@
     "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529654419213541376/1737133047",
-    "followers_count": 1375,
-    "statuses_count": 6750,
-    "favourites_count": 6266,
-    "listed_count": 9,
+    "followers_count": 1389,
+    "statuses_count": 7677,
+    "favourites_count": 6562,
+    "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2022-05-26 10:43:47 +08:00",
-    "url": "https://twitter.com/3LifeStrongWine"
+    "url": "https://twitter.com/3LifeStrongWine",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTI5NjU0NDE5MjEzNTQxMzc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 220,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "浮生三千不过大梦一场",
+            "media_count": 1863,
+            "pinned_tweet_ids_str": [
+                "1874675451739971770"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1880936153949651131",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 933,
+                    "name": "Media Personality",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1653533027000,
+            "updated_at": 1739589287485
+        }
+    }
 }

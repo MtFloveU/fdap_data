@@ -1,18 +1,71 @@
 {
-  "id": "1694415127867744256",
-  "screen_name": "X_A_P_H_Y",
-  "name": "XapHy",
-  "description": "♪───Ｏ（≧∇≦）Ｏ────♪",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1718876946409668608/fyIJgdmS_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694415127867744256/1702069902",
-  "followers_count": 302,
-  "statuses_count": 4076,
-  "favourites_count": 6409,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-08-24 02:23:54 +08:00",
-  "url": "https://twitter.com/X_A_P_H_Y"
+    "id": "1694415127867744256",
+    "screen_name": "X_A_P_H_Y",
+    "name": "XapHy",
+    "description": "♪───Ｏ（≧∇≦）Ｏ────♪",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1718876946409668608/fyIJgdmS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694415127867744256/1702069902",
+    "followers_count": 301,
+    "statuses_count": 4073,
+    "favourites_count": 6390,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-08-24 02:23:54 +08:00",
+    "url": "https://twitter.com/X_A_P_H_Y",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjk0NDE1MTI3ODY3NzQ0MjU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "616.sb",
+                            "expanded_url": "http://616.sb",
+                            "url": "https://t.co/YY6Ks2iiQr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 507,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "打音游的",
+            "media_count": 430,
+            "pinned_tweet_ids_str": [
+                "1843090770083127332"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/YY6Ks2iiQr",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1692815034000,
+            "updated_at": 1739589247181
+        }
+    }
 }

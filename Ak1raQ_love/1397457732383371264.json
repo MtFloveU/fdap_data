@@ -5,14 +5,62 @@
     "description": "02丨有证含糖丨性别焦虑丨超级涩涩丨有点幼稚的呆呆I可以圆角～吧应该（发情期）|有🚪10¥|QQ：3428729769",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873679319618486272/ROaO7DYA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1397457732383371264/1736091681",
-    "followers_count": 198,
-    "statuses_count": 276,
-    "favourites_count": 398,
-    "listed_count": 0,
+    "followers_count": 267,
+    "statuses_count": 299,
+    "favourites_count": 470,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-05-26 15:41:15 +08:00",
-    "url": "https://twitter.com/tEFcunCqbRaas5L"
+    "url": "https://twitter.com/tEFcunCqbRaas5L",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzk3NDU3NzMyMzgzMzcxMjY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1072,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "周末可能会在上海.平时在昆山",
+            "media_count": 88,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1701104463849939353",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1622014875000,
+            "updated_at": 1739589296476
+        }
+    }
 }

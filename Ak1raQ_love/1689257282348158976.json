@@ -2,17 +2,72 @@
     "id": "1689257282348158976",
     "screen_name": "Inaba_Tsumugi",
     "name": "つむぎ🌙",
-    "description": "保持生活感很重要！ Darling @Amamiya_kksk",
+    "description": "保持生活感很重要！ By @Amamiya_kksk",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1831988524444454912/2gt5GFYM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689257282348158976/1736588661",
-    "followers_count": 579,
-    "statuses_count": 5478,
-    "favourites_count": 26897,
+    "followers_count": 578,
+    "statuses_count": 5503,
+    "favourites_count": 27059,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-08-09 12:48:24 +00:00",
-    "url": "https://twitter.com/Inaba_Tsumugi"
+    "created_at": "2023-08-09 20:48:24 +08:00",
+    "url": "https://twitter.com/Inaba_Tsumugi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjg5MjU3MjgyMzQ4MTU4OTc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "inaba.tsumugi.icu",
+                            "expanded_url": "http://inaba.tsumugi.icu",
+                            "url": "https://t.co/5WwyPDLAb8",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 932,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "UTC+7",
+            "media_count": 835,
+            "pinned_tweet_ids_str": [
+                "1831989041300173159"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/5WwyPDLAb8",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1691585304000,
+            "updated_at": 1739589275107
+        }
+    }
 }

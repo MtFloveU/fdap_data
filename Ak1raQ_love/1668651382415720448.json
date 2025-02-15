@@ -1,18 +1,59 @@
 {
-  "id": "1668651382415720448",
-  "screen_name": "Nana7miChk",
-  "name": "笨蛋七海大冒险",
-  "description": "再见，如果再也不能与你相见，那么祝你早安午安还有晚安。\n出自《楚门的世界》\n男朋友  @AAA76995421",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1866396401627693056/O_YrIaq0_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668651382415720448/1725537760",
-  "followers_count": 1048,
-  "statuses_count": 2520,
-  "favourites_count": 6068,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-06-14 00:07:58 +08:00",
-  "url": "https://twitter.com/Nana7miChk"
+    "id": "1668651382415720448",
+    "screen_name": "Nana7miChk",
+    "name": "笨蛋七海大冒险",
+    "description": "再见，如果再也不能与你相见，那么祝你早安午安还有晚安。\n出自《楚门的世界》\n男朋友  @AAA76995421",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1883191506267181056/vD8VeaT3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668651382415720448/1725537760",
+    "followers_count": 1032,
+    "statuses_count": 2530,
+    "favourites_count": 5904,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-06-14 00:07:58 +08:00",
+    "url": "https://twitter.com/Nana7miChk",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjY4NjUxMzgyNDE1NzIwNDQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1003,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "杭州",
+            "media_count": 263,
+            "pinned_tweet_ids_str": [
+                "1863578645572239766"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1686672478000,
+            "updated_at": 1739589282809
+        }
+    }
 }

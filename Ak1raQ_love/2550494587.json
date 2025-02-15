@@ -1,18 +1,57 @@
 {
-  "id": "2550494587",
-  "screen_name": "vu_yoyo",
-  "name": "VU yoyo～🏳️‍⚧️",
-  "description": "住在香港的非常孤獨的MTF，很需要人陪…… /人工智能和全棧工程師/Research Assistant of HKUST/很溫順的！打遊戲從不罵人 /仍未srs的大齡MTF /外觀完全不pass/超級喜歡黑暗系的衣服！YOYO最愛的小寶貝：@Rabbubble550W",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1632352012879933443/QEWl4dAI_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2550494587/1678018034",
-  "followers_count": 1660,
-  "statuses_count": 693,
-  "favourites_count": 3271,
-  "listed_count": 3,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2014-06-07 00:48:56 +08:00",
-  "url": "https://twitter.com/vu_yoyo"
+    "id": "2550494587",
+    "screen_name": "vu_yoyo",
+    "name": "VU yoyo～🏳️‍⚧️",
+    "description": "住在香港的非常孤獨的MTF，很需要人陪…… /人工智能和全棧工程師/Research Assistant of HKUST/很溫順的！打遊戲從不罵人 /仍未srs的大齡MTF /外觀完全不pass/超級喜歡黑暗系的衣服！YOYO最愛的小寶貝：@Rabbubble550W",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1632352012879933443/QEWl4dAI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2550494587/1678018034",
+    "followers_count": 1713,
+    "statuses_count": 790,
+    "favourites_count": 3313,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2014-06-07 00:48:56 +08:00",
+    "url": "https://twitter.com/vu_yoyo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoyNTUwNDk0NTg3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1086,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "HongKong",
+            "media_count": 96,
+            "pinned_tweet_ids_str": [
+                "1884209970608234573"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1402073336000,
+            "updated_at": 1739589270270
+        }
+    }
 }

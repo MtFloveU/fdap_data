@@ -5,14 +5,53 @@
     "description": "非二元/性别解放主义/hrt2023.6.25/对象@Rabbit_Pussy/愿化作一朵水仙花。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866142697205235712/V8vykQOi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454803007682453513/1725886788",
-    "followers_count": 1724,
-    "statuses_count": 1186,
-    "favourites_count": 6398,
+    "followers_count": 1781,
+    "statuses_count": 1203,
+    "favourites_count": 6418,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-10-31 21:31:05 +08:00",
-    "url": "https://twitter.com/I_Xinnnnn"
+    "url": "https://twitter.com/I_Xinnnnn",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDU0ODAzMDA3NjgyNDUzNTEz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 920,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Chiba-ken, Japan",
+            "media_count": 94,
+            "pinned_tweet_ids_str": [
+                "1872187369094603160"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1635687065000,
+            "updated_at": 1739589265461
+        }
+    }
 }

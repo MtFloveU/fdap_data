@@ -1,18 +1,98 @@
 {
-  "id": "1613659254770262016",
-  "screen_name": "lookwowdesu",
-  "name": "玩HIFI缺錢戰士🇯🇵🇭🇰🇹🇼🏳️‍🌈",
-  "description": "蟈蝻/友跨/反戰/抽象派畫手/佛教卍/機油/軍盲/中白hufi/職高牲 簡體中文/粵語口語/台繁/日本語 說話蠻幼稚的。學習動畫設計和日本語。偶爾⌨️政 但是不懂政治，偏向社民，嘗試和安人貼貼 🚫極左極右極粉、激推、網黃",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1617594635752443904/5B01ppwE_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613659254770262016/1715268620",
-  "followers_count": 145,
-  "statuses_count": 2031,
-  "favourites_count": 16459,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-01-13 06:08:57 +08:00",
-  "url": "https://twitter.com/lookwowdesu"
+    "id": "1613659254770262016",
+    "screen_name": "lookwowdesu",
+    "name": "玩HIFI缺錢戰士🇯🇵🇭🇰🇹🇼🏳️‍🌈",
+    "description": "蟈蝻/友跨/反戰/抽象派畫手/佛教卍/機油/軍盲/中白hufi/職高牲 簡體中文/粵語口語/台繁/日本語 說話蠻幼稚的。學習動畫設計和日本語。偶爾⌨️政 但是不懂政治，偏向社民，嘗試和安人貼貼 🚫極左極右極粉、激推、網黃",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1617594635752443904/5B01ppwE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613659254770262016/1715268620",
+    "followers_count": 147,
+    "statuses_count": 2032,
+    "favourites_count": 16271,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-01-13 06:08:57 +08:00",
+    "url": "https://twitter.com/lookwowdesu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjEzNjU5MjU0NzcwMjYyMDE2",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Kotenjun",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 22,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Kotenjun",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Kotenjun"
+                                        },
+                                        "rest_id": "1455463610038173698"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 427,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "IP属地：河南",
+            "media_count": 194,
+            "pinned_tweet_ids_str": [
+                "1789039293761044841"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1613997127948197889",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1027,
+                    "name": "Animator",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1673561337000,
+            "updated_at": 1739589217922
+        }
+    }
 }

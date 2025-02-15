@@ -5,14 +5,53 @@
     "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1699114659",
-    "followers_count": 1583,
-    "statuses_count": 3834,
-    "favourites_count": 22030,
+    "followers_count": 1686,
+    "statuses_count": 4017,
+    "favourites_count": 22536,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2020-03-07 23:48:59 +08:00",
-    "url": "https://twitter.com/RusndageSNF"
+    "url": "https://twitter.com/RusndageSNF",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjM2MzE3OTExNDMxNTM2NjQw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 884,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Winterpeg（划去）",
+            "media_count": 383,
+            "pinned_tweet_ids_str": [
+                "1873910970558587270"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "sensitive_media",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1583596139000,
+            "updated_at": 1739589301193
+        }
+    }
 }

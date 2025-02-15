@@ -1,18 +1,70 @@
 {
-  "id": "1074838588012052481",
-  "screen_name": "ChunXiaFb",
-  "name": "✡春夏风波🇭🇰🌈",
-  "description": "希望在这里找到我想要的东西，然后我会互关的，希望大家关注我支持我🌈，(≧▽≦*)。",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1541781569442299904/qC3mMBsn_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074838588012052481/1656388672",
-  "followers_count": 1994,
-  "statuses_count": 7872,
-  "favourites_count": 16051,
-  "listed_count": 5,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2018-12-18 09:27:43 +08:00",
-  "url": "https://twitter.com/ChunXiaFb"
+    "id": "1074838588012052481",
+    "screen_name": "ChunXiaFb",
+    "name": "✡春夏风波🇭🇰🌈",
+    "description": "希望在这里找到我想要的东西，然后我会互关的，希望大家关注我支持我🌈，(≧▽≦*)。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1541781569442299904/qC3mMBsn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074838588012052481/1656388672",
+    "followers_count": 1984,
+    "statuses_count": 7873,
+    "favourites_count": 15998,
+    "listed_count": 5,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2018-12-18 09:27:43 +08:00",
+    "url": "https://twitter.com/ChunXiaFb",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMDc0ODM4NTg4MDEyMDUyNDgx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2080,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Hong Kong",
+            "media_count": 420,
+            "pinned_tweet_ids_str": [
+                "1580485873300574208"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1537566197335851008",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 688,
+                    "name": "Non-Governmental & Nonprofit Organization ",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1545096463000,
+            "updated_at": 1739589239229
+        }
+    }
 }

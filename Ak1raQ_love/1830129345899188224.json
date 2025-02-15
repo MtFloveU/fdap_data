@@ -5,14 +5,90 @@
     "description": "我是小翌，10的蓝孩纸，郁抑症，轻度健忘症（表达能力和理解能力很差）不反对任何思想，不谈论与政治有关的事。愿意与每个人和平友好玩耍。小號@XiMaoMao630244。最让我搞笑的好朋友@saonanaa 提问箱https://t.co/wTGVRYBaRj",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872880612807524352/go99Kt7N_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830129345899188224/1735359389",
-    "followers_count": 1309,
-    "statuses_count": 3652,
-    "favourites_count": 9295,
+    "followers_count": 1317,
+    "statuses_count": 3662,
+    "favourites_count": 9345,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-01 14:24:20 +08:00",
-    "url": "https://twitter.com/y6302448844989"
+    "url": "https://twitter.com/y6302448844989",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODMwMTI5MzQ1ODk5MTg4MjI0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/y6302448844989/",
+                            "expanded_url": "https://ngl.link/y6302448844989/",
+                            "url": "https://t.co/wTGVRYBaRj",
+                            "indices": [
+                                106,
+                                129
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/@%E5%9B%9E%E5%…",
+                            "expanded_url": "https://www.youtube.com/@%E5%9B%9E%E5%BE%A9%E4%B8%AD%E3%81%AE%E8%B2%93",
+                            "url": "https://t.co/8eJS8orLhn",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3778,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "IP地址:福建省",
+            "media_count": 91,
+            "pinned_tweet_ids_str": [
+                "1887892712445399069"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/8eJS8orLhn",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1870082945819783308",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 962,
+                    "name": "Mobile Application",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1725171860000,
+            "updated_at": 1739589267789
+        }
+    }
 }

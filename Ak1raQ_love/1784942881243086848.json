@@ -3,16 +3,55 @@
     "screen_name": "WomSleeping",
     "name": "Wom sleeping",
     "description": "摄影爱好者（意外的考到证了），时不时分享一下扫街日常。二次元爱好者，大概是个技术宅，社恐，降噪耳机人柱力，赴德留学预备中，纯正工科生（确信）\n梦想是做个普通人",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1866103175662678016/ct0sA87O_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1877633732120805376/T_aXQ-Pz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784942881243086848/1714441483",
-    "followers_count": 136,
-    "statuses_count": 1619,
-    "favourites_count": 8627,
+    "followers_count": 195,
+    "statuses_count": 2498,
+    "favourites_count": 14012,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-04-29 21:48:52 +08:00",
-    "url": "https://twitter.com/WomSleeping"
+    "url": "https://twitter.com/WomSleeping",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzg0OTQyODgxMjQzMDg2ODQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2345,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 528,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1714398532000,
+            "updated_at": 1739589212649
+        }
+    }
 }

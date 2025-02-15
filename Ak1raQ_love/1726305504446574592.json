@@ -1,18 +1,66 @@
 {
-  "id": "1726305504446574592",
-  "screen_name": "dltc238567",
-  "name": "tikǒu'qwq🍥",
-  "description": "🏳️‍⚧️🍥一只笨蛋 恰糖 xyn，大笨蛋！\n07/推上就我不 pass 了\n唔...好想要朋友诶",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1746345030695157760/rV2uHvEa_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726305504446574592/1702999033",
-  "followers_count": 469,
-  "statuses_count": 382,
-  "favourites_count": 2616,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-11-20 02:24:56 +08:00",
-  "url": "https://twitter.com/dltc238567"
+    "id": "1726305504446574592",
+    "screen_name": "dltc238567",
+    "name": "tikǒu'qwq🍥",
+    "description": "🏳️‍⚧️🍥一只笨蛋 恰糖 xyn，大笨蛋！\n07/推上就我不 pass 了\n唔...好想要朋友诶",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1746345030695157760/rV2uHvEa_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726305504446574592/1702999033",
+    "followers_count": 463,
+    "statuses_count": 382,
+    "favourites_count": 2541,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-11-20 02:24:56 +08:00",
+    "url": "https://twitter.com/dltc238567",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzI2MzA1NTA0NDQ2NTc0NTky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 652,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "故宫地宫",
+            "media_count": 34,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1738781968903684594",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1700418296000,
+            "updated_at": 1739589296476
+        }
+    }
 }

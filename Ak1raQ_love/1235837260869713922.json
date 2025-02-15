@@ -3,16 +3,80 @@
     "screen_name": "1034_MIRACLE",
     "name": "东少DのMiracle（摸鱼中）",
     "description": "好好休息，好好吃饭，好好锻炼，大部分时候正能量get，月球人玩家(≧∇≦)/，咸鱼社畜一枚，愿大家每天元气满满，看心情互fo（实话）请适度且合理地键政，请勿轻易透过ID来随意批判他人！B站偶尔投稿用户，转生移至@MIRACLE91490649✌😋🚓",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1874536006508310528/ovKoq20b_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1881710445800951808/c4wOfX2A_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1235837260869713922/1716563886",
-    "followers_count": 2878,
-    "statuses_count": 63542,
-    "favourites_count": 147913,
-    "listed_count": 23,
+    "followers_count": 2929,
+    "statuses_count": 65450,
+    "favourites_count": 153101,
+    "listed_count": 14,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2020-03-06 15:59:13 +08:00",
-    "url": "https://twitter.com/1034_MIRACLE"
+    "url": "https://twitter.com/1034_MIRACLE",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjM1ODM3MjYwODY5NzEzOTIy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "pixiv.net/users/44358881",
+                            "expanded_url": "https://www.pixiv.net/users/44358881",
+                            "url": "https://t.co/jLKOoDkHQ6",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 5377,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "上海",
+            "media_count": 9651,
+            "pinned_tweet_ids_str": [
+                "1845455095498145960"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/jLKOoDkHQ6",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1465908744118751241",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1583481553000,
+            "updated_at": 1739589289590
+        }
+    }
 }

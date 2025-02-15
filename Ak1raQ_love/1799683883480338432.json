@@ -1,18 +1,73 @@
 {
-  "id": "1799683883480338432",
-  "screen_name": "chunlurenAAA",
-  "name": "最后の純鷺壬（再见了）",
-  "description": "？你看拟吗呢，我是罕见啊，这还用问吗 ？😡/                                政治露阴癖，小粉红，极端支黑我要杀了你🔪/                                                就当我是社民吧/不要放弃正义/我没活过，我死了/我爱着你们，再见❤️",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1807711693901836288/ZQjJGdE4_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799683883480338432/1723616398",
-  "followers_count": 118,
-  "statuses_count": 736,
-  "favourites_count": 660,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-06-09 14:04:27 +08:00",
-  "url": "https://twitter.com/chunlurenAAA"
+    "id": "1799683883480338432",
+    "screen_name": "chunlurenAAA",
+    "name": "最后の純鷺壬（再见了）",
+    "description": "？你看拟吗呢，我是罕见啊，这还用问吗 ？😡/                                政治露阴癖，小粉红，极端支黑我要杀了你🔪/                                                就当我是社民吧/不要放弃正义/我没活过，我死了/我爱着你们，再见❤️",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1807711693901836288/ZQjJGdE4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799683883480338432/1723616398",
+    "followers_count": 108,
+    "statuses_count": 734,
+    "favourites_count": 651,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-06-09 14:04:27 +08:00",
+    "url": "https://twitter.com/chunlurenAAA",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk5NjgzODgzNDgwMzM4NDMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "marxists.org/chinese",
+                            "expanded_url": "https://www.marxists.org/chinese",
+                            "url": "https://t.co/hOfuYxAZcY",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 426,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "没有黑暗的地方（）",
+            "media_count": 63,
+            "pinned_tweet_ids_str": [
+                "1828618238969758170"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/hOfuYxAZcY",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1717913067000,
+            "updated_at": 1739589220929
+        }
+    }
 }

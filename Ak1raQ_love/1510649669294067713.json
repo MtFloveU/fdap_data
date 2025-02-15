@@ -5,14 +5,64 @@
     "description": "こんにちは、私はちゅうごくから来て、27歳、私は日本が好きで、宝可夢が好きで、アニメが好きで、芸術の挿絵が好きで。日本語はまだ上手ではありませんが、一生懸命勉強しています。だから私は日本のツイッタースペースに入ってみんなの話を聞きます。 もしあなたが私と話すことができるならば，私は長い間幸せになります。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1838075995490009089/TqmGFGdc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510649669294067713/1702708517",
-    "followers_count": 161,
-    "statuses_count": 4095,
-    "favourites_count": 5327,
+    "followers_count": 171,
+    "statuses_count": 4853,
+    "favourites_count": 7485,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-04-04 00:05:32 +08:00",
-    "url": "https://twitter.com/Sin42425292"
+    "url": "https://twitter.com/Sin42425292",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTEwNjQ5NjY5Mjk0MDY3NzEz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2239,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1620329016615141376",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 477,
+                    "name": "Professional Services",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1649001932000,
+            "updated_at": 1739589187893
+        }
+    }
 }

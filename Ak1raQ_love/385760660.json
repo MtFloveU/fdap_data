@@ -5,14 +5,64 @@
     "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
-    "followers_count": 1321,
-    "statuses_count": 9752,
-    "favourites_count": 24497,
+    "followers_count": 1331,
+    "statuses_count": 9787,
+    "favourites_count": 24665,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2011-10-06 10:34:45 +08:00",
-    "url": "https://twitter.com/psyofsouthwest"
+    "url": "https://twitter.com/psyofsouthwest",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjozODU3NjA2NjA=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3111,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "赫歇城中区圣武巷33号",
+            "media_count": 303,
+            "pinned_tweet_ids_str": [
+                "1868779309206225163"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1627060384225165312",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 672,
+                    "name": "Crisis Prevention Center",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1317868485000,
+            "updated_at": 1739589272743
+        }
+    }
 }

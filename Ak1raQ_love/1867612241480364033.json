@@ -1,18 +1,85 @@
 {
     "id": "1867612241480364033",
     "screen_name": "tuitewanii",
-    "name": "赐你左籍🏁赠你右籍🏳",
-    "description": "卢关人民阵线党主席@KoNya14056 牢干部 @loisaker @8964i3 @chuangyu1917/现实豆蒸中淡推少话✋✋",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1888317291017965568/hB98ezQJ_normal.jpg",
+    "name": "举起左手🏁握紧右手🏳",
+    "description": "不受认可也无法合格 | 轻度政治趣味 | 重度网络依赖 | 🚪 a morsel of Love and Compassion | 卢关人民阵线真同志@KoNya14056 @loisaker @8964i3 @chuangyu1917",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890600432579588096/4x8FNVRu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867612241480364033/1735435011",
-    "followers_count": 157,
-    "statuses_count": 617,
-    "favourites_count": 11923,
+    "followers_count": 0,
+    "statuses_count": 619,
+    "favourites_count": 14,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-12-13 16:47:21 +00:00",
-    "url": "https://twitter.com/tuitewanii"
+    "created_at": "2024-12-14 00:47:21 +08:00",
+    "url": "https://twitter.com/tuitewanii",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODY3NjEyMjQxNDgwMzY0MDMz",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Dual_immanentia",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Dual_immanentia",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Dual_immanentia"
+                                        },
+                                        "rest_id": "1788905898330750978"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 0,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 28,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1734108441000,
+            "updated_at": 1739589257611
+        }
+    }
 }

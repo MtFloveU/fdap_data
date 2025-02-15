@@ -1,18 +1,83 @@
 {
-  "id": "1756664111637856256",
-  "screen_name": "eris_1225",
-  "name": "艾莉絲",
-  "description": "為了世界和平而努力著！                                                           💼在美好世界無限股份公司擔任社畜。\n歡迎小額贊助我😍😍😍",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1756665334231396352/KAUvU7Uu_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 965,
-  "statuses_count": 126,
-  "favourites_count": 109,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-02-11 20:59:21 +08:00",
-  "url": "https://twitter.com/eris_1225"
+    "id": "1756664111637856256",
+    "screen_name": "eris_1225",
+    "name": "艾莉絲",
+    "description": "為了世界和平而努力著！                                                           💼在美好世界無限股份公司擔任社畜。\n歡迎小額贊助我😍😍😍",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1756665334231396352/KAUvU7Uu_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 950,
+    "statuses_count": 126,
+    "favourites_count": 107,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-02-11 20:59:21 +08:00",
+    "url": "https://twitter.com/eris_1225",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU2NjY0MTExNjM3ODU2MjU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/profile.php?id…",
+                            "expanded_url": "https://www.facebook.com/profile.php?id=100076203753993&mibextid=2JQ9oc",
+                            "url": "https://t.co/7TzBJecnZ6",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3393,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "異世界",
+            "media_count": 35,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/7TzBJecnZ6",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1756688339523252639",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "ethereum_handle": "0x0506984752F818863CDbceca569cb96a2C7a8279"
+        },
+        "twe_private_fields": {
+            "created_at": 1707656361000,
+            "updated_at": 1739589244385
+        }
+    }
 }

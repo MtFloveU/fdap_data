@@ -1,18 +1,57 @@
 {
-  "id": "1622346900824522752",
-  "screen_name": "Miatta_Leon",
-  "name": "MiattaLeon🌹🏳️‍⚧️🌳🌺🌊",
-  "description": "02年MtF-X/筹备hrt中，祝自己come out顺利/留学香港/INFP-T兼谱系障碍兼轻度焦虑性抑郁，负能量警告/不键政，不发黄",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1625844243708403713/DHBDCWDo_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622346900824522752/1678104828",
-  "followers_count": 1984,
-  "statuses_count": 28882,
-  "favourites_count": 168769,
-  "listed_count": 8,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-02-06 05:30:30 +08:00",
-  "url": "https://twitter.com/Miatta_Leon"
+    "id": "1622346900824522752",
+    "screen_name": "Miatta_Leon",
+    "name": "MiattaLeon🌹🏳️‍⚧️🌳🌺🌊",
+    "description": "02年MtF-X/筹备hrt中，祝自己come out顺利/留学香港/INFP-T兼谱系障碍兼轻度焦虑性抑郁，负能量警告/不键政，不发黄",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1625844243708403713/DHBDCWDo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622346900824522752/1678104828",
+    "followers_count": 2084,
+    "statuses_count": 31063,
+    "favourites_count": 186336,
+    "listed_count": 8,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-02-06 05:30:30 +08:00",
+    "url": "https://twitter.com/Miatta_Leon",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjIyMzQ2OTAwODI0NTIyNzUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3945,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "香港",
+            "media_count": 417,
+            "pinned_tweet_ids_str": [
+                "1666442104552275969"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1675632630000,
+            "updated_at": 1739589277836
+        }
+    }
 }

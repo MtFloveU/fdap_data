@@ -5,7 +5,7 @@
     "description": "今天也是坠落的一天，什么时候才能到底呢？",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883120544951787520/3uwmwuT7_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 28,
+    "followers_count": 26,
     "statuses_count": 304,
     "favourites_count": 18,
     "listed_count": 0,
@@ -14,5 +14,58 @@
     "following": false,
     "followed_by": true,
     "created_at": "2024-08-04 15:45:31 +08:00",
-    "url": "https://twitter.com/n9tank163"
+    "url": "https://twitter.com/n9tank163",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODIwMDAyOTcyOTM3NzExNjE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "github.com/n9tank",
+                            "expanded_url": "http://www.github.com/n9tank",
+                            "url": "https://t.co/dK7pYbygxs",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 71,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "雾之湖旁边的冰屋",
+            "media_count": 3,
+            "pinned_tweet_ids_str": [
+                "1825844026970616177"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/dK7pYbygxs",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1722757531000,
+            "updated_at": 1739589214059
+        }
+    }
 }

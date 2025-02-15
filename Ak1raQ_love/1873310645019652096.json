@@ -6,13 +6,53 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877626509265088513/fjaSCYhf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1873310645019652096/1735564795",
     "followers_count": 71,
-    "statuses_count": 312,
-    "favourites_count": 1971,
+    "statuses_count": 315,
+    "favourites_count": 1975,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-12-29 18:11:25 +08:00",
-    "url": "https://twitter.com/GotoHoshino0102"
+    "url": "https://twitter.com/GotoHoshino0102",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODczMzEwNjQ1MDE5NjUyMDk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 251,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "ギヴォトス",
+            "media_count": 49,
+            "pinned_tweet_ids_str": [
+                "1874123595997438279"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1735467085000,
+            "updated_at": 1739589187893
+        }
+    }
 }

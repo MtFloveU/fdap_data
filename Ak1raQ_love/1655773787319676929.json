@@ -5,14 +5,51 @@
     "description": "当朋友圈发，我骂的没娘骂我的没妈",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885011469923999748/yu0FNpOI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655773787319676929/1738256645",
-    "followers_count": 96,
-    "statuses_count": 2355,
-    "favourites_count": 1538,
+    "followers_count": 99,
+    "statuses_count": 2391,
+    "favourites_count": 1549,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-05-09 11:16:59 +08:00",
-    "url": "https://twitter.com/fliem_147258369"
+    "url": "https://twitter.com/fliem_147258369",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjU1NzczNzg3MzE5Njc2OTI5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 126,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "China",
+            "media_count": 161,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1683602219000,
+            "updated_at": 1739589260496
+        }
+    }
 }

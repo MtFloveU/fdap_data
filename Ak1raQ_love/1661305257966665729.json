@@ -1,18 +1,69 @@
 {
-  "id": "1661305257966665729",
-  "screen_name": "MTF_0615",
-  "name": "槿彧🏳️‍🌈",
-  "description": "某个08年出生的已自切MTF跨女🏳️‍⚧️社会自由主义 | 双相障碍，我精神状态极差，可能会发布消极内容请见谅",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1864087502858092544/26IGZSei_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661305257966665729/1718387173",
-  "followers_count": 906,
-  "statuses_count": 2179,
-  "favourites_count": 4265,
-  "listed_count": 7,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-05-24 17:37:11 +08:00",
-  "url": "https://twitter.com/MTF_0615"
+    "id": "1661305257966665729",
+    "screen_name": "MTF_0615",
+    "name": "槿彧🏳️‍🌈",
+    "description": "某个08年出生的已自切MTF跨女🏳️‍⚧️社会自由主义 | 双相障碍，我精神状态极差，可能会发布消极内容请见谅",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1864087502858092544/26IGZSei_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661305257966665729/1718387173",
+    "followers_count": 870,
+    "statuses_count": 2179,
+    "favourites_count": 4207,
+    "listed_count": 6,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-05-24 17:37:11 +08:00",
+    "url": "https://twitter.com/MTF_0615",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjYxMzA1MjU3OTY2NjY1NzI5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 118,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Earth",
+            "media_count": 330,
+            "pinned_tweet_ids_str": [
+                "1846429657648058425"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1765041565846712409",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1684921031000,
+            "updated_at": 1739589275107
+        }
+    }
 }

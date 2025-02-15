@@ -1,18 +1,84 @@
 {
-  "id": "1535841238733033473",
-  "screen_name": "Valkyria_Trials",
-  "name": "Valkyria",
-  "description": "Valkyria是一个18岁(?)的少年。\n会用中文/English，无法用日语交流。\n一般不会涉政/键政，也尽量不会去屏蔽别人，但过分怪异的人会被屏蔽。\n真心感謝你與我的相遇。ㅤㅤㅤㅤ",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1659422051625734147/YavM1j04_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1535841238733033473/1655010478",
-  "followers_count": 1153,
-  "statuses_count": 6859,
-  "favourites_count": 24257,
-  "listed_count": 11,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-06-12 12:27:50 +08:00",
-  "url": "https://twitter.com/Valkyria_Trials"
+    "id": "1535841238733033473",
+    "screen_name": "Valkyria_Trials",
+    "name": "Valkyria",
+    "description": "Valkyria是一个18岁(?)的少年。\n会用中文/English，无法用日语交流。\n一般不会涉政/键政，也尽量不会去屏蔽别人，但过分怪异的人会被屏蔽。\n真心感謝你與我的相遇。ㅤㅤㅤㅤ",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1659422051625734147/YavM1j04_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1535841238733033473/1655010478",
+    "followers_count": 1158,
+    "statuses_count": 6893,
+    "favourites_count": 24200,
+    "listed_count": 10,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-06-12 12:27:50 +08:00",
+    "url": "https://twitter.com/Valkyria_Trials",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTM1ODQxMjM4NzMzMDMzNDcz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/Valkyria_Trials",
+                            "expanded_url": "http://t.me/Valkyria_Trials",
+                            "url": "https://t.co/nqawLwoRBZ",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1209,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "New Taipei City, Taiwan",
+            "media_count": 450,
+            "pinned_tweet_ids_str": [
+                "1729896207701713184"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/nqawLwoRBZ",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1616733474983137282",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1655008070000,
+            "updated_at": 1739589294389
+        }
+    }
 }

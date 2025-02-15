@@ -3,16 +3,59 @@
     "screen_name": "hatsuki_mumu",
     "name": "叶🍂🥥🐦‍⬛🦀🍥",
     "description": "@CelestialNeb 依存症 | 猫猫 @storMTXsnow8964 | 含糖中 | 照片都在亮点里 | 🟨⬜️🟪⬛️❤️💛🩵",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1864821762585956358/OAhfFExk_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127115227630149632/1735820253",
-    "followers_count": 316,
-    "statuses_count": 1033,
-    "favourites_count": 11174,
-    "listed_count": 1,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1876212451957764096/b_dGecOH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127115227630149632/1739587225",
+    "followers_count": 318,
+    "statuses_count": 1180,
+    "favourites_count": 11142,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2019-05-11 15:36:25 +08:00",
-    "url": "https://twitter.com/hatsuki_mumu"
+    "url": "https://twitter.com/hatsuki_mumu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTI3MTE1MjI3NjMwMTQ5NjMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 58,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "距离你 0.8964km",
+            "media_count": 245,
+            "pinned_tweet_ids_str": [
+                "1860336276211400999"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false,
+            "bitcoin_handle": "",
+            "ethereum_handle": ""
+        },
+        "twe_private_fields": {
+            "created_at": 1557560185000,
+            "updated_at": 1739589287485
+        }
+    }
 }

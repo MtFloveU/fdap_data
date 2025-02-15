@@ -1,18 +1,55 @@
 {
-  "id": "1811071398716256256",
-  "screen_name": "maidx_tp",
-  "name": "星核猎手托帕",
-  "description": "星核猎手旗下「舞萌DX部」高级干部托帕，领导拆机小b登纠察小组。年纪轻轻便已成为「石心十人」之一，基石为「AIME」",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1829709533582934016/juELVs1i_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811071398716256256/1725071721",
-  "followers_count": 18,
-  "statuses_count": 321,
-  "favourites_count": 520,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-07-11 00:14:29 +08:00",
-  "url": "https://twitter.com/maidx_tp"
+    "id": "1811071398716256256",
+    "screen_name": "maidx_tp",
+    "name": "星核猎手托帕",
+    "description": "星核猎手旗下「舞萌DX部」高级干部托帕，领导拆机小b登纠察小组。年纪轻轻便已成为「石心十人」之一，基石为「AIME」",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1829709533582934016/juELVs1i_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811071398716256256/1725071721",
+    "followers_count": 20,
+    "statuses_count": 331,
+    "favourites_count": 536,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-07-11 00:14:29 +08:00",
+    "url": "https://twitter.com/maidx_tp",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODExMDcxMzk4NzE2MjU2MjU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 50,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Taoyuan County, Taiwan",
+            "media_count": 16,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1720628069000,
+            "updated_at": 1739589234225
+        }
+    }
 }

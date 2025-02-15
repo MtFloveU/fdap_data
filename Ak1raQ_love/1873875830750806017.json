@@ -5,14 +5,53 @@
     "description": "🐱xyn🏳️‍⚧️hrt 2023.9.9🍥170cm/58kg🍥重度失眠🍥热爱贴贴🍥文学少女🍥永不言弃🍥点赞互推🍥可以线下🍥门槛50🍥小说在亮点，不定时更新🍥",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873875982727200768/_MTDhotU_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1873875830750806017/1735605487",
-    "followers_count": 3517,
-    "statuses_count": 876,
-    "favourites_count": 2316,
+    "followers_count": 3981,
+    "statuses_count": 1010,
+    "favourites_count": 2681,
     "listed_count": 21,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-12-31 07:36:42 +08:00",
-    "url": "https://twitter.com/ypx2025"
+    "url": "https://twitter.com/ypx2025",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODczODc1ODMwNzUwODA2MDE3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 333,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "广东 全国飞",
+            "media_count": 30,
+            "pinned_tweet_ids_str": [
+                "1877765637675651565"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1735601802000,
+            "updated_at": 1739589267789
+        }
+    }
 }

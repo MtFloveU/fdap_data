@@ -5,14 +5,55 @@
     "description": "🐹🤍🍥｜每日心情@xibubuQvQ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874197261430784001/u2lPDuZF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608817124704923648/1730001726",
-    "followers_count": 823,
-    "statuses_count": 4807,
-    "favourites_count": 8179,
+    "followers_count": 845,
+    "statuses_count": 4939,
+    "favourites_count": 8453,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2022-12-30 21:28:18 +08:00",
-    "url": "https://twitter.com/Hyperbubuemia"
+    "url": "https://twitter.com/Hyperbubuemia",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjA4ODE3MTI0NzA0OTIzNjQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 707,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "阳光蘑菇房🇨🇦 厦门",
+            "media_count": 293,
+            "pinned_tweet_ids_str": [
+                "1753991720667083028"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1672406898000,
+            "updated_at": 1739589287485
+        }
+    }
 }

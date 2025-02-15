@@ -5,14 +5,108 @@
     "description": "真中あお/真中藍/真中苍 です /国旗设计者/传统能源主义者\n🍥🏳️/mtf/交通/态度温和/喜欢看恋爱小行星/喜欢真中苍和木之幡米拉\n同类互fo 谢绝鉴证 \n我会一直爱你哦！@heiwawomamore\n里推/ @ND5_0179",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885008919795556353/gedKif8l_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773877435748270080/1739329056",
-    "followers_count": 2009,
-    "statuses_count": 21815,
-    "favourites_count": 18617,
+    "followers_count": 2007,
+    "statuses_count": 21899,
+    "favourites_count": 18727,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-03-30 00:59:05 +00:00",
-    "url": "https://twitter.com/manakaao68"
+    "created_at": "2024-03-30 08:59:05 +08:00",
+    "url": "https://twitter.com/manakaao68",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzczODc3NDM1NzQ4MjcwMDgw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @ND5_0179",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 22,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "ND5_0179",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "ND5_0179"
+                                        },
+                                        "rest_id": "1889251771350138880"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "hzbus.com.cn",
+                            "expanded_url": "https://www.hzbus.com.cn/",
+                            "url": "https://t.co/6ccqwCfA2Q",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3692,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "杭州公交集団",
+            "media_count": 1039,
+            "pinned_tweet_ids_str": [
+                "1877669811678802255"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/6ccqwCfA2Q",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1777261797525094416",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 880,
+                    "name": "Travel & Transportation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1711760345000,
+            "updated_at": 1739589282809
+        }
+    }
 }

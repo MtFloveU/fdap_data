@@ -4,15 +4,64 @@
     "name": "可憐の拖碼頭（推油寻回中）",
     "description": "想象一只柿子精\n每天中午吃早饭，晚上不吃饭\n一有钱就买零食，有时间就打游戏\n最喜欢被窝和手机\n想象到了没？那就是本柿子(｡･･｡)👉🍅\n匿名提问：https://t.co/Cdv6kfoKQ3（原来的掉了）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1842885793461010432/LZkb13we_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840746951522095104/1727743908",
-    "followers_count": 201,
-    "statuses_count": 1485,
-    "favourites_count": 5684,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840746951522095104/1739366308",
+    "followers_count": 212,
+    "statuses_count": 1677,
+    "favourites_count": 6269,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-30 21:34:22 +08:00",
-    "url": "https://twitter.com/poor_tomato_qaq"
+    "url": "https://twitter.com/poor_tomato_qaq",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQwNzQ2OTUxNTIyMDk1MTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/poor_tomato_qa…",
+                            "expanded_url": "https://ngl.link/poor_tomato_qaq1",
+                            "url": "https://t.co/Cdv6kfoKQ3",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 175,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "番茄种植基地",
+            "media_count": 147,
+            "pinned_tweet_ids_str": [
+                "1889665253874507789"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1727703262000,
+            "updated_at": 1739589275107
+        }
+    }
 }

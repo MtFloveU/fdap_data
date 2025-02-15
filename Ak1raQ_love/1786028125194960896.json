@@ -1,18 +1,55 @@
 {
-  "id": "1786028125194960896",
-  "screen_name": "Luminoltears",
-  "name": "鲁米诺",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1786038256225923072/e81O6z8B_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 31,
-  "statuses_count": 0,
-  "favourites_count": 1,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-05-02 21:41:12 +08:00",
-  "url": "https://twitter.com/Luminoltears"
+    "id": "1786028125194960896",
+    "screen_name": "Luminoltears",
+    "name": "鲁米诺",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1786038256225923072/e81O6z8B_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 46,
+    "statuses_count": 1,
+    "favourites_count": 2,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-05-02 21:41:12 +08:00",
+    "url": "https://twitter.com/Luminoltears",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzg2MDI4MTI1MTk0OTYwODk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 744,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1714657272000,
+            "updated_at": 1739589239229
+        }
+    }
 }

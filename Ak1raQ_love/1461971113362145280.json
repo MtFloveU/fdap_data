@@ -5,14 +5,74 @@
     "description": "绝不翻车的顺直左B癫佬，希望发生好玩的事，比烂的确是人类社会的毒瘤",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1867609944859754496/LNawlrIs_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461971113362145280/1734107926",
-    "followers_count": 1691,
-    "statuses_count": 44929,
-    "favourites_count": 33932,
-    "listed_count": 7,
+    "followers_count": 1721,
+    "statuses_count": 45726,
+    "favourites_count": 34391,
+    "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-11-20 16:14:20 +08:00",
-    "url": "https://twitter.com/MokouReisen"
+    "url": "https://twitter.com/MokouReisen",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDYxOTcxMTEzMzYyMTQ1Mjgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/fujiwa…",
+                            "expanded_url": "https://bsky.app/profile/fujiwarareisen.bsky.social",
+                            "url": "https://t.co/tZovsMPHZC",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2188,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Eientē,The MNC,P.R.Gensokyo",
+            "media_count": 2818,
+            "pinned_tweet_ids_str": [
+                "1851598915147100160"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/tZovsMPHZC",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1644560420286660608",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1637396060000,
+            "updated_at": 1739589280336
+        }
+    }
 }

@@ -1,18 +1,55 @@
 {
-  "id": "1649293525480251394",
-  "screen_name": "hnap4862",
-  "name": "Hn",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1649293995452014592/SwSoilM-_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 11,
-  "statuses_count": 0,
-  "favourites_count": 4022,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-04-21 14:06:43 +08:00",
-  "url": "https://twitter.com/hnap4862"
+    "id": "1649293525480251394",
+    "screen_name": "hnap4862",
+    "name": "Hn",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1649293995452014592/SwSoilM-_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 14,
+    "statuses_count": 0,
+    "favourites_count": 5537,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-04-21 14:06:43 +08:00",
+    "url": "https://twitter.com/hnap4862",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjQ5MjkzNTI1NDgwMjUxMzk0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 612,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1682057203000,
+            "updated_at": 1739589241831
+        }
+    }
 }

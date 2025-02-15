@@ -1,18 +1,114 @@
 {
-  "id": "902108985368559616",
-  "screen_name": "fly_me2_themoon",
-  "name": "Hamano Taiki🍥",
-  "description": "INFP | Game Dev | 没有抱枕会失眠… | 希望和大家做朋友 | 猫猫和狗狗 | 最喜欢的事物:开心的大家 | ZH/EN, DE 学习中… | 😻moonlight: @Hennyano ❤️ |",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1869010619862777856/7qefksyc_normal.png",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/902108985368559616/1708096445",
-  "followers_count": 1383,
-  "statuses_count": 817,
-  "favourites_count": 5287,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2017-08-28 18:01:57 +08:00",
-  "url": "https://twitter.com/fly_me2_themoon"
+    "id": "902108985368559616",
+    "screen_name": "fly_me2_themoon",
+    "name": "Hamano Taiki🍥",
+    "description": "INFP | Game Dev | 没有抱枕会失眠… | 希望和大家做朋友 | 猫猫和狗狗 | 最喜欢的事物:开心的大家 | ZH/EN, DE 学习中… | 😻moonlight: @Hennyano ❤️ |",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1871944725202100225/toz5OJtX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/902108985368559616/1708096445",
+    "followers_count": 1381,
+    "statuses_count": 825,
+    "favourites_count": 5686,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2017-08-28 18:01:57 +08:00",
+    "url": "https://twitter.com/fly_me2_themoon",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5MDIxMDg5ODUzNjg1NTk2MTY=",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Hennyano",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 22,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Hennyano",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Hennyano"
+                                        },
+                                        "rest_id": "1220170861761781762"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linktr.ee/Hamano_Taiki",
+                            "expanded_url": "https://linktr.ee/Hamano_Taiki",
+                            "url": "https://t.co/jS6ihn8f9M",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 858,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "🌕",
+            "media_count": 90,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/jS6ihn8f9M",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1817568790517039481",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1091,
+                    "name": "3D Artist (or) 3D Designer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "18UmEfmbxtNSoEZpM4qk4y2Jv5DjDwXDXy",
+            "ethereum_handle": "0xa001a37a089383ac548c6f57cd86da0a98494881"
+        },
+        "twe_private_fields": {
+            "created_at": 1503914517000,
+            "updated_at": 1739589292073
+        }
+    }
 }

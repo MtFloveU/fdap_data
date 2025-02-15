@@ -1,18 +1,57 @@
 {
-  "id": "1794196602304991232",
-  "screen_name": "pleasedotkillme",
-  "name": "这实在是太糟糕了",
-  "description": "♀，she/her",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1843249559033819136/46IAIxXe_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 33,
-  "statuses_count": 88,
-  "favourites_count": 5667,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-05-25 10:39:52 +08:00",
-  "url": "https://twitter.com/pleasedotkillme"
+    "id": "1794196602304991232",
+    "screen_name": "pleasedotkillme",
+    "name": "这实在是太糟糕了",
+    "description": "♀，she/her",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1872316771535097856/2_kt8mH-_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 36,
+    "statuses_count": 87,
+    "favourites_count": 7016,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-05-25 10:39:52 +08:00",
+    "url": "https://twitter.com/pleasedotkillme",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk0MTk2NjAyMzA0OTkxMjMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 147,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [
+                "1882873164210024825"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1716604792000,
+            "updated_at": 1739589285081
+        }
+    }
 }

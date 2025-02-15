@@ -5,14 +5,76 @@
     "description": "没什么不好，不好的也在变好",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1853470587273760768/Qr3W2TmY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257988898724040705/1737825742",
-    "followers_count": 141,
-    "statuses_count": 839,
-    "favourites_count": 2752,
+    "followers_count": 147,
+    "statuses_count": 864,
+    "favourites_count": 2898,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2020-05-06 19:02:06 +08:00",
-    "url": "https://twitter.com/Drakkarghost"
+    "url": "https://twitter.com/Drakkarghost",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjU3OTg4ODk4NzI0MDQwNzA1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "tkww.hk/a/202501/25/AP…",
+                            "expanded_url": "https://www.tkww.hk/a/202501/25/AP67942604e4b04111a49f8c4a.html",
+                            "url": "https://t.co/1TNm19Rb5q",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 680,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Perth, Western Australia",
+            "media_count": 257,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/1TNm19Rb5q",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1862798329999933893",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 980,
+                    "name": "Confectionary Manufacturer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1588762926000,
+            "updated_at": 1739589185112
+        }
+    }
 }

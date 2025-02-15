@@ -5,14 +5,65 @@
     "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1702752062642049024/RcYs1yfS_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 155,
+    "followers_count": 180,
     "statuses_count": 0,
-    "favourites_count": 344,
+    "favourites_count": 343,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-09-12 14:08:27 +08:00",
-    "url": "https://twitter.com/chirino_lori57"
+    "url": "https://twitter.com/chirino_lori57",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzAxNDc3Nzk2ODkwMTk4MDE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ari-cams.fun/star/chirino_l…",
+                            "expanded_url": "http://ari-cams.fun/star/chirino_lori57",
+                            "url": "https://t.co/LtJnVbBvUe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3009,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/LtJnVbBvUe",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1694498907000,
+            "updated_at": 1739589249659
+        }
+    }
 }

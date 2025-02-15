@@ -5,14 +5,53 @@
     "description": "一名苦逼高三生｜希望和大家作为好朋友，基本上fo的都会回｜自用机场是一元机场｜加点东西@satsushou__sonn｜头像画师：@yangyan88596853 ｜咱的好朋友@qingshixiang258 @xsf727",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876295299439939584/KPTvk2v1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794131217463615488/1736146775",
-    "followers_count": 1915,
-    "statuses_count": 3841,
-    "favourites_count": 1853,
-    "listed_count": 4,
+    "followers_count": 2127,
+    "statuses_count": 4215,
+    "favourites_count": 1921,
+    "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-05-25 06:20:05 +08:00",
-    "url": "https://twitter.com/satsushou_sonn"
+    "url": "https://twitter.com/satsushou_sonn",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk0MTMxMjE3NDYzNjE1NDg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2616,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "中华人民共和国",
+            "media_count": 202,
+            "pinned_tweet_ids_str": [
+                "1889937031511548353"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1716589205000,
+            "updated_at": 1739589275107
+        }
+    }
 }

@@ -5,14 +5,53 @@
     "description": "双相/住过宛平南路600号/不涉政/丑逼/文学/文艺片/有对象/会回关有趣的人",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1827349139002392576/i6reGUHg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628351628826005505/1679135084",
-    "followers_count": 80,
-    "statuses_count": 892,
-    "favourites_count": 4223,
+    "followers_count": 99,
+    "statuses_count": 912,
+    "favourites_count": 4288,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-02-22 19:11:34 +08:00",
-    "url": "https://twitter.com/saya050104"
+    "url": "https://twitter.com/saya050104",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjI4MzUxNjI4ODI2MDA1NTA1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 337,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "下北泽！",
+            "media_count": 322,
+            "pinned_tweet_ids_str": [
+                "1773179203237683293"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1677064294000,
+            "updated_at": 1739589287485
+        }
+    }
 }

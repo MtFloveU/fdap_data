@@ -5,14 +5,53 @@
     "description": "冷暴力艺术家",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872248924481921024/9GvOZd_k_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796027129488187392/1717043135",
-    "followers_count": 6,
-    "statuses_count": 15,
-    "favourites_count": 105,
+    "followers_count": 5,
+    "statuses_count": 16,
+    "favourites_count": 108,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-05-30 11:53:41 +08:00",
-    "url": "https://twitter.com/Asc_ius"
+    "url": "https://twitter.com/Asc_ius",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk2MDI3MTI5NDg4MTg3Mzky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 20,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 3,
+            "pinned_tweet_ids_str": [
+                "1857100224512283026"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1717041221000,
+            "updated_at": 1739589177245
+        }
+    }
 }

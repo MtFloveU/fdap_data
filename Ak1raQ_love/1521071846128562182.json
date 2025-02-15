@@ -3,16 +3,92 @@
     "screen_name": "ZhuoZheng1990",
     "name": "春薄日浓🏳️‍⚧️",
     "description": "意义是歌曲、犯错和\"无论贫穷还是富贵，无论疾病还是健康……\"。",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1883108393499729920/n0uEcVdK_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521071846128562182/1733132490",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1888467090291437568/K0Xbqdif_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521071846128562182/1739080627",
     "followers_count": 368,
-    "statuses_count": 2714,
-    "favourites_count": 2817,
+    "statuses_count": 2736,
+    "favourites_count": 2828,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-05-02 18:19:37 +08:00",
-    "url": "https://twitter.com/ZhuoZheng1990"
+    "url": "https://twitter.com/ZhuoZheng1990",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTIxMDcxODQ2MTI4NTYyMTgy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @ChunBoriNong",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 26,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "ChunBoriNong",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "ChunBoriNong"
+                                        },
+                                        "rest_id": "1731709770955177984"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 418,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "中国",
+            "media_count": 70,
+            "pinned_tweet_ids_str": [
+                "1822296221022880198"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1538549717772054528",
+            "professional_type": "Business",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1651486777000,
+            "updated_at": 1739589285081
+        }
+    }
 }

@@ -1,18 +1,71 @@
 {
-  "id": "1663138553940033536",
-  "screen_name": "wasabi1919115",
-  "name": "Wasabi_3n",
-  "description": "建议去b站找我\n推常年潜水",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1821428563381198848/XKX4wC-v_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663138553940033536/1723097450",
-  "followers_count": 2,
-  "statuses_count": 0,
-  "favourites_count": 9,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-05-29 19:02:05 +08:00",
-  "url": "https://twitter.com/wasabi1919115"
+    "id": "1663138553940033536",
+    "screen_name": "wasabi1919115",
+    "name": "Wasabi_3n",
+    "description": "建议去b站找我\n推常年潜水",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1821428563381198848/XKX4wC-v_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663138553940033536/1723097450",
+    "followers_count": 1,
+    "statuses_count": 0,
+    "favourites_count": 9,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-05-29 19:02:05 +08:00",
+    "url": "https://twitter.com/wasabi1919115",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjYzMTM4NTUzOTQwMDMzNTM2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "Wasabytes.us.kg",
+                            "expanded_url": "http://Wasabytes.us.kg",
+                            "url": "https://t.co/Z97cBcseMc",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 72,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/Z97cBcseMc",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1685358125000,
+            "updated_at": 1739589234225
+        }
+    }
 }

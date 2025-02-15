@@ -5,14 +5,82 @@
     "description": "纪念逝去的 @execute_darker 和 @qcm45 mail：mizuki@dailymizuki.com 糖糖碎碎念：https://t.co/XccBzIfuzo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1880814299150712832/faZnT_E2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1270146896997179392/1738230823",
-    "followers_count": 825,
-    "statuses_count": 3826,
-    "favourites_count": 5816,
+    "followers_count": 827,
+    "statuses_count": 3854,
+    "favourites_count": 5761,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2020-06-09 08:13:23 +08:00",
-    "url": "https://twitter.com/amechan_mtf"
+    "url": "https://twitter.com/amechan_mtf",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjcwMTQ2ODk2OTk3MTc5Mzky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "technology.dailymizuki.com",
+                            "expanded_url": "http://technology.dailymizuki.com",
+                            "url": "https://t.co/XccBzIfuzo",
+                            "indices": [
+                                65,
+                                88
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "technology.daliymizuki.com",
+                            "expanded_url": "https://technology.daliymizuki.com",
+                            "url": "https://t.co/aOoR6pbPJh",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 425,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "松花江🏞️",
+            "media_count": 523,
+            "pinned_tweet_ids_str": [
+                "1796076299720524062"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/aOoR6pbPJh",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "3MxYGVYxtN6SQjx7t277qHdp2gKZiupNeF",
+            "ethereum_handle": "0xed860b72adacab4a138867727f2830fe75cb261d",
+            "patreon_handle": ""
+        },
+        "twe_private_fields": {
+            "created_at": 1591661603000,
+            "updated_at": 1739589296476
+        }
+    }
 }

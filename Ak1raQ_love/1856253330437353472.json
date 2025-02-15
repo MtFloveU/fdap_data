@@ -5,14 +5,54 @@
     "description": "“破晓的日子多着呢，太阳也只不过是一颗晨星”    日子人加乐子人    友人：@qingshixiang258，@Paradise_091230，@Salt_soda_aqua",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884244571997233153/RmTsodD__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856253330437353472/1735651733",
-    "followers_count": 518,
-    "statuses_count": 3843,
-    "favourites_count": 11946,
+    "followers_count": 515,
+    "statuses_count": 3971,
+    "favourites_count": 12223,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-11-12 08:31:19 +00:00",
-    "url": "https://twitter.com/zirancumin0"
+    "created_at": "2024-11-12 16:31:19 +08:00",
+    "url": "https://twitter.com/zirancumin0",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODU2MjUzMzMwNDM3MzUzNDcy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2193,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "中华人民共和国",
+            "media_count": 79,
+            "pinned_tweet_ids_str": [
+                "1882408415127122396"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1731400279000,
+            "updated_at": 1739589262851
+        }
+    }
 }

@@ -1,18 +1,57 @@
 {
     "id": "1676236678640578560",
     "screen_name": "kochiyaguwa",
-    "name": "叨叨の龙仆",
+    "name": "大粵惡男叨叨の龙仆🇭🇰",
     "description": "如果只要牵起手  就能理解彼此该多好",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1817875975126016000/4pr6pFoG_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1887441633136054272/V8I0V71k_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676236678640578560/1722250415",
-    "followers_count": 226,
-    "statuses_count": 1468,
-    "favourites_count": 8568,
+    "followers_count": 233,
+    "statuses_count": 1703,
+    "favourites_count": 9540,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-07-04 22:29:12 +08:00",
-    "url": "https://twitter.com/kochiyaguwa"
+    "url": "https://twitter.com/kochiyaguwa",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjc2MjM2Njc4NjQwNTc4NTYw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1228,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Vessalius Mansion",
+            "media_count": 93,
+            "pinned_tweet_ids_str": [
+                "1842985816571920853"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1688480952000,
+            "updated_at": 1739589226943
+        }
+    }
 }

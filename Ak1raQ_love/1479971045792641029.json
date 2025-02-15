@@ -3,16 +3,90 @@
     "screen_name": "blackmos233",
     "name": "blackmos233",
     "description": "18?years    maimai/omori/minecraft📻中华人民共和国业余无线电台BG4KCY📻English/日本語/Other languages • Use a Translator\n\nline:https://t.co/wK0Q7owfer",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1874834923821101056/TCtYuevM_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1888157305142910976/Aok45RJV_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479971045792641029/1736537243",
-    "followers_count": 355,
-    "statuses_count": 75,
-    "favourites_count": 9483,
+    "followers_count": 358,
+    "statuses_count": 83,
+    "favourites_count": 9725,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-01-09 08:19:35 +08:00",
-    "url": "https://twitter.com/blackmos233"
+    "url": "https://twitter.com/blackmos233",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDc5OTcxMDQ1NzkyNjQxMDI5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "line.me/ti/p/DgW5A-bQYw",
+                            "expanded_url": "https://line.me/ti/p/DgW5A-bQYw",
+                            "url": "https://t.co/wK0Q7owfer",
+                            "indices": [
+                                108,
+                                131
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "blackmos233.top",
+                            "expanded_url": "https://blackmos233.top",
+                            "url": "https://t.co/7AooVvaRAX",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1035,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "catland山东",
+            "media_count": 17,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/7AooVvaRAX",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1673719341060345857",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1641687575000,
+            "updated_at": 1739589231895
+        }
+    }
 }

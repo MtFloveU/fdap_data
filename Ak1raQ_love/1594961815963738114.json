@@ -5,14 +5,51 @@
     "description": "大陆北方人，在浙江读书｜喜欢看小说｜期待与来自不同地方的你们相识🥰｜讨厌政治魔怔人👊😡👊｜互fo请私",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877504697768226816/ZjKuueaw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1594961815963738114/1733321802",
-    "followers_count": 956,
-    "statuses_count": 2985,
-    "favourites_count": 16496,
+    "followers_count": 951,
+    "statuses_count": 3008,
+    "favourites_count": 16607,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-11-22 07:51:53 +00:00",
-    "url": "https://twitter.com/AlivicEbey"
+    "created_at": "2022-11-22 15:51:53 +08:00",
+    "url": "https://twitter.com/AlivicEbey",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTk0OTYxODE1OTYzNzM4MTE0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 228,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "People's Republic of China",
+            "media_count": 303,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1669103513000,
+            "updated_at": 1739589257610
+        }
+    }
 }

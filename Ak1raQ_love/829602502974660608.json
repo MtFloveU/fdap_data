@@ -1,18 +1,55 @@
 {
-  "id": "829602502974660608",
-  "screen_name": "a7658578",
-  "name": "攝像頭跟蹤版",
-  "description": "無聊灣灣 輕度智障\n興趣是觀察中國男娘圈",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1864599774906994689/gmfgSdeW_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/829602502974660608/1733439300",
-  "followers_count": 45,
-  "statuses_count": 1,
-  "favourites_count": 1393,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2017-02-09 16:07:04 +08:00",
-  "url": "https://twitter.com/a7658578"
+    "id": "829602502974660608",
+    "screen_name": "a7658578",
+    "name": "攝像頭跟蹤版",
+    "description": "無聊灣灣 輕度智障\n興趣是觀察中國男娘圈",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1864599774906994689/gmfgSdeW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/829602502974660608/1733439300",
+    "followers_count": 50,
+    "statuses_count": 1,
+    "favourites_count": 1817,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2017-02-09 16:07:04 +08:00",
+    "url": "https://twitter.com/a7658578",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo4Mjk2MDI1MDI5NzQ2NjA2MDg=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 405,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "台南市",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1486627624000,
+            "updated_at": 1739589195800
+        }
+    }
 }

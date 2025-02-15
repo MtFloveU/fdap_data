@@ -1,18 +1,75 @@
 {
-  "id": "1337583761525968896",
-  "screen_name": "miymitsuha",
-  "name": "Mitsuha",
-  "description": "06年 无证 | 🍥 HRT Since 2023.9.23 | 168cm 50kg | 强迫/玉玉/焦虑 | 爆柜天馋😋｜ tg：miymitsuha ｜ 欢迎同类dm骚扰（ ｜ 另一半：@mufeng05",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1709022311876067328/yjEECoaf_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337583761525968896/1659070824",
-  "followers_count": 2351,
-  "statuses_count": 987,
-  "favourites_count": 1617,
-  "listed_count": 3,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2020-12-12 10:23:23 +08:00",
-  "url": "https://twitter.com/miymitsuha"
+    "id": "1337583761525968896",
+    "screen_name": "miymitsuha",
+    "name": "Mitsuha",
+    "description": "06年 无证 | 🍥 HRT Since 2023.9.23 | 168cm 50kg | 强迫/玉玉/焦虑 | 爆柜天馋😋｜ tg：miymitsuha ｜ 欢迎同类dm骚扰（ ｜ 另一半：@mufeng05",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1709022311876067328/yjEECoaf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337583761525968896/1659070824",
+    "followers_count": 2335,
+    "statuses_count": 1017,
+    "favourites_count": 1667,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2020-12-12 10:23:23 +08:00",
+    "url": "https://twitter.com/miymitsuha",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzM3NTgzNzYxNTI1OTY4ODk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "winkillers.github.io",
+                            "expanded_url": "https://winkillers.github.io",
+                            "url": "https://t.co/fRwq65tNuy",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 730,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "二次元",
+            "media_count": 247,
+            "pinned_tweet_ids_str": [
+                "1830132373138391129"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/fRwq65tNuy",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false,
+            "bitcoin_handle": "",
+            "ethereum_handle": ""
+        },
+        "twe_private_fields": {
+            "created_at": 1607739803000,
+            "updated_at": 1739589289590
+        }
+    }
 }

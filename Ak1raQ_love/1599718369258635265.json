@@ -14,5 +14,44 @@
     "following": false,
     "followed_by": true,
     "created_at": "2022-12-05 18:52:46 +08:00",
-    "url": "https://twitter.com/kl27248236"
+    "url": "https://twitter.com/kl27248236",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTk5NzE4MzY5MjU4NjM1MjY1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 98,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "United States",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1670237566000,
+            "updated_at": 1739589236483
+        }
+    }
 }

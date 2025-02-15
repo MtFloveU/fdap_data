@@ -5,14 +5,53 @@
     "description": "一只狐娘（1.0 @mengxintu）\n| MTX | \n主人+对象+女朋友+比翼鸟+一直爱着守护陪伴的下去人+另一半+老婆+darling～+兔兔的女王殿下 @MeviuslX_Xl｜兔兔的主人@Mevius01X |女朋友（保密） | \n狐娘姐姐@chiori_momo\n｜大兔兔@miya051223",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873761617328095233/YhvNiWRO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754509145003470848/1726133312",
-    "followers_count": 1182,
-    "statuses_count": 1861,
-    "favourites_count": 5733,
+    "followers_count": 1183,
+    "statuses_count": 1892,
+    "favourites_count": 5845,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-02-05 22:16:07 +08:00",
-    "url": "https://twitter.com/mengx1ntu"
+    "url": "https://twitter.com/mengx1ntu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU0NTA5MTQ1MDAzNDcwODQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 425,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "ℳℯ𝓋𝒾𝓊𝓈 的心",
+            "media_count": 32,
+            "pinned_tweet_ids_str": [
+                "1855874302526263648"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1707142567000,
+            "updated_at": 1739589285081
+        }
+    }
 }

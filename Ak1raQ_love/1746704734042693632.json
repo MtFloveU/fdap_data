@@ -1,18 +1,96 @@
 {
-  "id": "1746704734042693632",
-  "screen_name": "Kaze_Shiku",
-  "name": "🍥风夕雨",
-  "description": "🏳️‍⚧️＼MtF｜岚叶离之梦，露里透天明…｜泛性恋｜she、her、她｜不自残不od｜姐姐@cece_luming 闺闺@Dongguacute ｜药理学在读｜ We can always Carve out our own Path",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1824157819924516867/wsvOoDAI_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746704734042693632/1723774530",
-  "followers_count": 748,
-  "statuses_count": 50,
-  "favourites_count": 188,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-01-15 09:24:06 +08:00",
-  "url": "https://twitter.com/Kaze_Shiku"
+    "id": "1746704734042693632",
+    "screen_name": "Kaze_Shiku",
+    "name": "🍥风夕雨",
+    "description": "🏳️‍⚧️＼MtF｜岚叶离之梦，露里透天明…｜泛性恋｜she、her、她｜不自残不od｜姐姐@cece_luming 闺闺@Dongguacute ｜药理学在读｜ We can always Carve out our own Path",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1824157819924516867/wsvOoDAI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746704734042693632/1723774530",
+    "followers_count": 751,
+    "statuses_count": 60,
+    "favourites_count": 245,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-01-15 09:24:06 +08:00",
+    "url": "https://twitter.com/Kaze_Shiku",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQ2NzA0NzM0MDQyNjkzNjMy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Lan_Yumetsuyu",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 27,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Lan_Yumetsuyu",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Lan_Yumetsuyu"
+                                        },
+                                        "rest_id": "1806175521505767424"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 218,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "宛平南路600号",
+            "media_count": 6,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1824196600895508490",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 589,
+                    "name": "Drug Addiction Treatment Center",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1705281846000,
+            "updated_at": 1739589296475
+        }
+    }
 }

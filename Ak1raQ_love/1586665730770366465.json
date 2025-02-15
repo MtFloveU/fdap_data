@@ -5,14 +5,56 @@
     "description": "梦想是打扮成自己喜欢的样子去旅游拍照📸/一辈子很短，性别焦虑什么的，忍忍就过去了",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1814322788150501376/WnvDwgsu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586665730770366465/1719535119",
-    "followers_count": 1936,
-    "statuses_count": 10561,
-    "favourites_count": 42023,
+    "followers_count": 1920,
+    "statuses_count": 10659,
+    "favourites_count": 42313,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-10-30 18:27:18 +08:00",
-    "url": "https://twitter.com/MTF_shushu"
+    "url": "https://twitter.com/MTF_shushu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTg2NjY1NzMwNzcwMzY2NDY1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1065,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Guangdong",
+            "media_count": 397,
+            "pinned_tweet_ids_str": [
+                "1805759335131398557"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1667125638000,
+            "updated_at": 1739589303682
+        }
+    }
 }

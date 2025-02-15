@@ -1,18 +1,55 @@
 {
-  "id": "1823616869561233409",
-  "screen_name": "qing_mu31199",
-  "name": "🍥青木里美🏳️‍⚧️",
-  "description": "MTX，激进跨权主义、激进女权主义、安那其🏴🚩",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1842804172972081152/coTqGSI-_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 100,
-  "statuses_count": 753,
-  "favourites_count": 2731,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-08-14 15:05:33 +08:00",
-  "url": "https://twitter.com/qing_mu31199"
+    "id": "1823616869561233409",
+    "screen_name": "qing_mu31199",
+    "name": "🍥青木里美🏳️‍⚧️",
+    "description": "MTX，激进跨权主义、激进女权主义、安那其🏴🚩",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1884943223812177920/G3k9w3ay_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 208,
+    "statuses_count": 1225,
+    "favourites_count": 4379,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-08-14 15:05:33 +08:00",
+    "url": "https://twitter.com/qing_mu31199",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODIzNjE2ODY5NTYxMjMzNDA5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 272,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 27,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1723619133000,
+            "updated_at": 1739589270270
+        }
+    }
 }

@@ -1,18 +1,55 @@
 {
-  "id": "1804911174221504512",
-  "screen_name": "cuindog1",
-  "name": "纳粹中国",
-  "description": "中国特色社会主义/国家社会主义中国工人党\n坚持习近平元首领导!",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1812534456177029120/XqCUG6YX_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804911174221504512/1720328740",
-  "followers_count": 138,
-  "statuses_count": 35,
-  "favourites_count": 36,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-06-24 00:15:39 +08:00",
-  "url": "https://twitter.com/cuindog1"
+    "id": "1804911174221504512",
+    "screen_name": "cuindog1",
+    "name": "纳粹中国",
+    "description": "中国特色社会主义/国家社会主义中国工人党\n坚持习近平元首领导!",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1812534456177029120/XqCUG6YX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804911174221504512/1720328740",
+    "followers_count": 137,
+    "statuses_count": 35,
+    "favourites_count": 36,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-06-24 00:15:39 +08:00",
+    "url": "https://twitter.com/cuindog1",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODA0OTExMTc0MjIxNTA0NTEy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 314,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 8,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1719159339000,
+            "updated_at": 1739589234225
+        }
+    }
 }

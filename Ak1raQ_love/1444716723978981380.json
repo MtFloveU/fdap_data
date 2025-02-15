@@ -5,14 +5,64 @@
     "description": "要勇敢地好好活着",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444716723978981380/1672378905",
-    "followers_count": 1574,
-    "statuses_count": 3570,
-    "favourites_count": 14633,
-    "listed_count": 5,
+    "followers_count": 1696,
+    "statuses_count": 3781,
+    "favourites_count": 15198,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-10-04 01:31:37 +08:00",
-    "url": "https://twitter.com/EleanorAnatidae"
+    "url": "https://twitter.com/EleanorAnatidae",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDQ0NzE2NzIzOTc4OTgxMzgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1220,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 97,
+            "pinned_tweet_ids_str": [
+                "1876899277319852517"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1682657039875719169",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 993,
+                    "name": "Psychiatric Hospital",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1633282297000,
+            "updated_at": 1739589296475
+        }
+    }
 }

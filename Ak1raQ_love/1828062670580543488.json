@@ -3,16 +3,57 @@
     "screen_name": "CallHtheXtime",
     "name": "风情主播喵梦Nyamuchi",
     "description": "纯乐子人/多面不粘锅/高强度冲浪/私信秒回/抽象屌丝大手/互fo私信就行/没事发发梗图发发疯/爱正常人/希望不让喜欢我的人失望",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1885936378661523456/LU0Hp7AZ_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890328982891163648/V_mKEXpI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1828062670580543488/1738479992",
-    "followers_count": 166,
-    "statuses_count": 945,
-    "favourites_count": 135,
-    "listed_count": 0,
+    "followers_count": 396,
+    "statuses_count": 1811,
+    "favourites_count": 585,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-08-26 21:31:28 +08:00",
-    "url": "https://twitter.com/CallHtheXtime"
+    "url": "https://twitter.com/CallHtheXtime",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI4MDYyNjcwNTgwNTQzNDg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 203,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "熊本县",
+            "media_count": 102,
+            "pinned_tweet_ids_str": [
+                "1890435963429531691"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1724679088000,
+            "updated_at": 1739589260496
+        }
+    }
 }

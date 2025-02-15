@@ -5,14 +5,67 @@
     "description": "粉红毛左康米看见这句话可以给我屏蔽了。我要是骂你了不用谢，这是替你死去的爹妈教育你。\n友民运 友润人 友跨 友一切但不友傻逼\n我可能不会回fo。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1544707296718045184/DKRksfbR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541205673068752896/1718809448",
-    "followers_count": 142,
-    "statuses_count": 1390,
-    "favourites_count": 21938,
+    "followers_count": 141,
+    "statuses_count": 1395,
+    "favourites_count": 21913,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-06-27 07:44:16 +08:00",
-    "url": "https://twitter.com/wanwen2029"
+    "url": "https://twitter.com/wanwen2029",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQxMjA1NjczMDY4NzUyODk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "wanwen2029.blogspot.com",
+                            "expanded_url": "http://wanwen2029.blogspot.com",
+                            "url": "https://t.co/eDeimcQIdV",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 89,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "togo",
+            "media_count": 31,
+            "pinned_tweet_ids_str": [
+                "1860661949832520052"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/eDeimcQIdV",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1656287056000,
+            "updated_at": 1739589212649
+        }
+    }
 }

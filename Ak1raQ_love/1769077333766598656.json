@@ -1,18 +1,98 @@
 {
     "id": "1769077333766598656",
     "screen_name": "UNGAN11111",
-    "name": "One person🇺🇳",
+    "name": "One person（即將淡推）🇺🇳",
     "description": "泛藍の孫派,和平民主🫶.專注生活圈*^_^*可交友🤝,但🚫極端立場或主義者；可支持交流文字：正體國文🇹🇼/粵語白話🇭🇰🇲🇴/简体中文🇸🇬🇨🇳/American English🇺🇸.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1842388733666242560/hJQpFYBj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769077333766598656/1737286541",
-    "followers_count": 53,
-    "statuses_count": 627,
-    "favourites_count": 1011,
+    "followers_count": 55,
+    "statuses_count": 656,
+    "favourites_count": 1050,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-03-16 19:05:08 +00:00",
-    "url": "https://twitter.com/UNGAN11111"
+    "created_at": "2024-03-17 03:05:08 +08:00",
+    "url": "https://twitter.com/UNGAN11111",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY5MDc3MzMzNzY2NTk4NjU2",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @YGR11111",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 22,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "YGR11111",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "YGR11111"
+                                        },
+                                        "rest_id": "1889383162754768896"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 42,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Three Principles of the People",
+            "media_count": 20,
+            "pinned_tweet_ids_str": [
+                "1890283240780607806"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1889702074340061348",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 688,
+                    "name": "Non-Governmental & Nonprofit Organization ",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1710615908000,
+            "updated_at": 1739589289591
+        }
+    }
 }

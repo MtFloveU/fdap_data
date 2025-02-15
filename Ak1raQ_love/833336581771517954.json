@@ -5,14 +5,55 @@
     "description": "In a world I cannot echo, a cat in unseen alleys, fur holds whispers. Silence is refuge, cries bring pain. Finding fleeting reflections in strays, seeking end.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887908010431037440/xfHaJ1NB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/833336581771517954/1738946987",
-    "followers_count": 468,
-    "statuses_count": 10766,
-    "favourites_count": 44757,
+    "followers_count": 475,
+    "statuses_count": 10872,
+    "favourites_count": 45333,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2017-02-19 23:24:58 +08:00",
-    "url": "https://twitter.com/Nougatshepard"
+    "url": "https://twitter.com/Nougatshepard",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo4MzMzMzY1ODE3NzE1MTc5NTQ=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "follow_request_sent": true,
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3388,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "シャドウリフュージュ、ヴェイルドエコーズ",
+            "media_count": 1111,
+            "pinned_tweet_ids_str": [
+                "1888727878109655369"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1487517898000,
+            "updated_at": 1739589244385
+        }
+    }
 }

@@ -5,14 +5,56 @@
     "description": "黄子·黄文勋\n1.被奴役当中的奴隶和觉醒之公民·异议人士·人权捍卫者。\n2.黄子，(民主宣言)撰写者。2009－2019四次入狱计五年多。\n3.获得2017@刘晓波良知奖  2018@青年中国人权奖 2018@奥斯卡中国人权奖\n4.箴言：随本心.致良知",
     "profile_image_url": "https://pbs.twimg.com/profile_images/2518097719/_______normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 1723,
-    "statuses_count": 139,
-    "favourites_count": 11350,
+    "followers_count": 1788,
+    "statuses_count": 211,
+    "favourites_count": 13803,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2012-08-18 23:27:12 +08:00",
-    "url": "https://twitter.com/huangwenxun8964"
+    "url": "https://twitter.com/huangwenxun8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo3NjU4ODkwMDI=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 7454,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "异世界大中华😄帝国😄",
+            "media_count": 43,
+            "pinned_tweet_ids_str": [
+                "1827033491084546244"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "1MTkJsxkSio8uVYcoDxxihBzNgbF2bGQfQ"
+        },
+        "twe_private_fields": {
+            "created_at": 1345303632000,
+            "updated_at": 1739589217922
+        }
+    }
 }

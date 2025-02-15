@@ -1,18 +1,57 @@
 {
-  "id": "1474791029521801218",
-  "screen_name": "Remilia1668",
-  "name": "レミリア",
-  "description": "🏴‍☠️🏳️‍⚧️",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1825820896571043842/BUGyKccI_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1474791029521801218/1708439641",
-  "followers_count": 552,
-  "statuses_count": 1200,
-  "favourites_count": 49785,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2021-12-26 01:16:21 +08:00",
-  "url": "https://twitter.com/Remilia1668"
+    "id": "1474791029521801218",
+    "screen_name": "Remilia1668",
+    "name": "レミリア",
+    "description": "🏴‍☠️🏳️‍⚧️",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1825820896571043842/BUGyKccI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1474791029521801218/1708439641",
+    "followers_count": 546,
+    "statuses_count": 1194,
+    "favourites_count": 49315,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-12-26 01:16:21 +08:00",
+    "url": "https://twitter.com/Remilia1668",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDc0NzkxMDI5NTIxODAxMjE4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1275,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "红魔馆",
+            "media_count": 13,
+            "pinned_tweet_ids_str": [
+                "1721950809297174898"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1640452581000,
+            "updated_at": 1739589234225
+        }
+    }
 }

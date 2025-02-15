@@ -1,18 +1,70 @@
 {
-  "id": "1655758232420249602",
-  "screen_name": "Yutuanzi2375",
-  "name": "芋团子🏳️‍⚧️",
-  "description": "167cm，55kg，00年，应该是比较大龄了吧，无证嗑药，6月5日开始吃糖🏳️‍⚧️ 关注我会互fo /可爱的妹妹🥰@zhengzheng03（号又寄了初始号@penp58）",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1704477413542158336/w8horUOn_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655758232420249602/1690907151",
-  "followers_count": 1523,
-  "statuses_count": 4433,
-  "favourites_count": 81324,
-  "listed_count": 4,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-05-09 10:15:17 +08:00",
-  "url": "https://twitter.com/Yutuanzi2375"
+    "id": "1655758232420249602",
+    "screen_name": "Yutuanzi2375",
+    "name": "芋团子🏳️‍⚧️",
+    "description": "167cm，55kg，00年，应该是比较大龄了吧，无证嗑药，6月5日开始吃糖🏳️‍⚧️ 关注我会互fo /可爱的妹妹🥰@zhengzheng03（号又寄了初始号@penp58）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1704477413542158336/w8horUOn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655758232420249602/1690907151",
+    "followers_count": 1541,
+    "statuses_count": 4472,
+    "favourites_count": 81971,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-05-09 10:15:17 +08:00",
+    "url": "https://twitter.com/Yutuanzi2375",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjU1NzU4MjMyNDIwMjQ5NjAy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1048,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "在你心里",
+            "media_count": 311,
+            "pinned_tweet_ids_str": [
+                "1840936789017833803"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1708522829451592054",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1683598517000,
+            "updated_at": 1739589298729
+        }
+    }
 }

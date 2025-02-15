@@ -1,18 +1,56 @@
 {
-  "id": "1781944204039753728",
-  "screen_name": "VanishIntoSnow",
-  "name": "ρινκολυννορι🍥",
-  "description": "平稳操纵，安全正点\ntransfem/transportation photographing/simulation game/Lolita Fashion/want to be a research fellow/Communications Engineering/ASD&ADHD/Neurodiversity",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1781946587637547008/bf9YzP0c_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781944204039753728/1713687089",
-  "followers_count": 88,
-  "statuses_count": 189,
-  "favourites_count": 428,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-04-21 15:15:47 +08:00",
-  "url": "https://twitter.com/VanishIntoSnow"
+    "id": "1781944204039753728",
+    "screen_name": "VanishIntoSnow",
+    "name": "ρινκολυννορι🍥",
+    "description": "平稳操纵，安全正点\ntransfem/transportation photographing/simulation game/Lolita Fashion/want to be a research fellow/Communications Engineering/ASD&ADHD/Neurodiversity",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1781946587637547008/bf9YzP0c_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781944204039753728/1713687089",
+    "followers_count": 166,
+    "statuses_count": 399,
+    "favourites_count": 1613,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-04-21 15:15:47 +08:00",
+    "url": "https://twitter.com/VanishIntoSnow",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzgxOTQ0MjA0MDM5NzUzNzI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 281,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "RWY 18L/36R",
+            "media_count": 65,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1713683747000,
+            "updated_at": 1739589294389
+        }
+    }
 }

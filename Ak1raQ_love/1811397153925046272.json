@@ -14,5 +14,42 @@
     "following": false,
     "followed_by": true,
     "created_at": "2024-07-11 21:48:42 +08:00",
-    "url": "https://twitter.com/ELIANTES297490"
+    "url": "https://twitter.com/ELIANTES297490",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODExMzk3MTUzOTI1MDQ2Mjcy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 196,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1720705722000,
+            "updated_at": 1739589177245
+        }
+    }
 }

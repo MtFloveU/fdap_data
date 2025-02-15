@@ -1,18 +1,55 @@
 {
-  "id": "1814484307249131520",
-  "screen_name": "cuindog2",
-  "name": "腌黄瓜🇮🇱🇺🇲",
-  "description": "₍˄·͈༝·͈˄*₎◞ ̑̑",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1814485478349164544/eeC1SvEl_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814484307249131520/1721442030",
-  "followers_count": 95,
-  "statuses_count": 10,
-  "favourites_count": 8,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-07-20 10:15:50 +08:00",
-  "url": "https://twitter.com/cuindog2"
+    "id": "1814484307249131520",
+    "screen_name": "cuindog2",
+    "name": "腌黄瓜🇮🇱🇺🇲",
+    "description": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1814485478349164544/eeC1SvEl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814484307249131520/1721442030",
+    "followers_count": 93,
+    "statuses_count": 10,
+    "favourites_count": 8,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-07-20 10:15:50 +08:00",
+    "url": "https://twitter.com/cuindog2",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE0NDg0MzA3MjQ5MTMxNTIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 268,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1721441750000,
+            "updated_at": 1739589234225
+        }
+    }
 }

@@ -1,18 +1,57 @@
 {
-  "id": "1737518473499353091",
-  "screen_name": "TLiPoCCA",
-  "name": "TLipoCa",
-  "description": "白鬓红瞳一米六的夜之主小死神萝莉特莉波卡",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1816013628421857280/7VH7ox-6_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737518473499353091/1722457438",
-  "followers_count": 1733,
-  "statuses_count": 287,
-  "favourites_count": 1540,
-  "listed_count": 3,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-12-21 01:01:11 +08:00",
-  "url": "https://twitter.com/TLiPoCCA"
+    "id": "1737518473499353091",
+    "screen_name": "TLiPoCCA",
+    "name": "TLipoCa",
+    "description": "白鬓红瞳一米六的夜之主小死神萝莉特莉波卡",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1816013628421857280/7VH7ox-6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737518473499353091/1722457438",
+    "followers_count": 1763,
+    "statuses_count": 287,
+    "favourites_count": 1555,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-12-21 01:01:11 +08:00",
+    "url": "https://twitter.com/TLiPoCCA",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzM3NTE4NDczNDk5MzUzMDkx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 316,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "🍃",
+            "media_count": 33,
+            "pinned_tweet_ids_str": [
+                "1752661235102081083"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1703091671000,
+            "updated_at": 1739589285082
+        }
+    }
 }

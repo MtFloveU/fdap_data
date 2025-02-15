@@ -5,14 +5,76 @@
     "description": "诶嘿～好无聊呀~｜加点东西@Muoujiang_｜换一个提问箱：https://t.co/LtoB1mlWHz",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1770720359312240640/qCqdMpdW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769078117052854272/1711007696",
-    "followers_count": 3814,
-    "statuses_count": 41806,
-    "favourites_count": 54887,
-    "listed_count": 7,
+    "followers_count": 4379,
+    "statuses_count": 48947,
+    "favourites_count": 62070,
+    "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-03-17 03:07:54 +08:00",
-    "url": "https://twitter.com/huahuojiang_"
+    "url": "https://twitter.com/huahuojiang_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY5MDc4MTE3MDUyODU0Mjcy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/huahuojiang/",
+                            "expanded_url": "https://ngl.link/huahuojiang/",
+                            "url": "https://t.co/LtoB1mlWHz",
+                            "indices": [
+                                32,
+                                55
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3212,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "匹诺康尼",
+            "media_count": 2618,
+            "pinned_tweet_ids_str": [
+                "1874363360755831286"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1835715476992954700",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1710616074000,
+            "updated_at": 1739589292073
+        }
+    }
 }

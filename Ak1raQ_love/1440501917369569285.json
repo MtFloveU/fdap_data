@@ -5,14 +5,51 @@
     "description": "冬萌是猫猫，和咱贴贴的话会很开心的≥ ≤揉揉咱就会回fo…冬萌重要的猫猫@kietter387803白猫猫@whoisblessing姐姐@Coral_Dango可爱猫猫@Ynklatsm_fxt524露露喵@chenbuxiu665糊糊@kjkluk好吃鱼鱼@sharkhopeuhappy妈妈@kumatamasan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1799249046269485056/RWSr4iP9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1440501917369569285/1717580211",
-    "followers_count": 866,
-    "statuses_count": 1885,
-    "favourites_count": 5137,
+    "followers_count": 857,
+    "statuses_count": 1914,
+    "favourites_count": 5179,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-09-22 10:23:30 +08:00",
-    "url": "https://twitter.com/fuyumonya"
+    "url": "https://twitter.com/fuyumonya",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDQwNTAxOTE3MzY5NTY5Mjg1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 637,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "月亮",
+            "media_count": 317,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1632277410000,
+            "updated_at": 1739589294389
+        }
+    }
 }

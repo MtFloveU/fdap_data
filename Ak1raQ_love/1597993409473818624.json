@@ -1,18 +1,92 @@
 {
-  "id": "1597993409473818624",
-  "screen_name": "KomeijiKoishi_1",
-  "name": "Celeriel",
-  "description": "而我仍梦到他踏着草地/在露水中飘飘荡荡行走/让我的欢歌轻易刺透",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1858998583766437888/VYsBeZ1a_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597993409473818624/1690311266",
-  "followers_count": 713,
-  "statuses_count": 2884,
-  "favourites_count": 8959,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-12-01 00:38:25 +08:00",
-  "url": "https://twitter.com/KomeijiKoishi_1"
+    "id": "1597993409473818624",
+    "screen_name": "KomeijiKoishi_1",
+    "name": "Celeriel",
+    "description": "而我仍梦到他踏着草地/在露水中飘飘荡荡行走/让我的欢歌轻易刺透",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1858998583766437888/VYsBeZ1a_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597993409473818624/1690311266",
+    "followers_count": 725,
+    "statuses_count": 2901,
+    "favourites_count": 9169,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-12-01 00:38:25 +08:00",
+    "url": "https://twitter.com/KomeijiKoishi_1",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTk3OTkzNDA5NDczODE4NjI0",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Neuromancer_77",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 28,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Neuromancer_77",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Neuromancer_77"
+                                        },
+                                        "rest_id": "1621599269462626304"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 579,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Avernus",
+            "media_count": 252,
+            "pinned_tweet_ids_str": [
+                "1810255962789593353"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1621936203502346240",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1669826305000,
+            "updated_at": 1739589272743
+        }
+    }
 }

@@ -5,14 +5,65 @@
     "description": "`gh repo fork NixOS/nixpkgs --clone`",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 158,
-    "statuses_count": 2928,
-    "favourites_count": 3669,
+    "followers_count": 171,
+    "statuses_count": 3173,
+    "favourites_count": 3941,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-05-13 08:10:35 +08:00",
-    "url": "https://twitter.com/Zh40Le1ZOOB"
+    "url": "https://twitter.com/Zh40Le1ZOOB",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjU3MTc1Mzk0MjY3ODQ4NzA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "github.com/Zh40Le1ZOOB",
+                            "expanded_url": "https://github.com/Zh40Le1ZOOB",
+                            "url": "https://t.co/yxR4GeW1hm",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 222,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 4,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/yxR4GeW1hm",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1683936635000,
+            "updated_at": 1739589210635
+        }
+    }
 }

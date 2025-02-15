@@ -5,14 +5,89 @@
     "description": "持证停糖友跨顺男\n原id欧斯特拉\nhttps://t.co/Bcmy9MPDRc\nhttps://t.co/xXi3oKoCty",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872947652662575106/McUAMGzN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389190165566877699/1699424206",
-    "followers_count": 61,
-    "statuses_count": 631,
-    "favourites_count": 15916,
-    "listed_count": 2,
+    "followers_count": 62,
+    "statuses_count": 664,
+    "favourites_count": 15985,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2021-05-03 20:09:08 +08:00",
-    "url": "https://twitter.com/amcje1"
+    "url": "https://twitter.com/amcje1",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzg5MTkwMTY1NTY2ODc3Njk5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/ganlancai",
+                            "expanded_url": "http://t.me/ganlancai",
+                            "url": "https://t.co/Bcmy9MPDRc",
+                            "indices": [
+                                17,
+                                40
+                            ]
+                        },
+                        {
+                            "display_url": "borecole.bsky.social",
+                            "expanded_url": "http://borecole.bsky.social",
+                            "url": "https://t.co/xXi3oKoCty",
+                            "indices": [
+                                41,
+                                64
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "hatateaya.github.io",
+                            "expanded_url": "https://hatateaya.github.io",
+                            "url": "https://t.co/z4FSwRqjGm",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 155,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 10,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/z4FSwRqjGm",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1792787610827739631",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1620043748000,
+            "updated_at": 1739589223480
+        }
+    }
 }

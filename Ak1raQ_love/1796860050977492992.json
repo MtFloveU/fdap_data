@@ -6,13 +6,80 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882561350007767040/jp4dPaCe_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796860050977492992/1738990059",
     "followers_count": 2796,
-    "statuses_count": 4120,
-    "favourites_count": 1377,
+    "statuses_count": 4153,
+    "favourites_count": 1386,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-06-01 11:03:25 +00:00",
-    "url": "https://twitter.com/Narinarimashita"
+    "created_at": "2024-06-01 19:03:25 +08:00",
+    "url": "https://twitter.com/Narinarimashita",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk2ODYwMDUwOTc3NDkyOTky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "x.com/@Toritoriiaezu",
+                            "expanded_url": "https://x.com/@Toritoriiaezu",
+                            "url": "https://t.co/0NDoIkry96",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2860,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "日本 大阪",
+            "media_count": 743,
+            "pinned_tweet_ids_str": [
+                "1885150343991824432"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/0NDoIkry96",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1878722856697331954",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 159,
+                    "name": "Junior High School",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": ""
+        },
+        "twe_private_fields": {
+            "created_at": 1717239805000,
+            "updated_at": 1739589260496
+        }
+    }
 }

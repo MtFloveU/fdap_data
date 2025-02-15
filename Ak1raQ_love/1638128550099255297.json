@@ -14,5 +14,55 @@
     "following": true,
     "followed_by": true,
     "created_at": "2023-03-21 18:41:08 +08:00",
-    "url": "https://twitter.com/xuanshang040318"
+    "url": "https://twitter.com/xuanshang040318",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjM4MTI4NTUwMDk5MjU1Mjk3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 209,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "中國 天津",
+            "media_count": 11,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1836350429900255546",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1679395268000,
+            "updated_at": 1739589275107
+        }
+    }
 }

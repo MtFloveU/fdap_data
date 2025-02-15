@@ -3,16 +3,67 @@
     "screen_name": "K08O6",
     "name": "K0806",
     "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1866454232163065856/A_5MMD1E_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1883116947908571136/FdtYI8gR_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 69,
-    "statuses_count": 390,
-    "favourites_count": 305,
+    "followers_count": 78,
+    "statuses_count": 428,
+    "favourites_count": 359,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-10-15 22:27:12 +08:00",
-    "url": "https://twitter.com/K08O6"
+    "url": "https://twitter.com/K08O6",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQ2MTk2MDk3NjI4NDkxNzgz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "K0806.top",
+                            "expanded_url": "http://K0806.top",
+                            "url": "https://t.co/xBq1pgZeHn",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 353,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "浙江绍兴柯桥",
+            "media_count": 56,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/xBq1pgZeHn",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1729002432000,
+            "updated_at": 1739589192754
+        }
+    }
 }

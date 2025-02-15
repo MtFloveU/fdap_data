@@ -5,14 +5,64 @@
     "description": "全干工程师",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1780260579556675584/UmxxFNIC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/10732182/1356342225",
-    "followers_count": 135,
-    "statuses_count": 591,
-    "favourites_count": 4748,
+    "followers_count": 206,
+    "statuses_count": 639,
+    "favourites_count": 4746,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": true,
     "following": false,
     "followed_by": true,
     "created_at": "2007-11-30 15:31:43 +08:00",
-    "url": "https://twitter.com/xx309212"
+    "url": "https://twitter.com/xx309212",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMDczMjE4Mg==",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1746,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 76,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "regular",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1575132403835686912",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1196407903000,
+            "updated_at": 1739589190763
+        }
+    }
 }

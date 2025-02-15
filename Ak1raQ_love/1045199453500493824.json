@@ -1,18 +1,62 @@
 {
-  "id": "1045199453500493824",
-  "screen_name": "Colorblack19",
-  "name": "方寸山",
-  "description": "你很牛嗎，放下你的身段。",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1305337219050135552/dnuNjtYY_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045199453500493824/1599449037",
-  "followers_count": 1218,
-  "statuses_count": 2589,
-  "favourites_count": 2309,
-  "listed_count": 4,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2018-09-27 14:32:23 +08:00",
-  "url": "https://twitter.com/Colorblack19"
+    "id": "1045199453500493824",
+    "screen_name": "Colorblack19",
+    "name": "方寸山",
+    "description": "你很牛嗎，放下你的身段。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1305337219050135552/dnuNjtYY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045199453500493824/1599449037",
+    "followers_count": 1255,
+    "statuses_count": 2614,
+    "favourites_count": 2522,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2018-09-27 14:32:23 +08:00",
+    "url": "https://twitter.com/Colorblack19",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMDQ1MTk5NDUzNTAwNDkzODI0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2802,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Chongqing",
+            "media_count": 13,
+            "pinned_tweet_ids_str": [
+                "1300999068219441152"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1832863261072789601",
+            "professional_type": "Business",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1538029943000,
+            "updated_at": 1739589214059
+        }
+    }
 }

@@ -1,18 +1,57 @@
 {
-  "id": "1633163319833169920",
-  "screen_name": "Lune101398",
-  "name": "meemee 🏳️‍⚧️",
-  "description": "打游戏写曲子 / 请找我约饭！/ hrt&rle 2022.11.5",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1733845957564116992/UvEm9iSn_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1633163319833169920/1700884592",
-  "followers_count": 3890,
-  "statuses_count": 3283,
-  "favourites_count": 10710,
-  "listed_count": 12,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2023-03-08 01:51:07 +08:00",
-  "url": "https://twitter.com/Lune101398"
+    "id": "1633163319833169920",
+    "screen_name": "Lune101398",
+    "name": "meemee 🏳️‍⚧️",
+    "description": "打游戏写曲子 / 请找我约饭！/ hrt&rle 2022.11.5",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1733845957564116992/UvEm9iSn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1633163319833169920/1700884592",
+    "followers_count": 5094,
+    "statuses_count": 3505,
+    "favourites_count": 11552,
+    "listed_count": 16,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2023-03-08 01:51:07 +08:00",
+    "url": "https://twitter.com/Lune101398",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjMzMTYzMzE5ODMzMTY5OTIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 608,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "北京",
+            "media_count": 492,
+            "pinned_tweet_ids_str": [
+                "1801595451155825138"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1678211467000,
+            "updated_at": 1739589298729
+        }
+    }
 }

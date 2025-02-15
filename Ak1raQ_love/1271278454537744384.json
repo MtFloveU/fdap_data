@@ -5,14 +5,65 @@
     "description": "超大只兔子/23岁家长党/182cm75kg/逃生舱@ttt235711/研究生/和@I_Xinnnnn恋爱/tg群：https://t.co/h5xkaaTV2V",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1856931956501725184/Yj28UQa-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271278454537744384/1704258625",
-    "followers_count": 3553,
-    "statuses_count": 5183,
-    "favourites_count": 21397,
-    "listed_count": 7,
+    "followers_count": 3535,
+    "statuses_count": 5184,
+    "favourites_count": 21076,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2020-06-12 11:09:46 +08:00",
-    "url": "https://twitter.com/Rabbit_Pussy"
+    "url": "https://twitter.com/Rabbit_Pussy",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjcxMjc4NDU0NTM3NzQ0Mzg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/+Vs8TpJq44o0wZ…",
+                            "expanded_url": "https://t.me/+Vs8TpJq44o0wZmJl",
+                            "url": "https://t.co/h5xkaaTV2V",
+                            "indices": [
+                                59,
+                                82
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1590,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Niger",
+            "media_count": 799,
+            "pinned_tweet_ids_str": [
+                "1854349546752745935"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1591931386000,
+            "updated_at": 1739589294389
+        }
+    }
 }

@@ -1,18 +1,87 @@
 {
-  "id": "1599372446343143430",
-  "screen_name": "officia43006378",
-  "name": "🇰🇵JANG SONGTHAEK_official🇰🇵（淡推）",
-  "description": "🚩🏴 友🏳️‍⚧️🏳️‍🌈 需要互fo请私信\n战无不胜的罗伯斯庇尔主义、叶若夫思想、波尔布特理论万岁\n保÷、没脑子没理论还乱钦点的傻逼请上断头台\n极权b、社达蛆请下第聂伯河游泳\n自由之敌不配享有自由——罗伯斯庇尔",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1824594397964701696/CE5zKZRo_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599372446343143430/1721311159",
-  "followers_count": 2317,
-  "statuses_count": 2016,
-  "favourites_count": 121570,
-  "listed_count": 6,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-12-04 19:58:12 +08:00",
-  "url": "https://twitter.com/officia43006378"
+    "id": "1599372446343143430",
+    "screen_name": "officia43006378",
+    "name": "🇰🇵JANG SONGTHAEK_official🇰🇵（淡推）",
+    "description": "🚩🏴 友🏳️‍⚧️🏳️‍🌈 需要互fo请私信\n战无不胜的罗伯斯庇尔主义、叶若夫思想、波尔布特理论万岁\n保÷、没脑子没理论还乱钦点的傻逼请上断头台\n极权b、社达蛆请下第聂伯河游泳\n自由之敌不配享有自由——罗伯斯庇尔",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1824594397964701696/CE5zKZRo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599372446343143430/1721311159",
+    "followers_count": 2371,
+    "statuses_count": 2022,
+    "favourites_count": 123541,
+    "listed_count": 6,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-12-04 19:58:12 +08:00",
+    "url": "https://twitter.com/officia43006378",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTk5MzcyNDQ2MzQzMTQzNDMw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Ceauses1989",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 25,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Ceauses1989",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Ceauses1989"
+                                        },
+                                        "rest_id": "1612043013240549377"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3627,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "삼지연",
+            "media_count": 182,
+            "pinned_tweet_ids_str": [
+                "1814953983003521261"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1670155092000,
+            "updated_at": 1739589287485
+        }
+    }
 }

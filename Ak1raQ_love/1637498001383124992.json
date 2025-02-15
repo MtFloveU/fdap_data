@@ -1,18 +1,82 @@
 {
-  "id": "1637498001383124992",
-  "screen_name": "free_lin1921",
-  "name": "林1927",
-  "description": "🫡",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1845126228702801926/-qRsR79__normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637498001383124992/1724911235",
-  "followers_count": 1151,
-  "statuses_count": 3983,
-  "favourites_count": 12160,
-  "listed_count": 4,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-03-20 00:55:32 +08:00",
-  "url": "https://twitter.com/free_lin1921"
+    "id": "1637498001383124992",
+    "screen_name": "free_lin1921",
+    "name": "林1927",
+    "description": "🫡",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1845126228702801926/-qRsR79__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637498001383124992/1724911235",
+    "followers_count": 1136,
+    "statuses_count": 3972,
+    "favourites_count": 12105,
+    "listed_count": 5,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-03-20 00:55:32 +08:00",
+    "url": "https://twitter.com/free_lin1921",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjM3NDk4MDAxMzgzMTI0OTky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "zh.m.wikipedia.org/zh-cn/%E8%83%A…",
+                            "expanded_url": "https://zh.m.wikipedia.org/zh-cn/%E8%83%A1%E9%94%A6%E6%B6%9B",
+                            "url": "https://t.co/0rx2nIucea",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 501,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "中南海",
+            "media_count": 538,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/0rx2nIucea",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1692495240656257345",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1679244932000,
+            "updated_at": 1739589298729
+        }
+    }
 }

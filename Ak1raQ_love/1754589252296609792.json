@@ -5,14 +5,53 @@
     "description": "没什么可说的",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1821842676389662720/vZdoI-5z_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754589252296609792/1723186307",
-    "followers_count": 1203,
+    "followers_count": 1190,
     "statuses_count": 10963,
-    "favourites_count": 3352,
+    "favourites_count": 3350,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-02-06 03:34:50 +08:00",
-    "url": "https://twitter.com/forword215fu_hb"
+    "url": "https://twitter.com/forword215fu_hb",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU0NTg5MjUyMjk2NjA5Nzky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1189,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "你看不见地方",
+            "media_count": 478,
+            "pinned_tweet_ids_str": [
+                "1836432234544243186"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1707161690000,
+            "updated_at": 1739589285081
+        }
+    }
 }

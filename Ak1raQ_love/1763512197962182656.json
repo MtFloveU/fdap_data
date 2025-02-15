@@ -1,18 +1,55 @@
 {
-  "id": "1763512197962182656",
-  "screen_name": "vava66666tytg",
-  "name": "不管你信不信我信了",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1763513146432704512/NPTCHdHW_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 0,
-  "statuses_count": 7,
-  "favourites_count": 77,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-03-01 18:31:13 +08:00",
-  "url": "https://twitter.com/vava66666tytg"
+    "id": "1763512197962182656",
+    "screen_name": "vava66666tytg",
+    "name": "不管你信不信我信了",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1763513146432704512/NPTCHdHW_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 0,
+    "statuses_count": 7,
+    "favourites_count": 85,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-03-01 18:31:13 +08:00",
+    "url": "https://twitter.com/vava66666tytg",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzYzNTEyMTk3OTYyMTgyNjU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 36,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1709289073000,
+            "updated_at": 1739589214059
+        }
+    }
 }

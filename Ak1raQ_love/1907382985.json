@@ -14,5 +14,42 @@
     "following": false,
     "followed_by": true,
     "created_at": "2013-09-26 17:52:28 +08:00",
-    "url": "https://twitter.com/Sherlock______"
+    "url": "https://twitter.com/Sherlock______",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxOTA3MzgyOTg1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 89,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 2,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1380189148000,
+            "updated_at": 1739589177245
+        }
+    }
 }

@@ -1,18 +1,56 @@
 {
-  "id": "1836664304571158528",
-  "screen_name": "nalajiuxiang",
-  "name": "あれれ",
-  "description": "美しさを見るのガ好きだ，なんだよ😡",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1836743606348242944/5e91jqzb_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836664304571158528/1726730393",
-  "followers_count": 25,
-  "statuses_count": 45,
-  "favourites_count": 71,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-09-19 15:11:21 +08:00",
-  "url": "https://twitter.com/nalajiuxiang"
+    "id": "1836664304571158528",
+    "screen_name": "nalajiuxiang",
+    "name": "あれれ",
+    "description": "美しさを見るのガ好きだ，なんだよ😡",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1836743606348242944/5e91jqzb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836664304571158528/1726730393",
+    "followers_count": 26,
+    "statuses_count": 76,
+    "favourites_count": 135,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-09-19 15:11:21 +08:00",
+    "url": "https://twitter.com/nalajiuxiang",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM2NjY0MzA0NTcxMTU4NTI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 179,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 4,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1726729881000,
+            "updated_at": 1739589192754
+        }
+    }
 }

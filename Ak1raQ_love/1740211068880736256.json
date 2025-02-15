@@ -5,14 +5,69 @@
     "description": "欢迎来到我的bb空间😋\n如果和你认识的墙内平台的我大相径庭请不要惊讶👊😾\n因为这是趋于真实表达内心思想的我🤓\n墙内文弱的我已经被我抛弃了👊😡\n详细可以看置顶简介更好了解🥰",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1863802822892150784/rd7jY3co_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1740211068880736256/1706620370",
-    "followers_count": 280,
-    "statuses_count": 5455,
-    "favourites_count": 14666,
+    "followers_count": 283,
+    "statuses_count": 5497,
+    "favourites_count": 14773,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-12-28 11:20:38 +08:00",
-    "url": "https://twitter.com/Catlike_Rana"
+    "url": "https://twitter.com/Catlike_Rana",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQwMjExMDY4ODgwNzM2MjU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ys.mihoyo.com",
+                            "expanded_url": "https://ys.mihoyo.com/",
+                            "url": "https://t.co/SPsaVqWTGB",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 385,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "提瓦特大陆",
+            "media_count": 431,
+            "pinned_tweet_ids_str": [
+                "1872868537263636868"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/SPsaVqWTGB",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1703733638000,
+            "updated_at": 1739589257611
+        }
+    }
 }

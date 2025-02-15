@@ -1,18 +1,57 @@
 {
-  "id": "1827411522525728769",
-  "screen_name": "xxx777hsy52O",
-  "name": "康生",
-  "description": "武攻文卫，天地翻覆。坚守革命，永不投降！我们新世界见",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1841776764152147968/21aKaL9y_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827411522525728769/1727948774",
-  "followers_count": 15,
-  "statuses_count": 12,
-  "favourites_count": 37,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-08-25 02:24:27 +08:00",
-  "url": "https://twitter.com/xxx777hsy52O"
+    "id": "1827411522525728769",
+    "screen_name": "xxx777hsy52O",
+    "name": "康生",
+    "description": "武攻文卫，天地翻覆。坚守革命，永不投降！我们新世界见",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1841776764152147968/21aKaL9y_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827411522525728769/1727948774",
+    "followers_count": 14,
+    "statuses_count": 12,
+    "favourites_count": 37,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-08-25 02:24:27 +08:00",
+    "url": "https://twitter.com/xxx777hsy52O",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI3NDExNTIyNTI1NzI4NzY5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 14,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [
+                "1841781046964322494"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1724523867000,
+            "updated_at": 1739589275107
+        }
+    }
 }

@@ -5,14 +5,67 @@
     "description": "美少女ゲーム、アイドル、プリコネRが大好きなヲタです\n中文｜English｜日本語（勉強中）\n⚠️DM基本返しません",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888164110455721984/n_QIhZid_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542508277497331716/1739008381",
-    "followers_count": 2031,
-    "statuses_count": 18822,
-    "favourites_count": 50166,
+    "followers_count": 2032,
+    "statuses_count": 18936,
+    "favourites_count": 50305,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-06-30 14:00:15 +00:00",
-    "url": "https://twitter.com/Maruta_saikou"
+    "created_at": "2022-06-30 22:00:15 +08:00",
+    "url": "https://twitter.com/Maruta_saikou",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQyNTA4Mjc3NDk3MzMxNzE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "lit.link/marutasaikou",
+                            "expanded_url": "https://lit.link/marutasaikou",
+                            "url": "https://t.co/SklBgnM9vW",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 6498,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "体はパンダ国🐼、心は台湾🇹🇼",
+            "media_count": 409,
+            "pinned_tweet_ids_str": [
+                "1863168642864775524"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/SklBgnM9vW",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1656597615000,
+            "updated_at": 1739589179994
+        }
+    }
 }

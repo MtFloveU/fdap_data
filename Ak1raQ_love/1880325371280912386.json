@@ -5,14 +5,52 @@
     "description": "之江十九春 劳保岁静🌹/右上拥共🫡/反跨反同😔/高歌猛进⚡名字里的空格随手打的没别的意思 不要跟ID扯上任何关系🤓",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887815138553782273/Cot_Zq7V_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880325371280912386/1738923607",
-    "followers_count": 125,
-    "statuses_count": 187,
-    "favourites_count": 2577,
+    "followers_count": 137,
+    "statuses_count": 314,
+    "favourites_count": 4108,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2025-01-18 02:44:47 +08:00",
-    "url": "https://twitter.com/genya1976"
+    "url": "https://twitter.com/genya1976",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODgwMzI1MzcxMjgwOTEyMzg2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 228,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 38,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1737139487000,
+            "updated_at": 1739589260496
+        }
+    }
 }

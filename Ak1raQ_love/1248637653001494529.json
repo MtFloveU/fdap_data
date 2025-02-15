@@ -5,14 +5,53 @@
     "description": "你好哦，姓师怎么称呼都行，现居上海。/\n发些日常·食物·抽象，偶尔会说点怪话。/\n私信评论都会互动哦，我很温和的，请随意。/\n经常会清理一些久推文，望见谅。/\n愿你喜乐安康。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883561348619218944/wfuWIRmW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248637653001494529/1739203544",
-    "followers_count": 715,
-    "statuses_count": 13573,
-    "favourites_count": 61269,
+    "followers_count": 747,
+    "statuses_count": 13898,
+    "favourites_count": 62701,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2020-04-10 23:43:19 +08:00",
-    "url": "https://twitter.com/Fomalhautawa"
+    "url": "https://twitter.com/Fomalhautawa",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjQ4NjM3NjUzMDAxNDk0NTI5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 197,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "萱华轩",
+            "media_count": 31,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1586533399000,
+            "updated_at": 1739589267789
+        }
+    }
 }

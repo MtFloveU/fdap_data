@@ -5,14 +5,53 @@
     "description": "一个学计算机网络技术的苦悲悲的拉子🏳️‍🌈/友跨顺女／会看成分回关／会疯狂点赞/无政治倾向",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1856291551472955394/BrhUG0s4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834141226381312001/1731374861",
-    "followers_count": 449,
+    "followers_count": 450,
     "statuses_count": 525,
-    "favourites_count": 7563,
+    "favourites_count": 7561,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-09-12 08:05:28 +00:00",
-    "url": "https://twitter.com/Silentsea112"
+    "created_at": "2024-09-12 16:05:28 +08:00",
+    "url": "https://twitter.com/Silentsea112",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM0MTQxMjI2MzgxMzEyMDAx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 892,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "CHINA",
+            "media_count": 90,
+            "pinned_tweet_ids_str": [
+                "1870048944073650287"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1726128328000,
+            "updated_at": 1739589270270
+        }
+    }
 }

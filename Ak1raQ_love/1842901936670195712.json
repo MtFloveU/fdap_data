@@ -1,18 +1,67 @@
 {
-  "id": "1842901936670195712",
-  "screen_name": "138redshift",
-  "name": "138亿年的红移",
-  "description": "“牢胡是牢胡，红移是红移”这次真的不会再屏蔽任何人了。\n是放下了的，红移的转世。\n欢迎光临：https://t.co/AEnzfP8ozS 吾们永不打烊喵",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1843075744571752448/a--0Bfkx_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842901936670195712/1728258575",
-  "followers_count": 56,
-  "statuses_count": 46,
-  "favourites_count": 58,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-10-06 20:17:45 +08:00",
-  "url": "https://twitter.com/138redshift"
+    "id": "1842901936670195712",
+    "screen_name": "138redshift",
+    "name": "138亿年的红移",
+    "description": "“牢胡是牢胡，红移是红移”这次真的不会再屏蔽任何人了。\n是放下了的，红移的转世。\n欢迎光临：https://t.co/AEnzfP8ozS 吾们永不打烊喵",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1843075744571752448/a--0Bfkx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842901936670195712/1728258575",
+    "followers_count": 76,
+    "statuses_count": 54,
+    "favourites_count": 67,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-10-06 20:17:45 +08:00",
+    "url": "https://twitter.com/138redshift",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQyOTAxOTM2NjcwMTk1NzEy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "discord.gg/AhTYPf5A5z",
+                            "expanded_url": "https://discord.gg/AhTYPf5A5z",
+                            "url": "https://t.co/AEnzfP8ozS",
+                            "indices": [
+                                46,
+                                69
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 64,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 7,
+            "pinned_tweet_ids_str": [
+                "1883164943350120484"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1728217065000,
+            "updated_at": 1739589272743
+        }
+    }
 }

@@ -5,14 +5,53 @@
     "description": "00后反差男娘🍥 (x   坐标：🇹🇼 | 粵/中/日/英 | 東方眾| 尼龙佬 | 互fo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1726932496737275904/AibX5HWr_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489446529266257924/1733499979",
-    "followers_count": 2468,
-    "statuses_count": 883,
-    "favourites_count": 26739,
+    "followers_count": 2491,
+    "statuses_count": 895,
+    "favourites_count": 26846,
     "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2022-02-04 11:51:59 +08:00",
-    "url": "https://twitter.com/yuzumi_Nya"
+    "url": "https://twitter.com/yuzumi_Nya",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDg5NDQ2NTI5MjY2MjU3OTI0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2191,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距离你0.3km",
+            "media_count": 43,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1643946719000,
+            "updated_at": 1739589280337
+        }
+    }
 }

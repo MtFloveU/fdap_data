@@ -5,14 +5,53 @@
     "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870016992486535168/p7RxPR0s_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 23,
-    "statuses_count": 120,
-    "favourites_count": 2359,
+    "followers_count": 31,
+    "statuses_count": 267,
+    "favourites_count": 4419,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-09-09 00:51:11 +08:00",
-    "url": "https://twitter.com/daozhi1314"
+    "url": "https://twitter.com/daozhi1314",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODMyODIzODEwNzI0MzQ3OTA1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 966,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "中華民國",
+            "media_count": 3,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1725814271000,
+            "updated_at": 1739589185112
+        }
+    }
 }

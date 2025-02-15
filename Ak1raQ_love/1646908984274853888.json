@@ -1,18 +1,55 @@
 {
-  "id": "1646908984274853888",
-  "screen_name": "wobushixiabao",
-  "name": "我不是虾包",
-  "description": "摆烂打工人",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1714321613381124096/4gbISxLk_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646908984274853888/1711013838",
-  "followers_count": 1805,
-  "statuses_count": 1364,
-  "favourites_count": 6795,
-  "listed_count": 6,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-04-15 00:11:28 +08:00",
-  "url": "https://twitter.com/wobushixiabao"
+    "id": "1646908984274853888",
+    "screen_name": "wobushixiabao",
+    "name": "我不是虾包",
+    "description": "摆烂打工人",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1714321613381124096/4gbISxLk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646908984274853888/1711013838",
+    "followers_count": 1781,
+    "statuses_count": 1363,
+    "favourites_count": 6662,
+    "listed_count": 5,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-04-15 00:11:28 +08:00",
+    "url": "https://twitter.com/wobushixiabao",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjQ2OTA4OTg0Mjc0ODUzODg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 723,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "不知名基层社区",
+            "media_count": 143,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1681488688000,
+            "updated_at": 1739589298729
+        }
+    }
 }

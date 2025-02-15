@@ -5,14 +5,63 @@
     "description": "面包烤焦了呢，这也是没办法的事情吧'^'/16岁高中生！正是拯救世界的年纪ヽ(｀ˇ´)/重度中二病/世界上最喜欢的东西是人类！/但似乎并没有几个人类喜欢我˃̣̣̥᷄⌓˂̣̣̥᷅/比起乱七八糟的性别更相信爱(o•̀ᴗ-)♡/人文主义/匿名邮箱https://t.co/t7MxPCqUWz",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1822908743790825472/snCbqLyf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812527084973260800/1723389309",
-    "followers_count": 1127,
-    "statuses_count": 2589,
-    "favourites_count": 4450,
-    "listed_count": 1,
+    "followers_count": 1332,
+    "statuses_count": 2856,
+    "favourites_count": 4791,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-15 00:38:37 +08:00",
-    "url": "https://twitter.com/Keader291533"
+    "url": "https://twitter.com/Keader291533",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODEyNTI3MDg0OTczMjYwODAw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/keader1",
+                            "expanded_url": "https://ngl.link/keader1",
+                            "url": "https://t.co/t7MxPCqUWz",
+                            "indices": [
+                                120,
+                                143
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1062,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "不思議の国",
+            "media_count": 192,
+            "pinned_tweet_ids_str": [
+                "1890090700332839375"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1720975117000,
+            "updated_at": 1739589282809
+        }
+    }
 }

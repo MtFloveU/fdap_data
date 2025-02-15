@@ -5,14 +5,53 @@
     "description": "业余coser，喜欢出马娘。单推东海帝皇，欢迎爱马士扩列",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1812485400868331520/rVgolGiu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600822777006919680/1682340855",
-    "followers_count": 1358,
-    "statuses_count": 11154,
-    "favourites_count": 53737,
+    "followers_count": 1356,
+    "statuses_count": 11177,
+    "favourites_count": 53757,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-12-08 12:01:17 +00:00",
-    "url": "https://twitter.com/tokaiteio2013"
+    "created_at": "2022-12-08 20:01:17 +08:00",
+    "url": "https://twitter.com/tokaiteio2013",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjAwODIyNzc3MDA2OTE5Njgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2294,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "中国",
+            "media_count": 47,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1670500877000,
+            "updated_at": 1739589217922
+        }
+    }
 }

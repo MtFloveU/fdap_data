@@ -1,18 +1,71 @@
 {
-  "id": "1431912442125172741",
-  "screen_name": "zhonglihutaomtx",
-  "name": "岩王帝君与岩王帝姬🏳️‍⚧️",
-  "description": "负能小号\n谨慎fo",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1464680775240990727/pncc5kHN_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431912442125172741/1638042084",
-  "followers_count": 268,
-  "statuses_count": 526,
-  "favourites_count": 1786,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2021-08-29 17:31:53 +08:00",
-  "url": "https://twitter.com/zhonglihutaomtx"
+    "id": "1431912442125172741",
+    "screen_name": "zhonglihutaomtx",
+    "name": "岩王帝君与岩王帝姬🏳️‍⚧️",
+    "description": "负能小号\n谨慎fo",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1464680775240990727/pncc5kHN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431912442125172741/1638042084",
+    "followers_count": 277,
+    "statuses_count": 527,
+    "favourites_count": 1779,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-08-29 17:31:53 +08:00",
+    "url": "https://twitter.com/zhonglihutaomtx",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDMxOTEyNDQyMTI1MTcyNzQx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 415,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "广东东莞",
+            "media_count": 102,
+            "pinned_tweet_ids_str": [
+                "1467384381878652932"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1464676498053423110",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1630229513000,
+            "updated_at": 1739589270270
+        }
+    }
 }

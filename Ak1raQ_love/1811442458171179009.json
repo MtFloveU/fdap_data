@@ -5,14 +5,76 @@
     "description": "无证含糖/05MTF/172cm/53.5kg/炸柜/天残党/监护中/单身主义～永不恋爱/我妹妹！永远的好姐妹！@Hashinogu/免费节点：https://t.co/l1UUma4oWu",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1811442651830644737/wVddPxyQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811442458171179009/1720717549",
-    "followers_count": 993,
-    "statuses_count": 636,
-    "favourites_count": 1672,
-    "listed_count": 1,
+    "followers_count": 986,
+    "statuses_count": 639,
+    "favourites_count": 1656,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-12 00:48:49 +08:00",
-    "url": "https://twitter.com/xingliangjizi"
+    "url": "https://twitter.com/xingliangjizi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODExNDQyNDU4MTcxMTc5MDA5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ikuuu.pw/user",
+                            "expanded_url": "https://ikuuu.pw/user",
+                            "url": "https://t.co/l1UUma4oWu",
+                            "indices": [
+                                72,
+                                95
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 180,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "江苏徐州",
+            "media_count": 93,
+            "pinned_tweet_ids_str": [
+                "1883441099412488383"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1822561484792283256",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 103,
+                    "name": "Beauty, Cosmetic & Personal Care",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1720716529000,
+            "updated_at": 1739589292073
+        }
+    }
 }

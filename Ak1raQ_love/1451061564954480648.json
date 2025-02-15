@@ -5,14 +5,53 @@
     "description": "MTF/ 地雷系/OD/泛性恋/精神病人/人格分裂 男高/ 门66/188/520/1314",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1760658056617349120/74dOVWa5_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 643,
-    "statuses_count": 2450,
-    "favourites_count": 487,
+    "followers_count": 689,
+    "statuses_count": 2593,
+    "favourites_count": 532,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-10-21 13:43:41 +08:00",
-    "url": "https://twitter.com/cherish2032"
+    "url": "https://twitter.com/cherish2032",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDUxMDYxNTY0OTU0NDgwNjQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 333,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 44,
+            "pinned_tweet_ids_str": [
+                "1880482271167410318"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1634795021000,
+            "updated_at": 1739589265461
+        }
+    }
 }

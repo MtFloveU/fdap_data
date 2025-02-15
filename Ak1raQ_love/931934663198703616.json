@@ -5,14 +5,65 @@
     "description": "mtf/双相/bpd/dpd/asd/adhd | 今天也在努力活着的小女孩，可以叫我123 | 发一些生活中的事情 | 下面的链接是提问箱 | 最爱的主人是 @FTMiaoX 愿意为他付出一切",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876193252422164480/fZqr5cG__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/931934663198703616/1727449351",
-    "followers_count": 1673,
-    "statuses_count": 1768,
-    "favourites_count": 6094,
+    "followers_count": 1689,
+    "statuses_count": 1777,
+    "favourites_count": 6104,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
-    "created_at": "2017-11-18 17:18:33 +00:00",
-    "url": "https://twitter.com/BakaHDT"
+    "created_at": "2017-11-19 01:18:33 +08:00",
+    "url": "https://twitter.com/BakaHDT",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5MzE5MzQ2NjMxOTg3MDM2MTY=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/bakahdt",
+                            "expanded_url": "https://ngl.link/bakahdt",
+                            "url": "https://t.co/DVXWY0OIcQ",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 476,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "发条喵家的笼子里",
+            "media_count": 328,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/DVXWY0OIcQ",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1511025513000,
+            "updated_at": 1739589262851
+        }
+    }
 }

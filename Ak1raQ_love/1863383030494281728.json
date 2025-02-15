@@ -6,13 +6,51 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1863383080528224256/7-oyZeJS_normal.png",
     "profile_banner_url": null,
     "followers_count": 31,
-    "statuses_count": 331,
-    "favourites_count": 8902,
+    "statuses_count": 345,
+    "favourites_count": 8928,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-12-02 08:42:00 +08:00",
-    "url": "https://twitter.com/sjgs1928"
+    "url": "https://twitter.com/sjgs1928",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODYzMzgzMDMwNDk0MjgxNzI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 944,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 3,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1733100120000,
+            "updated_at": 1739589169406
+        }
+    }
 }

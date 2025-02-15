@@ -5,14 +5,67 @@
     "description": "Theoretical Chemistry Ph. D. Student/AI for Science/In Silico Drug Design/Comp. Chem. Scientist @ QuanMol Tech, Inc. 2TD3EL8V",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1724631863111897089/nZQKgDUn_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724630965551865856/1700019371",
-    "followers_count": 330,
-    "statuses_count": 2410,
-    "favourites_count": 6027,
-    "listed_count": 1,
+    "followers_count": 398,
+    "statuses_count": 2703,
+    "favourites_count": 6596,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-11-15 11:30:55 +08:00",
-    "url": "https://twitter.com/mizu_bai"
+    "url": "https://twitter.com/mizu_bai",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzI0NjMwOTY1NTUxODY1ODU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "github.com/mizu-bai",
+                            "expanded_url": "https://github.com/mizu-bai",
+                            "url": "https://t.co/N7irDlk8Gg",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 466,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 120,
+            "pinned_tweet_ids_str": [
+                "1777215880126242862"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/N7irDlk8Gg",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1700019055000,
+            "updated_at": 1739589187893
+        }
+    }
 }

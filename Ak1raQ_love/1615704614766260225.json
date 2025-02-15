@@ -5,14 +5,67 @@
     "description": "摄影📷｜NIKON｜24.8.18｜现在算日常｜@nekomakiQAQ｜@Fly0001985｜@kikoxts｜@eWPhI1dDTnIn769｜小号@RanXi_love",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876199238557933568/oyF7OKX1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1615704614766260225/1726720807",
-    "followers_count": 1387,
-    "statuses_count": 4510,
-    "favourites_count": 17519,
+    "followers_count": 1382,
+    "statuses_count": 4528,
+    "favourites_count": 17526,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-01-18 21:36:22 +08:00",
-    "url": "https://twitter.com/RanXi_MtF"
+    "url": "https://twitter.com/RanXi_MtF",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjE1NzA0NjE0NzY2MjYwMjI1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "nikon.com.cn",
+                            "expanded_url": "http://www.nikon.com.cn",
+                            "url": "https://t.co/0YOLczz4oq",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 722,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "日本国东京都港区港南2-15-3 品川城际",
+            "media_count": 700,
+            "pinned_tweet_ids_str": [
+                "1865343341266890803"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/0YOLczz4oq",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1674048982000,
+            "updated_at": 1739589277836
+        }
+    }
 }

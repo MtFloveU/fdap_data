@@ -1,0 +1,115 @@
+{
+    "id": "1243945571796295681",
+    "screen_name": "ryq59",
+    "name": "你是想气死铨酱么🍥",
+    "description": "「故事要从这里开始讲起」｜Make It Real｜PUBGM Player｜Esports Analys｜Language:CN/EN/JP｜Sister & lover: @xlj070423 @xlioilxlloiilv @iranon_lcf @yizhikapaiqaq｜莱铭：@revive_meink",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243945571796295681/1736069194",
+    "followers_count": 16607,
+    "statuses_count": 21311,
+    "favourites_count": 170550,
+    "listed_count": 68,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2020-03-29 00:58:37 +08:00",
+    "url": "https://twitter.com/ryq59",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjQzOTQ1NTcxNzk2Mjk1Njgx",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @xlj070423",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 23,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "xlj070423",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "xlj070423"
+                                        },
+                                        "rest_id": "1875852742855688192"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "notifications": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linktr.ee/ryq59",
+                            "expanded_url": "https://linktr.ee/ryq59",
+                            "url": "https://t.co/6W3mmCUM0f",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4439,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "京东星宇",
+            "media_count": 4607,
+            "pinned_tweet_ids_str": [
+                "1863553708816261124"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/6W3mmCUM0f",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1724057853562953939",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 959,
+                    "name": "Gamer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1585414717000,
+            "updated_at": 1739589303682
+        }
+    }
+}

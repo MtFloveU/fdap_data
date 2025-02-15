@@ -5,14 +5,64 @@
     "description": "日本千叶的元气清水萌新小男娘！最近晋升为家长党！爱玩cos嘿嘿！\n\n欢迎互推贴贴！需要回关可以dd小狼哦\n\n不定期来x分享照片或者发情\n\n中日Eng talking is welcomed！\n\nq3478195919，🚪20，一张福泽谕吉可以接受线下见面嘿嘿(⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882826603438448640/BtVT3jyo_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1783913344182980610/1717130574",
-    "followers_count": 1622,
-    "statuses_count": 870,
-    "favourites_count": 2486,
-    "listed_count": 5,
+    "followers_count": 1618,
+    "statuses_count": 875,
+    "favourites_count": 2497,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-04-26 17:37:59 +00:00",
-    "url": "https://twitter.com/wolfcub_ovo_"
+    "created_at": "2024-04-27 01:37:59 +08:00",
+    "url": "https://twitter.com/wolfcub_ovo_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzgzOTEzMzQ0MTgyOTgwNjEw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 688,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Shinjuku-ku, Tokyo",
+            "media_count": 303,
+            "pinned_tweet_ids_str": [
+                "1882293414802379232"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1816346750229307756",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1714153079000,
+            "updated_at": 1739589289590
+        }
+    }
 }

@@ -5,14 +5,67 @@
     "description": "学生，但政治偏向中立 |头图 @hy_plus的桜田シロ|     因为无能为力，所以顺其自然。因为心无所恃，所以随遇而安。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886677082736144384/fKXwJJTy_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752600490393874432/1735964398",
-    "followers_count": 113,
-    "statuses_count": 81,
-    "favourites_count": 73,
+    "followers_count": 133,
+    "statuses_count": 96,
+    "favourites_count": 89,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2024-01-31 15:52:02 +08:00",
-    "url": "https://twitter.com/lisrity"
+    "url": "https://twitter.com/lisrity",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzUyNjAwNDkwMzkzODc0NDMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "skr.moe",
+                            "expanded_url": "https://skr.moe",
+                            "url": "https://t.co/3GngE9Ysfu",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 432,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Aksu City,Xinjiang,China",
+            "media_count": 20,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/3GngE9Ysfu",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1706687522000,
+            "updated_at": 1739589257611
+        }
+    }
 }

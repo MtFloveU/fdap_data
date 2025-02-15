@@ -1,18 +1,57 @@
 {
-  "id": "1497860307653251072",
-  "screen_name": "chengyiga",
-  "name": "沈奈昔（哀悼逝者版）",
-  "description": "奈昔❤️喵❤️曦月妹妹@Xiyue527sakura❤️最好的主人&姐姐洛米@chanyfgh❤️最喜欢贴贴筱琦@Xqqq0724❤️收留了汐颜妹妹@ChishioMoe❤️最可爱的玲绪@LX0505m❤️๑会一直陪着大家~",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1593263084654579712/PjNt-IHn_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497860307653251072/1686933134",
-  "followers_count": 4896,
-  "statuses_count": 8454,
-  "favourites_count": 24037,
-  "listed_count": 13,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-02-27 17:05:22 +08:00",
-  "url": "https://twitter.com/chengyiga"
+    "id": "1497860307653251072",
+    "screen_name": "chengyiga",
+    "name": "沈奈昔（哀悼逝者版）",
+    "description": "奈昔❤️喵❤️曦月妹妹@Xiyue527sakura❤️最好的主人&姐姐洛米@chanyfgh❤️最喜欢贴贴筱琦@Xqqq0724❤️收留了汐颜妹妹@ChishioMoe❤️最可爱的玲绪@LX0505m❤️๑会一直陪着大家~",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1593263084654579712/PjNt-IHn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497860307653251072/1686933134",
+    "followers_count": 4993,
+    "statuses_count": 8535,
+    "favourites_count": 24187,
+    "listed_count": 12,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-02-27 17:05:22 +08:00",
+    "url": "https://twitter.com/chengyiga",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDk3ODYwMzA3NjUzMjUxMDcy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 511,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1540,
+            "pinned_tweet_ids_str": [
+                "1630921497257848834"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1645952722000,
+            "updated_at": 1739589296476
+        }
+    }
 }

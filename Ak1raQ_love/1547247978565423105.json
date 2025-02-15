@@ -1,18 +1,114 @@
 {
-  "id": "1547247978565423105",
-  "screen_name": "yomoda_yukusa",
-  "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
-  "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547247978565423105/1671367283",
-  "followers_count": 2747,
-  "statuses_count": 18668,
-  "favourites_count": 26768,
-  "listed_count": 6,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-07-13 23:54:26 +08:00",
-  "url": "https://twitter.com/yomoda_yukusa"
+    "id": "1547247978565423105",
+    "screen_name": "yomoda_yukusa",
+    "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+    "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547247978565423105/1671367283",
+    "followers_count": 2790,
+    "statuses_count": 18838,
+    "favourites_count": 26929,
+    "listed_count": 9,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-07-13 23:54:26 +08:00",
+    "url": "https://twitter.com/yomoda_yukusa",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQ3MjQ3OTc4NTY1NDIzMTA1",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @AypashaYomoda",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 27,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "AypashaYomoda",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "AypashaYomoda"
+                                        },
+                                        "rest_id": "1710391034302337024"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/yuhaoriIRS",
+                            "expanded_url": "https://t.me/yuhaoriIRS",
+                            "url": "https://t.co/yYj34tvUWb",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2798,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "偽神的天國：晶狀體",
+            "media_count": 1255,
+            "pinned_tweet_ids_str": [
+                "1842530921792331821"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/yYj34tvUWb",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1664111833429712897",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 688,
+                    "name": "Non-Governmental & Nonprofit Organization ",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1657727666000,
+            "updated_at": 1739589294389
+        }
+    }
 }

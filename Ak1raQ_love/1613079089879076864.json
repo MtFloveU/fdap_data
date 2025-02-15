@@ -1,18 +1,67 @@
 {
-  "id": "1613079089879076864",
-  "screen_name": "Cldeop",
-  "name": "雲鳩",
-  "description": "yún jiū\n推特见证每一种生物\n生活号@ACldJP",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613079089879076864/1727929985",
-  "followers_count": 49146,
-  "statuses_count": 9504,
-  "favourites_count": 22122,
-  "listed_count": 171,
-  "verified_type": null,
-  "is_blue_verified": true,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-01-11 15:43:29 +08:00",
-  "url": "https://twitter.com/Cldeop"
+    "id": "1613079089879076864",
+    "screen_name": "Cldeop",
+    "name": "雲鳩",
+    "description": "yún jiū\n推特见证每一种生物\n生活号@ACldJP",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613079089879076864/1727929985",
+    "followers_count": 54897,
+    "statuses_count": 11016,
+    "favourites_count": 25301,
+    "listed_count": 189,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-01-11 15:43:29 +08:00",
+    "url": "https://twitter.com/Cldeop",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjEzMDc5MDg5ODc5MDc2ODY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 552,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "点一下「查看更多」试试？",
+            "media_count": 7676,
+            "pinned_tweet_ids_str": [
+                "1874123551281991887"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1691733351470858557",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "bc1qk20lwnr3ltawxwqgvxg0wtzw00m22zv6yl0dgl",
+            "ethereum_handle": "0xE138c8e30ae608F99668C2e2eA4e445e5d381e75",
+            "patreon_handle": "AlanCloud"
+        },
+        "twe_private_fields": {
+            "created_at": 1673423009000,
+            "updated_at": 1739589296476
+        }
+    }
 }

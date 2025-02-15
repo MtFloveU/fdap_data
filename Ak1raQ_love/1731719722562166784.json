@@ -1,18 +1,64 @@
 {
-  "id": "1731719722562166784",
-  "screen_name": "Bishoujo_HamiGa",
-  "name": "🍈",
-  "description": "💫00后马猴烧酒💫  007生活版🤪",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1775498276424622080/yoCP97DA_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731719722562166784/1706964508",
-  "followers_count": 744,
-  "statuses_count": 961,
-  "favourites_count": 4309,
-  "listed_count": 3,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-12-05 00:59:05 +08:00",
-  "url": "https://twitter.com/Bishoujo_HamiGa"
+    "id": "1731719722562166784",
+    "screen_name": "Bishoujo_HamiGa",
+    "name": "🍈",
+    "description": "💫00后马猴烧酒💫  007生活版🤪",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1775498276424622080/yoCP97DA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731719722562166784/1706964508",
+    "followers_count": 730,
+    "statuses_count": 959,
+    "favourites_count": 4087,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-12-05 00:59:05 +08:00",
+    "url": "https://twitter.com/Bishoujo_HamiGa",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzMxNzE5NzIyNTYyMTY2Nzg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 805,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Singapore",
+            "media_count": 33,
+            "pinned_tweet_ids_str": [
+                "1773379418444153214"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1785580772201754879",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1701709145000,
+            "updated_at": 1739589247181
+        }
+    }
 }

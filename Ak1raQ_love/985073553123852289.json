@@ -5,14 +5,67 @@
     "description": "CN 顺男 LGBTQ友好 red pill-incel WOW/日麻\n传统视觉艺术爱好者 多语言者 健全B 表面E人 INTJ \n不谈论政治的Polisci+JD graduate 热衷数学、信息论与信号论 \n备用号 @geeseengineer",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874719852990251008/je-TpkuH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/985073553123852289/1738558560",
-    "followers_count": 275,
-    "statuses_count": 1415,
-    "favourites_count": 3258,
+    "followers_count": 289,
+    "statuses_count": 1573,
+    "favourites_count": 4195,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2018-04-14 16:33:31 +08:00",
-    "url": "https://twitter.com/geeseartist"
+    "url": "https://twitter.com/geeseartist",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5ODUwNzM1NTMxMjM4NTIyODk=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "gooseartist.wordpress.com",
+                            "expanded_url": "http://gooseartist.wordpress.com",
+                            "url": "https://t.co/qaZd30c3kk",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 267,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "https://t.me/+5f2fiJf9nGE0ZjNl",
+            "media_count": 99,
+            "pinned_tweet_ids_str": [
+                "1888548407217955017"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/qaZd30c3kk",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1523694811000,
+            "updated_at": 1739589270270
+        }
+    }
 }

@@ -5,14 +5,80 @@
     "description": "Play your card, be who you are | 🏳️‍🌈 & ♂️ & he/him | 🐾 Fluffy | 🕗 UTC+8 | ⌨️ all-in open-source | 🌐 EN, ZH | ⚠️ 無断転載禁止 | 易燃易爆易碎易炸天地无用小心移动谢谢 |",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870458282072285184/_Z_RkXXj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415174766609125380/1713669154",
-    "followers_count": 311,
-    "statuses_count": 4340,
-    "favourites_count": 18688,
+    "followers_count": 344,
+    "statuses_count": 4519,
+    "favourites_count": 19322,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-07-14 13:02:24 +08:00",
-    "url": "https://twitter.com/kobe_koto"
+    "url": "https://twitter.com/kobe_koto",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDE1MTc0NzY2NjA5MTI1Mzgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "koto.cc",
+                            "expanded_url": "https://koto.cc/",
+                            "url": "https://t.co/lzTDNbaqp2",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 675,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "The Lost Continent",
+            "media_count": 660,
+            "pinned_tweet_ids_str": [
+                "1766675103759454273"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/lzTDNbaqp2",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1804387052655665525",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1626238944000,
+            "updated_at": 1739589262851
+        }
+    }
 }

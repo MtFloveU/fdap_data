@@ -1,18 +1,55 @@
 {
-  "id": "1544336036134010880",
-  "screen_name": "cr0issantca2",
-  "name": "珞🍥",
-  "description": "05/MtF/177|58/无证含糖HRT:22.7.22/INFJ-T/重度社恐/@Bahyu_Binary 的小猫猫🐱",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1761958695468957696/BVDTkcLK_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544336036134010880/1706104052",
-  "followers_count": 35,
-  "statuses_count": 21,
-  "favourites_count": 315,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2022-07-05 23:03:22 +08:00",
-  "url": "https://twitter.com/cr0issantca2"
+    "id": "1544336036134010880",
+    "screen_name": "cr0issantca2",
+    "name": "珞🍥",
+    "description": "05/MtF/177|58/无证含糖HRT:22.7.22/INFJ-T/重度社恐/@Bahyu_Binary 的小猫猫🐱",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1761958695468957696/BVDTkcLK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544336036134010880/1706104052",
+    "followers_count": 34,
+    "statuses_count": 21,
+    "favourites_count": 305,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-07-05 23:03:22 +08:00",
+    "url": "https://twitter.com/cr0issantca2",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQ0MzM2MDM2MTM0MDEwODgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 127,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "湖北",
+            "media_count": 6,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1657033402000,
+            "updated_at": 1739589249658
+        }
+    }
 }

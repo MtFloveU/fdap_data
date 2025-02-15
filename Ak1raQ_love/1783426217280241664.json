@@ -1,18 +1,55 @@
 {
-  "id": "1783426217280241664",
-  "screen_name": "vpWbqqidHf10302",
-  "name": "战壕奇兵",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1783431370519531520/yn8FH2Qn_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1783426217280241664/1721204631",
-  "followers_count": 53,
-  "statuses_count": 802,
-  "favourites_count": 759,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-04-25 17:22:12 +08:00",
-  "url": "https://twitter.com/vpWbqqidHf10302"
+    "id": "1783426217280241664",
+    "screen_name": "vpWbqqidHf10302",
+    "name": "战壕奇兵",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1783431370519531520/yn8FH2Qn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1783426217280241664/1721204631",
+    "followers_count": 50,
+    "statuses_count": 803,
+    "favourites_count": 754,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-04-25 17:22:12 +08:00",
+    "url": "https://twitter.com/vpWbqqidHf10302",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzgzNDI2MjE3MjgwMjQxNjY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 976,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 39,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1714036932000,
+            "updated_at": 1739589234225
+        }
+    }
 }

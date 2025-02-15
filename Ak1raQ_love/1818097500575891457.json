@@ -5,14 +5,51 @@
     "description": "♥️🐱@5thCuteKitten\n可以叫我澪澪/Mio\n我是宅女，欢迎宅宅们跟我玩^_^女宝互关大欢迎！\n品客勿扰|看黄的不准关注我|被我拉黑就是因为我讨厌你|随缘回关",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877574138493390848/_fJPUWYv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818097500575891457/1738237540",
-    "followers_count": 266,
-    "statuses_count": 4038,
-    "favourites_count": 45470,
+    "followers_count": 269,
+    "statuses_count": 4062,
+    "favourites_count": 45764,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-07-30 01:33:24 +00:00",
-    "url": "https://twitter.com/moeTvT"
+    "created_at": "2024-07-30 09:33:24 +08:00",
+    "url": "https://twitter.com/moeTvT",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE4MDk3NTAwNTc1ODkxNDU3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 989,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "空を見上げて",
+            "media_count": 32,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1722303204000,
+            "updated_at": 1739589257610
+        }
+    }
 }

@@ -5,14 +5,51 @@
     "description": "日常",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1801494908701917187/CmiEZK5I_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801493967139389442/1721227348",
-    "followers_count": 24,
+    "followers_count": 27,
     "statuses_count": 13,
-    "favourites_count": 65,
+    "favourites_count": 63,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-06-14 13:57:01 +08:00",
-    "url": "https://twitter.com/tugou_nativedog"
+    "url": "https://twitter.com/tugou_nativedog",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODAxNDkzOTY3MTM5Mzg5NDQy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 93,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "山东/北京",
+            "media_count": 6,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1718344621000,
+            "updated_at": 1739589292073
+        }
+    }
 }

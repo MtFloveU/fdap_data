@@ -1,18 +1,72 @@
 {
-  "id": "1667851886412836866",
-  "screen_name": "LittleSwift233",
-  "name": "飞翔の小燕子",
-  "description": "Love Kou | Love Firefly | Arcaea&Minecraft&Honkai:SR | Species: cat | Frontend & Backend Dev",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1851629959678451712/ZcOTwdL-_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667851886412836866/1726474262",
-  "followers_count": 553,
-  "statuses_count": 2001,
-  "favourites_count": 2012,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-06-11 19:11:07 +08:00",
-  "url": "https://twitter.com/LittleSwift233"
+    "id": "1667851886412836866",
+    "screen_name": "LittleSwift233",
+    "name": "飞翔の小燕子",
+    "description": "Love Kou | Love Firefly | Arcaea&Minecraft&Honkai:SR | Species: cat | Frontend & Backend Dev",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1851629959678451712/ZcOTwdL-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667851886412836866/1726474262",
+    "followers_count": 545,
+    "statuses_count": 2134,
+    "favourites_count": 2175,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-06-11 19:11:07 +08:00",
+    "url": "https://twitter.com/LittleSwift233",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjY3ODUxODg2NDEyODM2ODY2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "littleswift.moe",
+                            "expanded_url": "https://littleswift.moe/",
+                            "url": "https://t.co/JweoWWLeQH",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 631,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Arcaea",
+            "media_count": 109,
+            "pinned_tweet_ids_str": [
+                "1866378684975997140"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/JweoWWLeQH",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1686481867000,
+            "updated_at": 1739589277836
+        }
+    }
 }

@@ -5,14 +5,78 @@
     "description": "Gura狂信者(｡･ω･｡)ﾉ♡\n單推Gura,Rushia,Mumei的臭DD",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1550403622063984641/7BeEIL5H_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320320182925938689/1649180373",
-    "followers_count": 21,
-    "statuses_count": 696,
-    "favourites_count": 12100,
-    "listed_count": 2,
+    "followers_count": 25,
+    "statuses_count": 719,
+    "favourites_count": 12584,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2020-10-25 19:04:12 +08:00",
-    "url": "https://twitter.com/RYL1No5F5Icaqs5"
+    "url": "https://twitter.com/RYL1No5F5Icaqs5",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzIwMzIwMTgyOTI1OTM4Njg5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                            "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=oQ5mCqAGbw6FT2D-",
+                            "url": "https://t.co/Zfxb74N3a4",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1275,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "台灣",
+            "media_count": 12,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/Zfxb74N3a4",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1492437965095968771",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1603623852000,
+            "updated_at": 1739589187893
+        }
+    }
 }

@@ -5,14 +5,55 @@
     "description": "虚无缥缈的灵魂/始终相信善良的心灵/网络永远是我的栖息之地，而非情绪内耗之所// 亲友 @magica_yukii @Ruru_karosu @Xiaotianluo233 @xue_zhi2008 妹妹 @liychn30019070 @LinKuoTianKong 姐姐 @aphasia4iiii",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883466470107295744/Qdx2QSnx_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596528833431150592/1704554040",
-    "followers_count": 1173,
-    "statuses_count": 7151,
-    "favourites_count": 33702,
+    "followers_count": 1187,
+    "statuses_count": 7175,
+    "favourites_count": 33396,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-11-26 23:38:40 +08:00",
-    "url": "https://twitter.com/nakiri_aya2002"
+    "url": "https://twitter.com/nakiri_aya2002",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTk2NTI4ODMzNDMxMTUwNTky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1505,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "秋葉原",
+            "media_count": 583,
+            "pinned_tweet_ids_str": [
+                "1883466775242953157"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1669477120000,
+            "updated_at": 1739589270270
+        }
+    }
 }

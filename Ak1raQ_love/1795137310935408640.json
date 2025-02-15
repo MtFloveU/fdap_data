@@ -5,14 +5,97 @@
     "description": "马来西亚是马来西亚人的马来西亚😞   不要遵宪要修宪📕  不要主人要平等📜 人民至上👨🛠 Ketuanan Rakyat  一國三制🇲🇾❤  |\n马来西亚Malaysia是由11个州（Negeri）和两个邦（Wilayah）组成的联邦（Persekutuan）\n|Hidup Persekutuan！🇲",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872200034487611392/VRQbEUx2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795137310935408640/1729710651",
-    "followers_count": 1241,
-    "statuses_count": 23828,
-    "favourites_count": 70422,
-    "listed_count": 13,
+    "followers_count": 1231,
+    "statuses_count": 23856,
+    "favourites_count": 70513,
+    "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-05-27 16:57:58 +00:00",
-    "url": "https://twitter.com/saksamalah2nd"
+    "created_at": "2024-05-28 00:57:58 +08:00",
+    "url": "https://twitter.com/saksamalah2nd",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk1MTM3MzEwOTM1NDA4NjQw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @saksamalah3rd",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 27,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "saksamalah3rd",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "saksamalah3rd"
+                                        },
+                                        "rest_id": "1822687533463207936"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtu.be/g0moet-jLw8?si…",
+                            "expanded_url": "https://youtu.be/g0moet-jLw8?si=IxPxG6Xe51xCb20d",
+                            "url": "https://t.co/GwUECa6oIO",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1533,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "重庆 马来西亚/（广东省）闽粤交界",
+            "media_count": 1752,
+            "pinned_tweet_ids_str": [
+                "1887538884273439096"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/GwUECa6oIO",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1716829078000,
+            "updated_at": 1739589277837
+        }
+    }
 }

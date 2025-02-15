@@ -1,18 +1,57 @@
 {
-  "id": "1479298731887501314",
-  "screen_name": "meng9017",
-  "name": "夢夢🍥",
-  "description": "可愛的寶寶@xxxxxxsbdd/最好的閨蜜@n_xiaonuo_n @_so_coin/🚪88（好友位、可聊天、同类免费）",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1792653247242772480/KMjnsRW9_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479298731887501314/1667122040",
-  "followers_count": 756,
-  "statuses_count": 1097,
-  "favourites_count": 2439,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2022-01-07 11:48:05 +08:00",
-  "url": "https://twitter.com/meng9017"
+    "id": "1479298731887501314",
+    "screen_name": "meng9017",
+    "name": "夢夢🍥",
+    "description": "可愛的寶寶@xxxxxxsbdd/最好的閨蜜@n_xiaonuo_n @_so_coin/🚪88（好友位、可聊天、同类免费）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1792653247242772480/KMjnsRW9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479298731887501314/1667122040",
+    "followers_count": 752,
+    "statuses_count": 1095,
+    "favourites_count": 2417,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-01-07 11:48:05 +08:00",
+    "url": "https://twitter.com/meng9017",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDc5Mjk4NzMxODg3NTAxMzE0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 623,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "遼寧省大連市",
+            "media_count": 147,
+            "pinned_tweet_ids_str": [
+                "1824157157765353859"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1641527285000,
+            "updated_at": 1739589247181
+        }
+    }
 }

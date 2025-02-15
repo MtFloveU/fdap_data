@@ -5,14 +5,67 @@
     "description": "与你的日常，就是奇迹！\n上海市某中学在读ENTP初三牲喵（2010.06）\n在思考要不要翻车喵（\ncrush @guo_lao32576\n主人@xvque5567 @fc1164283287992\n里推@Andy1782025\n友情链接：鹅鹅 @geeseartist",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545736499597307904/1736861702",
-    "followers_count": 925,
-    "statuses_count": 709,
-    "favourites_count": 3619,
-    "listed_count": 3,
+    "followers_count": 1017,
+    "statuses_count": 786,
+    "favourites_count": 4258,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-07-09 19:48:14 +08:00",
-    "url": "https://twitter.com/Andy1782010"
+    "url": "https://twitter.com/Andy1782010",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQ1NzM2NDk5NTk3MzA3OTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/andy17820101",
+                            "expanded_url": "http://ngl.link/andy17820101",
+                            "url": "https://t.co/N8iKz1oOco",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2568,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "永恒之地-翁法罗斯 AMPHOREUS",
+            "media_count": 62,
+            "pinned_tweet_ids_str": [
+                "1876669495902917098"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/N8iKz1oOco",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1657367294000,
+            "updated_at": 1739589267789
+        }
+    }
 }

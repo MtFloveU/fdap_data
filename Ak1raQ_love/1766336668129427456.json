@@ -1,18 +1,71 @@
 {
-  "id": "1766336668129427456",
-  "screen_name": "akiss265361",
-  "name": "织锦",
-  "description": "🏳️‍⚧️MTF/本人虚无主义/一个想要成为哲学家，心理学家，化学天才，生物学天才的多类复合型生物🐷🐷🐷/喜欢所以快乐和不快乐的生物，",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1812092073698263040/Zcj2Rf1Q_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766336668129427456/1719239440",
-  "followers_count": 123,
-  "statuses_count": 699,
-  "favourites_count": 1881,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-03-09 13:34:27 +08:00",
-  "url": "https://twitter.com/akiss265361"
+    "id": "1766336668129427456",
+    "screen_name": "akiss265361",
+    "name": "织锦",
+    "description": "🏳️‍⚧️MTF/本人虚无主义/一个想要成为哲学家，心理学家，化学天才，生物学天才的多类复合型生物🐷🐷🐷/喜欢所以快乐和不快乐的生物，",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1812092073698263040/Zcj2Rf1Q_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766336668129427456/1719239440",
+    "followers_count": 135,
+    "statuses_count": 772,
+    "favourites_count": 2852,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-03-09 13:34:27 +08:00",
+    "url": "https://twitter.com/akiss265361",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY2MzM2NjY4MTI5NDI3NDU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/akikarte",
+                            "expanded_url": "https://t.me/akikarte",
+                            "url": "https://t.co/rK37lsCc9S",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 447,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "一顶很大很大的大黑伞下",
+            "media_count": 47,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/rK37lsCc9S",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1709962467000,
+            "updated_at": 1739589285081
+        }
+    }
 }

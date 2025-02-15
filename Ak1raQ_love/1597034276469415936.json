@@ -1,18 +1,57 @@
 {
-  "id": "1597034276469415936",
-  "screen_name": "vperfact",
-  "name": "安理",
-  "description": "啤酒烧烤/女神异闻录/我的世界 光辉联邦总统 欢迎扩列",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1847631943107751936/bFrA7Hui_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597034276469415936/1693734025",
-  "followers_count": 809,
-  "statuses_count": 1675,
-  "favourites_count": 2589,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": true,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-11-28 09:07:07 +08:00",
-  "url": "https://twitter.com/vperfact"
+    "id": "1597034276469415936",
+    "screen_name": "vperfact",
+    "name": "安理",
+    "description": "啤酒烧烤/女神异闻录/我的世界 光辉联邦总统 欢迎扩列",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1847631943107751936/bFrA7Hui_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597034276469415936/1693734025",
+    "followers_count": 786,
+    "statuses_count": 1674,
+    "favourites_count": 2563,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-11-28 09:07:07 +08:00",
+    "url": "https://twitter.com/vperfact",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTk3MDM0Mjc2NDY5NDE1OTM2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 562,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "补习班",
+            "media_count": 234,
+            "pinned_tweet_ids_str": [
+                "1824098329997045950"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1669597627000,
+            "updated_at": 1739589298729
+        }
+    }
 }

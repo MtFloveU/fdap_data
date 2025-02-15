@@ -1,18 +1,82 @@
 {
-  "id": "1617419399572643840",
-  "screen_name": "jingqngrng1",
-  "name": "清吉子",
-  "description": "民俗文化/手工藝/畫畫/古今語言/很難學會事情的幼稚推主\n邮箱:  hanamiwosuru@gmail.com\njingqngrng1@outlook.com",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1842834580916813824/g8ZJVpeO_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617419399572643840/1678195321",
-  "followers_count": 1547,
-  "statuses_count": 4989,
-  "favourites_count": 198508,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-01-23 15:10:21 +08:00",
-  "url": "https://twitter.com/jingqngrng1"
+    "id": "1617419399572643840",
+    "screen_name": "jingqngrng1",
+    "name": "清吉子",
+    "description": "民俗文化/手工藝/畫畫/古今語言/很難學會事情的幼稚推主\n邮箱:  hanamiwosuru@gmail.com\njingqngrng1@outlook.com",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1842834580916813824/g8ZJVpeO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617419399572643840/1678195321",
+    "followers_count": 1564,
+    "statuses_count": 5196,
+    "favourites_count": 198999,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-01-23 15:10:21 +08:00",
+    "url": "https://twitter.com/jingqngrng1",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjE3NDE5Mzk5NTcyNjQzODQw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/benxnqueut",
+                            "expanded_url": "http://t.me/benxnqueut",
+                            "url": "https://t.co/5NB3MZvRml",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1762,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Middangeard",
+            "media_count": 458,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/5NB3MZvRml",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1637862908297347072",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1674457821000,
+            "updated_at": 1739589282809
+        }
+    }
 }

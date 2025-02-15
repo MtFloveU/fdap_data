@@ -5,14 +5,96 @@
     "description": "HALA MADRID | @pNcYSzDUsc75787备用账号",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890063208872075264/sUtQVSyg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697181010914639872/1739502756",
-    "followers_count": 822,
-    "statuses_count": 102,
+    "followers_count": 821,
+    "statuses_count": 105,
     "favourites_count": 1,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-08-31 09:34:28 +00:00",
-    "url": "https://twitter.com/pNcYSzDUsc75789"
+    "created_at": "2023-08-31 17:34:28 +08:00",
+    "url": "https://twitter.com/pNcYSzDUsc75789",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjk3MTgxMDEwOTE0NjM5ODcy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @pNcYSzDUsc75787",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "pNcYSzDUsc75787",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "pNcYSzDUsc75787"
+                                        },
+                                        "rest_id": "1877035470615638016"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1373,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Napoli，Italia ",
+            "media_count": 15,
+            "pinned_tweet_ids_str": [
+                "1890063092622709124"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1830582524491559284",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1693474468000,
+            "updated_at": 1739589277837
+        }
+    }
 }

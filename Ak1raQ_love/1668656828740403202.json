@@ -5,14 +5,110 @@
     "description": "我本江湖一闲人，四海为家看风景丨中华人民共和国万岁，世界人民大团结万岁丨旅行、阅读、睡觉、动漫影视、历史哲学、健身跑步减肥丨练习厨艺中丨注册推特初衷:宣扬 ＃虹猫蓝兔 系列动漫丨好朋友: @mikulovermua\n@xiangsaixue520  @chen__yin @kojikaxiaolu_",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1820478203770916866/YkmswBLR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668656828740403202/1726934571",
-    "followers_count": 13008,
-    "statuses_count": 11904,
-    "favourites_count": 55460,
+    "followers_count": 13070,
+    "statuses_count": 11918,
+    "favourites_count": 55602,
     "listed_count": 13,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-06-13 16:30:13 +00:00",
-    "url": "https://twitter.com/qinglongxiangmo"
+    "created_at": "2023-06-14 00:30:13 +08:00",
+    "url": "https://twitter.com/qinglongxiangmo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjY4NjU2ODI4NzQwNDAzMjAy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @POTUStiao1108",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 27,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "POTUStiao1108",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "POTUStiao1108"
+                                        },
+                                        "rest_id": "1724349605973049344"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "hmlt.net/ferry/?CID=1",
+                            "expanded_url": "http://www.hmlt.net/ferry/?CID=1",
+                            "url": "https://t.co/xykAHUnI2f",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 5461,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "People's Republic of China🇨🇳",
+            "media_count": 3619,
+            "pinned_tweet_ids_str": [
+                "1795017323696263608"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/xykAHUnI2f",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1711372956260319399",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1101,
+                    "name": "International Relations",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1686673813000,
+            "updated_at": 1739589262851
+        }
+    }
 }

@@ -5,14 +5,53 @@
     "description": "🏳️‍⚧️MTF🍥 | 2007 | HRT:8/12 | DCS World | Kingdom of Erusea | 炸柜 | 同类回fo | 可以帮忙P头像 原@not_in_true号主 | 老婆：@asdasd72654380",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1752341818732347392/jCzrHjAb_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720733273914257408/1704620973",
-    "followers_count": 926,
-    "statuses_count": 788,
-    "favourites_count": 1186,
+    "followers_count": 920,
+    "statuses_count": 790,
+    "favourites_count": 1185,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-11-04 17:22:45 +08:00",
-    "url": "https://twitter.com/lyulka_in_true"
+    "url": "https://twitter.com/lyulka_in_true",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzIwNzMzMjczOTE0MjU3NDA4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 677,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Kingdom of Erusea ",
+            "media_count": 123,
+            "pinned_tweet_ids_str": [
+                "1741422828560482591"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1699089765000,
+            "updated_at": 1739589301193
+        }
+    }
 }

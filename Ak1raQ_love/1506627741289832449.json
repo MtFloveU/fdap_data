@@ -1,18 +1,66 @@
 {
-  "id": "1506627741289832449",
-  "screen_name": "Kasugan01969900",
-  "name": "霜🍥Sora",
-  "description": "无证停糖mtf|是JK|互fo|天残肥宅|被家暴中。。。|觉悟很低的⑨|GAHT2023.7.2-2023.11.14|In Solitude,Where we are Least Alone",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1676969751757864971/nBmi9MBM_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506627741289832449/1701356867",
-  "followers_count": 880,
-  "statuses_count": 138,
-  "favourites_count": 665,
-  "listed_count": 4,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-03-23 21:43:47 +08:00",
-  "url": "https://twitter.com/Kasugan01969900"
+    "id": "1506627741289832449",
+    "screen_name": "Kasugan01969900",
+    "name": "霜🍥Sora",
+    "description": "无证停糖mtf|是JK|互fo|天残肥宅|被家暴中。。。|觉悟很低的⑨|GAHT2023.7.2-2023.11.14|In Solitude,Where we are Least Alone",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1676969751757864971/nBmi9MBM_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506627741289832449/1701356867",
+    "followers_count": 886,
+    "statuses_count": 140,
+    "favourites_count": 668,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-03-23 21:43:47 +08:00",
+    "url": "https://twitter.com/Kasugan01969900",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTA2NjI3NzQxMjg5ODMyNDQ5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1419,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 10,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1748545433096589760",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1648043027000,
+            "updated_at": 1739589303682
+        }
+    }
 }

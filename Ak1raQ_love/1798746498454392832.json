@@ -1,18 +1,55 @@
 {
-  "id": "1798746498454392832",
-  "screen_name": "czl1255171",
-  "name": "莫邪",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1824781515110432768/Gdk9E8tL_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798746498454392832/1724302319",
-  "followers_count": 26,
-  "statuses_count": 229,
-  "favourites_count": 579,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-06-06 23:59:24 +08:00",
-  "url": "https://twitter.com/czl1255171"
+    "id": "1798746498454392832",
+    "screen_name": "czl1255171",
+    "name": "莫邪",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1824781515110432768/Gdk9E8tL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798746498454392832/1724302319",
+    "followers_count": 25,
+    "statuses_count": 228,
+    "favourites_count": 558,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-06-06 23:59:24 +08:00",
+    "url": "https://twitter.com/czl1255171",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk4NzQ2NDk4NDU0MzkyODMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 170,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 3,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1717689564000,
+            "updated_at": 1739589226943
+        }
+    }
 }

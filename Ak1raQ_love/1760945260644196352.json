@@ -1,18 +1,57 @@
 {
-  "id": "1760945260644196352",
-  "screen_name": "miaomiaov0w0v",
-  "name": "かぜはや🎀いずみ",
-  "description": "中国から-¦♀¦cosplay¦夜浮上",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1854561162500923392/3CfhyfpR_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760945260644196352/1727287628",
-  "followers_count": 875,
-  "statuses_count": 1082,
-  "favourites_count": 1234,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-02-23 16:30:51 +08:00",
-  "url": "https://twitter.com/miaomiaov0w0v"
+    "id": "1760945260644196352",
+    "screen_name": "miaomiaov0w0v",
+    "name": "かぜはや🎀いずみ",
+    "description": "中国から-¦♀¦cosplay¦夜浮上",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1889696015676239872/dpXZgptz_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760945260644196352/1736938844",
+    "followers_count": 876,
+    "statuses_count": 1072,
+    "favourites_count": 1232,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-02-23 16:30:51 +08:00",
+    "url": "https://twitter.com/miaomiaov0w0v",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzYwOTQ1MjYwNjQ0MTk2MzUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 315,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Shibuya-ku, Tokyo",
+            "media_count": 250,
+            "pinned_tweet_ids_str": [
+                "1854536352236548388"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1708677051000,
+            "updated_at": 1739589296476
+        }
+    }
 }

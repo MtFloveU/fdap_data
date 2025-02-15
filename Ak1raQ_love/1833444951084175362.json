@@ -5,14 +5,83 @@
     "description": "『破破烂烂活着 悄无声息死去』",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873007297242583041/6y1fcxM2_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 48,
-    "statuses_count": 269,
-    "favourites_count": 617,
+    "followers_count": 49,
+    "statuses_count": 311,
+    "favourites_count": 712,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-10 17:58:41 +08:00",
-    "url": "https://twitter.com/zhaomohan_01"
+    "url": "https://twitter.com/zhaomohan_01",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODMzNDQ0OTUxMDg0MTc1MzYy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @zhaoyirui13",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 25,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "zhaoyirui13",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "zhaoyirui13"
+                                        },
+                                        "rest_id": "1540592322358161409"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 212,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 76,
+            "pinned_tweet_ids_str": [
+                "1871209420056920313"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1725962321000,
+            "updated_at": 1739589262851
+        }
+    }
 }

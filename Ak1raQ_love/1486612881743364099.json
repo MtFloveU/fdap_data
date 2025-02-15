@@ -5,14 +5,52 @@
     "description": "半吊子的马克思主义者，毛主席忠实的红卫兵，表现型人格障碍\n\n我不如就这样看我自己的生活――一半是奇迹，一半是疯狂。（不常在推）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1786644631217987584/55dAEmUk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486612881743364099/1643536546",
-    "followers_count": 620,
-    "statuses_count": 1044,
-    "favourites_count": 8036,
+    "followers_count": 619,
+    "statuses_count": 1057,
+    "favourites_count": 8159,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-01-27 16:11:55 +08:00",
-    "url": "https://twitter.com/zhangyunxing5"
+    "url": "https://twitter.com/zhangyunxing5",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDg2NjEyODgxNzQzMzY0MDk5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 840,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "红岸基地",
+            "media_count": 65,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1643271115000,
+            "updated_at": 1739589214059
+        }
+    }
 }

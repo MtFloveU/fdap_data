@@ -1,18 +1,58 @@
 {
-  "id": "1553317346122637312",
-  "screen_name": "Luke031228",
-  "name": "淡推的小八（节后 version)",
-  "description": "He/mbti：infj/gay/大三牲🤧/🏳️‍🌈 /🇵🇸 🇺🇦的人民 /OP 崩鐵 1999/有意見時盡量中立/純支黑走開/看furry但不入坑了/語言：英語 簡中（繁中 日文在學ing） 支持民主自決（支持合理獨立）",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1848629443058864128/rUNmaRVK_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553317346122637312/1727422228",
-  "followers_count": 377,
-  "statuses_count": 4230,
-  "favourites_count": 31718,
-  "listed_count": 3,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-07-30 17:51:53 +08:00",
-  "url": "https://twitter.com/Luke031228"
+    "id": "1553317346122637312",
+    "screen_name": "Luke031228",
+    "name": "淡推的小八（节后 version)",
+    "description": "He/mbti：infj/gay/大三牲🤧/🏳️‍🌈 /🇵🇸 🇺🇦的人民 /OP 崩鐵 1999/有意見時盡量中立/純支黑走開/看furry但不入坑了/語言：英語 簡中（繁中 日文在學ing） 支持民主自決（支持合理獨立）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1848629443058864128/rUNmaRVK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553317346122637312/1727422228",
+    "followers_count": 365,
+    "statuses_count": 4236,
+    "favourites_count": 31783,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-07-30 17:51:53 +08:00",
+    "url": "https://twitter.com/Luke031228",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTUzMzE3MzQ2MTIyNjM3MzEy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1372,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "星穹列車",
+            "media_count": 283,
+            "pinned_tweet_ids_str": [
+                "1839215164773773699"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1659174713000,
+            "updated_at": 1739589287485
+        }
+    }
 }

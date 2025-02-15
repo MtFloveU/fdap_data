@@ -3,16 +3,67 @@
     "screen_name": "Akhromeyev_CCCP",
     "name": "【VOS】🇷🇺🕊🇺🇦☭🚩📕🎖️阿赫羅梅耶夫元帥歸來 看戈爾巴喬夫蘇修叛徒集團土崩瓦解",
     "description": "Жила бы страна родная-\nИ нету других забот。願親愛的家鄉美好，願祖國呀萬年長。/政治立場左上/反建制/反修正/理論學習中/И снег, и ветер,И звёзд ночной полёт 聽風雪喧嚷，看夜空流星飛翔/Ні капітуляції!",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1867740910626516996/k6X_4_j8_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232837627939676160/1714629633",
-    "followers_count": 1958,
-    "statuses_count": 17570,
-    "favourites_count": 100391,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890086866348843008/F2RoOaVX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232837627939676160/1738069043",
+    "followers_count": 1991,
+    "statuses_count": 18293,
+    "favourites_count": 107290,
     "listed_count": 17,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2020-02-27 09:19:39 +08:00",
-    "url": "https://twitter.com/Akhromeyev_CCCP"
+    "url": "https://twitter.com/Akhromeyev_CCCP",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjMyODM3NjI3OTM5Njc2MTYw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1911,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "北俄罗斯解放阵线 阿尔汉格尔斯克",
+            "media_count": 3341,
+            "pinned_tweet_ids_str": [
+                "1881755792875078132"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1680966443108532224",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 491,
+                    "name": "Military Lawyer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1582766379000,
+            "updated_at": 1739589214059
+        }
+    }
 }

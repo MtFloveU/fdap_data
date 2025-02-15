@@ -1,18 +1,57 @@
 {
-  "id": "1262784990342873088",
-  "screen_name": "aiS7L0Zlvk8yTgB",
-  "name": "农民工的变态幻想",
-  "description": "直男",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1756305476332269568/o0kfiOoD_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 257,
-  "statuses_count": 1523,
-  "favourites_count": 3770,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2020-05-20 00:39:48 +08:00",
-  "url": "https://twitter.com/aiS7L0Zlvk8yTgB"
+    "id": "1262784990342873088",
+    "screen_name": "aiS7L0Zlvk8yTgB",
+    "name": "农民工的变态幻想",
+    "description": "直男",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1756305476332269568/o0kfiOoD_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 277,
+    "statuses_count": 1545,
+    "favourites_count": 3882,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2020-05-20 00:39:48 +08:00",
+    "url": "https://twitter.com/aiS7L0Zlvk8yTgB",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjYyNzg0OTkwMzQyODczMDg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 505,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "San Martin, CA",
+            "media_count": 60,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1589906388000,
+            "updated_at": 1739589231895
+        }
+    }
 }

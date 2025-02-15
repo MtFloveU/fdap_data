@@ -6,13 +6,66 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1582373311912497154/a_UF-whZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1453117730341605380/1654060321",
     "followers_count": 186,
-    "statuses_count": 1331,
-    "favourites_count": 14921,
+    "statuses_count": 1332,
+    "favourites_count": 14940,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2021-10-26 21:54:07 +00:00",
-    "url": "https://twitter.com/philly030"
+    "created_at": "2021-10-27 05:54:07 +08:00",
+    "url": "https://twitter.com/philly030",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDUzMTE3NzMwMzQxNjA1Mzgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "blog.whitecloud.life",
+                            "expanded_url": "https://blog.whitecloud.life",
+                            "url": "https://t.co/6f0oj33FXW",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 704,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距離你7km",
+            "media_count": 294,
+            "pinned_tweet_ids_str": [
+                "1854605617706738028"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/6f0oj33FXW",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1635285247000,
+            "updated_at": 1739589190763
+        }
+    }
 }

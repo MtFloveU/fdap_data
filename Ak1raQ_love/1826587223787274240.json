@@ -1,18 +1,55 @@
 {
-  "id": "1826587223787274240",
-  "screen_name": "0721Williams",
-  "name": "J·M·Williams",
-  "description": "敌视现实,虚构远方;东张西望,一无所长;四体不勤,五谷不分;文不能测字,武不能防身. 喜欢养狗,不爱洗头,无事劳作,一无所获;厌恶争执,不善言说;终于沦为,沉默的帮凶.//04师范生//去你妈的摩托车13年报废//万宝路依赖症//互fo请随意",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1829704016869158912/lpMWX5GB_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826587223787274240/1724645569",
-  "followers_count": 60,
-  "statuses_count": 1039,
-  "favourites_count": 4741,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-08-22 19:48:35 +08:00",
-  "url": "https://twitter.com/0721Williams"
+    "id": "1826587223787274240",
+    "screen_name": "0721Williams",
+    "name": "J·M·Williams",
+    "description": "敌视现实,虚构远方;东张西望,一无所长;四体不勤,五谷不分;文不能测字,武不能防身. 喜欢养狗,不爱洗头,无事劳作,一无所获;厌恶争执,不善言说;终于沦为,沉默的帮凶.//04师范生//去你妈的摩托车13年报废//万宝路依赖症//互fo请随意",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1829704016869158912/lpMWX5GB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826587223787274240/1737735468",
+    "followers_count": 83,
+    "statuses_count": 1265,
+    "favourites_count": 5996,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-08-22 19:48:35 +08:00",
+    "url": "https://twitter.com/0721Williams",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI2NTg3MjIzNzg3Mjc0MjQw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 190,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Dust II",
+            "media_count": 42,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1724327315000,
+            "updated_at": 1739589280337
+        }
+    }
 }

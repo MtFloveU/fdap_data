@@ -5,14 +5,62 @@
     "description": "朝闻道",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1871623605077049344/G_EXHMwR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545623183973199875/1734975299",
-    "followers_count": 60,
-    "statuses_count": 1,
-    "favourites_count": 2757,
+    "followers_count": 89,
+    "statuses_count": 0,
+    "favourites_count": 2907,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-07-09 12:19:37 +08:00",
-    "url": "https://twitter.com/shimisi135246"
+    "url": "https://twitter.com/shimisi135246",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQ1NjIzMTgzOTczMTk5ODc1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 5297,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1547773122144661504",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1657340377000,
+            "updated_at": 1739589185112
+        }
+    }
 }

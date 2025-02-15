@@ -1,18 +1,61 @@
 {
-  "id": "3301687694",
-  "screen_name": "Shirlene_girl",
-  "name": "雪玲🐰🐇",
-  "description": "易性症女孩/transgender🏳️‍⚧️/90后/单身/INFJ-T/养兔🐇/可爱妹妹@EleanorAnatidae",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1812877581123010561/qDcNuUqD_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3301687694/1716046841",
-  "followers_count": 1685,
-  "statuses_count": 2908,
-  "favourites_count": 15935,
-  "listed_count": 9,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2015-07-31 00:04:36 +08:00",
-  "url": "https://twitter.com/Shirlene_girl"
+    "id": "3301687694",
+    "screen_name": "Shirlene_girl",
+    "name": "雪玲🐰🐇",
+    "description": "易性症女孩/transgender🏳️‍⚧️/90后/单身/INFJ-T/养兔🐇/可爱妹妹@EleanorAnatidae",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1812877581123010561/qDcNuUqD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3301687694/1716046841",
+    "followers_count": 2071,
+    "statuses_count": 3193,
+    "favourites_count": 17538,
+    "listed_count": 8,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2015-07-31 00:04:36 +08:00",
+    "url": "https://twitter.com/Shirlene_girl",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjozMzAxNjg3Njk0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1266,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "👰🏻‍♀️",
+            "media_count": 216,
+            "pinned_tweet_ids_str": [
+                "1840731243027349992"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "bc1qx0ydzx9lyemk3fragf27wm8vgptpcpsgemvjwg",
+            "ethereum_handle": "0x82615afd49e7266b094ecd4a1580cafabe8576f8"
+        },
+        "twe_private_fields": {
+            "created_at": 1438272276000,
+            "updated_at": 1739589292073
+        }
+    }
 }

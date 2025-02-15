@@ -2,17 +2,56 @@
     "id": "1867207378774753280",
     "screen_name": "Olive718390",
     "name": "Olive🍥🏳️‍⚧️",
-    "description": "这里是记录吃糖身体变化的号 ；只是一只小幽灵，不要赶我…；06年mtx2024.11.7🍥；183/130；现居广东东莞；会乱fo人；可以叫我橄榄或olive",
+    "description": "这里是记录吃糖身体变化的号 ；只是一只小幽灵，不要赶我…；06年mtx2024.11.7🍥；183/130；现居广东东莞；会乱fo人；可以叫我小榄",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870479803410960384/xxMn_OB-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867207378774753280/1734058760",
-    "followers_count": 423,
-    "statuses_count": 756,
-    "favourites_count": 7098,
+    "followers_count": 486,
+    "statuses_count": 855,
+    "favourites_count": 9321,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-12-12 21:58:35 +08:00",
-    "url": "https://twitter.com/Olive718390"
+    "url": "https://twitter.com/Olive718390",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODY3MjA3Mzc4Nzc0NzUzMjgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 525,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 89,
+            "pinned_tweet_ids_str": [
+                "1877546970006319107"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1734011915000,
+            "updated_at": 1739589267789
+        }
+    }
 }

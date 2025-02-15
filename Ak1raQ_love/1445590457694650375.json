@@ -1,18 +1,55 @@
 {
-  "id": "1445590457694650375",
-  "screen_name": "CN_amiya",
-  "name": "小驴子！",
-  "description": "你....你好?",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1846566100919779329/Ij5EHgAl_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445590457694650375/1727030767",
-  "followers_count": 18,
-  "statuses_count": 96,
-  "favourites_count": 101,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2021-10-06 11:23:39 +08:00",
-  "url": "https://twitter.com/CN_amiya"
+    "id": "1445590457694650375",
+    "screen_name": "CN_amiya",
+    "name": "小驴子！",
+    "description": "你....你好?",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1846566100919779329/Ij5EHgAl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445590457694650375/1727030767",
+    "followers_count": 20,
+    "statuses_count": 136,
+    "favourites_count": 116,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-10-06 11:23:39 +08:00",
+    "url": "https://twitter.com/CN_amiya",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDQ1NTkwNDU3Njk0NjUwMzc1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 55,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 18,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1633490619000,
+            "updated_at": 1739589280337
+        }
+    }
 }

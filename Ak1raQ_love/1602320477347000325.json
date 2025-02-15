@@ -5,14 +5,99 @@
     "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 23686,
-    "statuses_count": 9368,
-    "favourites_count": 2821,
-    "listed_count": 222,
+    "followers_count": 24262,
+    "statuses_count": 9711,
+    "favourites_count": 2882,
+    "listed_count": 229,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": null,
     "created_at": "2022-12-12 23:12:39 +08:00",
-    "url": "https://twitter.com/landiantech"
+    "url": "https://twitter.com/landiantech",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjAyMzIwNDc3MzQ3MDAwMzI1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/landiansub",
+                            "expanded_url": "https://t.me/landiansub",
+                            "url": "https://t.co/xzeoUEoPcU",
+                            "indices": [
+                                25,
+                                48
+                            ]
+                        },
+                        {
+                            "display_url": "t.me/id7371",
+                            "expanded_url": "https://t.me/id7371",
+                            "url": "https://t.co/LJK1g3biPp",
+                            "indices": [
+                                54,
+                                77
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "landiannews.com",
+                            "expanded_url": "https://www.landiannews.com/",
+                            "url": "https://t.co/Uu7DejZQOg",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 535,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "土卫六",
+            "media_count": 3433,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/Uu7DejZQOg",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1640420925966553088",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "14tDgqSMCtBRyFfio8RKZvbowTFxj2sSdS",
+            "ethereum_handle": "0x6eDB7813F7a96B4d0fFB9b6e3306Fce4e18DB537"
+        },
+        "twe_private_fields": {
+            "created_at": 1670857959000,
+            "updated_at": 1739589294389
+        }
+    }
 }

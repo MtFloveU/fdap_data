@@ -5,14 +5,54 @@
     "description": "小嘉明｜18yd｜165/45kg/0｜LGBTQIA+🌈｜Queer Shota💜🤍💚｜Gay🏳️‍🌈｜CatBoy🐱｜Furry🐺｜AmAb｜(He/Him)｜Feminism｜Trans Inclusive💙💗🤍｜Ally-CisHet Friendly｜ Baby @Koameshasha",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885163033972137984/hO7TiOF-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1607327990526136320/1738292870",
-    "followers_count": 1224,
-    "statuses_count": 10331,
-    "favourites_count": 31648,
+    "followers_count": 1217,
+    "statuses_count": 10323,
+    "favourites_count": 31510,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-12-26 18:51:54 +08:00",
-    "url": "https://twitter.com/GaMing_Sama2025"
+    "url": "https://twitter.com/GaMing_Sama2025",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjA3MzI3OTkwNTI2MTM2MzIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4326,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "魔法异世界",
+            "media_count": 171,
+            "pinned_tweet_ids_str": [
+                "1885679720970301477"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1672051914000,
+            "updated_at": 1739589277837
+        }
+    }
 }

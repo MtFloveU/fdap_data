@@ -5,14 +5,53 @@
     "description": "这里是@tbh2317的二代目，这里可以继续接单，过年不放假，正常接单发货，我们的telegram账号是tbh2317x，点击右上角小信封私信购买,价格单是泰补（泰国补佳乐）215，艾斯妥凝胶115，诺坤复85，关注我们单次快递费-5，老客户免审核只需要提供我们原始账号的聊天记录截图，老客户回归可以单次快递费-10",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1875240102999588864/cyvcGyu0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875215593688977408/1735932780",
-    "followers_count": 192,
-    "statuses_count": 15,
+    "followers_count": 733,
+    "statuses_count": 28,
     "favourites_count": 2,
-    "listed_count": 0,
+    "listed_count": 4,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2025-01-04 00:20:26 +08:00",
-    "url": "https://twitter.com/tbh2317X"
+    "url": "https://twitter.com/tbh2317X",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODc1MjE1NTkzNjg4OTc3NDA4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 611,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "曼谷",
+            "media_count": 17,
+            "pinned_tweet_ids_str": [
+                "1875242120132620577"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1735921226000,
+            "updated_at": 1739589265461
+        }
+    }
 }

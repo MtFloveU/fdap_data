@@ -5,8 +5,8 @@
     "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1651724486952235010/xBAABrH7_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 250,
-    "statuses_count": 29,
+    "followers_count": 248,
+    "statuses_count": 33,
     "favourites_count": 32,
     "listed_count": 2,
     "verified_type": null,
@@ -14,5 +14,42 @@
     "following": false,
     "followed_by": true,
     "created_at": "2022-12-03 12:30:01 +08:00",
-    "url": "https://twitter.com/lyng01896203"
+    "url": "https://twitter.com/lyng01896203",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTk4ODk3MjY4NTkzMDAwNDQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1107,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1670041801000,
+            "updated_at": 1739589244385
+        }
+    }
 }

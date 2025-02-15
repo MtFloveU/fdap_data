@@ -7,12 +7,51 @@
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779417405569257472/1730809236",
     "followers_count": 98,
     "statuses_count": 89,
-    "favourites_count": 1089,
+    "favourites_count": 1117,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-04-14 15:52:40 +08:00",
-    "url": "https://twitter.com/CyanG42_NJ"
+    "url": "https://twitter.com/CyanG42_NJ",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzc5NDE3NDA1NTY5MjU3NDcy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 460,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "NSMEUNI",
+            "media_count": 22,
+            "pinned_tweet_ids_str": [
+                "1856373564007747737"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1713081160000,
+            "updated_at": 1739589257610
+        }
+    }
 }

@@ -2,17 +2,72 @@
     "id": "1230450318837571586",
     "screen_name": "Richinana7",
     "name": "Richi7",
-    "description": "🇨🇳🇯🇵中日友谊长存/音ゲ/デブが好きなデブ(デブ専or喜猪妹)but双性恋/FF14拉拉肥玩家/水玉みんと推し/須田景凪推し/裏垢あり",
+    "description": "🇨🇳🇯🇵中日友谊长存/音ゲ/デブが好きなデブ(デブ専or喜猪妹)but双性恋/FF14拉拉肥玩家/水玉みんと推し/須田景凪推し/裏垢@Luckyumimi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1843716455499739141/mTomvrER_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230450318837571586/1738430335",
-    "followers_count": 375,
-    "statuses_count": 2987,
-    "favourites_count": 14847,
+    "followers_count": 378,
+    "statuses_count": 2989,
+    "favourites_count": 14865,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2020-02-20 11:13:18 +00:00",
-    "url": "https://twitter.com/Richinana7"
+    "created_at": "2020-02-20 19:13:18 +08:00",
+    "url": "https://twitter.com/Richinana7",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjMwNDUwMzE4ODM3NTcxNTg2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "lit.link/luckyumimi",
+                            "expanded_url": "https://lit.link/luckyumimi",
+                            "url": "https://t.co/WvA5QN6U6v",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1906,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "上海",
+            "media_count": 440,
+            "pinned_tweet_ids_str": [
+                "1845895191984779433"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/WvA5QN6U6v",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1582197198000,
+            "updated_at": 1739589200572
+        }
+    }
 }

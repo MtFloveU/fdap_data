@@ -5,14 +5,53 @@
     "description": "不知名评论区博主XD  08 8.8\n希望大家能好好活着。\n鉴证勿扰 我是东北人所以地域黑开玩笑适度，不要贴脸开大\n普通农村人 生理性别男 双性恋。有对象。\n@ml6990098152941小号\n@Aires_luo爱人。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885109036754018304/bv_Z_zxQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819240872879497216/1724236940",
-    "followers_count": 93,
-    "statuses_count": 1838,
-    "favourites_count": 7704,
+    "followers_count": 97,
+    "statuses_count": 1849,
+    "favourites_count": 7746,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-08-02 13:16:52 +08:00",
-    "url": "https://twitter.com/sumolilaogong"
+    "url": "https://twitter.com/sumolilaogong",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE5MjQwODcyODc5NDk3MjE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 306,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "中国辽宁",
+            "media_count": 100,
+            "pinned_tweet_ids_str": [
+                "1885484033188192344"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1722575812000,
+            "updated_at": 1739589257610
+        }
+    }
 }

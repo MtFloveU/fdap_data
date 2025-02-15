@@ -1,18 +1,70 @@
 {
-  "id": "1603725999979393029",
-  "screen_name": "AlisaKujo_ROC",
-  "name": "🇹🇼艾莉莎·米哈伊羅夫納·九條",
-  "description": "高涼廣府人 技術性毒男 中華民國國民革命軍後代 中華民族主義者 支持中華民國統一中國 對ACGN非常感興趣 本人喺度應戰本科中 反對分裂國家 波士蟹 @Inosuke_8778 老鄉 @UNGAN11111 粉紅粉綠頭條 #沒媽仔的迷惑行為",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1806966519932325889/hjHy4ZDh_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1603725999979393029/1719649070",
-  "followers_count": 760,
-  "statuses_count": 10347,
-  "favourites_count": 9368,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2022-12-16 20:17:45 +08:00",
-  "url": "https://twitter.com/AlisaKujo_ROC"
+    "id": "1603725999979393029",
+    "screen_name": "AlisaKujo_ROC",
+    "name": "🇹🇼艾莉莎·米哈伊羅夫納·九條",
+    "description": "高涼廣府人 技術性毒男 中華民國國民革命軍後代 中華民族主義者 支持中華民國統一中國 對ACGN非常感興趣 本人喺度應戰本科中 反對分裂國家 波士蟹 @Inosuke_8778 老鄉 @UNGAN11111 粉紅粉綠頭條 #沒媽仔的迷惑行為",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1806966519932325889/hjHy4ZDh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1603725999979393029/1719649070",
+    "followers_count": 749,
+    "statuses_count": 10305,
+    "favourites_count": 9315,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-12-16 20:17:45 +08:00",
+    "url": "https://twitter.com/AlisaKujo_ROC",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjAzNzI1OTk5OTc5MzkzMDI5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4270,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "🇹🇼中華民國廣東省廣州市",
+            "media_count": 707,
+            "pinned_tweet_ids_str": [
+                "1824318825887657985"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1603770988852051968",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1671193065000,
+            "updated_at": 1739589215956
+        }
+    }
 }

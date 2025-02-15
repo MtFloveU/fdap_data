@@ -5,14 +5,51 @@
     "description": "打复活赛打赢了☝🤓",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1852590118710005760/L9HR9C5S_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 628,
-    "statuses_count": 3059,
-    "favourites_count": 3692,
-    "listed_count": 2,
+    "followers_count": 618,
+    "statuses_count": 3074,
+    "favourites_count": 3637,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-03-11 15:44:11 +08:00",
-    "url": "https://twitter.com/shingflash0721"
+    "url": "https://twitter.com/shingflash0721",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY3MDk0MDY4NzU1MjQ3MTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 758,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 478,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1710143051000,
+            "updated_at": 1739589294389
+        }
+    }
 }

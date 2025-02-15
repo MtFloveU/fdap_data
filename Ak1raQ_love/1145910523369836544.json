@@ -5,14 +5,51 @@
     "description": "Aircraft/Aerospace",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1690035638987300864/A98Ny06r_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145910523369836544/1691770870",
-    "followers_count": 63,
-    "statuses_count": 597,
-    "favourites_count": 1203,
+    "followers_count": 64,
+    "statuses_count": 599,
+    "favourites_count": 1210,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2019-07-02 12:22:13 +08:00",
-    "url": "https://twitter.com/Terranshc"
+    "url": "https://twitter.com/Terranshc",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTQ1OTEwNTIzMzY5ODM2NTQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3850,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "East Midlands, England",
+            "media_count": 6,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1562041333000,
+            "updated_at": 1739589187893
+        }
+    }
 }

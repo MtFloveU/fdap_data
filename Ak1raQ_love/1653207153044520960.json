@@ -1,18 +1,73 @@
 {
-  "id": "1653207153044520960",
-  "screen_name": "AsilenA123",
-  "name": "Nicolette86132",
-  "description": "大学在读/不键政不自残有点双相/社恐/平时很无聊/当树洞发日常/性别不用在意啦/对人类和家养动物无感/\n等待60等待60等待60",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653207153044520960/1728577340",
-  "followers_count": 323,
-  "statuses_count": 1356,
-  "favourites_count": 19107,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-05-02 09:18:09 +08:00",
-  "url": "https://twitter.com/AsilenA123"
+    "id": "1653207153044520960",
+    "screen_name": "AsilenA123",
+    "name": "Nicolette86132",
+    "description": "大学在读/不键政不自残有点双相/社恐/平时很无聊/当树洞发日常/性别不用在意啦/对人类和家养动物无感/\n等待60等待60等待60",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653207153044520960/1728577340",
+    "followers_count": 311,
+    "statuses_count": 1366,
+    "favourites_count": 18420,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-05-02 09:18:09 +08:00",
+    "url": "https://twitter.com/AsilenA123",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjUzMjA3MTUzMDQ0NTIwOTYw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ebotian-blog.vercel.app",
+                            "expanded_url": "https://ebotian-blog.vercel.app/",
+                            "url": "https://t.co/rSoB5cSWHw",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 800,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "我的随笔集（OCR转录）↓",
+            "media_count": 34,
+            "pinned_tweet_ids_str": [
+                "1843643904224309254"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/rSoB5cSWHw",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1682990289000,
+            "updated_at": 1739589280337
+        }
+    }
 }

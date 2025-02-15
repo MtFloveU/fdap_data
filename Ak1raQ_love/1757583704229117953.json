@@ -5,14 +5,51 @@
     "description": "碧蓝档案大高玩（国服）/国内矢转国外指定代理商/碧蓝航线/孙吧8u/",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1843704282190577664/8BwfWK9U_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757583704229117953/1728295917",
-    "followers_count": 536,
-    "statuses_count": 176,
-    "favourites_count": 15104,
+    "followers_count": 555,
+    "statuses_count": 181,
+    "favourites_count": 17583,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-02-14 09:53:13 +08:00",
-    "url": "https://twitter.com/sunxiaochu1145"
+    "url": "https://twitter.com/sunxiaochu1145",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU3NTgzNzA0MjI5MTE3OTUz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 7497,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": " Urumqi Xinjiang China",
+            "media_count": 11,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1707875593000,
+            "updated_at": 1739589198293
+        }
+    }
 }

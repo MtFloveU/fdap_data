@@ -1,18 +1,57 @@
 {
-  "id": "1782932905419046912",
-  "screen_name": "ratshelprats",
-  "name": "老鼠帮助老鼠🐭☝️",
-  "description": "大鼠王（老鼠国王）",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782932905419046912/1726532843",
-  "followers_count": 43047,
-  "statuses_count": 869,
-  "favourites_count": 31088,
-  "listed_count": 62,
-  "verified_type": null,
-  "is_blue_verified": true,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2024-04-24 08:41:54 +08:00",
-  "url": "https://twitter.com/ratshelprats"
+    "id": "1782932905419046912",
+    "screen_name": "ratshelprats",
+    "name": "老鼠帮助老鼠🐭☝️",
+    "description": "大鼠王（老鼠国王）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782932905419046912/1726532843",
+    "followers_count": 71611,
+    "statuses_count": 1018,
+    "favourites_count": 38438,
+    "listed_count": 101,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2024-04-24 08:41:54 +08:00",
+    "url": "https://twitter.com/ratshelprats",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzgyOTMyOTA1NDE5MDQ2OTEy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 487,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 463,
+            "pinned_tweet_ids_str": [
+                "1886377508138053832"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1713919314000,
+            "updated_at": 1739589294389
+        }
+    }
 }

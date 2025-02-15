@@ -1,18 +1,55 @@
 {
-  "id": "270025876",
-  "screen_name": "emataluk",
-  "name": "STR🇨🇳泌乳催情西安代理（龙哥）",
-  "description": "东北人在西安  社会你龙哥 人恨话不多 丰胸泌乳催情  同城合作就找你龙哥 嘎嘎爽快",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1823025640184135681/x_7V7qFZ_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/270025876/1723478168",
-  "followers_count": 58,
-  "statuses_count": 31,
-  "favourites_count": 48,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2011-03-22 05:34:45 +08:00",
-  "url": "https://twitter.com/emataluk"
+    "id": "270025876",
+    "screen_name": "emataluk",
+    "name": "STR🇨🇳泌乳催情西安代理（龙哥）",
+    "description": "东北人在西安  社会你龙哥 人恨话不多 丰胸泌乳催情  同城合作就找你龙哥 嘎嘎爽快",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1823025640184135681/x_7V7qFZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/270025876/1723478168",
+    "followers_count": 64,
+    "statuses_count": 35,
+    "favourites_count": 53,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2011-03-22 05:34:45 +08:00",
+    "url": "https://twitter.com/emataluk",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoyNzAwMjU4NzY=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 339,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Sha Tin District, Hong Kong",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1300743285000,
+            "updated_at": 1739589200571
+        }
+    }
 }

@@ -1,18 +1,56 @@
 {
-  "id": "1552927828064083968",
-  "screen_name": "liuhuaazi",
-  "name": "琉华子",
-  "description": "喜欢@mikmikne 可爱的阳阳@Kiss_light233",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1841802650863517696/70Ugp_aF_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552927828064083968/1727954854",
-  "followers_count": 1737,
-  "statuses_count": 7907,
-  "favourites_count": 18115,
-  "listed_count": 15,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-07-29 16:03:59 +08:00",
-  "url": "https://twitter.com/liuhuaazi"
+    "id": "1552927828064083968",
+    "screen_name": "liuhuaazi",
+    "name": "琉华子",
+    "description": "喜欢@mikmikne 可爱的阳阳@Kiss_light233",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1841802650863517696/70Ugp_aF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552927828064083968/1727954854",
+    "followers_count": 1688,
+    "statuses_count": 7938,
+    "favourites_count": 18085,
+    "listed_count": 14,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-07-29 16:03:59 +08:00",
+    "url": "https://twitter.com/liuhuaazi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTUyOTI3ODI4MDY0MDgzOTY4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1561,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 263,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1659081839000,
+            "updated_at": 1739589298729
+        }
+    }
 }

@@ -1,18 +1,55 @@
 {
-  "id": "1794292878065446915",
-  "screen_name": "parishLana691",
-  "name": "Lana Parish🏳️‍⚧️",
-  "description": "🏳️‍⚧️Mtf/Enfp",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1811276243473686528/3VhTQdpx_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794292878065446915/1716639161",
-  "followers_count": 96,
-  "statuses_count": 3,
-  "favourites_count": 377,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-05-25 17:02:26 +08:00",
-  "url": "https://twitter.com/parishLana691"
+    "id": "1794292878065446915",
+    "screen_name": "parishLana691",
+    "name": "Lana Parish🏳️‍⚧️",
+    "description": "🏳️‍⚧️Mtf/Enfp",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1811276243473686528/3VhTQdpx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794292878065446915/1716639161",
+    "followers_count": 96,
+    "statuses_count": 3,
+    "favourites_count": 365,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-05-25 17:02:26 +08:00",
+    "url": "https://twitter.com/parishLana691",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk0MjkyODc4MDY1NDQ2OTE1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 650,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 2,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1716627746000,
+            "updated_at": 1739589236483
+        }
+    }
 }

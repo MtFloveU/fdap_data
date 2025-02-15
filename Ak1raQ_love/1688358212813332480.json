@@ -1,18 +1,55 @@
 {
-  "id": "1688358212813332480",
-  "screen_name": "inkos_featSinko",
-  "name": "inkOS",
-  "description": "您并不能在这里找到您想找到的。\n或许现在关掉手机是更好的选择。",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1688377342702358528/7Ruo_O5e_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688358212813332480/1691371246",
-  "followers_count": 37,
-  "statuses_count": 7,
-  "favourites_count": 18,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-08-07 09:15:52 +08:00",
-  "url": "https://twitter.com/inkos_featSinko"
+    "id": "1688358212813332480",
+    "screen_name": "inkos_featSinko",
+    "name": "inkOS",
+    "description": "您并不能在这里找到您想找到的。\n或许现在关掉手机是更好的选择。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1688377342702358528/7Ruo_O5e_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688358212813332480/1691371246",
+    "followers_count": 37,
+    "statuses_count": 7,
+    "favourites_count": 18,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-08-07 09:15:52 +08:00",
+    "url": "https://twitter.com/inkos_featSinko",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjg4MzU4MjEyODEzMzMyNDgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 398,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1691370952000,
+            "updated_at": 1739589229032
+        }
+    }
 }

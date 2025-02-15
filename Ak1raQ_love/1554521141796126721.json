@@ -5,14 +5,55 @@
     "description": "一个精神状态很奇葩的人\n负债：590989r",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1868107452719259648/QzB9Y5Am_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554521141796126721/1729439511",
-    "followers_count": 1353,
-    "statuses_count": 2845,
-    "favourites_count": 3773,
+    "followers_count": 1360,
+    "statuses_count": 2847,
+    "favourites_count": 3737,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-08-03 01:35:06 +08:00",
-    "url": "https://twitter.com/yhpss"
+    "url": "https://twitter.com/yhpss",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTU0NTIxMTQxNzk2MTI2NzIx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1384,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "现实与幻想的交界处",
+            "media_count": 271,
+            "pinned_tweet_ids_str": [
+                "1888923592915841081"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1659461706000,
+            "updated_at": 1739589298729
+        }
+    }
 }

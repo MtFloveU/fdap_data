@@ -1,18 +1,57 @@
 {
-  "id": "1491455772655435777",
-  "screen_name": "Scarlett_Tower",
-  "name": "杏子",
-  "description": "mtf/hrt(23/06/23)//\n（安详）试图睡好觉的夜行性动物//猫咪猫咪//自爱//我恨人类//🍥//🏳️‍⚧️//DPD//❤️@lvsefajiaZz//ADHD",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1756674797608767488/j214Luih_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491455772655435777/1718894881",
-  "followers_count": 944,
-  "statuses_count": 3510,
-  "favourites_count": 12729,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-02-10 00:55:49 +08:00",
-  "url": "https://twitter.com/Scarlett_Tower"
+    "id": "1491455772655435777",
+    "screen_name": "Scarlett_Tower",
+    "name": "杏子",
+    "description": "mtf/hrt(23/06/23)//\n（安详）试图睡好觉的夜行性动物//猫咪猫咪//自爱//我恨人类//🍥//🏳️‍⚧️//DPD//❤️@lvsefajiaZz//ADHD",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1756674797608767488/j214Luih_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491455772655435777/1718894881",
+    "followers_count": 928,
+    "statuses_count": 3573,
+    "favourites_count": 12670,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-02-10 00:55:49 +08:00",
+    "url": "https://twitter.com/Scarlett_Tower",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDkxNDU1NzcyNjU1NDM1Nzc3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 443,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "♡",
+            "media_count": 332,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1644425749000,
+            "updated_at": 1739589298729
+        }
+    }
 }

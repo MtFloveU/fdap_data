@@ -5,14 +5,64 @@
     "description": "🇲🇾 👲 | He/him | #ENFP-T | #PhD (🇳🇿) in BioEng | ex #postdoc (🇦🇺) | 🐹 lover | #ACNH fan | Views're mine",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1837178286075695107/bjhn0YMz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330881355341852675/1606152051",
-    "followers_count": 599,
-    "statuses_count": 3294,
-    "favourites_count": 9550,
+    "followers_count": 625,
+    "statuses_count": 3358,
+    "favourites_count": 9827,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2020-11-23 22:30:26 +08:00",
-    "url": "https://twitter.com/Hammie0Hammie"
+    "url": "https://twitter.com/Hammie0Hammie",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzMwODgxMzU1MzQxODUyNjc1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 6636,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Hamsterdam",
+            "media_count": 621,
+            "pinned_tweet_ids_str": [
+                "1865656283787038896"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1477963335811231744",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 584,
+                    "name": "Medical & Health",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1606141826000,
+            "updated_at": 1739589177245
+        }
+    }
 }

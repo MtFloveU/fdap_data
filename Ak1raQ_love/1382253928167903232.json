@@ -1,0 +1,57 @@
+{
+    "id": "1382253928167903232",
+    "screen_name": "HamburgNo1",
+    "name": "非常規養貓人",
+    "description": "生活无非是一团麻球，我所能做的就是从中发现有趣的那个开端\n开始新的生活啦，加油一个人的走下去",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1429729959770148864/bk7rp_gk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1382253928167903232/1628052704",
+    "followers_count": 121,
+    "statuses_count": 905,
+    "favourites_count": 385,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-04-14 16:46:39 +08:00",
+    "url": "https://twitter.com/HamburgNo1",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzgyMjUzOTI4MTY3OTAzMjMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 383,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 16,
+            "pinned_tweet_ids_str": [
+                "1434466390988103687"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1618389999000,
+            "updated_at": 1739589169405
+        }
+    }
+}

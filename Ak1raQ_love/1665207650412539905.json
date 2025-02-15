@@ -1,18 +1,85 @@
 {
-  "id": "1665207650412539905",
-  "screen_name": "aiyysk",
-  "name": "一一世开 #透明探索版(die)",
-  "description": "🚪50 || MTF || HRT23/12/15 || Birth07.02.18(17) || 含糖 || 家暴党(已逃走) || 猫猫 || 171/112 || 不健政 || 互Fo || 姐姐@Oyama_Mahiro0 @mofcandy || 接线下接线下接线下接线下",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1827501235777499137/7MqqoZ6P_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665207650412539905/1727776809",
-  "followers_count": 1776,
-  "statuses_count": 1231,
-  "favourites_count": 6421,
-  "listed_count": 4,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-06-04 12:04:02 +08:00",
-  "url": "https://twitter.com/aiyysk"
+    "id": "1665207650412539905",
+    "screen_name": "aiyysk",
+    "name": "一一世开 #透明探索版(die)",
+    "description": "🚪50 || MTF || HRT23/12/15 || Birth07.02.18(17) || 含糖 || 家暴党(已逃走) || 猫猫 || 171/112 || 不健政 || 互Fo || 姐姐@Oyama_Mahiro0 @mofcandy || 接线下接线下接线下接线下",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1827501235777499137/7MqqoZ6P_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665207650412539905/1727776809",
+    "followers_count": 1726,
+    "statuses_count": 1231,
+    "favourites_count": 5909,
+    "listed_count": 5,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-06-04 12:04:02 +08:00",
+    "url": "https://twitter.com/aiyysk",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjY1MjA3NjUwNDEyNTM5OTA1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/aiyysk",
+                            "expanded_url": "http://t.me/aiyysk",
+                            "url": "https://t.co/BIZ65asBIv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1383,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "参宿四",
+            "media_count": 83,
+            "pinned_tweet_ids_str": [
+                "1841049124210426061"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/BIZ65asBIv",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1701456108156748175",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 718,
+                    "name": "Information Technology Company",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1685851442000,
+            "updated_at": 1739589301193
+        }
+    }
 }

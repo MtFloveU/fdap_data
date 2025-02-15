@@ -5,14 +5,53 @@
     "description": "含糖MtF🍥｜终于进化家长党｜游戏王｜娱乐伙伴｜退役高中生｜INFP｜45萌新｜鳊鱼八十｜车万｜请找我玩｜绝赞发病中  想变成猫  和宇宙中飞行的不可思议涅涅子，还请不要扎伤我      姐姐大人@Smilewei114514 糖罐子@Sa1ntM0n1ka 我的内脏 @0xSorrowRain",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874018816696684544/uQSCQZdd_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768631748257361920/1736146582",
-    "followers_count": 1304,
-    "statuses_count": 4052,
-    "favourites_count": 1299,
+    "followers_count": 1317,
+    "statuses_count": 4282,
+    "favourites_count": 1400,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-03-15 21:34:27 +08:00",
-    "url": "https://twitter.com/NeneK0SMTwTF5_"
+    "url": "https://twitter.com/NeneK0SMTwTF5_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY4NjMxNzQ4MjU3MzYxOTIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 994,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "让她身陷囹圄之中。",
+            "media_count": 381,
+            "pinned_tweet_ids_str": [
+                "1834058575863501273"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1710509667000,
+            "updated_at": 1739589296475
+        }
+    }
 }

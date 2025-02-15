@@ -5,14 +5,68 @@
     "description": "「奇跡を待つより捨て身の努力よ」\n「奇跡を待つより地道な努力よ」",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866046325076430848/emfgMK-H_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746169774147776512/1729489049",
-    "followers_count": 674,
-    "statuses_count": 34720,
-    "favourites_count": 45565,
+    "followers_count": 670,
+    "statuses_count": 34935,
+    "favourites_count": 46082,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-01-13 21:58:25 +08:00",
-    "url": "https://twitter.com/A1sakuMenh3ra"
+    "url": "https://twitter.com/A1sakuMenh3ra",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQ2MTY5Nzc0MTQ3Nzc2NTEy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/ProjectA1saku",
+                            "expanded_url": "https://t.me/ProjectA1saku",
+                            "url": "https://t.co/MYzhwjB35L",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 820,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Selangor ",
+            "media_count": 1447,
+            "pinned_tweet_ids_str": [
+                "1888076299077370292"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/MYzhwjB35L",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1705154305000,
+            "updated_at": 1739589285081
+        }
+    }
 }

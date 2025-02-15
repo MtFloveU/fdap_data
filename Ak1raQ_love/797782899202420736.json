@@ -5,14 +5,67 @@
     "description": "想涨fo的可爱infp小女孩/幻想自己是银毛魔法党/she.her.it.they/雷区：被否定/正在找回藏起来的自己/HRT 2023.09.10/喜欢穿JK&水色地雷系（不会穿搭果咩）/喜欢VR&科幻&音乐/开除二籍/",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1868119363674681344/fgkN3Jbg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/797782899202420736/1730706809",
-    "followers_count": 1232,
-    "statuses_count": 1692,
-    "favourites_count": 3799,
-    "listed_count": 4,
+    "followers_count": 1350,
+    "statuses_count": 2021,
+    "favourites_count": 4825,
+    "listed_count": 3,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2016-11-13 20:47:20 +08:00",
-    "url": "https://twitter.com/misakayuuki"
+    "url": "https://twitter.com/misakayuuki",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo3OTc3ODI4OTkyMDI0MjA3MzY=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "misa想变猫猫娘-mtf.life",
+                            "expanded_url": "https://xn--misa-mtf-s00n631csyres5ca.life",
+                            "url": "https://t.co/oVFrcwGiR9",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 641,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "江城江岸区孱陵路33号二楼",
+            "media_count": 174,
+            "pinned_tweet_ids_str": [
+                "1874120157771309396"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/oVFrcwGiR9",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1479041240000,
+            "updated_at": 1739589270270
+        }
+    }
 }

@@ -5,14 +5,72 @@
     "description": "不知道怎么称呼我的可以叫我小伊！！\n日本卷烟，日本烟弹可直邮全球，七星，和平，云斯顿，万宝路，MEVIUS一手货源！国内也有自己大仓货品齐全。可条可散\nTG商品信息 https://t.co/YSqpdaKBTO\nTG https://t.co/LFCBbM7TKY\n微信号iriyaQAQ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1827740012882116609/ijL-qfDf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768178521497849856/1724873252",
-    "followers_count": 458,
-    "statuses_count": 5114,
-    "favourites_count": 4693,
+    "followers_count": 529,
+    "statuses_count": 5488,
+    "favourites_count": 4981,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-03-14 15:33:18 +08:00",
-    "url": "https://twitter.com/iriyaQWQ"
+    "url": "https://twitter.com/iriyaQWQ",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY4MTc4NTIxNDk3ODQ5ODU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/iriyaQAQsuki",
+                            "expanded_url": "https://t.me/iriyaQAQsuki",
+                            "url": "https://t.co/YSqpdaKBTO",
+                            "indices": [
+                                83,
+                                106
+                            ]
+                        },
+                        {
+                            "display_url": "t.me/+PGoBTuAUL9M2O…",
+                            "expanded_url": "https://t.me/+PGoBTuAUL9M2OTM1",
+                            "url": "https://t.co/LFCBbM7TKY",
+                            "indices": [
+                                110,
+                                133
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 386,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 151,
+            "pinned_tweet_ids_str": [
+                "1876372528626868486"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1710401598000,
+            "updated_at": 1739589210634
+        }
+    }
 }

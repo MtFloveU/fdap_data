@@ -6,13 +6,50 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1878758431261417472/h_3_4UKZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728276310534086657/1735611326",
     "followers_count": 472,
-    "statuses_count": 2228,
-    "favourites_count": 39621,
+    "statuses_count": 2242,
+    "favourites_count": 40073,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-11-25 12:56:06 +08:00",
-    "url": "https://twitter.com/Peach_and_Brown"
+    "url": "https://twitter.com/Peach_and_Brown",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzI4Mjc2MzEwNTM0MDg2NjU3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 904,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 231,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1700888166000,
+            "updated_at": 1739589282809
+        }
+    }
 }

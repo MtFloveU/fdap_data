@@ -5,14 +5,78 @@
     "description": "中国人/Chinese🇨🇳｜男性，友🏳️‍🌈🏳️‍⚧️｜中文/粤语/English/日本語(勉強中)｜ISTP｜喜欢摄影，游戏，编程｜百合乐队番痴迷中｜现14岁在读",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882839632670502913/SVIb6Zg8_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814893052823285761/1737098904",
-    "followers_count": 165,
-    "statuses_count": 97,
-    "favourites_count": 9443,
+    "followers_count": 216,
+    "statuses_count": 123,
+    "favourites_count": 10316,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-21 13:20:10 +08:00",
-    "url": "https://twitter.com/FakedSky122"
+    "url": "https://twitter.com/FakedSky122",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE0ODkzMDUyODIzMjg1NzYx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/fakedsky122",
+                            "expanded_url": "https://ngl.link/fakedsky122",
+                            "url": "https://t.co/KjQ8nOdVip",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 608,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Zhaoqing",
+            "media_count": 39,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/KjQ8nOdVip",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1881385761641210134",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 986,
+                    "name": "Software Application",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1721539210000,
+            "updated_at": 1739589260488
+        }
+    }
 }

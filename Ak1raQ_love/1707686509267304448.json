@@ -5,14 +5,51 @@
     "description": "Freedom, is the right of all sentient Beings.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1707686668126633984/B83FmCmD_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707686509267304448/1696764459",
-    "followers_count": 32,
-    "statuses_count": 167,
-    "favourites_count": 7729,
+    "followers_count": 33,
+    "statuses_count": 135,
+    "favourites_count": 8179,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-09-29 17:19:38 +08:00",
-    "url": "https://twitter.com/valve3_"
+    "url": "https://twitter.com/valve3_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzA3Njg2NTA5MjY3MzA0NDQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 614,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "XEN",
+            "media_count": 20,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1695979178000,
+            "updated_at": 1739589179994
+        }
+    }
 }

@@ -5,14 +5,51 @@
     "description": "无证含糖ing🍥24.??.?? / 多次断糖 / 重抑中焦 / 天残党 / 好缺爱好缺爱好缺爱 / 同类互fo / ❤️@MrCreep94667789 / ～ 世界会善待我吗",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1848035309684142080/aBrkPL44_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848035088782770176/1729442058",
-    "followers_count": 62,
-    "statuses_count": 68,
-    "favourites_count": 398,
+    "followers_count": 70,
+    "statuses_count": 71,
+    "favourites_count": 427,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-10-21 00:14:52 +08:00",
-    "url": "https://twitter.com/LybbenMeowMTF"
+    "url": "https://twitter.com/LybbenMeowMTF",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQ4MDM1MDg4NzgyNzcwMTc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 159,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "1.14km",
+            "media_count": 6,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1729440892000,
+            "updated_at": 1739589265461
+        }
+    }
 }

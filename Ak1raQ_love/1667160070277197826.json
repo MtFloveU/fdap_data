@@ -1,18 +1,55 @@
 {
-  "id": "1667160070277197826",
-  "screen_name": "eva__akt701",
-  "name": "ない",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1826603998163730432/1_KcWaE4_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667160070277197826/1724331304",
-  "followers_count": 77,
-  "statuses_count": 1062,
-  "favourites_count": 8170,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-06-09 21:22:29 +08:00",
-  "url": "https://twitter.com/eva__akt701"
+    "id": "1667160070277197826",
+    "screen_name": "eva__akt701",
+    "name": "ない",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1826603998163730432/1_KcWaE4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667160070277197826/1724331304",
+    "followers_count": 77,
+    "statuses_count": 1055,
+    "favourites_count": 8206,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-06-09 21:22:29 +08:00",
+    "url": "https://twitter.com/eva__akt701",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjY3MTYwMDcwMjc3MTk3ODI2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 258,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "这里什么都没哦",
+            "media_count": 64,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1686316949000,
+            "updated_at": 1739589212649
+        }
+    }
 }

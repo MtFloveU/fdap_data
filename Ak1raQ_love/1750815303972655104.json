@@ -1,18 +1,59 @@
 {
-  "id": "1750815303972655104",
-  "screen_name": "tpony22811",
-  "name": "A.N Nottle",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1771376637118205952/gR9PP-fz_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 65,
-  "statuses_count": 455,
-  "favourites_count": 525,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-01-26 17:38:09 +08:00",
-  "url": "https://twitter.com/tpony22811"
+    "id": "1750815303972655104",
+    "screen_name": "tpony22811",
+    "name": "A.N Nottle",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1771376637118205952/gR9PP-fz_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 64,
+    "statuses_count": 458,
+    "favourites_count": 535,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-01-26 17:38:09 +08:00",
+    "url": "https://twitter.com/tpony22811",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzUwODE1MzAzOTcyNjU1MTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 401,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 15,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "1GCfibQ6Wi4xK6ikhCAvbN6gRYYCk9EjBm",
+            "ethereum_handle": "0x22b3a1B6E31dAAef534dD9Ed8047D0b70E816b29"
+        },
+        "twe_private_fields": {
+            "created_at": 1706261889000,
+            "updated_at": 1739589192754
+        }
+    }
 }

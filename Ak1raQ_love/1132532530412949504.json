@@ -1,18 +1,57 @@
 {
-  "id": "1132532530412949504",
-  "screen_name": "AthenaRyo",
-  "name": "阿离舍🏳️‍🌈🏳️‍⚧️🍥",
-  "description": "🏳️‍🌈🏳️‍⚧️🍥/泛性恋/MTX/无证半糖/INTJ /音效设计师/化妆师/美容师/重度抑郁/中度偏严重焦虑/半魅魔/略微雌堕/病娇/零度共情/人形玩偶/JY罐子/钻钱眼/偶尔擦边/喵化中",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1815060719928549376/YKcAzPPA_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132532530412949504/1721579187",
-  "followers_count": 3171,
-  "statuses_count": 408,
-  "favourites_count": 1179,
-  "listed_count": 5,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2019-05-26 14:22:51 +08:00",
-  "url": "https://twitter.com/AthenaRyo"
+    "id": "1132532530412949504",
+    "screen_name": "AthenaRyo",
+    "name": "阿离舍🏳️‍🌈🏳️‍⚧️🍥",
+    "description": "🏳️‍🌈🏳️‍⚧️🍥/泛性恋/MTX/无证半糖/INTJ /音效设计师/化妆师/美容师/重度抑郁/中度偏严重焦虑/半魅魔/略微雌堕/病娇/零度共情/人形玩偶/JY罐子/钻钱眼/偶尔擦边/喵化中",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1815060719928549376/YKcAzPPA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132532530412949504/1721579187",
+    "followers_count": 3442,
+    "statuses_count": 438,
+    "favourites_count": 1208,
+    "listed_count": 6,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2019-05-26 14:22:51 +08:00",
+    "url": "https://twitter.com/AthenaRyo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTMyNTMyNTMwNDEyOTQ5NTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 6193,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 48,
+            "pinned_tweet_ids_str": [
+                "1756926767745642875"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1558851771000,
+            "updated_at": 1739589277836
+        }
+    }
 }

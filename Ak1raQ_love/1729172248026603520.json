@@ -1,18 +1,55 @@
 {
-  "id": "1729172248026603520",
-  "screen_name": "Proudhon111",
-  "name": "无政府狂热者（推友寻回中）",
-  "description": "认为无政府主义是空想的傻逼别来自找不痛快/我是我/不要幻想我是一个道德的人",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1762175524041068547/EW28_C3I_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729172248026603520/1708970358",
-  "followers_count": 99,
-  "statuses_count": 175,
-  "favourites_count": 162,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-11-28 00:16:06 +08:00",
-  "url": "https://twitter.com/Proudhon111"
+    "id": "1729172248026603520",
+    "screen_name": "Proudhon111",
+    "name": "无政府狂热者（推友寻回中）",
+    "description": "认为无政府主义是空想的傻逼别来自找不痛快/我是我/不要幻想我是一个道德的人",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1762175524041068547/EW28_C3I_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729172248026603520/1708970358",
+    "followers_count": 154,
+    "statuses_count": 328,
+    "favourites_count": 280,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-11-28 00:16:06 +08:00",
+    "url": "https://twitter.com/Proudhon111",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzI5MTcyMjQ4MDI2NjAzNTIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 426,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "肯塔基州 诺克斯县 路易斯维尔市",
+            "media_count": 7,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1701101766000,
+            "updated_at": 1739589195795
+        }
+    }
 }

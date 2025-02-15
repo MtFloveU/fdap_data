@@ -5,14 +5,53 @@
     "description": "⚠️有涩涩请注意！打牌小猫～，女孩。les。🚪52，私信选择性回复，只想和有趣的人聊天。🍥",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1839609114743488512/SWdGz84Q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1610822912684003329/1727431966",
-    "followers_count": 20424,
-    "statuses_count": 787,
-    "favourites_count": 3255,
+    "followers_count": 20388,
+    "statuses_count": 797,
+    "favourites_count": 3305,
     "listed_count": 72,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-01-05 10:18:15 +08:00",
-    "url": "https://twitter.com/muzijOvO"
+    "url": "https://twitter.com/muzijOvO",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjEwODIyOTEyNjg0MDAzMzI5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 513,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "沐子星球",
+            "media_count": 216,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1672885095000,
+            "updated_at": 1739589303682
+        }
+    }
 }

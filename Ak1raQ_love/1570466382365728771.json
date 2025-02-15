@@ -6,13 +6,53 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1869701810270961664/P39j1RK6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570466382365728771/1718090593",
     "followers_count": 225,
-    "statuses_count": 3943,
-    "favourites_count": 10546,
-    "listed_count": 1,
+    "statuses_count": 4131,
+    "favourites_count": 11255,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-09-16 01:35:48 +08:00",
-    "url": "https://twitter.com/m8o9j6i4"
+    "url": "https://twitter.com/m8o9j6i4",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTcwNDY2MzgyMzY1NzI4Nzcx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 309,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "厄普西隆南极总部",
+            "media_count": 559,
+            "pinned_tweet_ids_str": [
+                "1889308544505131314"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1663263348000,
+            "updated_at": 1739589275107
+        }
+    }
 }

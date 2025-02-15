@@ -5,14 +5,78 @@
     "description": "你好我是柏树|精神状态是量子叠加态|成分复杂|分裂情感性障碍&阿斯伯格|INFJ-T 5w6-tritype593-sp/so|无性别&无性恋，双性浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|逃生舱@Cypress_Sucidal|第二人格\n@theDarkCypress",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879802636679122945/fVKfaiio_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818107582117994496/1726238340",
-    "followers_count": 915,
-    "statuses_count": 2858,
-    "favourites_count": 12470,
-    "listed_count": 1,
+    "followers_count": 991,
+    "statuses_count": 3426,
+    "favourites_count": 14079,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-30 10:13:32 +08:00",
-    "url": "https://twitter.com/CypressAlbert"
+    "url": "https://twitter.com/CypressAlbert",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE4MTA3NTgyMTE3OTk0NDk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/cypressalbert1",
+                            "expanded_url": "https://ngl.link/cypressalbert1",
+                            "url": "https://t.co/iBEVtehwcv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 782,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "我才知道星期八的真名叫作Schizophrenia ",
+            "media_count": 480,
+            "pinned_tweet_ids_str": [
+                "1890319988181078125"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/iBEVtehwcv",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1834602858630856806",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 993,
+                    "name": "Psychiatric Hospital",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1722305612000,
+            "updated_at": 1739589277836
+        }
+    }
 }

@@ -3,16 +3,69 @@
     "screen_name": "charming_xiaoyu",
     "name": "迷人的小语poi",
     "description": "06男｜偶尔女装(不是男娘)｜立志成为(最菜)游戏博主｜LOL和FPS游戏｜友跨🏳️‍⚧️｜不涉政🚫｜易红温｜大一在读｜欢迎互fo｜逃生舱 @Charming_xy04｜置顶P1个人简介，P2是本人小群，P3P4是自设()｜很抱歉由于字数限制无法打出所有亲友的名字，实在对不起😿｜自用VPN↓",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1879026011859529728/SQQ3Pf8P_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697936336228126721/1733054953",
-    "followers_count": 1154,
-    "statuses_count": 3108,
-    "favourites_count": 42493,
-    "listed_count": 6,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1889961524569264128/TfBTQSy1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697936336228126721/1739437702",
+    "followers_count": 1170,
+    "statuses_count": 3146,
+    "favourites_count": 43626,
+    "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-09-02 19:35:50 +08:00",
-    "url": "https://twitter.com/charming_xiaoyu"
+    "url": "https://twitter.com/charming_xiaoyu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjk3OTM2MzM2MjI4MTI2NzIx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "467002086.com/NDMDJC6",
+                            "expanded_url": "https://www.467002086.com/NDMDJC6",
+                            "url": "https://t.co/6v9Js6S8B9",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1083,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "理塘国",
+            "media_count": 220,
+            "pinned_tweet_ids_str": [
+                "1864023858681966656"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/6v9Js6S8B9",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1693654550000,
+            "updated_at": 1739589289590
+        }
+    }
 }

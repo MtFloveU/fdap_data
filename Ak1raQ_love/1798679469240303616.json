@@ -5,14 +5,53 @@
     "description": "=清音 中国語/英語/日本語ok",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1865395654287335425/nQFw7e3M_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798679469240303616/1724522579",
-    "followers_count": 39,
-    "statuses_count": 313,
-    "favourites_count": 2264,
+    "followers_count": 41,
+    "statuses_count": 320,
+    "favourites_count": 2330,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-06-06 19:33:14 +08:00",
-    "url": "https://twitter.com/qingyin038"
+    "url": "https://twitter.com/qingyin038",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk4Njc5NDY5MjQwMzAzNjE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 122,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Los Angeles, CA",
+            "media_count": 25,
+            "pinned_tweet_ids_str": [
+                "1860652489080787322"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1717673594000,
+            "updated_at": 1739589177245
+        }
+    }
 }

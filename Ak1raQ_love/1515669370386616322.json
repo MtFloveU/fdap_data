@@ -5,14 +5,52 @@
     "description": "null./intp）监护人_ @VerStelo /.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1515672333066792960/R56VJi9P_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515669370386616322/1650199419",
-    "followers_count": 128,
-    "statuses_count": 102,
-    "favourites_count": 1314,
+    "followers_count": 136,
+    "statuses_count": 132,
+    "favourites_count": 1788,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-04-17 20:32:00 +08:00",
-    "url": "https://twitter.com/Ame_shiyo"
+    "url": "https://twitter.com/Ame_shiyo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTE1NjY5MzcwMzg2NjE2MzIy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 938,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 20,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1650198720000,
+            "updated_at": 1739589200572
+        }
+    }
 }

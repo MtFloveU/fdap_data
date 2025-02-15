@@ -5,14 +5,51 @@
     "description": "想要成为人类/实现朋友0的突破/收获红老王的gbf好友（我只有红宙斯和蓝章鱼蓝哈迪斯）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1846050570450489347/FAB5n6uw_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 14,
-    "statuses_count": 38,
-    "favourites_count": 67,
+    "followers_count": 16,
+    "statuses_count": 43,
+    "favourites_count": 75,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-08-23 14:36:59 +00:00",
-    "url": "https://twitter.com/zzz_wizard"
+    "created_at": "2022-08-23 22:36:59 +08:00",
+    "url": "https://twitter.com/zzz_wizard",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTYyMDg2MzY2NDgxMzgzNDI2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 317,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "上海第一届物语系列only展厅",
+            "media_count": 5,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1661265419000,
+            "updated_at": 1739589169406
+        }
+    }
 }

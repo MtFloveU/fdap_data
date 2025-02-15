@@ -1,18 +1,68 @@
 {
-  "id": "1270659257914888192",
-  "screen_name": "warmbreeze1001",
-  "name": "热风🍥breeze",
-  "description": "狂暴水月厨组长/小证含糖🍥/喜欢音乐🎶摄影🎥文学📖睡大觉💤/贝斯专精中/06准高二(物化技)/日本語学習中(🇯🇵留学准备中?可能吧/INFP/ADHD/AS/BD\n想交朋友🥺有人主动找我的话我会很开心!/†升天†\n希望大家都能好好的❤️",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1815282461577994240/GGZI5I7q_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1270659257914888192/1723116050",
-  "followers_count": 337,
-  "statuses_count": 406,
-  "favourites_count": 875,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2020-06-10 18:09:21 +08:00",
-  "url": "https://twitter.com/warmbreeze1001"
+    "id": "1270659257914888192",
+    "screen_name": "warmbreeze1001",
+    "name": "热风🍥breeze",
+    "description": "狂暴水月厨组长/小证含糖🍥/喜欢音乐🎶摄影🎥文学📖睡大觉💤/贝斯专精中/06准高二(物化技)/日本語学習中(🇯🇵留学准备中?可能吧/INFP/ADHD/AS/BD\n想交朋友🥺有人主动找我的话我会很开心!/†升天†\n希望大家都能好好的❤️",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1815282461577994240/GGZI5I7q_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1270659257914888192/1723116050",
+    "followers_count": 333,
+    "statuses_count": 406,
+    "favourites_count": 860,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2020-06-10 18:09:21 +08:00",
+    "url": "https://twitter.com/warmbreeze1001",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjcwNjU5MjU3OTE0ODg4MTky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 179,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "深蓝之树",
+            "media_count": 82,
+            "pinned_tweet_ids_str": [
+                "1811782103027404886"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1813006493123551235",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 940,
+                    "name": "Musician",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1591783761000,
+            "updated_at": 1739589289590
+        }
+    }
 }

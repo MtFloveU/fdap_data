@@ -5,14 +5,72 @@
     "description": "创业中...\n前某知名直播平台 流媒体后端团队, 熟悉直播架构\n搞了个出海交流的小群, 目前来的大多是游戏圈的,\nhttps://t.co/SiwlpW2Tuq",
     "profile_image_url": "https://pbs.twimg.com/profile_images/746012123046653953/q0Sw6fsq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/746009258395766784/1466697940",
-    "followers_count": 35,
+    "followers_count": 33,
     "statuses_count": 118,
-    "favourites_count": 74,
+    "favourites_count": 83,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2016-06-23 23:57:22 +08:00",
-    "url": "https://twitter.com/SenseHu"
+    "url": "https://twitter.com/SenseHu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo3NDYwMDkyNTgzOTU3NjY3ODQ=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/+jdesDtbUSIsxN…",
+                            "expanded_url": "http://t.me/+jdesDtbUSIsxNjBl",
+                            "url": "https://t.co/SiwlpW2Tuq",
+                            "indices": [
+                                57,
+                                80
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 395,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "GuangZhou",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1784845505853571111",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1466697442000,
+            "updated_at": 1739589190763
+        }
+    }
 }

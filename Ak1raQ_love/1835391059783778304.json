@@ -5,14 +5,54 @@
     "description": "@liuying_021464小账",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870661983353053184/kUn91cAC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835391059783778304/1735446667",
-    "followers_count": 64,
+    "followers_count": 60,
     "statuses_count": 110,
-    "favourites_count": 430,
+    "favourites_count": 433,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-16 02:51:54 +08:00",
-    "url": "https://twitter.com/flystar_5086"
+    "url": "https://twitter.com/flystar_5086",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM1MzkxMDU5NzgzNzc4MzA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 95,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 4,
+            "pinned_tweet_ids_str": [
+                "1857600917656187313"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1726426314000,
+            "updated_at": 1739589272743
+        }
+    }
 }

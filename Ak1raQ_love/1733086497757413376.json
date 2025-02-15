@@ -1,18 +1,57 @@
 {
-  "id": "1733086497757413376",
-  "screen_name": "Yobno11",
-  "name": "Yobno🏳️‍⚧️（高中版",
-  "description": "这是我第一次做人类，请和我做朋友！\n普通高中生，友跨🍥，也许是男娘？\nCN&EN，欢迎互fo，想要交朋友喵\n日常推，不键政，一点点涩涩\n免费私信安慰&拥抱，有消息一定会回的💬",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1819683513668718592/SmHNwcow_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733086497757413376/1722227101",
-  "followers_count": 579,
-  "statuses_count": 1945,
-  "favourites_count": 2131,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-12-08 19:30:06 +08:00",
-  "url": "https://twitter.com/Yobno11"
+    "id": "1733086497757413376",
+    "screen_name": "Yobno11",
+    "name": "Yobno🏳️‍⚧️（高中版",
+    "description": "这是我第一次做人类，请和我做朋友！\n普通高中生，友跨🍥，也许是男娘？\nCN&EN，欢迎互fo，想要交朋友喵\n日常推，不键政，一点点涩涩\n免费私信安慰&拥抱，有消息一定会回的💬",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1819683513668718592/SmHNwcow_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733086497757413376/1722227101",
+    "followers_count": 588,
+    "statuses_count": 1971,
+    "favourites_count": 2091,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-12-08 19:30:06 +08:00",
+    "url": "https://twitter.com/Yobno11",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzMzMDg2NDk3NzU3NDEzMzc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 525,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "新家",
+            "media_count": 391,
+            "pinned_tweet_ids_str": [
+                "1811283916424171966"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1702035006000,
+            "updated_at": 1739589292073
+        }
+    }
 }

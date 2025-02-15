@@ -5,14 +5,69 @@
     "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1853737922203394048/eLpNhZ2q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721486302775001088/1731941931",
-    "followers_count": 258,
-    "statuses_count": 50,
-    "favourites_count": 5855,
+    "followers_count": 266,
+    "statuses_count": 54,
+    "favourites_count": 5992,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-11-06 19:15:02 +08:00",
-    "url": "https://twitter.com/zyc201"
+    "url": "https://twitter.com/zyc201",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzIxNDg2MzAyNzc1MDAxMDg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "Google.com",
+                            "expanded_url": "http://Google.com",
+                            "url": "https://t.co/vFFqC1OgiV",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2254,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [
+                "1836228485339320377"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/vFFqC1OgiV",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1699269302000,
+            "updated_at": 1739589198293
+        }
+    }
 }

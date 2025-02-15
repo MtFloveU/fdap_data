@@ -1,18 +1,56 @@
 {
-  "id": "724142348343504896",
-  "screen_name": "yijinxiaoshi007",
-  "name": "一件小事君",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1864534470252187648/d3ZA8EPy_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/724142348343504896/1733374647",
-  "followers_count": 6,
-  "statuses_count": 8,
-  "favourites_count": 24625,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2016-04-24 15:46:04 +08:00",
-  "url": "https://twitter.com/yijinxiaoshi007"
+    "id": "724142348343504896",
+    "screen_name": "yijinxiaoshi007",
+    "name": "一件小事君",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1864534470252187648/d3ZA8EPy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/724142348343504896/1733374647",
+    "followers_count": 6,
+    "statuses_count": 9,
+    "favourites_count": 24854,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2016-04-24 15:46:04 +08:00",
+    "url": "https://twitter.com/yijinxiaoshi007",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo3MjQxNDIzNDgzNDM1MDQ4OTY=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2790,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Hong Kong",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1461483964000,
+            "updated_at": 1739589192754
+        }
+    }
 }

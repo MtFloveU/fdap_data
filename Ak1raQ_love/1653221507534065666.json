@@ -1,18 +1,82 @@
 {
-  "id": "1653221507534065666",
-  "screen_name": "Zhouhongfan2009",
-  "name": "香山一颗葱（上学版）",
-  "description": "简介真的会有人看吗？｜中学牲，非常社恐｜喜欢Miku｜喜欢音乐｜来自成都｜kigurumi初学者｜航拍📹｜尝试扩列｜喜欢我的世界 原神｜（男孩子 除了在梦里）｜网易云阴乐人｜希望友好与大家相处｜🏳️🏳️🏳️🏳️🏳️｜葱性恋｜呼呼 就要喵喵喵～｜那种主页全是涩涩的不要加我，真没有兴趣回复😅",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1823637391178862592/25wwfix1_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653221507534065666/1733156336",
-  "followers_count": 147,
-  "statuses_count": 1451,
-  "favourites_count": 2394,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-05-02 10:15:20 +08:00",
-  "url": "https://twitter.com/Zhouhongfan2009"
+    "id": "1653221507534065666",
+    "screen_name": "Zhouhongfan2009",
+    "name": "香山一颗葱（上学版）",
+    "description": "简介真的会有人看吗？｜中学牲，非常社恐｜喜欢Miku｜喜欢音乐｜来自成都｜kigurumi初学者｜航拍📹｜尝试扩列｜喜欢我的世界 原神｜（男孩子 除了在梦里）｜网易云阴乐人｜希望友好与大家相处｜🏳️🏳️🏳️🏳️🏳️｜葱性恋｜呼呼 就要喵喵喵～｜那种主页全是涩涩的不要加我，真没有兴趣回复😅",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1823637391178862592/25wwfix1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653221507534065666/1733156336",
+    "followers_count": 214,
+    "statuses_count": 2013,
+    "favourites_count": 3611,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-05-02 10:15:20 +08:00",
+    "url": "https://twitter.com/Zhouhongfan2009",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjUzMjIxNTA3NTM0MDY1NjY2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "紫薇.中国/index.php/samp…",
+                            "expanded_url": "https://xn--4b0a44o.xn--fiqs8s/index.php/sample-page/",
+                            "url": "https://t.co/UMKZR8D9zU",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 175,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距您3.3Km",
+            "media_count": 376,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/UMKZR8D9zU",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1829916643004486101",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 941,
+                    "name": "Music Producer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1682993720000,
+            "updated_at": 1739589282809
+        }
+    }
 }

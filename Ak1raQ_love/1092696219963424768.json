@@ -5,14 +5,51 @@
     "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1777505398511280128/DtEkU04A_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092696219963424768/1661771539",
-    "followers_count": 136,
-    "statuses_count": 82,
-    "favourites_count": 6321,
+    "followers_count": 139,
+    "statuses_count": 83,
+    "favourites_count": 6350,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2019-02-05 16:07:34 +08:00",
-    "url": "https://twitter.com/BLUEV1TO"
+    "url": "https://twitter.com/BLUEV1TO",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMDkyNjk2MjE5OTYzNDI0NzY4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2701,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 6,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1549354054000,
+            "updated_at": 1739589182252
+        }
+    }
 }

@@ -5,14 +5,67 @@
     "description": "一般不拉黑人 发现我拉黑了你只是我闭口不谈罢了  \n“在汹涌的舆论面前，闭口不谈或是顺势而为都可以 逆流而上，会粉身碎骨的”",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872272323178631168/y-Oh-OUK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1603782310955999235/1726830491",
-    "followers_count": 397,
-    "statuses_count": 1055,
-    "favourites_count": 2984,
+    "followers_count": 433,
+    "statuses_count": 1131,
+    "favourites_count": 3142,
     "listed_count": 0,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-12-17 00:01:40 +08:00",
-    "url": "https://twitter.com/subanxia00"
+    "url": "https://twitter.com/subanxia00",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjAzNzgyMzEwOTU1OTk5MjM1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 574,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "江城孱陵路33号",
+            "media_count": 137,
+            "pinned_tweet_ids_str": [
+                "1885762680365236358"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1615186518800498690",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 478,
+                    "name": "Advertising & Marketing Agency",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "ethereum_handle": "0xb348Dea0c0c570aA735Ed9E23479dD84AB907d6d"
+        },
+        "twe_private_fields": {
+            "created_at": 1671206500000,
+            "updated_at": 1739589267789
+        }
+    }
 }

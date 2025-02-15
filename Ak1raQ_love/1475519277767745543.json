@@ -5,14 +5,66 @@
     "description": "☕️ 【你的心声咖啡厅】 ☕️｜🍺【你的人生小酒馆】🍺｜💵【你的搞钱办公室】💵 ｜👘【仁玖T生活百态】 👒 ｜在這裡，我會盡一切努力解答人類最深處的心聲與人生，點亮生命希望！🌟 想和地球人做朋友🧑‍🤝‍🧑（因为大部分时间工作因素，交友文案可能一样，请见谅！）@Jadeofalltrade",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1762291495372292096/vrZTlcRi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1475519277767745543/1708606378",
-    "followers_count": 2749,
+    "followers_count": 2720,
     "statuses_count": 868,
-    "favourites_count": 4813,
+    "favourites_count": 4768,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2021-12-28 01:30:42 +08:00",
-    "url": "https://twitter.com/jadelight007"
+    "url": "https://twitter.com/jadelight007",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDc1NTE5Mjc3NzY3NzQ1NTQz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2190,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "涼宮春日的憂鬱 （T世界）",
+            "media_count": 99,
+            "pinned_tweet_ids_str": [
+                "1765915852644495406"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1750143783742931023",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 483,
+                    "name": "Lawyer & Law Firm",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1640626242000,
+            "updated_at": 1739589298729
+        }
+    }
 }

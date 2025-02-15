@@ -3,16 +3,82 @@
     "screen_name": "IctyeP",
     "name": "Kagiyama Hina",
     "description": "Personal vturber,playing rythem games and shoot 'em up games,No politics,usually use name ictye（@IctyeP）,studio：（@IctyeOffice）E-mail： ictyedaily@gmail.com",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1858377025775665152/ZpVDmIY5_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1885375492813103104/V0d9rgiY_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1575956145159622656/1733634330",
-    "followers_count": 1067,
-    "statuses_count": 8568,
-    "favourites_count": 15364,
+    "followers_count": 1082,
+    "statuses_count": 9033,
+    "favourites_count": 16096,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-10-01 05:10:17 +08:00",
-    "url": "https://twitter.com/IctyeP"
+    "url": "https://twitter.com/IctyeP",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTc1OTU2MTQ1MTU5NjIyNjU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "zyn-publiic.vercel.app",
+                            "expanded_url": "https://zyn-publiic.vercel.app/",
+                            "url": "https://t.co/1tUWgvxKq4",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1026,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Gensokyo",
+            "media_count": 1167,
+            "pinned_tweet_ids_str": [
+                "1798748784647893259"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/1tUWgvxKq4",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1742251468814721292",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1664572217000,
+            "updated_at": 1739589285081
+        }
+    }
 }

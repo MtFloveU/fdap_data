@@ -5,14 +5,69 @@
     "description": "人类进化的失败品",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1820690351503609856/YU-98RFl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556623032440852480/1731162953",
-    "followers_count": 244,
-    "statuses_count": 1791,
-    "favourites_count": 28461,
+    "followers_count": 245,
+    "statuses_count": 1823,
+    "favourites_count": 29120,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-08-08 20:47:21 +08:00",
-    "url": "https://twitter.com/w1ndycat"
+    "url": "https://twitter.com/w1ndycat",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTU2NjIzMDMyNDQwODUyNDgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "w1ndyc.at",
+                            "expanded_url": "https://w1ndyc.at/",
+                            "url": "https://t.co/9PwC9LfbwW",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1230,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Stars",
+            "media_count": 165,
+            "pinned_tweet_ids_str": [
+                "1813176190573633757"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/9PwC9LfbwW",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1659962841000,
+            "updated_at": 1739589231895
+        }
+    }
 }

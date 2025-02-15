@@ -4,15 +4,54 @@
     "name": "萌萌🍥🏳️‍⚧️",
     "description": "我叫萌萌/年龄19岁/性格奇怪/持有大证/性取向是喜欢小男娘或者同类/清水/爱好是打游戏和陪人聊天之类的。不od。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1860232307078262784/fUSqdCWD_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1633715238322466817/1678599431",
-    "followers_count": 886,
-    "statuses_count": 2337,
-    "favourites_count": 5569,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1633715238322466817/1738752779",
+    "followers_count": 920,
+    "statuses_count": 2625,
+    "favourites_count": 6083,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-03-09 14:24:16 +08:00",
-    "url": "https://twitter.com/mengmeng1302"
+    "url": "https://twitter.com/mengmeng1302",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjMzNzE1MjM4MzIyNDY2ODE3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 359,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 106,
+            "pinned_tweet_ids_str": [
+                "1885165911306625079"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1678343056000,
+            "updated_at": 1739589294389
+        }
+    }
 }

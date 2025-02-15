@@ -5,14 +5,51 @@
     "description": "只是喜欢xnn的一个色批罢了 游戏糕手，基本什么都玩 好想谈恋爱……",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1637483453611638785/LTkJQiDT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483743837755686916/1721090066",
-    "followers_count": 32,
+    "followers_count": 36,
     "statuses_count": 37,
-    "favourites_count": 19,
+    "favourites_count": 18,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-01-19 18:11:22 +08:00",
-    "url": "https://twitter.com/leihen0910"
+    "url": "https://twitter.com/leihen0910",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDgzNzQzODM3NzU1Njg2OTE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 705,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Tokyo-to, Japan",
+            "media_count": 19,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1642587082000,
+            "updated_at": 1739589229032
+        }
+    }
 }

@@ -5,14 +5,53 @@
     "description": "天残党\n距离吃糖还有100年\n2025/1/18",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1565325839582973952/naQyHD4a_normal.png",
     "profile_banner_url": null,
-    "followers_count": 251,
-    "statuses_count": 15406,
-    "favourites_count": 18243,
+    "followers_count": 254,
+    "statuses_count": 15396,
+    "favourites_count": 18104,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-07-21 04:50:21 +08:00",
-    "url": "https://twitter.com/WUWANG31057401"
+    "url": "https://twitter.com/WUWANG31057401",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQ5ODU4OTI0OTg3MjQwNDQ5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 606,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1568,
+            "pinned_tweet_ids_str": [
+                "1635624152454565888"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1658350221000,
+            "updated_at": 1739589285082
+        }
+    }
 }

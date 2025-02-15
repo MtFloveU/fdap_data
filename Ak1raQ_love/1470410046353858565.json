@@ -1,18 +1,59 @@
 {
-  "id": "1470410046353858565",
-  "screen_name": "miumcii",
-  "name": "闵目夕曦🍀",
-  "description": "谨此纪念那些我从来没有过也永远不再会有的东西",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1807752794868436992/aRV-vQMQ_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470410046353858565/1712134307",
-  "followers_count": 30840,
-  "statuses_count": 10643,
-  "favourites_count": 18936,
-  "listed_count": 89,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2021-12-13 23:07:45 +08:00",
-  "url": "https://twitter.com/miumcii"
+    "id": "1470410046353858565",
+    "screen_name": "miumcii",
+    "name": "闵目夕曦🍀",
+    "description": "谨此纪念那些我从来没有过也永远不再会有的东西",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1807752794868436992/aRV-vQMQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470410046353858565/1712134307",
+    "followers_count": 32052,
+    "statuses_count": 10789,
+    "favourites_count": 19678,
+    "listed_count": 92,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2021-12-13 23:07:45 +08:00",
+    "url": "https://twitter.com/miumcii",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDcwNDEwMDQ2MzUzODU4NTY1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 262,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 249,
+            "pinned_tweet_ids_str": [
+                "1874112091390640434"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1639408065000,
+            "updated_at": 1739589301194
+        }
+    }
 }

@@ -1,18 +1,58 @@
 {
-  "id": "1701940632649089024",
-  "screen_name": "Chiak1nanami",
-  "name": "超高校级的垃圾箱。",
-  "description": "温柔的人。……或许吧。这是我的垃圾箱。我会在这里丢垃圾……不然我要丢到哪去呢。表推：@Lanperouge1",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1789989690722193408/BP40HRi3_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701940632649089024/1715601954",
-  "followers_count": 79,
-  "statuses_count": 139,
-  "favourites_count": 2,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2023-09-13 20:47:29 +08:00",
-  "url": "https://twitter.com/Chiak1nanami"
+    "id": "1701940632649089024",
+    "screen_name": "Chiak1nanami",
+    "name": "超高校级的垃圾箱。",
+    "description": "温柔的人。……或许吧。这是我的垃圾箱。我会在这里丢垃圾……不然我要丢到哪去呢。表推：@Lanperouge1",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1789989690722193408/BP40HRi3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701940632649089024/1715601954",
+    "followers_count": 78,
+    "statuses_count": 139,
+    "favourites_count": 2,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2023-09-13 20:47:29 +08:00",
+    "url": "https://twitter.com/Chiak1nanami",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzAxOTQwNjMyNjQ5MDg5MDI0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": false,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 80,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 6,
+            "pinned_tweet_ids_str": [
+                "1826656166048653695"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1694609249000,
+            "updated_at": 1739589282809
+        }
+    }
 }

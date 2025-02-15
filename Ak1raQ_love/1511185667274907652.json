@@ -5,14 +5,80 @@
     "description": "毁灭的激情就是创造的幸福 。/后结构无政府主义者",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883090331144478720/o0ZnDZdi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511185667274907652/1725175961",
-    "followers_count": 4640,
-    "statuses_count": 3148,
-    "favourites_count": 74651,
+    "followers_count": 4682,
+    "statuses_count": 3287,
+    "favourites_count": 75852,
     "listed_count": 21,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-04-05 11:35:22 +08:00",
-    "url": "https://twitter.com/RevolutionTide"
+    "url": "https://twitter.com/RevolutionTide",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTExMTg1NjY3Mjc0OTA3NjUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "nightfall.buzz",
+                            "expanded_url": "https://nightfall.buzz/",
+                            "url": "https://t.co/T8Rq4vYSHW",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2621,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "萨帕塔民族解放军",
+            "media_count": 309,
+            "pinned_tweet_ids_str": [
+                "1847619356575817866"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/T8Rq4vYSHW",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1830462640004440348",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 688,
+                    "name": "Non-Governmental & Nonprofit Organization ",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1649129722000,
+            "updated_at": 1739589277836
+        }
+    }
 }

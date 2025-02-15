@@ -1,18 +1,55 @@
 {
-  "id": "1756326704723709952",
-  "screen_name": "HenneghanJ91019",
-  "name": "依晴镁🍬yumi",
-  "description": "中抑重躁被害妄想 /并非是适格者/超绝无敌圣母心云 /讨厌自己和镜子里的自 己/想要只有女孩子的世界 / 爱哭鬼、跟屁虫、小懒虫 /疑似 脑子里有五个小人在打架| 瞎子聋子疯子傻子|",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1860230921368055808/icT0kalB_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756326704723709952/1729265417",
-  "followers_count": 128,
-  "statuses_count": 34,
-  "favourites_count": 45,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-02-10 22:38:16 +08:00",
-  "url": "https://twitter.com/HenneghanJ91019"
+    "id": "1756326704723709952",
+    "screen_name": "HenneghanJ91019",
+    "name": "依晴镁🍬yumi",
+    "description": "中抑重躁被害妄想 /并非是适格者/超绝无敌圣母心云 /讨厌自己和镜子里的自 己/想要只有女孩子的世界 / 爱哭鬼、跟屁虫、小懒虫 /疑似 脑子里有五个小人在打架| 瞎子聋子疯子傻子|",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1860230921368055808/icT0kalB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756326704723709952/1729265417",
+    "followers_count": 131,
+    "statuses_count": 36,
+    "favourites_count": 59,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-02-10 22:38:16 +08:00",
+    "url": "https://twitter.com/HenneghanJ91019",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU2MzI2NzA0NzIzNzA5OTUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 318,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": " Sikeston ",
+            "media_count": 7,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1707575896000,
+            "updated_at": 1739589270270
+        }
+    }
 }

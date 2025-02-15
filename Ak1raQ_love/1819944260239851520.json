@@ -5,14 +5,52 @@
     "description": "Contemptus Mundi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886343914086694912/UiFd-ghD_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819944260239851520/1738574124",
-    "followers_count": 1510,
-    "statuses_count": 10417,
-    "favourites_count": 22142,
+    "followers_count": 1487,
+    "statuses_count": 10440,
+    "favourites_count": 22218,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-08-04 11:51:46 +08:00",
-    "url": "https://twitter.com/Alice14_88"
+    "url": "https://twitter.com/Alice14_88",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE5OTQ0MjYwMjM5ODUxNTIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1985,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "China",
+            "media_count": 943,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1722743506000,
+            "updated_at": 1739589275107
+        }
+    }
 }

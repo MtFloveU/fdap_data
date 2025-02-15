@@ -3,16 +3,53 @@
     "screen_name": "chengge16264146",
     "name": "Chengge1627",
     "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1862898033282764800/eA5uvMcB_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756082103941308416/1732984615",
-    "followers_count": 1,
-    "statuses_count": 12,
-    "favourites_count": 36,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1882836865729835008/A_yxrHnV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756082103941308416/1737738269",
+    "followers_count": 3,
+    "statuses_count": 17,
+    "favourites_count": 123,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-02-10 06:26:27 +08:00",
-    "url": "https://twitter.com/chengge16264146"
+    "url": "https://twitter.com/chengge16264146",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU2MDgyMTAzOTQxMzA4NDE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 69,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 2,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1707517587000,
+            "updated_at": 1739589187893
+        }
+    }
 }

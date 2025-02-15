@@ -5,14 +5,53 @@
     "description": "🇨🇳From PRC/2005.11./大学专科生/ISFP/友跨顺男（谁知道会不会翻🏳️‍⚧）/中文/Eng ok/日本語が分かりません",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861946551121408000/Xd6ir21h_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 213,
-    "statuses_count": 3063,
-    "favourites_count": 3639,
+    "followers_count": 252,
+    "statuses_count": 3092,
+    "favourites_count": 3681,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-10-28 11:53:08 +08:00",
-    "url": "https://twitter.com/baizeyinyu"
+    "url": "https://twitter.com/baizeyinyu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODUwNzQ3NTQxMjU3OTE2NDE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 257,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Trinity, Kivotos",
+            "media_count": 118,
+            "pinned_tweet_ids_str": [
+                "1868917756340707824"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1730087588000,
+            "updated_at": 1739589265461
+        }
+    }
 }

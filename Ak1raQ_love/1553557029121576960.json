@@ -5,14 +5,53 @@
     "description": "09 | INFP | mtf (HRT since 2023.5.30) | 英文会说 日文N2 | 会作编曲、混音后制 | 工作号 @wiruyuto | 算是半个交通迷 | 喜欢精神病和Vocaloid | 有主人 @ShaDow_0528",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1853497382199304193/raQjHJtL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553557029121576960/1731256036",
-    "followers_count": 671,
-    "statuses_count": 1555,
-    "favourites_count": 5943,
+    "followers_count": 686,
+    "statuses_count": 1628,
+    "favourites_count": 6243,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-07-31 09:44:21 +08:00",
-    "url": "https://twitter.com/kuukichan0327"
+    "url": "https://twitter.com/kuukichan0327",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTUzNTU3MDI5MTIxNTc2OTYw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 415,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "羽久樺精神病院",
+            "media_count": 317,
+            "pinned_tweet_ids_str": [
+                "1885788698434007429"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1659231861000,
+            "updated_at": 1739589272743
+        }
+    }
 }

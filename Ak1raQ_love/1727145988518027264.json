@@ -1,18 +1,55 @@
 {
-  "id": "1727145988518027264",
-  "screen_name": "666wcnb",
-  "name": "在你的世界中相遇🍥🏳️‍⚧️",
-  "description": "炸柜三次/小证🏳️‍⚧️2024.01/家长绥靖/停糖谈判ing😭/希望每个人都能找到属于自己的宁静😇🙏",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1831730640837881856/WYX3USpR_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1727145988518027264/1700621207",
-  "followers_count": 112,
-  "statuses_count": 94,
-  "favourites_count": 745,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-11-22 10:04:42 +08:00",
-  "url": "https://twitter.com/666wcnb"
+    "id": "1727145988518027264",
+    "screen_name": "666wcnb",
+    "name": "在你的世界中相遇🍥🏳️‍⚧️",
+    "description": "炸柜三次/小证🏳️‍⚧️2024.01/家长绥靖/停糖谈判ing😭/希望每个人都能找到属于自己的宁静😇🙏",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1831730640837881856/WYX3USpR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1727145988518027264/1700621207",
+    "followers_count": 120,
+    "statuses_count": 93,
+    "favourites_count": 750,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-11-22 10:04:42 +08:00",
+    "url": "https://twitter.com/666wcnb",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzI3MTQ1OTg4NTE4MDI3MjY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 421,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "霍格沃兹",
+            "media_count": 4,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1700618682000,
+            "updated_at": 1739589280337
+        }
+    }
 }

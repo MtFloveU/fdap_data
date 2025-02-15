@@ -1,18 +1,57 @@
 {
-  "id": "1642384726811082752",
-  "screen_name": "kennylin330",
-  "name": "暒",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1725874361318686720/0BuBEJC2_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 7,
-  "statuses_count": 0,
-  "favourites_count": 1,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-04-02 12:33:58 +08:00",
-  "url": "https://twitter.com/kennylin330"
+    "id": "1642384726811082752",
+    "screen_name": "kennylin330",
+    "name": "暒",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1725874361318686720/0BuBEJC2_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 7,
+    "statuses_count": 0,
+    "favourites_count": 1,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-04-02 12:33:58 +08:00",
+    "url": "https://twitter.com/kennylin330",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjQyMzg0NzI2ODExMDgyNzUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 77,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [
+                "1670060428532260864"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1680410038000,
+            "updated_at": 1739589195794
+        }
+    }
 }

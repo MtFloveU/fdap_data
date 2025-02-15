@@ -1,18 +1,55 @@
 {
-  "id": "1713932430187679744",
-  "screen_name": "xiangmeng_XM",
-  "name": "向revery梦🍥",
-  "description": "煮包有玉玉症，被网暴会跳楼（大哭）",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1864458761156612100/EkvSBdiE_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1713932430187679744/1729247925",
-  "followers_count": 267,
-  "statuses_count": 325,
-  "favourites_count": 1332,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-10-16 22:58:39 +08:00",
-  "url": "https://twitter.com/xiangmeng_XM"
+    "id": "1713932430187679744",
+    "screen_name": "xiangmeng_XM",
+    "name": "向revery梦🍥",
+    "description": "煮包有玉玉症，被网暴会跳楼（大哭）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890177189016195072/H66f6BY0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1713932430187679744/1729247925",
+    "followers_count": 287,
+    "statuses_count": 347,
+    "favourites_count": 1341,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-10-16 22:58:39 +08:00",
+    "url": "https://twitter.com/xiangmeng_XM",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzEzOTMyNDMwMTg3Njc5NzQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 325,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "猫头山",
+            "media_count": 136,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1697468319000,
+            "updated_at": 1739589296476
+        }
+    }
 }

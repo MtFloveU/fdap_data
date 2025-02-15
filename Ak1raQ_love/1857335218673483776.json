@@ -6,13 +6,52 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884376728015097856/vYJfwFcq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857335218673483776/1738173439",
     "followers_count": 1260,
-    "statuses_count": 211,
-    "favourites_count": 594,
+    "statuses_count": 214,
+    "favourites_count": 603,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-11-15 08:10:07 +00:00",
-    "url": "https://twitter.com/mngy289164"
+    "created_at": "2024-11-15 16:10:07 +08:00",
+    "url": "https://twitter.com/mngy289164",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODU3MzM1MjE4NjczNDgzNzc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 227,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "讨厌所有人",
+            "media_count": 12,
+            "pinned_tweet_ids_str": [
+                "1878110660200161498"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1731658207000,
+            "updated_at": 1739589270270
+        }
+    }
 }

@@ -1,18 +1,57 @@
 {
-  "id": "21969912",
-  "screen_name": "alexroyce315",
-  "name": "alexroyce315",
-  "description": "G+ 拆迁户。医疗健康领域产品汪，求职。🙃",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/464693603806101505/guryfy58_normal.jpeg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/21969912/1613533949",
-  "followers_count": 912,
-  "statuses_count": 9124,
-  "favourites_count": 0,
-  "listed_count": 9,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2009-02-26 12:32:02 +08:00",
-  "url": "https://twitter.com/alexroyce315"
+    "id": "21969912",
+    "screen_name": "alexroyce315",
+    "name": "alexroyce315",
+    "description": "G+ 拆迁户。医疗健康领域产品汪，求职。🙃",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/464693603806101505/guryfy58_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/21969912/1613533949",
+    "followers_count": 915,
+    "statuses_count": 9159,
+    "favourites_count": 0,
+    "listed_count": 9,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2009-02-26 12:32:02 +08:00",
+    "url": "https://twitter.com/alexroyce315",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoyMTk2OTkxMg==",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2093,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "北京‹›广州‹›东台",
+            "media_count": 504,
+            "pinned_tweet_ids_str": [
+                "1853455015710708051"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1235622722000,
+            "updated_at": 1739589229032
+        }
+    }
 }

@@ -5,14 +5,51 @@
     "description": "已炸柜",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870058101698899970/dPadIz8K_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749508083460849664/1736568007",
-    "followers_count": 139,
-    "statuses_count": 425,
-    "favourites_count": 405,
+    "followers_count": 162,
+    "statuses_count": 494,
+    "favourites_count": 517,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-01-23 03:03:40 +08:00",
-    "url": "https://twitter.com/kuangision5keli"
+    "url": "https://twitter.com/kuangision5keli",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQ5NTA4MDgzNDYwODQ5NjY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 412,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Taiwan Province of China",
+            "media_count": 37,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1705950220000,
+            "updated_at": 1739589267789
+        }
+    }
 }

@@ -5,14 +5,69 @@
     "description": "呜呜喵呜，无论何时何地～♪ 格蕾修都会回应你的期待♪坐标广西…无证含糖，在上高中/mtf/x?/喜欢的人@reallyshow_imp 永远喜欢宝宝诶嘿嘿ww♡/半家长党？/想和乐晴组乐队..../被主人五块二包养了😭😭@mtfGuiMeng问答小房间w https://t.co/p3oMKFZK81",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887535218443038723/yXa8Hc0Q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511436799000088577/1721844835",
-    "followers_count": 645,
-    "statuses_count": 1821,
-    "favourites_count": 2787,
+    "followers_count": 643,
+    "statuses_count": 1827,
+    "favourites_count": 2800,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-04-06 04:13:22 +08:00",
-    "url": "https://twitter.com/GriseoQAQ"
+    "url": "https://twitter.com/GriseoQAQ",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTExNDM2Nzk5MDAwMDg4NTc3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/griseo5201314",
+                            "expanded_url": "https://ngl.link/griseo5201314",
+                            "url": "https://t.co/p3oMKFZK81",
+                            "indices": [
+                                128,
+                                151
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 372,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "格蕾修的小画室",
+            "media_count": 372,
+            "pinned_tweet_ids_str": [
+                "1829966665318351298"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1511441396716085248",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1649189602000,
+            "updated_at": 1739589292073
+        }
+    }
 }

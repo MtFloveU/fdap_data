@@ -5,14 +5,60 @@
     "description": "17Y｜抖S小男娘｜性別認同障礙♿",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1804025065144721408/FZemE8VY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023521981495308288/1707390713",
-    "followers_count": 8441,
-    "statuses_count": 3812,
-    "favourites_count": 12002,
-    "listed_count": 11,
+    "followers_count": 9052,
+    "statuses_count": 3852,
+    "favourites_count": 12114,
+    "listed_count": 14,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2018-07-29 18:53:51 +08:00",
-    "url": "https://twitter.com/CD_XuanXuan"
+    "url": "https://twitter.com/CD_XuanXuan",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMDIzNTIxOTgxNDk1MzA4Mjg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 924,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "男娘大學",
+            "media_count": 378,
+            "pinned_tweet_ids_str": [
+                "1841474870951215234"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1541924721008160768",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1532861631000,
+            "updated_at": 1739589292073
+        }
+    }
 }

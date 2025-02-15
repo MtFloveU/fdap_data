@@ -5,14 +5,81 @@
     "description": "15岁高中生｜无明确立场｜无明确意识形态｜发的内容会比较杂｜简中/繁中混用｜对所有人保持友好🩵｜请不要对我扣帽子或人身攻击，说话时保持文明，我也会礼貌对待大家🩵我没有b过任何人，尊重每一种声音💜 有蓝标的才是本人。🙏精神病友好，小孩哥友好🙏",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689275528572760064/1720341261",
-    "followers_count": 3523,
-    "statuses_count": 5419,
-    "favourites_count": 24993,
+    "followers_count": 3648,
+    "statuses_count": 5572,
+    "favourites_count": 25890,
     "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2023-08-09 22:00:59 +08:00",
-    "url": "https://twitter.com/5mRtist"
+    "url": "https://twitter.com/5mRtist",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjg5Mjc1NTI4NTcyNzYwMDY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "5mr.top",
+                            "expanded_url": "http://www.5mr.top",
+                            "url": "https://t.co/gOK4bNBI2K",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1491,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "眾一國",
+            "media_count": 483,
+            "pinned_tweet_ids_str": [
+                "1870638198768169190"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/gOK4bNBI2K",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1827687840878350380",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 1055,
+                    "name": "Software developer/Programmer/Software engineer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "ethereum_handle": "0xFC404fdBc592852b64b297b5717a84a76a4e12B0"
+        },
+        "twe_private_fields": {
+            "created_at": 1691589659000,
+            "updated_at": 1739589260496
+        }
+    }
 }

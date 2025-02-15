@@ -5,14 +5,80 @@
     "description": "遠離 否則開槍 \nDISPERSE OR WE FIRE",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1869671377147748352/35AqOkZ__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1734610924",
-    "followers_count": 59487,
-    "statuses_count": 389,
-    "favourites_count": 49327,
+    "followers_count": 59928,
+    "statuses_count": 460,
+    "favourites_count": 49679,
     "listed_count": 78,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
     "created_at": "2019-05-21 18:25:21 +08:00",
-    "url": "https://twitter.com/_SHIGURERERE_"
+    "url": "https://twitter.com/_SHIGURERERE_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTMwNzgxNjE2Mjc0NDY4ODY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/+0be0wxiVvB5jY…",
+                            "expanded_url": "https://t.me/+0be0wxiVvB5jY2Vl",
+                            "url": "https://t.co/CcTZjHEfaP",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2124,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "IJN 2nd Fleet",
+            "media_count": 320,
+            "pinned_tweet_ids_str": [
+                "1861947934868455904"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/CcTZjHEfaP",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1488361352129179651",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 865,
+                    "name": "Archery Range",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1558434321000,
+            "updated_at": 1739589292073
+        }
+    }
 }

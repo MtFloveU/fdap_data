@@ -5,14 +5,55 @@
     "description": "172/54 还在上学 有主：@qweomy10364583 不约",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882228779319451648/D9IWpbBy_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840634278427889664/1736952063",
-    "followers_count": 594,
-    "statuses_count": 88,
-    "favourites_count": 310,
+    "followers_count": 672,
+    "statuses_count": 114,
+    "favourites_count": 335,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-30 14:06:35 +08:00",
-    "url": "https://twitter.com/HotlineMiami888"
+    "url": "https://twitter.com/HotlineMiami888",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQwNjM0Mjc4NDI3ODg5NjY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 452,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 7,
+            "pinned_tweet_ids_str": [
+                "1880970368950870434"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1727676395000,
+            "updated_at": 1739589262851
+        }
+    }
 }

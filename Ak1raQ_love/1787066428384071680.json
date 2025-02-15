@@ -1,18 +1,57 @@
 {
-  "id": "1787066428384071680",
-  "screen_name": "chlorinemask",
-  "name": "19🐻‍❄️虹色建設",
-  "description": "欢乐自由 每刻每时",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1787069522257838080/pkBswtiY_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787066428384071680/1717417418",
-  "followers_count": 34,
-  "statuses_count": 379,
-  "favourites_count": 2877,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-05-05 18:26:58 +08:00",
-  "url": "https://twitter.com/chlorinemask"
+    "id": "1787066428384071680",
+    "screen_name": "chlorinemask",
+    "name": "19🐻‍❄️虹色建設",
+    "description": "欢乐自由 每刻每时",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1787069522257838080/pkBswtiY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787066428384071680/1736415443",
+    "followers_count": 34,
+    "statuses_count": 411,
+    "favourites_count": 3060,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-05-05 18:26:58 +08:00",
+    "url": "https://twitter.com/chlorinemask",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzg3MDY2NDI4Mzg0MDcxNjgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 48,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Kienshui Special City,Arcticia",
+            "media_count": 146,
+            "pinned_tweet_ids_str": [
+                "1799692652058902767"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1714904818000,
+            "updated_at": 1739589205528
+        }
+    }
 }

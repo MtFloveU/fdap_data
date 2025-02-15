@@ -5,14 +5,74 @@
     "description": "アズサ最高です!｜中文/Chinglish/日本語(下手）｜無言フォロー失礼します｜友達！：@Orc30678 @zirancumin0 @comiftaltrol｜爱你😘@MikuMiku3648 @xiaosanjiu520 @MeowSakur76073｜前辈@GotoHoshino02｜↓匿名提问箱",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886089162643931136/GRic7qTg_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831363594556211200/1738733268",
-    "followers_count": 754,
-    "statuses_count": 3027,
-    "favourites_count": 10881,
+    "followers_count": 756,
+    "statuses_count": 3052,
+    "favourites_count": 10960,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-09-04 16:08:23 +00:00",
-    "url": "https://twitter.com/SeventeenYizuka"
+    "created_at": "2024-09-05 00:08:23 +08:00",
+    "url": "https://twitter.com/SeventeenYizuka",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODMxMzYzNTk0NTU2MjExMjAw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/seventeenyizuka",
+                            "expanded_url": "https://ngl.link/seventeenyizuka",
+                            "url": "https://t.co/I4rMCgSFjH",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 622,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "記錄の地平線",
+            "media_count": 352,
+            "pinned_tweet_ids_str": [
+                "1874341139605840370"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/I4rMCgSFjH",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1843311991227924981",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1725466103000,
+            "updated_at": 1739589257610
+        }
+    }
 }

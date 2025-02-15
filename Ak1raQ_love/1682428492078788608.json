@@ -5,14 +5,53 @@
     "description": "类人形生物",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682428492078788608/1729538776",
-    "followers_count": 192,
-    "statuses_count": 697,
-    "favourites_count": 518,
-    "listed_count": 1,
+    "followers_count": 361,
+    "statuses_count": 755,
+    "favourites_count": 540,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-07-22 00:33:21 +08:00",
-    "url": "https://twitter.com/shiroko486318"
+    "url": "https://twitter.com/shiroko486318",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjgyNDI4NDkyMDc4Nzg4NjA4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 337,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距离你3Km",
+            "media_count": 77,
+            "pinned_tweet_ids_str": [
+                "1889330433969803494"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1689957201000,
+            "updated_at": 1739589262851
+        }
+    }
 }

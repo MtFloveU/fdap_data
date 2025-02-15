@@ -5,14 +5,122 @@
     "description": "HKer 极端罗小黑粉丝/福瑞控 数码抽象人 不键政 MtX/Agender ADHD ASD 09 164 37 0 ✈️:点击下方链接 WeChat🚪64.8⑨HKD https://t.co/z9fzbrvVre",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872551250149179392/w-z2viqx_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370359999629643779/1716824284",
-    "followers_count": 2373,
-    "statuses_count": 41073,
-    "favourites_count": 15337,
+    "followers_count": 2379,
+    "statuses_count": 41232,
+    "favourites_count": 15469,
     "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2021-03-12 21:04:28 +08:00",
-    "url": "https://twitter.com/HeypixelNetwork"
+    "url": "https://twitter.com/HeypixelNetwork",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzcwMzU5OTk5NjI5NjQzNzc5",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @poohemperor5",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 26,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "poohemperor5",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "poohemperor5"
+                                        },
+                                        "rest_id": "1422499286588170248"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "notavailable.pages.dev",
+                            "expanded_url": "http://notavailable.pages.dev",
+                            "url": "https://t.co/z9fzbrvVre",
+                            "indices": [
+                                86,
+                                109
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "T.me/MFnotMtF",
+                            "expanded_url": "http://T.me/MFnotMtF",
+                            "url": "https://t.co/znF46AvYCS",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1745,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "阳光下见 舞台上见",
+            "media_count": 2245,
+            "pinned_tweet_ids_str": [
+                "1872546209635893628"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/znF46AvYCS",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1637299053154410496",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 370,
+                    "name": "Butcher Shop",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false,
+            "bitcoin_handle": "338S3375Z7dzeZ3ukHn48nGcyR3pM3enM9",
+            "ethereum_handle": "0x10de714e226dc003b9b5fc48f0152f8de70888bc"
+        },
+        "twe_private_fields": {
+            "created_at": 1615554268000,
+            "updated_at": 1739589177245
+        }
+    }
 }

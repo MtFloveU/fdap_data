@@ -5,14 +5,51 @@
     "description": "2024研招准备中。\n反贼，支黑，轮子全家飞升。\n不键政。互相尊重的情况下可以做到与一切生物和平对话。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881539751620308992/HMBwptzj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431903578747064328/1647308840",
-    "followers_count": 62,
-    "statuses_count": 721,
-    "favourites_count": 160,
+    "followers_count": 64,
+    "statuses_count": 730,
+    "favourites_count": 174,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2021-08-29 16:56:42 +08:00",
-    "url": "https://twitter.com/HanSmileLiao1"
+    "url": "https://twitter.com/HanSmileLiao1",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDMxOTAzNTc4NzQ3MDY0MzI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 218,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 37,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1630227402000,
+            "updated_at": 1739589215956
+        }
+    }
 }

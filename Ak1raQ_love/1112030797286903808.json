@@ -1,18 +1,58 @@
 {
-  "id": "1112030797286903808",
-  "screen_name": "sdram_dimth",
-  "name": "DIMTH",
-  "description": "CN浅梦 肥宅/INTP/双相/打🤎bot/@SDRAM2014/老婆&主人&小狗@__shilapi__",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1850862583789834240/H-R8bnjS_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112030797286903808/1559109222",
-  "followers_count": 725,
-  "statuses_count": 1516,
-  "favourites_count": 8215,
-  "listed_count": 8,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2019-03-31 00:36:17 +08:00",
-  "url": "https://twitter.com/sdram_dimth"
+    "id": "1112030797286903808",
+    "screen_name": "sdram_dimth",
+    "name": "DIMTH",
+    "description": "CN浅梦 肥宅/INTP/双相/打🤎bot/@SDRAM2014/老婆&主人&小狗@__shilapi__",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1850862583789834240/H-R8bnjS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112030797286903808/1559109222",
+    "followers_count": 739,
+    "statuses_count": 1607,
+    "favourites_count": 8787,
+    "listed_count": 8,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2019-03-31 00:36:17 +08:00",
+    "url": "https://twitter.com/sdram_dimth",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTEyMDMwNzk3Mjg2OTAzODA4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 5226,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Shanghai",
+            "media_count": 121,
+            "pinned_tweet_ids_str": [
+                "1213924213951610880"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1553963777000,
+            "updated_at": 1739589223480
+        }
+    }
 }

@@ -1,18 +1,82 @@
 {
-  "id": "1824812035449999360",
-  "screen_name": "CatLightCloud",
-  "name": "猫灯云 VPN 加速器",
-  "description": "专线体验，4K秒开，多线路防灾，永远可连！安卓/IOS/PC可用\n9.9元起，首月低至6.9元！\n即刻注册，体验试用~\n广告合作，循环返佣，私信联系~\n🍅注册可试用体验\n主站：↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1824821418024128512/WWps8yOk_normal.png",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824812035449999360/1723906307",
-  "followers_count": 84,
-  "statuses_count": 373,
-  "favourites_count": 373,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": true,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-08-17 22:16:07 +08:00",
-  "url": "https://twitter.com/CatLightCloud"
+    "id": "1824812035449999360",
+    "screen_name": "CatLightCloud",
+    "name": "猫灯云 VPN 加速器",
+    "description": "专线体验，4K秒开，多线路防灾，永远可连！安卓/IOS/PC可用\n9.9元起，首月低至6.9元！\n即刻注册，体验试用~\n广告合作，循环返佣，私信联系~\n🍅注册可试用体验\n主站：↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1824821418024128512/WWps8yOk_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824812035449999360/1723906307",
+    "followers_count": 92,
+    "statuses_count": 374,
+    "favourites_count": 360,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-08-17 22:16:07 +08:00",
+    "url": "https://twitter.com/CatLightCloud",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI0ODEyMDM1NDQ5OTk5MzYw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "cailight.icu",
+                            "expanded_url": "https://cailight.icu",
+                            "url": "https://t.co/ZzhDTbHTDC",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 48,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "官网导航页",
+            "media_count": 5,
+            "pinned_tweet_ids_str": [
+                "1851583870006943817"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/ZzhDTbHTDC",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1844320986956693817",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 477,
+                    "name": "Professional Services",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1723904167000,
+            "updated_at": 1739589220929
+        }
+    }
 }

@@ -1,18 +1,57 @@
 {
-  "id": "1120030895996452865",
-  "screen_name": "TodIsTheSun",
-  "name": "卡门的太阳",
-  "description": "是琥珀亲妈｜卡门想要活下去｜只要你喜欢草莓我们就是异父异母的亲人",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1714440765538238464/kXoQn2A3_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1120030895996452865/1660469362",
-  "followers_count": 2440,
-  "statuses_count": 9442,
-  "favourites_count": 59555,
-  "listed_count": 10,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2019-04-22 02:25:49 +08:00",
-  "url": "https://twitter.com/TodIsTheSun"
+    "id": "1120030895996452865",
+    "screen_name": "TodIsTheSun",
+    "name": "卡门的太阳",
+    "description": "是琥珀亲妈｜卡门想要活下去｜只要你喜欢草莓我们就是异父异母的亲人",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1714440765538238464/kXoQn2A3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1120030895996452865/1660469362",
+    "followers_count": 2471,
+    "statuses_count": 9455,
+    "favourites_count": 60149,
+    "listed_count": 10,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2019-04-22 02:25:49 +08:00",
+    "url": "https://twitter.com/TodIsTheSun",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTIwMDMwODk1OTk2NDUyODY1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1793,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Tardis",
+            "media_count": 1093,
+            "pinned_tweet_ids_str": [
+                "1619684934838530049"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1555871149000,
+            "updated_at": 1739589280337
+        }
+    }
 }

@@ -1,18 +1,67 @@
 {
-  "id": "1600464186106327041",
-  "screen_name": "elina80011328",
-  "name": "elina",
-  "description": "898",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1679704373130330113/LEWLtsUN_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 13,
-  "statuses_count": 26,
-  "favourites_count": 59,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2022-12-07 20:16:28 +08:00",
-  "url": "https://twitter.com/elina80011328"
+    "id": "1600464186106327041",
+    "screen_name": "elina80011328",
+    "name": "elina",
+    "description": "898",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1679704373130330113/LEWLtsUN_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 13,
+    "statuses_count": 26,
+    "favourites_count": 84,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-12-07 20:16:28 +08:00",
+    "url": "https://twitter.com/elina80011328",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjAwNDY0MTg2MTA2MzI3MDQx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 5860,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1679704461902741504",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 97,
+                    "name": "Marine",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1670415388000,
+            "updated_at": 1739589214059
+        }
+    }
 }

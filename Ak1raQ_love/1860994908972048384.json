@@ -5,14 +5,51 @@
     "description": "你...你好！如果被打扰到了...对不起...",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1860996345785442304/uzIwT7nM_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 36,
+    "followers_count": 37,
     "statuses_count": 234,
-    "favourites_count": 1673,
+    "favourites_count": 1687,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-11-25 10:32:39 +00:00",
-    "url": "https://twitter.com/raindew877"
+    "created_at": "2024-11-25 18:32:39 +08:00",
+    "url": "https://twitter.com/raindew877",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODYwOTk0OTA4OTcyMDQ4Mzg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 106,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1732530759000,
+            "updated_at": 1739589257611
+        }
+    }
 }

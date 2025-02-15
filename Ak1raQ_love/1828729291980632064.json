@@ -5,14 +5,53 @@
     "description": "",
     "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
     "profile_banner_url": null,
-    "followers_count": 22,
+    "followers_count": 20,
     "statuses_count": 0,
-    "favourites_count": 718,
+    "favourites_count": 711,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-08-28 17:40:21 +08:00",
-    "url": "https://twitter.com/blxs0418"
+    "url": "https://twitter.com/blxs0418",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI4NzI5MjkxOTgwNjMyMDY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 372,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [
+                "1829914662558974310"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1724838021000,
+            "updated_at": 1739589207840
+        }
+    }
 }

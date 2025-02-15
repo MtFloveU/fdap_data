@@ -1,18 +1,55 @@
 {
-  "id": "1748196717353488384",
-  "screen_name": "killer354536311",
-  "name": "killer",
-  "description": "l am psycho l am nazbol l am crime 对了我还是一名精苏 还有精沙俄",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1817728396144828416/oBHd-vCW_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748196717353488384/1713059032",
-  "followers_count": 208,
-  "statuses_count": 246,
-  "favourites_count": 993,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-01-19 12:12:46 +08:00",
-  "url": "https://twitter.com/killer354536311"
+    "id": "1748196717353488384",
+    "screen_name": "killer354536311",
+    "name": "killer",
+    "description": "l am psycho l am nazbol l am crime 对了我还是一名精苏 还有精沙俄",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1817728396144828416/oBHd-vCW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748196717353488384/1713059032",
+    "followers_count": 220,
+    "statuses_count": 249,
+    "favourites_count": 1004,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-01-19 12:12:46 +08:00",
+    "url": "https://twitter.com/killer354536311",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQ4MTk2NzE3MzUzNDg4Mzg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1085,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 13,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1705637566000,
+            "updated_at": 1739589234225
+        }
+    }
 }

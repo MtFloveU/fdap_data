@@ -5,7 +5,7 @@
     "description": "Freedom is very true.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1333584469232480257/_LbHuhHf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248493539782098945/1606786347",
-    "followers_count": 39,
+    "followers_count": 41,
     "statuses_count": 0,
     "favourites_count": 31,
     "listed_count": 2,
@@ -14,5 +14,42 @@
     "following": false,
     "followed_by": true,
     "created_at": "2020-04-10 14:10:41 +08:00",
-    "url": "https://twitter.com/RiverNothing"
+    "url": "https://twitter.com/RiverNothing",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjQ4NDkzNTM5NzgyMDk4OTQ1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2620,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1586499041000,
+            "updated_at": 1739589177245
+        }
+    }
 }

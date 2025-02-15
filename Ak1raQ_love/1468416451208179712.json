@@ -1,18 +1,103 @@
 {
-  "id": "1468416451208179712",
-  "screen_name": "kokowamakotsu",
-  "name": "紫·恒箫·魔骨",
-  "description": "持证上岗//COC跑团人//Oliva青果系骰娘骰主//路过的骑士厨//学生\n长毛象：https://t.co/P1XBuGxmUg\n糖果贩售商店表https://t.co/d7W8od0z7F\n已逝爱人 @ANQNKNy\n微信公众号 makotsu-transer",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468416451208179712/1667175228",
-  "followers_count": 3600,
-  "statuses_count": 19775,
-  "favourites_count": 5054,
-  "listed_count": 23,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2021-12-08 11:05:47 +08:00",
-  "url": "https://twitter.com/kokowamakotsu"
+    "id": "1468416451208179712",
+    "screen_name": "kokowamakotsu",
+    "name": "紫·恒箫·魔骨",
+    "description": "持证上岗//COC跑团人//Oliva青果系骰娘骰主//路过的骑士厨//学生\n长毛象：https://t.co/P1XBuGxmUg\n糖果贩售商店表https://t.co/d7W8od0z7F\n已逝爱人 @ANQNKNy\n微信公众号 makotsu-transer",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468416451208179712/1667175228",
+    "followers_count": 3674,
+    "statuses_count": 20281,
+    "favourites_count": 5032,
+    "listed_count": 24,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2021-12-08 11:05:47 +08:00",
+    "url": "https://twitter.com/kokowamakotsu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDY4NDE2NDUxMjA4MTc5NzEy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "mstdn.party/@makotsu",
+                            "expanded_url": "http://mstdn.party/@makotsu",
+                            "url": "https://t.co/P1XBuGxmUg",
+                            "indices": [
+                                43,
+                                66
+                            ]
+                        },
+                        {
+                            "display_url": "netsusyou-makotsu.github.io/E2-docs",
+                            "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
+                            "url": "https://t.co/d7W8od0z7F",
+                            "indices": [
+                                74,
+                                97
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "makotsu.xyz",
+                            "expanded_url": "https://makotsu.xyz/",
+                            "url": "https://t.co/FWQxuSbLU2",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 678,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "幻想乡 红魔馆",
+            "media_count": 675,
+            "pinned_tweet_ids_str": [
+                "1500615371094691842"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/FWQxuSbLU2",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1664797563764228096",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1638932747000,
+            "updated_at": 1739589303682
+        }
+    }
 }

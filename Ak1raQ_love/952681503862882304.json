@@ -5,14 +5,51 @@
     "description": "MTF/大龄/🏳️‍⚧️ 又HRT 2024.04.11/欢迎互fo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1410794049397661697/M6Tg3wk1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/952681503862882304/1723424067",
-    "followers_count": 1440,
-    "statuses_count": 1822,
-    "favourites_count": 2503,
-    "listed_count": 2,
+    "followers_count": 2373,
+    "statuses_count": 2452,
+    "favourites_count": 3254,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2018-01-15 07:19:05 +08:00",
-    "url": "https://twitter.com/Miapanpanpan"
+    "url": "https://twitter.com/Miapanpanpan",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5NTI2ODE1MDM4NjI4ODIzMDQ=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 478,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 106,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1515971945000,
+            "updated_at": 1739589280337
+        }
+    }
 }

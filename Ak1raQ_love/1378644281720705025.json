@@ -1,18 +1,60 @@
 {
-  "id": "1378644281720705025",
-  "screen_name": "fDJ2qb36fEh5Azs",
-  "name": "88438843",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1654923078898679809/aBljM-is_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 148,
-  "statuses_count": 123,
-  "favourites_count": 3316,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2021-04-04 17:43:15 +08:00",
-  "url": "https://twitter.com/fDJ2qb36fEh5Azs"
+    "id": "1378644281720705025",
+    "screen_name": "fDJ2qb36fEh5Azs",
+    "name": "88438843",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1654923078898679809/aBljM-is_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 148,
+    "statuses_count": 123,
+    "favourites_count": 3557,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-04-04 17:43:15 +08:00",
+    "url": "https://twitter.com/fDJ2qb36fEh5Azs",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzc4NjQ0MjgxNzIwNzA1MDI1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3468,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 3,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1654923163229364224",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1617529395000,
+            "updated_at": 1739589229033
+        }
+    }
 }

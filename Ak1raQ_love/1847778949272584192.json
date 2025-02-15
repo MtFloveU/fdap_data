@@ -5,14 +5,99 @@
     "description": "觉得梗图有意思的话可以给我的YouTube 频道点个订阅求求你了https://t.co/sbQiOktQdW｜电报群https://t.co/hO6v9As72R｜💯回关",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873060612315455488/mf2pvdmw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847778949272584192/1729391196",
-    "followers_count": 9308,
-    "statuses_count": 2972,
-    "favourites_count": 2755,
+    "followers_count": 9299,
+    "statuses_count": 2993,
+    "favourites_count": 2853,
     "listed_count": 13,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-10-20 07:17:00 +08:00",
-    "url": "https://twitter.com/jingsheng237248"
+    "url": "https://twitter.com/jingsheng237248",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQ3Nzc4OTQ5MjcyNTg0MTky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/@naofujiang?si…",
+                            "expanded_url": "https://youtube.com/@naofujiang?si=PB1KJBBda1TvehWg",
+                            "url": "https://t.co/sbQiOktQdW",
+                            "indices": [
+                                32,
+                                55
+                            ]
+                        },
+                        {
+                            "display_url": "t.me/+-r03gqqFd_9jN…",
+                            "expanded_url": "https://t.me/+-r03gqqFd_9jNmIx",
+                            "url": "https://t.co/hO6v9As72R",
+                            "indices": [
+                                59,
+                                82
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/xiaona…",
+                            "expanded_url": "https://bsky.app/profile/xiaonaofujiang.bsky.social",
+                            "url": "https://t.co/t48ryN9R9j",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 9084,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "小号@xiaobenzhu211",
+            "media_count": 586,
+            "pinned_tweet_ids_str": [
+                "1875765496647446584"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/t48ryN9R9j",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1872949729081901268",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 132,
+                    "name": "Commercial & Industrial",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1729379820000,
+            "updated_at": 1739589267790
+        }
+    }
 }

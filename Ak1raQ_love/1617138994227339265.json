@@ -5,14 +5,88 @@
     "description": "she/her | trans girl | asexual🖤🩶🤍💜 | HRT 23.12.11\nTelegram: https://t.co/7onq2D9SHv",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1729445425055248384/2sTIZPo0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617138994227339265/1709952745",
-    "followers_count": 928,
-    "statuses_count": 3061,
-    "favourites_count": 6206,
+    "followers_count": 959,
+    "statuses_count": 3092,
+    "favourites_count": 6260,
     "listed_count": 3,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2023-01-22 20:36:17 +08:00",
-    "url": "https://twitter.com/cathy213924"
+    "url": "https://twitter.com/cathy213924",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjE3MTM4OTk0MjI3MzM5MjY1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/cathy213924",
+                            "expanded_url": "http://t.me/cathy213924",
+                            "url": "https://t.co/7onq2D9SHv",
+                            "indices": [
+                                60,
+                                83
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linktr.ee/cathy213924",
+                            "expanded_url": "https://linktr.ee/cathy213924",
+                            "url": "https://t.co/0HrD0nLTu5",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 801,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "No.600 Wanping Rd (S)",
+            "media_count": 651,
+            "pinned_tweet_ids_str": [
+                "1820800626856509794"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/0HrD0nLTu5",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1772575611586048464",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 688,
+                    "name": "Non-Governmental & Nonprofit Organization ",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1674390977000,
+            "updated_at": 1739589294390
+        }
+    }
 }

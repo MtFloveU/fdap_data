@@ -5,14 +5,64 @@
     "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1724776088",
-    "followers_count": 1017,
-    "statuses_count": 5238,
-    "favourites_count": 6320,
+    "followers_count": 1030,
+    "statuses_count": 5616,
+    "favourites_count": 6619,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-11-26 15:31:03 +08:00",
-    "url": "https://twitter.com/0502railgun1949"
+    "url": "https://twitter.com/0502railgun1949",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTk2NDA1NzkyMzE1NjkxMDA4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 748,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "深圳市龍華区少年科學院(报刊亭)",
+            "media_count": 906,
+            "pinned_tweet_ids_str": [
+                "1867555700534325353"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1734948361588158922",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 144,
+                    "name": "Education",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1669447863000,
+            "updated_at": 1739589298729
+        }
+    }
 }

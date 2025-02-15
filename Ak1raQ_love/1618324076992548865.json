@@ -1,18 +1,83 @@
 {
-  "id": "1618324076992548865",
-  "screen_name": "Rosmontis233",
-  "name": "Rosmontic",
-  "description": "人｜大一｜🍥｜PGP：3CFE FAB3 CAC1 CC73 5D67 DF41 BFFB 7708 8E66 43DC｜https://t.co/I60tmXcy7z",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1774469833595441152/f17Mh5DY_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618324076992548865/1680607859",
-  "followers_count": 1473,
-  "statuses_count": 5876,
-  "favourites_count": 7021,
-  "listed_count": 4,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-01-26 03:05:09 +08:00",
-  "url": "https://twitter.com/Rosmontis233"
+    "id": "1618324076992548865",
+    "screen_name": "Rosmontis233",
+    "name": "Rosmontic",
+    "description": "人｜大一｜🍥｜PGP：3CFE FAB3 CAC1 CC73 5D67 DF41 BFFB 7708 8E66 43DC｜https://t.co/I60tmXcy7z",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1774469833595441152/f17Mh5DY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618324076992548865/1680607859",
+    "followers_count": 1580,
+    "statuses_count": 6169,
+    "favourites_count": 7357,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-01-26 03:05:09 +08:00",
+    "url": "https://twitter.com/Rosmontis233",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjE4MzI0MDc2OTkyNTQ4ODY1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/Rosmontis233",
+                            "expanded_url": "http://t.me/Rosmontis233",
+                            "url": "https://t.co/I60tmXcy7z",
+                            "indices": [
+                                61,
+                                84
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "example.com",
+                            "expanded_url": "http://example.com",
+                            "url": "https://t.co/jyk4w3TKRn",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 473,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "尤拉 IX - 统一合作关系部 办公署",
+            "media_count": 605,
+            "pinned_tweet_ids_str": [
+                "1682926645836148736"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/jyk4w3TKRn",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1674673509000,
+            "updated_at": 1739589301192
+        }
+    }
 }

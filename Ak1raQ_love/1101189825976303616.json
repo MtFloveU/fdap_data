@@ -2,17 +2,66 @@
     "id": "1101189825976303616",
     "screen_name": "Ym4Fourth",
     "name": "糖心雨梦🍥",
-    "description": "回忆相册/小号:@JiuQi23可能成年了？/身高166/体重57+-1无证含糖一年/HRT24年1.27 4.12已经离家出走/超级社恐/内向~/生日7月23/门槛 128没过门不闲聊/全国可飞/生理性别男生~超级自卑...没有人喜欢我... https://t.co/2A5DdsB3m2",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1867822660861980672/KSh7S1JI_normal.jpg",
+    "description": "回忆相册/小号:@JiuQi23可能成年了？/身高166/体重57+-1有B+了无证含糖一年/HRT24年1.27 4.12已经离家出走/超级社恐/内向~/生日7月23/门槛 128没过门不闲聊/全国可飞/生理性别男生~超级自卑...没有人喜欢我... https://t.co/2A5DdsB3m2",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1889605532861997056/7qFE9W7O_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1101189825976303616/1730959540",
-    "followers_count": 2034,
-    "statuses_count": 177,
-    "favourites_count": 356,
-    "listed_count": 3,
+    "followers_count": 3451,
+    "statuses_count": 236,
+    "favourites_count": 478,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2019-03-01 02:38:08 +08:00",
-    "url": "https://twitter.com/Ym4Fourth"
+    "url": "https://twitter.com/Ym4Fourth",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTAxMTg5ODI1OTc2MzAzNjE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/tangxinyumeng",
+                            "expanded_url": "https://ngl.link/tangxinyumeng",
+                            "url": "https://t.co/2A5DdsB3m2",
+                            "indices": [
+                                127,
+                                150
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 122,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距离你1km",
+            "media_count": 72,
+            "pinned_tweet_ids_str": [
+                "1885771794852053088"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1551379088000,
+            "updated_at": 1739589270270
+        }
+    }
 }

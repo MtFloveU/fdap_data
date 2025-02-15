@@ -5,14 +5,53 @@
     "description": "高三啦!(悲)male。CS2，PUBGM。人在河北，性格还好，欢迎聊天chat，想和你熟识。\n别聊天突然失踪就好(恼)\n学习java,sql,linux中........\nx酱似乎也可以称呼？？起个名字吧。。石雨深怎么样！？",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1738584319915094016/kzRPn69E_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340318604852559874/1687272195",
-    "followers_count": 68,
-    "statuses_count": 738,
-    "favourites_count": 1777,
+    "followers_count": 85,
+    "statuses_count": 832,
+    "favourites_count": 1972,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2020-12-19 23:30:47 +08:00",
-    "url": "https://twitter.com/x0710_x0710"
+    "url": "https://twitter.com/x0710_x0710",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzQwMzE4NjA0ODUyNTU5ODc0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 100,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "河北, 中华人民共和国",
+            "media_count": 107,
+            "pinned_tweet_ids_str": [
+                "1771555125632327871"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1608391847000,
+            "updated_at": 1739589282809
+        }
+    }
 }

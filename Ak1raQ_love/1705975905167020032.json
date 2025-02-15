@@ -5,14 +5,67 @@
     "description": "无证含糖 / mtf / xyn / 家暴党 / 天赋（残缺）党 / 重抑重焦 / 废物Web全栈开发者（PHP / JS / CPP） / 2007 / Hrt: 2023.09.30 / 身高: 165cm / 体重: 53kg / 同类互fo /  QQ：10216894 / 有对象了 请勿打扰",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1765788388672909312/rYWG7OZ0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705975905167020032/1709831732",
-    "followers_count": 1787,
-    "statuses_count": 783,
+    "followers_count": 1807,
+    "statuses_count": 804,
     "favourites_count": 733,
-    "listed_count": 2,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-09-25 00:02:16 +08:00",
-    "url": "https://twitter.com/EmoooXYN"
+    "url": "https://twitter.com/EmoooXYN",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzA1OTc1OTA1MTY3MDIwMDMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "emooo.net",
+                            "expanded_url": "https://emooo.net",
+                            "url": "https://t.co/yqcZ9ZzC1i",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1778,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 47,
+            "pinned_tweet_ids_str": [
+                "1861621863958618264"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/yqcZ9ZzC1i",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1695571336000,
+            "updated_at": 1739589267789
+        }
+    }
 }

@@ -5,14 +5,70 @@
     "description": "Upcoming mentally trans artist. banner by: me! pronouns: she/her.\nShare the love!🏳️‍⚧️🏳️‍🌈❤️ | 18 | supportive |\nPriv: @FilterVenting",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1858260813766627328/L1BPqfmL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452252872503140354/1724041967",
-    "followers_count": 1347,
-    "statuses_count": 13025,
-    "favourites_count": 32995,
+    "followers_count": 1365,
+    "statuses_count": 13048,
+    "favourites_count": 33083,
     "listed_count": 25,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
-    "created_at": "2021-10-24 12:39:03 +00:00",
-    "url": "https://twitter.com/gamingf1lter"
+    "created_at": "2021-10-24 20:39:03 +08:00",
+    "url": "https://twitter.com/gamingf1lter",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDUyMjUyODcyNTAzMTQwMzU0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "deviantart.com/gamingfilter",
+                            "expanded_url": "https://www.deviantart.com/gamingfilter",
+                            "url": "https://t.co/6sJxqx6uFm",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 327,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Netherlands",
+            "media_count": 1063,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/6sJxqx6uFm",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1631954685815865347",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1635079143000,
+            "updated_at": 1739589262851
+        }
+    }
 }

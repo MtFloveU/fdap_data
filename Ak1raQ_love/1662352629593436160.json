@@ -1,18 +1,55 @@
 {
-  "id": "1662352629593436160",
-  "screen_name": "awedwadad",
-  "name": "天風G八",
-  "description": "",
-  "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-  "profile_banner_url": null,
-  "followers_count": 34,
-  "statuses_count": 3,
-  "favourites_count": 13,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-05-27 14:59:00 +08:00",
-  "url": "https://twitter.com/awedwadad"
+    "id": "1662352629593436160",
+    "screen_name": "awedwadad",
+    "name": "天風G八",
+    "description": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_banner_url": null,
+    "followers_count": 36,
+    "statuses_count": 6,
+    "favourites_count": 20,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-05-27 14:59:00 +08:00",
+    "url": "https://twitter.com/awedwadad",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjYyMzUyNjI5NTkzNDM2MTYw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1825,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1685170740000,
+            "updated_at": 1739589223480
+        }
+    }
 }

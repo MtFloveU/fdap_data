@@ -1,18 +1,56 @@
 {
-  "id": "1453652396198883329",
-  "screen_name": "ooooops80528242",
-  "name": "ooooops",
-  "description": "mtx/ anti-communism/ lgbtq+ rights/ liberl",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1557991626018103300/UFHiT36H_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1453652396198883329/1714044685",
-  "followers_count": 34,
-  "statuses_count": 136,
-  "favourites_count": 4121,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2021-10-28 17:20:11 +08:00",
-  "url": "https://twitter.com/ooooops80528242"
+    "id": "1453652396198883329",
+    "screen_name": "ooooops80528242",
+    "name": "ooooops",
+    "description": "mtx/ anti-communism/ lgbtq+ rights/ liberl",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1557991626018103300/UFHiT36H_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1453652396198883329/1714044685",
+    "followers_count": 39,
+    "statuses_count": 137,
+    "favourites_count": 4278,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-10-28 17:20:11 +08:00",
+    "url": "https://twitter.com/ooooops80528242",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDUzNjUyMzk2MTk4ODgzMzI5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3165,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1635412811000,
+            "updated_at": 1739589214059
+        }
+    }
 }

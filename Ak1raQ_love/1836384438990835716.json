@@ -1,18 +1,55 @@
 {
-  "id": "1836384438990835716",
-  "screen_name": "lngtnh373312",
-  "name": "龙潭湖",
-  "description": "我深爱着愿意与我结缘的所有人",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1836392965486579716/VIp3tfiE_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836384438990835716/1726665229",
-  "followers_count": 7,
-  "statuses_count": 226,
-  "favourites_count": 128,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-09-18 20:39:12 +08:00",
-  "url": "https://twitter.com/lngtnh373312"
+    "id": "1836384438990835716",
+    "screen_name": "lngtnh373312",
+    "name": "龙潭湖",
+    "description": "我深爱着愿意与我结缘的所有人",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1836392965486579716/VIp3tfiE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836384438990835716/1726665229",
+    "followers_count": 8,
+    "statuses_count": 226,
+    "favourites_count": 125,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-09-18 20:39:12 +08:00",
+    "url": "https://twitter.com/lngtnh373312",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM2Mzg0NDM4OTkwODM1NzE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 73,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "济南",
+            "media_count": 37,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1726663152000,
+            "updated_at": 1739589205528
+        }
+    }
 }

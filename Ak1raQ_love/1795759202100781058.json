@@ -1,18 +1,58 @@
 {
-  "id": "1795759202100781058",
-  "screen_name": "freehaqimi",
-  "name": "自由哈基米归来，看略猫蛆土崩瓦解，反应力提升七倍之日已经到来",
-  "description": "豺狼来了有猎枪，朋友来了有好果汁。",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1798041831521046528/DIReLOpp_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795759202100781058/1719357550",
-  "followers_count": 478,
-  "statuses_count": 1036,
-  "favourites_count": 6909,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-05-29 18:09:18 +08:00",
-  "url": "https://twitter.com/freehaqimi"
+    "id": "1795759202100781058",
+    "screen_name": "freehaqimi",
+    "name": "自由哈基米归来，看略猫蛆土崩瓦解，反应力提升七倍之日已经到来",
+    "description": "豺狼来了有猎枪，朋友来了有好果汁。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1798041831521046528/DIReLOpp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795759202100781058/1719357550",
+    "followers_count": 462,
+    "statuses_count": 1035,
+    "favourites_count": 6885,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-05-29 18:09:18 +08:00",
+    "url": "https://twitter.com/freehaqimi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk1NzU5MjAyMTAwNzgxMDU4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1558,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 131,
+            "pinned_tweet_ids_str": [
+                "1799609960034410566"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1716977358000,
+            "updated_at": 1739589231895
+        }
+    }
 }

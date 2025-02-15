@@ -5,14 +5,74 @@
     "description": "09年的友跨🏳️‍⚧️|尝试过但断糖了|因学业淡推中 | 最可爱的猫猫@eve_city\n|小号@XJmiao233|q群598187214",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1765613215147601920/o0n2nfMe_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662567099204784128/1685221957",
-    "followers_count": 1266,
-    "statuses_count": 870,
-    "favourites_count": 2642,
+    "followers_count": 1274,
+    "statuses_count": 824,
+    "favourites_count": 2700,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-05-28 05:11:17 +08:00",
-    "url": "https://twitter.com/Jin_Ge233"
+    "url": "https://twitter.com/Jin_Ge233",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjYyNTY3MDk5MjA0Nzg0MTI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "xjmiao.top",
+                            "expanded_url": "http://xjmiao.top",
+                            "url": "https://t.co/tQWI15mt4Q",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1013,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Sky",
+            "media_count": 181,
+            "pinned_tweet_ids_str": [
+                "1826644321971716242"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/tQWI15mt4Q",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1826651499331813471",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1685221877000,
+            "updated_at": 1739589296476
+        }
+    }
 }

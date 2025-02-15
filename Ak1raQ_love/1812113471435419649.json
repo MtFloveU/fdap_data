@@ -1,18 +1,71 @@
 {
-  "id": "1812113471435419649",
-  "screen_name": "pangbaijun123",
-  "name": "旁白君",
-  "description": "｜头像@hozonsui｜无性恋,大证mtf🏳️‍⚧️,友LGBTQ+🏳️‍🌈,家长党,自切党✂️,intp-t｜穿衣盐系,喜欢☕🥪🎧️📔｜目前正规hrt中🍥｜❌键政od割手黄推❌,但不反对｜想当健全人🌞,有时会发疯⚠️,如有不适还请取关,以免浪费你的心情和时间...",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1818272190141526016/GSdCfKlX_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812113471435419649/1720885399",
-  "followers_count": 264,
-  "statuses_count": 728,
-  "favourites_count": 1880,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-07-13 21:15:12 +08:00",
-  "url": "https://twitter.com/pangbaijun123"
+    "id": "1812113471435419649",
+    "screen_name": "pangbaijun123",
+    "name": "旁白君",
+    "description": "｜头像@hozonsui｜无性恋,大证mtf🏳️‍⚧️,友LGBTQ+🏳️‍🌈,家长党,自切党✂️,intp-t｜穿衣盐系,喜欢☕🥪🎧️📔｜目前正规hrt中🍥｜❌键政od割手黄推❌,但不反对｜想当健全人🌞,有时会发疯⚠️,如有不适还请取关,以免浪费你的心情和时间...",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1818272190141526016/GSdCfKlX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812113471435419649/1720885399",
+    "followers_count": 255,
+    "statuses_count": 748,
+    "favourites_count": 1839,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-07-13 21:15:12 +08:00",
+    "url": "https://twitter.com/pangbaijun123",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODEyMTEzNDcxNDM1NDE5NjQ5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "mtf.wiki",
+                            "expanded_url": "http://mtf.wiki",
+                            "url": "https://t.co/uxBNVhPGt9",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 433,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "🌐",
+            "media_count": 113,
+            "pinned_tweet_ids_str": [
+                "1821276090318647741"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/uxBNVhPGt9",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1720876512000,
+            "updated_at": 1739589292073
+        }
+    }
 }

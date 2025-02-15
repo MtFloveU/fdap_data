@@ -5,14 +5,86 @@
     "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 2739,
-    "statuses_count": 191,
-    "favourites_count": 3,
-    "listed_count": 4,
+    "followers_count": 3084,
+    "statuses_count": 198,
+    "favourites_count": 9,
+    "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": null,
     "created_at": "2022-10-26 13:44:48 +08:00",
-    "url": "https://twitter.com/lianyiganyu"
+    "url": "https://twitter.com/lianyiganyu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTg1MTQ1Mjg2NTk4NDgzOTY4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/lianyiganyu",
+                            "expanded_url": "http://t.me/lianyiganyu",
+                            "url": "https://t.co/qgwRSeN56m",
+                            "indices": [
+                                99,
+                                122
+                            ]
+                        },
+                        {
+                            "display_url": "t.me/lianyixiaozu",
+                            "expanded_url": "https://t.me/lianyixiaozu",
+                            "url": "https://t.co/BKQPZ0tsSi",
+                            "indices": [
+                                135,
+                                158
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                            "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                            "url": "https://t.co/zkUVQf7Yqi",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "武汉",
+            "media_count": 27,
+            "pinned_tweet_ids_str": [
+                "1883892557207470495"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/zkUVQf7Yqi",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1666763088000,
+            "updated_at": 1739589301193
+        }
+    }
 }

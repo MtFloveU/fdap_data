@@ -5,14 +5,97 @@
     "description": "07年的女孩子，家暴党，（hrt：2023.6.24）目前断糖中，姐姐@Fancy_Starry，闺蜜@eureka222323，@plantie_uwu，@bghtnya，妹妹@sorasukiovo，经常emo…",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1695389239528353792/rhleJFI8_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457925329939361797/1693047279",
-    "followers_count": 3518,
-    "statuses_count": 13514,
-    "favourites_count": 22751,
+    "followers_count": 3656,
+    "statuses_count": 14274,
+    "favourites_count": 24435,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
     "created_at": "2021-11-09 12:17:53 +08:00",
-    "url": "https://twitter.com/sutanghentian"
+    "url": "https://twitter.com/sutanghentian",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDU3OTI1MzI5OTM5MzYxNzk3",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @sutangtiantian",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 28,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "sutangtiantian",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "sutangtiantian"
+                                        },
+                                        "rest_id": "1459715520140242947"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/sutangtiantian",
+                            "expanded_url": "https://t.me/sutangtiantian",
+                            "url": "https://t.co/kPZmayouXK",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1604,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "垃圾桶",
+            "media_count": 439,
+            "pinned_tweet_ids_str": [
+                "1823031404789481494"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/kPZmayouXK",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1636431473000,
+            "updated_at": 1739589292073
+        }
+    }
 }

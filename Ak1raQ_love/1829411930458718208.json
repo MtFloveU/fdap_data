@@ -1,18 +1,69 @@
 {
     "id": "1829411930458718208",
     "screen_name": "XlIOIlXllOIIlV",
-    "name": "夏希",
+    "name": "夏希♡✕🏳️‍⚧️",
     "description": "@59ryq说，我是女孩子，于是我大哭。\n99年生。工作，马上被辞退\n。财务状况，崩坏。\n\n本人性别跨女，含糖，做过医美，在努力留头发，\n（已脱单以下请无视：\n取向男。接受我的跨性别问题，粘人",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887875533582880768/DdikKc-b_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829411930458718208/1739092509",
-    "followers_count": 102,
-    "statuses_count": 1072,
-    "favourites_count": 3076,
+    "followers_count": 101,
+    "statuses_count": 1094,
+    "favourites_count": 3159,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-08-30 06:55:21 +00:00",
-    "url": "https://twitter.com/XlIOIlXllOIIlV"
+    "created_at": "2024-08-30 14:55:21 +08:00",
+    "url": "https://twitter.com/XlIOIlXllOIIlV",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI5NDExOTMwNDU4NzE4MjA4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "x.com/59ryq",
+                            "expanded_url": "https://x.com/59ryq",
+                            "url": "https://t.co/8txpJqcBAa",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 552,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "架阁司",
+            "media_count": 176,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/8txpJqcBAa",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1725000921000,
+            "updated_at": 1739589262852
+        }
+    }
 }

@@ -4,15 +4,68 @@
     "name": "Topia Urbica",
     "description": "人間になりたいですわ！|没有什么存在意义的小号：\n@Evtiata",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879511778415329280/zJy_JuTU_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616512241947521030/1730217926",
-    "followers_count": 378,
-    "statuses_count": 4736,
-    "favourites_count": 35511,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616512241947521030/1739334855",
+    "followers_count": 393,
+    "statuses_count": 5021,
+    "favourites_count": 39269,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-01-21 03:05:38 +08:00",
-    "url": "https://twitter.com/Topia_Urbica"
+    "url": "https://twitter.com/Topia_Urbica",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjE2NTEyMjQxOTQ3NTIxMDMw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/topia_milia",
+                            "expanded_url": "https://ngl.link/topia_milia",
+                            "url": "https://t.co/zaKJEhCfbI",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 643,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "IP属地：远东共和国",
+            "media_count": 1157,
+            "pinned_tweet_ids_str": [
+                "1889523296624054533"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/zaKJEhCfbI",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1674241538000,
+            "updated_at": 1739589257611
+        }
+    }
 }

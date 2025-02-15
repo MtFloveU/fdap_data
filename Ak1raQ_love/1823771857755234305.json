@@ -5,14 +5,86 @@
     "description": "|⏰别急，能不能冷静一点呢|六四天安門事件|ISFP|支持文化多元🏳️‍🌈也是一个猫娘喵～|点赞机器人|”中立“乐子人|想ban随意|我ban你是因为你发的有些东西我看不下去不是因为你这个人的问题|单取fo的死全家呢|关注个人资料不完全代表我的成分|欢迎私聊和fo~|",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889250503437242368/rXkTEtBd_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823771857755234305/1739188190",
-    "followers_count": 220,
+    "followers_count": 219,
     "statuses_count": 32,
-    "favourites_count": 2082,
+    "favourites_count": 2124,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-08-14 17:22:28 +00:00",
-    "url": "https://twitter.com/azusayuri_1984"
+    "created_at": "2024-08-15 01:22:28 +08:00",
+    "url": "https://twitter.com/azusayuri_1984",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODIzNzcxODU3NzU1MjM0MzA1",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Mionyx8964",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 24,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Mionyx8964",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Mionyx8964"
+                                        },
+                                        "rest_id": "1886833813936070663"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 558,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "IP属地：大日本帝国|GPS定位：中南海",
+            "media_count": 2,
+            "pinned_tweet_ids_str": [
+                "1884392498875048151"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1723656148000,
+            "updated_at": 1739589262852
+        }
+    }
 }

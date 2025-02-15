@@ -1,18 +1,55 @@
 {
-  "id": "1757338478046744576",
-  "screen_name": "flight69660",
-  "name": "Squyres Flight",
-  "description": "I wish you who meet me a happier future.\n\nI hope everyone can survive the turmoil and move toward the future together as human beings.",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1843575339471253508/WTOHaSLo_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 18,
-  "statuses_count": 80,
-  "favourites_count": 20,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-02-13 17:39:08 +08:00",
-  "url": "https://twitter.com/flight69660"
+    "id": "1757338478046744576",
+    "screen_name": "flight69660",
+    "name": "Squyres Flight",
+    "description": "I wish you who meet me a happier future.\n\nI hope everyone can survive the turmoil and move toward the future together as human beings.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1843575339471253508/WTOHaSLo_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 17,
+    "statuses_count": 83,
+    "favourites_count": 21,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-02-13 17:39:08 +08:00",
+    "url": "https://twitter.com/flight69660",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU3MzM4NDc4MDQ2NzQ0NTc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 224,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "United States",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1707817148000,
+            "updated_at": 1739589198295
+        }
+    }
 }

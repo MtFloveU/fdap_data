@@ -3,16 +3,69 @@
     "screen_name": "Hai_Hayn",
     "name": "IRUHAumi",
     "description": "后来心脏跳入大海｜坏姐姐@mtfguimeng｜🚪5.2好友位",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1881226637733494784/x78nniNS_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831984756432760832/1733915830",
-    "followers_count": 63,
-    "statuses_count": 256,
-    "favourites_count": 4071,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1887499651341017088/enHnM_K9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831984756432760832/1738849970",
+    "followers_count": 65,
+    "statuses_count": 281,
+    "favourites_count": 4149,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-09-06 17:16:26 +08:00",
-    "url": "https://twitter.com/Hai_Hayn"
+    "url": "https://twitter.com/Hai_Hayn",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODMxOTg0NzU2NDMyNzYwODMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/%E6%B5%B7yudac…",
+                            "expanded_url": "https://ngl.link/%E6%B5%B7yudachi",
+                            "url": "https://t.co/LP2yZYtEZp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 34,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "✨Never Land✨",
+            "media_count": 21,
+            "pinned_tweet_ids_str": [
+                "1889157545014525952"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/LP2yZYtEZp",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1725614186000,
+            "updated_at": 1739589177245
+        }
+    }
 }

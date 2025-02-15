@@ -5,14 +5,69 @@
     "description": "2010｜♂｜14（是年龄别乱想｜ENTJ｜泛性恋｜炒鸡友好🥰｜偶尔政治｜进步保守主义｜Chinese｜English｜吉他🎸学习ing｜喜欢音乐🎶｜眼熟欢迎扩列呀😘｜想要很多很多的爱，不想要唉了😔\n总有一天，整个中推圈都会记住柠檬宝宝！！",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890121895678251008/rMQVGxTi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835216044216270850/1735137431",
-    "followers_count": 4238,
-    "statuses_count": 1220,
-    "favourites_count": 13325,
+    "followers_count": 4237,
+    "statuses_count": 1233,
+    "favourites_count": 13452,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-09-15 07:16:37 +00:00",
-    "url": "https://twitter.com/SHANGZISHUOnmbb"
+    "created_at": "2024-09-15 15:16:37 +08:00",
+    "url": "https://twitter.com/SHANGZISHUOnmbb",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM1MjE2MDQ0MjE2MjcwODUw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "请陪我.com",
+                            "expanded_url": "http://xn--wnup64gktg.com",
+                            "url": "https://t.co/YmNURzFXdW",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3594,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "青岛",
+            "media_count": 209,
+            "pinned_tweet_ids_str": [
+                "1874540972954259792"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/YmNURzFXdW",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1726384597000,
+            "updated_at": 1739589192754
+        }
+    }
 }

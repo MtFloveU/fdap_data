@@ -5,14 +5,67 @@
     "description": "苦労して生きている一つの生命体 | MTX | 可愛い猫",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877768034968109057/ZqxjZp18_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/884607299658014721/1704446272",
-    "followers_count": 673,
-    "statuses_count": 905,
-    "favourites_count": 1456,
-    "listed_count": 0,
+    "followers_count": 674,
+    "statuses_count": 904,
+    "favourites_count": 1447,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2017-07-11 10:56:30 +08:00",
-    "url": "https://twitter.com/s_neko21"
+    "url": "https://twitter.com/s_neko21",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo4ODQ2MDcyOTk2NTgwMTQ3MjE=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/neko_brodcast",
+                            "expanded_url": "https://t.me/neko_brodcast",
+                            "url": "https://t.co/SpXB4AdAnu",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 374,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 293,
+            "pinned_tweet_ids_str": [
+                "1861131326516273395"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/SpXB4AdAnu",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1499741790000,
+            "updated_at": 1739589301193
+        }
+    }
 }

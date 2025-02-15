@@ -1,18 +1,68 @@
 {
-  "id": "1504676358475157504",
-  "screen_name": "8964TortoiseBlk",
-  "name": "玄武🍥（防盗码8964天安门）",
-  "description": "你认为我是什么就是什么\nbluesky@8964tortoiseblk.bsky.social\nIG@BlackTortoise23",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1830619515106758656/CL_2bqJl_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 8233,
-  "statuses_count": 55321,
-  "favourites_count": 217420,
-  "listed_count": 19,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2022-03-18 12:29:38 +08:00",
-  "url": "https://twitter.com/8964TortoiseBlk"
+    "id": "1504676358475157504",
+    "screen_name": "8964TortoiseBlk",
+    "name": "玄武🍥（防盗码8964天安门）",
+    "description": "你认为我是什么就是什么\nbluesky@8964tortoiseblk.bsky.social\nIG@BlackTortoise23",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1830619515106758656/CL_2bqJl_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 8611,
+    "statuses_count": 57508,
+    "favourites_count": 227600,
+    "listed_count": 21,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2022-03-18 12:29:38 +08:00",
+    "url": "https://twitter.com/8964TortoiseBlk",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTA0Njc2MzU4NDc1MTU3NTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 375,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "育空我的育空😭😭😭",
+            "media_count": 2593,
+            "pinned_tweet_ids_str": [
+                "1830623519102906386"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1506204004455436288",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 584,
+                    "name": "Medical & Health",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1647577778000,
+            "updated_at": 1739589301193
+        }
+    }
 }

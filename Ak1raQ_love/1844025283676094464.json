@@ -5,14 +5,69 @@
     "description": "关注枫糖喵，关注枫糖谢谢喵........一只博学的男娘，为您分享更多的文史社科知识。为防止失联，请关注同名YouTube频道。下附链接：",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1869197200443805696/LKOOi2LF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844025283676094464/1733725951",
-    "followers_count": 6707,
-    "statuses_count": 7451,
-    "favourites_count": 3035,
-    "listed_count": 28,
+    "followers_count": 7174,
+    "statuses_count": 9207,
+    "favourites_count": 3977,
+    "listed_count": 26,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2024-10-09 22:41:12 +08:00",
-    "url": "https://twitter.com/Konekoutena"
+    "url": "https://twitter.com/Konekoutena",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQ0MDI1MjgzNjc2MDk0NDY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/@konekoutena?s…",
+                            "expanded_url": "https://youtube.com/@konekoutena?si=Eu9nTBFT2tTC6T4C",
+                            "url": "https://t.co/YwVMVLgU2j",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1293,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Aoba-ku, Miyagi",
+            "media_count": 3297,
+            "pinned_tweet_ids_str": [
+                "1883663853734760915"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/YwVMVLgU2j",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1728484872000,
+            "updated_at": 1739589267789
+        }
+    }
 }

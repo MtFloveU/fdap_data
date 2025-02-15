@@ -1,18 +1,56 @@
 {
-  "id": "975722965235978242",
-  "screen_name": "LCiella",
-  "name": "(((φ(◎ロ◎;)φ)))kk",
-  "description": "JyutbuiJan\n\n上推特，只是为了瞧女装\n(日常点赞大量色情内容，不建议关注我）",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/975725547790598145/gb3RSZC3_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/975722965235978242/1521466112",
-  "followers_count": 123,
-  "statuses_count": 476,
-  "favourites_count": 5535,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2018-03-19 21:17:37 +08:00",
-  "url": "https://twitter.com/LCiella"
+    "id": "975722965235978242",
+    "screen_name": "LCiella",
+    "name": "(((φ(◎ロ◎;)φ)))kk",
+    "description": "JyutbuiJan\n\n上推特，只是为了瞧女装\n(日常点赞大量色情内容，不建议关注我）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/975725547790598145/gb3RSZC3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/975722965235978242/1521466112",
+    "followers_count": 127,
+    "statuses_count": 477,
+    "favourites_count": 5974,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2018-03-19 21:17:37 +08:00",
+    "url": "https://twitter.com/LCiella",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5NzU3MjI5NjUyMzU5NzgyNDI=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2152,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 113,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1521465457000,
+            "updated_at": 1739589229032
+        }
+    }
 }

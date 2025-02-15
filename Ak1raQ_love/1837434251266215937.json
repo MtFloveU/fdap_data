@@ -1,18 +1,57 @@
 {
-  "id": "1837434251266215937",
-  "screen_name": "u_nnn__",
-  "name": "inedible ???",
-  "description": "20↑ / LLM見習い",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1843699458212790272/4T5ohb-X_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 22,
-  "statuses_count": 304,
-  "favourites_count": 294,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-09-21 18:10:49 +08:00",
-  "url": "https://twitter.com/u_nnn__"
+    "id": "1837434251266215937",
+    "screen_name": "u_nnn__",
+    "name": "inedible ???",
+    "description": "20↑ / LLM見習い",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1843699458212790272/4T5ohb-X_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 22,
+    "statuses_count": 304,
+    "favourites_count": 287,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-09-21 18:10:49 +08:00",
+    "url": "https://twitter.com/u_nnn__",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM3NDM0MjUxMjY2MjE1OTM3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 24,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 28,
+            "pinned_tweet_ids_str": [
+                "1848654314736320848"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1726913449000,
+            "updated_at": 1739589275107
+        }
+    }
 }

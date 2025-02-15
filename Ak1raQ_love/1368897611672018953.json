@@ -1,18 +1,114 @@
 {
-  "id": "1368897611672018953",
-  "screen_name": "XUEQIUxka",
-  "name": "雪秋小可爱",
-  "description": "淡圈&淡推 ，准备24~25年SRS，目前在减肥，感谢大家一直以来的陪伴\n我永远爱的  @shi_yumiaoya\n老婆  @QianYue_XQ \n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1697871073",
-  "followers_count": 4557,
-  "statuses_count": 1579,
-  "favourites_count": 17284,
-  "listed_count": 18,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2021-03-08 20:13:29 +08:00",
-  "url": "https://twitter.com/XUEQIUxka"
+    "id": "1368897611672018953",
+    "screen_name": "XUEQIUxka",
+    "name": "雪秋小可爱",
+    "description": "淡圈&淡推 ，准备24~25年SRS，目前在减肥，感谢大家一直以来的陪伴\n我永远爱的  @shi_yumiaoya\n老婆  @QianYue_XQ \n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1697871073",
+    "followers_count": 4583,
+    "statuses_count": 1577,
+    "favourites_count": 17229,
+    "listed_count": 19,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-03-08 20:13:29 +08:00",
+    "url": "https://twitter.com/XUEQIUxka",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzY4ODk3NjExNjcyMDE4OTUz",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @QianYue_XQ",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 24,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "QianYue_XQ",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "QianYue_XQ"
+                                        },
+                                        "rest_id": "1382339434872463371"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "xueqiuxka.cn",
+                            "expanded_url": "http://xueqiuxka.cn",
+                            "url": "https://t.co/3Sp5cPFjKi",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1429,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "雪球&玥玥&鱼喵喵的小窝",
+            "media_count": 271,
+            "pinned_tweet_ids_str": [
+                "1794216825783566349"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/3Sp5cPFjKi",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1560612711415050241",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 991,
+                    "name": "Medical Technology Company",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1615205609000,
+            "updated_at": 1739589303682
+        }
+    }
 }

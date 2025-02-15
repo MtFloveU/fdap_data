@@ -5,14 +5,53 @@
     "description": "TLの絵を見て俺も描けるようになりたい！\n\nと思い立ったお絵かき0年生",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1843615200341348352/dnyGIae4_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 623,
-    "statuses_count": 14433,
-    "favourites_count": 129290,
-    "listed_count": 22,
+    "followers_count": 631,
+    "statuses_count": 15400,
+    "favourites_count": 133679,
+    "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2020-04-06 06:51:45 +08:00",
-    "url": "https://twitter.com/HSUDBDUDKS"
+    "url": "https://twitter.com/HSUDBDUDKS",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjQ2OTMzMjk3ODg5ODY1NzI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 5538,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 41,
+            "pinned_tweet_ids_str": [
+                "1434120352259457025"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1586127105000,
+            "updated_at": 1739589236483
+        }
+    }
 }

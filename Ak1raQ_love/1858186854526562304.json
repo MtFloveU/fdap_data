@@ -5,14 +5,51 @@
     "description": "07mtf，文案可能是假的但照片是真的",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872109760369307648/im2B7nOZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858186854526562304/1739373925",
-    "followers_count": 13753,
-    "statuses_count": 301,
-    "favourites_count": 1060,
+    "followers_count": 13929,
+    "statuses_count": 307,
+    "favourites_count": 1074,
     "listed_count": 37,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": null,
-    "created_at": "2024-11-17 16:34:14 +00:00",
-    "url": "https://twitter.com/meiyujijie"
+    "created_at": "2024-11-18 00:34:14 +08:00",
+    "url": "https://twitter.com/meiyujijie",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODU4MTg2ODU0NTI2NTYyMzA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 72,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 71,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1731861254000,
+            "updated_at": 1739589265461
+        }
+    }
 }

@@ -3,16 +3,69 @@
     "screen_name": "yohpk1k",
     "name": "朝鲜流浪诗人🇰🇵（LLM、SGD赢了，我输了😭）",
     "description": "Studied at Kim Il-sung University, deeply researching the immortal Juche ideology\nRespect our great leader Kim Jong-un",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1890066830506803200/KN6BPjlu_normal.png",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890438717460082690/WTujrJhK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591090689269387264/1730647534",
-    "followers_count": 1783,
-    "statuses_count": 3156,
-    "favourites_count": 72676,
+    "followers_count": 1781,
+    "statuses_count": 3163,
+    "favourites_count": 72738,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-11-11 15:29:33 +00:00",
-    "url": "https://twitter.com/yohpk1k"
+    "created_at": "2022-11-11 23:29:33 +08:00",
+    "url": "https://twitter.com/yohpk1k",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTkxMDkwNjg5MjY5Mzg3MjY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/yohp.b…",
+                            "expanded_url": "https://bsky.app/profile/yohp.bsky.social",
+                            "url": "https://t.co/qOnlob1fuA",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3799,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Pyongyang, North Korea",
+            "media_count": 228,
+            "pinned_tweet_ids_str": [
+                "1868915581757669386"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/qOnlob1fuA",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1668180573000,
+            "updated_at": 1739589257611
+        }
+    }
 }

@@ -1,18 +1,55 @@
 {
-  "id": "1809500399394779143",
-  "screen_name": "mary_mille38651",
-  "name": "玲纱",
-  "description": "中立不存在/欢迎互fo/🏳️‍🌈🏳️‍⚧️",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1809830120586465280/KYsG5jFX_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809500399394779143/1731147791",
-  "followers_count": 136,
-  "statuses_count": 194,
-  "favourites_count": 693,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-07-06 16:11:49 +08:00",
-  "url": "https://twitter.com/mary_mille38651"
+    "id": "1809500399394779143",
+    "screen_name": "mary_mille38651",
+    "name": "玲纱",
+    "description": "中立不存在/欢迎互fo/🏳️‍🌈🏳️‍⚧️",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1809830120586465280/KYsG5jFX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809500399394779143/1731147791",
+    "followers_count": 154,
+    "statuses_count": 216,
+    "favourites_count": 762,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-07-06 16:11:49 +08:00",
+    "url": "https://twitter.com/mary_mille38651",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODA5NTAwMzk5Mzk0Nzc5MTQz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 654,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "家",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1720253509000,
+            "updated_at": 1739589212649
+        }
+    }
 }

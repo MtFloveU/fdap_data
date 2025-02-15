@@ -1,18 +1,59 @@
 {
-  "id": "1473524390897729536",
-  "screen_name": "Nanami1806",
-  "name": "Nanami ChiaKi",
-  "description": "そして、親切な人は自分の信じるもののために立ち上がらなければならない！",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1740320543600193536/gslT_23b_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1473524390897729536/1703759726",
-  "followers_count": 1730,
-  "statuses_count": 3997,
-  "favourites_count": 11430,
-  "listed_count": 3,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2021-12-22 13:22:57 +08:00",
-  "url": "https://twitter.com/Nanami1806"
+    "id": "1473524390897729536",
+    "screen_name": "Nanami1806",
+    "name": "Nanami ChiaKi",
+    "description": "そして、親切な人は自分の信じるもののために立ち上がらなければならない！",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1740320543600193536/gslT_23b_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1473524390897729536/1703759726",
+    "followers_count": 1746,
+    "statuses_count": 4114,
+    "favourites_count": 11513,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-12-22 13:22:57 +08:00",
+    "url": "https://twitter.com/Nanami1806",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDczNTI0MzkwODk3NzI5NTM2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 5525,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "希望ヶ峰学園",
+            "media_count": 785,
+            "pinned_tweet_ids_str": [
+                "1804756400566092027"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1640150577000,
+            "updated_at": 1739589220929
+        }
+    }
 }

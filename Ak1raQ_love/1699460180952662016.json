@@ -5,14 +5,51 @@
     "description": "灰袍主教",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1760727730554064898/joVSB6JS_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 312,
-    "statuses_count": 9628,
-    "favourites_count": 13289,
+    "followers_count": 322,
+    "statuses_count": 10259,
+    "favourites_count": 14050,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-09-07 00:31:15 +08:00",
-    "url": "https://twitter.com/annie2183"
+    "url": "https://twitter.com/annie2183",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjk5NDYwMTgwOTUyNjYyMDE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2121,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 3,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1694017875000,
+            "updated_at": 1739589182252
+        }
+    }
 }

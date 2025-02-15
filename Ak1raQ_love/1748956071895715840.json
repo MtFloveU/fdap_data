@@ -6,7 +6,7 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884523012562817024/V3ghQhru_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748956071895715840/1738140709",
     "followers_count": 36,
-    "statuses_count": 38,
+    "statuses_count": 37,
     "favourites_count": 49,
     "listed_count": 0,
     "verified_type": null,
@@ -14,5 +14,55 @@
     "following": false,
     "followed_by": true,
     "created_at": "2024-01-21 14:30:06 +08:00",
-    "url": "https://twitter.com/DongfangJianhao"
+    "url": "https://twitter.com/DongfangJianhao",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQ4OTU2MDcxODk1NzE1ODQw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 521,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Taipei City, Taiwan",
+            "media_count": 8,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1820100324981461141",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1705818606000,
+            "updated_at": 1739589229032
+        }
+    }
 }

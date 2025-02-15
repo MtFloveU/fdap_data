@@ -1,18 +1,66 @@
 {
-  "id": "1696764467944837120",
-  "screen_name": "LiLoOAO",
-  "name": "漓落🏳️‍⚧️🍥",
-  "description": "05年的女孩子|无证含糖MTF|Hrt2023.1.29|重度精神分裂|社恐|喜欢玩game|意外的是INTP|电波系|无H内容",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1752199750391308288/eaoWDpZv_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1696764467944837120/1706595818",
-  "followers_count": 89,
-  "statuses_count": 188,
-  "favourites_count": 2215,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-08-30 13:59:18 +08:00",
-  "url": "https://twitter.com/LiLoOAO"
+    "id": "1696764467944837120",
+    "screen_name": "LiLoOAO",
+    "name": "漓落🏳️‍⚧️🍥",
+    "description": "05年的女孩子|无证含糖MTF|Hrt2023.1.29|重度精神分裂|社恐|喜欢玩game|意外的是INTP|电波系|无H内容",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1752199750391308288/eaoWDpZv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1696764467944837120/1706595818",
+    "followers_count": 88,
+    "statuses_count": 188,
+    "favourites_count": 2123,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-08-30 13:59:18 +08:00",
+    "url": "https://twitter.com/LiLoOAO",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjk2NzY0NDY3OTQ0ODM3MTIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 136,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 29,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1752584411303104976",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 688,
+                    "name": "Non-Governmental & Nonprofit Organization ",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1693375158000,
+            "updated_at": 1739589301192
+        }
+    }
 }

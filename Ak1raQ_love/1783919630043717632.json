@@ -14,5 +14,44 @@
     "following": true,
     "followed_by": true,
     "created_at": "2024-04-27 02:02:53 +08:00",
-    "url": "https://twitter.com/KFC5806"
+    "url": "https://twitter.com/KFC5806",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzgzOTE5NjMwMDQzNzE3NjMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 41,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [
+                "1824199047496048998"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1714154573000,
+            "updated_at": 1739589287485
+        }
+    }
 }

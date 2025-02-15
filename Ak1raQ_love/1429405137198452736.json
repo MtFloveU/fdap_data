@@ -2,17 +2,84 @@
     "id": "1429405137198452736",
     "screen_name": "Ruri_Mitsuki",
     "name": "鈴木桜雪さくらゆき",
-    "description": "You can't please everyone.🍥Hrt2024/2/10",
+    "description": "You can't please everyone. 🍥Hrt2024/2/10",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890206759958245377/zqpXQM1k_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429405137198452736/1739425626",
-    "followers_count": 7464,
-    "statuses_count": 19087,
-    "favourites_count": 123467,
+    "followers_count": 7467,
+    "statuses_count": 19092,
+    "favourites_count": 123474,
     "listed_count": 38,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2021-08-22 19:28:44 +08:00",
-    "url": "https://twitter.com/Ruri_Mitsuki"
+    "url": "https://twitter.com/Ruri_Mitsuki",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDI5NDA1MTM3MTk4NDUyNzM2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/Catisland_Inc",
+                            "expanded_url": "https://t.me/Catisland_Inc",
+                            "url": "https://t.co/HVN4UcawjA",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 841,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Catisland.lnc🏳️‍⚧️",
+            "media_count": 3238,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/HVN4UcawjA",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1806347460299866263",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "3KUg7xMkaq1QHKpRw8AE6rHj8peudLuwN4",
+            "ethereum_handle": "0x547b4a4936857d81f4e702d28b9e157cc0d6bb6b",
+            "patreon_handle": ""
+        },
+        "twe_private_fields": {
+            "created_at": 1629631724000,
+            "updated_at": 1739589275107
+        }
+    }
 }

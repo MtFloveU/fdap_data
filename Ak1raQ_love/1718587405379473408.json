@@ -5,14 +5,53 @@
     "description": "無性别｜抑郁｜Trance｜Hard Dance Music｜Drum&Bass｜maimai｜碳酸｜公式战｜雀魂｜3+5s｜Muse Dash｜编曲｜混音",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1805607703387291648/my4j_3CM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718587405379473408/1722596694",
-    "followers_count": 664,
-    "statuses_count": 822,
-    "favourites_count": 13926,
+    "followers_count": 661,
+    "statuses_count": 826,
+    "favourites_count": 13841,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-10-29 19:15:51 +08:00",
-    "url": "https://twitter.com/Sakura1817550"
+    "url": "https://twitter.com/Sakura1817550",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzE4NTg3NDA1Mzc5NDczNDA4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1415,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "遗落梦境",
+            "media_count": 81,
+            "pinned_tweet_ids_str": [
+                "1870670416098070668"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1698578151000,
+            "updated_at": 1739589292073
+        }
+    }
 }

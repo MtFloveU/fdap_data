@@ -1,0 +1,68 @@
+{
+    "id": "2508919105",
+    "screen_name": "ncysea",
+    "name": "Ngok Ching Ying Suet 樂正瑩雪",
+    "description": "🇺🇸 He/Him. Speak 🇬🇧🇭🇰🇹🇼🇯🇵🇪🇸. ENFJ. AI/ML, Astronomy, Diplomacy, Geography, Linguistics, Post, Vexillology. Federal Councillor and MOFA of @enchenia",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1872509496993697792/C3dPycLS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2508919105/1737456095",
+    "followers_count": 1251,
+    "statuses_count": 28108,
+    "favourites_count": 37517,
+    "listed_count": 7,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2014-05-20 09:01:21 +08:00",
+    "url": "https://twitter.com/ncysea",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoyNTA4OTE5MTA1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1516,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Federation of Enchenia 英雪尼亞聯邦",
+            "media_count": 3279,
+            "pinned_tweet_ids_str": [
+                "1854292446995456294"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1550331096952217600",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 688,
+                    "name": "Non-Governmental & Nonprofit Organization ",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1400547681000,
+            "updated_at": 1739589169405
+        }
+    }
+}

@@ -1,18 +1,55 @@
 {
-  "id": "1467845050113556483",
-  "screen_name": "qwqyyyy1",
-  "name": "拉斯科尼科夫",
-  "description": "殺死一個無能的資產者，為了證明我們能使其資產做更多的好事讓自己不落入平庸。願舊的秩序和墮落平庸的道德能被堙滅，不平凡的世界終會到來。",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1862756434175266819/GNHs0tN3_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1467845050113556483/1731435502",
-  "followers_count": 272,
-  "statuses_count": 484,
-  "favourites_count": 46419,
-  "listed_count": 3,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2021-12-06 21:15:18 +08:00",
-  "url": "https://twitter.com/qwqyyyy1"
+    "id": "1467845050113556483",
+    "screen_name": "qwqyyyy1",
+    "name": "拉斯科尼科夫",
+    "description": "殺死一個無能的資產者，為了證明我們能使其資產做更多的好事讓自己不落入平庸。願舊的秩序和墮落平庸的道德能被堙滅，不平凡的世界終會到來。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1862756434175266819/GNHs0tN3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1467845050113556483/1735352834",
+    "followers_count": 293,
+    "statuses_count": 485,
+    "favourites_count": 47357,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-12-06 21:15:18 +08:00",
+    "url": "https://twitter.com/qwqyyyy1",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDY3ODQ1MDUwMTEzNTU2NDgz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3177,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "亚细亚劳动联盟",
+            "media_count": 38,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1638796518000,
+            "updated_at": 1739589210634
+        }
+    }
 }

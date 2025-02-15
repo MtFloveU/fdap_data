@@ -5,14 +5,53 @@
     "description": "这里还是一只喜欢打牌的含糖🍥小熊🧸@Ereaurora的新账号/\n主要发推记录日常或当做树洞/\n偶尔读社会科学/\n炉石 影之诗 ptcg(国际服环境) lor 万智牌(xmage和untap上玩edh) \n以及一些小众卡牌游戏均有涉猎\n(不会三国杀和游戏王qwq)/\n卡牌游戏及steam加好友或互fo请私信哦",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1868702280343801856/VCqgJsef_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868701291830206464/1734368496",
-    "followers_count": 315,
-    "statuses_count": 1958,
-    "favourites_count": 4147,
+    "followers_count": 408,
+    "statuses_count": 3134,
+    "favourites_count": 6227,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-12-17 00:54:52 +08:00",
-    "url": "https://twitter.com/Aurorabotqwq"
+    "url": "https://twitter.com/Aurorabotqwq",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODY4NzAxMjkxODMwMjA2NDY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 399,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "1m",
+            "media_count": 50,
+            "pinned_tweet_ids_str": [
+                "1884985952910839963"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1734368092000,
+            "updated_at": 1739589262851
+        }
+    }
 }

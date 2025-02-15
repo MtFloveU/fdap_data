@@ -1,18 +1,55 @@
 {
-  "id": "1609380631917776896",
-  "screen_name": "_Yt8964",
-  "name": "抹茶要乐奈",
-  "description": "",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1824836196004139008/D-4CoeF2_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609380631917776896/1723910106",
-  "followers_count": 31,
-  "statuses_count": 195,
-  "favourites_count": 1877,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-01-01 10:49:24 +08:00",
-  "url": "https://twitter.com/_Yt8964"
+    "id": "1609380631917776896",
+    "screen_name": "_Yt8964",
+    "name": "抹茶要乐奈",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1824836196004139008/D-4CoeF2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609380631917776896/1723910106",
+    "followers_count": 35,
+    "statuses_count": 215,
+    "favourites_count": 2894,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-01-01 10:49:24 +08:00",
+    "url": "https://twitter.com/_Yt8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjA5MzgwNjMxOTE3Nzc2ODk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 203,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "宛平南路600号",
+            "media_count": 27,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1672541364000,
+            "updated_at": 1739589244385
+        }
+    }
 }

@@ -1,18 +1,56 @@
 {
-  "id": "1662475048261935104",
-  "screen_name": "Flandremai",
-  "name": "芙",
-  "description": "活死人一个 / 愛好是看畫畫 / 是在晚上出沒的幽靈",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1862287465144623106/Umc_K7dA_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662475048261935104/1685200150",
-  "followers_count": 253,
-  "statuses_count": 1751,
-  "favourites_count": 10156,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-05-27 23:05:21 +08:00",
-  "url": "https://twitter.com/Flandremai"
+    "id": "1662475048261935104",
+    "screen_name": "Flandremai",
+    "name": "芙",
+    "description": "活死人一个 / 愛好是看畫畫 / 是在晚上出沒的幽靈",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1862287465144623106/Umc_K7dA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662475048261935104/1685200150",
+    "followers_count": 260,
+    "statuses_count": 1923,
+    "favourites_count": 12112,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-05-27 23:05:21 +08:00",
+    "url": "https://twitter.com/Flandremai",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjYyNDc1MDQ4MjYxOTM1MTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 722,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 57,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1685199921000,
+            "updated_at": 1739589280337
+        }
+    }
 }

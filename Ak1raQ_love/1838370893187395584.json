@@ -3,16 +3,55 @@
     "screen_name": "MtF_CbbbbbbbY",
     "name": "明非子",
     "description": "之前的账号用来涩涩了 所以建了一个新的~🏳️‍⚧️|喜欢涩涩的🥰|20240131第一次吃糖🍥 断续含糖....|187😭|08||INFP 小蝴蝶~|坐标 天津",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1848014063382802432/EOwrropB_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1889271526924734465/5BLkOJ_k_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838370893187395584/1727137192",
-    "followers_count": 116,
-    "statuses_count": 153,
-    "favourites_count": 448,
+    "followers_count": 157,
+    "statuses_count": 181,
+    "favourites_count": 611,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-09-24 08:12:38 +08:00",
-    "url": "https://twitter.com/MtF_CbbbbbbbY"
+    "url": "https://twitter.com/MtF_CbbbbbbbY",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM4MzcwODkzMTg3Mzk1NTg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 504,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "有在被人好好爱着！！",
+            "media_count": 8,
+            "pinned_tweet_ids_str": [
+                "1841792572974629181"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1727136758000,
+            "updated_at": 1739589203159
+        }
+    }
 }

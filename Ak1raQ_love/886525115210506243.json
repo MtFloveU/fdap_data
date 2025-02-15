@@ -5,14 +5,61 @@
     "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876940246967078912/MpGSLqWG_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/886525115210506243/1683631914",
-    "followers_count": 71,
+    "followers_count": 80,
     "statuses_count": 21,
-    "favourites_count": 1383,
+    "favourites_count": 1839,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2017-07-16 17:57:13 +08:00",
-    "url": "https://twitter.com/AdshtWentHell"
+    "url": "https://twitter.com/AdshtWentHell",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo4ODY1MjUxMTUyMTA1MDYyNDM=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4866,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [
+                "1627493647766650881"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1654923888344825857",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1500199033000,
+            "updated_at": 1739589185112
+        }
+    }
 }

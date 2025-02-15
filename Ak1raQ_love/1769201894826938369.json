@@ -5,14 +5,51 @@
     "description": "",
     "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
     "profile_banner_url": null,
-    "followers_count": 7,
+    "followers_count": 9,
     "statuses_count": 1,
-    "favourites_count": 669,
+    "favourites_count": 731,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-03-17 11:19:49 +08:00",
-    "url": "https://twitter.com/ddd781327245127"
+    "url": "https://twitter.com/ddd781327245127",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY5MjAxODk0ODI2OTM4MzY5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 417,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1710645589000,
+            "updated_at": 1739589177245
+        }
+    }
 }

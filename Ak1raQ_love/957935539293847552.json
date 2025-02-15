@@ -1,18 +1,68 @@
 {
-  "id": "957935539293847552",
-  "screen_name": "yozakura_momij1",
-  "name": "白条条（白层层的家养猫）",
-  "description": "⭐高功ADHD：拖延症+启动困难+不回消息\n⭐强迫症+抑郁症+焦虑状态\n⭐应该没有双相+不是ASD",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1800713457723203584/752JEzrm_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/957935539293847552/1718307958",
-  "followers_count": 16322,
-  "statuses_count": 23042,
-  "favourites_count": 47470,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2018-01-29 19:16:44 +08:00",
-  "url": "https://twitter.com/yozakura_momij1"
+    "id": "957935539293847552",
+    "screen_name": "yozakura_momij1",
+    "name": "白条条（白层层的家养猫）",
+    "description": "⭐高功ADHD：拖延症+启动困难+不回消息\n⭐强迫症+抑郁症+焦虑状态\n⭐应该没有双相+不是ASD",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1800713457723203584/752JEzrm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/957935539293847552/1718307958",
+    "followers_count": 17445,
+    "statuses_count": 23339,
+    "favourites_count": 47213,
+    "listed_count": 30,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2018-01-29 19:16:44 +08:00",
+    "url": "https://twitter.com/yozakura_momij1",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5NTc5MzU1MzkyOTM4NDc1NTI=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1345,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "西安，中国西北部",
+            "media_count": 1828,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1560926006806220800",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 599,
+                    "name": "Medical Cannabis Dispensary",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1517224604000,
+            "updated_at": 1739589282809
+        }
+    }
 }

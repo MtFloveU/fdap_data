@@ -1,18 +1,100 @@
 {
-  "id": "1620052582646579200",
-  "screen_name": "misaka198964",
-  "name": "misaka",
-  "description": "p民",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1758522791308230656/YCLtY0Aa_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620052582646579200/1691079755",
-  "followers_count": 226,
-  "statuses_count": 2402,
-  "favourites_count": 3915,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-01-30 21:34:02 +08:00",
-  "url": "https://twitter.com/misaka198964"
+    "id": "1620052582646579200",
+    "screen_name": "misaka198964",
+    "name": "misaka",
+    "description": "p民",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1758522791308230656/YCLtY0Aa_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620052582646579200/1691079755",
+    "followers_count": 222,
+    "statuses_count": 2558,
+    "favourites_count": 4288,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-01-30 21:34:02 +08:00",
+    "url": "https://twitter.com/misaka198964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjIwMDUyNTgyNjQ2NTc5MjAw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @0716Misaka",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 24,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "0716Misaka",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "0716Misaka"
+                                        },
+                                        "rest_id": "1611746948499001349"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4741,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "自由/平等/博爱",
+            "media_count": 28,
+            "pinned_tweet_ids_str": [
+                "1759229606429929864"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1737400390361190675",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 959,
+                    "name": "Gamer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1675085642000,
+            "updated_at": 1739589239229
+        }
+    }
 }

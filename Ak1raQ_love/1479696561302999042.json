@@ -5,14 +5,65 @@
     "description": "永远17岁的小傻瓜 持证含糖🏳️‍⚧️/三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @larva7501 @dominnicchina 可爱妹妹@OVO_futa SRS记录：https://t.co/jVttn2YeBF",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872867101733732356/yhkHFD3U_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479696561302999042/1718372140",
-    "followers_count": 4928,
-    "statuses_count": 9840,
-    "favourites_count": 21410,
+    "followers_count": 4970,
+    "statuses_count": 9902,
+    "favourites_count": 21535,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-01-08 14:09:08 +08:00",
-    "url": "https://twitter.com/quitee123"
+    "url": "https://twitter.com/quitee123",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDc5Njk2NTYxMzAyOTk5MDQy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/miaomiao202503…",
+                            "expanded_url": "https://t.me/miaomiao202503010",
+                            "url": "https://t.co/jVttn2YeBF",
+                            "indices": [
+                                98,
+                                121
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1992,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "你的心里",
+            "media_count": 527,
+            "pinned_tweet_ids_str": [
+                "1887176415617163394"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1641622148000,
+            "updated_at": 1739589301192
+        }
+    }
 }

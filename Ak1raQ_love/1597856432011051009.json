@@ -1,18 +1,57 @@
 {
-  "id": "1597856432011051009",
-  "screen_name": "zhngbch2",
-  "name": "必楚🏳️‍⚧️🍥",
-  "description": "歷史學家，近代史專攻",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1839685965423800320/WBxRbsl__normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597856432011051009/1695830921",
-  "followers_count": 872,
-  "statuses_count": 1596,
-  "favourites_count": 27726,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-11-30 15:34:04 +08:00",
-  "url": "https://twitter.com/zhngbch2"
+    "id": "1597856432011051009",
+    "screen_name": "zhngbch2",
+    "name": "必楚🏳️‍⚧️🍥",
+    "description": "歷史學家，近代史專攻",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1839685965423800320/WBxRbsl__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597856432011051009/1695830921",
+    "followers_count": 914,
+    "statuses_count": 1615,
+    "favourites_count": 27419,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-11-30 15:34:04 +08:00",
+    "url": "https://twitter.com/zhngbch2",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTk3ODU2NDMyMDExMDUxMDA5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3239,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 163,
+            "pinned_tweet_ids_str": [
+                "1823672371905224780"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1669793644000,
+            "updated_at": 1739589277836
+        }
+    }
 }

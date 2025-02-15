@@ -5,14 +5,80 @@
     "description": "09年含糖mtf ｜2022 9 21 hrt｜备用账户@dream_ycl｜最爱的姐姐❤️@Alxiaz_",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864026734347304960/EUmq4j_i_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554457983748378624/1674403555",
-    "followers_count": 3249,
-    "statuses_count": 1755,
-    "favourites_count": 15185,
+    "followers_count": 3440,
+    "statuses_count": 1771,
+    "favourites_count": 15213,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-08-02 21:24:05 +08:00",
-    "url": "https://twitter.com/ycl_mtf"
+    "url": "https://twitter.com/ycl_mtf",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTU0NDU3OTgzNzQ4Mzc4NjI0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/ycl_mtf",
+                            "expanded_url": "https://t.me/ycl_mtf",
+                            "url": "https://t.co/N516tdXPsv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1039,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "地球",
+            "media_count": 356,
+            "pinned_tweet_ids_str": [
+                "1864020366768894040"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/N516tdXPsv",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1669995258212659200",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1659446645000,
+            "updated_at": 1739589301194
+        }
+    }
 }

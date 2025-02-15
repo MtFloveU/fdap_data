@@ -5,14 +5,62 @@
     "description": "半岁静/二次元/N2已过，EJU准备中/🇺🇦🇮🇱/INFP-T/支持LGBTQ+🏳️‍⚧️🏳️‍🌈/崩三原神铁道玩家/包容所有政治立场/政治立场左下↙（或许是社民）,黑化形态是支黑/负能量注意/病み/o💊/键政注意/不登校中/误b致歉/精神状态不好/求同存异/以上排名不分先后",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1747686466111827968/N_p0ZG5N_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1532606195214581760/1710011995",
-    "followers_count": 5862,
-    "statuses_count": 18438,
-    "favourites_count": 222778,
-    "listed_count": 14,
+    "followers_count": 5861,
+    "statuses_count": 18548,
+    "favourites_count": 223511,
+    "listed_count": 15,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-06-03 14:12:55 +08:00",
-    "url": "https://twitter.com/xijinping1sb"
+    "url": "https://twitter.com/xijinping1sb",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTMyNjA2MTk1MjE0NTgxNzYw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2731,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "IP属地：疯狂宇宙",
+            "media_count": 2243,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1730488335288930618",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 993,
+                    "name": "Psychiatric Hospital",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1654236775000,
+            "updated_at": 1739589298729
+        }
+    }
 }

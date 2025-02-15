@@ -5,14 +5,71 @@
     "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹/欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿加点东西@grame_oppb",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793636329299066880/1728542550",
-    "followers_count": 1484,
-    "statuses_count": 1873,
-    "favourites_count": 6038,
+    "followers_count": 1485,
+    "statuses_count": 1879,
+    "favourites_count": 6063,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-05-23 13:33:30 +00:00",
-    "url": "https://twitter.com/cuichuna7"
+    "created_at": "2024-05-23 21:33:30 +08:00",
+    "url": "https://twitter.com/cuichuna7",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzkzNjM2MzI5Mjk5MDY2ODgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/troellstoree2",
+                            "expanded_url": "https://t.me/troellstoree2",
+                            "url": "https://t.co/YwNpXr1X9R",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2875,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "宇宙之外",
+            "media_count": 138,
+            "pinned_tweet_ids_str": [
+                "1868290454615474348"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/YwNpXr1X9R",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "14BpFePQPM7yEbinacJPQCGbuGtRHibunq",
+            "ethereum_handle": "0x8E77A8A57EA31f477D35008B5Ce08eD14BAc465D"
+        },
+        "twe_private_fields": {
+            "created_at": 1716471210000,
+            "updated_at": 1739589267789
+        }
+    }
 }

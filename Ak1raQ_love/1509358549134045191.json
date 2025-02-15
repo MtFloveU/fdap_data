@@ -5,14 +5,54 @@
     "description": "🇭🇰07 淡推 已老實求放過",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885533115105632261/fe2LPQTE_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1509358549134045191/1726149378",
-    "followers_count": 273,
-    "statuses_count": 204,
-    "favourites_count": 691,
+    "followers_count": 274,
+    "statuses_count": 208,
+    "favourites_count": 697,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-03-31 10:35:01 +08:00",
-    "url": "https://twitter.com/Breeze07077364"
+    "url": "https://twitter.com/Breeze07077364",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTA5MzU4NTQ5MTM0MDQ1MTkx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 418,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 59,
+            "pinned_tweet_ids_str": [
+                "1778390863900717304"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1648694101000,
+            "updated_at": 1739589177245
+        }
+    }
 }

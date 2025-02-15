@@ -1,18 +1,68 @@
 {
-  "id": "1591979043947442176",
-  "screen_name": "yy30303558",
-  "name": "夜猫💛🤍💜🖤",
-  "description": "摄影，夜夜猫神教教主，写诗，星空✨",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1779893662912299008/vBh7SZt2_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591979043947442176/1725378588",
-  "followers_count": 267,
-  "statuses_count": 960,
-  "favourites_count": 2368,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2022-11-14 10:19:35 +08:00",
-  "url": "https://twitter.com/yy30303558"
+    "id": "1591979043947442176",
+    "screen_name": "yy30303558",
+    "name": "夜猫💛🤍💜🖤",
+    "description": "摄影，夜夜猫神教教主，写诗，星空✨",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1779893662912299008/vBh7SZt2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591979043947442176/1725378588",
+    "followers_count": 283,
+    "statuses_count": 1107,
+    "favourites_count": 2677,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2022-11-14 10:19:35 +08:00",
+    "url": "https://twitter.com/yy30303558",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTkxOTc5MDQzOTQ3NDQyMTc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 371,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "夜夜子的小天地",
+            "media_count": 174,
+            "pinned_tweet_ids_str": [
+                "1779899425084821780"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1683689264922480641",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 549,
+                    "name": "Literary Editor",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1668392375000,
+            "updated_at": 1739589272743
+        }
+    }
 }

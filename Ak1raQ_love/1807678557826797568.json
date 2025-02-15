@@ -5,14 +5,53 @@
     "description": "阿巴阿巴……\n痴呆ㅇㅁㅇing……",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874115211260813314/8cSsZofv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807678557826797568/1736695464",
-    "followers_count": 1293,
-    "statuses_count": 4936,
-    "favourites_count": 33554,
+    "followers_count": 1296,
+    "statuses_count": 4966,
+    "favourites_count": 33666,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-01 15:32:15 +08:00",
-    "url": "https://twitter.com/TeRiri141421"
+    "url": "https://twitter.com/TeRiri141421",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODA3Njc4NTU3ODI2Nzk3NTY4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1559,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Izena-son, Okinawa",
+            "media_count": 1074,
+            "pinned_tweet_ids_str": [
+                "1821930143771979992"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1719819135000,
+            "updated_at": 1739589289590
+        }
+    }
 }

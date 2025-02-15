@@ -1,18 +1,59 @@
 {
-  "id": "1772623408578400256",
-  "screen_name": "jinshenbing_",
-  "name": "右佐匹克隆片",
-  "description": "People's life just like dream.",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1819045684211032064/grFQSbH-_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 37,
-  "statuses_count": 624,
-  "favourites_count": 4165,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-03-26 21:55:48 +08:00",
-  "url": "https://twitter.com/jinshenbing_"
+    "id": "1772623408578400256",
+    "screen_name": "jinshenbing_",
+    "name": "右佐匹克隆片",
+    "description": "People's life just like dream.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1819045684211032064/grFQSbH-_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 35,
+    "statuses_count": 624,
+    "favourites_count": 3792,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-03-26 21:55:48 +08:00",
+    "url": "https://twitter.com/jinshenbing_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzcyNjIzNDA4NTc4NDAwMjU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 175,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 21,
+            "pinned_tweet_ids_str": [
+                "1819043679090462984"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1711461348000,
+            "updated_at": 1739589229033
+        }
+    }
 }

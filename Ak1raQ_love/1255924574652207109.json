@@ -1,18 +1,57 @@
 {
-  "id": "1255924574652207109",
-  "screen_name": "__Vueko",
-  "name": "あたたかい闇",
-  "description": "没有任何泪水使我变成花朵 / 没有任何国王使我变成王座",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1787602074399875072/aMCdj7so_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255924574652207109/1720367758",
-  "followers_count": 215,
-  "statuses_count": 91,
-  "favourites_count": 159,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2020-05-01 02:18:58 +08:00",
-  "url": "https://twitter.com/__Vueko"
+    "id": "1255924574652207109",
+    "screen_name": "__Vueko",
+    "name": "あたたかい闇",
+    "description": "没有任何泪水使我变成花朵 / 没有任何国王使我变成王座",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1787602074399875072/aMCdj7so_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255924574652207109/1720367758",
+    "followers_count": 205,
+    "statuses_count": 91,
+    "favourites_count": 149,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2020-05-01 02:18:58 +08:00",
+    "url": "https://twitter.com/__Vueko",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjU1OTI0NTc0NjUyMjA3MTA5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1923,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 31,
+            "pinned_tweet_ids_str": [
+                "1795551032023437725"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1588270738000,
+            "updated_at": 1739589236483
+        }
+    }
 }

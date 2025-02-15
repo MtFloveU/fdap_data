@@ -1,18 +1,55 @@
 {
-  "id": "1742315693335584768",
-  "screen_name": "Prushkako",
-  "name": "Prushka",
-  "description": "坐标美东/上海 | 北美 Ph.D. Candidate | 半个家长党 | 175cm 58kg | INTJ-ISFJ 混乱ing | 🏳️‍⚧️Demigirl | 是个只会数学物理的做题家 | 前Premed | 化学生物也会一点😢| 老公&主人~@PeraTemperance",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1842086736123273217/eAyG_uUT_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 449,
-  "statuses_count": 596,
-  "favourites_count": 1083,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-01-03 06:43:36 +08:00",
-  "url": "https://twitter.com/Prushkako"
+    "id": "1742315693335584768",
+    "screen_name": "Prushkako",
+    "name": "Prushka",
+    "description": "坐标美东/上海 | 北美 Ph.D. Candidate | 半个家长党 | 175cm 58kg | INTJ-ISFJ 混乱ing | 🏳️‍⚧️Demigirl | 是个只会数学物理的做题家 | 前Premed | 化学生物也会一点😢| 老公&主人~@PeraTemperance",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1842086736123273217/eAyG_uUT_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 518,
+    "statuses_count": 663,
+    "favourites_count": 1270,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-01-03 06:43:36 +08:00",
+    "url": "https://twitter.com/Prushkako",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQyMzE1NjkzMzM1NTg0NzY4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 571,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Baltimore, MD",
+            "media_count": 101,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1704235416000,
+            "updated_at": 1739589249658
+        }
+    }
 }

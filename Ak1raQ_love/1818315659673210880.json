@@ -5,14 +5,110 @@
     "description": "我渺于一粒细尘，却又长于永恒。\n「和平主义🕊️/实用主义🌱/人权&平等🤝/LGBT正当权益🏳️‍🌈/反建制🌹/🚫极端主义🚫」\n♥️🇨🇳🇭🇰🇲🇴🇹🇼🇯🇵🇰🇷🇸🇬🇸🇪🇧🇻🇫🇮🇺🇦🇮🇩🇮🇱🇺🇸♥️\n逃生舱：@Nek1BOOM 欢迎互fo😘",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1852250060324818944/z-y_xuZJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818315659673210880/1730445806",
-    "followers_count": 642,
-    "statuses_count": 2508,
-    "favourites_count": 11136,
+    "followers_count": 648,
+    "statuses_count": 2537,
+    "favourites_count": 11213,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-31 00:00:37 +08:00",
-    "url": "https://twitter.com/NeK1GG"
+    "url": "https://twitter.com/NeK1GG",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE4MzE1NjU5NjczMjEwODgw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Nek1BOOM",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 22,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Nek1BOOM",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Nek1BOOM"
+                                        },
+                                        "rest_id": "1884512558171971585"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "neki.work",
+                            "expanded_url": "http://neki.work",
+                            "url": "https://t.co/n61PuIvjOU",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 653,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "鸠拉-特恩佩斯特联邦国陆军司令部",
+            "media_count": 150,
+            "pinned_tweet_ids_str": [
+                "1884528224514044010"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/n61PuIvjOU",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1820317279294562378",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1722355237000,
+            "updated_at": 1739589277836
+        }
+    }
 }

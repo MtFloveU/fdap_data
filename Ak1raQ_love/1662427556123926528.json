@@ -5,8 +5,8 @@
     "description": "一只人类mtf。清廉正直女巫。阿兹伯格综合症患者",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876526759677771776/0l7ikLOj_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 169,
-    "statuses_count": 91,
+    "followers_count": 205,
+    "statuses_count": 94,
     "favourites_count": 218,
     "listed_count": 0,
     "verified_type": null,
@@ -14,5 +14,42 @@
     "following": false,
     "followed_by": true,
     "created_at": "2023-05-27 19:56:39 +08:00",
-    "url": "https://twitter.com/chenjingyao250"
+    "url": "https://twitter.com/chenjingyao250",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjYyNDI3NTU2MTIzOTI2NTI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 851,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 10,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1685188599000,
+            "updated_at": 1739589173350
+        }
+    }
 }

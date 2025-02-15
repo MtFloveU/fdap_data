@@ -5,14 +5,65 @@
     "description": "Am Geeker!!!! Grass Touching Computer Enthusiast 👉🌿 -God’s in his heaven, all right with Linux 🐧",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1571555713423646720/krrBfTos_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1383059576883318791/1696054685",
-    "followers_count": 47,
-    "statuses_count": 1329,
-    "favourites_count": 212,
-    "listed_count": 4,
+    "followers_count": 46,
+    "statuses_count": 1340,
+    "favourites_count": 213,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2021-04-16 22:08:09 +08:00",
-    "url": "https://twitter.com/GentlemanHamil1"
+    "url": "https://twitter.com/GentlemanHamil1",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzgzMDU5NTc2ODgzMzE4Nzkx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "discord.com/users/82890434…",
+                            "expanded_url": "https://discord.com/users/828904348745990155",
+                            "url": "https://t.co/rKICHh9YZx",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1157,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "澳門共和國",
+            "media_count": 8,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/rKICHh9YZx",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1618582089000,
+            "updated_at": 1739589179994
+        }
+    }
 }

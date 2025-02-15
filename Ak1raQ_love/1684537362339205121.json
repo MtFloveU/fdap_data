@@ -5,14 +5,64 @@
     "description": "中文: @Snowcomics9452 Español: @Snowcomics_ES \nWelcome to our newsroom, your go-to source for the latest updates and leaks on mobile phones and tablets. /🏳️‍⚧️/",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874491811055702016/k0-EAHaQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684537362339205121/1728321076",
-    "followers_count": 822,
-    "statuses_count": 1425,
-    "favourites_count": 8577,
+    "followers_count": 894,
+    "statuses_count": 1488,
+    "favourites_count": 9059,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-07-27 20:13:28 +08:00",
-    "url": "https://twitter.com/Snowcomics"
+    "url": "https://twitter.com/Snowcomics",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjg0NTM3MzYyMzM5MjA1MTIx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2646,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Hong Kong | 香港",
+            "media_count": 397,
+            "pinned_tweet_ids_str": [
+                "1886824977443512662"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1819357727740907825",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1690460008000,
+            "updated_at": 1739589267789
+        }
+    }
 }

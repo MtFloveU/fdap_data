@@ -5,14 +5,67 @@
     "description": "💻信息学竞赛生/OIer (初三/2009 年)｜若空君/若空酱/明统若空｜✨七级钩正在准备被文化课创飞｜无聊的个人开发者｜顺直，友🏳️‍🌈🏳️‍⚧️｜老实人，拒绝鉴证｜谨防数据结构使人呆滞｜ENTP-A｜这里不知道放些什么好｜可能接下来会淡推",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861219984820912128/yCyrRBXh_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835764493231751168/1726552831",
-    "followers_count": 172,
-    "statuses_count": 470,
-    "favourites_count": 1080,
-    "listed_count": 2,
+    "followers_count": 173,
+    "statuses_count": 471,
+    "favourites_count": 1085,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-17 03:36:00 +08:00",
-    "url": "https://twitter.com/mirekintoc"
+    "url": "https://twitter.com/mirekintoc",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM1NzY0NDkzMjMxNzUxMTY4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "vochant.github.io",
+                            "expanded_url": "http://vochant.github.io",
+                            "url": "https://t.co/Pyz9pfqtPB",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 310,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "BYKIESHIN",
+            "media_count": 82,
+            "pinned_tweet_ids_str": [
+                "1882822017550086605"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/Pyz9pfqtPB",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1726515360000,
+            "updated_at": 1739589262852
+        }
+    }
 }

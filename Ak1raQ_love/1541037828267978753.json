@@ -1,18 +1,58 @@
 {
-  "id": "1541037828267978753",
-  "screen_name": "LostFloruitShow",
-  "name": "白方",
-  "description": "苦痛不能让我死亡腐烂，在夜里我依旧舞蹈",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1544689341565321216/-tkcwnzR_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541037828267978753/1662657624",
-  "followers_count": 0,
-  "statuses_count": 5032,
-  "favourites_count": 34426,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2022-06-26 20:37:21 +08:00",
-  "url": "https://twitter.com/LostFloruitShow"
+    "id": "1541037828267978753",
+    "screen_name": "LostFloruitShow",
+    "name": "白方",
+    "description": "苦痛不能让我死亡腐烂，在夜里我依旧舞蹈",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1544689341565321216/-tkcwnzR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541037828267978753/1662657624",
+    "followers_count": 0,
+    "statuses_count": 5018,
+    "favourites_count": 36067,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-06-26 20:37:21 +08:00",
+    "url": "https://twitter.com/LostFloruitShow",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQxMDM3ODI4MjY3OTc4NzUz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 5134,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "52%",
+            "media_count": 23,
+            "pinned_tweet_ids_str": [
+                "1596852754533974017"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1656247041000,
+            "updated_at": 1739589231895
+        }
+    }
 }

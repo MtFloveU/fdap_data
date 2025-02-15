@@ -5,14 +5,51 @@
     "description": "|可以叫我灵妹或者白给，因为我玩游戏菜菜的:3|06年|没那么欠的ENTP|会哭🥺|无证含糖MTF|HRT24.11.9|焦虑抑郁强迫ADHD|在成都|希望你的每一天都能少一点不高兴(*˘︶˘*)♡|赛博暹罗猫，可以摸摸:3|玩游戏可以带上我:p|最喜欢你了@AsdQWD358224|",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873561439891603457/ARLWnSMv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816037884392005632/1729617683",
-    "followers_count": 172,
-    "statuses_count": 276,
-    "favourites_count": 3050,
-    "listed_count": 4,
+    "followers_count": 211,
+    "statuses_count": 340,
+    "favourites_count": 4668,
+    "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-24 17:09:25 +08:00",
-    "url": "https://twitter.com/Caroline_7650"
+    "url": "https://twitter.com/Caroline_7650",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE2MDM3ODg0MzkyMDA1NjMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 466,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 12,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1721812165000,
+            "updated_at": 1739589265461
+        }
+    }
 }

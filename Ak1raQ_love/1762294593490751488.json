@@ -1,18 +1,67 @@
 {
-  "id": "1762294593490751488",
-  "screen_name": "morning1923",
-  "name": "Momo",
-  "description": "男孩子 (=ↀωↀ=) 不约不线下 喜欢好看可爱的衣服 自用的梯子效果还不错https://t.co/Cc3rW9wu2y",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1811201816547528704/r9I8PHmI_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762294593490751488/1708999003",
-  "followers_count": 1113,
-  "statuses_count": 208,
-  "favourites_count": 2134,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-02-27 09:52:35 +08:00",
-  "url": "https://twitter.com/morning1923"
+    "id": "1762294593490751488",
+    "screen_name": "morning1923",
+    "name": "Momo",
+    "description": "男孩子 (=ↀωↀ=) 不约不线下 喜欢好看可爱的衣服 自用的梯子效果还不错https://t.co/Cc3rW9wu2y",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1811201816547528704/r9I8PHmI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762294593490751488/1708999003",
+    "followers_count": 1552,
+    "statuses_count": 204,
+    "favourites_count": 2157,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-02-27 09:52:35 +08:00",
+    "url": "https://twitter.com/morning1923",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzYyMjk0NTkzNDkwNzUxNDg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "usr.suziyun.xyz/#/register?cod…",
+                            "expanded_url": "https://usr.suziyun.xyz/#/register?code=j8hBjd1l",
+                            "url": "https://t.co/Cc3rW9wu2y",
+                            "indices": [
+                                38,
+                                61
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 670,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 19,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1708998755000,
+            "updated_at": 1739589223480
+        }
+    }
 }

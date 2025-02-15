@@ -1,18 +1,79 @@
 {
-  "id": "1378557011097382914",
-  "screen_name": "OSS_LEN",
-  "name": "OrenjiNako_橙柚橙七七",
-  "description": "ORENJI49(橙柚橙七七)/06年生/169cm/INFP/酷安用户/MTF/ADHD&ASD/如需回fo请私信",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1746698329231335424/GiBLcS-Z_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378557011097382914/1705326732",
-  "followers_count": 2908,
-  "statuses_count": 2091,
-  "favourites_count": 8894,
-  "listed_count": 35,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2021-04-04 11:56:26 +08:00",
-  "url": "https://twitter.com/OSS_LEN"
+    "id": "1378557011097382914",
+    "screen_name": "OSS_LEN",
+    "name": "OrenjiNako_橙柚橙七七",
+    "description": "ORENJI49(橙柚橙七七)/06年生/169cm/INFP/酷安用户/MTF/ADHD&ASD/如需回fo请私信",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1746698329231335424/GiBLcS-Z_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378557011097382914/1705326732",
+    "followers_count": 2858,
+    "statuses_count": 2082,
+    "favourites_count": 8786,
+    "listed_count": 12,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-04-04 11:56:26 +08:00",
+    "url": "https://twitter.com/OSS_LEN",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzc4NTU3MDExMDk3MzgyOTE0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "b23.tv/fixE8P",
+                            "expanded_url": "https://b23.tv/fixE8P",
+                            "url": "https://t.co/568s8dDhrc",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4333,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "TSN天津, Chinese Mainland",
+            "media_count": 450,
+            "pinned_tweet_ids_str": [
+                "1747389787366146549"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/568s8dDhrc",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1600404516868063232",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1617508586000,
+            "updated_at": 1739589303682
+        }
+    }
 }

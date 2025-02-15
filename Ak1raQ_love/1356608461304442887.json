@@ -1,18 +1,84 @@
 {
-  "id": "1356608461304442887",
-  "screen_name": "pear19661976",
-  "name": "🍐🍐🍐老师📕🏳️‍⚧️🚩",
-  "description": "社会主义好 #RedPaperRevolution\n-----------------------------------此号与 @pear14525902 🍐老师 无关",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1642183232509841413/HaXBaSDU_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356608461304442887/1680535014",
-  "followers_count": 1095,
-  "statuses_count": 7468,
-  "favourites_count": 84669,
-  "listed_count": 6,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2021-02-02 22:20:49 +08:00",
-  "url": "https://twitter.com/pear19661976"
+    "id": "1356608461304442887",
+    "screen_name": "pear19661976",
+    "name": "🍐🍐🍐老师📕🏳️‍⚧️🚩",
+    "description": "社会主义好 #RedPaperRevolution\n-----------------------------------此号与 @pear14525902 🍐老师 无关",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1642183232509841413/HaXBaSDU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356608461304442887/1680535014",
+    "followers_count": 1080,
+    "statuses_count": 7465,
+    "favourites_count": 83876,
+    "listed_count": 6,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-02-02 22:20:49 +08:00",
+    "url": "https://twitter.com/pear19661976",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzU2NjA4NDYxMzA0NDQyODg3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "marxists.org/chinese/refere…",
+                            "expanded_url": "https://www.marxists.org/chinese/reference-books/sino-soviet-debate/index.htm",
+                            "url": "https://t.co/mmAoILRJhu",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4518,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "天安门",
+            "media_count": 695,
+            "pinned_tweet_ids_str": [
+                "1420904833033281539"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/mmAoILRJhu",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1611953161832632321",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 688,
+                    "name": "Non-Governmental & Nonprofit Organization ",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1612275649000,
+            "updated_at": 1739589249659
+        }
+    }
 }

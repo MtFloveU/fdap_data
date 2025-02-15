@@ -5,14 +5,67 @@
     "description": "09年初中生/虾头看黄男/喜欢xyn和小男娘/INFP/性格内向/泛性恋/不回私信只是不会说话😶",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1765698993743646720/Be_lpq_7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749765063446233088/1709810535",
-    "followers_count": 493,
-    "statuses_count": 18,
-    "favourites_count": 2560,
+    "followers_count": 506,
+    "statuses_count": 19,
+    "favourites_count": 2490,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-01-23 20:04:43 +08:00",
-    "url": "https://twitter.com/ChaBingovo"
+    "url": "https://twitter.com/ChaBingovo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQ5NzY1MDYzNDQ2MjMzMDg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "chabing.top",
+                            "expanded_url": "https://chabing.top",
+                            "url": "https://t.co/hGBQCNk24n",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1248,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "XinJiang",
+            "media_count": 2,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/hGBQCNk24n",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1706011483000,
+            "updated_at": 1739589241831
+        }
+    }
 }

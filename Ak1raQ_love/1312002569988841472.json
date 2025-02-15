@@ -5,14 +5,77 @@
     "description": "废物cd😡/死人开发者(py php)/重度缺爱/伪人/申必URL🤔:https://t.co/73sHa69a9d",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877045008248995840/hvbNYHPz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1312002569988841472/1736683372",
-    "followers_count": 142,
-    "statuses_count": 1148,
-    "favourites_count": 389,
+    "followers_count": 147,
+    "statuses_count": 1229,
+    "favourites_count": 454,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2020-10-02 20:12:55 +08:00",
-    "url": "https://twitter.com/zhishi_cook"
+    "url": "https://twitter.com/zhishi_cook",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzEyMDAyNTY5OTg4ODQxNDcy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/zhishi_cook",
+                            "expanded_url": "https://ngl.link/zhishi_cook",
+                            "url": "https://t.co/73sHa69a9d",
+                            "indices": [
+                                35,
+                                58
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "zinet.top",
+                            "expanded_url": "http://zinet.top",
+                            "url": "https://t.co/842XMZv0Pp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 321,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "武汉",
+            "media_count": 98,
+            "pinned_tweet_ids_str": [
+                "1887881794525216964"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/842XMZv0Pp",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1601640775000,
+            "updated_at": 1739589260488
+        }
+    }
 }

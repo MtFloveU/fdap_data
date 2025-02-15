@@ -5,14 +5,78 @@
     "description": "不知道先写什么，但总之先喵一声总没错吧？\n非典型人类( *︾▽︾)\n高二了，要准备高考啦。推之后不会太常上，要是想聊天的话，可以找我要联系方式\n日常缺觉中(∪.∪ )...zzz\n\n正能量里号 @Wiki1Minecraft\n负能量里号 @_return_void_",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1826533675594645504/EmJrjExi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492808050461196288/1739087105",
-    "followers_count": 1587,
-    "statuses_count": 6660,
-    "favourites_count": 1643,
+    "followers_count": 1591,
+    "statuses_count": 6682,
+    "favourites_count": 1655,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-02-13 18:29:22 +08:00",
-    "url": "https://twitter.com/Breaking_Lead_G"
+    "url": "https://twitter.com/Breaking_Lead_G",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDkyODA4MDUwNDYxMTk2Mjg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "breakinglead.github.io",
+                            "expanded_url": "https://breakinglead.github.io/",
+                            "url": "https://t.co/sGcD4zcKTB",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 667,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Xi'an",
+            "media_count": 639,
+            "pinned_tweet_ids_str": [
+                "1885200837611577601"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/sGcD4zcKTB",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1782924640647848235",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1644748162000,
+            "updated_at": 1739589231895
+        }
+    }
 }

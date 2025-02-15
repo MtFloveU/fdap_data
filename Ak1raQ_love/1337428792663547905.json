@@ -1,18 +1,58 @@
 {
-  "id": "1337428792663547905",
-  "screen_name": "9ine_Rong",
-  "name": "九榕儿",
-  "description": "已淡圈✨长生不老榕🏳️‍⚧️MTF🍥等死老药娘🍬绝望老跨妹💣躁郁天残🤮假的家长党实则家暴党🔨性冷淡✖️穷鬼爱哭鬼💔减肥中!🍋日常外貌身材身高年龄性别焦虑自我厌恶精神崩溃💊作息紊乱💤榕儿的养老跨群669063999✨",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1748459331115454464/ARnaeGHy_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337428792663547905/1671439460",
-  "followers_count": 4418,
-  "statuses_count": 789,
-  "favourites_count": 2028,
-  "listed_count": 9,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2020-12-12 00:07:42 +08:00",
-  "url": "https://twitter.com/9ine_Rong"
+    "id": "1337428792663547905",
+    "screen_name": "9ine_Rong",
+    "name": "九榕儿",
+    "description": "已淡圈✨长生不老榕🏳️‍⚧️MTF🍥等死老药娘🍬绝望老跨妹💣躁郁天残🤮假的家长党实则家暴党🔨性冷淡✖️穷鬼爱哭鬼💔减肥中!🍋日常外貌身材身高年龄性别焦虑自我厌恶精神崩溃💊作息紊乱💤榕儿的养老跨群669063999✨",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1748459331115454464/ARnaeGHy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337428792663547905/1671439460",
+    "followers_count": 4388,
+    "statuses_count": 789,
+    "favourites_count": 2000,
+    "listed_count": 9,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2020-12-12 00:07:42 +08:00",
+    "url": "https://twitter.com/9ine_Rong",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzM3NDI4NzkyNjYzNTQ3OTA1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1490,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 259,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1607702862000,
+            "updated_at": 1739589301193
+        }
+    }
 }

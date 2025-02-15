@@ -5,14 +5,53 @@
     "description": "你好～ 请叫我小a就好。小a独处好久，变成了笨蛋。请多陪小a说话(很可爱的)。青石姐姐@qingshixiang258/超可爱的j酱@kkblm_",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881691568710754304/h2au2NAL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766129619474993152/1737619912",
-    "followers_count": 130,
-    "statuses_count": 304,
-    "favourites_count": 510,
+    "followers_count": 157,
+    "statuses_count": 435,
+    "favourites_count": 754,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-03-08 23:52:00 +08:00",
-    "url": "https://twitter.com/AcetateFrag"
+    "url": "https://twitter.com/AcetateFrag",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY2MTI5NjE5NDc0OTkzMTUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 119,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 24,
+            "pinned_tweet_ids_str": [
+                "1881722587975479448"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1709913120000,
+            "updated_at": 1739589262851
+        }
+    }
 }

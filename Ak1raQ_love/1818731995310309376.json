@@ -2,17 +2,56 @@
     "id": "1818731995310309376",
     "screen_name": "MOLeren198964",
     "name": "魔ㄇ怔乐ㄌ子老好人ㄖ",
-    "description": "一个抽象B🤓（酒蒙子一个）爱写软笔字（很烂）小号：@Moleren114514 主人🥺：@hood8964 姐姐：@Allenium114 想挂的朋友：@charming_xiaoyu @ShadowlessmoonR @5mRtist @w1a2ng @0721sandwich @HANABIRIKAJIANG",
+    "description": "一个抽象B🤓（酒蒙子一个）爱写软笔字（很烂）小号：@Moleren114514 主人🥺：@hood8964 姐姐：@Allenium114 想挂的朋友：@charming_xiaoyu @ShadowlessmoonR @5mRtist @w3a4ng @0721sandwich @HANABIRIKAJIANG",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885912024523345920/N3imiwes_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818731995310309376/1736311935",
-    "followers_count": 934,
-    "statuses_count": 12239,
-    "favourites_count": 81920,
+    "followers_count": 996,
+    "statuses_count": 13283,
+    "favourites_count": 88858,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-08-01 03:34:41 +08:00",
-    "url": "https://twitter.com/MOLeren198964"
+    "url": "https://twitter.com/MOLeren198964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE4NzMxOTk1MzEwMzA5Mzc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1443,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "中华民国，北平",
+            "media_count": 658,
+            "pinned_tweet_ids_str": [
+                "1873681411317886984"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1722454481000,
+            "updated_at": 1739589275107
+        }
+    }
 }

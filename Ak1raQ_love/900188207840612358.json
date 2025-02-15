@@ -5,14 +5,81 @@
     "description": "黃鎔鈞 PhD student 支人支面不支心 本人已死 无事烧纸 此处不留爷 自有留爷处 There is no Astro here; while there is Astro here: @AstroRongjun",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876499077459849216/Q2rO_LgO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/900188207840612358/1664327283",
-    "followers_count": 349,
-    "statuses_count": 8829,
-    "favourites_count": 4895,
+    "followers_count": 350,
+    "statuses_count": 8831,
+    "favourites_count": 4900,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2017-08-23 02:49:28 +00:00",
-    "url": "https://twitter.com/IGNIZ_DRAGONXV"
+    "created_at": "2017-08-23 10:49:28 +08:00",
+    "url": "https://twitter.com/IGNIZ_DRAGONXV",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5MDAxODgyMDc4NDA2MTIzNTg=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "Rongjun-Huang.com",
+                            "expanded_url": "http://www.Rongjun-Huang.com",
+                            "url": "https://t.co/w9A29YN03N",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4439,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Australia",
+            "media_count": 1535,
+            "pinned_tweet_ids_str": [
+                "1811003895444799995"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/w9A29YN03N",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1633671963297325056",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1503456568000,
+            "updated_at": 1739589203160
+        }
+    }
 }

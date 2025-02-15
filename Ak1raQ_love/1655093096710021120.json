@@ -5,14 +5,53 @@
     "description": "🇲🇴🏳️‍⚧️/ 08 MtF / HRT 2024.09.14 / 長居澳門 / 中文En日本語 ⭕️ / 喜歡vocaloid / 在學平面設計動畫 / 會玩音游 / 自殘od / JLPT N3 (2024 Dec) / 抱著貼貼❤️@mizuchanqwq 鍵垢: @dyingmakao",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1859081678519480321/zZ0FVwfy_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655093096710021120/1732647446",
-    "followers_count": 1140,
-    "statuses_count": 8691,
-    "favourites_count": 26523,
+    "followers_count": 1152,
+    "statuses_count": 8800,
+    "favourites_count": 27017,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2023-05-07 14:12:10 +08:00",
-    "url": "https://twitter.com/makaochanqwq"
+    "url": "https://twitter.com/makaochanqwq",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjU1MDkzMDk2NzEwMDIxMTIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1123,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "澳門",
+            "media_count": 788,
+            "pinned_tweet_ids_str": [
+                "1877722426341204069"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1683439930000,
+            "updated_at": 1739589267789
+        }
+    }
 }

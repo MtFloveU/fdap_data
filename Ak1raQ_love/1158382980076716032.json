@@ -5,14 +5,97 @@
     "description": "萌新kiger，常驻深圳，喜欢面基，欢迎私信互fo。前世@rabbubble550w，牢字辈一分子，找回推油中。最最最最喜欢对咱最好的人 @vu_yoyo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864159275305848832/ZKfXUpTC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1158382980076716032/1733283674",
-    "followers_count": 754,
-    "statuses_count": 3586,
-    "favourites_count": 2993,
-    "listed_count": 0,
+    "followers_count": 1200,
+    "statuses_count": 8573,
+    "favourites_count": 6897,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2019-08-05 22:23:18 +08:00",
-    "url": "https://twitter.com/kokodayo5150"
+    "url": "https://twitter.com/kokodayo5150",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTU4MzgyOTgwMDc2NzE2MDMy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @zhonglihutaomtx",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "zhonglihutaomtx",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "zhonglihutaomtx"
+                                        },
+                                        "rest_id": "1431912442125172741"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/pocaro…",
+                            "expanded_url": "https://bsky.app/profile/pocarosa2381.xiaoyaoniang.com",
+                            "url": "https://t.co/OOjFFU1Fqk",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3005,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Hong Kong",
+            "media_count": 769,
+            "pinned_tweet_ids_str": [
+                "1878179547637772367"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/OOjFFU1Fqk",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1565014998000,
+            "updated_at": 1739589270270
+        }
+    }
 }

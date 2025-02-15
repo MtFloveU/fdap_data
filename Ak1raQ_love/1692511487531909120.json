@@ -1,18 +1,67 @@
 {
-  "id": "1692511487531909120",
-  "screen_name": "CicadaSeventeen",
-  "name": "蒸汽绵羊 🌈 Cic17",
-  "description": "名誉xyn（？）目前在北京能提供紧急避险或熟人借住，但住宿条件较差。 \n由于梯子而账号有时不稳定封控，偶尔由海外朋友暂管。可联系我：\ntg @CicadaSeventeen\n频道 https://t.co/0Kq0iSIEIZ\nbluesky @cic17.bsky.social",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1860664221408833536/ABFkm6x-_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692511487531909120/1732451900",
-  "followers_count": 285,
-  "statuses_count": 1983,
-  "favourites_count": 961,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-08-18 20:19:29 +08:00",
-  "url": "https://twitter.com/CicadaSeventeen"
+    "id": "1692511487531909120",
+    "screen_name": "CicadaSeventeen",
+    "name": "蒸汽绵羊 🌈 Cic17",
+    "description": "名誉xyn（？）目前在北京能提供紧急避险或熟人借住，但住宿条件较差。 \n由于梯子而账号有时不稳定封控，偶尔由海外朋友暂管。可联系我：\ntg @CicadaSeventeen\n频道 https://t.co/0Kq0iSIEIZ\nbluesky @cic17.bsky.social",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1860664221408833536/ABFkm6x-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692511487531909120/1732451900",
+    "followers_count": 294,
+    "statuses_count": 2010,
+    "favourites_count": 928,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-08-18 20:19:29 +08:00",
+    "url": "https://twitter.com/CicadaSeventeen",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjkyNTExNDg3NTMxOTA5MTIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/VoiceofC17",
+                            "expanded_url": "http://t.me/VoiceofC17",
+                            "url": "https://t.co/0Kq0iSIEIZ",
+                            "indices": [
+                                90,
+                                113
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 163,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "北京",
+            "media_count": 239,
+            "pinned_tweet_ids_str": [
+                "1861940454486622242"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1692361169000,
+            "updated_at": 1739589215956
+        }
+    }
 }

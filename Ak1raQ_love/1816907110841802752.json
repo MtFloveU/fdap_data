@@ -1,18 +1,55 @@
 {
-  "id": "1816907110841802752",
-  "screen_name": "Ienvy19511",
-  "name": "Azure Ether🍀⚜️🦋🍄",
-  "description": "MTX? | 友善的自我中心抱抱发射器 | 睡不够会很烦 | 时间永远不够 | 内在=迷子 |  努力成长中 | 比想象中更脆弱 | E2❤ | 推特/蓝天重度依恋 | 不希望任何朋友继续痛苦 | 希望一直幸运而纯洁🍀⚜  \n另见@Aether19511\n小蝴蝶: @ienvy19511.bsky.social",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1845815016274182144/Newlutiz_normal.png",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816907110841802752/1728911774",
-  "followers_count": 212,
-  "statuses_count": 2769,
-  "favourites_count": 13945,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-07-27 02:43:23 +08:00",
-  "url": "https://twitter.com/Ienvy19511"
+    "id": "1816907110841802752",
+    "screen_name": "Ienvy19511",
+    "name": "Azure Ether🍀⚜️🦋🍄",
+    "description": "MTX? | 友善的自我中心抱抱发射器 | 睡不够会很烦 | 时间永远不够 | 内在=迷子 |  努力成长中 | 比想象中更脆弱 | E2❤ | 推特/蓝天重度依恋 | 不希望任何朋友继续痛苦 | 希望一直幸运而纯洁🍀⚜  \n另见@Aether19511\n小蝴蝶: @ienvy19511.bsky.social",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1845815016274182144/Newlutiz_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816907110841802752/1728911774",
+    "followers_count": 225,
+    "statuses_count": 2930,
+    "favourites_count": 14750,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-07-27 02:43:23 +08:00",
+    "url": "https://twitter.com/Ienvy19511",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE2OTA3MTEwODQxODAyNzUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 221,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 30,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1722019403000,
+            "updated_at": 1739589292073
+        }
+    }
 }

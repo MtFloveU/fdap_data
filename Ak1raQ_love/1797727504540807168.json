@@ -3,16 +3,69 @@
     "screen_name": "overdose__jp",
     "name": "overdose知识站点",
     "description": "古希腊掌管od的神",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1886655758844243968/xQKBNUux_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1889532170391396352/BjXFZMK5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797727504540807168/1737447263",
-    "followers_count": 1798,
-    "statuses_count": 1419,
-    "favourites_count": 1720,
+    "followers_count": 2273,
+    "statuses_count": 1759,
+    "favourites_count": 2056,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-06-04 04:30:21 +08:00",
-    "url": "https://twitter.com/overdose__jp"
+    "url": "https://twitter.com/overdose__jp",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk3NzI3NTA0NTQwODA3MTY4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "overdose.jp",
+                            "expanded_url": "https://overdose.jp/",
+                            "url": "https://t.co/nDuhQw85LH",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3949,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 162,
+            "pinned_tweet_ids_str": [
+                "1889540094710915274"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/nDuhQw85LH",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1717446621000,
+            "updated_at": 1739589185112
+        }
+    }
 }

@@ -5,14 +5,54 @@
     "description": "物種：瀕臨絕種的半死靈、半神明的魔種\n（體內還混雜著一絲虛空魔龍的的血）\n特殊能力：可以輕鬆的傳送到任何地方（被封印中）\n家：舊-另一個次元（被外來文明毀了）\n常說：我要成為youtuber \n信念：万物のバランス\n來個中二點的台詞好了…咳咳！\n歡迎墮入黑暗，人類 \n我可以幫你實現你的夢想，就是要看你的誠意有多少嘍~",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1613270010037960704/vqxxzipP_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613267255508467712/1689467501",
-    "followers_count": 32,
-    "statuses_count": 173,
-    "favourites_count": 950,
+    "followers_count": 33,
+    "statuses_count": 178,
+    "favourites_count": 1172,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-01-12 04:11:35 +08:00",
-    "url": "https://twitter.com/GK88568733"
+    "url": "https://twitter.com/GK88568733",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjEzMjY3MjU1NTA4NDY3NzEy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 628,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "魔都・絢爛豪華な宮殿の隣の小屋",
+            "media_count": 24,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "patreon_handle": ""
+        },
+        "twe_private_fields": {
+            "created_at": 1673467895000,
+            "updated_at": 1739589187893
+        }
+    }
 }

@@ -1,18 +1,59 @@
 {
-  "id": "1445024811126689798",
-  "screen_name": "CNwall_7",
-  "name": "虔诚珍珠",
-  "description": "极端立场嗯看/\n绷不住直接下线😥┃狠狠的娱乐化┃b站重度",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1567909017825193986/69snKGsF_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445024811126689798/1649328696",
-  "followers_count": 361,
-  "statuses_count": 2186,
-  "favourites_count": 27164,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2021-10-04 21:55:51 +08:00",
-  "url": "https://twitter.com/CNwall_7"
+    "id": "1445024811126689798",
+    "screen_name": "CNwall_7",
+    "name": "虔诚珍珠",
+    "description": "极端立场嗯看/\n绷不住直接下线😥┃狠狠的娱乐化┃b站重度",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1567909017825193986/69snKGsF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445024811126689798/1649328696",
+    "followers_count": 377,
+    "statuses_count": 2254,
+    "favourites_count": 30397,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-10-04 21:55:51 +08:00",
+    "url": "https://twitter.com/CNwall_7",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDQ1MDI0ODExMTI2Njg5Nzk4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1614,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "中华人民共和国 妈妈生 理堂",
+            "media_count": 192,
+            "pinned_tweet_ids_str": [
+                "1576658143353847808"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1633355751000,
+            "updated_at": 1739589200572
+        }
+    }
 }

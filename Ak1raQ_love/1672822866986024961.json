@@ -5,14 +5,53 @@
     "description": "Aspie | TS Fullstack | Transgirl 🏳️‍⚧️ | Les | GF @CatTalkerMitaka\nLOVE 🩷 FOREVER",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889609333740281861/wCbfA8lO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672822866986024961/1687668245",
-    "followers_count": 1292,
-    "statuses_count": 8522,
-    "favourites_count": 64420,
+    "followers_count": 1295,
+    "statuses_count": 8544,
+    "favourites_count": 64587,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-06-25 04:24:03 +00:00",
-    "url": "https://twitter.com/Lycaropia"
+    "created_at": "2023-06-25 12:24:03 +08:00",
+    "url": "https://twitter.com/Lycaropia",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjcyODIyODY2OTg2MDI0OTYx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 992,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "384,400km",
+            "media_count": 193,
+            "pinned_tweet_ids_str": [
+                "1835227356170190958"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1687667043000,
+            "updated_at": 1739589285081
+        }
+    }
 }

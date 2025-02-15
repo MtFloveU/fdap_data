@@ -5,14 +5,51 @@
     "description": "東亞文明圈愛好者🇹🇼🇯🇵🇰🇷🇻🇳‖ACGN文化愛好者‖淡政ing‖東亞和平🕊️‖極端支黑粉蛆不服來戰",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887114481244979200/hEkj11IY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643988475266629635/1732420485",
-    "followers_count": 942,
-    "statuses_count": 3065,
-    "favourites_count": 16115,
+    "followers_count": 947,
+    "statuses_count": 3141,
+    "favourites_count": 16449,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-04-06 22:46:25 +08:00",
-    "url": "https://twitter.com/SundayoftheROC"
+    "url": "https://twitter.com/SundayoftheROC",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjQzOTg4NDc1MjY2NjI5NjM1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 789,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "南京-東京-漢城-河內",
+            "media_count": 439,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1680792385000,
+            "updated_at": 1739589177245
+        }
+    }
 }

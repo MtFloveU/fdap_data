@@ -5,14 +5,53 @@
     "description": "Any pronoun|Left Accelerationist|Hard scifi enthusiast|Astronomy|Touhou|Rhythm game",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1867608972427243525/1nu0neCA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1732361821",
-    "followers_count": 274,
-    "statuses_count": 1637,
-    "favourites_count": 28442,
+    "followers_count": 280,
+    "statuses_count": 1691,
+    "favourites_count": 29468,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-02-18 21:45:58 +08:00",
-    "url": "https://twitter.com/57crz3oA"
+    "url": "https://twitter.com/57crz3oA",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDk0NjY5NDg1MjE0NjMzOTg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 860,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 175,
+            "pinned_tweet_ids_str": [
+                "1881552002758668704"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1645191958000,
+            "updated_at": 1739589280337
+        }
+    }
 }

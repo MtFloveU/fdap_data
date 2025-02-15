@@ -5,14 +5,66 @@
     "description": "𝓐𝓶𝓲𝓭 𝔀𝓲𝓷𝓭'𝓼 𝔀𝓱𝓲𝓼𝓹𝓮𝓻𝓼, 𝓪𝓵𝓵 𝔀𝓸𝓻𝓻𝓲𝓮𝓼 𝓬𝓮𝓪𝓼𝓮; 𝓲𝓷 𝓽𝓱𝓮 𝓱𝓾𝓼𝓱 𝓸𝓯 𝓯𝓪𝓵𝓵𝓲𝓷𝓰 𝓼𝓷𝓸𝔀, 𝓘 𝓯𝓲𝓷𝓭 𝓼𝓮𝓻𝓮𝓷𝓮 𝓹𝓮𝓪𝓬𝓮.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1816087267880136704/C5jmYJ_K_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816085525599858688/1721914925",
-    "followers_count": 63,
-    "statuses_count": 80,
-    "favourites_count": 606,
+    "followers_count": 65,
+    "statuses_count": 82,
+    "favourites_count": 609,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-07-24 20:18:41 +08:00",
-    "url": "https://twitter.com/LochieuS"
+    "url": "https://twitter.com/LochieuS",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE2MDg1NTI1NTk5ODU4Njg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1196,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [
+                "1820464171043205470"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1816465046123446611",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 580,
+                    "name": "Media & News Company",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1721823521000,
+            "updated_at": 1739589177245
+        }
+    }
 }

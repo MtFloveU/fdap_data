@@ -5,8 +5,8 @@
     "description": "不存在的人........",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1880189392817467392/CKzpiHsj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639202165464997889/1736227938",
-    "followers_count": 221,
-    "statuses_count": 363,
+    "followers_count": 216,
+    "statuses_count": 359,
     "favourites_count": 1258,
     "listed_count": 0,
     "verified_type": null,
@@ -14,5 +14,47 @@
     "following": true,
     "followed_by": true,
     "created_at": "2023-03-24 17:47:26 +08:00",
-    "url": "https://twitter.com/x9163421864751"
+    "url": "https://twitter.com/x9163421864751",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjM5MjAyMTY1NDY0OTk3ODg5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 358,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Taito-ku, Tokyo",
+            "media_count": 17,
+            "pinned_tweet_ids_str": [
+                "1876652005156118528"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1679651246000,
+            "updated_at": 1739589265461
+        }
+    }
 }

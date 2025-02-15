@@ -7,12 +7,65 @@
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554710058511978498/1688869392",
     "followers_count": 611,
     "statuses_count": 909,
-    "favourites_count": 3974,
+    "favourites_count": 3965,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2022-08-03 14:05:47 +08:00",
-    "url": "https://twitter.com/MinurFur"
+    "url": "https://twitter.com/MinurFur",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTU0NzEwMDU4NTExOTc4NDk4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ai.lfcup.cn",
+                            "expanded_url": "https://ai.lfcup.cn/",
+                            "url": "https://t.co/4drsGFVgVC",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 602,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "深圳",
+            "media_count": 46,
+            "pinned_tweet_ids_str": [
+                "1790645674327101796"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/4drsGFVgVC",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1659506747000,
+            "updated_at": 1739589239229
+        }
+    }
 }

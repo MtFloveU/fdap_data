@@ -5,14 +5,53 @@
     "description": "mtf，hrt进行中（身份焦虑ing）（08年的，是学生（魅魔x），身高174，体重58，2024.8.2含糖，已炸柜，会伪声（但是咱不好意思用awa） 🚪66（真的有人过？）/和@zanwu06769433组一辈子乐队/咱的猫猫@Black_Millet骂人代理@mchnyn1197",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885956110022324224/av9crZyV_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787499470923653120/1715008383",
-    "followers_count": 3307,
-    "statuses_count": 6742,
-    "favourites_count": 12750,
+    "followers_count": 3309,
+    "statuses_count": 6748,
+    "favourites_count": 12748,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
     "created_at": "2024-05-06 23:07:48 +08:00",
-    "url": "https://twitter.com/awaemmm"
+    "url": "https://twitter.com/awaemmm",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzg3NDk5NDcwOTIzNjUzMTIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 165,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "你猜",
+            "media_count": 1018,
+            "pinned_tweet_ids_str": [
+                "1875950189032464556"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1715008068000,
+            "updated_at": 1739589292073
+        }
+    }
 }

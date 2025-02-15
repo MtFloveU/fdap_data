@@ -1,18 +1,57 @@
 {
     "id": "1459933885974953984",
     "screen_name": "zhao_mama",
-    "name": "坂下りっか👲❤️👲",
+    "name": "六花那个坂下庄人",
     "description": "极端支黑/极左/不学无术/又蠢又坏/不是夸出/性压抑支男/种花家的小兔子一枚吖 永远永远爱你哦",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1871013086402080768/BC36xQDg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1459933885974953984/1719751047",
-    "followers_count": 3082,
-    "statuses_count": 16282,
-    "favourites_count": 37105,
+    "followers_count": 3084,
+    "statuses_count": 16351,
+    "favourites_count": 37218,
     "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-11-15 01:19:29 +08:00",
-    "url": "https://twitter.com/zhao_mama"
+    "url": "https://twitter.com/zhao_mama",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDU5OTMzODg1OTc0OTUzOTg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1965,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 282,
+            "pinned_tweet_ids_str": [
+                "1798060046473154832"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1636910369000,
+            "updated_at": 1739589294389
+        }
+    }
 }

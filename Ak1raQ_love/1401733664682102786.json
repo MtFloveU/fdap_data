@@ -5,14 +5,74 @@
     "description": "东海渥集巫女/IG: ilhajugvn/looking for our Chalice and fighting against the Blade/裏：@fulgiyan/桔：@__Ju___Ju__",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1865659207124664320/z7pLnQDe_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401733664682102786/1736742455",
-    "followers_count": 7644,
-    "statuses_count": 16995,
-    "favourites_count": 122707,
-    "listed_count": 43,
+    "followers_count": 7826,
+    "statuses_count": 17404,
+    "favourites_count": 123353,
+    "listed_count": 44,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
     "created_at": "2021-06-07 10:52:13 +08:00",
-    "url": "https://twitter.com/mukdengise"
+    "url": "https://twitter.com/mukdengise",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDAxNzMzNjY0NjgyMTAyNzg2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "xyz.damo3.site/#/register?cod…",
+                            "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                            "url": "https://t.co/1G1Jz64Dew",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 707,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "自用VPN🪜👉🏻",
+            "media_count": 1359,
+            "pinned_tweet_ids_str": [
+                "1843689660666786148"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/1G1Jz64Dew",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1494494225307963394",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1623034333000,
+            "updated_at": 1739589303682
+        }
+    }
 }

@@ -5,7 +5,7 @@
     "description": "Linux爱好者 / 不想当傻猫(⁠ ⁠╹⁠▽⁠╹⁠ ⁠) / 沉浸于自我的精神世界 / 欢迎和我交往 / 想成为一名优秀的内容创作者",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881000265043857409/6znmaLTP_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655299100148125696/1712329459",
-    "followers_count": 15,
+    "followers_count": 16,
     "statuses_count": 38,
     "favourites_count": 66,
     "listed_count": 0,
@@ -13,6 +13,59 @@
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2023-05-07 19:50:44 +00:00",
-    "url": "https://twitter.com/Zxgaer16971"
+    "created_at": "2023-05-08 03:50:44 +08:00",
+    "url": "https://twitter.com/Zxgaer16971",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjU1Mjk5MTAwMTQ4MTI1Njk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "zxgaer.top",
+                            "expanded_url": "http://zxgaer.top",
+                            "url": "https://t.co/G9vqwSmMI8",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 141,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 13,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/G9vqwSmMI8",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1683489044000,
+            "updated_at": 1739589169406
+        }
+    }
 }

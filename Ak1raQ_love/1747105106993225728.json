@@ -1,18 +1,58 @@
 {
-  "id": "1747105106993225728",
-  "screen_name": "TheSnowFalling",
-  "name": "倒过来的小咖喱¿🍛🏳️‍⚧️",
-  "description": "某一个人小号?(发点怪怪的东西)",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1752766090835558400/R0y4aHhC_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747105106993225728/1705377416",
-  "followers_count": 175,
-  "statuses_count": 719,
-  "favourites_count": 1493,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-01-16 11:55:12 +08:00",
-  "url": "https://twitter.com/TheSnowFalling"
+    "id": "1747105106993225728",
+    "screen_name": "TheSnowFalling",
+    "name": "倒过来的小咖喱¿🍛🏳️‍⚧️",
+    "description": "某一个人小号?(发点怪怪的东西)",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1752766090835558400/R0y4aHhC_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747105106993225728/1705377416",
+    "followers_count": 168,
+    "statuses_count": 719,
+    "favourites_count": 1476,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-01-16 11:55:12 +08:00",
+    "url": "https://twitter.com/TheSnowFalling",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQ3MTA1MTA2OTkzMjI1NzI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 170,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "参宿四",
+            "media_count": 34,
+            "pinned_tweet_ids_str": [
+                "1749334304499609726"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1705377312000,
+            "updated_at": 1739589298729
+        }
+    }
 }

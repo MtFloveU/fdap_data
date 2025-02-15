@@ -5,14 +5,82 @@
     "description": "任意猫,18,She/Her. / @ZaindORp /@KitahasiKawa / @Skynext_China / '愿你幸福而自由.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1826940856261324800/eGHT1hTm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132099720564887552/1736832116",
-    "followers_count": 8097,
-    "statuses_count": 7891,
-    "favourites_count": 106716,
+    "followers_count": 8155,
+    "statuses_count": 7938,
+    "favourites_count": 106859,
     "listed_count": 24,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2019-05-25 09:43:01 +08:00",
-    "url": "https://twitter.com/anyneko_"
+    "url": "https://twitter.com/anyneko_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTMyMDk5NzIwNTY0ODg3NTUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/anyneko",
+                            "expanded_url": "https://t.me/anyneko",
+                            "url": "https://t.co/kekCWTVvYT",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2255,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "语烟谷设计院",
+            "media_count": 746,
+            "pinned_tweet_ids_str": [
+                "1838219002893771020"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/kekCWTVvYT",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1546020801853669376",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 688,
+                    "name": "Non-Governmental & Nonprofit Organization ",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false,
+            "bitcoin_handle": "bc1qx65xv3pzn37ygqpdslfn3l4erxxzgtc6qs2yzd",
+            "ethereum_handle": "0x14312Cab857FD0C209515b5900A6ccCE89FAca60"
+        },
+        "twe_private_fields": {
+            "created_at": 1558748581000,
+            "updated_at": 1739589287485
+        }
+    }
 }

@@ -1,18 +1,59 @@
 {
-  "id": "1712964862647619584",
-  "screen_name": "Ventinyney",
-  "name": "不二咲千寻🍥🏳️‍⚧️",
-  "description": "泛性恋/MTF/无证含糖🍥/INFP/重度抑郁,焦虑/休学中/陪姐姐ing/可能双相,边缘性人格障碍/喜欢正太/电子爱好者/furry控/中二节奏/CS2/VRchat/MC/羽毛球/08/172好高呜呜呜/炸柜/快来互fo/永远可爱的姐姐😘: @Hollow99100",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1757367692024295424/s30GjxDb_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712964862647619584/1697329237",
-  "followers_count": 483,
-  "statuses_count": 168,
-  "favourites_count": 3008,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-10-14 06:53:50 +08:00",
-  "url": "https://twitter.com/Ventinyney"
+    "id": "1712964862647619584",
+    "screen_name": "Ventinyney",
+    "name": "不二咲千寻🍥🏳️‍⚧️",
+    "description": "泛性恋/MTF/无证含糖🍥/INFP/重度抑郁,焦虑/休学中/陪姐姐ing/可能双相,边缘性人格障碍/喜欢正太/电子爱好者/furry控/中二节奏/CS2/VRchat/MC/羽毛球/08/172好高呜呜呜/炸柜/快来互fo/永远可爱的姐姐😘: @Hollow99100",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1757367692024295424/s30GjxDb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712964862647619584/1697329237",
+    "followers_count": 491,
+    "statuses_count": 168,
+    "favourites_count": 2871,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-10-14 06:53:50 +08:00",
+    "url": "https://twitter.com/Ventinyney",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzEyOTY0ODYyNjQ3NjE5NTg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 828,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 30,
+            "pinned_tweet_ids_str": [
+                "1749743833896858106"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1697237630000,
+            "updated_at": 1739589298728
+        }
+    }
 }

@@ -3,16 +3,71 @@
     "screen_name": "FxxkEverybody",
     "name": "̶破̶碎̶乌̶托̶邦̶ - ℬ𝓇𝑜𝓀𝑒𝓃 𝒰𝓉𝑜𝓅𝒾𝒶 🎸",
     "description": "永远喜欢@Yangzixingfu｜唯意志论者｜原为习近平official｜电吉他相当牛逼，想要读书，编程随想粉丝，互fo，精神状态极差，od｜双性恋，友跨｜坐标苏州｜我想去牛津/伯克利讀書｜Give me unlimited drugs｜那不能杀死我的，使我更强",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1881351705876692992/wPbuN-IM_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890255392065875968/ne7ebaxD_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797292126662987776/1737953031",
-    "followers_count": 558,
-    "statuses_count": 3387,
-    "favourites_count": 12165,
+    "followers_count": 632,
+    "statuses_count": 3600,
+    "favourites_count": 12446,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-06-02 23:41:21 +08:00",
-    "url": "https://twitter.com/FxxkEverybody"
+    "url": "https://twitter.com/FxxkEverybody",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk3MjkyMTI2NjYyOTg3Nzc2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "BrokenUtopiathink.blogspot.com",
+                            "expanded_url": "http://BrokenUtopiathink.blogspot.com",
+                            "url": "https://t.co/H98v3vvkZN",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1138,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "乌托邦",
+            "media_count": 252,
+            "pinned_tweet_ids_str": [
+                "1890224979909964163"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/H98v3vvkZN",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1717342881000,
+            "updated_at": 1739589198295
+        }
+    }
 }

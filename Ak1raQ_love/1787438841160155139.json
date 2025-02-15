@@ -1,18 +1,98 @@
 {
-  "id": "1787438841160155139",
-  "screen_name": "howny215841",
-  "name": "枫林叶🍁",
-  "description": "本枫叶@fengye129小号，还是坚持做反共的反贼，坚持走真正的自由民主道路/自由派𝔽𝕐",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1827611030392074242/13VnWeBp_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787438841160155139/1714994882",
-  "followers_count": 152,
-  "statuses_count": 10,
-  "favourites_count": 221,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-05-06 19:07:15 +08:00",
-  "url": "https://twitter.com/howny215841"
+    "id": "1787438841160155139",
+    "screen_name": "howny215841",
+    "name": "枫林叶🍁",
+    "description": "本枫叶@fengye129小号，还是坚持做反共的反贼，坚持走真正的自由民主道路/自由派𝔽𝕐",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1827611030392074242/13VnWeBp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787438841160155139/1714994882",
+    "followers_count": 142,
+    "statuses_count": 10,
+    "favourites_count": 218,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-05-06 19:07:15 +08:00",
+    "url": "https://twitter.com/howny215841",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzg3NDM4ODQxMTYwMTU1MTM5",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @fengye129",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 23,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "fengye129",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "UserUnavailable",
+                                        "reason": "Suspended",
+                                        "message": "User is suspended"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "follow_request_sent": true,
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 430,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "庆丰包子铺",
+            "media_count": 3,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1802194934365086205",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1714993635000,
+            "updated_at": 1739589207840
+        }
+    }
 }

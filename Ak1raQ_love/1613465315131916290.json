@@ -5,14 +5,51 @@
     "description": "",
     "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
     "profile_banner_url": null,
-    "followers_count": 33,
-    "statuses_count": 4,
-    "favourites_count": 7,
+    "followers_count": 45,
+    "statuses_count": 5,
+    "favourites_count": 13,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2023-01-12 17:18:13 +08:00",
-    "url": "https://twitter.com/Christns3"
+    "url": "https://twitter.com/Christns3",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjEzNDY1MzE1MTMxOTE2Mjkw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2224,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 2,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1673515093000,
+            "updated_at": 1739589185112
+        }
+    }
 }

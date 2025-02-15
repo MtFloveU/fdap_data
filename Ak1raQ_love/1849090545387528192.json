@@ -6,13 +6,68 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1859800873276407811/TYvqReDU_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849090545387528192/1731420391",
     "followers_count": 241,
-    "statuses_count": 2346,
-    "favourites_count": 3284,
+    "statuses_count": 2363,
+    "favourites_count": 3316,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-10-23 14:09:09 +00:00",
-    "url": "https://twitter.com/Net2ach_"
+    "created_at": "2024-10-23 22:09:09 +08:00",
+    "url": "https://twitter.com/Net2ach_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQ5MDkwNTQ1Mzg3NTI4MTky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/Net2achTeg",
+                            "expanded_url": "http://t.me/Net2achTeg",
+                            "url": "https://t.co/OHfkCKUbOl",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 276,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "416D的小窝/416D的工作间",
+            "media_count": 171,
+            "pinned_tweet_ids_str": [
+                "1886328040810262637"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/OHfkCKUbOl",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1729692549000,
+            "updated_at": 1739589265461
+        }
+    }
 }

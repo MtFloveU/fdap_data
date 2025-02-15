@@ -1,18 +1,68 @@
 {
-  "id": "1790293944414457856",
-  "screen_name": "Sayuyzdzo",
-  "name": "Sayu一直都在哦🇯🇵",
-  "description": "中国人は冷静さを保つ必要があります",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1817819618469203969/wkJgkhTc_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790293944414457856/1715763861",
-  "followers_count": 123,
-  "statuses_count": 404,
-  "favourites_count": 644,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-05-14 16:12:33 +08:00",
-  "url": "https://twitter.com/Sayuyzdzo"
+    "id": "1790293944414457856",
+    "screen_name": "Sayuyzdzo",
+    "name": "Sayu一直都在哦🇯🇵",
+    "description": "中国人は冷静さを保つ必要があります",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1817819618469203969/wkJgkhTc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790293944414457856/1715763861",
+    "followers_count": 121,
+    "statuses_count": 406,
+    "favourites_count": 651,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-05-14 16:12:33 +08:00",
+    "url": "https://twitter.com/Sayuyzdzo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzkwMjkzOTQ0NDE0NDU3ODU2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 577,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Chinese Genshin Party",
+            "media_count": 45,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1790418752636686565",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1715674353000,
+            "updated_at": 1739589236487
+        }
+    }
 }

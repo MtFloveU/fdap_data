@@ -1,18 +1,55 @@
 {
-  "id": "1847896784791883777",
-  "screen_name": "yezhixyn",
-  "name": "夜芷🍥",
-  "description": "09年║23 2 4hrt║在读高一是高中牲║可能有双相║不定时爆血图",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1847899507364941824/cdcwf7kj_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847896784791883777/1730977080",
-  "followers_count": 113,
-  "statuses_count": 19,
-  "favourites_count": 80,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-10-20 15:05:21 +08:00",
-  "url": "https://twitter.com/yezhixyn"
+    "id": "1847896784791883777",
+    "screen_name": "yezhixyn",
+    "name": "夜芷🍥",
+    "description": "09年║23 2 4hrt║在读高一是高中牲║可能有双相║不定时爆血图",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1847899507364941824/cdcwf7kj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847896784791883777/1730977080",
+    "followers_count": 114,
+    "statuses_count": 19,
+    "favourites_count": 78,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-10-20 15:05:21 +08:00",
+    "url": "https://twitter.com/yezhixyn",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQ3ODk2Nzg0NzkxODgzNzc3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 43,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 4,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1729407921000,
+            "updated_at": 1739589272743
+        }
+    }
 }

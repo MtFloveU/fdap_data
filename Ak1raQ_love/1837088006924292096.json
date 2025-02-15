@@ -1,18 +1,90 @@
 {
-  "id": "1837088006924292096",
-  "screen_name": "sasakijupei",
-  "name": "屠支部书记执刑官限时回归😈",
-  "description": "淡退，骂我者滞纳猪",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1845414172122808321/luinrj_I_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837088006924292096/1728815644",
-  "followers_count": 283,
-  "statuses_count": 356,
-  "favourites_count": 1019,
-  "listed_count": 2,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-09-20 19:15:04 +08:00",
-  "url": "https://twitter.com/sasakijupei"
+    "id": "1837088006924292096",
+    "screen_name": "sasakijupei",
+    "name": "屠支部书记执刑官限时回归😈",
+    "description": "淡退，骂我者滞纳猪",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1845414172122808321/luinrj_I_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837088006924292096/1728815644",
+    "followers_count": 269,
+    "statuses_count": 354,
+    "favourites_count": 920,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-09-20 19:15:04 +08:00",
+    "url": "https://twitter.com/sasakijupei",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM3MDg4MDA2OTI0MjkyMDk2",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @langren8964",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 25,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "langren8964",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "langren8964"
+                                        },
+                                        "rest_id": "1834168992577019904"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1950,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 32,
+            "pinned_tweet_ids_str": [
+                "1842170604562399566"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1726830904000,
+            "updated_at": 1739589205528
+        }
+    }
 }

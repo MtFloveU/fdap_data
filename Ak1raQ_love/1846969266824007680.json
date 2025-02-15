@@ -1,18 +1,80 @@
 {
-  "id": "1846969266824007680",
-  "screen_name": "NaciMe537",
-  "name": "空白",
-  "description": "君子不器/mtx满天星/别讨厌我aa",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1856731415246942208/ub3kHVRa_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1846969266824007680/1729620068",
-  "followers_count": 105,
-  "statuses_count": 461,
-  "favourites_count": 600,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2024-10-18 01:39:35 +08:00",
-  "url": "https://twitter.com/NaciMe537"
+    "id": "1846969266824007680",
+    "screen_name": "NaciMe537",
+    "name": "空白",
+    "description": "君子不器/mtx满天星/别讨厌我aa",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1874879684489719808/CzUUW4_t_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1846969266824007680/1729620068",
+    "followers_count": 195,
+    "statuses_count": 816,
+    "favourites_count": 1741,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-10-18 01:39:35 +08:00",
+    "url": "https://twitter.com/NaciMe537",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQ2OTY5MjY2ODI0MDA3Njgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "florr.io",
+                            "expanded_url": "http://florr.io",
+                            "url": "https://t.co/wHKGoCVxeY",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 356,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "距离您只有0.3km",
+            "media_count": 28,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/wHKGoCVxeY",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1855491701252755548",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 940,
+                    "name": "Musician",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1729186775000,
+            "updated_at": 1739589272743
+        }
+    }
 }

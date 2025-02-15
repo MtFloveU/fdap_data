@@ -2,17 +2,54 @@
     "id": "1654002469180178432",
     "screen_name": "cynti023",
     "name": "Cynthia C♥️",
-    "description": "廿八载春雾凝香，一盏清欢渡平生🌕✨",
+    "description": "廿八载春雾凝香久，五百盏清欢渡岁长 🌕✨",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1852775832038891520/PPal3nCT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1654002469180178432/1730571167",
-    "followers_count": 4619,
-    "statuses_count": 4000,
-    "favourites_count": 2807,
+    "followers_count": 4613,
+    "statuses_count": 4005,
+    "favourites_count": 2823,
     "listed_count": 14,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-05-04 13:58:22 +08:00",
-    "url": "https://twitter.com/cynti023"
+    "url": "https://twitter.com/cynti023",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjU0MDAyNDY5MTgwMTc4NDMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 578,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 183,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1683179902000,
+            "updated_at": 1739589292073
+        }
+    }
 }

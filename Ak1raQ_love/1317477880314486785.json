@@ -5,14 +5,111 @@
     "description": "猫箱性别 请叫我花火｜音乐家|摄影师‖电子信息进厂预备役，🏳️‍🌈🏳️‍⚧️友好|简体中文🇨🇳 繁體中文🇭🇰🇲🇴🇹🇼 日本語🇯🇵 English🌏️缺爱的笨蛋@Hikari_Ciallo @Allknowbody2 我的另一形态@foreignerofmoon 关注点赞转发不代表认同",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1842375524985024512/LtI_Pdpq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317477880314486785/1728058443",
-    "followers_count": 1101,
-    "statuses_count": 2667,
-    "favourites_count": 9490,
+    "followers_count": 1126,
+    "statuses_count": 2740,
+    "favourites_count": 9791,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2020-10-17 22:49:48 +08:00",
-    "url": "https://twitter.com/Arishia_404"
+    "url": "https://twitter.com/Arishia_404",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzE3NDc3ODgwMzE0NDg2Nzg1",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Katayose_Kizuna",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Katayose_Kizuna",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Katayose_Kizuna"
+                                        },
+                                        "rest_id": "1812867681445617664"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "blog.katayo.wiki",
+                            "expanded_url": "https://blog.katayo.wiki",
+                            "url": "https://t.co/ObLGrpVtyM",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1354,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "DX3906星系黑域",
+            "media_count": 249,
+            "pinned_tweet_ids_str": [
+                "1857114443169374377"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/ObLGrpVtyM",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1825910607062905207",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 940,
+                    "name": "Musician",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "1LUpcSSNBg8kms6CwTuaLLWt5uLakVkEXJ"
+        },
+        "twe_private_fields": {
+            "created_at": 1602946188000,
+            "updated_at": 1739589287485
+        }
+    }
 }

@@ -5,14 +5,53 @@
     "description": "“那一晚，旧世界的所有青春与美都死去了”   she/they  超绝沃尔玛购物袋official\nmommy @doraneko_rana   sister @59ryq 里推（或者说，各种碎碎念）@yukikaze39324",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872247800387469312/Lgf4o-_h_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470407185121169410/1737818028",
-    "followers_count": 591,
-    "statuses_count": 4692,
-    "favourites_count": 91322,
+    "followers_count": 599,
+    "statuses_count": 4724,
+    "favourites_count": 93190,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-12-13 22:56:17 +08:00",
-    "url": "https://twitter.com/iranon_lcf"
+    "url": "https://twitter.com/iranon_lcf",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDcwNDA3MTg1MTIxMTY5NDEw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 980,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "大理石之都艾拉",
+            "media_count": 294,
+            "pinned_tweet_ids_str": [
+                "1889135445877121286"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1639407377000,
+            "updated_at": 1739589301191
+        }
+    }
 }

@@ -1,0 +1,70 @@
+{
+    "id": "1410093182176530437",
+    "screen_name": "CoolJX4",
+    "name": "私は 進軒 (｡’▽’｡)♡",
+    "description": "≧ω≦≧∇≦≧ω≦≧∇≦\n薯條：@Flowers8964\n小號：@RisingStar97606",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1885942715541807104/7N0YgPXe_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410093182176530437/1696158043",
+    "followers_count": 822,
+    "statuses_count": 7138,
+    "favourites_count": 59765,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-06-30 12:31:11 +08:00",
+    "url": "https://twitter.com/CoolJX4",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDEwMDkzMTgyMTc2NTMwNDM3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 835,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Malaysia",
+            "media_count": 768,
+            "pinned_tweet_ids_str": [
+                "1697622511188623794"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1645008076972634113",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1625027471000,
+            "updated_at": 1739589169405
+        }
+    }
+}

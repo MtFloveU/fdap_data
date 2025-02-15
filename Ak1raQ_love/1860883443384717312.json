@@ -6,13 +6,53 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888459255465807872/fCYhZYKr_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860883443384717312/1737676999",
     "followers_count": 222,
-    "statuses_count": 885,
-    "favourites_count": 13846,
+    "statuses_count": 894,
+    "favourites_count": 13946,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-11-25 03:09:48 +00:00",
-    "url": "https://twitter.com/djrenjihead"
+    "created_at": "2024-11-25 11:09:48 +08:00",
+    "url": "https://twitter.com/djrenjihead",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODYwODgzNDQzMzg0NzE3MzEy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 429,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Souvlaki Space Station",
+            "media_count": 78,
+            "pinned_tweet_ids_str": [
+                "1890263291727081826"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1732504188000,
+            "updated_at": 1739589169406
+        }
+    }
 }

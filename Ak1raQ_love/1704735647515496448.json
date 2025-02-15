@@ -1,18 +1,55 @@
 {
-  "id": "1704735647515496448",
-  "screen_name": "kekemafu0703",
-  "name": "珂珂🍥neko",
-  "description": "₍˄·͈༝·͈˄*₎◞ ̑̑ |  家在喵星~ | 最爱小鱼干了(=^･ｪ･^=)",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1704735895151427584/eFCNNFmc_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1704735647515496448/1695276056",
-  "followers_count": 88,
-  "statuses_count": 27,
-  "favourites_count": 286,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2023-09-21 13:53:59 +08:00",
-  "url": "https://twitter.com/kekemafu0703"
+    "id": "1704735647515496448",
+    "screen_name": "kekemafu0703",
+    "name": "珂珂🍥neko",
+    "description": "₍˄·͈༝·͈˄*₎◞ ̑̑ |  家在喵星~ | 最爱小鱼干了(=^･ｪ･^=)",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1704735895151427584/eFCNNFmc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1704735647515496448/1695276056",
+    "followers_count": 86,
+    "statuses_count": 27,
+    "favourites_count": 286,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-09-21 13:53:59 +08:00",
+    "url": "https://twitter.com/kekemafu0703",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzA0NzM1NjQ3NTE1NDk2NDQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 523,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "₍˄·͈༝·͈˄*₎◞ ̑̑| 家在喵星~",
+            "media_count": 4,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1695275639000,
+            "updated_at": 1739589244385
+        }
+    }
 }

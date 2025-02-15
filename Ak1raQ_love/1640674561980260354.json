@@ -1,18 +1,57 @@
 {
-  "id": "1640674561980260354",
-  "screen_name": "NmsleseResearch",
-  "name": "熊老大 🔬 兔友研究院B🐻t",
-  "description": "推特兔友的迷惑行為收集處（晚安推除外）丨歡迎投稿",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1866832536816795648/rAEgM1H5_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640674561980260354/1701527499",
-  "followers_count": 11199,
-  "statuses_count": 22692,
-  "favourites_count": 362367,
-  "listed_count": 51,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2023-03-28 19:17:59 +08:00",
-  "url": "https://twitter.com/NmsleseResearch"
+    "id": "1640674561980260354",
+    "screen_name": "NmsleseResearch",
+    "name": "熊老大 🔬 兔友研究院B🐻t",
+    "description": "推特兔友的迷惑行為收集處（晚安推除外）丨歡迎投稿",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1866832536816795648/rAEgM1H5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640674561980260354/1701527499",
+    "followers_count": 12385,
+    "statuses_count": 23056,
+    "favourites_count": 377958,
+    "listed_count": 58,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-03-28 19:17:59 +08:00",
+    "url": "https://twitter.com/NmsleseResearch",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjQwNjc0NTYxOTgwMjYwMzU0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2617,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "Nmslese City",
+            "media_count": 7765,
+            "pinned_tweet_ids_str": [
+                "1874017581029552191"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1680002279000,
+            "updated_at": 1739589296475
+        }
+    }
 }

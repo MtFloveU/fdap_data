@@ -5,14 +5,76 @@
     "description": "说些自己喜欢的|YouTube https://t.co/0ts4jNwlfA|互fo小号@CR_AIMU 100%回fo|",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1851987705611325443/GUJQm6uI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708305542396125184/1730383263",
-    "followers_count": 4182,
-    "statuses_count": 4379,
-    "favourites_count": 15840,
-    "listed_count": 17,
+    "followers_count": 4488,
+    "statuses_count": 4535,
+    "favourites_count": 16042,
+    "listed_count": 16,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2023-10-01 10:19:26 +08:00",
-    "url": "https://twitter.com/SAIMU726"
+    "url": "https://twitter.com/SAIMU726",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzA4MzA1NTQyMzk2MTI1MTg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/@aimu726?si=36…",
+                            "expanded_url": "https://youtube.com/@aimu726?si=36zBEfS9Z7fvDFIT",
+                            "url": "https://t.co/0ts4jNwlfA",
+                            "indices": [
+                                16,
+                                39
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 896,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 856,
+            "pinned_tweet_ids_str": [
+                "1870202207532126343"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1776949009606959428",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1696126766000,
+            "updated_at": 1739589289590
+        }
+    }
 }

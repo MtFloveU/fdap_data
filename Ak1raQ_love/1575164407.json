@@ -7,12 +7,50 @@
     "profile_banner_url": null,
     "followers_count": 11,
     "statuses_count": 143,
-    "favourites_count": 996,
+    "favourites_count": 1185,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": true,
     "following": false,
     "followed_by": true,
     "created_at": "2013-07-07 21:16:23 +08:00",
-    "url": "https://twitter.com/Aqaqqa1"
+    "url": "https://twitter.com/Aqaqqa1",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTc1MTY0NDA3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 960,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1373202983000,
+            "updated_at": 1739589190763
+        }
+    }
 }

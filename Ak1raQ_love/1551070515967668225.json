@@ -1,18 +1,55 @@
 {
-  "id": "1551070515967668225",
-  "screen_name": "MaxHamm11891586",
-  "name": "Max Hammer",
-  "description": "对各种政治倾向友好，对傻哔弱质不友好。",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1551070560527863809/OzKw-8ZV_normal.jpg",
-  "profile_banner_url": null,
-  "followers_count": 190,
-  "statuses_count": 2061,
-  "favourites_count": 14370,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2022-07-24 13:03:33 +08:00",
-  "url": "https://twitter.com/MaxHamm11891586"
+    "id": "1551070515967668225",
+    "screen_name": "MaxHamm11891586",
+    "name": "Max Hammer",
+    "description": "对各种政治倾向友好，对傻哔弱质不友好。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1551070560527863809/OzKw-8ZV_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 186,
+    "statuses_count": 2062,
+    "favourites_count": 14256,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-07-24 13:03:33 +08:00",
+    "url": "https://twitter.com/MaxHamm11891586",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTUxMDcwNTE1OTY3NjY4MjI1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3815,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "地球",
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1658639013000,
+            "updated_at": 1739589214059
+        }
+    }
 }

@@ -5,14 +5,66 @@
     "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1826622521103568896/ueTyIpTX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824802522529140736/1724336698",
-    "followers_count": 139,
-    "statuses_count": 507,
-    "favourites_count": 1212,
+    "followers_count": 151,
+    "statuses_count": 551,
+    "favourites_count": 1337,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-08-17 21:36:54 +08:00",
-    "url": "https://twitter.com/xrza2021_09"
+    "url": "https://twitter.com/xrza2021_09",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI0ODAyNTIyNTI5MTQwNzM2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 260,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 60,
+            "pinned_tweet_ids_str": [
+                "1888488400837333202"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1870844556763340874",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 962,
+                    "name": "Mobile Application",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1723901814000,
+            "updated_at": 1739589260496
+        }
+    }
 }

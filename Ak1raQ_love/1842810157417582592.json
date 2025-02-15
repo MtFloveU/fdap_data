@@ -3,16 +3,97 @@
     "screen_name": "aaazbushi",
     "name": "我太想进步了(爱国互fo)",
     "description": "伟大、光荣、正确的中国共产党万岁！",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1853843519913578496/2Tk2lmxF_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1888952363437920256/IFhl52Ps_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842810157417582592/1730825766",
-    "followers_count": 15,
-    "statuses_count": 18,
-    "favourites_count": 68,
+    "followers_count": 16,
+    "statuses_count": 26,
+    "favourites_count": 91,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-10-06 14:12:48 +08:00",
-    "url": "https://twitter.com/aaazbushi"
+    "url": "https://twitter.com/aaazbushi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQyODEwMTU3NDE3NTgyNTky",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @bushi_233",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 23,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "bushi_233",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "bushi_233"
+                                        },
+                                        "rest_id": "1804154448215969795"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 35,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 3,
+            "pinned_tweet_ids_str": [
+                "1867809357578351058"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1842815852112187539",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 688,
+                    "name": "Non-Governmental & Nonprofit Organization ",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1728195168000,
+            "updated_at": 1739589272743
+        }
+    }
 }

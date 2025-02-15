@@ -1,18 +1,68 @@
 {
-  "id": "2292841878",
-  "screen_name": "daixiaomayi",
-  "name": "BNS",
-  "description": "mbn",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1076306738142310400/5T2EopHI_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2292841878/1545446469",
-  "followers_count": 477,
-  "statuses_count": 744,
-  "favourites_count": 165,
-  "listed_count": 10,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2014-01-15 23:11:02 +08:00",
-  "url": "https://twitter.com/daixiaomayi"
+    "id": "2292841878",
+    "screen_name": "daixiaomayi",
+    "name": "BNS",
+    "description": "mbn",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1076306738142310400/5T2EopHI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2292841878/1545446469",
+    "followers_count": 483,
+    "statuses_count": 745,
+    "favourites_count": 169,
+    "listed_count": 10,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2014-01-15 23:11:02 +08:00",
+    "url": "https://twitter.com/daixiaomayi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoyMjkyODQxODc4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 5742,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "",
+            "media_count": 7,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1536570869405065217",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 192,
+                    "name": "Financial Services",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1389798662000,
+            "updated_at": 1739589234225
+        }
+    }
 }

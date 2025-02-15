@@ -1,18 +1,55 @@
 {
-  "id": "1549041702370914304",
-  "screen_name": "kmagined",
-  "name": "夢軻～@",
-  "description": "🍥01/02｜170CM•45KG｜有爱人&勿扰&平日淡推｜精神状态急剧下滑ing（od警告｜ ✞升天✞",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1741141024767111168/dWaUP12M_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549041702370914304/1704127610",
-  "followers_count": 1220,
-  "statuses_count": 172,
-  "favourites_count": 9640,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-07-18 22:41:45 +08:00",
-  "url": "https://twitter.com/kmagined"
+    "id": "1549041702370914304",
+    "screen_name": "kmagined",
+    "name": "夢軻～@",
+    "description": "🍥01/02｜170CM•45KG｜有爱人&勿扰&平日淡推｜精神状态急剧下滑ing（od警告｜ ✞升天✞",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1741141024767111168/dWaUP12M_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549041702370914304/1704127610",
+    "followers_count": 1202,
+    "statuses_count": 172,
+    "favourites_count": 9261,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-07-18 22:41:45 +08:00",
+    "url": "https://twitter.com/kmagined",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQ5MDQxNzAyMzcwOTE0MzA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1105,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "IP：Wuhan,China ",
+            "media_count": 5,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1658155305000,
+            "updated_at": 1739589301193
+        }
+    }
 }

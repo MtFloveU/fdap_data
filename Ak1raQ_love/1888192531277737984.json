@@ -5,14 +5,67 @@
     "description": "ENFP-A 10年学生 170cm|48kg 万用人 包容所有人 中文|English 欢迎来视奸我 喜欢RFS IF SFS 会发疯 如果骂人了都是我的错 欢迎互fo 尽量回fo 骂我的下辈子去平壤哈🙄 英文全是机翻 大号&Telegram @fun8964 @little_fun8964",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888624090925441024/4Mt6Ln3C_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888192531277737984/1739015713",
-    "followers_count": 249,
-    "statuses_count": 249,
-    "favourites_count": 282,
+    "followers_count": 251,
+    "statuses_count": 300,
+    "favourites_count": 321,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2025-02-08 19:46:05 +08:00",
-    "url": "https://twitter.com/small_fun8964"
+    "url": "https://twitter.com/small_fun8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODg4MTkyNTMxMjc3NzM3OTg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/nmbot80429",
+                            "expanded_url": "https://ngl.link/nmbot80429",
+                            "url": "https://t.co/JfH8ZzpVZT",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 433,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "中国北京通州中南海",
+            "media_count": 57,
+            "pinned_tweet_ids_str": [
+                "1888505160793747711"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/JfH8ZzpVZT",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1739015165000,
+            "updated_at": 1739589173350
+        }
+    }
 }

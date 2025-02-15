@@ -5,14 +5,53 @@
     "description": "經常發抱抱，blue archive 玩家(國際服)，會python(基礎)，活的，有問題私信(正常的會回)，別ban我(求)，想做位逍遙自在的仙，好無聊的一個人，有悲傷和痛苦的地方，就有可能有我的抱抱~( • ̀ω•́ )✧",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1818199395399290880/-Z0GVcm2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556640645447827461/1724148414",
-    "followers_count": 615,
-    "statuses_count": 8221,
-    "favourites_count": 29050,
+    "followers_count": 613,
+    "statuses_count": 8316,
+    "favourites_count": 29686,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-08-08 21:57:23 +08:00",
-    "url": "https://twitter.com/Bq88UorZLiFvyMN"
+    "url": "https://twitter.com/Bq88UorZLiFvyMN",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTU2NjQwNjQ1NDQ3ODI3NDYx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1625,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "仙界",
+            "media_count": 36,
+            "pinned_tweet_ids_str": [
+                "1820666880765686115"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1659967043000,
+            "updated_at": 1739589289590
+        }
+    }
 }

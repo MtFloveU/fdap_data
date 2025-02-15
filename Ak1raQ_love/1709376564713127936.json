@@ -3,16 +3,56 @@
     "screen_name": "guanjiao_",
     "name": "管脚🍥🏳️‍⚧️",
     "description": "无证🍥23.12.8/she or they/天残党/废物/深柜/INT(F?)P/音游人/2006.12但是永远14岁！///////////// 我只会躲在墙角，看着别人的成就和未来自己什么都做不了 垃圾桶@chunhuiyuyin",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1870530903463559168/pzG8Yl4-_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1881272842882580480/gJJ3sZdS_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1709376564713127936/1701589340",
-    "followers_count": 1238,
-    "statuses_count": 9287,
-    "favourites_count": 49544,
-    "listed_count": 5,
+    "followers_count": 1268,
+    "statuses_count": 10041,
+    "favourites_count": 51799,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-10-04 09:15:25 +08:00",
-    "url": "https://twitter.com/guanjiao_"
+    "url": "https://twitter.com/guanjiao_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzA5Mzc2NTY0NzEzMTI3OTM2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1097,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 1224,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1696382125000,
+            "updated_at": 1739589296476
+        }
+    }
 }

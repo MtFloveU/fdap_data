@@ -1,18 +1,71 @@
 {
-  "id": "825269386441142272",
-  "screen_name": "qiuyuair",
-  "name": "VK2VCU BG5VCU AK6CU Qiuyuair",
-  "description": "MtX(?) BG5VCU 🇨🇳 VK2VCU 🇦🇺 AK6CU 🇺🇸 BUCT BMgt 2024' USYD MComm (Extension) 2026' Stand with 🏳️‍⚧️ forever",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1587646882540826624/huJLnbw7_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/825269386441142272/1711695452",
-  "followers_count": 181,
-  "statuses_count": 298,
-  "favourites_count": 2306,
-  "listed_count": 3,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2017-01-28 17:08:49 +08:00",
-  "url": "https://twitter.com/qiuyuair"
+    "id": "825269386441142272",
+    "screen_name": "qiuyuair",
+    "name": "VK2VCU BG5VCU AK6CU Qiuyuair",
+    "description": "MtX(?) BG5VCU 🇨🇳 VK2VCU 🇦🇺 AK6CU 🇺🇸 BUCT BMgt 2024' USYD MComm (Extension) 2026' Stand with 🏳️‍⚧️ forever",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1587646882540826624/huJLnbw7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/825269386441142272/1711695452",
+    "followers_count": 192,
+    "statuses_count": 325,
+    "favourites_count": 2538,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2017-01-28 17:08:49 +08:00",
+    "url": "https://twitter.com/qiuyuair",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo4MjUyNjkzODY0NDExNDIyNzI=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "qiuyuair.com",
+                            "expanded_url": "https://qiuyuair.com",
+                            "url": "https://t.co/1lZ7E88lrv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 252,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "福州, CHN / Sydney, AUS",
+            "media_count": 109,
+            "pinned_tweet_ids_str": [
+                "1874128048544768121"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/1lZ7E88lrv",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1485594529000,
+            "updated_at": 1739589275107
+        }
+    }
 }

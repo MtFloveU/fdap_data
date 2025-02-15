@@ -5,14 +5,110 @@
     "description": "out with the old, in with the new (孩子们，我是云云云二刺螈）. 🇨🇳键政→岁静／日常／旅行／潜心打雷中…",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890368542899597314/xN6X7EYg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1765225639148490752/1739525159",
-    "followers_count": 1437,
-    "statuses_count": 6811,
-    "favourites_count": 8978,
+    "followers_count": 1432,
+    "statuses_count": 6819,
+    "favourites_count": 9000,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-03-06 11:59:32 +08:00",
-    "url": "https://twitter.com/suhong11300"
+    "url": "https://twitter.com/suhong11300",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzY1MjI1NjM5MTQ4NDkwNzUy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @suhong11302",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 25,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "suhong11302",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "suhong11302"
+                                        },
+                                        "rest_id": "1782638473511645184"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "docs.google.com/document/d/1-F…",
+                            "expanded_url": "https://docs.google.com/document/d/1-F6hACw2l0dr_uixAnTf5D1Quo02Q77Z7pFhug5ahDM/edit",
+                            "url": "https://t.co/wCQAVXEr1L",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 815,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "1.76兆赫电波",
+            "media_count": 1054,
+            "pinned_tweet_ids_str": [
+                "1823899385773904274"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/wCQAVXEr1L",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1772271104914268426",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 563,
+                    "name": "Funeral & Cemeteries Services",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1709697572000,
+            "updated_at": 1739589287485
+        }
+    }
 }

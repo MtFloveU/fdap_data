@@ -1,18 +1,57 @@
 {
-  "id": "1554472312568954883",
-  "screen_name": "ccblackrice",
-  "name": "是米饭欸🍥",
-  "description": "INFP-T |  是木桶饭",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1742205978442166272/sQ1djhqj_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554472312568954883/1718560560",
-  "followers_count": 372,
-  "statuses_count": 193,
-  "favourites_count": 2483,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": true,
-  "created_at": "2022-08-02 22:21:04 +08:00",
-  "url": "https://twitter.com/ccblackrice"
+    "id": "1554472312568954883",
+    "screen_name": "ccblackrice",
+    "name": "是米饭欸🍥",
+    "description": "INFP-T |  是木桶饭",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1742205978442166272/sQ1djhqj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554472312568954883/1718560560",
+    "followers_count": 373,
+    "statuses_count": 211,
+    "favourites_count": 2851,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-08-02 22:21:04 +08:00",
+    "url": "https://twitter.com/ccblackrice",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTU0NDcyMzEyNTY4OTU0ODgz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 466,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 41,
+            "pinned_tweet_ids_str": [
+                "1742202737587273883"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1659450064000,
+            "updated_at": 1739589289590
+        }
+    }
 }

@@ -1,18 +1,57 @@
 {
-  "id": "1352281301613568000",
-  "screen_name": "Starlight4You_",
-  "name": "Starlight✨",
-  "description": "年年岁岁花相似，岁岁年年人不同。",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1776753869571399680/nqm8DMRZ_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352281301613568000/1684584477",
-  "followers_count": 5072,
-  "statuses_count": 14897,
-  "favourites_count": 33661,
-  "listed_count": 16,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": true,
-  "followed_by": null,
-  "created_at": "2021-01-21 23:46:11 +08:00",
-  "url": "https://twitter.com/Starlight4You_"
+    "id": "1352281301613568000",
+    "screen_name": "Starlight4You_",
+    "name": "Starlight✨",
+    "description": "年年岁岁花相似，岁岁年年人不同。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1776753869571399680/nqm8DMRZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352281301613568000/1684584477",
+    "followers_count": 5231,
+    "statuses_count": 15294,
+    "favourites_count": 34473,
+    "listed_count": 17,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2021-01-21 23:46:11 +08:00",
+    "url": "https://twitter.com/Starlight4You_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzUyMjgxMzAxNjEzNTY4MDAw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 292,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "location": "星星",
+            "media_count": 2741,
+            "pinned_tweet_ids_str": [
+                "1856285866831823171"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1611243971000,
+            "updated_at": 1739589296475
+        }
+    }
 }

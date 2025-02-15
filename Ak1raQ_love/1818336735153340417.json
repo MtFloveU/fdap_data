@@ -1,18 +1,57 @@
 {
-  "id": "1818336735153340417",
-  "screen_name": "DietoBeAcatNya",
-  "name": "拖把三三猫",
-  "description": "普通摇滚乐手，上网只为交朋友；爱户外，爱音乐，爱旅游，欢迎所有友善的交流",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1818338637739945984/bkeBKX0j_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818336735153340417/1722371521",
-  "followers_count": 10,
-  "statuses_count": 267,
-  "favourites_count": 1069,
-  "listed_count": 0,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2024-07-31 01:24:21 +08:00",
-  "url": "https://twitter.com/DietoBeAcatNya"
+    "id": "1818336735153340417",
+    "screen_name": "DietoBeAcatNya",
+    "name": "拖把三三猫",
+    "description": "普通摇滚乐手，上网只为交朋友；爱户外，爱音乐，爱旅游，欢迎所有友善的交流",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1818338637739945984/bkeBKX0j_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818336735153340417/1722371521",
+    "followers_count": 10,
+    "statuses_count": 267,
+    "favourites_count": 1058,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-07-31 01:24:21 +08:00",
+    "url": "https://twitter.com/DietoBeAcatNya",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODE4MzM2NzM1MTUzMzQwNDE3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 66,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "成都",
+            "media_count": 2,
+            "pinned_tweet_ids_str": [
+                "1825798802063897062"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1722360261000,
+            "updated_at": 1739589214059
+        }
+    }
 }

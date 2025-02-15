@@ -1,18 +1,71 @@
 {
-  "id": "1277546358593863680",
-  "screen_name": "wuzhishan6",
-  "name": "dandan",
-  "description": "欢迎来到 Dandan 的编程 AI 频道！  \n理念：🌟 向前一小步，🚀 人生一大步。  \n\n快速入门，轻松掌握编程与 AI，开启你的全栈开发之旅！\n\n开源免费核心课程：  \n- 🎨 HTML & CSS: 构建网页的基石，打造精美用户界面。  \n- 💫 JavaScript: 让网页充满互动，赋予它动态的灵",
-  "profile_image_url": "https://pbs.twimg.com/profile_images/1807244549577904128/eE0mb3VA_normal.png",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277546358593863680/1734598708",
-  "followers_count": 436,
-  "statuses_count": 691,
-  "favourites_count": 15,
-  "listed_count": 1,
-  "verified_type": null,
-  "is_blue_verified": false,
-  "following": false,
-  "followed_by": true,
-  "created_at": "2020-06-29 18:16:37 +08:00",
-  "url": "https://twitter.com/wuzhishan6"
+    "id": "1277546358593863680",
+    "screen_name": "wuzhishan6",
+    "name": "dandan",
+    "description": "欢迎来到 Dandan 的编程 AI 频道！  \n理念：🌟 向前一小步，🚀 人生一大步。  \n\n快速入门，轻松掌握编程与 AI，开启你的全栈开发之旅！\n\n开源免费核心课程：  \n- 🎨 HTML & CSS: 构建网页的基石，打造精美用户界面。  \n- 💫 JavaScript: 让网页充满互动，赋予它动态的灵",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1807244549577904128/eE0mb3VA_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277546358593863680/1734598708",
+    "followers_count": 449,
+    "statuses_count": 746,
+    "favourites_count": 16,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2020-06-29 18:16:37 +08:00",
+    "url": "https://twitter.com/wuzhishan6",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjc3NTQ2MzU4NTkzODYzNjgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "jia.baoyu2023.top",
+                            "expanded_url": "https://jia.baoyu2023.top",
+                            "url": "https://t.co/2votYw7Tav",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 7456,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 287,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/2votYw7Tav",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1593425797000,
+            "updated_at": 1739589229032
+        }
+    }
 }

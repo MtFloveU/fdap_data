@@ -3,16 +3,80 @@
     "screen_name": "F30102174650",
     "name": "Hentai_Rush_CN🇨🇳",
     "description": "神秘の国铁车迷：为什么会有立及甬QAQ/神秘の三角洲玩家：什么时候才有统帅QAQ/神秘の最好的朋友：@xunxunwangxun",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1862545347228172288/kzp3rxQR_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890453660355690496/Xi1pnx1I_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754734756326150145/1731812119",
-    "followers_count": 33,
-    "statuses_count": 192,
-    "favourites_count": 395,
+    "followers_count": 39,
+    "statuses_count": 227,
+    "favourites_count": 476,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-02-06 13:12:30 +08:00",
-    "url": "https://twitter.com/F30102174650"
+    "url": "https://twitter.com/F30102174650",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU0NzM0NzU2MzI2MTUwMTQ1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "unit.link/htairushchn",
+                            "expanded_url": "http://unit.link/htairushchn",
+                            "url": "https://t.co/PP9G5JIQTM",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 209,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "China Mainland",
+            "media_count": 49,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/PP9G5JIQTM",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1754767226371272815",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 880,
+                    "name": "Travel & Transportation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1707196350000,
+            "updated_at": 1739589220929
+        }
+    }
 }

@@ -5,14 +5,84 @@
     "description": "再強的外表，也藏不住真實的自己...\n這裡是雪花的日常貼文區，隱藏了深為不知人的事\n僅限熟悉推友(通常被此帳追蹤)可以申請訪問\n⚠️可能會隨時封鎖⚠️\n推崇平等自由，粉紅勿擾, 斷續含糖無od暫無自殘但不穩定, 抑鬱,🩵MtX🩷, 同性戀MtF + 順, INFP-T, 🍥27/12/2024，歡迎私信",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887489568548790275/M-HvVzmh_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830463937231646720/1737868930",
-    "followers_count": 264,
-    "statuses_count": 1964,
-    "favourites_count": 25558,
+    "followers_count": 260,
+    "statuses_count": 1996,
+    "favourites_count": 25807,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-09-02 04:33:10 +00:00",
-    "url": "https://twitter.com/SchneeSchmitt"
+    "created_at": "2024-09-02 12:33:10 +08:00",
+    "url": "https://twitter.com/SchneeSchmitt",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODMwNDYzOTM3MjMxNjQ2NzIw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Snowcomics9452",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 28,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Snowcomics9452",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Snowcomics9452"
+                                        },
+                                        "rest_id": "1664948430920359936"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 510,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Madrid (España) | 馬德里(西班牙)",
+            "media_count": 373,
+            "pinned_tweet_ids_str": [
+                "1848660019744776379"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1725251590000,
+            "updated_at": 1739589267789
+        }
+    }
 }
