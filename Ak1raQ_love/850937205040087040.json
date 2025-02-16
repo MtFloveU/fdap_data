@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1880127217394688000/75_xQKXr_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/850937205040087040/1738871095",
     "followers_count": 20581,
-    "statuses_count": 10740,
-    "favourites_count": 44279,
+    "statuses_count": 10742,
+    "favourites_count": 44285,
     "listed_count": 50,
     "verified_type": null,
     "is_blue_verified": true,
@@ -56,10 +56,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 10321,
+            "friends_count": 10324,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "東京 町田市",
+            "location": "Machida-shi, Tokyo",
             "media_count": 1904,
             "pinned_tweet_ids_str": [
                 "1829520537032466918"
@@ -90,7 +90,7 @@
         },
         "twe_private_fields": {
             "created_at": 1491714214000,
-            "updated_at": 1739589239229
+            "updated_at": 1739689871299
         }
     }
 }

@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884571333230759937/_CkcENFZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869440990970556416/1734544811",
     "followers_count": 167,
-    "statuses_count": 332,
-    "favourites_count": 265,
+    "statuses_count": 339,
+    "favourites_count": 275,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,9 +37,9 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "星空合众国云屏市北云区星辰官邸",
-            "media_count": 71,
+            "media_count": 72,
             "pinned_tweet_ids_str": [
-                "1890287226728374569"
+                "1890822527305261057"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1734544488000,
-            "updated_at": 1739589267789
+            "updated_at": 1739689912173
         }
     }
 }

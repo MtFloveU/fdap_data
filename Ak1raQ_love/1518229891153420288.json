@@ -5,9 +5,9 @@
     "description": "拍照只是兴趣，服饰只是爱好|🚪口令88开通私信|中性推主|臭擦边的|除了不露点什么都露",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1826306485309374466/Wge1X5hC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518229891153420288/1721771229",
-    "followers_count": 63953,
-    "statuses_count": 11246,
-    "favourites_count": 25302,
+    "followers_count": 64008,
+    "statuses_count": 11249,
+    "favourites_count": 25301,
     "listed_count": 182,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,7 +24,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -46,11 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 203,
+            "friends_count": 205,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "距离你2km",
-            "media_count": 1409,
+            "media_count": 1410,
             "pinned_tweet_ids_str": [
                 "1714068722921398352"
             ],
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1650809197000,
-            "updated_at": 1739589303682
+            "updated_at": 1739689960763
         }
     }
 }

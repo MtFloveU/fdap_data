@@ -5,10 +5,10 @@
     "description": "我是三崎，@misakixyg这个也是我哦谢谢你和我一起玩，我会记得你😽",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887983199336476672/YFxSqeQJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836782122037874688/1735351573",
-    "followers_count": 4847,
+    "followers_count": 4850,
     "statuses_count": 8862,
     "favourites_count": 11556,
-    "listed_count": 6,
+    "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,7 +24,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,7 +33,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 509,
+            "friends_count": 508,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "距离你3km",
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1726757966000,
-            "updated_at": 1739589270270
+            "updated_at": 1739689915472
         }
     }
 }

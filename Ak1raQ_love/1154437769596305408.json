@@ -5,9 +5,9 @@
     "description": "I think we can do it if we tried",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1857163054565441536/UBtBBp9E_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1154437769596305408/1730556505",
-    "followers_count": 116,
+    "followers_count": 117,
     "statuses_count": 1215,
-    "favourites_count": 10345,
+    "favourites_count": 10343,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,7 +33,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6223,
+            "friends_count": 6220,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "Central Region, Singapore",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1564074387000,
-            "updated_at": 1739589205528
+            "updated_at": 1739689833639
         }
     }
 }

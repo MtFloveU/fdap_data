@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885502250552045568/DXtv2Cbw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837092704045649920/1733536504",
     "followers_count": 672,
-    "statuses_count": 427,
-    "favourites_count": 6126,
+    "statuses_count": 367,
+    "favourites_count": 6127,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,7 +50,7 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "巴彦淖尔临河区",
-            "media_count": 48,
+            "media_count": 37,
             "pinned_tweet_ids_str": [
                 "1889842336655654967"
             ],
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1726832023000,
-            "updated_at": 1739589270270
+            "updated_at": 1739689919095
         }
     }
 }

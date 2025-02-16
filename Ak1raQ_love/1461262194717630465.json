@@ -5,7 +5,7 @@
     "description": "𝐐𝐮𝐢𝐞𝐭 𝐲𝐨𝐮𝐫 𝐧𝐨𝐢𝐬𝐲 𝐦𝐨𝐮𝐭𝐡 𝐰𝐢𝐭𝐡 𝐚 𝐤𝐢𝐬𝐬.  https://t.co/pMHsrtMO5Z",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1461262796981964800/WAVhI8V9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461262194717630465/1637227258",
-    "followers_count": 189750,
+    "followers_count": 189717,
     "statuses_count": 1240,
     "favourites_count": 4,
     "listed_count": 549,
@@ -24,7 +24,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -62,7 +62,7 @@
         "super_follow_eligible": true,
         "twe_private_fields": {
             "created_at": 1637227041000,
-            "updated_at": 1739589294389
+            "updated_at": 1739689948041
         }
     }
 }

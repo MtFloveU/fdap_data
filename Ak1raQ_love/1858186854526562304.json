@@ -2,12 +2,12 @@
     "id": "1858186854526562304",
     "screen_name": "meiyujijie",
     "name": "何六诚🍥",
-    "description": "07mtf，文案可能是假的但照片是真的",
+    "description": "我只是一颗仙人球",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872109760369307648/im2B7nOZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858186854526562304/1739373925",
-    "followers_count": 13929,
-    "statuses_count": 307,
-    "favourites_count": 1074,
+    "followers_count": 14001,
+    "statuses_count": 316,
+    "favourites_count": 1115,
     "listed_count": 37,
     "verified_type": null,
     "is_blue_verified": true,
@@ -24,7 +24,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": false,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 72,
+            "friends_count": 73,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 71,
+            "media_count": 72,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1731861254000,
-            "updated_at": 1739589265461
+            "updated_at": 1739689908752
         }
     }
 }

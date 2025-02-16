@@ -5,9 +5,9 @@
     "description": "极端支黑/极左/不学无术/又蠢又坏/不是夸出/性压抑支男/种花家的小兔子一枚吖 永远永远爱你哦",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1871013086402080768/BC36xQDg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1459933885974953984/1719751047",
-    "followers_count": 3084,
-    "statuses_count": 16351,
-    "favourites_count": 37218,
+    "followers_count": 3081,
+    "statuses_count": 16453,
+    "favourites_count": 37422,
     "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
@@ -23,6 +23,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -33,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1965,
+            "friends_count": 1968,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1636910369000,
-            "updated_at": 1739589294389
+            "updated_at": 1739689948041
         }
     }
 }

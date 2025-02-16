@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1829704016869158912/lpMWX5GB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826587223787274240/1737735468",
     "followers_count": 83,
-    "statuses_count": 1265,
-    "favourites_count": 5996,
+    "statuses_count": 1267,
+    "favourites_count": 6002,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +37,7 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "Dust II",
-            "media_count": 42,
+            "media_count": 43,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1724327315000,
-            "updated_at": 1739589280337
+            "updated_at": 1739689929395
         }
     }
 }

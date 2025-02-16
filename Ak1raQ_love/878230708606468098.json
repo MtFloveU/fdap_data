@@ -2,13 +2,13 @@
     "id": "878230708606468098",
     "screen_name": "McSpicyOwO",
     "name": "麦辣鸡腿堡🍔",
-    "description": "辣堡喵\n啊啊辣堡喵\n辣堡喵——\n互fo大欢迎！",
+    "description": "辣堡喵 / 啊啊辣堡喵 / 辣堡喵—  | \n曾用名 1Peroro  | \n板烧鸡腿堡是异端😾",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889247889391861760/FgFOaJ3A_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/878230708606468098/1736704846",
-    "followers_count": 469,
-    "statuses_count": 3396,
-    "favourites_count": 33148,
-    "listed_count": 0,
+    "followers_count": 477,
+    "statuses_count": 3416,
+    "favourites_count": 33256,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 875,
+            "friends_count": 886,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "麦門町",
-            "media_count": 531,
+            "media_count": 536,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -46,12 +46,23 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "professional": {
+            "rest_id": "1890834729462878257",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 302,
+                    "name": "Fast Food Restaurant",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
         "twe_private_fields": {
             "created_at": 1498221492000,
-            "updated_at": 1739589296476
+            "updated_at": 1739689950743
         }
     }
 }

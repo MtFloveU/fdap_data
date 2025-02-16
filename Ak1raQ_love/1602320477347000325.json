@@ -5,8 +5,8 @@
     "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 24262,
-    "statuses_count": 9711,
+    "followers_count": 24264,
+    "statuses_count": 9721,
     "favourites_count": 2882,
     "listed_count": 229,
     "verified_type": null,
@@ -24,7 +24,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -97,7 +97,7 @@
         },
         "twe_private_fields": {
             "created_at": 1670857959000,
-            "updated_at": 1739589294389
+            "updated_at": 1739689948041
         }
     }
 }

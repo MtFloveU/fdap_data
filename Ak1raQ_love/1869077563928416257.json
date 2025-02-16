@@ -5,13 +5,13 @@
     "description": "友跨順男🏳️‍⚧️。酒精依賴，邊緣人，od，單車佬（Giant PP SL）互fo歡迎聊天",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1869089977373777920/azuIzo0C_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869077563928416257/1736780612",
-    "followers_count": 221,
-    "statuses_count": 268,
-    "favourites_count": 6762,
+    "followers_count": 225,
+    "statuses_count": 269,
+    "favourites_count": 6770,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2024-12-18 01:50:17 +08:00",
     "url": "https://twitter.com/OverdoseShrimp",
@@ -33,7 +33,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 785,
+            "friends_count": 788,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
@@ -43,13 +43,13 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1734457817000,
-            "updated_at": 1739589185112
+            "updated_at": 1739689899592
         }
     }
 }

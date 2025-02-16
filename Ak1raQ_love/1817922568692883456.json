@@ -24,7 +24,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -62,7 +62,7 @@
         },
         "twe_private_fields": {
             "created_at": 1722261513000,
-            "updated_at": 1739589292073
+            "updated_at": 1739689945066
         }
     }
 }

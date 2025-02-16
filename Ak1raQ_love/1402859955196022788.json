@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1684761697268240384/m-tnEcxj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402859955196022788/1698911469",
     "followers_count": 15,
-    "statuses_count": 227,
-    "favourites_count": 1101,
+    "statuses_count": 230,
+    "favourites_count": 1102,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,7 +50,7 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "Hinamizawa, Japan",
-            "media_count": 48,
+            "media_count": 49,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1623302862000,
-            "updated_at": 1739589214059
+            "updated_at": 1739689844806
         }
     }
 }

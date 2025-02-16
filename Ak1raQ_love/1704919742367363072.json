@@ -5,9 +5,9 @@
     "description": "slient stranger",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1704920362121936896/5h4PsMvI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1704919742367363072/1695319759",
-    "followers_count": 28,
-    "statuses_count": 269,
-    "favourites_count": 1355,
+    "followers_count": 27,
+    "statuses_count": 270,
+    "favourites_count": 1363,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,7 +33,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 991,
+            "friends_count": 995,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1695319536000,
-            "updated_at": 1739589217922
+            "updated_at": 1739689847896
         }
     }
 }

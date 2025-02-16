@@ -5,13 +5,13 @@
     "description": "持证停糖友跨顺男\n原id欧斯特拉\nhttps://t.co/Bcmy9MPDRc\nhttps://t.co/xXi3oKoCty",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872947652662575106/McUAMGzN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389190165566877699/1699424206",
-    "followers_count": 62,
-    "statuses_count": 664,
-    "favourites_count": 15985,
+    "followers_count": 59,
+    "statuses_count": 667,
+    "favourites_count": 16023,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2021-05-03 20:09:08 +08:00",
     "url": "https://twitter.com/amcje1",
@@ -76,7 +76,7 @@
             "translator_type": "none",
             "url": "https://t.co/z4FSwRqjGm",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "professional": {
@@ -87,7 +87,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1620043748000,
-            "updated_at": 1739589223480
+            "updated_at": 1739689899592
         }
     }
 }

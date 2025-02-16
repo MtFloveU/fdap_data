@@ -5,13 +5,13 @@
     "description": "| 177小只佬 | 励志成为魔法少女 | 极端厌恶DV | 一切全肯定BOT | 不定时发疯 | 出击!每月绝赞攒米中| 上线会主动互fo的! |",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1607030467152478210/l0H5QyUp_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 55,
+    "followers_count": 57,
     "statuses_count": 80,
-    "favourites_count": 223,
+    "favourites_count": 222,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2022-09-03 17:55:17 +08:00",
     "url": "https://twitter.com/Hana73456",
@@ -33,7 +33,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 224,
+            "friends_count": 225,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
@@ -43,13 +43,13 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1662198917000,
-            "updated_at": 1739589179994
+            "updated_at": 1739689899592
         }
     }
 }

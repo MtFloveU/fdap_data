@@ -1,13 +1,13 @@
 {
     "id": "1690570637499154432",
     "screen_name": "saonanaa",
-    "name": "Elon Musk shadowbanned Me",
-    "description": "I am Zhi Wei Then Elon Musk Shadowbanned Me",
+    "name": "Zhi Wei",
+    "description": "马斯克斯马曾经shadowban我的账号长达一周",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1852229368443211776/tn6UFkHm_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1739287955",
-    "followers_count": 2166,
-    "statuses_count": 5952,
-    "favourites_count": 11675,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1739606305",
+    "followers_count": 2169,
+    "statuses_count": 5998,
+    "favourites_count": 11637,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": true,
@@ -33,14 +33,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 218,
+            "friends_count": 220,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "🌏",
-            "media_count": 671,
-            "pinned_tweet_ids_str": [
-                "1889336251876336035"
-            ],
+            "media_count": 678,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -54,7 +52,7 @@
         },
         "twe_private_fields": {
             "created_at": 1691898437000,
-            "updated_at": 1739589296476
+            "updated_at": 1739689950743
         }
     }
 }

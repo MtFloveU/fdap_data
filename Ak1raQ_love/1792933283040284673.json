@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886819374042112002/GmlO8uhV_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792933283040284673/1734018473",
     "followers_count": 139,
-    "statuses_count": 4849,
-    "favourites_count": 9865,
+    "statuses_count": 4856,
+    "favourites_count": 9881,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +37,7 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "臺灣 新北市",
-            "media_count": 18,
+            "media_count": 19,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716303628000,
-            "updated_at": 1739589280337
+            "updated_at": 1739689929395
         }
     }
 }

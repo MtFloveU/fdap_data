@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1693455888768745472/P3GUay9S_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646829104078143494/1692586321",
     "followers_count": 1062,
-    "statuses_count": 8137,
-    "favourites_count": 72181,
+    "statuses_count": 8150,
+    "favourites_count": 72357,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3407,
+            "friends_count": 3415,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "台灣 台北 Taiwan Taipei ",
-            "media_count": 579,
+            "media_count": 582,
             "pinned_tweet_ids_str": [
                 "1864690737667035216"
             ],
@@ -62,7 +62,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1681469690000,
-            "updated_at": 1739589270270
+            "updated_at": 1739689915472
         }
     }
 }

@@ -5,9 +5,9 @@
     "description": "［粵/Eng/台/普］香港中學生🤍💙///密友 @irohakawaiinee | Comrade @liminfin | 台妹 @kotorichyandesu | 學妹 @zhen0310jk | 小嘰 @spasmodingg111C | Yuki @Yuki40444",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1812148169821638656/gwTkNOfs_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1702925354132992000/1723394422",
-    "followers_count": 13977,
-    "statuses_count": 27778,
-    "favourites_count": 90140,
+    "followers_count": 13993,
+    "statuses_count": 27780,
+    "favourites_count": 90120,
     "listed_count": 49,
     "verified_type": null,
     "is_blue_verified": false,
@@ -52,7 +52,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -65,7 +65,7 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "紅魔館",
-            "media_count": 2831,
+            "media_count": 2833,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -77,7 +77,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1694844052000,
-            "updated_at": 1739589294389
+            "updated_at": 1739689948041
         }
     }
 }

@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1755224522830278656/Tbz2Oy62_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1612347266077192193/1701700755",
     "followers_count": 1111,
-    "statuses_count": 1258,
-    "favourites_count": 23534,
+    "statuses_count": 1256,
+    "favourites_count": 23551,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +37,7 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "Hong Kong",
-            "media_count": 130,
+            "media_count": 129,
             "pinned_tweet_ids_str": [
                 "1878034324735590530"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1673248554000,
-            "updated_at": 1739589260496
+            "updated_at": 1739689903254
         }
     }
 }

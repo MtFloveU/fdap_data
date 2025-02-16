@@ -5,10 +5,10 @@
     "description": "打游戏写曲子 / 请找我约饭！/ hrt&rle 2022.11.5",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1733845957564116992/UvEm9iSn_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1633163319833169920/1700884592",
-    "followers_count": 5094,
-    "statuses_count": 3505,
-    "favourites_count": 11552,
-    "listed_count": 16,
+    "followers_count": 5244,
+    "statuses_count": 3518,
+    "favourites_count": 11576,
+    "listed_count": 17,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,7 +24,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,7 +37,7 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "北京",
-            "media_count": 492,
+            "media_count": 493,
             "pinned_tweet_ids_str": [
                 "1801595451155825138"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1678211467000,
-            "updated_at": 1739589298729
+            "updated_at": 1739689954517
         }
     }
 }

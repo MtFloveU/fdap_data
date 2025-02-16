@@ -5,13 +5,13 @@
     "description": "08 无证含糖  抖m 169左右 120斤 在广东惠州打工",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1835006722311610368/5DbZKAEX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804580646494625792/1735647384",
-    "followers_count": 166,
-    "statuses_count": 57,
-    "favourites_count": 25,
+    "followers_count": 171,
+    "statuses_count": 58,
+    "favourites_count": 27,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2024-06-23 02:22:24 +08:00",
     "url": "https://twitter.com/shu_hao14180",
@@ -33,23 +33,23 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1891,
+            "friends_count": 1924,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 16,
+            "media_count": 17,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1719080544000,
-            "updated_at": 1739589200572
+            "updated_at": 1739689899591
         }
     }
 }

@@ -5,9 +5,9 @@
     "description": "您并不能在这里找到您想找到的。\n或许现在关掉手机是更好的选择。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1688377342702358528/7Ruo_O5e_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688358212813332480/1691371246",
-    "followers_count": 37,
+    "followers_count": 38,
     "statuses_count": 7,
-    "favourites_count": 18,
+    "favourites_count": 19,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
         "__typename": "User",
         "id": "VXNlcjoxNjg4MzU4MjEyODEzMzMyNDgw",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
+        "has_graduated_access": false,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -33,7 +33,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 398,
+            "friends_count": 403,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1691370952000,
-            "updated_at": 1739589229032
+            "updated_at": 1739689857779
         }
     }
 }

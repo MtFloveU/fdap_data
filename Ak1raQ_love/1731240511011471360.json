@@ -5,10 +5,10 @@
     "description": "推特自由战士，为自由而战                                                      \n\n副司令 @ROCCommanderOwl \n电报https://t.co/wpA4gdyb2G",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1810622129651789824/5m1jUgka_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731240511011471360/1725354785",
-    "followers_count": 2164,
-    "statuses_count": 4552,
-    "favourites_count": 14974,
-    "listed_count": 10,
+    "followers_count": 2182,
+    "statuses_count": 4569,
+    "favourites_count": 15093,
+    "listed_count": 13,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -56,11 +56,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1889,
+            "friends_count": 1896,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "Taipei City, Taiwan",
-            "media_count": 1161,
+            "media_count": 1169,
             "pinned_tweet_ids_str": [
                 "1889140143585444137"
             ],
@@ -89,7 +89,7 @@
         },
         "twe_private_fields": {
             "created_at": 1701594886000,
-            "updated_at": 1739589289590
+            "updated_at": 1739689942101
         }
     }
 }

@@ -5,9 +5,9 @@
     "description": "うみです",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885752612664082432/wCJfFfg2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247123754158702593/1737226465",
-    "followers_count": 2419,
-    "statuses_count": 7767,
-    "favourites_count": 76573,
+    "followers_count": 2412,
+    "statuses_count": 7773,
+    "favourites_count": 76559,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 801,
+            "friends_count": 804,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1586172464000,
-            "updated_at": 1739589287485
+            "updated_at": 1739689942101
         }
     }
 }

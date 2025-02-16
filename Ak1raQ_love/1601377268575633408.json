@@ -5,9 +5,9 @@
     "description": "友跨顺男",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1853348125618184192/Y5h2mx8y_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 456,
-    "statuses_count": 541,
-    "favourites_count": 2214,
+    "followers_count": 463,
+    "statuses_count": 542,
+    "favourites_count": 2222,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1429,
+            "friends_count": 1433,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "025",
-            "media_count": 75,
+            "media_count": 76,
             "pinned_tweet_ids_str": [
                 "1851947331673034888"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1670633091000,
-            "updated_at": 1739589229033
+            "updated_at": 1739689860961
         }
     }
 }

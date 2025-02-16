@@ -1,17 +1,17 @@
 {
     "id": "1882424383224029184",
     "screen_name": "YuJian21145",
-    "name": "红海王",
-    "description": "姐姐：@eziral778 好友：@an_ran86620",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1888934316568203264/Mf_ZJ-Wg_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882424383224029184/1739192015",
-    "followers_count": 46,
-    "statuses_count": 256,
-    "favourites_count": 275,
-    "listed_count": 0,
+    "name": "yoyo",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890682663452782592/khG4x7fZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882424383224029184/1739673635",
+    "followers_count": 155,
+    "statuses_count": 321,
+    "favourites_count": 319,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2025-01-23 21:45:41 +08:00",
     "url": "https://twitter.com/YuJian21145",
@@ -23,6 +23,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "notifications": true,
             "can_dm": true,
             "can_media_tag": true,
             "default_profile": true,
@@ -33,23 +34,25 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 113,
+            "friends_count": 129,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 6,
-            "pinned_tweet_ids_str": [],
+            "media_count": 7,
+            "pinned_tweet_ids_str": [
+                "1890996607270740119"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1737639941000,
-            "updated_at": 1739589169406
+            "updated_at": 1739689899593
         }
     }
 }

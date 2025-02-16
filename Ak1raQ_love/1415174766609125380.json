@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870458282072285184/_Z_RkXXj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415174766609125380/1713669154",
     "followers_count": 344,
-    "statuses_count": 4519,
-    "favourites_count": 19322,
+    "statuses_count": 4530,
+    "favourites_count": 19371,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,11 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 675,
+            "friends_count": 678,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "The Lost Continent",
-            "media_count": 660,
+            "media_count": 661,
             "pinned_tweet_ids_str": [
                 "1766675103759454273"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1626238944000,
-            "updated_at": 1739589262851
+            "updated_at": 1739689906236
         }
     }
 }

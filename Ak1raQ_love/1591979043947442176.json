@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1779893662912299008/vBh7SZt2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591979043947442176/1725378588",
     "followers_count": 283,
-    "statuses_count": 1107,
-    "favourites_count": 2677,
+    "statuses_count": 1109,
+    "favourites_count": 2678,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,7 +24,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,7 +33,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 371,
+            "friends_count": 372,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "夜夜子的小天地",
@@ -62,7 +62,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1668392375000,
-            "updated_at": 1739589272743
+            "updated_at": 1739689919096
         }
     }
 }

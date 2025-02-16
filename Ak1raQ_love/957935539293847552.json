@@ -5,9 +5,9 @@
     "description": "⭐高功ADHD：拖延症+启动困难+不回消息\n⭐强迫症+抑郁症+焦虑状态\n⭐应该没有双相+不是ASD",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1800713457723203584/752JEzrm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/957935539293847552/1718307958",
-    "followers_count": 17445,
+    "followers_count": 17470,
     "statuses_count": 23339,
-    "favourites_count": 47213,
+    "favourites_count": 47208,
     "listed_count": 30,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,7 +24,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -62,7 +62,7 @@
         },
         "twe_private_fields": {
             "created_at": 1517224604000,
-            "updated_at": 1739589282809
+            "updated_at": 1739689932568
         }
     }
 }

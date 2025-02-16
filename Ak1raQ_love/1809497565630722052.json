@@ -1,0 +1,69 @@
+{
+    "id": "1809497565630722052",
+    "screen_name": "w1a2ng",
+    "name": "王",
+    "description": "作者，感谢@xioshl8提供的背景。  小号@w3a4ng  TG：https://t.co/A4dhQcOCYZ",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1878600508866277376/KIKXf4NN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809497565630722052/1737457303",
+    "followers_count": 1334,
+    "statuses_count": 6202,
+    "favourites_count": 36408,
+    "listed_count": 6,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-07-06 16:00:34 +08:00",
+    "url": "https://twitter.com/w1a2ng",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODA5NDk3NTY1NjMwNzIyMDUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/w1a2ng",
+                            "expanded_url": "http://t.me/w1a2ng",
+                            "url": "https://t.co/A4dhQcOCYZ",
+                            "indices": [
+                                35,
+                                58
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 925,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 30,
+            "pinned_tweet_ids_str": [
+                "1889138032894480534"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1720252834000,
+            "updated_at": 1739689906236
+        }
+    }
+}
