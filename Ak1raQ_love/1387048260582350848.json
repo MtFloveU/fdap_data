@@ -7,7 +7,7 @@
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387048260582350848/1736742259",
     "followers_count": 1076,
     "statuses_count": 500,
-    "favourites_count": 37049,
+    "favourites_count": 37048,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -38,9 +38,9 @@
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "ムクデン",
-            "media_count": 43,
+            "media_count": 44,
             "pinned_tweet_ids_str": [
-                "1665699910623334400"
+                "1891117383940497830"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1619533058000,
-            "updated_at": 1739689957657
+            "updated_at": 1739886640718
         }
     }
 }

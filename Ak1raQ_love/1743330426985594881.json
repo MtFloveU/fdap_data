@@ -2,12 +2,12 @@
     "id": "1743330426985594881",
     "screen_name": "jianggejiang",
     "name": "姜鴿江",
-    "description": "母语🇨🇳|学习中🇺🇸🇯🇵 别理我 发着玩的\n-叫我姜鴿江/阿团/Juno/J 提問箱:https://t.co/VcDqc5C3ZD",
+    "description": "别理我 发着玩的\n-叫我姜鴿江/阿团/Juno/J \n提問箱:https://t.co/VcDqc5C3ZD",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883633715173306368/CnMPpbD5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743330426985594881/1736602464",
-    "followers_count": 104,
-    "statuses_count": 921,
-    "favourites_count": 517,
+    "followers_count": 106,
+    "statuses_count": 942,
+    "favourites_count": 591,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,21 +35,21 @@
                             "expanded_url": "https://ngl.link/jianggejiang",
                             "url": "https://t.co/VcDqc5C3ZD",
                             "indices": [
-                                43,
-                                66
+                                31,
+                                54
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 412,
+            "friends_count": 426,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "距您0.1km",
-            "media_count": 131,
+            "media_count": 133,
             "pinned_tweet_ids_str": [
-                "1888838362951209066"
+                "1891767431808401723"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -58,21 +58,10 @@
             "want_retweets": false,
             "withheld_in_countries": []
         },
-        "professional": {
-            "rest_id": "1890991579802079556",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1704477357000,
-            "updated_at": 1739689807503
+            "updated_at": 1739886258107
         }
     }
 }

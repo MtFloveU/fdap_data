@@ -5,9 +5,9 @@
     "description": "客服小祥,随时待命！",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887872470319022080/E1KjNWh5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567505290026958848/1738236147",
-    "followers_count": 1738,
-    "statuses_count": 4552,
-    "favourites_count": 60413,
+    "followers_count": 1762,
+    "statuses_count": 4582,
+    "favourites_count": 60752,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,11 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1945,
+            "friends_count": 1943,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "距您2.8km",
-            "media_count": 788,
+            "media_count": 793,
             "pinned_tweet_ids_str": [
                 "1876099002103746722"
             ],
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1662557397000,
-            "updated_at": 1739689938969
+            "updated_at": 1739886624331
         }
     }
 }

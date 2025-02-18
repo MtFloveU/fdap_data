@@ -5,9 +5,9 @@
     "description": "你会讨厌我吗？",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1871560984130965504/p8sGx3b8_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573863666000224256/1735049786",
-    "followers_count": 1479,
-    "statuses_count": 21020,
-    "favourites_count": 116146,
+    "followers_count": 1478,
+    "statuses_count": 21073,
+    "favourites_count": 116365,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": true,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 548,
+            "friends_count": 554,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "People's Republic of China",
-            "media_count": 891,
+            "media_count": 892,
             "pinned_tweet_ids_str": [
                 "1890321283470266672"
             ],
@@ -62,7 +62,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1664073374000,
-            "updated_at": 1739689919096
+            "updated_at": 1739886610205
         }
     }
 }

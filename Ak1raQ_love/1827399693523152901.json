@@ -5,9 +5,9 @@
     "description": "An ordinary person who enjoys sharing their hobbies,Ilike public transportation，air part2:",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890969994449821696/naByUqfy_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827399693523152901/1724811679",
-    "followers_count": 443,
-    "statuses_count": 950,
-    "favourites_count": 6504,
+    "followers_count": 440,
+    "statuses_count": 952,
+    "favourites_count": 6523,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -23,6 +23,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -46,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1706,
+            "friends_count": 1703,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
@@ -70,7 +71,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1724521021000,
-            "updated_at": 1739689919096
+            "updated_at": 1739886610205
         }
     }
 }

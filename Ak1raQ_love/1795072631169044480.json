@@ -3,11 +3,11 @@
     "screen_name": "KillBasil_2008",
     "name": "灼眼的時行",
     "description": "I love Nanami Chiaki🥰 互动小号：@qhqq114514 很喜欢睡觉，是一只勇敢的猫/无性别/只会回b不会主动b人",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1890726496349634560/gJ4Y-mgX_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1891084041316618240/mGV8cFau_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1732085087",
-    "followers_count": 3955,
-    "statuses_count": 449,
-    "favourites_count": 19465,
+    "followers_count": 4045,
+    "statuses_count": 463,
+    "favourites_count": 19873,
     "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,20 +30,34 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/duoduofuo",
+                            "expanded_url": "https://ngl.link/duoduofuo",
+                            "url": "https://t.co/ZLduecxvmn",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1171,
+            "friends_count": 1192,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "帕拉迪岛",
-            "media_count": 83,
+            "media_count": 90,
             "pinned_tweet_ids_str": [
                 "1841674811069825079"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/ZLduecxvmn",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -51,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716813658000,
-            "updated_at": 1739689922401
+            "updated_at": 1739886612671
         }
     }
 }

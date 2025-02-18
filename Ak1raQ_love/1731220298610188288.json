@@ -1,0 +1,86 @@
+{
+    "id": "1731220298610188288",
+    "screen_name": "hereisryq",
+    "name": "又怎么了我的铨酱",
+    "description": "我愿意将我的内心展现给你们｜一些真话｜A piece of peace is needed here.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1831306682170839040/tmDYzzIJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731220298610188288/1738758300",
+    "followers_count": 85,
+    "statuses_count": 159,
+    "favourites_count": 1286,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-12-03 15:54:25 +08:00",
+    "url": "https://twitter.com/hereisryq",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzMxMjIwMjk4NjEwMTg4Mjg4",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @yqua_",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 19,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "yqua_",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "yqua_"
+                                        },
+                                        "rest_id": "1882056461599326208"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 86,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "",
+            "media_count": 35,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1701590065000,
+            "updated_at": 1739886622307
+        }
+    }
+}

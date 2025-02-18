@@ -5,9 +5,9 @@
     "description": "学习，工作和休息",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680508885394927616/1736369831",
-    "followers_count": 9874,
-    "statuses_count": 16496,
-    "favourites_count": 61920,
+    "followers_count": 9934,
+    "statuses_count": 16552,
+    "favourites_count": 61950,
     "listed_count": 30,
     "verified_type": null,
     "is_blue_verified": false,
@@ -63,11 +63,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6252,
+            "friends_count": 6254,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 1944,
+            "media_count": 1967,
             "pinned_tweet_ids_str": [
                 "1864147494676123745"
             ],
@@ -88,7 +88,7 @@
         },
         "twe_private_fields": {
             "created_at": 1689499535000,
-            "updated_at": 1739689957657
+            "updated_at": 1739886640718
         }
     }
 }

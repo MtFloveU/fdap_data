@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889792559351996418/fx-NTg3-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826940055438655488/1739395754",
     "followers_count": 312,
-    "statuses_count": 1314,
-    "favourites_count": 9394,
+    "statuses_count": 1333,
+    "favourites_count": 9539,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -53,6 +53,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": true,
             "default_profile": true,
@@ -63,11 +64,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 609,
+            "friends_count": 611,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "浦岛隧道",
-            "media_count": 137,
+            "media_count": 139,
             "pinned_tweet_ids_str": [
                 "1882332248449638752"
             ],
@@ -81,7 +82,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1724411440000,
-            "updated_at": 1739689922401
+            "updated_at": 1739886612671
         }
     }
 }

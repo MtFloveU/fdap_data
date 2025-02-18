@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1853445784232144898/FfsWgOMI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1305129071563534337/1738926256",
     "followers_count": 258,
-    "statuses_count": 1757,
-    "favourites_count": 5284,
+    "statuses_count": 1761,
+    "favourites_count": 5312,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": true,
@@ -69,7 +69,7 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "Tientsin, CN",
-            "media_count": 494,
+            "media_count": 495,
             "pinned_tweet_ids_str": [
                 "1842221470791213291"
             ],
@@ -97,7 +97,7 @@
         },
         "twe_private_fields": {
             "created_at": 1600002003000,
-            "updated_at": 1739689906236
+            "updated_at": 1739886600174
         }
     }
 }

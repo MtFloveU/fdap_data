@@ -5,9 +5,9 @@
     "description": "「奇跡を待つより捨て身の努力よ」\n「奇跡を待つより地道な努力よ」",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866046325076430848/emfgMK-H_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746169774147776512/1729489049",
-    "followers_count": 671,
-    "statuses_count": 34975,
-    "favourites_count": 46156,
+    "followers_count": 674,
+    "statuses_count": 35012,
+    "favourites_count": 46236,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -51,10 +51,8 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "Selangor ",
-            "media_count": 1454,
-            "pinned_tweet_ids_str": [
-                "1888076299077370292"
-            ],
+            "media_count": 1456,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -66,7 +64,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1705154305000,
-            "updated_at": 1739689935910
+            "updated_at": 1739886622307
         }
     }
 }

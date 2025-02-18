@@ -2,11 +2,11 @@
     "id": "1854224109011664896",
     "screen_name": "4s7Ra1",
     "name": "☁️",
-    "description": "视奸有意义吗",
+    "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888217705502916608/3Ncaxz0k_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854224109011664896/1739021168",
-    "followers_count": 228,
-    "statuses_count": 574,
+    "followers_count": 229,
+    "statuses_count": 575,
     "favourites_count": 264,
     "listed_count": 0,
     "verified_type": null,
@@ -37,7 +37,7 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 2,
+            "media_count": 3,
             "pinned_tweet_ids_str": [
                 "1888230282865881147"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1730916461000,
-            "updated_at": 1739689919096
+            "updated_at": 1739886610205
         }
     }
 }

@@ -5,14 +5,14 @@
     "description": "社恐 | 推文數量為零 | Telegram: https://t.co/OT1r1KEIUJ | 社群平台用戶名: 蝶铃 / 緒山真尋 / Yisha Bei",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1761940976753610753/Ep4O5Yo-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544700414175907840/1713179365",
-    "followers_count": 39,
+    "followers_count": 42,
     "statuses_count": 0,
-    "favourites_count": 949,
+    "favourites_count": 974,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
+    "following": true,
+    "followed_by": null,
     "created_at": "2022-07-06 23:11:00 +08:00",
     "url": "https://twitter.com/kpmoer",
     "metadata": {
@@ -24,8 +24,8 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "protected": true,
-            "can_dm": true,
-            "can_media_tag": true,
+            "can_dm": false,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -44,7 +44,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 627,
+            "friends_count": 634,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
@@ -54,7 +54,7 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {
@@ -62,7 +62,7 @@
         },
         "twe_private_fields": {
             "created_at": 1657120260000,
-            "updated_at": 1739589182252
+            "updated_at": 1739886592893
         }
     }
 }

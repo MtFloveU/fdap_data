@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887481194230538240/LHAK-5oF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840055457756610560/1738845558",
     "followers_count": 737,
-    "statuses_count": 7804,
-    "favourites_count": 32823,
+    "statuses_count": 7864,
+    "favourites_count": 33059,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1133,
+            "friends_count": 1139,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "Mexico, MO",
-            "media_count": 477,
+            "media_count": 481,
             "pinned_tweet_ids_str": [
                 "1890535129149296734"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1727538412000,
-            "updated_at": 1739689912173
+            "updated_at": 1739886604827
         }
     }
 }

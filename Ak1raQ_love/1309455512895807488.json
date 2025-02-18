@@ -2,12 +2,12 @@
     "id": "1309455512895807488",
     "screen_name": "codemica",
     "name": "但为君故✨",
-    "description": "枝上柳绵吹又少，天涯何处无芳草｜EN @codemetic｜小众美学 · 中国古典文学爱好者",
+    "description": "枝上柳绵吹又少，天涯何处无芳草｜EN @codemetic",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1871949233814970369/_mRkLJaX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309455512895807488/1736874291",
-    "followers_count": 3886,
-    "statuses_count": 8574,
-    "favourites_count": 51362,
+    "followers_count": 3925,
+    "statuses_count": 8587,
+    "favourites_count": 51652,
     "listed_count": 15,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,14 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 386,
+            "friends_count": 382,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "0371",
-            "media_count": 645,
-            "pinned_tweet_ids_str": [
-                "1853261071471219047"
-            ],
+            "media_count": 646,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -70,7 +68,7 @@
         },
         "twe_private_fields": {
             "created_at": 1601033503000,
-            "updated_at": 1739689912172
+            "updated_at": 1739886604827
         }
     }
 }

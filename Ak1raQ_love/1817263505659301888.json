@@ -2,12 +2,12 @@
     "id": "1817263505659301888",
     "screen_name": "USA_177674",
     "name": "🗽𝔘𝔫𝔦𝔱𝔢𝔡 𝔖𝔱𝔞𝔱𝔢𝔰🦅🇺🇲爱国互fo💯🏴🚩",
-    "description": "快点关注这个号☝️☝️☝️王洪文是第一个被抓的，但皮下不是。爱美国和反钢➗不冲突，我只认民主党的美国🇺🇲🇺🇦🏳️‍🌈@VERA_M1E3Abrams 钢➗对自己木琴都能有星幻想还有什么理由不反对？✊欢迎互关合作，目田粉红绕路🔥管我叫于兆力的一律可以视为傻逼",
+    "description": "王洪文是第一个被抓的，但皮下不是。爱美国和反钢➗不冲突，我只认民主党的美国🇺🇲🇺🇦🏳️‍🌈@VERA_M1E3Abrams 钢➗对自己木琴都能有星幻想还有什么理由不反对？✊欢迎互关合作，日常屏蔽新官病毒🔥管我叫于兆力的一律可以视为傻逼",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889906971463331842/gfOqqwQD_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817263505659301888/1739635514",
-    "followers_count": 886,
-    "statuses_count": 2796,
-    "favourites_count": 6640,
+    "followers_count": 908,
+    "statuses_count": 2895,
+    "favourites_count": 6879,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -18,39 +18,9 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODE3MjYzNTA1NjU5MzAxODg4",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @tuitecnmcb",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 24,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "tuitecnmcb",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "tuitecnmcb"
-                                        },
-                                        "rest_id": "1869233394816815104"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -76,11 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1560,
+            "friends_count": 1629,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "袁文浩母亲坟头",
-            "media_count": 349,
+            "media_count": 362,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -106,7 +76,7 @@
         },
         "twe_private_fields": {
             "created_at": 1722104371000,
-            "updated_at": 1739689915472
+            "updated_at": 1739886607068
         }
     }
 }

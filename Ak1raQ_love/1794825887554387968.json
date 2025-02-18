@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861693473185042432/SeVXhxm4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794825887554387968/1729543752",
     "followers_count": 373,
-    "statuses_count": 3544,
-    "favourites_count": 43386,
+    "statuses_count": 3560,
+    "favourites_count": 43615,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -18,7 +18,37 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk0ODI1ODg3NTU0Mzg3OTY4",
-        "affiliates_highlighted_label": {},
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @fengjiezi",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 23,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "fengjiezi",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "fengjiezi"
+                                        },
+                                        "rest_id": "1871474805578371072"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -34,7 +64,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 374,
+            "friends_count": 377,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "距你 460亿Ly",
@@ -52,7 +82,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716754890000,
-            "updated_at": 1739689922401
+            "updated_at": 1739886612670
         }
     }
 }

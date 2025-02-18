@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886089162643931136/GRic7qTg_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831363594556211200/1738733268",
     "followers_count": 757,
-    "statuses_count": 3118,
-    "favourites_count": 11093,
+    "statuses_count": 3242,
+    "favourites_count": 11315,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,11 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 623,
+            "friends_count": 626,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "記錄の地平線",
-            "media_count": 357,
+            "media_count": 370,
             "pinned_tweet_ids_str": [
                 "1874341139605840370"
             ],
@@ -72,7 +72,7 @@
         },
         "twe_private_fields": {
             "created_at": 1725466103000,
-            "updated_at": 1739689899594
+            "updated_at": 1739886592899
         }
     }
 }

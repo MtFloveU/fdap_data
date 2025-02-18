@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1782065207197749248/f9nYfr2d_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782063289675255808/1737201756",
     "followers_count": 427,
-    "statuses_count": 1047,
-    "favourites_count": 5678,
+    "statuses_count": 1064,
+    "favourites_count": 5824,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +37,7 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "在你心里",
-            "media_count": 87,
+            "media_count": 89,
             "pinned_tweet_ids_str": [
                 "1863898165025644906"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1713711979000,
-            "updated_at": 1739689912172
+            "updated_at": 1739886604827
         }
     }
 }

@@ -5,9 +5,9 @@
     "description": "类人形生物",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682428492078788608/1729538776",
-    "followers_count": 365,
-    "statuses_count": 779,
-    "favourites_count": 522,
+    "followers_count": 368,
+    "statuses_count": 804,
+    "favourites_count": 509,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,14 +33,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 343,
+            "friends_count": 357,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "距离你3Km",
-            "media_count": 80,
-            "pinned_tweet_ids_str": [
-                "1889330433969803494"
-            ],
+            "location": "距离你3km",
+            "media_count": 85,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -51,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1689957201000,
-            "updated_at": 1739689906236
+            "updated_at": 1739886600174
         }
     }
 }

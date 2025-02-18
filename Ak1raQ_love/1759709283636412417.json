@@ -25,19 +25,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @YuKi520xiaoyu37",
+                    "text": "Automated by @YuKi52037",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 29,
+                            "toIndex": 23,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "YuKi520xiaoyu37",
+                                "screen_name": "YuKi52037",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "YuKi520xiaoyu37"
+                                            "screen_name": "YuKi52037"
                                         },
                                         "rest_id": "1479730386431545346"
                                     }
@@ -83,7 +83,7 @@
         },
         "twe_private_fields": {
             "created_at": 1708382378000,
-            "updated_at": 1739689950743
+            "updated_at": 1739886635039
         }
     }
 }

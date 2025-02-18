@@ -5,9 +5,9 @@
     "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1822526559611191296/nEadpmJf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801071158055280640/1724835335",
-    "followers_count": 1028,
-    "statuses_count": 4789,
-    "favourites_count": 4090,
+    "followers_count": 1025,
+    "statuses_count": 4831,
+    "favourites_count": 4109,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -20,7 +20,7 @@
         "id": "VXNlcjoxODAxMDcxMTU4MDU1MjgwNjQw",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
+        "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 174,
+            "friends_count": 178,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "古月星球",
-            "media_count": 116,
+            "media_count": 120,
             "pinned_tweet_ids_str": [
                 "1887714399244460420"
             ],
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1718243809000,
-            "updated_at": 1739689929395
+            "updated_at": 1739886617545
         }
     }
 }

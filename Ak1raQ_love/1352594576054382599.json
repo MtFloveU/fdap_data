@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1675617110993641473/nuwMkDel_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352594576054382599/1724526236",
     "followers_count": 234,
-    "statuses_count": 6486,
-    "favourites_count": 12241,
+    "statuses_count": 6491,
+    "favourites_count": 12261,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,10 +50,8 @@
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "Germany",
-            "media_count": 1743,
-            "pinned_tweet_ids_str": [
-                "1889452516535885874"
-            ],
+            "media_count": 1745,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -65,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1611318738000,
-            "updated_at": 1739689938970
+            "updated_at": 1739886626710
         }
     }
 }

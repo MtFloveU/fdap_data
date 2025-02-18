@@ -5,9 +5,9 @@
     "description": "中国/大学生/男性/",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1878104291925499906/kJLsAumm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444238519988199425/1739355209",
-    "followers_count": 259,
-    "statuses_count": 102,
-    "favourites_count": 508,
+    "followers_count": 264,
+    "statuses_count": 140,
+    "favourites_count": 553,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2057,
+            "friends_count": 2107,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "下北沢",
-            "media_count": 3,
+            "media_count": 5,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1633168280000,
-            "updated_at": 1739689842040
+            "updated_at": 1739886285990
         }
     }
 }

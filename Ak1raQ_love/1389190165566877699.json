@@ -2,12 +2,12 @@
     "id": "1389190165566877699",
     "screen_name": "amcje1",
     "name": "橄榄菜",
-    "description": "持证停糖友跨顺男\n原id欧斯特拉\nhttps://t.co/Bcmy9MPDRc\nhttps://t.co/xXi3oKoCty",
+    "description": "https://t.co/Bcmy9MP61E\nhttps://t.co/xXi3oKo4E0",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872947652662575106/McUAMGzN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389190165566877699/1699424206",
-    "followers_count": 59,
-    "statuses_count": 667,
-    "favourites_count": 16023,
+    "followers_count": 60,
+    "statuses_count": 625,
+    "favourites_count": 16037,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,19 +33,19 @@
                         {
                             "display_url": "t.me/ganlancai",
                             "expanded_url": "http://t.me/ganlancai",
-                            "url": "https://t.co/Bcmy9MPDRc",
+                            "url": "https://t.co/Bcmy9MP61E",
                             "indices": [
-                                17,
-                                40
+                                0,
+                                23
                             ]
                         },
                         {
                             "display_url": "borecole.bsky.social",
                             "expanded_url": "http://borecole.bsky.social",
-                            "url": "https://t.co/xXi3oKoCty",
+                            "url": "https://t.co/xXi3oKo4E0",
                             "indices": [
-                                41,
-                                64
+                                24,
+                                47
                             ]
                         }
                     ]
@@ -55,7 +55,7 @@
                         {
                             "display_url": "hatateaya.github.io",
                             "expanded_url": "https://hatateaya.github.io",
-                            "url": "https://t.co/z4FSwRqjGm",
+                            "url": "https://t.co/z4FSwRpLQO",
                             "indices": [
                                 0,
                                 23
@@ -65,7 +65,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 155,
+            "friends_count": 156,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
@@ -74,7 +74,7 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/z4FSwRqjGm",
+            "url": "https://t.co/z4FSwRpLQO",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -87,7 +87,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1620043748000,
-            "updated_at": 1739689899592
+            "updated_at": 1739886592893
         }
     }
 }

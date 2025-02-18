@@ -1,13 +1,13 @@
 {
     "id": "1848778576507842560",
     "screen_name": "LovelyCheshire_",
-    "name": "坂下りっか🕷️💔🕷️",
+    "name": "坂下りっか🌸免费给草者💕",
     "description": "这里是@KawaiiCheshire_的逃生舱",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888821188039995392/Q4Ld3PjG_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848778576507842560/1738836459",
-    "followers_count": 470,
-    "statuses_count": 681,
-    "favourites_count": 1289,
+    "followers_count": 475,
+    "statuses_count": 720,
+    "favourites_count": 1354,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -54,7 +54,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -63,11 +63,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 277,
+            "friends_count": 279,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 110,
+            "media_count": 117,
             "pinned_tweet_ids_str": [
                 "1880792450522079708"
             ],
@@ -81,7 +81,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1729618149000,
-            "updated_at": 1739689919096
+            "updated_at": 1739886610205
         }
     }
 }

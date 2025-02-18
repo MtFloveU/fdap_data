@@ -5,13 +5,13 @@
     "description": "she/her\nMinecraft player ||  English or Chinese(sorry,im not good at english) || infp-t",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1662637691849277440/DC261QnM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292984601090994176/1734067067",
-    "followers_count": 34,
+    "followers_count": 35,
     "statuses_count": 155,
     "favourites_count": 1704,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2020-08-11 08:42:14 +08:00",
     "url": "https://twitter.com/rinesternotme",
@@ -43,13 +43,13 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1597106534000,
-            "updated_at": 1739689817648
+            "updated_at": 1739886604827
         }
     }
 }

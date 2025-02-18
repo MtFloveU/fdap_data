@@ -1,0 +1,98 @@
+{
+    "id": "1853401698628448256",
+    "screen_name": "CharmSnowflake",
+    "name": "雪花 (日常區) 💕🏳️‍⚧️🍥🕊️",
+    "description": "前世: @SchneeSchmitt\n再強的外表，也藏不住真實的自己...\n這裡是雪花的日常貼文區，隱藏了深為不知人的事\n僅限熟悉推友(通常被此帳追蹤)可以申請訪問\n推崇平等自由，粉紅勿擾, 斷續含糖無od暫無自殘但不穩定, 抑鬱,🩵MtX🩷, 同性戀MtF + 順, INFP-T, 🍥27/12/2024",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1891761374969331712/lSA5v2WD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853401698628448256/1739866033",
+    "followers_count": 72,
+    "statuses_count": 33,
+    "favourites_count": 51,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-11-04 19:39:39 +08:00",
+    "url": "https://twitter.com/CharmSnowflake",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODUzNDAxNjk4NjI4NDQ4MjU2",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Snowcomics9452",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 28,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Snowcomics9452",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Snowcomics9452"
+                                        },
+                                        "rest_id": "1664948430920359936"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "follow_request_sent": true,
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 181,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "location": "Community of Madrid, Spain",
+            "media_count": 10,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1891783145353249258",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1730720379000,
+            "updated_at": 1739886255063
+        }
+    }
+}

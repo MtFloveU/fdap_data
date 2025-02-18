@@ -5,8 +5,8 @@
     "description": "B站号https://t.co/y71M06B3rT",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1839658419969769472/Q__QF0MN_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 24,
-    "statuses_count": 69,
+    "followers_count": 20,
+    "statuses_count": 67,
     "favourites_count": 51,
     "listed_count": 0,
     "verified_type": null,
@@ -47,7 +47,7 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 11,
+            "media_count": 12,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -59,7 +59,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1718192319000,
-            "updated_at": 1739689847896
+            "updated_at": 1739886291257
         }
     }
 }

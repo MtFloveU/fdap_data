@@ -1,13 +1,13 @@
 {
     "id": "1797089026111098880",
     "screen_name": "rebirthwingz",
-    "name": "𝜗𝜚 ame. p chans valentine",
-    "description": "https://t.co/FlcgNKRIwU\n\na safe space for the hurt , \nwho hurt others ,\nbecause they hurt themselves.",
+    "name": "𝜗𝜚 ame.",
+    "description": "https://t.co/FlcgNKRIwU\n\na safe space for the hurt , \nwho hurt others ,\nbecause they hurt themselves.\n\nI LOVE MY GFFF!!",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889963055230119936/b_oRY_Ia_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797089026111098880/1739437280",
-    "followers_count": 2617,
-    "statuses_count": 5452,
-    "favourites_count": 25645,
+    "followers_count": 2642,
+    "statuses_count": 5515,
+    "favourites_count": 25786,
     "listed_count": 29,
     "verified_type": null,
     "is_blue_verified": false,
@@ -18,11 +18,42 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk3MDg5MDI2MTExMDk4ODgw",
-        "affiliates_highlighted_label": {},
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @sayawingz",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 23,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "sayawingz",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "sayawingz"
+                                        },
+                                        "rest_id": "1878041670899642368"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -43,13 +74,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2860,
+            "friends_count": 2899,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "#bpdtwt   ﾉ   #nsotwt ୨୧ ꒱",
-            "media_count": 994,
+            "media_count": 1025,
             "pinned_tweet_ids_str": [
-                "1889962390424621190"
+                "1891761267745902769"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -61,7 +92,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1717294394000,
-            "updated_at": 1739689908752
+            "updated_at": 1739886602441
         }
     }
 }

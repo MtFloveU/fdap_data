@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1859234882494283776/NRf1wreg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544202883263971329/1732111112",
     "followers_count": 3805,
-    "statuses_count": 16236,
-    "favourites_count": 10273,
+    "statuses_count": 16255,
+    "favourites_count": 10308,
     "listed_count": 24,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2284,
+            "friends_count": 2281,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "我们能相见的彼岸",
-            "media_count": 1814,
+            "media_count": 1818,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1657001643000,
-            "updated_at": 1739689932567
+            "updated_at": 1739886619901
         }
     }
 }

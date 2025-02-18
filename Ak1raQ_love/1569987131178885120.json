@@ -5,9 +5,9 @@
     "description": "@shasen0721",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1775210815131717634/I5pRVbAX_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 1766,
-    "statuses_count": 9497,
-    "favourites_count": 25187,
+    "followers_count": 1761,
+    "statuses_count": 9507,
+    "favourites_count": 25199,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 434,
+            "friends_count": 435,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "",
-            "media_count": 515,
+            "media_count": 518,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1663149086000,
-            "updated_at": 1739689954517
+            "updated_at": 1739886637912
         }
     }
 }

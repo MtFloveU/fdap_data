@@ -4,11 +4,11 @@
     "name": "司",
     "description": "HALA MADRID",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861798629738156032/xvWzw4gn_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1523517497319768064/1737907814",
-    "followers_count": 1200,
-    "statuses_count": 12169,
-    "favourites_count": 57432,
-    "listed_count": 13,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1523517497319768064/1739703235",
+    "followers_count": 1202,
+    "statuses_count": 12192,
+    "favourites_count": 57695,
+    "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -63,11 +63,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2354,
+            "friends_count": 2359,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 1843,
+            "media_count": 1842,
             "pinned_tweet_ids_str": [
                 "1871805998459130211"
             ],
@@ -81,7 +81,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1652069862000,
-            "updated_at": 1739689932568
+            "updated_at": 1739886619907
         }
     }
 }

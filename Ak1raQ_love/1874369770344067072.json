@@ -5,10 +5,10 @@
     "description": "where memes go to die—and be reborn in your memory.",
     "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
     "profile_banner_url": null,
-    "followers_count": 269411,
-    "statuses_count": 1018,
-    "favourites_count": 2448,
-    "listed_count": 149,
+    "followers_count": 274075,
+    "statuses_count": 1057,
+    "favourites_count": 2449,
+    "listed_count": 150,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -37,9 +37,9 @@
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 996,
+            "media_count": 1035,
             "pinned_tweet_ids_str": [
-                "1890163792660533419"
+                "1890997033386840220"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1735719566000,
-            "updated_at": 1739689899593
+            "updated_at": 1739886592898
         }
     }
 }
