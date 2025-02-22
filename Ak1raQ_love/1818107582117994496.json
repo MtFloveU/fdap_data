@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879802636679122945/fVKfaiio_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818107582117994496/1726238340",
     "followers_count": 998,
-    "statuses_count": 3459,
-    "favourites_count": 14318,
+    "statuses_count": 3497,
+    "favourites_count": 14424,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,9 +34,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "ngl.link/cypressalbert1",
-                            "expanded_url": "https://ngl.link/cypressalbert1",
-                            "url": "https://t.co/iBEVtehwcv",
+                            "display_url": "zhihu.com/question/60730…",
+                            "expanded_url": "https://www.zhihu.com/question/607306752/answer/3336980262?utm_psn=",
+                            "url": "https://t.co/FJR6m5xEwW",
                             "indices": [
                                 0,
                                 23
@@ -46,18 +46,18 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 788,
+            "friends_count": 790,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "我才知道星期八的真名叫作Schizophrenia ",
-            "media_count": 489,
+            "media_count": 502,
             "pinned_tweet_ids_str": [
-                "1881596441225023802"
+                "1892927348044890192"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/iBEVtehwcv",
+            "url": "https://t.co/FJR6m5xEwW",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -73,10 +73,12 @@
                 }
             ]
         },
-        "tipjar_settings": {},
+        "tipjar_settings": {
+            "is_enabled": true
+        },
         "twe_private_fields": {
             "created_at": 1722305612000,
-            "updated_at": 1739886615103
+            "updated_at": 1740203878072
         }
     }
 }

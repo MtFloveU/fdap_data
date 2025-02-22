@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885942715541807104/7N0YgPXe_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410093182176530437/1696158043",
     "followers_count": 823,
-    "statuses_count": 7153,
-    "favourites_count": 59984,
+    "statuses_count": 7183,
+    "favourites_count": 60216,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 836,
+            "friends_count": 840,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "Malaysia",
-            "media_count": 768,
+            "media_count": 772,
             "pinned_tweet_ids_str": [
                 "1697622511188623794"
             ],
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1625027471000,
-            "updated_at": 1739886255063
+            "updated_at": 1740203793642
         }
     }
 }

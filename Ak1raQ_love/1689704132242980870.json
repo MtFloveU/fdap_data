@@ -5,9 +5,9 @@
     "description": "一个啥必",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1724063864638275584/nJo1Y62G_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689704132242980870/1691844926",
-    "followers_count": 649,
-    "statuses_count": 3208,
-    "favourites_count": 2373,
+    "followers_count": 652,
+    "statuses_count": 3215,
+    "favourites_count": 2383,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,11 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 954,
+            "friends_count": 957,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "一个不为人知的地方",
-            "media_count": 577,
+            "media_count": 580,
             "pinned_tweet_ids_str": [
                 "1713698511844430018"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1691691839000,
-            "updated_at": 1739886632103
+            "updated_at": 1740203899732
         }
     }
 }

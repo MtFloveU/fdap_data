@@ -2,12 +2,12 @@
     "id": "1713932430187679744",
     "screen_name": "xiangmeng_XM",
     "name": "向梦revery🍥",
-    "description": "煮包有玉玉症，被网暴会跳楼（大哭）",
+    "description": "煮包有玉玉症，被网暴会跳楼（大哭）\n煮包喜欢抽烟喝酒，还有涩涩",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890177189016195072/H66f6BY0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1713932430187679744/1729247925",
-    "followers_count": 306,
-    "statuses_count": 352,
-    "favourites_count": 1332,
+    "followers_count": 315,
+    "statuses_count": 355,
+    "favourites_count": 1338,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,12 +33,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 334,
+            "friends_count": 336,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "猫头山",
-            "media_count": 137,
-            "pinned_tweet_ids_str": [],
+            "media_count": 139,
+            "pinned_tweet_ids_str": [
+                "1891938672691352024"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1697468319000,
-            "updated_at": 1739886637911
+            "updated_at": 1740203907093
         }
     }
 }

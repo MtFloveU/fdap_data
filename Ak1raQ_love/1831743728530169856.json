@@ -2,13 +2,13 @@
     "id": "1831743728530169856",
     "screen_name": "MisakaNetwkSys",
     "name": "Misaka Network System 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️😢",
-    "description": "小药娘怎么你了😠\nGPG Key (Personal): F0EB 9289 3C9B 487C CE2C  7A16 3B38 5D98 2992 E954",
+    "description": "小药娘怎么你了😠\nGPG Key (Personal): 3C01 D0C8 C0D2 3F40 C3E2  4EFD 2C99 FFA9 E7DF F7E2\nGPG Key (Official): 1D36 A09E F1E6 B566 DC47  1142 E0D7 1AC3 A4E2 2050",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1831745719545262080/EQQ9g5Uq_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 129,
-    "statuses_count": 1605,
-    "favourites_count": 5501,
-    "listed_count": 0,
+    "followers_count": 142,
+    "statuses_count": 1709,
+    "favourites_count": 5747,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -66,7 +66,7 @@
                         {
                             "display_url": "webpagesvc.misakanetworksystem.org/index.html",
                             "expanded_url": "http://webpagesvc.misakanetworksystem.org/index.html",
-                            "url": "https://t.co/pYr94k73ss",
+                            "url": "https://t.co/g5ObaQRUGJ",
                             "indices": [
                                 0,
                                 23
@@ -76,16 +76,18 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 175,
+            "friends_count": 185,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "/Users/MisakaNetworkSystem/",
-            "media_count": 18,
-            "pinned_tweet_ids_str": [],
+            "media_count": 19,
+            "pinned_tweet_ids_str": [
+                "1892391092060115280"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/pYr94k73ss",
+            "url": "https://t.co/g5ObaQRUGJ",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -93,7 +95,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1725556737000,
-            "updated_at": 1739886607068
+            "updated_at": 1740203868947
         }
     }
 }

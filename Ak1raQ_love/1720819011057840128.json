@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1796466737287954433/1kBjJj9g_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 189,
-    "statuses_count": 2289,
-    "favourites_count": 8153,
+    "statuses_count": 2307,
+    "favourites_count": 8227,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -23,6 +23,7 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -33,11 +34,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 224,
+            "friends_count": 223,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "辩证法的每个环节",
-            "media_count": 292,
+            "media_count": 297,
             "pinned_tweet_ids_str": [
                 "1856146280483102878"
             ],
@@ -53,7 +54,7 @@
         },
         "twe_private_fields": {
             "created_at": 1699110205000,
-            "updated_at": 1739886624331
+            "updated_at": 1740203890742
         }
     }
 }

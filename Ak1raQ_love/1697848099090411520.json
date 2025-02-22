@@ -5,10 +5,10 @@
     "description": "想要幸福一点点",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1802332289323642880/XatYNQ4D_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697848099090411520/1700995678",
-    "followers_count": 7302,
-    "statuses_count": 5695,
-    "favourites_count": 22251,
-    "listed_count": 6,
+    "followers_count": 7297,
+    "statuses_count": 5698,
+    "favourites_count": 22340,
+    "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -46,11 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1349,
+            "friends_count": 1351,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 618,
+            "media_count": 619,
             "pinned_tweet_ids_str": [
                 "1835753779079385489"
             ],
@@ -72,7 +72,7 @@
         },
         "twe_private_fields": {
             "created_at": 1693633513000,
-            "updated_at": 1739886643349
+            "updated_at": 1740203910367
         }
     }
 }

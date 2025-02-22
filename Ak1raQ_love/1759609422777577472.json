@@ -1,18 +1,18 @@
 {
     "id": "1759609422777577472",
     "screen_name": "grammer_214moki",
-    "name": "格拉默の漓子酱",
-    "description": "请输入文本",
+    "name": "回归与开始",
+    "description": "纯粹的符号文字带来的只是虚无",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890260070895591424/dF8ggJF8_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759609422777577472/1738560920",
-    "followers_count": 1460,
-    "statuses_count": 16545,
-    "favourites_count": 0,
+    "followers_count": 1448,
+    "statuses_count": 16574,
+    "favourites_count": 46561,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": null,
+    "followed_by": true,
     "created_at": "2024-02-20 00:03:02 +08:00",
     "url": "https://twitter.com/grammer_214moki",
     "metadata": {
@@ -23,7 +23,6 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,16 +33,16 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 0,
+            "friends_count": 2597,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Nothing",
-            "media_count": 313,
+            "location": "再見的下一個路口",
+            "media_count": 314,
             "pinned_tweet_ids_str": [
                 "1884476762182099451"
             ],
             "possibly_sensitive": false,
-            "profile_interstitial_type": "fake_account",
+            "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
             "want_retweets": true,
@@ -52,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1708358582000,
-            "updated_at": 1739886622307
+            "updated_at": 1740203887489
         }
     }
 }

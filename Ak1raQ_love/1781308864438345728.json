@@ -1,13 +1,13 @@
 {
     "id": "1781308864438345728",
     "screen_name": "FoxRed695449",
-    "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+    "name": "RedFox（2代目）",
     "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781308864438345728/1737878578",
-    "followers_count": 3651,
-    "statuses_count": 1091,
-    "favourites_count": 1747,
+    "followers_count": 3606,
+    "statuses_count": 1108,
+    "favourites_count": 1888,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": true,
@@ -30,20 +30,34 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/redredfox002",
+                            "expanded_url": "https://t.me/redredfox002",
+                            "url": "https://t.co/nfLXZUDtJe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 500,
+            "friends_count": 510,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "North District, Hong Kong",
-            "media_count": 347,
+            "location": "",
+            "media_count": 355,
             "pinned_tweet_ids_str": [
                 "1858640933052727687"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/nfLXZUDtJe",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -62,7 +76,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1713532117000,
-            "updated_at": 1739886610205
+            "updated_at": 1740203872035
         }
     }
 }

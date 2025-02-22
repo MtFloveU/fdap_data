@@ -1,13 +1,13 @@
 {
     "id": "1176535991454064640",
     "screen_name": "nekomakiuwu",
-    "name": "Lumi 猫卷",
-    "description": "💖 @HobartR6 || 小狐狸 @altaz_0 || 日雌380包邮现货 泰补1xx预售中 || 私信或下方telegram",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1890994330372075520/KU4SB4ID_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1737876650",
-    "followers_count": 1995,
-    "statuses_count": 9709,
-    "favourites_count": 25165,
+    "name": "Lumi",
+    "description": "💖 @HobartR6 || 小狐狸 @altaz_0 || 日雌390包邮现货 泰补1xx预售中 私信或下方telegram",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1892509314335883264/BXt8NBBM_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1740159156",
+    "followers_count": 2020,
+    "statuses_count": 9794,
+    "favourites_count": 25209,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
@@ -64,9 +64,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "t.me/x00000b",
-                            "expanded_url": "https://t.me/x00000b",
-                            "url": "https://t.co/JUhINmLI1v",
+                            "display_url": "t.me/lumigz",
+                            "expanded_url": "https://t.me/lumigz",
+                            "url": "https://t.co/kUDeIvLSmv",
                             "indices": [
                                 0,
                                 23
@@ -76,16 +76,18 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 789,
+            "friends_count": 799,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "Singapore",
-            "media_count": 865,
-            "pinned_tweet_ids_str": [],
+            "location": "",
+            "media_count": 874,
+            "pinned_tweet_ids_str": [
+                "1892592319465247141"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/JUhINmLI1v",
+            "url": "https://t.co/kUDeIvLSmv",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -97,7 +99,7 @@
         },
         "twe_private_fields": {
             "created_at": 1569343024000,
-            "updated_at": 1739886612670
+            "updated_at": 1740203875542
         }
     }
 }

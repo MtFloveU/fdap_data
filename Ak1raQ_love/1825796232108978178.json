@@ -5,9 +5,9 @@
     "description": "死人一个",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1865540900686114816/vxC6xt1V_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825796232108978178/1733614731",
-    "followers_count": 28,
+    "followers_count": 30,
     "statuses_count": 35,
-    "favourites_count": 1653,
+    "favourites_count": 1651,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,7 +33,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 375,
+            "friends_count": 374,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1724138730000,
-            "updated_at": 1739886604827
+            "updated_at": 1740203864033
         }
     }
 }

@@ -1,13 +1,13 @@
 {
     "id": "1857335218673483776",
     "screen_name": "mngy289164",
-    "name": "梦雨",
-    "description": "09MTF🍥/厌顺直/不混圈/原账号@mengyu2334/幸福......？",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1884376728015097856/vYJfwFcq_normal.jpg",
+    "name": "梦雨🍥",
+    "description": "09MTF🍥/od妹/阴暗且负能/厌顺直/不混圈/原账号@mengyu2334/提问箱https://t.co/QlfMZ51euz幸福......？",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1892963684630302720/UiC-xcV2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857335218673483776/1738173439",
-    "followers_count": 1253,
-    "statuses_count": 230,
-    "favourites_count": 630,
+    "followers_count": 1307,
+    "statuses_count": 249,
+    "favourites_count": 652,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -29,15 +29,25 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/mngy289164/",
+                            "expanded_url": "https://ngl.link/mngy289164/",
+                            "url": "https://t.co/QlfMZ51euz",
+                            "indices": [
+                                43,
+                                66
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 232,
+            "friends_count": 244,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "讨厌所有人",
-            "media_count": 12,
+            "media_count": 14,
             "pinned_tweet_ids_str": [
                 "1878110660200161498"
             ],
@@ -51,7 +61,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1731658207000,
-            "updated_at": 1739886607068
+            "updated_at": 1740203868947
         }
     }
 }

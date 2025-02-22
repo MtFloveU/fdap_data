@@ -5,9 +5,9 @@
     "description": "一个学计算机网络技术的苦悲悲的拉子🏳️‍🌈/友跨顺女／会看成分回关／会疯狂点赞/无政治倾向",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1856291551472955394/BrhUG0s4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834141226381312001/1731374861",
-    "followers_count": 449,
-    "statuses_count": 528,
-    "favourites_count": 7628,
+    "followers_count": 454,
+    "statuses_count": 555,
+    "favourites_count": 7995,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": true,
@@ -24,7 +24,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,13 +33,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 894,
+            "friends_count": 896,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "CHINA",
-            "media_count": 91,
+            "media_count": 83,
             "pinned_tweet_ids_str": [
-                "1891490165161410993"
+                "1892978536367169856"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1726128328000,
-            "updated_at": 1739886607068
+            "updated_at": 1740203868947
         }
     }
 }

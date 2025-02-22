@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1636665337042341889/sZKJv1ty_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1269442820580016129/1734159382",
     "followers_count": 2493,
-    "statuses_count": 46700,
-    "favourites_count": 223689,
+    "statuses_count": 46799,
+    "favourites_count": 224024,
     "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,7 +50,7 @@
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "天津市同跨科技有限公司",
-            "media_count": 2020,
+            "media_count": 2023,
             "pinned_tweet_ids_str": [
                 "1775437822209691813"
             ],
@@ -74,7 +74,7 @@
         },
         "twe_private_fields": {
             "created_at": 1591493753000,
-            "updated_at": 1739886635039
+            "updated_at": 1740203903263
         }
     }
 }

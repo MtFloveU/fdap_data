@@ -5,9 +5,9 @@
     "description": "莱铭系统💧LeminkSystem（ftmtf vers.\n@LeminkSystem\n—————\n里推：@knimaisey\n\n📌⚠️该用户距离你不足一厘米,请小心被吃掉⚠️  📅joined September 2021\n\n430 Following          2630 Followers",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884627488296386561/PkmwSrej_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884627325398212611/1738165757",
-    "followers_count": 310,
-    "statuses_count": 859,
-    "favourites_count": 2163,
+    "followers_count": 329,
+    "statuses_count": 958,
+    "favourites_count": 2371,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
         "__typename": "User",
         "id": "VXNlcjoxODg0NjI3MzI1Mzk4MjEyNjEx",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
+        "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 191,
+            "friends_count": 199,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "这个世界的某处",
-            "media_count": 152,
+            "media_count": 175,
             "pinned_tweet_ids_str": [
                 "1885381254306046084"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1738165153000,
-            "updated_at": 1739886600174
+            "updated_at": 1740203858889
         }
     }
 }

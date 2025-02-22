@@ -5,14 +5,14 @@
     "description": "INFP 纯死宅，二次元，厌世b，重度玉玉，双相，宝宝们来互fo，脾气一般情况下很好，话很多，喜欢断风的可以给断风打赏一点，帮助断风更好的生活和看病，真的非常感谢🙏🏻（1000fo抽奖）    🚪30（陪聊天，陪打游戏）。我家小狗@AdrienCyth43761    累了，淡推一段时间，拜拜。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1869954669482782723/lJ9jfA6e_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1316103441182158849/1721801539",
-    "followers_count": 394,
-    "statuses_count": 3563,
-    "favourites_count": 1057,
+    "followers_count": 399,
+    "statuses_count": 3600,
+    "favourites_count": 1056,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": null,
+    "followed_by": true,
     "created_at": "2020-10-14 03:48:17 +08:00",
     "url": "https://twitter.com/xsf727",
     "metadata": {
@@ -24,7 +24,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -46,11 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 321,
+            "friends_count": 327,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "地球",
-            "media_count": 235,
+            "media_count": 242,
             "pinned_tweet_ids_str": [
                 "1889815484528468284"
             ],
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1602618497000,
-            "updated_at": 1739886592899
+            "updated_at": 1740203853245
         }
     }
 }

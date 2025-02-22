@@ -2,12 +2,12 @@
     "id": "1751235517860196352",
     "screen_name": "Cynun75",
     "name": "Cynun",
-    "description": "Cynun | 碎碎念 | 计算机用户",
+    "description": "Cynun | 碎碎念 | 计算机用户 | 鱼网的鱼 | \n@cynun:https://t.co/vrxQZPRD30",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889986897759686656/qS6XIa1v_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751235517860196352/1715384753",
-    "followers_count": 624,
-    "statuses_count": 3702,
-    "favourites_count": 16061,
+    "followers_count": 643,
+    "statuses_count": 3832,
+    "favourites_count": 16107,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -29,17 +29,27 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "matrix.org",
+                            "expanded_url": "http://matrix.org",
+                            "url": "https://t.co/vrxQZPRD30",
+                            "indices": [
+                                37,
+                                60
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 675,
+            "friends_count": 684,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "@ringochichidim身旁",
-            "media_count": 380,
+            "media_count": 400,
             "pinned_tweet_ids_str": [
-                "1887750572708684007"
+                "1892133022469673005"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -51,7 +61,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1706362075000,
-            "updated_at": 1739886612670
+            "updated_at": 1740203875542
         }
     }
 }

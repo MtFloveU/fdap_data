@@ -5,10 +5,10 @@
     "description": "Contemptus Mundi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886343914086694912/UiFd-ghD_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819944260239851520/1738574124",
-    "followers_count": 1478,
-    "statuses_count": 10436,
-    "favourites_count": 22209,
-    "listed_count": 5,
+    "followers_count": 1505,
+    "statuses_count": 10610,
+    "favourites_count": 22702,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -23,7 +23,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1977,
+            "friends_count": 2005,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "China",
-            "media_count": 943,
+            "location": "阜姆集团",
+            "media_count": 951,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -50,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1722743506000,
-            "updated_at": 1739886612671
+            "updated_at": 1740203875542
         }
     }
 }

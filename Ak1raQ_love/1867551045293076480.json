@@ -3,11 +3,11 @@
     "screen_name": "Lotus_Side",
     "name": "LotusSide",
     "description": "我是乐子小学生 不要把我当回事捏",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1889356859867537414/bHB8FQY6_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1892951364004876289/-8UAM6j6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867551045293076480/1739292440",
     "followers_count": 10,
     "statuses_count": 18,
-    "favourites_count": 100,
+    "favourites_count": 109,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,23 +30,10 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/LotusSideOffic…",
-                            "expanded_url": "http://t.me/LotusSideOfficial",
-                            "url": "https://t.co/hAOoqoU1WF",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 63,
+            "friends_count": 64,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "距离0.91km",
@@ -55,7 +42,6 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/hAOoqoU1WF",
             "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
@@ -63,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1734093849000,
-            "updated_at": 1739886255063
+            "updated_at": 1740203793642
         }
     }
 }

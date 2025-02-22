@@ -4,10 +4,10 @@
     "name": "小混沌",
     "description": "私たくさんの人に助けられてま す、この気持ちをいつか返せる人",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1792135388347457536/iBr2rRJL_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1765072369599795202/1732871023",
-    "followers_count": 417,
-    "statuses_count": 433,
-    "favourites_count": 574,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1765072369599795202/1739984279",
+    "followers_count": 433,
+    "statuses_count": 451,
+    "favourites_count": 604,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -23,7 +23,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,14 +33,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 590,
+            "friends_count": 600,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 29,
-            "pinned_tweet_ids_str": [
-                "1887366866001404262"
-            ],
+            "media_count": 26,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -52,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1709661037000,
-            "updated_at": 1739886597928
+            "updated_at": 1740203855155
         }
     }
 }

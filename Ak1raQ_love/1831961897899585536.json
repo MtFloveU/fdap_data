@@ -5,9 +5,9 @@
     "description": "boccccccccccccchi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891513404785098752/jLcOQEtk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831961897899585536/1738423378",
-    "followers_count": 626,
-    "statuses_count": 10254,
-    "favourites_count": 56175,
+    "followers_count": 635,
+    "statuses_count": 10509,
+    "favourites_count": 57206,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -25,19 +25,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @YUbocchi_",
+                    "text": "Automated by @bocchi_hitori_1",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 23,
+                            "toIndex": 29,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "YUbocchi_",
+                                "screen_name": "bocchi_hitori_1",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "YUbocchi_"
+                                            "screen_name": "bocchi_hitori_1"
                                         },
                                         "rest_id": "1850495394192801792"
                                     }
@@ -63,13 +63,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 870,
+            "friends_count": 866,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "15900",
-            "media_count": 1332,
+            "media_count": 1378,
             "pinned_tweet_ids_str": [
-                "1883510982141710405"
+                "1892808785124589938"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -88,7 +88,7 @@
         },
         "twe_private_fields": {
             "created_at": 1725608744000,
-            "updated_at": 1739886610205
+            "updated_at": 1740203875542
         }
     }
 }

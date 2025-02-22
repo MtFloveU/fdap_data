@@ -1,20 +1,20 @@
 {
     "id": "1680834021377593344",
-    "screen_name": "Inhara_Akime",
-    "name": "神乐坂温原🍥🫖💥",
-    "description": "さよならすら云わないまま 君は夜になって行く",
+    "screen_name": "Inhara_Hyoto",
+    "name": "温原ひょと 🍥🫖💥",
+    "description": "青空だけが見たいのは我儘ですか",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890046964836061184/8RoJz3P7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680834021377593344/1735933697",
-    "followers_count": 2063,
-    "statuses_count": 21886,
-    "favourites_count": 67510,
+    "followers_count": 2082,
+    "statuses_count": 22081,
+    "favourites_count": 68845,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-07-17 14:57:26 +08:00",
-    "url": "https://twitter.com/Inhara_Akime",
+    "url": "https://twitter.com/Inhara_Hyoto",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjgwODM0MDIxMzc3NTkzMzQ0",
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 942,
+            "friends_count": 945,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "土星",
-            "media_count": 3626,
+            "location": "Aozora",
+            "media_count": 3650,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1689577046000,
-            "updated_at": 1739886610205
+            "updated_at": 1740203872035
         }
     }
 }

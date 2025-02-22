@@ -1,20 +1,20 @@
 {
     "id": "1490976522362302465",
-    "screen_name": "Bingfei_",
+    "screen_name": "huannan_",
     "name": "星酱ouo",
     "description": "就是\n那很好了",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889147755748294656/6dvJMfb1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490976522362302465/1738518264",
-    "followers_count": 5764,
-    "statuses_count": 11069,
-    "favourites_count": 7138,
+    "followers_count": 5855,
+    "statuses_count": 11128,
+    "favourites_count": 7157,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-02-08 17:11:27 +08:00",
-    "url": "https://twitter.com/Bingfei_",
+    "url": "https://twitter.com/huannan_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDkwOTc2NTIyMzYyMzAyNDY1",
@@ -46,13 +46,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1152,
+            "friends_count": 1157,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "Macau",
-            "media_count": 1604,
+            "media_count": 1623,
             "pinned_tweet_ids_str": [
-                "1891768452748378435"
+                "1892884229991911532"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1644311487000,
-            "updated_at": 1739886617545
+            "updated_at": 1740203881665
         }
     }
 }

@@ -1,20 +1,20 @@
 {
     "id": "1807107145756008448",
-    "screen_name": "Allenium114",
-    "name": "翎",
-    "description": "ccb词常变，出场Bilibili从此冰，传承爆出产怖，词簇摆成超棒才出版，常称蚌草传播次次爆。 Clever creator began 促产冰，从此冰出产爆，出产蚌次纯冰，次纯冰处处被查出弊，产出冰常错病，纯凑绑仓促变，纯从编程can't冰",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1889523687436722178/lHtlgrnH_normal.jpg",
+    "screen_name": "IAmTheSolipsism",
+    "name": "翎.𝑆𝑜𝑙𝑖𝑝𝑠𝑖𝑠𝑚.",
+    "description": "🏳️‍🌈🏳️‍⚧️MtX//👩‍💻A-level//🍥Hrt2024.4.20//小证持有//持“證”ADHD&ASD//178cm55kg//2008.5.6//前https://t.co/UmzmLuA9oi编辑💊促智/美白/减肥/HRT药物找@Minokakay♿️提问箱➡️https://t.co/ZjAO2HPxQ7",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1892474847999250433/8WEzNInd_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807107145756008448/1738513829",
-    "followers_count": 2092,
-    "statuses_count": 1633,
-    "favourites_count": 7356,
+    "followers_count": 2397,
+    "statuses_count": 2091,
+    "favourites_count": 8609,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-06-30 01:41:40 +08:00",
-    "url": "https://twitter.com/Allenium114",
+    "url": "https://twitter.com/IAmTheSolipsism",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODA3MTA3MTQ1NzU2MDA4NDQ4",
@@ -57,7 +57,26 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "overspeed.wiki",
+                            "expanded_url": "http://overspeed.wiki",
+                            "url": "https://t.co/UmzmLuA9oi",
+                            "indices": [
+                                83,
+                                106
+                            ]
+                        },
+                        {
+                            "display_url": "ngl.link/thesolipsism",
+                            "expanded_url": "http://ngl.link/thesolipsism",
+                            "url": "https://t.co/ZjAO2HPxQ7",
+                            "indices": [
+                                141,
+                                164
+                            ]
+                        }
+                    ]
                 },
                 "url": {
                     "urls": [
@@ -74,13 +93,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 426,
+            "friends_count": 464,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "重庆市歌乐山精神病院",
-            "media_count": 197,
+            "media_count": 269,
             "pinned_tweet_ids_str": [
-                "1842819783219376461"
+                "1892749526529953855"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -93,7 +112,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1719682900000,
-            "updated_at": 1739886624331
+            "updated_at": 1740203890742
         }
     }
 }

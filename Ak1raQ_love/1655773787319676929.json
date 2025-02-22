@@ -5,9 +5,9 @@
     "description": "当朋友圈发，我骂的没娘骂我的没妈",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885011469923999748/yu0FNpOI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655773787319676929/1738256645",
-    "followers_count": 102,
-    "statuses_count": 2399,
-    "favourites_count": 1554,
+    "followers_count": 103,
+    "statuses_count": 2392,
+    "favourites_count": 1548,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 127,
+            "friends_count": 128,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "China",
-            "media_count": 161,
+            "media_count": 133,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1683602219000,
-            "updated_at": 1739886597926
+            "updated_at": 1740203855155
         }
     }
 }

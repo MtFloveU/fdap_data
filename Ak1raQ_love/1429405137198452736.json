@@ -1,16 +1,16 @@
 {
     "id": "1429405137198452736",
     "screen_name": "Ruri_Mitsuki",
-    "name": "鈴木桜雪さくらゆき",
-    "description": "09MtF，HRT:2024/2/10。号主已换人，希望屏蔽过我的可以解除Block",
+    "name": "鈴木桜雪SakuraSuzuki🏳️‍⚧️",
+    "description": "Catisland猫岛团队官方账号。09年MtF，HRT:2024/2/10，重度双向BD/ADHD，今天也在努力活着。号主已换屏蔽Block过我的请解除，谢谢你们",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890206759958245377/zqpXQM1k_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429405137198452736/1739848838",
-    "followers_count": 7486,
-    "statuses_count": 19109,
-    "favourites_count": 123542,
+    "followers_count": 7500,
+    "statuses_count": 19124,
+    "favourites_count": 123575,
     "listed_count": 38,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-08-22 19:28:44 +08:00",
@@ -46,12 +46,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 857,
+            "friends_count": 863,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "Catisland.lnc🏳️‍⚧️",
-            "media_count": 3238,
-            "pinned_tweet_ids_str": [],
+            "media_count": 3242,
+            "pinned_tweet_ids_str": [
+                "1892925668498997419"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -79,7 +81,7 @@
         },
         "twe_private_fields": {
             "created_at": 1629631724000,
-            "updated_at": 1739886615102
+            "updated_at": 1740203878072
         }
     }
 }

@@ -3,11 +3,11 @@
     "screen_name": "duxin12th",
     "name": "🐍都心🐊",
     "description": "单人包厢@TeririKatarina",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1881357244991963138/-k4x0rFw_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819659817763459072/1737385508",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1892600216773181440/VZJP6AmU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819659817763459072/1740067556",
     "followers_count": 190,
-    "statuses_count": 18316,
-    "favourites_count": 24536,
+    "statuses_count": 18564,
+    "favourites_count": 24982,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": true,
@@ -23,7 +23,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -47,11 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 909,
+            "friends_count": 915,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "都心大青楼",
-            "media_count": 2412,
+            "media_count": 2469,
             "pinned_tweet_ids_str": [
                 "1880292001939353770"
             ],
@@ -66,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1722675694000,
-            "updated_at": 1739886615103
+            "updated_at": 1740203878072
         }
     }
 }

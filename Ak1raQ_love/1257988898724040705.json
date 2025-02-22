@@ -5,9 +5,9 @@
     "description": "没什么不好，不好的也在变好",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1853470587273760768/Qr3W2TmY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257988898724040705/1739701622",
-    "followers_count": 148,
-    "statuses_count": 887,
-    "favourites_count": 3108,
+    "followers_count": 154,
+    "statuses_count": 909,
+    "favourites_count": 3273,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,7 +50,7 @@
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "Perth, Western Australia",
-            "media_count": 266,
+            "media_count": 269,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -74,7 +74,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1588762926000,
-            "updated_at": 1739886592893
+            "updated_at": 1740203853193
         }
     }
 }

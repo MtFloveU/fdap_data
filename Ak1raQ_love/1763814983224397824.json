@@ -5,9 +5,9 @@
     "description": "🏴🚩",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1764348354962796544/kLkAiB8X_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763814983224397824/1709362027",
-    "followers_count": 20,
+    "followers_count": 22,
     "statuses_count": 107,
-    "favourites_count": 218,
+    "favourites_count": 226,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
         "__typename": "User",
         "id": "VXNlcjoxNzYzODE0OTgzMjI0Mzk3ODI0",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
+        "has_graduated_access": false,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -33,7 +33,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 538,
+            "friends_count": 544,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "Combined Syndicates of America",
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1709361276000,
-            "updated_at": 1739886293383
+            "updated_at": 1740203824938
         }
     }
 }

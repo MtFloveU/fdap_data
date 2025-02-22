@@ -5,9 +5,9 @@
     "description": "直男",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1756305476332269568/o0kfiOoD_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 279,
-    "statuses_count": 1545,
-    "favourites_count": 3869,
+    "followers_count": 277,
+    "statuses_count": 1548,
+    "favourites_count": 3861,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,7 +33,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 505,
+            "friends_count": 504,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "San Martin, CA",
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1589906388000,
-            "updated_at": 1739886300184
+            "updated_at": 1740203830555
         }
     }
 }

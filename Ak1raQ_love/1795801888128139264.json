@@ -1,14 +1,14 @@
 {
     "id": "1795801888128139264",
     "screen_name": "XuaEdward",
-    "name": "爱德华.? 🇹🇼🇨🇳🇰🇵🇰🇷🇯🇵",
-    "description": "发癫/od/轻度 游戏:SCPSL/MC/L4D2 文章类:SCP中分/后室Fandom系列",
+    "name": "爱德华.? 🇹🇼🇰🇷🇯🇵",
+    "description": "/od/轻度 游戏:SCPSL/MC/L4D2 文章类:SCP中分/后室Fandom系列",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1795801971318026241/26FLh4mB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795801888128139264/1724388488",
-    "followers_count": 128,
-    "statuses_count": 1069,
-    "favourites_count": 783,
-    "listed_count": 1,
+    "followers_count": 146,
+    "statuses_count": 1167,
+    "favourites_count": 801,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -20,7 +20,7 @@
         "id": "VXNlcjoxNzk1ODAxODg4MTI4MTM5MjY0",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -33,15 +33,15 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 558,
+            "friends_count": 572,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "Zhejiang",
-            "media_count": 69,
+            "media_count": 85,
             "pinned_tweet_ids_str": [
-                "1866723453589655607"
+                "1892926428687245499"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716987516000,
-            "updated_at": 1739886619900
+            "updated_at": 1740203885183
         }
     }
 }

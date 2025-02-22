@@ -1,13 +1,13 @@
 {
     "id": "1432146992914853893",
     "screen_name": "yuchen1204",
-    "name": "🏳️‍⚧️yc🍥",
-    "description": "BIRTH:10/08;HRT:08/12/2024;CN:7/10,EN:5.5/9;No Alcohol ;信奉喵喵神！喵喵神是真理!喵喵神保佑!;no politics topics",
+    "name": "🏳️‍⚧️yc🍥(找工作版)",
+    "description": "BIRTH:10/08/2007;HRT:08/12/2024;CN:7/10,EN:5.5/9;No Alcohol ;信奉喵喵神！喵喵神是真理!喵喵神保佑!;no politics topics",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884827964262805504/tc1hXMI__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1432146992914853893/1654666940",
-    "followers_count": 60,
-    "statuses_count": 1166,
-    "favourites_count": 13181,
+    "followers_count": 61,
+    "statuses_count": 1213,
+    "favourites_count": 13386,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -20,9 +20,10 @@
         "id": "VXNlcjoxNDMyMTQ2OTkyOTE0ODUzODkz",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": true,
             "default_profile": true,
@@ -34,9 +35,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "yuchen1204.github.io",
-                            "expanded_url": "https://yuchen1204.github.io",
-                            "url": "https://t.co/17VoIvrvmK",
+                            "display_url": "ycxiao1204.com",
+                            "expanded_url": "https://ycxiao1204.com",
+                            "url": "https://t.co/Px7MS8q3AV",
                             "indices": [
                                 0,
                                 23
@@ -46,16 +47,18 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 266,
+            "friends_count": 273,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "Melbourne, Victoria",
-            "media_count": 48,
-            "pinned_tweet_ids_str": [],
+            "media_count": 52,
+            "pinned_tweet_ids_str": [
+                "1892967440461500789"
+            ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/17VoIvrvmK",
+            "url": "https://t.co/Px7MS8q3AV",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -65,7 +68,7 @@
         },
         "twe_private_fields": {
             "created_at": 1630285462000,
-            "updated_at": 1739886600174
+            "updated_at": 1740203858888
         }
     }
 }

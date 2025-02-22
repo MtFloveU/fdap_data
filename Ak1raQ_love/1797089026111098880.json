@@ -2,13 +2,13 @@
     "id": "1797089026111098880",
     "screen_name": "rebirthwingz",
     "name": "𝜗𝜚 ame.",
-    "description": "https://t.co/FlcgNKRIwU\n\na safe space for the hurt , \nwho hurt others ,\nbecause they hurt themselves.\n\nI LOVE MY GFFF!!",
+    "description": "https://t.co/ti0HoGhhny\n\na safe space for the hurt , \nwho hurt others ,\nbecause they hurt themselves.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889963055230119936/b_oRY_Ia_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797089026111098880/1739437280",
-    "followers_count": 2642,
-    "statuses_count": 5515,
-    "favourites_count": 25786,
-    "listed_count": 29,
+    "followers_count": 2634,
+    "statuses_count": 5570,
+    "favourites_count": 25964,
+    "listed_count": 28,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -25,19 +25,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @sayawingz",
+                    "text": "Automated by @severedwingz",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 23,
+                            "toIndex": 26,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "sayawingz",
+                                "screen_name": "severedwingz",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "sayawingz"
+                                            "screen_name": "severedwingz"
                                         },
                                         "rest_id": "1878041670899642368"
                                     }
@@ -53,7 +53,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -64,7 +63,7 @@
                         {
                             "display_url": "zephyrs.straw.page",
                             "expanded_url": "https://zephyrs.straw.page",
-                            "url": "https://t.co/FlcgNKRIwU",
+                            "url": "https://t.co/ti0HoGhhny",
                             "indices": [
                                 0,
                                 23
@@ -74,13 +73,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2899,
+            "friends_count": 2886,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "#bpdtwt   ﾉ   #nsotwt ୨୧ ꒱",
-            "media_count": 1025,
+            "media_count": 1035,
             "pinned_tweet_ids_str": [
-                "1891761267745902769"
+                "1892629546501079529"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -92,7 +91,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1717294394000,
-            "updated_at": 1739886602441
+            "updated_at": 1740203860456
         }
     }
 }

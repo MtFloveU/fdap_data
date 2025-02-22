@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1862287465144623106/Umc_K7dA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662475048261935104/1685200150",
     "followers_count": 263,
-    "statuses_count": 1930,
-    "favourites_count": 12208,
+    "statuses_count": 1933,
+    "favourites_count": 12233,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,11 +34,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 727,
+            "friends_count": 725,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 57,
+            "media_count": 58,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
@@ -50,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1685199921000,
-            "updated_at": 1739886619901
+            "updated_at": 1740203885183
         }
     }
 }

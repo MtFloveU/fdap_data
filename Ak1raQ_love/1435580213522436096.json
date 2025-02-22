@@ -5,10 +5,10 @@
     "description": "收集各种稀有资源,大家可以点点关注，点点赞，以防迷路！",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1498723998422601729/kwJC_UgF_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 6250,
+    "followers_count": 6247,
     "statuses_count": 9,
-    "favourites_count": 3,
-    "listed_count": 9,
+    "favourites_count": 4,
+    "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
@@ -33,7 +33,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 5165,
+            "friends_count": 5193,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "",
@@ -58,7 +58,7 @@
         },
         "twe_private_fields": {
             "created_at": 1631103991000,
-            "updated_at": 1739886285990
+            "updated_at": 1740203818635
         }
     }
 }

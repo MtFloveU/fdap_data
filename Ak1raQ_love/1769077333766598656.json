@@ -1,20 +1,20 @@
 {
     "id": "1769077333766598656",
-    "screen_name": "UNGAN11111",
-    "name": "One person（即將淡推）🇺🇳",
-    "description": "泛藍の孫派,和平民主.專注生活圈*^_^*可交友🤝,但🚫極端立場或主義者；可支持交流文字：正體國文🇹🇼/粵語白話🇭🇰🇲🇴/简体中文🇸🇬🇨🇳/American English🇺🇸.",
+    "screen_name": "YGR11111",
+    "name": "一ㄍㄜˋㄖㄣˊ🇺🇳",
+    "description": "Long live the great Communist Party of China and President Xi Jinping\n✋😭🤚✋😭🤚✋😭🤚✋😭🤚",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1842388733666242560/hJQpFYBj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769077333766598656/1737286541",
-    "followers_count": 56,
-    "statuses_count": 766,
-    "favourites_count": 1196,
+    "followers_count": 59,
+    "statuses_count": 852,
+    "favourites_count": 1320,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-03-17 03:05:08 +08:00",
-    "url": "https://twitter.com/UNGAN11111",
+    "url": "https://twitter.com/YGR11111",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY5MDc3MzMzNzY2NTk4NjU2",
@@ -25,19 +25,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @YGR11111",
+                    "text": "Automated by @UNGAN11111",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 22,
+                            "toIndex": 24,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "YGR11111",
+                                "screen_name": "UNGAN11111",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "YGR11111"
+                                            "screen_name": "UNGAN11111"
                                         },
                                         "rest_id": "1889383162754768896"
                                     }
@@ -66,10 +66,10 @@
             "friends_count": 42,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Three Principles of the People",
-            "media_count": 20,
+            "location": "Great Hall of the People✋😭🤚",
+            "media_count": 23,
             "pinned_tweet_ids_str": [
-                "1890283240780607806"
+                "1892865350892433445"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -92,7 +92,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1710615908000,
-            "updated_at": 1739886629357
+            "updated_at": 1740203897177
         }
     }
 }

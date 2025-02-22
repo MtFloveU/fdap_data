@@ -2,12 +2,12 @@
     "id": "1826871427972362240",
     "screen_name": "misaka__network",
     "name": "Misaka Makoto (御坂　まこと)🏳️‍🌈🏳️‍⚧️🍥🇳🇿🇦🇶🇹🇼",
-    "description": "Pronoun: Misaka/Misaka's; GPG Key Fingerprint: F0EB 9289 3C9B 487C CE2C 7A16 3B38 5D98 2992 E954; Trans Non-Binary; GAHT: 2025-1-24; My dear: @Luo_yiyu",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1862605023592534016/dXoXULSp_normal.jpg",
+    "description": "Pronoun: Misaka/Misaka's; \nGPG Key Fingerprint: 3C01 D0C8 C0D2 3F40 C3E2  4EFD 2C99 FFA9 E7DF F7E2E954; \nTrans Non-Binary; \nGAHT: 2025-1-24; \nMy dear: @Luo_yiyu",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1892543426656415744/mYE7JEtM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826871427972362240/1726647335",
-    "followers_count": 212,
-    "statuses_count": 6091,
-    "favourites_count": 22192,
+    "followers_count": 223,
+    "statuses_count": 6359,
+    "favourites_count": 22788,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,9 +34,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "webpagesvc.misakanetworksystem.org",
-                            "expanded_url": "http://webpagesvc.misakanetworksystem.org/",
-                            "url": "https://t.co/LAe6nNsv0r",
+                            "display_url": "webpagesvc.misakanetworksystem.org/index.html",
+                            "expanded_url": "http://webpagesvc.misakanetworksystem.org/index.html",
+                            "url": "https://t.co/cDAtzx6SU2",
                             "indices": [
                                 0,
                                 23
@@ -46,16 +46,18 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 385,
+            "friends_count": 387,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "/Users/MisakaNetworkServices/",
-            "media_count": 82,
-            "pinned_tweet_ids_str": [],
+            "media_count": 86,
+            "pinned_tweet_ids_str": [
+                "1892393442606797213"
+            ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/LAe6nNsv0r",
+            "url": "https://t.co/cDAtzx6SU2",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -68,7 +70,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1724395089000,
-            "updated_at": 1739886615103
+            "updated_at": 1740203881665
         }
     }
 }

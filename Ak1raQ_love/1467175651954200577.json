@@ -5,9 +5,9 @@
     "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879463926951243776/JYf1bDOU_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 1960,
-    "statuses_count": 8398,
-    "favourites_count": 183357,
+    "followers_count": 1987,
+    "statuses_count": 8550,
+    "favourites_count": 186150,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,11 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2244,
+            "friends_count": 2273,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "Japan",
-            "media_count": 536,
+            "media_count": 551,
             "pinned_tweet_ids_str": [
                 "1890789855795261739"
             ],
@@ -68,7 +68,7 @@
         },
         "twe_private_fields": {
             "created_at": 1638636923000,
-            "updated_at": 1739886640718
+            "updated_at": 1740203908825
         }
     }
 }

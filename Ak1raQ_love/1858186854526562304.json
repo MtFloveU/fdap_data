@@ -5,10 +5,10 @@
     "description": "我只是一颗仙人球",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872109760369307648/im2B7nOZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858186854526562304/1739373925",
-    "followers_count": 15006,
-    "statuses_count": 325,
-    "favourites_count": 1157,
-    "listed_count": 40,
+    "followers_count": 22475,
+    "statuses_count": 333,
+    "favourites_count": 1196,
+    "listed_count": 47,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -23,7 +23,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": false,
+            "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 76,
+            "friends_count": 78,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 75,
+            "media_count": 78,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1731861254000,
-            "updated_at": 1739886602441
+            "updated_at": 1740203860456
         }
     }
 }

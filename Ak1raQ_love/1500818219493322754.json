@@ -6,8 +6,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873020186095501312/DzLhY3jJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500818219493322754/1736941313",
     "followers_count": 831,
-    "statuses_count": 7577,
-    "favourites_count": 27301,
+    "statuses_count": 7607,
+    "favourites_count": 27369,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,9 +50,9 @@
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "Endfield",
-            "media_count": 673,
+            "media_count": 676,
             "pinned_tweet_ids_str": [
-                "1881015411346686155"
+                "1892209250837152108"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1646658440000,
-            "updated_at": 1739886629358
+            "updated_at": 1740203897177
         }
     }
 }

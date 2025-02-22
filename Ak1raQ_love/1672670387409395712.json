@@ -5,8 +5,8 @@
     "description": "什么也不是，什么也不想，什么也不要。有对象，来撩我就是你全家死了",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874710945039286272/Y8QXR46d_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672670387409395712/1729356683",
-    "followers_count": 1017,
-    "statuses_count": 36,
+    "followers_count": 1020,
+    "statuses_count": 37,
     "favourites_count": 533,
     "listed_count": 0,
     "verified_type": null,
@@ -33,13 +33,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 313,
+            "friends_count": 311,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "0772",
-            "media_count": 3,
+            "media_count": 4,
             "pinned_tweet_ids_str": [
-                "1890447385710481834"
+                "1890648564314841128"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1687630695000,
-            "updated_at": 1739886637912
+            "updated_at": 1740203907093
         }
     }
 }

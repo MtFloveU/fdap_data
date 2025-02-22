@@ -2,12 +2,12 @@
     "id": "1867612241480364033",
     "screen_name": "tuitewanii",
     "name": "熙（光明、明亮）",
-    "description": "ᗜᴗᗜ | 轻度政治趣味 | 重度网络依赖 | 🚪 a morsel of Compassion and Empathy | 62%情绪外溢+29%自恋自嗨+9%瞎骂钦点",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1891363619033731072/9hoVOaZQ_normal.jpg",
+    "description": "被爱欲驱使的微小个体彼此依赖，马不停蹄地分享相同的情感、去同一个地方、体会一样的冷暖🌈 | 🚪 a morsel of Compassion and Empathy | 100%友一切",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1892937618691948544/79jAi9-Y_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867612241480364033/1739804865",
-    "followers_count": 182,
-    "statuses_count": 651,
-    "favourites_count": 13066,
+    "followers_count": 202,
+    "statuses_count": 721,
+    "favourites_count": 13905,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -18,37 +18,7 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODY3NjEyMjQxNDgwMzY0MDMz",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @Dual_immanentia",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 29,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "Dual_immanentia",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "Dual_immanentia"
-                                        },
-                                        "rest_id": "1788905898330750978"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -63,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 143,
+            "friends_count": 150,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "来财来我们这的憋佬仔脖上喜欢挂玉牌香炉供台上摆长大才开白黄牌",
-            "media_count": 30,
+            "media_count": 33,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1734108441000,
-            "updated_at": 1739886597926
+            "updated_at": 1740203855155
         }
     }
 }

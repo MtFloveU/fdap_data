@@ -5,9 +5,9 @@
     "description": "原名fufuhu",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1722996114973233152/Q9PR-gp2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675529366334480386/1691495718",
-    "followers_count": 447,
-    "statuses_count": 4838,
-    "favourites_count": 31133,
+    "followers_count": 451,
+    "statuses_count": 4863,
+    "favourites_count": 31341,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +33,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 708,
+            "friends_count": 718,
             "has_custom_timelines": false,
             "is_translator": false,
             "location": "",
-            "media_count": 796,
+            "media_count": 801,
             "pinned_tweet_ids_str": [
                 "1882136228881190940"
             ],
@@ -62,7 +62,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1688312319000,
-            "updated_at": 1739886619901
+            "updated_at": 1740203885183
         }
     }
 }

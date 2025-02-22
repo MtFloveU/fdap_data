@@ -5,13 +5,13 @@
     "description": "可怜的孩子 不再胆怯",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1775512359832088576/n3Z6KamT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433961861028855811/1719067700",
-    "followers_count": 1317,
-    "statuses_count": 3888,
-    "favourites_count": 99130,
+    "followers_count": 1326,
+    "statuses_count": 3914,
+    "favourites_count": 100094,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2021-09-04 09:16:00 +08:00",
     "url": "https://twitter.com/harukiO_0",
@@ -46,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1121,
+            "friends_count": 1130,
             "has_custom_timelines": true,
             "is_translator": false,
             "location": "",
@@ -57,13 +57,13 @@
             "translator_type": "none",
             "url": "https://t.co/XT0u09z2C6",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1630718160000,
-            "updated_at": 1739886261324
+            "updated_at": 1740203853187
         }
     }
 }
