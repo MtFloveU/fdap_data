@@ -3,6 +3,7 @@
     "screen_name": "yangyingying88",
     "name": "YYY",
     "description": "喵喵喵",
+    "location": "海南, 中华人民共和国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1417329778172981249/vvr1AMna_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 81,
@@ -36,7 +37,6 @@
             "friends_count": 1098,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "海南, 中华人民共和国",
             "media_count": 0,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1494836921000,
-            "updated_at": 1740203830555
+            "updated_at": 1740287601444
         }
     }
 }

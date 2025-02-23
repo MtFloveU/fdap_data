@@ -3,9 +3,10 @@
     "screen_name": "lyngxu757186",
     "name": "EETY(枫糖助手)",
     "description": "低质量，高产量（枫糖小猫贴身助手）",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1828632623310348289/SJUsSWmx_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 26,
+    "followers_count": 27,
     "statuses_count": 70,
     "favourites_count": 118,
     "listed_count": 0,
@@ -36,7 +37,6 @@
             "friends_count": 71,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 32,
             "pinned_tweet_ids_str": [
                 "1874127886904606736"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1724814912000,
-            "updated_at": 1740203802161
+            "updated_at": 1740287561355
         }
     }
 }

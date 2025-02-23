@@ -3,6 +3,7 @@
     "screen_name": "DietoBeAcatNya",
     "name": "拖把三三猫",
     "description": "普通摇滚乐手，上网只为交朋友；爱户外，爱音乐，爱旅游，欢迎所有友善的交流",
+    "location": "成都",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1818338637739945984/bkeBKX0j_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818336735153340417/1722371521",
     "followers_count": 10,
@@ -36,7 +37,6 @@
             "friends_count": 66,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "成都",
             "media_count": 2,
             "pinned_tweet_ids_str": [
                 "1825798802063897062"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1722360261000,
-            "updated_at": 1740203818635
+            "updated_at": 1740287584028
         }
     }
 }

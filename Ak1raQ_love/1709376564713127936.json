@@ -3,11 +3,12 @@
     "screen_name": "guanjiao_",
     "name": "管脚🍥🏳️‍⚧️",
     "description": "无证🍥23.12.8/she or they/天残党/废物/深柜/INT(F?)P/音游人/2006.12但是永远14岁！///////////// 我只会躲在墙角，看着别人的成就和未来自己什么都做不了 垃圾桶@chunhuiyuyin",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881272842882580480/gJJ3sZdS_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1709376564713127936/1701589340",
     "followers_count": 1265,
-    "statuses_count": 10158,
-    "favourites_count": 52557,
+    "statuses_count": 10178,
+    "favourites_count": 52668,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -23,7 +24,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": true,
             "default_profile": true,
@@ -34,11 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1099,
+            "friends_count": 1097,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
-            "media_count": 1245,
+            "media_count": 1248,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -52,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1696382125000,
-            "updated_at": 1740203907093
+            "updated_at": 1740287675719
         }
     }
 }

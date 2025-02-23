@@ -3,10 +3,11 @@
     "screen_name": "Sukaaa8964",
     "name": "Sukaaa",
     "description": "“活在真相之中，而非谎言之中。”",
+    "location": "IP属地：广西",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889714927914582016/g2NqIHRE_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685174357960921088/1739378027",
-    "followers_count": 21,
-    "statuses_count": 164,
+    "followers_count": 24,
+    "statuses_count": 165,
     "favourites_count": 447,
     "listed_count": 0,
     "verified_type": null,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 107,
+            "friends_count": 108,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "IP属地：广西",
             "media_count": 0,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1690611858000,
-            "updated_at": 1740203793642
+            "updated_at": 1740287544453
         }
     }
 }

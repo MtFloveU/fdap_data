@@ -3,11 +3,12 @@
     "screen_name": "crydoll0",
     "name": "是真的会烦",
     "description": "想见你",
+    "location": "黄金乡",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886667614598127618/uBD5jtOH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672419009583808513/1717514603",
     "followers_count": 75,
     "statuses_count": 182,
-    "favourites_count": 89,
+    "favourites_count": 88,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +38,6 @@
             "friends_count": 15,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "黄金乡",
             "media_count": 15,
             "pinned_tweet_ids_str": [
                 "1799993100846174687"
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1687570745000,
-            "updated_at": 1740203878072
+            "updated_at": 1740287649997
         }
     }
 }

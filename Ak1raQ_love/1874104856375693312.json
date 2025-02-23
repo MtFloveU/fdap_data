@@ -1,16 +1,17 @@
 {
     "id": "1874104856375693312",
     "screen_name": "shaoxiancao520",
-    "name": "烧仙草🍥🏳️⚧️",
+    "name": "烧仙草🍥🏳️‍⚧️",
     "description": "mtf丨09年161cm药娘丨性别认知障碍丨双向情感障碍丨中度抑郁丨焦虑症丨高浓度二次元丨坐标郑州丨《蛊真人》死忠粉",
+    "location": "郑州",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874107298957713408/dqy3PxZ2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874104856375693312/1736450332",
-    "followers_count": 525,
-    "statuses_count": 122,
-    "favourites_count": 870,
+    "followers_count": 524,
+    "statuses_count": 121,
+    "favourites_count": 874,
     "listed_count": 0,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-12-31 22:46:44 +08:00",
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 534,
+            "friends_count": 536,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "郑州",
             "media_count": 7,
             "pinned_tweet_ids_str": [
                 "1884609840162738487"
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1735656404000,
-            "updated_at": 1740203858889
+            "updated_at": 1740287633016
         }
     }
 }

@@ -3,9 +3,10 @@
     "screen_name": "Sora_desu_YWs",
     "name": "0x55AA",
     "description": "含糖MtF | 🏳‍⚧🍥 | 透明人 | debu | 社恐",
+    "location": "佐伯湾泊地",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1775424926427791360/l6DYqP7o_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/900234651490410497/1680088989",
-    "followers_count": 2161,
+    "followers_count": 2163,
     "statuses_count": 442,
     "favourites_count": 184,
     "listed_count": 4,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1514,
+            "friends_count": 1516,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "佐伯湾泊地",
             "media_count": 285,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1503467641000,
-            "updated_at": 1740203812950
+            "updated_at": 1740287573427
         }
     }
 }

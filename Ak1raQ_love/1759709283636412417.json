@@ -3,6 +3,7 @@
     "screen_name": "YuSaki520",
     "name": "千雪&三崎&疏乞巧",
     "description": "同类互fo/🚪待定\n@misakiyugan @BestHooker4Ever @qianxueyuki",
+    "location": "广州",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1759709529833664512/GnWJ8I9B_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 19,
@@ -66,7 +67,6 @@
             "friends_count": 11,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "广州",
             "media_count": 0,
             "pinned_tweet_ids_str": [
                 "1772008329461796908"
@@ -83,7 +83,7 @@
         },
         "twe_private_fields": {
             "created_at": 1708382378000,
-            "updated_at": 1740203907092
+            "updated_at": 1740287675719
         }
     }
 }

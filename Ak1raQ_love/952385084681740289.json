@@ -3,11 +3,12 @@
     "screen_name": "shirayuki_reah",
     "name": "Sryk.Reah",
     "description": "是一只果冻（？），也可以是蕾雅。\n相比之下或许是被祝福着的存在。\n记忆力比较堪忧（\n最近上推的频率会很低（持续时间未知）\n——还有什么来着，想起来再说好了（x",
+    "location": "淡紫色的梦境小屋、星夜下的莹光花园",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881756834496925696/Kj1Mqab7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/952385084681740289/1732062126",
     "followers_count": 66,
     "statuses_count": 580,
-    "favourites_count": 5019,
+    "favourites_count": 5010,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 128,
+            "friends_count": 127,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "淡紫色的梦境小屋、星夜下的莹光花园",
             "media_count": 4,
             "pinned_tweet_ids_str": [
                 "1862194193206264011"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1515901273000,
-            "updated_at": 1740203860455
+            "updated_at": 1740287635416
         }
     }
 }

@@ -3,11 +3,12 @@
     "screen_name": "Sakura_Yukihane",
     "name": "小羽-樱雪羽🏳️‍⚧️🍥",
     "description": "谁来弄死我",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873309667964944384/IISivAsb_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 554,
-    "statuses_count": 275,
-    "favourites_count": 783,
+    "followers_count": 566,
+    "statuses_count": 293,
+    "favourites_count": 803,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 180,
+            "friends_count": 185,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
-            "media_count": 20,
+            "media_count": 21,
             "pinned_tweet_ids_str": [
                 "1880166228502925617"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1715332778000,
-            "updated_at": 1740203860456
+            "updated_at": 1740287635416
         }
     }
 }

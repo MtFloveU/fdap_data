@@ -3,9 +3,10 @@
     "screen_name": "damingwansui123",
     "name": "乡野君🇨🇳🇭🇰🇲🇴",
     "description": "🇨🇳🇭🇰🇲🇴中国共产党万岁，世界人民大团结万岁",
+    "location": "中南海",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886609824747511808/fdWUrNiM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812007108663279616/1720935355",
-    "followers_count": 479,
+    "followers_count": 476,
     "statuses_count": 209,
     "favourites_count": 387,
     "listed_count": 0,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1191,
+            "friends_count": 1192,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "中南海",
             "media_count": 45,
             "pinned_tweet_ids_str": [
                 "1841096011424407677"
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1720851148000,
-            "updated_at": 1740203820492
+            "updated_at": 1740287586939
         }
     }
 }

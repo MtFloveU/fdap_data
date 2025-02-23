@@ -3,11 +3,12 @@
     "screen_name": "sysROM_",
     "name": "sysROM",
     "description": "fullstack developer / CN|EN|JP / 173CM42KG / github:sysrom / AS213774 / Telegram: @sysroms",
+    "location": "MmGetSystemRoutineAddress",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1819389625515065344/6n1uZ4F9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1496399888149528579/1687709339",
-    "followers_count": 717,
+    "followers_count": 718,
     "statuses_count": 1514,
-    "favourites_count": 6792,
+    "favourites_count": 6795,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": true,
@@ -36,7 +37,6 @@
             "friends_count": 989,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "MmGetSystemRoutineAddress",
             "media_count": 146,
             "pinned_tweet_ids_str": [
                 "1683377104363360257"
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1645604510000,
-            "updated_at": 1740203910367
+            "updated_at": 1740287681518
         }
     }
 }

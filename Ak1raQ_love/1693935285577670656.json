@@ -2,12 +2,13 @@
     "id": "1693935285577670656",
     "screen_name": "MinaseAyano",
     "name": "綾乃Ayano𝕏🍥",
-    "description": "🏳️‍⚧️MtF 🍥24.3.12 | 丑逼 | 炸柜 家长态度不知道 | 坐标山东邹城 | 日常碎碎念 不键政 | 最爱的姐姐&老婆@Kisaragi_Momoe 可爱闺蜜@Aurora71310🥰 | 提问箱https://t.co/vdyPufHjYv | 里推@Yumo_1314",
+    "description": "🏳️‍⚧️MtF 🍥24.3.12 | 丑逼 | 炸柜 家长态度不知道 | 坐标山东邹城 | 不键政 | 最爱的姐姐&老婆@Kisaragi_Momoe 可爱闺蜜@Aurora71310🥰 | 里推@Yumo_1314",
+    "location": "猫窝",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866481632397729792/cjCEDb_F_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1693935285577670656/1714064110",
-    "followers_count": 1233,
-    "statuses_count": 3416,
-    "favourites_count": 3152,
+    "followers_count": 1253,
+    "statuses_count": 3458,
+    "favourites_count": 3166,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -59,29 +60,34 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
+                    "urls": []
+                },
+                "url": {
                     "urls": [
                         {
                             "display_url": "ngl.link/minaseayano",
                             "expanded_url": "http://ngl.link/minaseayano",
                             "url": "https://t.co/vdyPufHjYv",
                             "indices": [
-                                106,
-                                129
+                                0,
+                                23
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1231,
+            "friends_count": 1243,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "猫窝",
-            "media_count": 282,
-            "pinned_tweet_ids_str": [],
+            "media_count": 285,
+            "pinned_tweet_ids_str": [
+                "1892978761068421616"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/vdyPufHjYv",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -89,7 +95,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1692700632000,
-            "updated_at": 1740203899732
+            "updated_at": 1740287669626
         }
     }
 }

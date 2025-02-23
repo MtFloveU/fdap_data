@@ -3,12 +3,13 @@
     "screen_name": "NyuEiko6",
     "name": "NyuEiko",
     "description": "",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882367310884909056/s31-Z_Me_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 2760,
+    "followers_count": 2759,
     "statuses_count": 5900,
-    "favourites_count": 16934,
-    "listed_count": 4,
+    "favourites_count": 16937,
+    "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6011,
+            "friends_count": 6021,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "",
             "media_count": 314,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -54,7 +54,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1657435284000,
-            "updated_at": 1740203834163
+            "updated_at": 1740287606122
         }
     }
 }

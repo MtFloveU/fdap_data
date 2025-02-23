@@ -3,6 +3,7 @@
     "screen_name": "maidx_tp",
     "name": "星核猎手托帕",
     "description": "星核猎手旗下「舞萌DX部」高级干部托帕，领导拆机小b登纠察小组。年纪轻轻便已成为「石心十人」之一，基石为「AIME」",
+    "location": "Taoyuan County, Taiwan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1829709533582934016/juELVs1i_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811071398716256256/1725071721",
     "followers_count": 20,
@@ -36,7 +37,6 @@
             "friends_count": 50,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Taoyuan County, Taiwan",
             "media_count": 16,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1720628069000,
-            "updated_at": 1740203832379
+            "updated_at": 1740287603857
         }
     }
 }

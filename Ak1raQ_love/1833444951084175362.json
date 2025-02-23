@@ -3,11 +3,12 @@
     "screen_name": "zhaomohan_01",
     "name": "赵墨寒_zhaomohan壹号（Ureru版）",
     "description": "『破破烂烂活着 悄无声息死去』",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873007297242583041/6y1fcxM2_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 48,
-    "statuses_count": 318,
-    "favourites_count": 709,
+    "followers_count": 50,
+    "statuses_count": 333,
+    "favourites_count": 726,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -63,11 +64,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 209,
+            "friends_count": 213,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
-            "media_count": 79,
+            "media_count": 83,
             "pinned_tweet_ids_str": [
                 "1871209420056920313"
             ],
@@ -81,7 +81,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1725962321000,
-            "updated_at": 1740203858889
+            "updated_at": 1740287633016
         }
     }
 }

@@ -3,11 +3,12 @@
     "screen_name": "NmsleseResearch",
     "name": "熊老大 🔬 兔友研究院B🐻t",
     "description": "推特兔友的迷惑行為收集處（晚安推除外）丨歡迎投稿",
+    "location": "Nmslese City",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866832536816795648/rAEgM1H5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640674561980260354/1701527499",
-    "followers_count": 12409,
-    "statuses_count": 23101,
-    "favourites_count": 379845,
+    "followers_count": 12405,
+    "statuses_count": 23106,
+    "favourites_count": 380035,
     "listed_count": 57,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,8 +37,7 @@
             "friends_count": 2620,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "Nmslese City",
-            "media_count": 7785,
+            "media_count": 7787,
             "pinned_tweet_ids_str": [
                 "1874017581029552191"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1680002279000,
-            "updated_at": 1740203903263
+            "updated_at": 1740287672135
         }
     }
 }

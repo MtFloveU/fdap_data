@@ -3,9 +3,10 @@
     "screen_name": "openwrt666",
     "name": "老司机收藏夹",
     "description": "收集各种稀有资源,大家可以点点关注，点点赞，以防迷路！",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1498723998422601729/kwJC_UgF_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 6247,
+    "followers_count": 6245,
     "statuses_count": 9,
     "favourites_count": 4,
     "listed_count": 10,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 5193,
+            "friends_count": 5205,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "",
             "media_count": 7,
             "pinned_tweet_ids_str": [
                 "1555236611863982080"
@@ -58,7 +58,7 @@
         },
         "twe_private_fields": {
             "created_at": 1631103991000,
-            "updated_at": 1740203818635
+            "updated_at": 1740287584027
         }
     }
 }

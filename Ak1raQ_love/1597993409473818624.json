@@ -3,11 +3,12 @@
     "screen_name": "KomeijiKoishi_1",
     "name": "Celeriel",
     "description": "而我仍梦到他踏着草地/在露水中飘飘荡荡行走/让我的欢歌轻易刺透",
+    "location": "Avernus",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1858998583766437888/VYsBeZ1a_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597993409473818624/1690311266",
     "followers_count": 726,
     "statuses_count": 2902,
-    "favourites_count": 9198,
+    "favourites_count": 9203,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -66,7 +67,6 @@
             "friends_count": 583,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Avernus",
             "media_count": 252,
             "pinned_tweet_ids_str": [
                 "1810255962789593353"
@@ -86,7 +86,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1669826305000,
-            "updated_at": 1740203872035
+            "updated_at": 1740287645118
         }
     }
 }

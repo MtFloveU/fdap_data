@@ -3,11 +3,12 @@
     "screen_name": "Thalliumdr81",
     "name": "Thallium dragon🏳️‍⚧️",
     "description": "Thallium/鉈龍 | She/Her | 💜🩷🤍🩵🤍🩷💜 | NSFW | 🇹🇼🇦🇺 | 國語 | 粵語 | 日本語 | English | DM’s are open!",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1801931126958927872/m-LgHEID_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755464127202709504/1718446826",
-    "followers_count": 106,
+    "followers_count": 107,
     "statuses_count": 1769,
-    "favourites_count": 3816,
+    "favourites_count": 3815,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,12 +37,11 @@
             "friends_count": 1148,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 15,
             "pinned_tweet_ids_str": [
                 "1873960582581543090"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1707370250000,
-            "updated_at": 1740203832379
+            "updated_at": 1740287603857
         }
     }
 }

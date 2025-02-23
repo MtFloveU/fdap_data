@@ -3,6 +3,7 @@
     "screen_name": "Sakurairinaqwq",
     "name": "切成一小块一小块扔到海里喂鱼鱼2号",
     "description": "最最最最最最最重要的@popopopowu｜GameDev｜破烂作词、作曲、演唱者",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1820307083084058624/UbODWjcv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/2477499739/1723051394",
     "followers_count": 143,
@@ -36,7 +37,6 @@
             "friends_count": 177,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 81,
             "pinned_tweet_ids_str": [
                 "1819484268500078973"
@@ -62,7 +62,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1399243356000,
-            "updated_at": 1740203903263
+            "updated_at": 1740287672135
         }
     }
 }

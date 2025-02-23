@@ -3,11 +3,12 @@
     "screen_name": "Wisteria8964",
     "name": "🌈Mash Kyrielight💛🤍💜🖤",
     "description": "我是一个茄子",
+    "location": "Camelot",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1783693407833214976/7pxwdixJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572782961925443584/1684039414",
-    "followers_count": 660,
+    "followers_count": 659,
     "statuses_count": 4352,
-    "favourites_count": 192070,
+    "favourites_count": 192031,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +38,6 @@
             "friends_count": 913,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Camelot",
             "media_count": 36,
             "pinned_tweet_ids_str": [
                 "1755393534289756328"
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1663815672000,
-            "updated_at": 1740203885183
+            "updated_at": 1740287655294
         }
     }
 }

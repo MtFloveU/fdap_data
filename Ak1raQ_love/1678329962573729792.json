@@ -3,11 +3,12 @@
     "screen_name": "noname16322",
     "name": "不知道叫什么",
     "description": "喵喵",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1678330029355438083/eIB7HDEl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678329962573729792/1688980776",
     "followers_count": 5,
     "statuses_count": 0,
-    "favourites_count": 340,
+    "favourites_count": 358,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 417,
+            "friends_count": 420,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 0,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1688980035000,
-            "updated_at": 1740203814914
+            "updated_at": 1740287577391
         }
     }
 }

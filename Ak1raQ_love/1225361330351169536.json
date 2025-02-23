@@ -3,9 +3,10 @@
     "screen_name": "Shachar_memory",
     "name": "邈黎",
     "description": "illustration｜3DCG｜中文/English 【绘画｜记录｜树洞 ——纪念我存在过的痕迹，我的记忆，我的故事】",
+    "location": "SAMUCELA",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1824466731726942208/0uh7idCk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225361330351169536/1636804871",
-    "followers_count": 48,
+    "followers_count": 50,
     "statuses_count": 15,
     "favourites_count": 57,
     "listed_count": 2,
@@ -49,7 +50,6 @@
             "friends_count": 162,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "SAMUCELA",
             "media_count": 10,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1580983926000,
-            "updated_at": 1740203878072
+            "updated_at": 1740287649997
         }
     }
 }

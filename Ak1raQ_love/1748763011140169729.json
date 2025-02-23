@@ -3,10 +3,11 @@
     "screen_name": "shexianshx",
     "name": "shenxianmao",
     "description": "07 ｜G11學生｜留學方向美國 /日本｜INTJ-t｜MC｜vegan",
+    "location": "中國浙江",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1840092256931622912/6cLKWRfD_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1721061304",
     "followers_count": 129,
-    "statuses_count": 588,
+    "statuses_count": 589,
     "favourites_count": 156,
     "listed_count": 0,
     "verified_type": null,
@@ -36,8 +37,7 @@
             "friends_count": 629,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "中國浙江",
-            "media_count": 77,
+            "media_count": 78,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1705772574000,
-            "updated_at": 1740203824938
+            "updated_at": 1740287593119
         }
     }
 }

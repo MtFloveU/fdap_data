@@ -3,11 +3,12 @@
     "screen_name": "harukiO_0",
     "name": "haruki🐻",
     "description": "可怜的孩子 不再胆怯",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1775512359832088576/n3Z6KamT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433961861028855811/1719067700",
-    "followers_count": 1326,
-    "statuses_count": 3914,
-    "favourites_count": 100094,
+    "followers_count": 1330,
+    "statuses_count": 3929,
+    "favourites_count": 100451,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,11 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1130,
+            "friends_count": 1134,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "",
-            "media_count": 437,
+            "media_count": 441,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1630718160000,
-            "updated_at": 1740203853187
+            "updated_at": 1740287627541
         }
     }
 }

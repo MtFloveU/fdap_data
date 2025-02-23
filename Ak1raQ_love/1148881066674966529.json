@@ -3,6 +3,7 @@
     "screen_name": "westendjss",
     "name": "Xu",
     "description": "深柜ing｜2022.03翻车｜2023.12💉|🇦🇺phd biomaterial & tissue engineering 毕业无望｜树洞｜聊点开心的和不开心的｜半个nerd｜喜欢看乱七八糟的论文和hiking｜试着重启人生中",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1722575399849472000/x-NHG0Id_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 46,
@@ -36,7 +37,6 @@
             "friends_count": 431,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 18,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1562749566000,
-            "updated_at": 1740203834163
+            "updated_at": 1740287606122
         }
     }
 }

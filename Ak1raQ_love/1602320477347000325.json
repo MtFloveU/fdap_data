@@ -3,9 +3,10 @@
     "screen_name": "landiantech",
     "name": "蓝点网",
     "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+    "location": "土卫六",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 24280,
+    "followers_count": 24277,
     "statuses_count": 9805,
     "favourites_count": 2887,
     "listed_count": 231,
@@ -68,7 +69,6 @@
             "friends_count": 537,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "土卫六",
             "media_count": 3436,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -97,7 +97,7 @@
         },
         "twe_private_fields": {
             "created_at": 1670857959000,
-            "updated_at": 1740203899732
+            "updated_at": 1740287669627
         }
     }
 }

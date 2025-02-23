@@ -3,11 +3,12 @@
     "screen_name": "lucienmercouris",
     "name": "贝利娅",
     "description": "可以叫我贝利娅/铂金｜抽象人｜高中在读（理科）｜ENTJ-A｜Только меня не спасай, поскорее забывай",
+    "location": "Moscow, Russia",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873267681744592896/480Gi_NO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1802880725445902336/1718686712",
-    "followers_count": 92,
+    "followers_count": 91,
     "statuses_count": 98,
-    "favourites_count": 8292,
+    "favourites_count": 8304,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 263,
+            "friends_count": 261,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Moscow, Russia",
             "media_count": 42,
             "pinned_tweet_ids_str": [
                 "1868815496759722293"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1718675246000,
-            "updated_at": 1740203858889
+            "updated_at": 1740287635416
         }
     }
 }

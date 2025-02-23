@@ -3,6 +3,7 @@
     "screen_name": "Kevin1166302",
     "name": "Kevin",
     "description": "nothing to say",
+    "location": "Mars",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1815635950942433280/zcLHSdhO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718506437775880192/1721716319",
     "followers_count": 21,
@@ -36,7 +37,6 @@
             "friends_count": 431,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Mars",
             "media_count": 7,
             "pinned_tweet_ids_str": [
                 "1827621445410943237"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1698558870000,
-            "updated_at": 1740203832379
+            "updated_at": 1740287603857
         }
     }
 }

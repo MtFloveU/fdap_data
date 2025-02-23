@@ -3,11 +3,12 @@
     "screen_name": "AlivicEbey",
     "name": "玖隗",
     "description": "普通大学生一个",
+    "location": "People's Republic of China",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877504697768226816/ZjKuueaw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1594961815963738114/1733321802",
     "followers_count": 965,
-    "statuses_count": 3058,
-    "favourites_count": 16973,
+    "statuses_count": 3060,
+    "favourites_count": 16984,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 235,
+            "friends_count": 236,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "People's Republic of China",
-            "media_count": 325,
+            "media_count": 326,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1669103513000,
-            "updated_at": 1740203853245
+            "updated_at": 1740287627541
         }
     }
 }

@@ -3,11 +3,12 @@
     "screen_name": "cyyyy86",
     "name": "cyy",
     "description": "Human.",
+    "location": "歌舞伎一番街114514號",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1845373898356891659/7lDGkbw7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310933259199545344/1728806408",
     "followers_count": 228,
     "statuses_count": 312,
-    "favourites_count": 35648,
+    "favourites_count": 35713,
     "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,7 +37,6 @@
             "friends_count": 3377,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "歌舞伎一番街114514號",
             "media_count": 42,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1601385829000,
-            "updated_at": 1740203885183
+            "updated_at": 1740287655294
         }
     }
 }

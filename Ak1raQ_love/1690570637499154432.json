@@ -3,11 +3,12 @@
     "screen_name": "saonanaa",
     "name": "Zhi Wei",
     "description": "马斯克斯马曾经shadowban我的账号长达一周",
+    "location": "🌏",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1852229368443211776/tn6UFkHm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1739606305",
-    "followers_count": 2198,
-    "statuses_count": 6240,
-    "favourites_count": 11953,
+    "followers_count": 2208,
+    "statuses_count": 6391,
+    "favourites_count": 12143,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": true,
@@ -33,12 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 240,
+            "friends_count": 246,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "🌏",
-            "media_count": 708,
-            "pinned_tweet_ids_str": [],
+            "media_count": 726,
+            "pinned_tweet_ids_str": [
+                "1893488357369614761"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -52,7 +54,7 @@
         },
         "twe_private_fields": {
             "created_at": 1691898437000,
-            "updated_at": 1740203903263
+            "updated_at": 1740287672135
         }
     }
 }

@@ -3,6 +3,7 @@
     "screen_name": "changmengxk",
     "name": "guoke（过客）",
     "description": "一颗孤单的星星就此滑过，有被独特的你看见吗，有吗有吗！",
+    "location": "不远呢",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877473974122328067/YLEJ9hCo_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858070265152131072/1732395383",
     "followers_count": 27,
@@ -36,7 +37,6 @@
             "friends_count": 167,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "不远呢",
             "media_count": 8,
             "pinned_tweet_ids_str": [
                 "1877259560605344099"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1731833474000,
-            "updated_at": 1740203872035
+            "updated_at": 1740287645118
         }
     }
 }

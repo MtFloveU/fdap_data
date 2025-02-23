@@ -3,9 +3,10 @@
     "screen_name": "FFFFFanXingxing",
     "name": "凡凡凡凡星星",
     "description": "做题家小女孩，喜欢有关艺术的一切｜INFP-T",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1761642608391294976/5kMQ31Ge_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483726186991669250/1704770008",
-    "followers_count": 713,
+    "followers_count": 712,
     "statuses_count": 1,
     "favourites_count": 391,
     "listed_count": 5,
@@ -36,7 +37,6 @@
             "friends_count": 652,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 0,
             "pinned_tweet_ids_str": [
                 "1824664213555646491"
@@ -58,7 +58,7 @@
         },
         "twe_private_fields": {
             "created_at": 1642582876000,
-            "updated_at": 1740203908825
+            "updated_at": 1740287678962
         }
     }
 }

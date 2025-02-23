@@ -3,6 +3,7 @@
     "screen_name": "Nana7miChk",
     "name": "笨蛋七海大冒险",
     "description": "再见，如果再也不能与你相见，那么祝你早安午安还有晚安。\n出自《楚门的世界》\n男朋友  @AAA76995421",
+    "location": "杭州",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883191506267181056/vD8VeaT3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668651382415720448/1725537760",
     "followers_count": 1034,
@@ -36,7 +37,6 @@
             "friends_count": 1003,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "杭州",
             "media_count": 263,
             "pinned_tweet_ids_str": [
                 "1863578645572239766"
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1686672478000,
-            "updated_at": 1740203885183
+            "updated_at": 1740287655294
         }
     }
 }

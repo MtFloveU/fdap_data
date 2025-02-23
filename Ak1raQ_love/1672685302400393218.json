@@ -3,11 +3,12 @@
     "screen_name": "quexiao0131_4",
     "name": "🍥鹊宵🏳️‍⚧️",
     "description": "大号@quexiao0131_2‖2009 01 31 ||已辍学 ||16岁 ||重度焦虑症＋双相情感障碍 ||🍥无证含糖🏳️‍⚧️ ||私信互FO ||不键政 ||接线下‖🚪20‖现居上海杨浦☆生活再难也还得坚持 我们一起加油👋 最后祝自己永不放弃 永不失败 永远做自己",
+    "location": "需要帮助的时候 鹊宵永远在你背后₍˄·͈༝·͈˄*₎◞ ̑̑",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890012481155964928/XJolFUmT_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 2324,
-    "statuses_count": 43,
-    "favourites_count": 110,
+    "followers_count": 2376,
+    "statuses_count": 46,
+    "favourites_count": 111,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +20,7 @@
         "__typename": "User",
         "id": "VXNlcjoxNjcyNjg1MzAyNDAwMzkzMjE4",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
+        "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -33,13 +34,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 221,
+            "friends_count": 232,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "需要帮助的时候 鹊宵永远在你背后₍˄·͈༝·͈˄*₎◞ ̑̑",
-            "media_count": 4,
+            "media_count": 5,
             "pinned_tweet_ids_str": [
-                "1891411369485852979"
+                "1893263871357411566"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -62,7 +62,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1687634309000,
-            "updated_at": 1740203853245
+            "updated_at": 1740287627541
         }
     }
 }

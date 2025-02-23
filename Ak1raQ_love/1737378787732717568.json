@@ -3,9 +3,10 @@
     "screen_name": "Ei3O32",
     "name": "EI3O32",
     "description": "ENBY | PANSEXUAL | Any Pronouns",
+    "location": "VACUUS",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1751572506073513984/dDjVrYGc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737378787732717568/1717676636",
-    "followers_count": 168,
+    "followers_count": 167,
     "statuses_count": 209,
     "favourites_count": 1286,
     "listed_count": 1,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 323,
+            "friends_count": 322,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "VACUUS",
             "media_count": 57,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1703058371000,
-            "updated_at": 1740203841938
+            "updated_at": 1740287618334
         }
     }
 }

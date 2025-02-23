@@ -3,11 +3,12 @@
     "screen_name": "SustainablSyrup",
     "name": "可持续糖浆",
     "description": "Things I touch are made of stone🧡💙",
+    "location": "Los Angeles, CA",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1831508601598570497/U_eNF_Vn_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255407520409100291/1715304052",
-    "followers_count": 2086,
-    "statuses_count": 3467,
-    "favourites_count": 5474,
+    "followers_count": 2088,
+    "statuses_count": 3476,
+    "favourites_count": 5482,
     "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": true,
@@ -46,11 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1237,
+            "friends_count": 1239,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Los Angeles, CA",
-            "media_count": 92,
+            "media_count": 93,
             "pinned_tweet_ids_str": [
                 "1858613730445332556"
             ],
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1588147463000,
-            "updated_at": 1740203899732
+            "updated_at": 1740287669627
         }
     }
 }

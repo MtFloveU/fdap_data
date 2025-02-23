@@ -3,11 +3,12 @@
     "screen_name": "Suzume527",
     "name": "铃儿",
     "description": "| Cosplayer | 随缘回fo | 🚪68 只聊天 不过不回私信 | 不线下 再问拉黑",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1832266070373040128/IDKWkS9z_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222694843178074114/1721646507",
-    "followers_count": 17170,
+    "followers_count": 17163,
     "statuses_count": 529,
-    "favourites_count": 2092,
+    "favourites_count": 2091,
     "listed_count": 63,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,7 +37,6 @@
             "friends_count": 357,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "",
             "media_count": 62,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1580348167000,
-            "updated_at": 1740203910367
+            "updated_at": 1740287681518
         }
     }
 }

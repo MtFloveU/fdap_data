@@ -3,10 +3,11 @@
     "screen_name": "TaoWen44377",
     "name": "路过的波奇酱",
     "description": "男偏女\n共产主义者",
+    "location": "china",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889657889792438272/6IK7QchQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822530373349195776/1736179803",
-    "followers_count": 3,
-    "statuses_count": 45,
+    "followers_count": 4,
+    "statuses_count": 46,
     "favourites_count": 475,
     "listed_count": 0,
     "verified_type": null,
@@ -36,8 +37,7 @@
             "friends_count": 138,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "china",
-            "media_count": 11,
+            "media_count": 12,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1723360087000,
-            "updated_at": 1740203826849
+            "updated_at": 1740287595960
         }
     }
 }

@@ -3,11 +3,12 @@
     "screen_name": "X_A_P_H_Y",
     "name": "XapHy",
     "description": "♪───Ｏ（≧∇≦）Ｏ────♪",
+    "location": "打音游的",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1718876946409668608/fyIJgdmS_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694415127867744256/1702069902",
-    "followers_count": 301,
-    "statuses_count": 4070,
-    "favourites_count": 6387,
+    "followers_count": 302,
+    "statuses_count": 4075,
+    "favourites_count": 6392,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,10 +47,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 507,
+            "friends_count": 508,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "打音游的",
             "media_count": 430,
             "pinned_tweet_ids_str": [
                 "1843090770083127332"
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1692815034000,
-            "updated_at": 1740203840137
+            "updated_at": 1740287615499
         }
     }
 }

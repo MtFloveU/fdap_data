@@ -3,6 +3,7 @@
     "screen_name": "percy462067",
     "name": "yyyyy",
     "description": "I prance like a unicorn in a sea of horses.\nlgbt友好",
+    "location": "上海-苏州-无锡-NZ-US",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1760944367827812352/YJvjz8iC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737147526594314240/1705767198",
     "followers_count": 105,
@@ -36,7 +37,6 @@
             "friends_count": 249,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "上海-苏州-无锡-NZ-US",
             "media_count": 1,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -60,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1703003231000,
-            "updated_at": 1740203841938
+            "updated_at": 1740287618334
         }
     }
 }

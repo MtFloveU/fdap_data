@@ -3,9 +3,10 @@
     "screen_name": "CXCXCX6666",
     "name": "结晶猫🍊",
     "description": "疑似有点太极端了qwq\nhrt：2023.6，srs五年计划筹备中（确信）",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1699892701817339904/F71COnyd_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649306096593690624/1714214094",
-    "followers_count": 1030,
+    "followers_count": 1029,
     "statuses_count": 26,
     "favourites_count": 229,
     "listed_count": 0,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 5411,
+            "friends_count": 5409,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 1,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1682060211000,
-            "updated_at": 1740203841938
+            "updated_at": 1740287618336
         }
     }
 }

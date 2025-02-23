@@ -3,6 +3,7 @@
     "screen_name": "Kawa1_kitsune",
     "name": "かわい　きつね🏳️‍⚧️",
     "description": "狐物器已将负向内容转交至此，未经授权的访问可能导致失常。您已经被警告过了。",
+    "location": "日本",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1862487444219994116/XdOGtdMT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862486817028939778/1732886981",
     "followers_count": 137,
@@ -37,7 +38,6 @@
             "friends_count": 140,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "日本",
             "media_count": 0,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -50,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1732886446000,
-            "updated_at": 1740203872035
+            "updated_at": 1740287645118
         }
     }
 }

@@ -3,10 +3,11 @@
     "screen_name": "shingflash0721",
     "name": "绮丽闪光🍥🏳️‍⚧️",
     "description": "打复活赛打赢了☝🤓",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1852590118710005760/L9HR9C5S_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 619,
-    "statuses_count": 3079,
+    "statuses_count": 3080,
     "favourites_count": 3637,
     "listed_count": 3,
     "verified_type": null,
@@ -36,8 +37,7 @@
             "friends_count": 757,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
-            "media_count": 480,
+            "media_count": 481,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1710143051000,
-            "updated_at": 1740203899732
+            "updated_at": 1740287669627
         }
     }
 }

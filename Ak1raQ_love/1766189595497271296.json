@@ -3,6 +3,7 @@
     "screen_name": "Yo9763012849412",
     "name": "小男娘星云酱",
     "description": "我是SB，私信我可加我微Q",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1766190685772980224/h2CyK4P-_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 79,
@@ -36,7 +37,6 @@
             "friends_count": 10,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 7,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1709927396000,
-            "updated_at": 1740203890742
+            "updated_at": 1740287662027
         }
     }
 }

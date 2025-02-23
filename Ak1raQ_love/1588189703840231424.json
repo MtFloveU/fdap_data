@@ -3,6 +3,7 @@
     "screen_name": "GdbyrGfhgbh",
     "name": "秋语",
     "description": "ENFJ，想要朋友，欢迎互fo",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890687871105077248/SiNhMX5I_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1588189703840231424/1719546364",
     "followers_count": 56,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 397,
+            "friends_count": 398,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 1,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1667488927000,
-            "updated_at": 1740203855155
+            "updated_at": 1740287629450
         }
     }
 }

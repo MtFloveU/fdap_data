@@ -3,6 +3,7 @@
     "screen_name": "zhenzhen_04177",
     "name": "真真不是榛子酱",
     "description": "回忆和小圆在一起的一切，继续生活。",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1773896923994537984/qaNXI7xO_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 83,
@@ -37,7 +38,6 @@
             "friends_count": 81,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 55,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -50,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1711764690000,
-            "updated_at": 1740203890742
+            "updated_at": 1740287662027
         }
     }
 }

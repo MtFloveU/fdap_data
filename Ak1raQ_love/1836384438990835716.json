@@ -3,6 +3,7 @@
     "screen_name": "lngtnh373312",
     "name": "龙潭湖",
     "description": "我深爱着愿意与我结缘的所有人",
+    "location": "济南",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1836392965486579716/VIp3tfiE_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836384438990835716/1726665229",
     "followers_count": 8,
@@ -36,7 +37,6 @@
             "friends_count": 73,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "济南",
             "media_count": 37,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1726663152000,
-            "updated_at": 1740203814914
+            "updated_at": 1740287577391
         }
     }
 }

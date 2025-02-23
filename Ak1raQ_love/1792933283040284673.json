@@ -3,11 +3,12 @@
     "screen_name": "tuamitx0",
     "name": "智慧型手槍🔫",
     "description": "別垢@asapapupu0",
+    "location": "臺灣 新北市",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886819374042112002/GmlO8uhV_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792933283040284673/1734018473",
-    "followers_count": 141,
-    "statuses_count": 4912,
-    "favourites_count": 9865,
+    "followers_count": 142,
+    "statuses_count": 4923,
+    "favourites_count": 9873,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,7 +37,6 @@
             "friends_count": 480,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "臺灣 新北市",
             "media_count": 19,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -60,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716303628000,
-            "updated_at": 1740203881665
+            "updated_at": 1740287652587
         }
     }
 }

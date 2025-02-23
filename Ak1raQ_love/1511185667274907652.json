@@ -3,12 +3,13 @@
     "screen_name": "RevolutionTide",
     "name": "Revolutionary Tide",
     "description": "毁灭的激情就是创造的幸福 。/后结构无政府主义者",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1883090331144478720/o0ZnDZdi_normal.jpg",
+    "location": "萨帕塔民族解放军",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1893310824745205760/LSwb_tR2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511185667274907652/1725175961",
-    "followers_count": 4727,
-    "statuses_count": 3473,
-    "favourites_count": 77815,
-    "listed_count": 22,
+    "followers_count": 4758,
+    "statuses_count": 3514,
+    "favourites_count": 78129,
+    "listed_count": 24,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -46,11 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2659,
+            "friends_count": 2664,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "萨帕塔民族解放军",
-            "media_count": 331,
+            "media_count": 333,
             "pinned_tweet_ids_str": [
                 "1847619356575817866"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1649129722000,
-            "updated_at": 1740203878072
+            "updated_at": 1740287649997
         }
     }
 }

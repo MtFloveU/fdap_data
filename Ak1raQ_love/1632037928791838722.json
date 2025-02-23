@@ -3,6 +3,7 @@
     "screen_name": "nanaiskami",
     "name": "无糖可乐加冰🧊🥤",
     "description": "欢迎互fo(无推文号除外但是可以给我发消息) | 平常不发什么消息 | 转发评价机器人",
+    "location": "Earth",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1846019542902099969/xHBjIF_m_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1632037928791838722/1698378688",
     "followers_count": 43,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 149,
+            "friends_count": 148,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Earth",
             "media_count": 8,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -60,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1677943149000,
-            "updated_at": 1740203860455
+            "updated_at": 1740287635416
         }
     }
 }

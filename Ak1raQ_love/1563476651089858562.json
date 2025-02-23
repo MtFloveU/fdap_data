@@ -3,10 +3,11 @@
     "screen_name": "a_meow55",
     "name": "猫屋₍˄·͈༝·͈˄*₎◞ ̑̑",
     "description": "画图丨写歌丨程序丨文字",
+    "location": "想要变得消失不见",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1868810717228601344/NQ3TrY6Y_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563476651089858562/1687922591",
-    "followers_count": 713,
-    "statuses_count": 1002,
+    "followers_count": 714,
+    "statuses_count": 1005,
     "favourites_count": 2889,
     "listed_count": 2,
     "verified_type": null,
@@ -33,11 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 566,
+            "friends_count": 569,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "想要变得消失不见",
-            "media_count": 290,
+            "media_count": 293,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1661596861000,
-            "updated_at": 1740203814914
+            "updated_at": 1740287577391
         }
     }
 }

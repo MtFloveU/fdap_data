@@ -3,11 +3,12 @@
     "screen_name": "zpananasdf",
     "name": "仲夏幽竹🍥",
     "description": "爱好广泛（等于没有爱好）/无证含糖🍥/未出柜/抑郁症患者",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892969091671134208/n4t4JOB2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862931803931303936/1734348692",
-    "followers_count": 250,
+    "followers_count": 248,
     "statuses_count": 536,
-    "favourites_count": 1793,
+    "favourites_count": 1794,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 368,
+            "friends_count": 381,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 27,
             "pinned_tweet_ids_str": [
                 "1891640801974780072"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1732992536000,
-            "updated_at": 1740203868947
+            "updated_at": 1740287642498
         }
     }
 }

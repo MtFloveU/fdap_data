@@ -3,11 +3,12 @@
     "screen_name": "Lycaropia",
     "name": "八百目実",
     "description": "Aspie | TS Fullstack | Transgirl 🏳️‍⚧️ | Les | GF @CatTalkerMitaka\nLOVE 🩷 FOREVER",
+    "location": "384,400km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889609333740281861/wCbfA8lO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672822866986024961/1687668245",
-    "followers_count": 1293,
-    "statuses_count": 8597,
-    "favourites_count": 65343,
+    "followers_count": 1290,
+    "statuses_count": 8625,
+    "favourites_count": 65552,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 992,
+            "friends_count": 995,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "384,400km",
             "media_count": 195,
             "pinned_tweet_ids_str": [
                 "1835227356170190958"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1687667043000,
-            "updated_at": 1740203887489
+            "updated_at": 1740287658947
         }
     }
 }

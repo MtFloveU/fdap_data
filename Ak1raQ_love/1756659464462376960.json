@@ -3,6 +3,7 @@
     "screen_name": "beiyanlianluo",
     "name": "北雁救援联络",
     "description": "*本号仅负责发布联络信息、发布 #主理人述职 和 #北雁月报\n和 #自杀干预 以及 #心理援助\n“所有微光聚在一起，相互温暖，度过寒冬。”\n#社群互助 #社群救助\n您可随时取回您的捐款.",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1756660160863535104/fw2xE_b5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756659464462376960/1707655402",
     "followers_count": 385,
@@ -36,7 +37,6 @@
             "friends_count": 92,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 17,
             "pinned_tweet_ids_str": [
                 "1827953241801502744"
@@ -56,7 +56,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1707655234000,
-            "updated_at": 1740203907093
+            "updated_at": 1740287675719
         }
     }
 }

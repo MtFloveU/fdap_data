@@ -3,6 +3,7 @@
     "screen_name": "flystar_5086",
     "name": "开拓者",
     "description": "@liuying_021464小账",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870661983353053184/kUn91cAC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835391059783778304/1735446667",
     "followers_count": 60,
@@ -37,7 +38,6 @@
             "friends_count": 95,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 4,
             "pinned_tweet_ids_str": [
                 "1857600917656187313"
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1726426314000,
-            "updated_at": 1740203872035
+            "updated_at": 1740287645118
         }
     }
 }

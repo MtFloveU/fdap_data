@@ -3,6 +3,7 @@
     "screen_name": "YUSEI1917",
     "name": "大藏游星",
     "description": "最喜欢妹妹了@RinTka8964",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885634943369576448/Yxa7WUtO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821896519253106688/1738405381",
     "followers_count": 128,
@@ -37,7 +38,6 @@
             "friends_count": 17,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 20,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -50,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1723208970000,
-            "updated_at": 1740203860456
+            "updated_at": 1740287635416
         }
     }
 }

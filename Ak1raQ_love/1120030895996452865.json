@@ -3,11 +3,12 @@
     "screen_name": "TodIsTheSun",
     "name": "卡门的太阳",
     "description": "是琥珀亲妈｜卡门想要活下去｜只要你喜欢草莓我们就是异父异母的亲人",
+    "location": "Tardis",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1714440765538238464/kXoQn2A3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1120030895996452865/1660469362",
-    "followers_count": 2471,
-    "statuses_count": 9461,
-    "favourites_count": 60301,
+    "followers_count": 2475,
+    "statuses_count": 9463,
+    "favourites_count": 60353,
     "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1803,
+            "friends_count": 1805,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "Tardis",
-            "media_count": 1096,
+            "media_count": 1098,
             "pinned_tweet_ids_str": [
                 "1619684934838530049"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1555871149000,
-            "updated_at": 1740203881665
+            "updated_at": 1740287652587
         }
     }
 }

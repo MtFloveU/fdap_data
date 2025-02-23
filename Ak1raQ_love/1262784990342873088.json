@@ -3,11 +3,12 @@
     "screen_name": "aiS7L0Zlvk8yTgB",
     "name": "农民工的变态幻想",
     "description": "直男",
+    "location": "San Martin, CA",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1756305476332269568/o0kfiOoD_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 277,
+    "followers_count": 280,
     "statuses_count": 1548,
-    "favourites_count": 3861,
+    "favourites_count": 3859,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,7 +37,6 @@
             "friends_count": 504,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "San Martin, CA",
             "media_count": 60,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1589906388000,
-            "updated_at": 1740203830555
+            "updated_at": 1740287601444
         }
     }
 }

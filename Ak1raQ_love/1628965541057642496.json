@@ -3,9 +3,10 @@
     "screen_name": "Warma_Plaza",
     "name": "Warma广场",
     "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！沃玛本尊请看：@_Warma_",
+    "location": "沃家东边的深处",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1731584965",
-    "followers_count": 3194,
+    "followers_count": 3200,
     "statuses_count": 1117,
     "favourites_count": 555,
     "listed_count": 2,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7481,
+            "friends_count": 7483,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "沃家东边的深处",
             "media_count": 163,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1677210629000,
-            "updated_at": 1740203836079
+            "updated_at": 1740287609044
         }
     }
 }

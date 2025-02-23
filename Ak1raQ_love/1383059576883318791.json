@@ -3,6 +3,7 @@
     "screen_name": "GentlemanHamil1",
     "name": "Gentleman Hamilton 紳士·哈姆士頓 🇲🇴 🇹🇼🇭🇰",
     "description": "Am Geeker!!!! Grass Touching Computer Enthusiast 👉🌿 -God’s in his heaven, all right with Linux 🐧",
+    "location": "澳門共和國",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1571555713423646720/krrBfTos_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1383059576883318791/1696054685",
     "followers_count": 51,
@@ -49,7 +50,6 @@
             "friends_count": 1158,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "澳門共和國",
             "media_count": 8,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1618582089000,
-            "updated_at": 1740203798660
+            "updated_at": 1740287551280
         }
     }
 }

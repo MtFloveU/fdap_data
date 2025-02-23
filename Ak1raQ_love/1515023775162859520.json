@@ -3,6 +3,7 @@
     "screen_name": "tan10riko",
     "name": "章鱼烧企鹅",
     "description": "Hi~ o(*￣▽￣*)ブ",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1818658981017272327/D6ET3Vir_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515023775162859520/1696251389",
     "followers_count": 12,
@@ -36,7 +37,6 @@
             "friends_count": 145,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 0,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1650044806000,
-            "updated_at": 1740203818635
+            "updated_at": 1740287584027
         }
     }
 }

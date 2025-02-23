@@ -3,10 +3,11 @@
     "screen_name": "AlphaOrionis09",
     "name": "Akari",
     "description": "⚜️幽霊＆ﾃﾝｼ｜ＳＮＳノ詩人。",
+    "location": "无线电波",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1867493725351686145/mrgfkn29_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733491347431321600/1732026659",
-    "followers_count": 1145,
-    "statuses_count": 7899,
+    "followers_count": 1144,
+    "statuses_count": 7900,
     "favourites_count": 15801,
     "listed_count": 4,
     "verified_type": null,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 702,
+            "friends_count": 700,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "无线电波",
             "media_count": 599,
             "pinned_tweet_ids_str": [
                 "1850896106701595124"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1702131527000,
-            "updated_at": 1740203908825
+            "updated_at": 1740287678958
         }
     }
 }

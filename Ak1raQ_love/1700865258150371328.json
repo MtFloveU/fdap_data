@@ -3,12 +3,13 @@
     "screen_name": "star_tran30449",
     "name": "StarTransForever",
     "description": "她/他/祂们并未离开，只是去了一个遥远的地方。",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1749459076587900928/V3XYOWRU_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700865258150371328/1694353221",
-    "followers_count": 1397,
+    "followers_count": 1399,
     "statuses_count": 389,
     "favourites_count": 1034,
-    "listed_count": 1,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -79,7 +80,6 @@
             "friends_count": 61,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 71,
             "pinned_tweet_ids_str": [
                 "1700873713980506292"
@@ -95,7 +95,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1694352901000,
-            "updated_at": 1740203908825
+            "updated_at": 1740287678962
         }
     }
 }

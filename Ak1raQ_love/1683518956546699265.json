@@ -3,9 +3,10 @@
     "screen_name": "creepyman1995",
     "name": "智力低下注意力障碍捞比",
     "description": "好奇心",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879221857888673793/SGaGX61X_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683518956546699265/1736876127",
-    "followers_count": 158,
+    "followers_count": 162,
     "statuses_count": 0,
     "favourites_count": 1,
     "listed_count": 0,
@@ -36,7 +37,6 @@
             "friends_count": 2816,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 0,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -60,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1690217192000,
-            "updated_at": 1740203793642
+            "updated_at": 1740287544453
         }
     }
 }

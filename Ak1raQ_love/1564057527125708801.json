@@ -3,11 +3,12 @@
     "screen_name": "keithttmaxwell",
     "name": "maxwell",
     "description": "Christian/基督徒/🥰",
+    "location": "National Security Agency",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1830040455658209280/hiGwDc_H_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564057527125708801/1715968172",
     "followers_count": 456,
-    "statuses_count": 12491,
-    "favourites_count": 98121,
+    "statuses_count": 12492,
+    "favourites_count": 98123,
     "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,7 +37,6 @@
             "friends_count": 1149,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "National Security Agency",
             "media_count": 253,
             "pinned_tweet_ids_str": [
                 "1617179112648617985"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1661735365000,
-            "updated_at": 1740203890742
+            "updated_at": 1740287662027
         }
     }
 }

@@ -3,11 +3,12 @@
     "screen_name": "shiroko486318",
     "name": "和摇滚的你说拜拜",
     "description": "类人形生物",
+    "location": "Proxima Centauri",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682428492078788608/1729538776",
-    "followers_count": 365,
-    "statuses_count": 859,
-    "favourites_count": 539,
+    "followers_count": 363,
+    "statuses_count": 885,
+    "favourites_count": 545,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 374,
+            "friends_count": 379,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Proxima Centauri",
-            "media_count": 91,
+            "media_count": 95,
             "pinned_tweet_ids_str": [
                 "1892598085689200682"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1689957201000,
-            "updated_at": 1740203858889
+            "updated_at": 1740287633016
         }
     }
 }

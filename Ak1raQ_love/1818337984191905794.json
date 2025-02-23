@@ -3,9 +3,10 @@
     "screen_name": "ultra_mitsuki4",
     "name": "mtsuki4.0",
     "description": "我又重生了*4，这里依旧是小米，依旧重抑重焦，依旧很穷，依旧查成分互fo",
+    "location": "0.1km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1818338518848225284/vHKgS1xL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818337984191905794/1722360678",
-    "followers_count": 291,
+    "followers_count": 290,
     "statuses_count": 381,
     "favourites_count": 208,
     "listed_count": 0,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 305,
+            "friends_count": 304,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "0.1km",
             "media_count": 129,
             "pinned_tweet_ids_str": [
                 "1879792768559759451"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1722360544000,
-            "updated_at": 1740203875542
+            "updated_at": 1740287647531
         }
     }
 }

@@ -3,6 +3,7 @@
     "screen_name": "s_neko21",
     "name": "ねこ",
     "description": "苦労して生きている一つの生命体 | MTX | 可愛い猫",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877768034968109057/ZqxjZp18_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/884607299658014721/1704446272",
     "followers_count": 672,
@@ -49,7 +50,6 @@
             "friends_count": 372,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "",
             "media_count": 293,
             "pinned_tweet_ids_str": [
                 "1861131326516273395"
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1499741790000,
-            "updated_at": 1740203908825
+            "updated_at": 1740287678962
         }
     }
 }

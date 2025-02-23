@@ -3,6 +3,7 @@
     "screen_name": "mtf_xixi",
     "name": "茜🍥",
     "description": "06年mtf/hrt:2023.12.5/社恐/嘴笨/不擅长社交/不常发推QAQ",
+    "location": "异世界",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1657686209207099392/7D1SXDx1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1200961800646221824/1709632571",
     "followers_count": 302,
@@ -36,7 +37,6 @@
             "friends_count": 334,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "异世界",
             "media_count": 3,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1575166597000,
-            "updated_at": 1740203903263
+            "updated_at": 1740287672135
         }
     }
 }

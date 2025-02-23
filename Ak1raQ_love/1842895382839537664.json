@@ -3,12 +3,13 @@
     "screen_name": "_FiniteWorld",
     "name": "Finite World",
     "description": "为生而战 | 比彩梦还饿 | @_Tojita_Sekai 的猫猫\nMinecraft | 崩坏：星穹铁道 | Arcaea\nVue | React | Ktor | Fabric | Bukkit",
+    "location": "匹诺康尼",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1845397247950979072/E2dL3s1c_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842895382839537664/1736042398",
-    "followers_count": 529,
-    "statuses_count": 1464,
-    "favourites_count": 2817,
-    "listed_count": 0,
+    "followers_count": 530,
+    "statuses_count": 1474,
+    "favourites_count": 2830,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -46,10 +47,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 533,
+            "friends_count": 535,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "匹诺康尼",
             "media_count": 31,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1728215479000,
-            "updated_at": 1740203868947
+            "updated_at": 1740287642495
         }
     }
 }

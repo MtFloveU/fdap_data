@@ -3,11 +3,12 @@
     "screen_name": "bigfufu1145",
     "name": "猫猫鼠不是老鼠！",
     "description": "原名fufuhu",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1722996114973233152/Q9PR-gp2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675529366334480386/1691495718",
-    "followers_count": 451,
-    "statuses_count": 4863,
-    "favourites_count": 31341,
+    "followers_count": 463,
+    "statuses_count": 4872,
+    "favourites_count": 31415,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,11 +37,8 @@
             "friends_count": 718,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
-            "media_count": 801,
-            "pinned_tweet_ids_str": [
-                "1882136228881190940"
-            ],
+            "media_count": 803,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -62,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1688312319000,
-            "updated_at": 1740203885183
+            "updated_at": 1740287655294
         }
     }
 }

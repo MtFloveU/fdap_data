@@ -3,10 +3,11 @@
     "screen_name": "Snowcomics",
     "name": "Snoocomics",
     "description": "中文: @Snowcomics9452 Español: @Snowcomics_ES \nWelcome to our newsroom, your go-to source for the latest updates and leaks on mobile phones and tablets. /🏳️‍⚧️/",
+    "location": "Hong Kong | 香港",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874491811055702016/k0-EAHaQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684537362339205121/1728321076",
-    "followers_count": 910,
-    "statuses_count": 1501,
+    "followers_count": 913,
+    "statuses_count": 1504,
     "favourites_count": 9112,
     "listed_count": 1,
     "verified_type": null,
@@ -36,8 +37,7 @@
             "friends_count": 2671,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Hong Kong | 香港",
-            "media_count": 403,
+            "media_count": 405,
             "pinned_tweet_ids_str": [
                 "1886824977443512662"
             ],
@@ -62,7 +62,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1690460008000,
-            "updated_at": 1740203864034
+            "updated_at": 1740287638597
         }
     }
 }

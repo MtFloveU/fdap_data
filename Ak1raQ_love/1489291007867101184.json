@@ -3,6 +3,7 @@
     "screen_name": "H6p98c3qHmMfSaz",
     "name": "玲子jkig",
     "description": "我现在已经不做自己的梦了，有时候我觉得我是你。",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1859525346573549570/PdstgAdC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489291007867101184/1731082471",
     "followers_count": 24,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 508,
+            "friends_count": 509,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 29,
             "pinned_tweet_ids_str": [
                 "1857287210443428308"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1643909633000,
-            "updated_at": 1740203808475
+            "updated_at": 1740287567369
         }
     }
 }

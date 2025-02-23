@@ -3,9 +3,10 @@
     "screen_name": "yzh1126935",
     "name": "狐星",
     "description": "沉睡千年的狐神",
+    "location": "-",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1847920608484741120/EeyFX-62_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707636853472645120/1729413601",
-    "followers_count": 771,
+    "followers_count": 770,
     "statuses_count": 3099,
     "favourites_count": 5899,
     "listed_count": 4,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 776,
+            "friends_count": 775,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "-",
             "media_count": 75,
             "pinned_tweet_ids_str": [
                 "1827729594629390738"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1695967337000,
-            "updated_at": 1740203881665
+            "updated_at": 1740287652587
         }
     }
 }

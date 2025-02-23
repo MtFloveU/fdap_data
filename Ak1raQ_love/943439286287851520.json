@@ -3,11 +3,12 @@
     "screen_name": "KagurazakaSenba",
     "name": "💮羽星千雪🌸🍥",
     "description": "盼来盼去盼不尽天涯何处是归处",
+    "location": "距离你 2.1 km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/943439286287851520/1699106051",
-    "followers_count": 2757,
-    "statuses_count": 22966,
-    "favourites_count": 86762,
+    "followers_count": 2756,
+    "statuses_count": 22986,
+    "favourites_count": 86806,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,12 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4820,
+            "friends_count": 4823,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "距离你 2.1 km",
-            "media_count": 1866,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1868,
+            "pinned_tweet_ids_str": [
+                "1891806552786403537"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -57,7 +59,7 @@
         },
         "twe_private_fields": {
             "created_at": 1513768428000,
-            "updated_at": 1740203903263
+            "updated_at": 1740287672135
         }
     }
 }

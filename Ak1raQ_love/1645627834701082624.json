@@ -3,11 +3,12 @@
     "screen_name": "kira20194922529",
     "name": "Jonas·El Niño",
     "description": "我不想上班了\n这是我的小号@keaiiea",
+    "location": "0.1km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872088243606552576/btnTx5UM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1645627834701082624/1681183467",
     "followers_count": 600,
     "statuses_count": 3114,
-    "favourites_count": 41822,
+    "favourites_count": 41767,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,7 +37,6 @@
             "friends_count": 1249,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "0.1km",
             "media_count": 569,
             "pinned_tweet_ids_str": [
                 "1868990255954903447"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1681183233000,
-            "updated_at": 1740203820492
+            "updated_at": 1740287586939
         }
     }
 }

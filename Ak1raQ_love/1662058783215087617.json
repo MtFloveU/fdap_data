@@ -3,11 +3,12 @@
     "screen_name": "Anastasia195113",
     "name": "Hacchi",
     "description": "终其永怀，又窘阴雨。",
+    "location": "距离2.4km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1662061289781460993/EDwofmWk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662058783215087617/1702940079",
-    "followers_count": 1769,
-    "statuses_count": 15536,
-    "favourites_count": 42467,
+    "followers_count": 1839,
+    "statuses_count": 15621,
+    "favourites_count": 42505,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1209,
+            "friends_count": 1217,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "距离2.4km",
-            "media_count": 448,
+            "media_count": 449,
             "pinned_tweet_ids_str": [
                 "1745857431090119137"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1685100682000,
-            "updated_at": 1740203860455
+            "updated_at": 1740287635416
         }
     }
 }

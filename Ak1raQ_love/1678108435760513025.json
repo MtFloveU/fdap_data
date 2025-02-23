@@ -3,9 +3,10 @@
     "screen_name": "Liwan1126",
     "name": "㫪",
     "description": "🤯😰😨🫣🤯😭",
+    "location": "距离你1.4公里",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1821201638981292032/kY2tnFLJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678108435760513025/1704440168",
-    "followers_count": 883,
+    "followers_count": 882,
     "statuses_count": 737,
     "favourites_count": 9938,
     "listed_count": 4,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 985,
+            "friends_count": 983,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "距离你1.4公里",
             "media_count": 42,
             "pinned_tweet_ids_str": [
                 "1748748089735663706"
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1688927213000,
-            "updated_at": 1740203885183
+            "updated_at": 1740287658947
         }
     }
 }

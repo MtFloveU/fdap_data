@@ -3,11 +3,12 @@
     "screen_name": "Sky29406",
     "name": " Sky（抽象破茧版）",
     "description": "23.10.17｜24.9.4｜24.10.9｜25.2.10｜ 未来已来.",
+    "location": "0.2KM",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873774621511868419/ZzG6PX-T_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662540652029304832/1691075372",
-    "followers_count": 1634,
-    "statuses_count": 8956,
-    "favourites_count": 40947,
+    "followers_count": 1637,
+    "statuses_count": 8957,
+    "favourites_count": 40940,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2471,
+            "friends_count": 2469,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "0.2KM",
             "media_count": 72,
             "pinned_tweet_ids_str": [
                 "1880614863397097587"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1685215571000,
-            "updated_at": 1740203907093
+            "updated_at": 1740287675719
         }
     }
 }

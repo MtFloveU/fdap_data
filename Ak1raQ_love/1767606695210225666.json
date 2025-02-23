@@ -3,11 +3,12 @@
     "screen_name": "FrankMacFarquha",
     "name": "巧虎巧虎",
     "description": "Frank MacFarquhar 恋爱中\n海边长大的平平无奇的人 布偶猫和柴犬的主人 不理性的人 漂亮文具的囤积者 在研究彭罗陆杨 所向无远弗届 \n晴雪映霜霞，相依守岁华。莫言天地闭，春色已交加。别再看这些无聊的文案了，我只愿告诉你，我爱你。",
+    "location": "Hong Kong",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1792129116898213888/udSQSvNd_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767606695210225666/1710291705",
     "followers_count": 455,
     "statuses_count": 727,
-    "favourites_count": 65880,
+    "favourites_count": 65984,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,7 +37,6 @@
             "friends_count": 3094,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Hong Kong",
             "media_count": 86,
             "pinned_tweet_ids_str": [
                 "1791362577911722392"
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1710265286000,
-            "updated_at": 1740203830555
+            "updated_at": 1740287601444
         }
     }
 }

@@ -3,6 +3,7 @@
     "screen_name": "TheSnowFalling",
     "name": "倒过来的小咖喱¿🍛🏳️‍⚧️",
     "description": "某一个人小号?(发点怪怪的东西)",
+    "location": "参宿四",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1752766090835558400/R0y4aHhC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747105106993225728/1705377416",
     "followers_count": 168,
@@ -37,7 +38,6 @@
             "friends_count": 170,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "参宿四",
             "media_count": 34,
             "pinned_tweet_ids_str": [
                 "1749334304499609726"
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1705377312000,
-            "updated_at": 1740203907093
+            "updated_at": 1740287675719
         }
     }
 }

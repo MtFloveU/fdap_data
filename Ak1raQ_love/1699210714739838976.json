@@ -3,11 +3,12 @@
     "screen_name": "FuenfuH98660",
     "name": "小式",
     "description": "如果找不到人说话可以跟我聊聊 互fo涨粉也可以",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888922813765210112/tZ2xCU6c_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699210714739838976/1737394076",
-    "followers_count": 245,
-    "statuses_count": 488,
-    "favourites_count": 344,
+    "followers_count": 246,
+    "statuses_count": 493,
+    "favourites_count": 343,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2046,
+            "friends_count": 2056,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 90,
             "pinned_tweet_ids_str": [
                 "1889709635206267289"
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1693958396000,
-            "updated_at": 1740203806265
+            "updated_at": 1740287564138
         }
     }
 }

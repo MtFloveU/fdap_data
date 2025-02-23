@@ -3,6 +3,7 @@
     "screen_name": "ImNotCrosZ1878",
     "name": "(loc0)^4",
     "description": "@ImNotCrosO1878 灌注永除塔比喵 灌注永除塔比謝謝喵",
+    "location": "Сыктывкар",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1765418586913570817/p38T5BY0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720002363409469440/1710591671",
     "followers_count": 404,
@@ -47,10 +48,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 354,
+            "friends_count": 355,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Сыктывкар",
             "media_count": 884,
             "pinned_tweet_ids_str": [
                 "1883905122276892993"
@@ -77,7 +77,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1698915504000,
-            "updated_at": 1740203860455
+            "updated_at": 1740287635416
         }
     }
 }

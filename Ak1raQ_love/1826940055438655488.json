@@ -3,11 +3,12 @@
     "screen_name": "GUMOUXUAN2",
     "name": "顧某譞",
     "description": "變出花田的魔法",
+    "location": "浦岛隧道",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889792559351996418/fx-NTg3-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826940055438655488/1739395754",
-    "followers_count": 312,
-    "statuses_count": 1352,
-    "favourites_count": 9678,
+    "followers_count": 313,
+    "statuses_count": 1362,
+    "favourites_count": 9748,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -63,11 +64,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 612,
+            "friends_count": 613,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "浦岛隧道",
-            "media_count": 145,
+            "media_count": 146,
             "pinned_tweet_ids_str": [
                 "1882332248449638752"
             ],
@@ -81,7 +81,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1724411440000,
-            "updated_at": 1740203875542
+            "updated_at": 1740287647532
         }
     }
 }

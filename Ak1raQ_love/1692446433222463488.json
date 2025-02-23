@@ -3,12 +3,13 @@
     "screen_name": "0721sandwich",
     "name": "三明治 Sandwich",
     "description": "有趣的简介能让你被更多人看见哦～    无聊！我要看血流成河！ Boring! I want to see some body parts!",
+    "location": "Shanghai, China",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891124018465714176/-QJiBpL9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692446433222463488/1717488217",
-    "followers_count": 1308,
-    "statuses_count": 4936,
-    "favourites_count": 7249,
-    "listed_count": 9,
+    "followers_count": 1316,
+    "statuses_count": 5018,
+    "favourites_count": 7386,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -33,11 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1075,
+            "friends_count": 1076,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Shanghai, China",
-            "media_count": 438,
+            "media_count": 444,
             "pinned_tweet_ids_str": [
                 "1851831983925764484"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1692345671000,
-            "updated_at": 1740203868947
+            "updated_at": 1740287642495
         }
     }
 }

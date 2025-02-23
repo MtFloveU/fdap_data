@@ -3,11 +3,12 @@
     "screen_name": "YANAGI__KATSU",
     "name": "柳前褐🔋",
     "description": "Kduです！",
+    "location": "宇宙",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1856356025126756352/_Wkv-Q9V_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657704267443232770/1732025045",
-    "followers_count": 426,
+    "followers_count": 427,
     "statuses_count": 2687,
-    "favourites_count": 7671,
+    "favourites_count": 7669,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,7 +37,6 @@
             "friends_count": 962,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "宇宙",
             "media_count": 106,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1684062485000,
-            "updated_at": 1740203822553
+            "updated_at": 1740287590225
         }
     }
 }

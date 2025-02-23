@@ -3,12 +3,13 @@
     "screen_name": "AcboxLiu",
     "name": "Acbox",
     "description": "💻开源开发者/Co-Founder&CTO of @bijonaicom/🥁某乐队鼓手/🦆@bugduckteam创始人/👩‍💻15岁/🐱Github:sheepbox8646/🧭@twiam_ai成员/🤗生活号:@xiaoxiangziqwq",
+    "location": "🟦 深圳地铁三号线",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876909271847452672/0fi42bgF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1677921966",
-    "followers_count": 3444,
-    "statuses_count": 3011,
-    "favourites_count": 1946,
-    "listed_count": 9,
+    "followers_count": 3570,
+    "statuses_count": 3016,
+    "favourites_count": 1947,
+    "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -46,10 +47,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2515,
+            "friends_count": 2540,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "🟦 深圳地铁三号线",
             "media_count": 556,
             "pinned_tweet_ids_str": [
                 "1883616776908599514"
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1670756141000,
-            "updated_at": 1740203853245
+            "updated_at": 1740287627541
         }
     }
 }

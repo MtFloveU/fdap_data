@@ -3,9 +3,10 @@
     "screen_name": "ChenYuh92746364",
     "name": "血龙传媒3.0",
     "description": "焦虑症/2005.9.27/天秤座/ESFP",
+    "location": "Black mesa",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1865830258324176896/-xD0mywG_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 79,
+    "followers_count": 78,
     "statuses_count": 332,
     "favourites_count": 79,
     "listed_count": 0,
@@ -63,10 +64,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 87,
+            "friends_count": 86,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Black mesa",
             "media_count": 64,
             "pinned_tweet_ids_str": [
                 "1839639331733913896"
@@ -81,7 +81,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1603514091000,
-            "updated_at": 1740203881665
+            "updated_at": 1740287652587
         }
     }
 }

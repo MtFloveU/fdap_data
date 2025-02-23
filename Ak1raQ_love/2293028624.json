@@ -3,6 +3,7 @@
     "screen_name": "Ariel77451s",
     "name": "MAGA",
     "description": "IMO银牌、全栈&网安工程师、无政府主义者",
+    "location": "Los Angeles, CA",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861824639669870592/GFQar_9r_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293028624/1732727781",
     "followers_count": 53,
@@ -36,7 +37,6 @@
             "friends_count": 24,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Los Angeles, CA",
             "media_count": 72,
             "pinned_tweet_ids_str": [
                 "1866352142329467332"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1389806953000,
-            "updated_at": 1740203893084
+            "updated_at": 1740287664965
         }
     }
 }

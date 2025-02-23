@@ -3,6 +3,7 @@
     "screen_name": "ttzzyo01",
     "name": "ttzzyo🏳️‍⚧️🍥",
     "description": "",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1722215480369508352/Xzspq8da_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1111695225410314240/1699443194",
     "followers_count": 99,
@@ -37,7 +38,6 @@
             "friends_count": 410,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 9,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -50,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1553883770000,
-            "updated_at": 1740203903263
+            "updated_at": 1740287672135
         }
     }
 }

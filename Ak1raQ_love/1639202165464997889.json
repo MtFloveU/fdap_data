@@ -3,6 +3,7 @@
     "screen_name": "x9163421864751",
     "name": "情愿因缘而起",
     "description": "不存在的人........",
+    "location": "Taito-ku, Tokyo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1880189392817467392/CKzpiHsj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639202165464997889/1736227938",
     "followers_count": 214,
@@ -37,7 +38,6 @@
             "friends_count": 356,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Taito-ku, Tokyo",
             "media_count": 17,
             "pinned_tweet_ids_str": [
                 "1876652005156118528"
@@ -54,7 +54,7 @@
         },
         "twe_private_fields": {
             "created_at": 1679651246000,
-            "updated_at": 1740203864033
+            "updated_at": 1740287638596
         }
     }
 }

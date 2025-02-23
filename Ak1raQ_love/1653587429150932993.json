@@ -3,6 +3,7 @@
     "screen_name": "qibai05",
     "name": "于飞飞🍥",
     "description": "168/50｜MTF.｜INFP｜无证含糖🍥｜萝莉控（所以纳西妲是我老婆！）☺️｜飞飞不是人机！｜努力读书ing｜聊起来问题会很多｜好迷茫不知道以后要怎么过｜有个很好的宝宝是床上的鸭鸭｜还有一个对我很好的人：@hanseme1",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892107563417862146/lOZvztDX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653587429150932993/1715665049",
     "followers_count": 163,
@@ -46,10 +47,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 20,
+            "friends_count": 21,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 16,
             "pinned_tweet_ids_str": [
                 "1789609477009965435"
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1683080956000,
-            "updated_at": 1740203814914
+            "updated_at": 1740287577391
         }
     }
 }

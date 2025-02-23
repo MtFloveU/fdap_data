@@ -3,11 +3,12 @@
     "screen_name": "huannan_",
     "name": "星酱ouo",
     "description": "就是\n那很好了",
+    "location": "Macau",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889147755748294656/6dvJMfb1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490976522362302465/1738518264",
-    "followers_count": 5855,
-    "statuses_count": 11128,
-    "favourites_count": 7157,
+    "followers_count": 5871,
+    "statuses_count": 11134,
+    "favourites_count": 7156,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
@@ -49,8 +50,7 @@
             "friends_count": 1157,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Macau",
-            "media_count": 1623,
+            "media_count": 1625,
             "pinned_tweet_ids_str": [
                 "1892884229991911532"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1644311487000,
-            "updated_at": 1740203881665
+            "updated_at": 1740287652587
         }
     }
 }

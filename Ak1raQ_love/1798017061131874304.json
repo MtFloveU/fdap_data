@@ -3,15 +3,16 @@
     "screen_name": "cupric_oxide_",
     "name": "氧化铜",
     "description": "反正我always online\n阴暗小号：@Cuprous_oxide",
+    "location": "距您0.4km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1813853619403538432/6azYMx2y_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798017061131874304/1739609885",
-    "followers_count": 251,
-    "statuses_count": 1208,
-    "favourites_count": 13197,
+    "followers_count": 266,
+    "statuses_count": 1287,
+    "favourites_count": 13763,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2024-06-04 23:40:59 +08:00",
     "url": "https://twitter.com/cupric_oxide_",
@@ -33,11 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 726,
+            "friends_count": 779,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "距您0.4km",
-            "media_count": 138,
+            "media_count": 142,
             "pinned_tweet_ids_str": [
                 "1890104909850374661"
             ],
@@ -45,13 +45,15 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
-        "tipjar_settings": {},
+        "tipjar_settings": {
+            "is_enabled": true
+        },
         "twe_private_fields": {
             "created_at": 1717515659000,
-            "updated_at": 1740203793642
+            "updated_at": 1740287627541
         }
     }
 }

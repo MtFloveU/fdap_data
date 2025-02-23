@@ -3,11 +3,12 @@
     "screen_name": "mengguyi",
     "name": "孟古一🍥",
     "description": "GNU/Linux用户｜超业余级的Golang开发者｜19 y.o.｜个人TG: https://t.co/sId7D2qEtH｜GitHub: https://t.co/H0qW1rtPXv｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜实习圆角｜Nya! 若账号被限制请 @mengguyi2",
+    "location": "Macau",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1775795384096600065/vu5kAWL9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464881472964382732/1685970901",
     "followers_count": 1739,
-    "statuses_count": 3471,
-    "favourites_count": 34342,
+    "statuses_count": 3473,
+    "favourites_count": 34372,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
@@ -65,11 +66,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1042,
+            "friends_count": 1041,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Macau",
-            "media_count": 807,
+            "media_count": 808,
             "pinned_tweet_ids_str": [
                 "1885722893759512859"
             ],
@@ -99,7 +99,7 @@
         },
         "twe_private_fields": {
             "created_at": 1638089947000,
-            "updated_at": 1740203910367
+            "updated_at": 1740287681518
         }
     }
 }

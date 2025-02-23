@@ -3,9 +3,10 @@
     "screen_name": "Nm70727",
     "name": "ApliNi",
     "description": "我们会在没有黑暗的地方相见",
+    "location": "这里那里",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866684930794876928/SSKaq90q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599308759863414785/1733285493",
-    "followers_count": 77,
+    "followers_count": 78,
     "statuses_count": 68,
     "favourites_count": 411,
     "listed_count": 0,
@@ -46,10 +47,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 174,
+            "friends_count": 177,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "这里那里",
             "media_count": 11,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1670139926000,
-            "updated_at": 1740203872035
+            "updated_at": 1740287645118
         }
     }
 }

@@ -3,6 +3,7 @@
     "screen_name": "iKannaQwQ",
     "name": "iKannaカナ",
     "description": "Blogger | AFOer(競プロ) | 🎀推し瑞希 | 日本語勉強中 | 中国語/本音:@akiyaka_",
+    "location": "ある無名の高校",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1794624291386146817/4BJ4YAmX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754123091507056640/1729025027",
     "followers_count": 26,
@@ -49,7 +50,6 @@
             "friends_count": 156,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "ある無名の高校",
             "media_count": 11,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1707050516000,
-            "updated_at": 1740203820492
+            "updated_at": 1740287586939
         }
     }
 }

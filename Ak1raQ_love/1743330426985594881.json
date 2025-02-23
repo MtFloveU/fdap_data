@@ -3,6 +3,7 @@
     "screen_name": "jianggejiang",
     "name": "姜鴿江",
     "description": "别理我 发着玩的\n-叫我姜鴿江/阿团/Juno/J \n提問箱:https://t.co/VcDqc5C3ZD\n@jiangziqiqqq",
+    "location": "距您0.1km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883633715173306368/CnMPpbD5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743330426985594881/1736602464",
     "followers_count": 110,
@@ -43,10 +44,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 423,
+            "friends_count": 424,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "距您0.1km",
             "media_count": 133,
             "pinned_tweet_ids_str": [
                 "1891767431808401723"
@@ -61,7 +61,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1704477357000,
-            "updated_at": 1740203796240
+            "updated_at": 1740287547940
         }
     }
 }

@@ -3,11 +3,12 @@
     "screen_name": "amcje1",
     "name": "橄榄菜",
     "description": "https://t.co/Bcmy9MP61E\nhttps://t.co/xXi3oKo4E0",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872947652662575106/McUAMGzN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389190165566877699/1699424206",
     "followers_count": 60,
-    "statuses_count": 625,
-    "favourites_count": 16026,
+    "statuses_count": 633,
+    "favourites_count": 16051,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -68,7 +69,6 @@
             "friends_count": 156,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 10,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -87,7 +87,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1620043748000,
-            "updated_at": 1740203853193
+            "updated_at": 1740287627541
         }
     }
 }

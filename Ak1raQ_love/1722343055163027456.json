@@ -3,11 +3,12 @@
     "screen_name": "HakuAzusaSaki",
     "name": "咲く夜空、涙の神女",
     "description": "白梓 咲 | 犹记当时灯火朦胧，烟花盛世，终成旧梦",
+    "location": "见泷原",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1857065181399932929/ZUJ-aA6m_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722343055163027456/1718110757",
     "followers_count": 174,
-    "statuses_count": 1282,
-    "favourites_count": 2181,
+    "statuses_count": 1283,
+    "favourites_count": 2182,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,7 +37,6 @@
             "friends_count": 334,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "见泷原",
             "media_count": 131,
             "pinned_tweet_ids_str": [
                 "1863327292812140686"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1699473566000,
-            "updated_at": 1740203872035
+            "updated_at": 1740287645118
         }
     }
 }

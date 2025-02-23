@@ -1,20 +1,21 @@
 {
     "id": "1881864402347159552",
-    "screen_name": "Alice1483_",
+    "screen_name": "PrivateofAlice",
     "name": "Alice",
-    "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1885333996802105349/n1N0nkK4_normal.jpg",
+    "description": "Suddenly Life has new meaning",
+    "location": "ᛦ",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1893256932414066688/N0KgKRlq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881864402347159552/1737780685",
-    "followers_count": 77,
-    "statuses_count": 205,
-    "favourites_count": 365,
+    "followers_count": 82,
+    "statuses_count": 232,
+    "favourites_count": 411,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2025-01-22 08:40:19 +08:00",
-    "url": "https://twitter.com/Alice1483_",
+    "url": "https://twitter.com/PrivateofAlice",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODgxODY0NDAyMzQ3MTU5NTUy",
@@ -34,11 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 87,
+            "friends_count": 91,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "ᛦ",
-            "media_count": 5,
+            "media_count": 8,
             "pinned_tweet_ids_str": [
                 "1883497559735595162"
             ],
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1737506419000,
-            "updated_at": 1740203855155
+            "updated_at": 1740287629450
         }
     }
 }

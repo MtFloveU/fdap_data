@@ -3,11 +3,12 @@
     "screen_name": "stlmhrfv301",
     "name": "魔鬼鱼FV301",
     "description": "Mahiro!",
+    "location": "葡萄庄园",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1720763180459372544/GJ4-Ja6W_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690562298526810112/1697966422",
     "followers_count": 60,
-    "statuses_count": 2442,
-    "favourites_count": 11293,
+    "statuses_count": 2449,
+    "favourites_count": 11322,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,7 +37,6 @@
             "friends_count": 319,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "葡萄庄园",
             "media_count": 53,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1691896473000,
-            "updated_at": 1740203798660
+            "updated_at": 1740287551280
         }
     }
 }

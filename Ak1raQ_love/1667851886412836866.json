@@ -3,11 +3,12 @@
     "screen_name": "LittleSwift233",
     "name": "飞翔の小燕子",
     "description": "Love Kou | Love Firefly | Arcaea&Minecraft&Honkai:SR | Species: cat | Frontend & Backend Dev",
+    "location": "Arcaea",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1851629959678451712/ZcOTwdL-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667851886412836866/1726474262",
-    "followers_count": 540,
+    "followers_count": 538,
     "statuses_count": 2134,
-    "favourites_count": 2171,
+    "favourites_count": 2170,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +48,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 625,
+            "friends_count": 624,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Arcaea",
             "media_count": 109,
             "pinned_tweet_ids_str": [
                 "1866378684975997140"
@@ -66,7 +66,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1686481867000,
-            "updated_at": 1740203878072
+            "updated_at": 1740287649997
         }
     }
 }

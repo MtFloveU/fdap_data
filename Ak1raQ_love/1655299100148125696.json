@@ -3,6 +3,7 @@
     "screen_name": "Zxgaer16971",
     "name": "Zxgaer",
     "description": "Linux爱好者 / 不想当傻猫(⁠ ⁠╹⁠▽⁠╹⁠ ⁠) / 沉浸于自我的精神世界 / 欢迎和我交往 / 想成为一名优秀的内容创作者",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881000265043857409/6znmaLTP_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655299100148125696/1712329459",
     "followers_count": 16,
@@ -49,7 +50,6 @@
             "friends_count": 142,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 13,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -65,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1683489044000,
-            "updated_at": 1740203793642
+            "updated_at": 1740287544453
         }
     }
 }

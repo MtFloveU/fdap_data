@@ -3,6 +3,7 @@
     "screen_name": "Sherlock______",
     "name": "Sherlock",
     "description": "终于爬出来了...",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1252876211300167698/d40CmUHP_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 2,
@@ -36,7 +37,6 @@
             "friends_count": 89,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 2,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1380189148000,
-            "updated_at": 1740203798660
+            "updated_at": 1740287551280
         }
     }
 }

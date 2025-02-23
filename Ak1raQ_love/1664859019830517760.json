@@ -3,11 +3,12 @@
     "screen_name": "kagurazakachiyo",
     "name": "神楽坂千代🏳️‍⚧️",
     "description": "别讨厌我🥺",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1816712967162925056/QM2X2ZK8_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664859019830517760/1688803421",
-    "followers_count": 1380,
-    "statuses_count": 2585,
-    "favourites_count": 15208,
+    "followers_count": 1382,
+    "statuses_count": 2593,
+    "favourites_count": 15341,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,11 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1930,
+            "friends_count": 1929,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
-            "media_count": 136,
+            "media_count": 137,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -50,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1685768325000,
-            "updated_at": 1740203897177
+            "updated_at": 1740287667415
         }
     }
 }

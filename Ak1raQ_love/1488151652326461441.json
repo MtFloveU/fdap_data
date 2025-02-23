@@ -3,6 +3,7 @@
     "screen_name": "FrankChenxi",
     "name": "CXあさ",
     "description": "ACG愛好者 初三廣州人 简体 繁體（粵語）🇨🇳🇹🇼 🇭🇰🇲🇴 English🇬🇧日語🇯🇵 ISTP 摩羯座♑️支持社會民主主義 國父民國蓝派 國父千古 改開社會民主派",
+    "location": "Guangzhou",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884882378734325760/wopFBjx3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488151652326461441/1738225988",
     "followers_count": 224,
@@ -36,7 +37,6 @@
             "friends_count": 283,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Guangzhou",
             "media_count": 39,
             "pinned_tweet_ids_str": [
                 "1532714240171048961"
@@ -56,7 +56,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1643637984000,
-            "updated_at": 1740203899733
+            "updated_at": 1740287669627
         }
     }
 }

@@ -3,6 +3,7 @@
     "screen_name": "Niko41402",
     "name": "蛋黄派",
     "description": "专注和简单。简单，可以比实现复杂的东西更难。你必须花很多力气去让你的思维变得简单、有条理",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1842547438202023936/2GCCbwzR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746354768124010497/1707137497",
     "followers_count": 20,
@@ -36,7 +37,6 @@
             "friends_count": 651,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 9,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1705198412000,
-            "updated_at": 1740203818635
+            "updated_at": 1740287584027
         }
     }
 }

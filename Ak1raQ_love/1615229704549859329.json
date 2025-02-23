@@ -3,11 +3,12 @@
     "screen_name": "Rain_Haruka",
     "name": "はるか281系HA605編成",
     "description": "",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891909109013766144/hYZLBPr6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1615229704549859329/1739915143",
     "followers_count": 2082,
-    "statuses_count": 13680,
-    "favourites_count": 41345,
+    "statuses_count": 11360,
+    "favourites_count": 41121,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,13 +35,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3406,
+            "friends_count": 3404,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Another Sky(UTC+1)",
-            "media_count": 965,
+            "media_count": 774,
             "pinned_tweet_ids_str": [
-                "1892273661588955238"
+                "1850532670335574169"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -65,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1673935780000,
-            "updated_at": 1740203885183
+            "updated_at": 1740287655294
         }
     }
 }

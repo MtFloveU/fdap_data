@@ -3,10 +3,11 @@
     "screen_name": "mtfzsgy",
     "name": "小雨",
     "description": "03mtf，重度抑郁重度心理异常，请勿刺激！谢谢！同类贴贴！",
+    "location": "pai",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885502250552045568/DXtv2Cbw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837092704045649920/1733536504",
-    "followers_count": 684,
-    "statuses_count": 24,
+    "followers_count": 682,
+    "statuses_count": 26,
     "favourites_count": 6052,
     "listed_count": 2,
     "verified_type": null,
@@ -36,8 +37,7 @@
             "friends_count": 265,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "pai",
-            "media_count": 12,
+            "media_count": 13,
             "pinned_tweet_ids_str": [
                 "1889842336655654967"
             ],
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1726832023000,
-            "updated_at": 1740203872035
+            "updated_at": 1740287645118
         }
     }
 }

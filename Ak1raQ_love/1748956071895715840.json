@@ -3,6 +3,7 @@
     "screen_name": "DongfangJianhao",
     "name": "𝔛𝔛𝔛_𝔫𝔢𝔦𝔩𝔰𝔦𝔫𝔤𝔥",
     "description": "我不想讓別人感覺我很煩，所以我衹能等待他們先給我發消息，我真的很想有人能跟我聊天。請跟我聊聊天吧……",
+    "location": "Taipei City, Taiwan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884523012562817024/V3ghQhru_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748956071895715840/1738140709",
     "followers_count": 37,
@@ -36,7 +37,6 @@
             "friends_count": 521,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Taipei City, Taiwan",
             "media_count": 8,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -62,7 +62,7 @@
         },
         "twe_private_fields": {
             "created_at": 1705818606000,
-            "updated_at": 1740203828661
+            "updated_at": 1740287598693
         }
     }
 }

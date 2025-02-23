@@ -3,6 +3,7 @@
     "screen_name": "d0Ooo0Oooog",
     "name": "爆爆",
     "description": "是一个小号((((*｡_｡)是和狗狗的涩涩记录本，不约不磕不线下，狗狗是名字不是什么男m",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1787518324122988544/kI9JWrKW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1727668137850793984/1715012747",
     "followers_count": 1,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 28,
+            "friends_count": 27,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 3,
             "pinned_tweet_ids_str": [
                 "1740429945573429533"
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1700743164000,
-            "updated_at": 1740203832379
+            "updated_at": 1740287603857
         }
     }
 }

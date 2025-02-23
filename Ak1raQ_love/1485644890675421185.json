@@ -3,11 +3,12 @@
     "screen_name": "kkkkttttxbb",
     "name": "网上邻居",
     "description": "转推 评论 点赞bot 一个成分复杂的男的 请与我互fo 自用梯子https://t.co/CcSFt65zZ8…",
+    "location": "1m",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1753550002138615808/Dq6tJtKL_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 1293,
     "statuses_count": 3240,
-    "favourites_count": 8191,
+    "favourites_count": 8190,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -56,10 +57,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2016,
+            "friends_count": 2017,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "1m",
             "media_count": 54,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -75,7 +75,7 @@
         },
         "twe_private_fields": {
             "created_at": 1643040380000,
-            "updated_at": 1740203868947
+            "updated_at": 1740287642495
         }
     }
 }

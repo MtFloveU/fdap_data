@@ -3,6 +3,7 @@
     "screen_name": "IA8QunUw7GtXQ67",
     "name": "铅灰",
     "description": "晚好～这里是铅灰，来自中国江苏的小动物w 喜欢图形学/计算机/编程/电子设备/看小说，广而不精的兴趣爱好，欢迎扩列",
+    "location": "江苏",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1743138594624299008/jtj0Pf-i_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 38,
@@ -36,7 +37,6 @@
             "friends_count": 381,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "江苏",
             "media_count": 15,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1609517632000,
-            "updated_at": 1740203804170
+            "updated_at": 1740287561355
         }
     }
 }

@@ -3,9 +3,10 @@
     "screen_name": "enracca_",
     "name": "ENRACCA二號機（低浮上）",
     "description": "係逃生艙\n平時鎖推\n求ZYN套皮號@Yoru_TsCiNoE1早④",
+    "location": "Mars",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890653963957174272/e750H_87_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 143,
+    "followers_count": 142,
     "statuses_count": 21,
     "favourites_count": 769,
     "listed_count": 0,
@@ -34,10 +35,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 380,
+            "friends_count": 379,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Mars",
             "media_count": 0,
             "pinned_tweet_ids_str": [
                 "1685551049023934464"
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1690249027000,
-            "updated_at": 1740203897177
+            "updated_at": 1740287667415
         }
     }
 }

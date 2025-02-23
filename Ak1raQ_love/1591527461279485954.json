@@ -3,11 +3,12 @@
     "screen_name": "NoirZnt",
     "name": "玄夜。",
     "description": "Exists",
+    "location": "Nowhere ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1746253331041828865/-fJFVwbu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591527461279485954/1705151338",
-    "followers_count": 1105,
+    "followers_count": 1132,
     "statuses_count": 3995,
-    "favourites_count": 15658,
+    "favourites_count": 15715,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +35,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4201,
+            "friends_count": 4243,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "Nowhere ",
             "media_count": 138,
             "pinned_tweet_ids_str": [
                 "1746534027928977465"
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1668284706000,
-            "updated_at": 1740203907093
+            "updated_at": 1740287675719
         }
     }
 }

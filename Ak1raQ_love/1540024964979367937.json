@@ -3,11 +3,12 @@
     "screen_name": "Sunset17089641",
     "name": "Sunset (Deprecating) 🦋 @sunmkt.bsky.social",
     "description": "（我暂时不能关注更多用户。）Lead Programmer of S.E.T. Group. PG-13 (doing my best). Moved to https://t.co/UkziVSwyMv",
+    "location": "Japan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1797075151772884992/dlxmOZgI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1540024964979367937/1735203226",
-    "followers_count": 1465,
+    "followers_count": 1462,
     "statuses_count": 2954,
-    "favourites_count": 153165,
+    "favourites_count": 153164,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -59,7 +60,6 @@
             "friends_count": 7459,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "Japan",
             "media_count": 76,
             "pinned_tweet_ids_str": [
                 "1872204252875203062"
@@ -88,7 +88,7 @@
         },
         "twe_private_fields": {
             "created_at": 1656005547000,
-            "updated_at": 1740203820492
+            "updated_at": 1740287586939
         }
     }
 }

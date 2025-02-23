@@ -3,12 +3,13 @@
     "screen_name": "Konekoutena",
     "name": "枫糖小猫",
     "description": "关注枫糖喵，关注枫糖谢谢喵........一只博学的男娘，为您分享更多的文史社科知识。为防止失联，请关注同名YouTube频道。下附链接：",
+    "location": "Aoba-ku, Miyagi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1869197200443805696/LKOOi2LF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844025283676094464/1733725951",
-    "followers_count": 7002,
-    "statuses_count": 9469,
-    "favourites_count": 4082,
-    "listed_count": 25,
+    "followers_count": 6974,
+    "statuses_count": 9483,
+    "favourites_count": 4090,
+    "listed_count": 26,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -46,11 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1338,
+            "friends_count": 1344,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Aoba-ku, Miyagi",
-            "media_count": 3321,
+            "media_count": 3322,
             "pinned_tweet_ids_str": [
                 "1883663853734760915"
             ],
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1728484872000,
-            "updated_at": 1740203864034
+            "updated_at": 1740287638597
         }
     }
 }

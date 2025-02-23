@@ -3,6 +3,7 @@
     "screen_name": "zhohumn449056",
     "name": "周粥",
     "description": "Behavior is the answer, so I won't ask why again. Sensitive and lazy, probably feeling too tired, I hope the game will start again.",
+    "location": "St. Catharines, Ontario",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1854427482742829056/OieCu6VT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734143720755466240/1721098913",
     "followers_count": 75,
@@ -36,7 +37,6 @@
             "friends_count": 126,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "St. Catharines, Ontario",
             "media_count": 9,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1702287073000,
-            "updated_at": 1740203818635
+            "updated_at": 1740287584027
         }
     }
 }

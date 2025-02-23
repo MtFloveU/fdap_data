@@ -3,6 +3,7 @@
     "screen_name": "yiikawa_",
     "name": "流水线伊吉",
     "description": "Chiikawa/青柠乐事/🍥\n喜欢的东西都写在上面啦～",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1746892087768080384/nhBkef4D_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646579209236787200/1705326503",
     "followers_count": 210,
@@ -36,7 +37,6 @@
             "friends_count": 740,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 6,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1681410059000,
-            "updated_at": 1740203841938
+            "updated_at": 1740287618336
         }
     }
 }

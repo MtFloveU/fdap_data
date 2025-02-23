@@ -3,11 +3,12 @@
     "screen_name": "Xiaohan_QwQ",
     "name": "小涵QwQ🍥",
     "description": "这里是一只小涵~希望你能天天开心哦~ | 小号：@yuhan2680",
+    "location": "乌托邦 Utopia ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1843883663496458240/GypnDc1a_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1451898340262645760/1682080336",
-    "followers_count": 5504,
-    "statuses_count": 20114,
-    "favourites_count": 84586,
+    "followers_count": 5515,
+    "statuses_count": 20133,
+    "favourites_count": 84707,
     "listed_count": 20,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,10 +47,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 290,
+            "friends_count": 291,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "乌托邦 Utopia ",
             "media_count": 1880,
             "pinned_tweet_ids_str": [
                 "1763787971818594679"
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1634994523000,
-            "updated_at": 1740203910367
+            "updated_at": 1740287681518
         }
     }
 }

@@ -3,6 +3,7 @@
     "screen_name": "hli_0xx",
     "name": "小栖",
     "description": "En/中/粵 \n求互fol",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1776914244325482496/Mp0UJrjf_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 41,
@@ -36,7 +37,6 @@
             "friends_count": 75,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 26,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1618919196000,
-            "updated_at": 1740203836079
+            "updated_at": 1740287609044
         }
     }
 }

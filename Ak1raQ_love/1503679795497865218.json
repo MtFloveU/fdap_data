@@ -3,6 +3,7 @@
     "screen_name": "rmolives",
     "name": "是晓诺诺吖",
     "description": "分裂情感患者|精神二级残疾|会点计算机|在学神经科学&精神病学（",
+    "location": "广西",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876565669334159360/GkbJV9cH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1503679795497865218/1688112410",
     "followers_count": 465,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 827,
+            "friends_count": 826,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "广西",
             "media_count": 29,
             "pinned_tweet_ids_str": [
                 "1848018512675320257"
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1647340179000,
-            "updated_at": 1740203832379
+            "updated_at": 1740287603857
         }
     }
 }

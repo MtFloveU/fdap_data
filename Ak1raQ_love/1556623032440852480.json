@@ -3,11 +3,12 @@
     "screen_name": "w1ndycat",
     "name": "w1ndycat",
     "description": "人类进化的失败品",
+    "location": "Stars",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1820690351503609856/YU-98RFl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556623032440852480/1731162953",
-    "followers_count": 243,
-    "statuses_count": 1823,
-    "favourites_count": 29096,
+    "followers_count": 244,
+    "statuses_count": 1829,
+    "favourites_count": 29126,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,11 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1225,
+            "friends_count": 1228,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Stars",
-            "media_count": 165,
+            "media_count": 166,
             "pinned_tweet_ids_str": [
                 "1813176190573633757"
             ],
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1659962841000,
-            "updated_at": 1740203830555
+            "updated_at": 1740287601444
         }
     }
 }

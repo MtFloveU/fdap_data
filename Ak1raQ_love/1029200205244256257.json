@@ -3,11 +3,12 @@
     "screen_name": "hightechbrain0",
     "name": "高科技大脑指挥部",
     "description": "😶",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1871027453172518912/QiAEpn5E_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029200205244256257/1690722053",
-    "followers_count": 2035,
-    "statuses_count": 13941,
-    "favourites_count": 61227,
+    "followers_count": 2034,
+    "statuses_count": 13942,
+    "favourites_count": 61265,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,10 +47,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1981,
+            "friends_count": 1980,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "",
             "media_count": 1450,
             "pinned_tweet_ids_str": [
                 "1697954865312620938"
@@ -79,7 +79,7 @@
         },
         "twe_private_fields": {
             "created_at": 1534215425000,
-            "updated_at": 1740203878072
+            "updated_at": 1740287649997
         }
     }
 }

@@ -3,11 +3,12 @@
     "screen_name": "Inhara_Hyoto",
     "name": "温原ひょと 🍥🫖💥",
     "description": "青空だけが見たいのは我儘ですか",
+    "location": "Aozora",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890046964836061184/8RoJz3P7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680834021377593344/1735933697",
-    "followers_count": 2082,
-    "statuses_count": 22081,
-    "favourites_count": 68845,
+    "followers_count": 2084,
+    "statuses_count": 22128,
+    "favourites_count": 69298,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
@@ -23,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -36,8 +38,7 @@
             "friends_count": 945,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Aozora",
-            "media_count": 3650,
+            "media_count": 3659,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +61,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1689577046000,
-            "updated_at": 1740203872035
+            "updated_at": 1740287645118
         }
     }
 }

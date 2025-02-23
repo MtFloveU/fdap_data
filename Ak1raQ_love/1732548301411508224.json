@@ -3,6 +3,7 @@
     "screen_name": "Koa1695975",
     "name": "飞天章鱼猫猫小恶魔🍥｜🐙Koakoa",
     "description": "猫猫恶魔伸出了黏糊的触手｜03年大龄｜日雌使用中🏳️‍⚧️｜无天赋｜在英留学🇬🇧｜也许已经成为了正常人喊打的人 ｜pjsk/bangbang/maimai等，但都很菜｜欢迎聊天",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1735322510537732096/Z4bvqVPa_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732548301411508224/1702568141",
     "followers_count": 109,
@@ -19,7 +20,7 @@
         "__typename": "User",
         "id": "VXNlcjoxNzMyNTQ4MzAxNDExNTA4MjI0",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
+        "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -36,7 +37,6 @@
             "friends_count": 123,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 70,
             "pinned_tweet_ids_str": [
                 "1784085586904490281"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1701906685000,
-            "updated_at": 1740203841938
+            "updated_at": 1740287618334
         }
     }
 }

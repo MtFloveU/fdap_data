@@ -3,11 +3,12 @@
     "screen_name": "tofuherb",
     "name": "如酥草色",
     "description": "友缘｜赝品｜乱嗑药｜在象牙塔门外失魂｜未来在不可抵达的过去\n｜屑姐姐: @bubutothestars",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1746245027742035968/ru0N8PMH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1467480183381065730/1722063677",
     "followers_count": 138,
-    "statuses_count": 1328,
-    "favourites_count": 10192,
+    "statuses_count": 1327,
+    "favourites_count": 10203,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,7 +37,6 @@
             "friends_count": 381,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 60,
             "pinned_tweet_ids_str": [
                 "1832152545323840001"
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1638709539000,
-            "updated_at": 1740203826849
+            "updated_at": 1740287595960
         }
     }
 }

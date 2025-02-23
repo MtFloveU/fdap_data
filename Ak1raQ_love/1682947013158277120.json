@@ -3,11 +3,12 @@
     "screen_name": "Summitsky159844",
     "name": "Summitsky",
     "description": "Longing for the memorial days……",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1682947705319084033/ETa_f7po_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 65,
+    "followers_count": 67,
     "statuses_count": 366,
-    "favourites_count": 1412,
+    "favourites_count": 1414,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 844,
+            "friends_count": 845,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 24,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1690080825000,
-            "updated_at": 1740203834163
+            "updated_at": 1740287606122
         }
     }
 }

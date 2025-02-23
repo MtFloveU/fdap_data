@@ -3,9 +3,10 @@
     "screen_name": "amechan_mtf",
     "name": "糖糖",
     "description": "纪念逝去的 @execute_darker 和 @qcm45 mail：mizuki@dailymizuki.com 糖糖碎碎念：https://t.co/XccBzIfuzo",
+    "location": "松花江🏞️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1880814299150712832/faZnT_E2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1270146896997179392/1738230823",
-    "followers_count": 830,
+    "followers_count": 829,
     "statuses_count": 3856,
     "favourites_count": 5738,
     "listed_count": 1,
@@ -59,7 +60,6 @@
             "friends_count": 424,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "松花江🏞️",
             "media_count": 523,
             "pinned_tweet_ids_str": [
                 "1796076299720524062"
@@ -80,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1591661603000,
-            "updated_at": 1740203903263
+            "updated_at": 1740287672135
         }
     }
 }

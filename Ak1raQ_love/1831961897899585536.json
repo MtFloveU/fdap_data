@@ -3,11 +3,12 @@
     "screen_name": "lemon_bocchi_",
     "name": "黑夜里的波奇",
     "description": "boccccccccccccchi",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1891513404785098752/jLcOQEtk_normal.jpg",
+    "location": "15900",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1893226440428011521/MRnq6_Yg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831961897899585536/1738423378",
-    "followers_count": 635,
-    "statuses_count": 10509,
-    "favourites_count": 57206,
+    "followers_count": 642,
+    "statuses_count": 10553,
+    "favourites_count": 57435,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -63,11 +64,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 866,
+            "friends_count": 864,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "15900",
-            "media_count": 1378,
+            "media_count": 1388,
             "pinned_tweet_ids_str": [
                 "1892808785124589938"
             ],
@@ -88,7 +88,7 @@
         },
         "twe_private_fields": {
             "created_at": 1725608744000,
-            "updated_at": 1740203875542
+            "updated_at": 1740287647531
         }
     }
 }

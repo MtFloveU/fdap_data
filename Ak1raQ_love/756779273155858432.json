@@ -3,11 +3,12 @@
     "screen_name": "ScarletKc_",
     "name": "詩音",
     "description": "she/her | friendly 😊\nI'm happy to chat in any language - I'll use a translator!",
+    "location": "🏳️‍⚧️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890860169372049408/8smnIt38_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/756779273155858432/1546229475",
-    "followers_count": 1823,
-    "statuses_count": 3780,
-    "favourites_count": 34757,
+    "followers_count": 1818,
+    "statuses_count": 3811,
+    "favourites_count": 35050,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": true,
@@ -46,11 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 698,
+            "friends_count": 700,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "🏳️‍⚧️",
-            "media_count": 94,
+            "media_count": 93,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1469265213000,
-            "updated_at": 1740203910367
+            "updated_at": 1740287681518
         }
     }
 }

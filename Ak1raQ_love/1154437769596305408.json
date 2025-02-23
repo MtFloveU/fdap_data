@@ -3,10 +3,11 @@
     "screen_name": "DorkedPard",
     "name": "-He11sPike-",
     "description": "I think we can do it if we tried",
+    "location": "Central Region, Singapore",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1857163054565441536/UBtBBp9E_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1154437769596305408/1730556505",
-    "followers_count": 116,
-    "statuses_count": 1215,
+    "followers_count": 115,
+    "statuses_count": 1214,
     "favourites_count": 10341,
     "listed_count": 2,
     "verified_type": null,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6236,
+            "friends_count": 6242,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "Central Region, Singapore",
             "media_count": 5,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1564074387000,
-            "updated_at": 1740203812950
+            "updated_at": 1740287573427
         }
     }
 }

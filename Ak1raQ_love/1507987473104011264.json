@@ -3,11 +3,12 @@
     "screen_name": "talkkkum",
     "name": "😳",
     "description": "薯条噢耶",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1825177663650291712/mdZrRl1q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1507987473104011264/1723690880",
-    "followers_count": 477,
-    "statuses_count": 7178,
-    "favourites_count": 19685,
+    "followers_count": 476,
+    "statuses_count": 7177,
+    "favourites_count": 19691,
     "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
@@ -49,7 +50,6 @@
             "friends_count": 1425,
             "has_custom_timelines": true,
             "is_translator": false,
-            "location": "",
             "media_count": 1044,
             "pinned_tweet_ids_str": [
                 "1685244194204581888"
@@ -68,7 +68,7 @@
         },
         "twe_private_fields": {
             "created_at": 1648367218000,
-            "updated_at": 1740203826849
+            "updated_at": 1740287595960
         }
     }
 }

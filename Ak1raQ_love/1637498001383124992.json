@@ -3,11 +3,12 @@
     "screen_name": "free_lin1921",
     "name": "林1927",
     "description": "🫡",
+    "location": "中南海",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1845126228702801926/-qRsR79__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637498001383124992/1724911235",
-    "followers_count": 1137,
+    "followers_count": 1135,
     "statuses_count": 3972,
-    "favourites_count": 12094,
+    "favourites_count": 12095,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -49,7 +50,6 @@
             "friends_count": 500,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "中南海",
             "media_count": 538,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -76,7 +76,7 @@
         },
         "twe_private_fields": {
             "created_at": 1679244932000,
-            "updated_at": 1740203907093
+            "updated_at": 1740287675719
         }
     }
 }

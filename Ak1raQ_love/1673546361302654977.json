@@ -3,9 +3,10 @@
     "screen_name": "lanyu20040409",
     "name": "岚羽🏳️‍⚧️",
     "description": "04在读 欢迎互关 b站 R39Execute",
+    "location": "苏州",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1735618406915756032/XVohXamW_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 53,
+    "followers_count": 52,
     "statuses_count": 30,
     "favourites_count": 34,
     "listed_count": 0,
@@ -36,7 +37,6 @@
             "friends_count": 182,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "苏州",
             "media_count": 3,
             "pinned_tweet_ids_str": [
                 "1736243869459595673"
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1687839530000,
-            "updated_at": 1740203908825
+            "updated_at": 1740287678958
         }
     }
 }

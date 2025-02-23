@@ -3,6 +3,7 @@
     "screen_name": "danykwo",
     "name": "七公里SOL",
     "description": "To A9",
+    "location": "Sydney, New South Wales",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1816182031510036480/4rP-OKIr_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 90,
@@ -33,10 +34,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2970,
+            "friends_count": 2968,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "Sydney, New South Wales",
             "media_count": 8,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
@@ -60,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1667138839000,
-            "updated_at": 1740203800458
+            "updated_at": 1740287554570
         }
     }
 }

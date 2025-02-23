@@ -3,11 +3,12 @@
     "screen_name": "zzz_wizard",
     "name": "zzz wizard",
     "description": "想要成为人类/实现朋友0的突破/收获红老王的gbf好友（我只有红宙斯和蓝章鱼蓝哈迪斯）",
+    "location": "上海第一届物语系列only展厅",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1846050570450489347/FAB5n6uw_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 20,
-    "statuses_count": 61,
-    "favourites_count": 92,
+    "followers_count": 21,
+    "statuses_count": 64,
+    "favourites_count": 98,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -33,11 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 341,
+            "friends_count": 356,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "上海第一届物语系列only展厅",
-            "media_count": 7,
+            "media_count": 8,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1661265419000,
-            "updated_at": 1740203793642
+            "updated_at": 1740287544453
         }
     }
 }
