@@ -6,9 +6,9 @@
     "location": "西瓜星球 西瓜种植基地",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874957859307270144/7atK3j1s_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701426110083563520/1735744391",
-    "followers_count": 697,
-    "statuses_count": 16503,
-    "favourites_count": 59126,
+    "followers_count": 722,
+    "statuses_count": 16945,
+    "favourites_count": 60459,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1025,
+            "friends_count": 1035,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 411,
-            "pinned_tweet_ids_str": [],
+            "media_count": 426,
+            "pinned_tweet_ids_str": [
+                "1895448073725435944"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1694486582000,
-            "updated_at": 1740287649997
+            "updated_at": 1740790882780
         }
     }
 }

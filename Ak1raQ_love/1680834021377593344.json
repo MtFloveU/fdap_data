@@ -1,21 +1,21 @@
 {
     "id": "1680834021377593344",
-    "screen_name": "Inhara_Hyoto",
-    "name": "温原ひょと 🍥🫖💥",
+    "screen_name": "Single_Hyoto",
+    "name": "温原ひょと 🍥",
     "description": "青空だけが見たいのは我儘ですか",
     "location": "Aozora",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1890046964836061184/8RoJz3P7_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1894786287845990400/GygpOgUY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680834021377593344/1735933697",
-    "followers_count": 2084,
-    "statuses_count": 22128,
-    "favourites_count": 69298,
+    "followers_count": 2108,
+    "statuses_count": 22703,
+    "favourites_count": 0,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-07-17 14:57:26 +08:00",
-    "url": "https://twitter.com/Inhara_Hyoto",
+    "url": "https://twitter.com/Single_Hyoto",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjgwODM0MDIxMzc3NTkzMzQ0",
@@ -24,7 +24,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -35,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 945,
+            "friends_count": 953,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3659,
-            "pinned_tweet_ids_str": [],
+            "media_count": 3757,
+            "pinned_tweet_ids_str": [
+                "1894698937765990860"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -61,7 +62,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1689577046000,
-            "updated_at": 1740287645118
+            "updated_at": 1740790874438
         }
     }
 }

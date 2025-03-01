@@ -6,9 +6,9 @@
     "location": "鸠拉-特恩佩斯特联邦国陆军司令部",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891632521902948354/gqTWHJ2W_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818315659673210880/1730445806",
-    "followers_count": 761,
-    "statuses_count": 2973,
-    "favourites_count": 13075,
+    "followers_count": 832,
+    "statuses_count": 3295,
+    "favourites_count": 14602,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": true,
@@ -55,7 +55,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -77,10 +77,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 812,
+            "friends_count": 903,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 181,
+            "media_count": 205,
             "pinned_tweet_ids_str": [
                 "1884528224514044010"
             ],
@@ -108,7 +108,7 @@
         },
         "twe_private_fields": {
             "created_at": 1722355237000,
-            "updated_at": 1740287649997
+            "updated_at": 1740790882780
         }
     }
 }

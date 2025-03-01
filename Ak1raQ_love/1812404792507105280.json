@@ -6,13 +6,13 @@
     "location": "上海市徐汇区宛平南路600号",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883084172232929281/mHXs1Sq7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812404792507105280/1739828395",
-    "followers_count": 245,
-    "statuses_count": 2946,
-    "favourites_count": 16625,
+    "followers_count": 248,
+    "statuses_count": 3000,
+    "favourites_count": 16852,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2024-07-14 16:32:47 +08:00",
     "url": "https://twitter.com/SMHC_Chen",
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 826,
+            "friends_count": 829,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 759,
+            "media_count": 769,
             "pinned_tweet_ids_str": [
                 "1890121502332448791"
             ],
@@ -59,7 +59,7 @@
             "translator_type": "none",
             "url": "https://t.co/Z4rnEEJACP",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "professional": {
@@ -80,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1720945967000,
-            "updated_at": 1740287577391
+            "updated_at": 1740790851937
         }
     }
 }

@@ -2,14 +2,14 @@
     "id": "1867612241480364033",
     "screen_name": "tuitewanii",
     "name": "熙（光明、明亮）",
-    "description": "被爱欲驱使的微小个体彼此依赖，马不停蹄地分享相同的情感、去同一个地方、体会一样的冷暖🌈 | 🚪 a morsel of Compassion and Empathy | 萌萌人不懂政治100%友一切",
-    "location": "来财来我们这的憋佬仔脖上喜欢挂玉牌香炉供台上摆长大才开白黄牌",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1893337994859630592/uiFH0YR7_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867612241480364033/1739804865",
-    "followers_count": 202,
-    "statuses_count": 744,
-    "favourites_count": 14144,
-    "listed_count": 0,
+    "description": "🌈15+刚休学休息中（中国高分数线大省三线城市户口/后天宅+社恐/支持非二元不反感跨） | ᗜᴗᗜ @KoNya14056 @loisaker",
+    "location": "自留地",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1895146185595461636/RqagXDvX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867612241480364033/1740455359",
+    "followers_count": 211,
+    "statuses_count": 829,
+    "favourites_count": 15469,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 149,
+            "friends_count": 152,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 33,
-            "pinned_tweet_ids_str": [],
+            "media_count": 39,
+            "pinned_tweet_ids_str": [
+                "1890604651155693640"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -46,10 +48,21 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "professional": {
+            "rest_id": "1894209866774057078",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 399,
+                    "name": "Home & Garden",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1734108441000,
-            "updated_at": 1740287629450
+            "updated_at": 1740790854832
         }
     }
 }

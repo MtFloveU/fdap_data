@@ -1,13 +1,13 @@
 {
     "id": "1800855183699927040",
     "screen_name": "shnhytng232878",
-    "name": "山河一统",
-    "description": "B站号https://t.co/y71M06B3rT",
+    "name": "十天幸福死亡计数",
+    "description": "上海人，反支黑、殖人、乌贼斗士。B站号https://t.co/y71M06B3rT，欢迎关注。",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892314296014819331/AcgbLKAM_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 20,
-    "statuses_count": 67,
+    "followers_count": 15,
+    "statuses_count": 66,
     "favourites_count": 51,
     "listed_count": 0,
     "verified_type": null,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -36,8 +37,8 @@
                             "expanded_url": "http://b23.tv/0L0WRSn",
                             "url": "https://t.co/y71M06B3rT",
                             "indices": [
-                                3,
-                                26
+                                19,
+                                42
                             ]
                         }
                     ]
@@ -47,7 +48,7 @@
             "friends_count": 22,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
+            "media_count": 15,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -59,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1718192319000,
-            "updated_at": 1740287590225
+            "updated_at": 1740790811229
         }
     }
 }

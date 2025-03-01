@@ -6,9 +6,9 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872947652662575106/McUAMGzN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389190165566877699/1699424206",
-    "followers_count": 60,
-    "statuses_count": 633,
-    "favourites_count": 16051,
+    "followers_count": 63,
+    "statuses_count": 645,
+    "favourites_count": 16104,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -66,10 +66,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 156,
+            "friends_count": 158,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 10,
+            "media_count": 11,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -87,7 +87,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1620043748000,
-            "updated_at": 1740287627541
+            "updated_at": 1740790851937
         }
     }
 }

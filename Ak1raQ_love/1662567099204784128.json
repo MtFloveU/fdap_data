@@ -6,9 +6,9 @@
     "location": "Sky",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1765613215147601920/o0n2nfMe_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662567099204784128/1685221957",
-    "followers_count": 1274,
-    "statuses_count": 824,
-    "favourites_count": 2710,
+    "followers_count": 1275,
+    "statuses_count": 825,
+    "favourites_count": 2716,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1016,
+            "friends_count": 1018,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 181,
@@ -72,7 +72,7 @@
         },
         "twe_private_fields": {
             "created_at": 1685221877000,
-            "updated_at": 1740287672135
+            "updated_at": 1740790911691
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "阜姆集团",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1893273240640069634/GdW0BAbp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819944260239851520/1740209267",
-    "followers_count": 1516,
-    "statuses_count": 10790,
-    "favourites_count": 23194,
+    "followers_count": 1498,
+    "statuses_count": 10825,
+    "favourites_count": 23257,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2026,
+            "friends_count": 2010,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 968,
+            "media_count": 970,
             "pinned_tweet_ids_str": [
                 "1893208949001789801"
             ],
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1722743506000,
-            "updated_at": 1740287647532
+            "updated_at": 1740790877191
         }
     }
 }

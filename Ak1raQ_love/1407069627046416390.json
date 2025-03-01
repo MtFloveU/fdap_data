@@ -6,10 +6,10 @@
     "location": "某个小房间",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1880103349682352128/mYkK63j1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1407069627046416390/1664926107",
-    "followers_count": 304,
-    "statuses_count": 5131,
-    "favourites_count": 15046,
-    "listed_count": 1,
+    "followers_count": 311,
+    "statuses_count": 5183,
+    "favourites_count": 15341,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 635,
+            "friends_count": 642,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 468,
+            "media_count": 472,
             "pinned_tweet_ids_str": [
                 "1893027458871378416"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1624306541000,
-            "updated_at": 1740287561355
+            "updated_at": 1740790781517
         }
     }
 }

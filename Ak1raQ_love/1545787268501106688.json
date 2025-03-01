@@ -6,10 +6,10 @@
     "location": "地狱",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886333649223868416/eRpWKwqP_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545787268501106688/1716975843",
-    "followers_count": 1394,
-    "statuses_count": 2471,
-    "favourites_count": 60342,
-    "listed_count": 4,
+    "followers_count": 1472,
+    "statuses_count": 2533,
+    "favourites_count": 61684,
+    "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 823,
+            "friends_count": 825,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 537,
+            "media_count": 551,
             "pinned_tweet_ids_str": [
                 "1880632094151569895"
             ],
@@ -68,7 +68,7 @@
         },
         "twe_private_fields": {
             "created_at": 1657379393000,
-            "updated_at": 1740287627542
+            "updated_at": 1740790854832
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "天国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1816944835888316417/vRLSYcxF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816944578496536576/1722167680",
-    "followers_count": 1283,
+    "followers_count": 1275,
     "statuses_count": 2024,
-    "favourites_count": 24704,
+    "favourites_count": 24680,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1722,
+            "friends_count": 1714,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 45,
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1722028329000,
-            "updated_at": 1740287664965
+            "updated_at": 1740790900157
         }
     }
 }

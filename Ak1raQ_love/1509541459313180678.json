@@ -6,9 +6,9 @@
     "location": "距离1.3km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876907153585545216/dYnI741Z_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1509541459313180678/1718668548",
-    "followers_count": 858,
-    "statuses_count": 8809,
-    "favourites_count": 33991,
+    "followers_count": 861,
+    "statuses_count": 8823,
+    "favourites_count": 34061,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2538,
+            "friends_count": 2559,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1133,
+            "media_count": 1134,
             "pinned_tweet_ids_str": [
                 "1690778752090079232"
             ],
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1648737712000,
-            "updated_at": 1740287655294
+            "updated_at": 1740790892654
         }
     }
 }

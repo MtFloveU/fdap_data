@@ -2,14 +2,14 @@
     "id": "1125017516055482368",
     "screen_name": "String_fish",
     "name": "弦魚",
-    "description": "Salted fish\n一条咸鱼。\n丨HAM CS EE 古典音乐丨建政、看黄、逆天发言号请自动远离",
+    "description": "Salted fish\n一条咸鱼。\n丨HAM CS EE 古典音乐丨建政、看黄、逆天发言号请自动远离。\nIn Memory of @TianqiChen666",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1726651138899144704/1YP2C4fU_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 236,
-    "statuses_count": 941,
-    "favourites_count": 45692,
-    "listed_count": 1,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125017516055482368/1740669968",
+    "followers_count": 310,
+    "statuses_count": 1177,
+    "favourites_count": 48722,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1213,
+            "friends_count": 1327,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 52,
-            "pinned_tweet_ids_str": [],
+            "media_count": 71,
+            "pinned_tweet_ids_str": [
+                "1894794894667026846"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1557060052000,
-            "updated_at": 1740287633016
+            "updated_at": 1740790858932
         }
     }
 }

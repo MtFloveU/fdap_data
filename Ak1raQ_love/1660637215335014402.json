@@ -6,9 +6,9 @@
     "location": "Celestial",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1878632257713274880/TVFHZ_8O_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660637215335014402/1735265235",
-    "followers_count": 2093,
-    "statuses_count": 2922,
-    "favourites_count": 8693,
+    "followers_count": 2146,
+    "statuses_count": 2977,
+    "favourites_count": 8808,
     "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2654,
+            "friends_count": 2675,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 587,
+            "media_count": 589,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1684761784000,
-            "updated_at": 1740287669626
+            "updated_at": 1740790908309
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "向往Japan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870805671450464257/6ns7iaR__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868785269362900993/1734869831",
-    "followers_count": 611,
-    "statuses_count": 251,
-    "favourites_count": 556,
+    "followers_count": 615,
+    "statuses_count": 260,
+    "favourites_count": 571,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 648,
+            "friends_count": 663,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 11,
+            "media_count": 13,
             "pinned_tweet_ids_str": [
                 "1888893292194169136"
             ],
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1734388111000,
-            "updated_at": 1740287635416
+            "updated_at": 1740790863925
         }
     }
 }

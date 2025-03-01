@@ -6,9 +6,9 @@
     "location": "麦門町",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889247889391861760/FgFOaJ3A_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/878230708606468098/1736704846",
-    "followers_count": 500,
-    "statuses_count": 3450,
-    "favourites_count": 33406,
+    "followers_count": 508,
+    "statuses_count": 3460,
+    "favourites_count": 33469,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 903,
+            "friends_count": 914,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 544,
+            "media_count": 546,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -62,7 +62,7 @@
         },
         "twe_private_fields": {
             "created_at": 1498221492000,
-            "updated_at": 1740287672135
+            "updated_at": 1740790914725
         }
     }
 }

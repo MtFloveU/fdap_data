@@ -6,9 +6,9 @@
     "location": "Shandong, China",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1753683653849440256/h6Qa5b-o_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685650787245101057/1731718658",
-    "followers_count": 513,
-    "statuses_count": 1180,
-    "favourites_count": 14060,
+    "followers_count": 521,
+    "statuses_count": 1210,
+    "favourites_count": 14564,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 974,
+            "friends_count": 999,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 142,
+            "media_count": 145,
             "pinned_tweet_ids_str": [
                 "1883717557288583478"
             ],
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1690725445000,
-            "updated_at": 1740287645118
+            "updated_at": 1740790874438
         }
     }
 }

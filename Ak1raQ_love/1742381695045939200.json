@@ -1,14 +1,14 @@
 {
     "id": "1742381695045939200",
     "screen_name": "mo6ji4",
-    "name": "圣骑士贞德（误ban抱歉）（情绪垃圾桶）（推文不完全代表本人立场）",
+    "name": "圣骑士贞德（误ban抱歉）（情绪垃圾桶）（推文不完全代表本人立场）锁推躲机器人",
     "description": "头像源：《blacksouls》贞德相爱CG\n防失联小号@m8o9j6i4 亲爱的 @35zf_out @Fiammetta1453  @Bingfei2v2 @azusaROCtw  @mingnaisama\n玻璃心自卑仇富（我是顺男）小狗@GLaDOS8964",
     "location": "阿拉斯加美军要塞",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1742381695045939200/1715658297",
-    "followers_count": 2550,
-    "statuses_count": 23756,
-    "favourites_count": 107250,
+    "followers_count": 2535,
+    "statuses_count": 23947,
+    "favourites_count": 107979,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 925,
+            "friends_count": 923,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1871,
+            "media_count": 1886,
             "pinned_tweet_ids_str": [
                 "1891417536954036561"
             ],
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1704251197000,
-            "updated_at": 1740287669626
+            "updated_at": 1740790908309
         }
     }
 }

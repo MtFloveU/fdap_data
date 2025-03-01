@@ -1,14 +1,14 @@
 {
     "id": "943439286287851520",
     "screen_name": "KagurazakaSenba",
-    "name": "💮羽星千雪🌸🍥",
-    "description": "盼来盼去盼不尽天涯何处是归处",
-    "location": "距离你 2.1 km",
+    "name": "💮神楽坂　千羽🌸🍥🏳️‍⚧️",
+    "description": "盼来盼去盼不尽天涯何处是归处|无性别",
+    "location": "来自夏莱的老师",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/943439286287851520/1699106051",
-    "followers_count": 2756,
-    "statuses_count": 22986,
-    "favourites_count": 86806,
+    "followers_count": 2771,
+    "statuses_count": 23090,
+    "favourites_count": 87880,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,13 +34,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4823,
+            "friends_count": 4836,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1868,
-            "pinned_tweet_ids_str": [
-                "1891806552786403537"
-            ],
+            "media_count": 1876,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -51,7 +49,13 @@
         "professional": {
             "rest_id": "1683441955051835393",
             "professional_type": "Creator",
-            "category": []
+            "category": [
+                {
+                    "id": 144,
+                    "name": "Education",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
         },
         "tipjar_settings": {
             "is_enabled": true,
@@ -59,7 +63,7 @@
         },
         "twe_private_fields": {
             "created_at": 1513768428000,
-            "updated_at": 1740287672135
+            "updated_at": 1740790914725
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "广东省中山市",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1836815541828513792/JiD3U1vF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1316543566827548673/1693093193",
-    "followers_count": 8257,
-    "statuses_count": 1500,
-    "favourites_count": 1408,
+    "followers_count": 10224,
+    "statuses_count": 1506,
+    "favourites_count": 1411,
     "listed_count": 27,
     "verified_type": null,
     "is_blue_verified": false,
@@ -44,10 +44,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2566,
+            "friends_count": 2575,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 943,
+            "media_count": 947,
             "pinned_tweet_ids_str": [
                 "1685188525308919810"
             ],
@@ -74,7 +74,7 @@
         },
         "twe_private_fields": {
             "created_at": 1602723432000,
-            "updated_at": 1740287601444
+            "updated_at": 1740790823802
         }
     }
 }

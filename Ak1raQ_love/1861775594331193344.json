@@ -6,9 +6,9 @@
     "location": "Tsingtao",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861784782470066177/7HAKDFQU_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 227,
-    "statuses_count": 151,
-    "favourites_count": 276,
+    "followers_count": 256,
+    "statuses_count": 160,
+    "favourites_count": 292,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1806,
+            "friends_count": 1887,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 3,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1732716878000,
-            "updated_at": 1740287561355
+            "updated_at": 1740790781517
         }
     }
 }

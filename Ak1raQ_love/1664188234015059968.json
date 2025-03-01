@@ -2,13 +2,13 @@
     "id": "1664188234015059968",
     "screen_name": "misaki8964",
     "name": "校园神枪手美咲",
-    "description": "「生きていたいよ」 我是美咲｜bsky：Misaki8964",
+    "description": "「生まれた罰を終わらすように 呼吸を止めて」 ｜我是美咲｜bsky：Misaki8964",
     "location": "Hell,China",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1881227350899310592/5kgyu5Hs_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664188234015059968/1737354538",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1893873207784198144/sg82FPQw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664188234015059968/1740369545",
     "followers_count": 345,
-    "statuses_count": 19842,
-    "favourites_count": 98382,
+    "statuses_count": 20010,
+    "favourites_count": 98870,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,12 +35,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1004,
+            "friends_count": 1003,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 164,
+            "media_count": 166,
             "pinned_tweet_ids_str": [
-                "1874143541280297441"
+                "1894737637195633015"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1685608386000,
-            "updated_at": 1740287652584
+            "updated_at": 1740790885993
         }
     }
 }

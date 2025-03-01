@@ -6,9 +6,9 @@
     "location": "XinJiang",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1765698993743646720/Be_lpq_7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749765063446233088/1709810535",
-    "followers_count": 507,
+    "followers_count": 508,
     "statuses_count": 19,
-    "favourites_count": 2489,
+    "favourites_count": 2487,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,9 +35,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "chabing.top",
-                            "expanded_url": "https://chabing.top",
-                            "url": "https://t.co/hGBQCNk24n",
+                            "display_url": "cha.edu.pl",
+                            "expanded_url": "https://cha.edu.pl",
+                            "url": "https://t.co/WzrgeLoeB0",
                             "indices": [
                                 0,
                                 23
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1248,
+            "friends_count": 1251,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 2,
@@ -55,7 +55,7 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/hGBQCNk24n",
+            "url": "https://t.co/WzrgeLoeB0",
             "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
@@ -65,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1706011483000,
-            "updated_at": 1740287609044
+            "updated_at": 1740790833478
         }
     }
 }

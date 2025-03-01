@@ -1,15 +1,15 @@
 {
     "id": "1869214392732274688",
     "screen_name": "yui30118177",
-    "name": "和我一起堕落吧",
-    "description": "三代目yui  泛性恋 下海来给自己和家里的猫猫赚零花钱  坐标重庆 我很好说话的🥺",
+    "name": "我的猫和我说起过你",
+    "description": "三代目yui  泛性恋 下海来给自己和家里的猫猫赚零花钱  坐标重庆 我很好说话的🥺入门不退",
     "location": "🚪88/100/228/520",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874621074614169600/TfCmol0H_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869214392732274688/1734657156",
-    "followers_count": 251,
-    "statuses_count": 130,
-    "favourites_count": 36,
-    "listed_count": 3,
+    "followers_count": 276,
+    "statuses_count": 156,
+    "favourites_count": 48,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
@@ -34,12 +34,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 65,
+            "friends_count": 75,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 40,
+            "media_count": 51,
             "pinned_tweet_ids_str": [
-                "1886807854637600856"
+                "1893625180968137037"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -48,10 +48,21 @@
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "professional": {
+            "rest_id": "1894644944251621735",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1734490424000,
-            "updated_at": 1740287547937
+            "updated_at": 1740790765141
         }
     }
 }

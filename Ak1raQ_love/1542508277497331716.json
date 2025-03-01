@@ -6,9 +6,9 @@
     "location": "DM基本返しません",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891869782859005952/zFiPZOr-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542508277497331716/1739008381",
-    "followers_count": 2049,
-    "statuses_count": 19509,
-    "favourites_count": 51324,
+    "followers_count": 2057,
+    "statuses_count": 19818,
+    "favourites_count": 51874,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,13 +47,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6639,
+            "friends_count": 6763,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 434,
-            "pinned_tweet_ids_str": [
-                "1891111669075525853"
-            ],
+            "media_count": 446,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -65,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1656597615000,
-            "updated_at": 1740287551280
+            "updated_at": 1740790771159
         }
     }
 }

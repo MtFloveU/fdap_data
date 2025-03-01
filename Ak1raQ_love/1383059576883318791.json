@@ -6,9 +6,9 @@
     "location": "澳門共和國",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1571555713423646720/krrBfTos_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1383059576883318791/1696054685",
-    "followers_count": 51,
-    "statuses_count": 1340,
-    "favourites_count": 214,
+    "followers_count": 49,
+    "statuses_count": 1342,
+    "favourites_count": 216,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1158,
+            "friends_count": 1162,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 8,
+            "media_count": 9,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1618582089000,
-            "updated_at": 1740287551280
+            "updated_at": 1740790766624
         }
     }
 }

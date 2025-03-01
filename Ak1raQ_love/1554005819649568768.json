@@ -2,14 +2,14 @@
     "id": "1554005819649568768",
     "screen_name": "wingattackqwq",
     "name": "小兔姬没有小肚叽🎀",
-    "description": "普通女大～ |  还未SRS | 门槛 88 | 目前没对象，诚招对象，只限女生和男娘🙏不要求同城",
+    "description": "我很美，你爱怎样怎样",
     "location": "枕阳",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1800152492036304897/Zj9RQm7y_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554005819649568768/1714828560",
-    "followers_count": 9723,
-    "statuses_count": 2278,
-    "favourites_count": 2858,
-    "listed_count": 13,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1894779049249239040/G-jmIlMU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554005819649568768/1740585526",
+    "followers_count": 9708,
+    "statuses_count": 2350,
+    "favourites_count": 2889,
+    "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -31,19 +31,31 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "patreon.com/c/cureflora",
+                            "expanded_url": "https://www.patreon.com/c/cureflora",
+                            "url": "https://t.co/QVGwL1EQKt",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3474,
+            "friends_count": 3484,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 80,
-            "pinned_tweet_ids_str": [
-                "1844407565960216918"
-            ],
+            "media_count": 86,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/QVGwL1EQKt",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -51,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1659338841000,
-            "updated_at": 1740287675719
+            "updated_at": 1740790914726
         }
     }
 }

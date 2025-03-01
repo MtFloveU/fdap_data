@@ -6,9 +6,9 @@
     "location": "31°13'19\"N , 121°27'29\"E",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879471552087175169/HgYzfUX0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542111398129717249/1729115417",
-    "followers_count": 604,
-    "statuses_count": 905,
-    "favourites_count": 39781,
+    "followers_count": 608,
+    "statuses_count": 906,
+    "favourites_count": 40018,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": true,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 537,
+            "friends_count": 541,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 29,
+            "media_count": 30,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -65,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1656502990000,
-            "updated_at": 1740287664965
+            "updated_at": 1740790903571
         }
     }
 }

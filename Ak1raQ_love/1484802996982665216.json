@@ -6,10 +6,10 @@
     "location": "GAME DEVELOPMENT DEPARTMENT",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874472726624129024/LHz-sDdt_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484802996982665216/1735744084",
-    "followers_count": 11721,
-    "statuses_count": 4559,
-    "favourites_count": 4302,
-    "listed_count": 44,
+    "followers_count": 11740,
+    "statuses_count": 4524,
+    "favourites_count": 4269,
+    "listed_count": 43,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
@@ -34,14 +34,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 8544,
+            "friends_count": 8527,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 65,
             "pinned_tweet_ids_str": [
                 "1882667674276401155"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1642839619000,
-            "updated_at": 1740287609044
+            "updated_at": 1740790833478
         }
     }
 }

@@ -2,13 +2,13 @@
     "id": "1621639148171067393",
     "screen_name": "JiuYexo0004",
     "name": "九叶",
-    "description": "🍥胆小敏感易受惊 / 药物依赖 / 07降世/ 低频 / 活死人 / 爱的具象化@yuxo0004",
+    "description": "",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889245357621850112/jmGtyniX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621639148171067393/1717491092",
-    "followers_count": 151,
-    "statuses_count": 213,
-    "favourites_count": 321,
+    "followers_count": 145,
+    "statuses_count": 215,
+    "favourites_count": 322,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 209,
+            "friends_count": 208,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 54,
@@ -49,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1675463886000,
-            "updated_at": 1740287667415
+            "updated_at": 1740790903571
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "世界革命的浪潮中",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884929141549805568/8VEkfZJJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764149440133447680/1738237437",
-    "followers_count": 546,
-    "statuses_count": 4292,
-    "favourites_count": 24190,
+    "followers_count": 538,
+    "statuses_count": 4347,
+    "favourites_count": 24407,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,13 +35,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 175,
+            "friends_count": 178,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 281,
-            "pinned_tweet_ids_str": [
-                "1889632012769669370"
-            ],
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -52,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1709440986000,
-            "updated_at": 1740287652584
+            "updated_at": 1740790885993
         }
     }
 }

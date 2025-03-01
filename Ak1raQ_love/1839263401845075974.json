@@ -2,14 +2,14 @@
     "id": "1839263401845075974",
     "screen_name": "Rajal_HENAN",
     "name": "𝓨𝓸𝓾𝓼𝓮𝓻 𝓡𝓪𝓳𝓪𝓻 🇦🇶",
-    "description": "I wish you happiness, Everything goes well! We firmly oppose all regional discrimination in the Universe! like ACG/黄推魔怔粉红极端支黑极端思想极端立场机器人除外全部友好包容/逃生舱：@kawroii063",
+    "description": "I wish you happiness, Everything goes well! We firmly oppose all regional discrimination in the Universe! like ACG/愿世界和平，愿大家快乐/2号逃生舱：@kawroii063_II",
     "location": "behind you",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1880416052842270720/8wvXQsXz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
-    "followers_count": 372,
-    "statuses_count": 1508,
-    "favourites_count": 5412,
-    "listed_count": 2,
+    "followers_count": 532,
+    "statuses_count": 2052,
+    "favourites_count": 6949,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -21,7 +21,7 @@
         "id": "VXNlcjoxODM5MjYzNDAxODQ1MDc1OTc0",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -34,12 +34,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 627,
+            "friends_count": 853,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 69,
+            "media_count": 95,
             "pinned_tweet_ids_str": [
-                "1893215091509862643"
+                "1894453203019952360"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -48,12 +48,23 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "professional": {
+            "rest_id": "1894213773226848702",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 93,
+                    "name": "Aviation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
         "twe_private_fields": {
             "created_at": 1727349571000,
-            "updated_at": 1740287629450
+            "updated_at": 1740790854832
         }
     }
 }

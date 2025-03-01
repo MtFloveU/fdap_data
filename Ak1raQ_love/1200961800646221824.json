@@ -1,12 +1,12 @@
 {
     "id": "1200961800646221824",
     "screen_name": "mtf_xixi",
-    "name": "茜🍥",
-    "description": "06年mtf/hrt:2023.12.5/社恐/嘴笨/不擅长社交/不常发推QAQ",
-    "location": "异世界",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1657686209207099392/7D1SXDx1_normal.jpg",
+    "name": "夕沫🍥",
+    "description": "",
+    "location": "二次元",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1895368607275606016/8fSrXBY__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1200961800646221824/1709632571",
-    "followers_count": 302,
+    "followers_count": 303,
     "statuses_count": 62,
     "favourites_count": 131,
     "listed_count": 0,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 334,
+            "friends_count": 335,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 3,
@@ -49,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1575166597000,
-            "updated_at": 1740287672135
+            "updated_at": 1740790911691
         }
     }
 }

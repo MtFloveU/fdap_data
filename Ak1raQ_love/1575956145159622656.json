@@ -6,10 +6,10 @@
     "location": "Gensokyo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885375492813103104/V0d9rgiY_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1575956145159622656/1733634330",
-    "followers_count": 1085,
-    "statuses_count": 9071,
-    "favourites_count": 16471,
-    "listed_count": 8,
+    "followers_count": 1097,
+    "statuses_count": 9050,
+    "favourites_count": 16680,
+    "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,12 +47,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1035,
+            "friends_count": 1038,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1185,
+            "media_count": 1140,
             "pinned_tweet_ids_str": [
-                "1798748784647893259"
+                "1895447317693751776"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1664572217000,
-            "updated_at": 1740287658947
+            "updated_at": 1740790892655
         }
     }
 }

@@ -1,21 +1,21 @@
 {
     "id": "1765072369599795202",
-    "screen_name": "Kaoruko157",
+    "screen_name": "Kaoruko198964",
     "name": "小混沌",
-    "description": "私たくさんの人に助けられてま す、この気持ちをいつか返せる人",
+    "description": "私たくさんの人に助けられてま す、この気持ちをいつか返せる人 |大切な弟 @_Pnky__|",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1792135388347457536/iBr2rRJL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1765072369599795202/1739984279",
-    "followers_count": 436,
-    "statuses_count": 457,
-    "favourites_count": 622,
-    "listed_count": 0,
+    "followers_count": 456,
+    "statuses_count": 514,
+    "favourites_count": 729,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-03-06 01:50:37 +08:00",
-    "url": "https://twitter.com/Kaoruko157",
+    "url": "https://twitter.com/Kaoruko198964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY1MDcyMzY5NTk5Nzk1MjAy",
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 600,
+            "friends_count": 630,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 26,
-            "pinned_tweet_ids_str": [],
+            "media_count": 27,
+            "pinned_tweet_ids_str": [
+                "1895345693382058375"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1709661037000,
-            "updated_at": 1740287633016
+            "updated_at": 1740790858932
         }
     }
 }

@@ -1,0 +1,89 @@
+{
+    "id": "1865419581206208512",
+    "screen_name": "DDzhanshou5150",
+    "name": "蒂蒂斩首",
+    "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1894685893140881409/EAkfTOuw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865419581206208512/1740563304",
+    "followers_count": 599,
+    "statuses_count": 725,
+    "favourites_count": 609,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-12-07 23:34:33 +08:00",
+    "url": "https://twitter.com/DDzhanshou5150",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODY1NDE5NTgxMjA2MjA4NTEy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @zhonglihutaomtx",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "zhonglihutaomtx",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "zhonglihutaomtx"
+                                        },
+                                        "rest_id": "1431912442125172741"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 847,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 53,
+            "pinned_tweet_ids_str": [
+                "1894717736468803636"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1733585673000,
+            "updated_at": 1740790851937
+        }
+    }
+}

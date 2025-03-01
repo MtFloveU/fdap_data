@@ -6,7 +6,7 @@
     "location": "Mars",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890653963957174272/e750H_87_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 142,
+    "followers_count": 139,
     "statuses_count": 21,
     "favourites_count": 769,
     "listed_count": 0,
@@ -35,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 379,
+            "friends_count": 375,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 0,
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1690249027000,
-            "updated_at": 1740287667415
+            "updated_at": 1740790903571
         }
     }
 }

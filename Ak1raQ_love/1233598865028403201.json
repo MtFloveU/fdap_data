@@ -6,9 +6,9 @@
     "location": "幻境，星尘网络，星渊空间站",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892224419449200640/6aZOP2EM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1233598865028403201/1736288484",
-    "followers_count": 266,
-    "statuses_count": 7770,
-    "favourites_count": 42145,
+    "followers_count": 265,
+    "statuses_count": 7877,
+    "favourites_count": 42807,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": true,
             "default_profile": true,
@@ -47,10 +48,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 442,
+            "friends_count": 447,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 446,
+            "media_count": 453,
             "pinned_tweet_ids_str": [
                 "1844348759460937928"
             ],
@@ -78,7 +79,7 @@
         },
         "twe_private_fields": {
             "created_at": 1582947925000,
-            "updated_at": 1740287664965
+            "updated_at": 1740790900157
         }
     }
 }

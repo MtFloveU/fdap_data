@@ -1,21 +1,21 @@
 {
     "id": "1257988898724040705",
-    "screen_name": "Drakkarghost",
+    "screen_name": "KagrhitenGareka",
     "name": "Berpoot ica",
-    "description": "没什么不好，不好的也在变好",
+    "description": "夜夜皆空",
     "location": "Perth, Western Australia",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1853470587273760768/Qr3W2TmY_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1894074453912420354/tbGaeZUJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257988898724040705/1739701622",
-    "followers_count": 155,
-    "statuses_count": 917,
-    "favourites_count": 3370,
+    "followers_count": 168,
+    "statuses_count": 980,
+    "favourites_count": 3867,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2020-05-06 19:02:06 +08:00",
-    "url": "https://twitter.com/Drakkarghost",
+    "url": "https://twitter.com/KagrhitenGareka",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjU3OTg4ODk4NzI0MDQwNzA1",
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 690,
+            "friends_count": 704,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 270,
+            "media_count": 287,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -65,8 +65,8 @@
             "professional_type": "Business",
             "category": [
                 {
-                    "id": 980,
-                    "name": "Confectionary Manufacturer",
+                    "id": 1010,
+                    "name": "Spiritual",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
@@ -74,7 +74,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1588762926000,
-            "updated_at": 1740287627541
+            "updated_at": 1740790851937
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "Earth",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864087502858092544/26IGZSei_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661305257966665729/1718387173",
-    "followers_count": 867,
+    "followers_count": 861,
     "statuses_count": 2179,
-    "favourites_count": 4205,
+    "favourites_count": 4201,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 119,
+            "friends_count": 120,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 330,
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1684921031000,
-            "updated_at": 1740287647532
+            "updated_at": 1740790877191
         }
     }
 }

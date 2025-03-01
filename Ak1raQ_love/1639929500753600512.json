@@ -6,10 +6,10 @@
     "location": "utopia",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890653238648832000/gNjuimNx_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639929500753600512/1739794591",
-    "followers_count": 464,
-    "statuses_count": 3413,
-    "favourites_count": 11024,
-    "listed_count": 2,
+    "followers_count": 459,
+    "statuses_count": 3410,
+    "favourites_count": 11007,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1121,
+            "friends_count": 1115,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 111,
@@ -76,7 +76,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1679824650000,
-            "updated_at": 1740287667415
+            "updated_at": 1740790903571
         }
     }
 }

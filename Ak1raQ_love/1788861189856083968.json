@@ -6,10 +6,10 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873309667964944384/IISivAsb_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 566,
-    "statuses_count": 293,
-    "favourites_count": 803,
-    "listed_count": 1,
+    "followers_count": 684,
+    "statuses_count": 407,
+    "favourites_count": 824,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -21,7 +21,7 @@
         "id": "VXNlcjoxNzg4ODYxMTg5ODU2MDgzOTY4",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -31,19 +31,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/+XNqeEL12OHNlZ…",
+                            "expanded_url": "https://t.me/+XNqeEL12OHNlZmM5",
+                            "url": "https://t.co/BlCcaN6iVy",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 185,
+            "friends_count": 206,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 21,
+            "media_count": 32,
             "pinned_tweet_ids_str": [
                 "1880166228502925617"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/BlCcaN6iVy",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -51,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1715332778000,
-            "updated_at": 1740287635416
+            "updated_at": 1740790863925
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "Jingchuria Republic",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1624035234265329665/7T4ABRCi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621712761171607555/1711875030",
-    "followers_count": 1144,
-    "statuses_count": 3019,
-    "favourites_count": 30418,
+    "followers_count": 1152,
+    "statuses_count": 3020,
+    "favourites_count": 30480,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2092,
+            "friends_count": 2100,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 500,
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1675481441000,
-            "updated_at": 1740287672135
+            "updated_at": 1740790914725
         }
     }
 }

@@ -6,10 +6,10 @@
     "location": "京东星宇",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243945571796295681/1736069194",
-    "followers_count": 16623,
-    "statuses_count": 21452,
-    "favourites_count": 170969,
-    "listed_count": 68,
+    "followers_count": 16650,
+    "statuses_count": 21557,
+    "favourites_count": 171399,
+    "listed_count": 67,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -78,14 +78,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4453,
+            "friends_count": 4464,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 4673,
+            "media_count": 4718,
             "pinned_tweet_ids_str": [
                 "1892556487030976572"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/6W3mmCUM0f",
@@ -109,7 +109,7 @@
         },
         "twe_private_fields": {
             "created_at": 1585414717000,
-            "updated_at": 1740287681518
+            "updated_at": 1740790920537
         }
     }
 }

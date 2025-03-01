@@ -6,7 +6,7 @@
     "location": "Republic of Chechnya, Russia",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884883748962861056/h-sP9bC2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392059387573796869/1739413772",
-    "followers_count": 933,
+    "followers_count": 934,
     "statuses_count": 5360,
     "favourites_count": 2907,
     "listed_count": 8,
@@ -50,7 +50,7 @@
             "friends_count": 3666,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 622,
+            "media_count": 623,
             "pinned_tweet_ids_str": [
                 "1884885909369139501"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1620727805000,
-            "updated_at": 1740287652587
+            "updated_at": 1740790889295
         }
     }
 }

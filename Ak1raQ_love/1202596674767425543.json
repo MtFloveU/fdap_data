@@ -2,13 +2,13 @@
     "id": "1202596674767425543",
     "screen_name": "Tabunkaede",
     "name": "🍁多分、楓🐬",
-    "description": "🎮🎨📷🎸🎤🔫｜偏日常推，键政冷感｜身份和标签对我不重要｜中立善良｜友大多数政见｜在和喜欢的人一起生存｜",
+    "description": "🎮🎨📷🎸🎤🔫｜偏日常推，键政冷感｜身份和标签对我不重要｜中立善良｜友大多数政见｜在和喜欢的人一起生存｜锁推小号@KaedeKure",
     "location": "宇宙誕生時的餘暉",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1857841146464186368/d-NrkXwa_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1202596674767425543/1720813112",
     "followers_count": 549,
-    "statuses_count": 2655,
-    "favourites_count": 33288,
+    "statuses_count": 2657,
+    "favourites_count": 33638,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 624,
+            "friends_count": 625,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 286,
+            "media_count": 285,
             "pinned_tweet_ids_str": [
                 "1883223143340466396"
             ],
@@ -64,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1575556373000,
-            "updated_at": 1740287664965
+            "updated_at": 1740790903571
         }
     }
 }

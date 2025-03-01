@@ -1,14 +1,14 @@
 {
     "id": "1523294065063735298",
     "screen_name": "Daryl336",
-    "name": "Chocolate🍫",
-    "description": "棺人痴/嘉心糖/现实中是个阴暗私宅，二次元重度爱好者，少女乐队动漫迷。欢迎来互fo（会查成分，非无条件回fo）忙于现实淡推中，不定时会来。请给我私信留言，一般都会回复。",
+    "name": "東京の雪蓮い⛩",
+    "description": "°ʚ🍼ɞ°￤詩￤唄￤",
     "location": "二次元世界",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1892632356705423360/h8Z_Z64Z_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1523294065063735298/1732395025",
-    "followers_count": 3487,
-    "statuses_count": 3073,
-    "favourites_count": 45556,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1894129673002524673/hTd3xMOj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1523294065063735298/1740501429",
+    "followers_count": 3640,
+    "statuses_count": 3143,
+    "favourites_count": 46422,
     "listed_count": 13,
     "verified_type": null,
     "is_blue_verified": false,
@@ -31,17 +31,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "lit.link/azumaseren",
+                            "expanded_url": "https://lit.link/azumaseren",
+                            "url": "https://t.co/2VU2VE8VPN",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2733,
+            "friends_count": 2757,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 490,
-            "pinned_tweet_ids_str": [],
+            "media_count": 499,
+            "pinned_tweet_ids_str": [
+                "1795925402092785966"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/2VU2VE8VPN",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -62,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1652016598000,
-            "updated_at": 1740287655293
+            "updated_at": 1740790889295
         }
     }
 }

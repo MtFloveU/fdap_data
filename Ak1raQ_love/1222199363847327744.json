@@ -6,10 +6,10 @@
     "location": "木衛三·Ganymede",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1792915151596732416/gqkmbRRd_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222199363847327744/1740128375",
-    "followers_count": 3954,
-    "statuses_count": 9585,
-    "favourites_count": 78110,
-    "listed_count": 13,
+    "followers_count": 3961,
+    "statuses_count": 9615,
+    "favourites_count": 78319,
+    "listed_count": 14,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1060,
+            "friends_count": 1062,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1465,
+            "media_count": 1472,
             "pinned_tweet_ids_str": [
                 "1874418807294578705"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1580230019000,
-            "updated_at": 1740287635416
+            "updated_at": 1740790863925
         }
     }
 }

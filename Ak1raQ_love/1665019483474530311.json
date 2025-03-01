@@ -2,13 +2,13 @@
     "id": "1665019483474530311",
     "screen_name": "yuqkchan",
     "name": "是雨卿喵🍥",
-    "description": "这只猫很懒，什么都没有留下",
+    "description": "春の中に 君と落ちていく。",
     "location": "0371",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889883458740408320/Su4DJ_8__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665019483474530311/1740165794",
-    "followers_count": 1435,
-    "statuses_count": 4254,
-    "favourites_count": 5944,
+    "followers_count": 1736,
+    "statuses_count": 4329,
+    "favourites_count": 5983,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,14 +34,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 890,
+            "friends_count": 904,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 525,
+            "media_count": 542,
             "pinned_tweet_ids_str": [
                 "1893018244396785909"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1685806566000,
-            "updated_at": 1740287638597
+            "updated_at": 1740790871541
         }
     }
 }

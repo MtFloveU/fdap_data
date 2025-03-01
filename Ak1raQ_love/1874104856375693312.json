@@ -6,12 +6,12 @@
     "location": "郑州",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874107298957713408/dqy3PxZ2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874104856375693312/1736450332",
-    "followers_count": 524,
-    "statuses_count": 121,
-    "favourites_count": 874,
+    "followers_count": 533,
+    "statuses_count": 120,
+    "favourites_count": 887,
     "listed_count": 0,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2024-12-31 22:46:44 +08:00",
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 536,
+            "friends_count": 532,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 7,
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1735656404000,
-            "updated_at": 1740287633016
+            "updated_at": 1740790858933
         }
     }
 }

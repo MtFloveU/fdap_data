@@ -6,10 +6,10 @@
     "location": "RLE/Terra-Sol",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1871561615004606465/2SO0dw9K_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/13605432/1407396735",
-    "followers_count": 2237,
-    "statuses_count": 29165,
-    "favourites_count": 8576,
-    "listed_count": 37,
+    "followers_count": 2249,
+    "statuses_count": 29232,
+    "favourites_count": 8745,
+    "listed_count": 38,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3511,
+            "friends_count": 3513,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 574,
+            "media_count": 577,
             "pinned_tweet_ids_str": [
                 "1867237376982155681"
             ],
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1203301667000,
-            "updated_at": 1740287675719
+            "updated_at": 1740790914725
         }
     }
 }

@@ -1,13 +1,13 @@
 {
     "id": "1626412637973274627",
     "screen_name": "ylmjc6",
-    "name": "YLmjc",
-    "description": "什么玩意视奸我？",
-    "location": "香港",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1804651257308876800/fde3YY-K_normal.jpg",
+    "name": "YLmmc",
+    "description": "hello",
+    "location": "Minato-ku, Tokyo",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1894731311392477185/Sy0KkdUP_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626412637973274627/1719097362",
     "followers_count": 19,
-    "statuses_count": 96,
+    "statuses_count": 89,
     "favourites_count": 459,
     "listed_count": 1,
     "verified_type": null,
@@ -36,9 +36,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "potatopie.top",
-                            "expanded_url": "http://potatopie.top",
-                            "url": "https://t.co/SIKdS8p0z6",
+                            "display_url": "x.com",
+                            "expanded_url": "http://x.com",
+                            "url": "https://t.co/VOWZLUgzus",
                             "indices": [
                                 0,
                                 23
@@ -51,12 +51,12 @@
             "friends_count": 112,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 5,
+            "media_count": 3,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/SIKdS8p0z6",
+            "url": "https://t.co/VOWZLUgzus",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -66,7 +66,7 @@
         },
         "twe_private_fields": {
             "created_at": 1676601979000,
-            "updated_at": 1740287658947
+            "updated_at": 1740790892655
         }
     }
 }

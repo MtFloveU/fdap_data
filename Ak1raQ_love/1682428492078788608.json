@@ -6,9 +6,9 @@
     "location": "Proxima Centauri",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682428492078788608/1729538776",
-    "followers_count": 363,
-    "statuses_count": 885,
-    "favourites_count": 545,
+    "followers_count": 386,
+    "statuses_count": 1021,
+    "favourites_count": 607,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,14 +34,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 379,
+            "friends_count": 404,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 95,
+            "media_count": 117,
             "pinned_tweet_ids_str": [
-                "1892598085689200682"
+                "1894071818891206838"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1689957201000,
-            "updated_at": 1740287633016
+            "updated_at": 1740790858933
         }
     }
 }

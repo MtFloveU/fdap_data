@@ -2,13 +2,13 @@
     "id": "1868232427220713473",
     "screen_name": "fuckpregabalin",
     "name": "文",
-    "description": "05/10/08|STARTED ON 30/08/23|✝️Calvinism & Fundamentalism|叫我小文就好啦😘|北京語/廈門語/成都語OKです! |一辈子的朋友🥺@yangaaa111 |裡@IokbunTan |对所有人友好🥰God bless you!",
+    "description": "05/10/08|STARTED ON 30/08/23|✝️Calvinism|叫我小文就好啦😘|北京語/廈門語/成都語OKです! |一辈子的朋友🥺@yangaaa111 @prumlinfem |裡@IokbunTan |对所有人友好🥰God bless you!",
     "location": "Amoy",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884707004687802368/VY5DTmzs_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868232427220713473/1739916681",
-    "followers_count": 166,
-    "statuses_count": 154,
-    "favourites_count": 1539,
+    "followers_count": 288,
+    "statuses_count": 390,
+    "favourites_count": 2351,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,37 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODY4MjMyNDI3MjIwNzEzNDcz",
-        "affiliates_highlighted_label": {},
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @IokbunTan",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 23,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "IokbunTan",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "IokbunTan"
+                                        },
+                                        "rest_id": "1891980816319975424"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -31,19 +61,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/IokbunTan/",
+                            "expanded_url": "http://t.me/IokbunTan/",
+                            "url": "https://t.co/Vis3o56nk4",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 549,
+            "friends_count": 661,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 26,
+            "media_count": 45,
             "pinned_tweet_ids_str": [
-                "1888392582729974061"
+                "1894892513305264499"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/Vis3o56nk4",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -51,7 +95,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1734256302000,
-            "updated_at": 1740287627542
+            "updated_at": 1740790854832
         }
     }
 }

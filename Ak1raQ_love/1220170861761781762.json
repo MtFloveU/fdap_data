@@ -6,9 +6,9 @@
     "location": "天国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1871635288768053248/qsO2K3-O_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1220170861761781762/1721565032",
-    "followers_count": 752,
-    "statuses_count": 3505,
-    "favourites_count": 27370,
+    "followers_count": 673,
+    "statuses_count": 3520,
+    "favourites_count": 27342,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -54,8 +54,9 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -67,7 +68,7 @@
             "friends_count": 630,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 309,
+            "media_count": 312,
             "pinned_tweet_ids_str": [
                 "1842225042870116355"
             ],
@@ -85,7 +86,7 @@
         },
         "twe_private_fields": {
             "created_at": 1579746404000,
-            "updated_at": 1740287664965
+            "updated_at": 1740790900157
         }
     }
 }

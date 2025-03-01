@@ -1,21 +1,21 @@
 {
     "id": "1563750837578792960",
-    "screen_name": "Georgesumer",
-    "name": "Simplicial小八🏳️‍⚧️",
-    "description": "碎掉的北美mtf/hrt: 09/04/2024/intj/姛/重度原相机患者/category theory/topology/graph theory",
+    "screen_name": "eighteensumer",
+    "name": "Simp小八🏳️‍⚧️",
+    "description": "碎掉的北美mtf//intj/重度原相机患者/category theory/topology/graph theory",
     "location": "Baltimore, MD",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1860021832541167616/Z2_BTYxE_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 498,
-    "statuses_count": 346,
-    "favourites_count": 83,
+    "followers_count": 495,
+    "statuses_count": 314,
+    "favourites_count": 74,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-08-28 12:50:36 +08:00",
-    "url": "https://twitter.com/Georgesumer",
+    "url": "https://twitter.com/eighteensumer",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTYzNzUwODM3NTc4NzkyOTYw",
@@ -37,10 +37,8 @@
             "friends_count": 165,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 24,
-            "pinned_tweet_ids_str": [
-                "1878820659603890393"
-            ],
+            "media_count": 15,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -51,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1661662236000,
-            "updated_at": 1740287635416
+            "updated_at": 1740790863926
         }
     }
 }

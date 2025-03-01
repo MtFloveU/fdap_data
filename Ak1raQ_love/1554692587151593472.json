@@ -1,0 +1,56 @@
+{
+    "id": "1554692587151593472",
+    "screen_name": "zuifeiwu",
+    "name": "坂下りっか🍬",
+    "description": "坚定的六花主义者    坂下六花思想是不落的太阳",
+    "location": "京都 北宇治",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1755984772776755200/PpEKO3Iv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554692587151593472/1686752258",
+    "followers_count": 1466,
+    "statuses_count": 16079,
+    "favourites_count": 52469,
+    "listed_count": 12,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2022-08-03 12:56:22 +08:00",
+    "url": "https://twitter.com/zuifeiwu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTU0NjkyNTg3MTUxNTkzNDcy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1218,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 470,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1659502582000,
+            "updated_at": 1740790851937
+        }
+    }
+}
