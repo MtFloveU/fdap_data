@@ -6,9 +6,9 @@
     "location": "LP890-9c",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872626088318226432/MhLCOACS_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701257449112580096/1737189221",
-    "followers_count": 279,
-    "statuses_count": 4203,
-    "favourites_count": 10873,
+    "followers_count": 280,
+    "statuses_count": 4266,
+    "favourites_count": 10961,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 317,
+            "friends_count": 322,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 809,
+            "media_count": 820,
             "pinned_tweet_ids_str": [
                 "1895411378913189939"
             ],
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1694446393000,
-            "updated_at": 1740790914725
+            "updated_at": 1740914938936
         }
     }
 }

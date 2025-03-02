@@ -2,13 +2,13 @@
     "id": "1733255083440357376",
     "screen_name": "7639xy_k",
     "name": "曦夜少吃两口",
-    "description": "友好少数群体｜刷到我的能不能和我互fo｜奇怪的小号@TPR_luv",
+    "description": "没有个人立场全是私人恩怨｜任何成分互fo互动欢迎｜@TPR_luv是本人肉身控制者",
     "location": "Anywhere",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1894307216829943810/BCrWZFkN_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1895730357254963202/-PLGeUye_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733255083440357376/1740472740",
-    "followers_count": 956,
-    "statuses_count": 3393,
-    "favourites_count": 34669,
+    "followers_count": 960,
+    "statuses_count": 3422,
+    "favourites_count": 35028,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,37 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzMzMjU1MDgzNDQwMzU3Mzc2",
-        "affiliates_highlighted_label": {},
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @TPR_luv",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 21,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "TPR_luv",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "TPR_luv"
+                                        },
+                                        "rest_id": "1882697857393893376"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -34,7 +64,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 671,
+            "friends_count": 681,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 86,
@@ -51,7 +81,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1702075222000,
-            "updated_at": 1740790882780
+            "updated_at": 1740914914865
         }
     }
 }

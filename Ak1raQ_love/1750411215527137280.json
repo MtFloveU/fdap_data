@@ -6,9 +6,9 @@
     "location": "Революційна Повстанська Армія ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894336406312685568/4hbfc4iL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750411215527137280/1731786850",
-    "followers_count": 1239,
-    "statuses_count": 8874,
-    "favourites_count": 11558,
+    "followers_count": 1238,
+    "statuses_count": 8884,
+    "favourites_count": 11594,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,7 +24,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -35,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1049,
+            "friends_count": 1050,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 491,
@@ -52,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1706165539000,
-            "updated_at": 1740790892655
+            "updated_at": 1740914922903
         }
     }
 }

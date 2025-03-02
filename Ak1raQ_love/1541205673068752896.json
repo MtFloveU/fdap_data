@@ -6,9 +6,9 @@
     "location": "togo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1544707296718045184/DKRksfbR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541205673068752896/1718809448",
-    "followers_count": 146,
+    "followers_count": 145,
     "statuses_count": 1398,
-    "favourites_count": 21961,
+    "favourites_count": 21999,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 90,
+            "friends_count": 89,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 31,
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1656287056000,
-            "updated_at": 1740790805034
+            "updated_at": 1740914851818
         }
     }
 }

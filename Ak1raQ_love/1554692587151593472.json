@@ -6,14 +6,14 @@
     "location": "京都 北宇治",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1755984772776755200/PpEKO3Iv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554692587151593472/1686752258",
-    "followers_count": 1466,
-    "statuses_count": 16079,
-    "favourites_count": 52469,
+    "followers_count": 1489,
+    "statuses_count": 16081,
+    "favourites_count": 52512,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": null,
+    "followed_by": true,
     "created_at": "2022-08-03 12:56:22 +08:00",
     "url": "https://twitter.com/zuifeiwu",
     "metadata": {
@@ -35,11 +35,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1218,
+            "friends_count": 1282,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 470,
-            "pinned_tweet_ids_str": [],
+            "media_count": 455,
+            "pinned_tweet_ids_str": [
+                "1895694448933409172"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -50,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1659502582000,
-            "updated_at": 1740790851937
+            "updated_at": 1740914896516
         }
     }
 }

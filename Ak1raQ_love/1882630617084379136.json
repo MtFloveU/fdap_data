@@ -1,14 +1,14 @@
 {
     "id": "1882630617084379136",
     "screen_name": "XiMaoMao630244",
-    "name": "私は愛してる喜貓貓",
-    "description": "大号@y6302448844989，情绪状态随机。",
+    "name": "私は愛してる喜貓貓（死亡晚自习）",
+    "description": "一代目@y6302448844989，情绪状态随机。",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1882699622189256704/ZDplOP5r_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1895743063693094912/o-eQp_Vp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882630617084379136/1737689472",
-    "followers_count": 194,
-    "statuses_count": 359,
-    "favourites_count": 889,
+    "followers_count": 253,
+    "statuses_count": 442,
+    "favourites_count": 1172,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 478,
+            "friends_count": 598,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 14,
+            "media_count": 23,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,10 +60,23 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "tipjar_settings": {},
+        "professional": {
+            "rest_id": "1895744432559063104",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 962,
+                    "name": "Mobile Application",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
         "twe_private_fields": {
             "created_at": 1737689106000,
-            "updated_at": 1740790851937
+            "updated_at": 1740914896516
         }
     }
 }

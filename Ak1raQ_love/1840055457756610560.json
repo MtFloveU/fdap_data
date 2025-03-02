@@ -6,9 +6,9 @@
     "location": "Mexico, MO",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894173403982303232/tNQZ984g_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840055457756610560/1738845558",
-    "followers_count": 768,
-    "statuses_count": 8348,
-    "favourites_count": 34528,
+    "followers_count": 771,
+    "statuses_count": 8355,
+    "favourites_count": 34524,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1211,
+            "friends_count": 1208,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 505,
+            "media_count": 506,
             "pinned_tweet_ids_str": [
                 "1894219887855186375"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1727538412000,
-            "updated_at": 1740790871541
+            "updated_at": 1740914907432
         }
     }
 }

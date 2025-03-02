@@ -6,9 +6,9 @@
     "location": "中国 山东省",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560129932524544000/1689138489",
-    "followers_count": 3108,
-    "statuses_count": 6371,
-    "favourites_count": 120561,
+    "followers_count": 3105,
+    "statuses_count": 6389,
+    "favourites_count": 120867,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 809,
+            "friends_count": 807,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 429,
+            "media_count": 431,
             "pinned_tweet_ids_str": [
                 "1858024741422117307"
             ],
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1660798946000,
-            "updated_at": 1740790917480
+            "updated_at": 1740914942001
         }
     }
 }

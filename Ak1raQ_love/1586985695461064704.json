@@ -6,9 +6,9 @@
     "location": "美东时间",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882944965245865984/NYd1klff_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586985695461064704/1710560572",
-    "followers_count": 344,
-    "statuses_count": 5502,
-    "favourites_count": 10345,
+    "followers_count": 342,
+    "statuses_count": 5536,
+    "favourites_count": 10417,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -87,10 +87,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 536,
+            "friends_count": 538,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 331,
+            "media_count": 333,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -114,7 +114,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1667201867000,
-            "updated_at": 1740790858932
+            "updated_at": 1740914900796
         }
     }
 }

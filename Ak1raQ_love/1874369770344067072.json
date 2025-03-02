@@ -6,9 +6,9 @@
     "location": "",
     "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
     "profile_banner_url": null,
-    "followers_count": 304359,
-    "statuses_count": 1197,
-    "favourites_count": 2446,
+    "followers_count": 305107,
+    "statuses_count": 1213,
+    "favourites_count": 2444,
     "listed_count": 164,
     "verified_type": null,
     "is_blue_verified": true,
@@ -37,7 +37,7 @@
             "friends_count": 0,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1173,
+            "media_count": 1189,
             "pinned_tweet_ids_str": [
                 "1893878268132028846"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1735719566000,
-            "updated_at": 1740790851937
+            "updated_at": 1740914896517
         }
     }
 }

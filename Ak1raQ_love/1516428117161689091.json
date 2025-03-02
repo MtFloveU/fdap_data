@@ -6,9 +6,9 @@
     "location": "深圳～喵～",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1829205405588959236/dsr23eTn_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516428117161689091/1674905143",
-    "followers_count": 4119,
-    "statuses_count": 33065,
-    "favourites_count": 68734,
+    "followers_count": 4121,
+    "statuses_count": 33144,
+    "favourites_count": 68980,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +37,7 @@
             "friends_count": 435,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 819,
+            "media_count": 821,
             "pinned_tweet_ids_str": [
                 "1888896524958183547"
             ],
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1650379684000,
-            "updated_at": 1740790877191
+            "updated_at": 1740914912278
         }
     }
 }

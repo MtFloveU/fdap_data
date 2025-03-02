@@ -3,15 +3,15 @@
     "screen_name": "saonanaa",
     "name": "Zhi Wei",
     "description": "全面拥护以习近平同志为核心的共产党领导，坚定中国特色社会主义共同理想，坚定听党话、跟党走的政治信念，不断提高马克思主义理论水平和思想觉悟，为了实现中华民族伟大复兴而奋斗！",
-    "location": "🌏",
+    "location": "🌏 Zhejiang",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895392249053347840/nfF2Ivr7_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1739606305",
-    "followers_count": 2269,
-    "statuses_count": 6719,
-    "favourites_count": 12963,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1740903508",
+    "followers_count": 2272,
+    "statuses_count": 6928,
+    "favourites_count": 13245,
     "listed_count": 12,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2023-08-13 11:47:17 +08:00",
@@ -34,14 +34,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 260,
+            "friends_count": 263,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 761,
+            "media_count": 792,
             "pinned_tweet_ids_str": [
-                "1895411078492020840"
+                "1896126989775630338"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -54,7 +54,7 @@
         },
         "twe_private_fields": {
             "created_at": 1691898437000,
-            "updated_at": 1740790911691
+            "updated_at": 1740914936211
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "Melbourne, Victoria",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884827964262805504/tc1hXMI__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1432146992914853893/1654666940",
-    "followers_count": 78,
-    "statuses_count": 1341,
-    "favourites_count": 14259,
+    "followers_count": 79,
+    "statuses_count": 1366,
+    "favourites_count": 14428,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,12 +47,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 260,
+            "friends_count": 252,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 60,
+            "media_count": 65,
             "pinned_tweet_ids_str": [
-                "1895447083056091439"
+                "1895891072490054014"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1630285462000,
-            "updated_at": 1740790858932
+            "updated_at": 1740914900796
         }
     }
 }

@@ -3,11 +3,12 @@
     "screen_name": "JuneSinary",
     "name": "June Sinary(^v^)🏳️‍⚧️🦊🌈🏳️‍⚧️🏳️‍🌈",
     "description": "苍天给了我一条光秃秃的生路，却并没给我一粒走完这条生路需要的干粮",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1862691606245048320/Calc0VsY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736364540722589696/1718638902",
-    "followers_count": 125,
-    "statuses_count": 1759,
-    "favourites_count": 1130,
+    "followers_count": 126,
+    "statuses_count": 1763,
+    "favourites_count": 1131,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -46,10 +47,9 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 298,
+            "friends_count": 300,
             "has_custom_timelines": false,
             "is_translator": false,
-            "location": "",
             "media_count": 172,
             "pinned_tweet_ids_str": [
                 "1885672940731297953"
@@ -76,7 +76,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1702816557000,
-            "updated_at": 1739589210635
+            "updated_at": 1740914849985
         }
     }
 }

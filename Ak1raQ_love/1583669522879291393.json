@@ -6,9 +6,9 @@
     "location": "我家",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1813085933190979587/wDV7-cVd_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1583669522879291393/1718804649",
-    "followers_count": 690,
-    "statuses_count": 3352,
-    "favourites_count": 5620,
+    "followers_count": 689,
+    "statuses_count": 3355,
+    "favourites_count": 5628,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,7 +50,7 @@
             "friends_count": 1078,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 187,
+            "media_count": 189,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1666411223000,
-            "updated_at": 1740790892655
+            "updated_at": 1740914922903
         }
     }
 }

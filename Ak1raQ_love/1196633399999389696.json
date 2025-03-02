@@ -6,9 +6,9 @@
     "location": "東京 渋谷区",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892228002324283392/UuFAjuiC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196633399999389696/1722792727",
-    "followers_count": 45995,
-    "statuses_count": 4022,
-    "favourites_count": 11905,
+    "followers_count": 45983,
+    "statuses_count": 4023,
+    "favourites_count": 11913,
     "listed_count": 182,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +37,7 @@
             "friends_count": 1590,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 266,
+            "media_count": 267,
             "pinned_tweet_ids_str": [
                 "1819596960892178485"
             ],
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1574134617000,
-            "updated_at": 1740790914725
+            "updated_at": 1740914938936
         }
     }
 }

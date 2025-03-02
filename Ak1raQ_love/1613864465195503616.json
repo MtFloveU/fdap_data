@@ -1,15 +1,15 @@
 {
     "id": "1613864465195503616",
     "screen_name": "filer0040",
-    "name": "🎨",
-    "description": "artist, kind of a parody account and shitposter | she/they (🏳️‍⚧️)",
-    "location": "Upper Erisia",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1895627224616972288/pZpbTSM7_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613864465195503616/1740197243",
-    "followers_count": 3976,
-    "statuses_count": 13047,
-    "favourites_count": 35240,
-    "listed_count": 60,
+    "name": "❄️",
+    "description": "artist, shitposter | she/they (🏳️‍⚧️)",
+    "location": "eunoia my beloved",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1896031041158049792/BNppka7j_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613864465195503616/1740884204",
+    "followers_count": 3992,
+    "statuses_count": 13116,
+    "favourites_count": 35443,
+    "listed_count": 63,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1388,
+            "friends_count": 1390,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 4026,
-            "pinned_tweet_ids_str": [],
+            "media_count": 4042,
+            "pinned_tweet_ids_str": [
+                "1896033260012282173"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -54,7 +56,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1673610257000,
-            "updated_at": 1740790867569
+            "updated_at": 1740914905097
         }
     }
 }

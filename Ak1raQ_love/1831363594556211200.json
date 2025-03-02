@@ -6,9 +6,9 @@
     "location": "記錄の地平線",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886089162643931136/GRic7qTg_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831363594556211200/1738733268",
-    "followers_count": 842,
-    "statuses_count": 4162,
-    "favourites_count": 13093,
+    "followers_count": 853,
+    "statuses_count": 4325,
+    "favourites_count": 13365,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 668,
+            "friends_count": 679,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 443,
+            "media_count": 459,
             "pinned_tweet_ids_str": [
                 "1874341139605840370"
             ],
@@ -72,7 +72,7 @@
         },
         "twe_private_fields": {
             "created_at": 1725466103000,
-            "updated_at": 1740790851938
+            "updated_at": 1740914896517
         }
     }
 }

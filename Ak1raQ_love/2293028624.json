@@ -9,7 +9,7 @@
     "followers_count": 55,
     "statuses_count": 741,
     "favourites_count": 309,
-    "listed_count": 0,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1389806953000,
-            "updated_at": 1740790900157
+            "updated_at": 1740914927808
         }
     }
 }

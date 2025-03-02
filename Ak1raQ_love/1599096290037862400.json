@@ -6,9 +6,9 @@
     "location": "Chiyoda-ku, Tokyo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1816499879172247552/adG2KuIZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599096290037862400/1722166944",
-    "followers_count": 1199,
+    "followers_count": 1198,
     "statuses_count": 3272,
-    "favourites_count": 34734,
+    "favourites_count": 34731,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1048,
+            "friends_count": 1046,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 324,
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1670089278000,
-            "updated_at": 1740790882780
+            "updated_at": 1740914914865
         }
     }
 }

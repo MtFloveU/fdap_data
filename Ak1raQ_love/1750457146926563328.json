@@ -6,9 +6,9 @@
     "location": "Uppsala, Sverige",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872155249517207552/pTDXzPwi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750457146926563328/1735986420",
-    "followers_count": 1716,
-    "statuses_count": 7308,
-    "favourites_count": 167504,
+    "followers_count": 1722,
+    "statuses_count": 7318,
+    "favourites_count": 167832,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2033,
+            "friends_count": 2036,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 568,
+            "media_count": 570,
             "pinned_tweet_ids_str": [
                 "1838702958453698629"
             ],
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1706176488000,
-            "updated_at": 1740790908309
+            "updated_at": 1740914933249
         }
     }
 }

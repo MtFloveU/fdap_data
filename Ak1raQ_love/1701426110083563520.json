@@ -5,10 +5,10 @@
     "description": "123",
     "location": "西瓜星球 西瓜种植基地",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874957859307270144/7atK3j1s_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701426110083563520/1735744391",
-    "followers_count": 722,
-    "statuses_count": 16945,
-    "favourites_count": 60459,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701426110083563520/1740898458",
+    "followers_count": 723,
+    "statuses_count": 17063,
+    "favourites_count": 60760,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,14 +34,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1035,
+            "friends_count": 1030,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 426,
+            "media_count": 436,
             "pinned_tweet_ids_str": [
                 "1895448073725435944"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1694486582000,
-            "updated_at": 1740790882780
+            "updated_at": 1740914914865
         }
     }
 }

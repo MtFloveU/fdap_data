@@ -1,14 +1,14 @@
 {
     "id": "1759609422777577472",
     "screen_name": "grammer_214moki",
-    "name": "回归与开始",
+    "name": "Hélène Rytmann",
     "description": "历史是无主体的过程",
     "location": "再見的下一個路口",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1893582947409694720/mWRRxmZI_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759609422777577472/1740300330",
-    "followers_count": 1459,
-    "statuses_count": 16617,
-    "favourites_count": 46723,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1896060288199266304/rpPF71Zo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759609422777577472/1740890974",
+    "followers_count": 1462,
+    "statuses_count": 16628,
+    "favourites_count": 46800,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2607,
+            "friends_count": 2610,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 314,
+            "media_count": 316,
             "pinned_tweet_ids_str": [
                 "1884476762182099451"
             ],
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1708358582000,
-            "updated_at": 1740790892655
+            "updated_at": 1740914922903
         }
     }
 }

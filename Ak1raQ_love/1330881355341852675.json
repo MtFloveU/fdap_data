@@ -6,9 +6,9 @@
     "location": "Hamsterdam",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1837178286075695107/bjhn0YMz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330881355341852675/1606152051",
-    "followers_count": 638,
-    "statuses_count": 3462,
-    "favourites_count": 10131,
+    "followers_count": 648,
+    "statuses_count": 3522,
+    "favourites_count": 10197,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6816,
+            "friends_count": 6848,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 631,
+            "media_count": 633,
             "pinned_tweet_ids_str": [
                 "1865656283787038896"
             ],
@@ -62,7 +62,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1606141826000,
-            "updated_at": 1740790766624
+            "updated_at": 1740914825494
         }
     }
 }

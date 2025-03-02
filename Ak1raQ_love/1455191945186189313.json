@@ -6,9 +6,9 @@
     "location": "香港",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1455192269259100162/e7BTB6U6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455191945186189313/1662191751",
-    "followers_count": 529,
-    "statuses_count": 1965,
-    "favourites_count": 19012,
+    "followers_count": 530,
+    "statuses_count": 1968,
+    "favourites_count": 19111,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,9 +35,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "lelenextworld.t.me",
-                            "expanded_url": "http://lelenextworld.t.me",
-                            "url": "https://t.co/UCmAZ9snJs",
+                            "display_url": "lelenext.t.me",
+                            "expanded_url": "http://lelenext.t.me",
+                            "url": "https://t.co/3SLbYz15pe",
                             "indices": [
                                 0,
                                 23
@@ -57,7 +57,7 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/UCmAZ9snJs",
+            "url": "https://t.co/3SLbYz15pe",
             "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
@@ -76,7 +76,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1635779779000,
-            "updated_at": 1740790830134
+            "updated_at": 1740914874021
         }
     }
 }

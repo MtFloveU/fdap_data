@@ -1,21 +1,21 @@
 {
     "id": "1711431451286396928",
-    "screen_name": "kagurazakachomi",
-    "name": ".",
+    "screen_name": "Valerie_Hyoto",
+    "name": "Hyoto·Valerie",
     "description": "",
     "location": "上海市自来水厂",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894315619694055424/5THgOTjZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711431451286396928/1730617163",
-    "followers_count": 55,
+    "followers_count": 56,
     "statuses_count": 1604,
-    "favourites_count": 6240,
+    "favourites_count": 6246,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-10-10 01:20:41 +08:00",
-    "url": "https://twitter.com/kagurazakachomi",
+    "url": "https://twitter.com/Valerie_Hyoto",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzExNDMxNDUxMjg2Mzk2OTI4",
@@ -63,10 +63,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 73,
+            "friends_count": 74,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 279,
+            "media_count": 278,
             "pinned_tweet_ids_str": [
                 "1872734137263767723"
             ],
@@ -91,7 +91,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1696872041000,
-            "updated_at": 1740790871541
+            "updated_at": 1740914907432
         }
     }
 }

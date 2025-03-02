@@ -6,9 +6,9 @@
     "location": "Japan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879463926951243776/JYf1bDOU_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 2056,
-    "statuses_count": 8948,
-    "favourites_count": 193466,
+    "followers_count": 2069,
+    "statuses_count": 9007,
+    "favourites_count": 194783,
     "listed_count": 14,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,12 +47,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2361,
+            "friends_count": 2385,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 595,
+            "media_count": 600,
             "pinned_tweet_ids_str": [
-                "1894688511590289883"
+                "1896061623594598736"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -68,7 +68,7 @@
         },
         "twe_private_fields": {
             "created_at": 1638636923000,
-            "updated_at": 1740790917480
+            "updated_at": 1740914942001
         }
     }
 }

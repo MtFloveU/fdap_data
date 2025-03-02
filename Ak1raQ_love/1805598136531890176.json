@@ -7,8 +7,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894021976848551936/VxTcWT4Y_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805598136531890176/1737199285",
     "followers_count": 49,
-    "statuses_count": 615,
-    "favourites_count": 2056,
+    "statuses_count": 636,
+    "favourites_count": 2080,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,9 +37,9 @@
             "friends_count": 89,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 24,
+            "media_count": 26,
             "pinned_tweet_ids_str": [
-                "1894633038149292335"
+                "1895858523306942680"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1719323124000,
-            "updated_at": 1740790820606
+            "updated_at": 1740914864004
         }
     }
 }

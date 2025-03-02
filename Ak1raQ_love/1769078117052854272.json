@@ -6,9 +6,9 @@
     "location": "匹诺康尼",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1770720359312240640/qCqdMpdW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769078117052854272/1711007696",
-    "followers_count": 5216,
-    "statuses_count": 55562,
-    "favourites_count": 68517,
+    "followers_count": 5242,
+    "statuses_count": 56278,
+    "favourites_count": 69181,
     "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": false,
@@ -44,10 +44,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3329,
+            "friends_count": 3332,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2959,
+            "media_count": 2989,
             "pinned_tweet_ids_str": [
                 "1874363360755831286"
             ],
@@ -74,7 +74,7 @@
         },
         "twe_private_fields": {
             "created_at": 1710616074000,
-            "updated_at": 1740790908309
+            "updated_at": 1740914933249
         }
     }
 }

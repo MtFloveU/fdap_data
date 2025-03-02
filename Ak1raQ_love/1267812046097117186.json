@@ -6,9 +6,9 @@
     "location": "Sol3",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872809291771707392/cPtKj79K_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267812046097117186/1736325566",
-    "followers_count": 932,
-    "statuses_count": 3788,
-    "favourites_count": 60706,
+    "followers_count": 928,
+    "statuses_count": 3803,
+    "favourites_count": 60967,
     "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2858,
+            "friends_count": 2860,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 366,
+            "media_count": 369,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1591104928000,
-            "updated_at": 1740790877191
+            "updated_at": 1740914912278
         }
     }
 }

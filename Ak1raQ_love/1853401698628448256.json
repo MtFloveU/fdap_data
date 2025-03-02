@@ -6,9 +6,9 @@
     "location": "Madrid, España | 馬德里, 西班牙",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894982913281896448/Oi6ks8xB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853401698628448256/1740634065",
-    "followers_count": 149,
-    "statuses_count": 210,
-    "favourites_count": 2386,
+    "followers_count": 153,
+    "statuses_count": 248,
+    "favourites_count": 2723,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -68,7 +68,7 @@
             "friends_count": 246,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 30,
+            "media_count": 35,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -91,7 +91,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1730720379000,
-            "updated_at": 1740790851937
+            "updated_at": 1740914896516
         }
     }
 }

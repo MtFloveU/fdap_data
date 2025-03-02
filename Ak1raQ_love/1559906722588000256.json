@@ -1,14 +1,14 @@
 {
     "id": "1559906722588000256",
     "screen_name": "Luo_yiyu",
-    "name": "洛忆雨Yiur~川渝暴龙三号体进化！！(●• ̀ω•́ )✧",
+    "name": "洛忆雨Yiur",
     "description": "叫我小洛就好，矛盾迷茫之人，正在努力交友让自己不那么孤单，双相患者，正在努力活着，有证含🍥2024.6.10，经常犯蠢，一会社恐一会话痨的baka，infp，🥰🥰🥰@misaka__networ 学习打ctf，会玩一点业余无线电，呼号BD8ELV，大一土木跑路电科\n晚安🕯🕯@Tianqichen666",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895069168627515393/ogqpHnJY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559906722588000256/1691427413",
-    "followers_count": 1239,
-    "statuses_count": 3703,
-    "favourites_count": 4074,
+    "followers_count": 1305,
+    "statuses_count": 3733,
+    "favourites_count": 4100,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -25,7 +25,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 323,
+            "friends_count": 324,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 364,
+            "media_count": 369,
             "pinned_tweet_ids_str": [
                 "1894682535612825991"
             ],
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1660745728000,
-            "updated_at": 1740790889295
+            "updated_at": 1740914919862
         }
     }
 }
