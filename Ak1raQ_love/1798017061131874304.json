@@ -2,13 +2,13 @@
     "id": "1798017061131874304",
     "screen_name": "cupric_oxide_",
     "name": "氧化铜",
-    "description": "Ten years\n\n提问↓",
+    "description": "好盆友：@ci_shang85157\n\n提问↓",
     "location": "南门二",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1813853619403538432/6azYMx2y_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798017061131874304/1740553995",
-    "followers_count": 331,
-    "statuses_count": 1905,
-    "favourites_count": 16378,
+    "followers_count": 373,
+    "statuses_count": 2475,
+    "favourites_count": 18511,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,11 +47,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 894,
+            "friends_count": 991,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 235,
-            "pinned_tweet_ids_str": [],
+            "media_count": 296,
+            "pinned_tweet_ids_str": [
+                "1894044487418056931"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -65,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1717515659000,
-            "updated_at": 1740914896516
+            "updated_at": 1741399577637
         }
     }
 }

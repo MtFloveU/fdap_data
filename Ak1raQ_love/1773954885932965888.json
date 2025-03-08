@@ -6,10 +6,10 @@
     "location": "Chine",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874838492246888449/5i9jTB3c_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773954885932965888/1712322876",
-    "followers_count": 749,
-    "statuses_count": 749,
-    "favourites_count": 394,
-    "listed_count": 0,
+    "followers_count": 751,
+    "statuses_count": 748,
+    "favourites_count": 392,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -64,7 +64,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2026,
+            "friends_count": 2031,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 10,
@@ -94,7 +94,7 @@
         },
         "twe_private_fields": {
             "created_at": 1711778793000,
-            "updated_at": 1740914905097
+            "updated_at": 1741399586718
         }
     }
 }

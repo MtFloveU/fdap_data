@@ -2,13 +2,13 @@
     "id": "1861775594331193344",
     "screen_name": "mysexhelicopter",
     "name": "Eudora Hodgson",
-    "description": "undergraduate student | like algorithm and cryptography | admire @d_pand79010 | looking for an offer of Theoretical computer science or Coding theory",
+    "description": "undergraduate student | like algorithm and cryptography | admire @d_pand79010 | looking for an offer | https://t.co/Y8oE0yxPNu",
     "location": "Tsingtao",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861784782470066177/7HAKDFQU_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 258,
-    "statuses_count": 162,
-    "favourites_count": 297,
+    "followers_count": 284,
+    "statuses_count": 172,
+    "favourites_count": 395,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,11 +30,21 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/qwq81267",
+                            "expanded_url": "https://ngl.link/qwq81267",
+                            "url": "https://t.co/Y8oE0yxPNu",
+                            "indices": [
+                                103,
+                                126
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1895,
+            "friends_count": 2029,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 3,
@@ -51,7 +61,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1732716878000,
-            "updated_at": 1740914833099
+            "updated_at": 1741399528356
         }
     }
 }

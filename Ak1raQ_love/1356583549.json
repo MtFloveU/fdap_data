@@ -6,10 +6,10 @@
     "location": "東京都新宿区神楽坂５丁目７",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1701949516134375424/nAcSX2PA_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356583549/1689357726",
-    "followers_count": 13192,
-    "statuses_count": 3082,
-    "favourites_count": 15465,
-    "listed_count": 54,
+    "followers_count": 13226,
+    "statuses_count": 3093,
+    "favourites_count": 15562,
+    "listed_count": 55,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 5084,
+            "friends_count": 5089,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 372,
+            "media_count": 374,
             "pinned_tweet_ids_str": [
                 "1700827655258690027"
             ],
@@ -80,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1366108677000,
-            "updated_at": 1740914912278
+            "updated_at": 1741399592094
         }
     }
 }

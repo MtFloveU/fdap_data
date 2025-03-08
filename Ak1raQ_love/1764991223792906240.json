@@ -6,10 +6,10 @@
     "location": "VA-11 HALL-A ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864299916555853824/kzmMGJ_P_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764991223792906240/1725845381",
-    "followers_count": 1562,
-    "statuses_count": 19581,
-    "favourites_count": 189382,
-    "listed_count": 13,
+    "followers_count": 1573,
+    "statuses_count": 19742,
+    "favourites_count": 190346,
+    "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2390,
+            "friends_count": 2412,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 794,
+            "media_count": 809,
             "pinned_tweet_ids_str": [
                 "1837145243860488666"
             ],
@@ -56,7 +57,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1709641694000,
-            "updated_at": 1740914922903
+            "updated_at": 1741399601501
         }
     }
 }

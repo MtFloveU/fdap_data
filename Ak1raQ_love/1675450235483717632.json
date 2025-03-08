@@ -2,11 +2,11 @@
     "id": "1675450235483717632",
     "screen_name": "menma_sub",
     "name": "めんまsub🏳️‍⚧️🍥「追悼アカウント」",
-    "description": "@TianqiChen666のsubアカです｜是めんま的小号｜一个倒垃圾的地方，不定时发疯｜感谢浏览｜このアカウントの発言は消極的に偏っていますので、ご注意してください⚠️｜此账号言论较负面，请注意⚠️",
+    "description": "@TianqiChen666のsubアカです｜是めんま的小号｜一个倒垃圾的地方，不定时发疯｜感谢浏览｜このアカウントの発言は消極的に偏っていますので、ご注意してください⚠️｜此账号言论较负面，请注意⚠️｜@2temisinin保管",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894630918188666880/JeMdfljO_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675450235483717632/1740550203",
-    "followers_count": 582,
+    "followers_count": 581,
     "statuses_count": 644,
     "favourites_count": 1639,
     "listed_count": 6,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 241,
+            "friends_count": 239,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 103,
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1688293450000,
-            "updated_at": 1740914896516
+            "updated_at": 1741399577637
         }
     }
 }

@@ -2,16 +2,16 @@
     "id": "1566815552777383936",
     "screen_name": "TianqiChen666",
     "name": "めんま「追悼アカウント」",
-    "description": "大学生、中国人🇨🇳、いま成都に住んでいる。みんなと仲良くしたい！\n|絡み重視|変な垢以外フォロバ💯|アニメ|kig初心者|恋人🥰：@podf14|里：@menma_sub|興味：#原神、#アークナイツ、#ブルアカ、#ボカロ、#着ぐるみ|\n親友:@haku_dabai @2temisinin\n|匿名質問↓",
+    "description": "大学生、中国人🇨🇳tいま成都に住んでいる。みんなと仲良くしたい！ |絡み重視|変な垢以外フォロバ💯|アニメ|kig初心者|恋人🥰：@podf14|里：@menma_sub|興味：#原神、#アークナイツ、#ブルアカ、#ボカロ、#着ぐるみ| 親友:@haku_dabai @2temisinin（代为保管账号）",
     "location": "Sichuan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894629674883444737/vlmY531Q_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1566815552777383936/1740549891",
-    "followers_count": 14333,
+    "followers_count": 14264,
     "statuses_count": 14440,
-    "favourites_count": 77234,
+    "favourites_count": 77149,
     "listed_count": 56,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-09-05 23:48:41 +08:00",
@@ -32,23 +32,10 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/TianqiChen6665…",
-                            "expanded_url": "https://ngl.link/TianqiChen66655157",
-                            "url": "https://t.co/fCSPq9Gws0",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7309,
+            "friends_count": 7299,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 4541,
@@ -58,7 +45,6 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/fCSPq9Gws0",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -79,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1662392921000,
-            "updated_at": 1740914912278
+            "updated_at": 1741399592094
         }
     }
 }

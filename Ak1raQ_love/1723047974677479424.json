@@ -5,10 +5,10 @@
     "description": "和平，自由，勇气与爱.",
     "location": "Yamanashi-ken, Japan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879697816098119680/sWPuVstQ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723047974677479424/1740913500",
-    "followers_count": 1283,
-    "statuses_count": 5947,
-    "favourites_count": 60845,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723047974677479424/1741332888",
+    "followers_count": 1351,
+    "statuses_count": 6003,
+    "favourites_count": 61470,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,7 +24,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -35,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 109,
+            "friends_count": 110,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1871,
+            "media_count": 1895,
             "pinned_tweet_ids_str": [
                 "1874388397080690801"
             ],
@@ -52,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1699641648000,
-            "updated_at": 1740914905097
+            "updated_at": 1741399588000
         }
     }
 }

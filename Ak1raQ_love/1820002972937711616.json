@@ -1,13 +1,13 @@
 {
     "id": "1820002972937711616",
     "screen_name": "n9tank163",
-    "name": "ʞuɐʇ6u",
+    "name": "n9tank",
     "description": "今天也是坠落的一天，什么时候才能到底呢？",
     "location": "雾之湖旁边的冰屋",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1883120544951787520/3uwmwuT7_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1897628511805775873/EcgOsF3A_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 26,
-    "statuses_count": 304,
+    "statuses_count": 308,
     "favourites_count": 18,
     "listed_count": 0,
     "verified_type": null,
@@ -21,7 +21,7 @@
         "id": "VXNlcjoxODIwMDAyOTcyOTM3NzExNjE2",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -31,19 +31,6 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "github.com/n9tank",
-                            "expanded_url": "http://www.github.com/n9tank",
-                            "url": "https://t.co/dK7pYbygxs",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
@@ -57,7 +44,6 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/dK7pYbygxs",
             "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
@@ -65,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1722757531000,
-            "updated_at": 1740914851820
+            "updated_at": 1741399543184
         }
     }
 }

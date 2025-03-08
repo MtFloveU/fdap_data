@@ -4,11 +4,11 @@
     "name": "シガヌル",
     "description": "高三生 | 最推し涼宮 月姫 | daisukinogal:青空下的加缪 | 可能有些不一定对的思考与感情よろしく | にほんご比English ㄓㄨㄧㄣ比pinyin好的杂鱼 | 我的gpt：千歳ちゃん",
     "location": "Chiyoda-ku Tokyo",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1874294049328537600/d-nZgykp_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1896198014810902528/2ruji5zW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639901078941757440/1711768040",
-    "followers_count": 777,
-    "statuses_count": 2823,
-    "favourites_count": 22791,
+    "followers_count": 768,
+    "statuses_count": 2827,
+    "favourites_count": 22703,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": true,
             "default_profile": true,
@@ -47,12 +48,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 745,
+            "friends_count": 740,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 312,
+            "media_count": 314,
             "pinned_tweet_ids_str": [
-                "1870826973234405849"
+                "1896196594430808246"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -67,7 +68,7 @@
         },
         "twe_private_fields": {
             "created_at": 1679817873000,
-            "updated_at": 1740914922903
+            "updated_at": 1741399601500
         }
     }
 }

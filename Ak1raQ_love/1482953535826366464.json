@@ -6,7 +6,7 @@
     "location": "参宿四",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1817380313687113728/RNCc3VTz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482953535826366464/1721829373",
-    "followers_count": 2323,
+    "followers_count": 2321,
     "statuses_count": 27,
     "favourites_count": 233,
     "listed_count": 10,
@@ -77,7 +77,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4554,
+            "friends_count": 4550,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 4,
@@ -110,7 +110,7 @@
         },
         "twe_private_fields": {
             "created_at": 1642398668000,
-            "updated_at": 1740914881877
+            "updated_at": 1741399569359
         }
     }
 }

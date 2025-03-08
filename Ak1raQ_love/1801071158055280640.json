@@ -6,9 +6,9 @@
     "location": "古月星球",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1822526559611191296/nEadpmJf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801071158055280640/1724835335",
-    "followers_count": 1019,
-    "statuses_count": 4881,
-    "favourites_count": 4165,
+    "followers_count": 1025,
+    "statuses_count": 4949,
+    "favourites_count": 4242,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 177,
+            "friends_count": 173,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 120,
+            "media_count": 122,
             "pinned_tweet_ids_str": [
                 "1888906757235519925"
             ],
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1718243809000,
-            "updated_at": 1740914917681
+            "updated_at": 1741399596727
         }
     }
 }

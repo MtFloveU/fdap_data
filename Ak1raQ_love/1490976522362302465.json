@@ -6,9 +6,9 @@
     "location": "Macau",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889147755748294656/6dvJMfb1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490976522362302465/1738518264",
-    "followers_count": 5841,
-    "statuses_count": 11133,
-    "favourites_count": 7147,
+    "followers_count": 5840,
+    "statuses_count": 11168,
+    "favourites_count": 7141,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1149,
+            "friends_count": 1145,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1625,
+            "media_count": 1633,
             "pinned_tweet_ids_str": [
                 "1892884229991911532"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1644311487000,
-            "updated_at": 1740914917681
+            "updated_at": 1741399596727
         }
     }
 }

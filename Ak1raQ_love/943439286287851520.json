@@ -6,9 +6,9 @@
     "location": "来自夏莱的老师",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/943439286287851520/1699106051",
-    "followers_count": 2764,
-    "statuses_count": 23162,
-    "favourites_count": 88475,
+    "followers_count": 2756,
+    "statuses_count": 23386,
+    "favourites_count": 89424,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4856,
+            "friends_count": 4900,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1879,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1893,
+            "pinned_tweet_ids_str": [
+                "1891806552786403537"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -63,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1513768428000,
-            "updated_at": 1740914936211
+            "updated_at": 1741399616095
         }
     }
 }

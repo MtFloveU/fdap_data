@@ -1,19 +1,19 @@
 {
     "id": "1857335218673483776",
     "screen_name": "mngy289164",
-    "name": "梦雨🍥",
-    "description": "09MTF🍥/幸福......？",
+    "name": "梦雨",
+    "description": "09MTF/杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了",
     "location": "晚安......",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892963684630302720/UiC-xcV2_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857335218673483776/1738173439",
-    "followers_count": 1363,
-    "statuses_count": 259,
-    "favourites_count": 676,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857335218673483776/1741005044",
+    "followers_count": 1540,
+    "statuses_count": 263,
+    "favourites_count": 679,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": true,
+    "followed_by": null,
     "created_at": "2024-11-15 16:10:07 +08:00",
     "url": "https://twitter.com/mngy289164",
     "metadata": {
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 247,
+            "friends_count": 151,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 18,
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1731658207000,
-            "updated_at": 1740914907432
+            "updated_at": 1741399588000
         }
     }
 }

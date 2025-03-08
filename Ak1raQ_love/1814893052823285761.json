@@ -2,13 +2,13 @@
     "id": "1814893052823285761",
     "screen_name": "FakedSky122",
     "name": "FakedSky122",
-    "description": "中国人/Chinese🇨🇳｜男性，友🏳️‍🌈🏳️‍⚧️｜中文/粤语/English/日本語(勉強中)｜ISTP｜喜欢摄影，编程｜百合乐队番痴迷中｜现14岁在读",
+    "description": "中国人/Chinese🇨🇳｜男性，友🏳️‍🌈🏳️‍⚧️｜中文/粤语/English/日本語(勉強中)｜ISTP｜喜欢摄影，编程｜百合乐队番痴迷中｜现14岁在读｜Pixiv：https://t.co/Oagn1nIBoD",
     "location": "Zhaoqing",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882839632670502913/SVIb6Zg8_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814893052823285761/1737098904",
-    "followers_count": 231,
-    "statuses_count": 134,
-    "favourites_count": 11322,
+    "followers_count": 260,
+    "statuses_count": 139,
+    "favourites_count": 11547,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,7 +30,17 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "pixiv.net/users/83799890",
+                            "expanded_url": "https://www.pixiv.net/users/83799890",
+                            "url": "https://t.co/Oagn1nIBoD",
+                            "indices": [
+                                86,
+                                109
+                            ]
+                        }
+                    ]
                 },
                 "url": {
                     "urls": [
@@ -47,10 +57,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 636,
+            "friends_count": 640,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 41,
+            "media_count": 43,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -76,7 +86,7 @@
         },
         "twe_private_fields": {
             "created_at": 1721539210000,
-            "updated_at": 1740914898772
+            "updated_at": 1741399579664
         }
     }
 }

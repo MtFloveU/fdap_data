@@ -6,9 +6,9 @@
     "location": "青島神社",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1863219207162253312/12SBLzL5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729029095659646976/1731482611",
-    "followers_count": 480,
-    "statuses_count": 5258,
-    "favourites_count": 41976,
+    "followers_count": 482,
+    "statuses_count": 5285,
+    "favourites_count": 42055,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -64,10 +64,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 389,
+            "friends_count": 392,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1127,
+            "media_count": 1136,
             "pinned_tweet_ids_str": [
                 "1875231589388689744"
             ],
@@ -83,7 +83,7 @@
         },
         "twe_private_fields": {
             "created_at": 1701067645000,
-            "updated_at": 1740914922903
+            "updated_at": 1741399601500
         }
     }
 }

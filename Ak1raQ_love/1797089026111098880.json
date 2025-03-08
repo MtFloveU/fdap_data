@@ -1,21 +1,21 @@
 {
     "id": "1797089026111098880",
-    "screen_name": "rebirthwingz",
-    "name": "𝜗𝜚 ame.",
-    "description": "https://t.co/ti0HoGhhny\n\na safe space for the hurt , \nwho hurt others ,\nbecause they hurt themselves.",
+    "screen_name": "OMGCutesyAngel",
+    "name": "𝜗𝜚 ame. #promotwt",
+    "description": "https://t.co/FlcgNKRIwU\nwelcome to kangel's page!\n\n╰┈➤kangel art, ame chan art,\n 「 ✦  mental health advice 」daily motivation, etc !\n\nlet me be your angel 🎀",
     "location": "#bpdtwt   ﾉ   #nsotwt ୨୧ ꒱",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889963055230119936/b_oRY_Ia_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797089026111098880/1739437280",
-    "followers_count": 2621,
-    "statuses_count": 5735,
-    "favourites_count": 26326,
+    "followers_count": 2669,
+    "statuses_count": 5790,
+    "favourites_count": 26551,
     "listed_count": 29,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-06-02 10:13:14 +08:00",
-    "url": "https://twitter.com/rebirthwingz",
+    "url": "https://twitter.com/OMGCutesyAngel",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk3MDg5MDI2MTExMDk4ODgw",
@@ -26,19 +26,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @severedwingz",
+                    "text": "Automated by @OMGfailureangel",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 26,
+                            "toIndex": 29,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "severedwingz",
+                                "screen_name": "OMGfailureangel",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "severedwingz"
+                                            "screen_name": "OMGfailureangel"
                                         },
                                         "rest_id": "1878041670899642368"
                                     }
@@ -54,7 +54,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -65,7 +64,7 @@
                         {
                             "display_url": "zephyrs.straw.page",
                             "expanded_url": "https://zephyrs.straw.page",
-                            "url": "https://t.co/ti0HoGhhny",
+                            "url": "https://t.co/FlcgNKRIwU",
                             "indices": [
                                 0,
                                 23
@@ -75,12 +74,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2879,
+            "friends_count": 2912,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1053,
+            "media_count": 1077,
             "pinned_tweet_ids_str": [
-                "1894505249035182207"
+                "1898131494092390745"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -92,7 +91,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1717294394000,
-            "updated_at": 1740914905097
+            "updated_at": 1741399586718
         }
     }
 }

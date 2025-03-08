@@ -6,10 +6,10 @@
     "location": "苏州市",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879396987734474752/GnD-mnHX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378559229754155008/1736919144",
-    "followers_count": 321,
-    "statuses_count": 360,
-    "favourites_count": 1659,
-    "listed_count": 1,
+    "followers_count": 326,
+    "statuses_count": 377,
+    "favourites_count": 1719,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 501,
+            "friends_count": 513,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 34,
+            "media_count": 35,
             "pinned_tweet_ids_str": [
                 "1893194801937342532"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1617509118000,
-            "updated_at": 1740914900796
+            "updated_at": 1741399582240
         }
     }
 }

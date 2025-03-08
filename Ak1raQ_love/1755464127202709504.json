@@ -6,9 +6,9 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1801931126958927872/m-LgHEID_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755464127202709504/1718446826",
-    "followers_count": 106,
-    "statuses_count": 1780,
-    "favourites_count": 3862,
+    "followers_count": 108,
+    "statuses_count": 1796,
+    "favourites_count": 3947,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,14 +34,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1153,
+            "friends_count": 1166,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 15,
             "pinned_tweet_ids_str": [
                 "1873960582581543090"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1707370250000,
-            "updated_at": 1740914869910
+            "updated_at": 1741399559511
         }
     }
 }

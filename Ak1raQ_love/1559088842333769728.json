@@ -6,9 +6,9 @@
     "location": "地球以外",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1805979917391405057/dySmOpSA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559088842333769728/1725648955",
-    "followers_count": 833,
-    "statuses_count": 4057,
-    "favourites_count": 8193,
+    "followers_count": 831,
+    "statuses_count": 4060,
+    "favourites_count": 8214,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1047,
+            "friends_count": 1044,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 514,
+            "media_count": 515,
             "pinned_tweet_ids_str": [
                 "1895523658711646485"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1660550737000,
-            "updated_at": 1740914912278
+            "updated_at": 1741399592094
         }
     }
 }

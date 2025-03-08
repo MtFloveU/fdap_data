@@ -2,13 +2,13 @@
     "id": "908312740455907330",
     "screen_name": "Beta_Estradiol",
     "name": "🍥小秋月🏳️‍⚧",
-    "description": "Stand with🇹🇼/里推/一只09的MtF噢/未炸柜但被迫断糖/化竞生/INFP/sub/视觉设计爱好者/前世600+fo/只通过熟悉的人的follow/因为被晶格找了所以锁推  姐姐：@illusory_p @iluvtale",
+    "description": "Stand with🇹🇼/里推/一只09的MtF噢/未炸柜但被迫断糖/化竞生/INFP/sub",
     "location": "Seattle, WA",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1821401822323679232/gjmZ-8lh_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/908312740455907330/1723091129",
-    "followers_count": 67,
-    "statuses_count": 213,
-    "favourites_count": 1722,
+    "followers_count": 81,
+    "statuses_count": 258,
+    "favourites_count": 2089,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "notifications": true,
             "protected": true,
             "can_dm": true,
             "can_media_tag": false,
@@ -48,13 +49,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 259,
+            "friends_count": 292,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 15,
-            "pinned_tweet_ids_str": [
-                "1872859732601651224"
-            ],
+            "media_count": 16,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -70,7 +69,7 @@
         },
         "twe_private_fields": {
             "created_at": 1505393607000,
-            "updated_at": 1740914912276
+            "updated_at": 1741399592094
         }
     }
 }

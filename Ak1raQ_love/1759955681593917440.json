@@ -6,12 +6,12 @@
     "location": "地球",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1851580126796083201/BZa5z-O3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759955681593917440/1734001138",
-    "followers_count": 650,
-    "statuses_count": 404,
-    "favourites_count": 151,
+    "followers_count": 653,
+    "statuses_count": 416,
+    "favourites_count": 152,
     "listed_count": 1,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-02-20 22:58:41 +08:00",
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 346,
+            "friends_count": 347,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 105,
+            "media_count": 114,
             "pinned_tweet_ids_str": [
                 "1884266070405681243"
             ],
@@ -68,7 +68,7 @@
         },
         "twe_private_fields": {
             "created_at": 1708441121000,
-            "updated_at": 1740914905097
+            "updated_at": 1741399586718
         }
     }
 }

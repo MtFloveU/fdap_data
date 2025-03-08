@@ -6,9 +6,9 @@
     "location": "Republic of Transland🏳️‍⚧️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1729445425055248384/2sTIZPo0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617138994227339265/1740294531",
-    "followers_count": 1058,
-    "statuses_count": 3371,
-    "favourites_count": 6627,
+    "followers_count": 1064,
+    "statuses_count": 3474,
+    "favourites_count": 6799,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": true,
@@ -47,13 +47,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 853,
+            "friends_count": 863,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 688,
-            "pinned_tweet_ids_str": [
-                "1820800626856509794"
-            ],
+            "media_count": 698,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -76,7 +74,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1674390977000,
-            "updated_at": 1740914936211
+            "updated_at": 1741399613568
         }
     }
 }

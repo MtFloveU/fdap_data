@@ -6,12 +6,12 @@
     "location": "DX3906星系黑域",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892950736281157632/VJ_4-EDX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317477880314486785/1740153696",
-    "followers_count": 1167,
-    "statuses_count": 2789,
-    "favourites_count": 10040,
-    "listed_count": 4,
+    "followers_count": 1165,
+    "statuses_count": 2795,
+    "favourites_count": 10061,
+    "listed_count": 3,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2020-10-17 22:49:48 +08:00",
@@ -77,7 +77,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1397,
+            "friends_count": 1398,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 253,
@@ -109,7 +109,7 @@
         },
         "twe_private_fields": {
             "created_at": 1602946188000,
-            "updated_at": 1740914927807
+            "updated_at": 1741399606114
         }
     }
 }

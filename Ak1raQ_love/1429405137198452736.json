@@ -1,21 +1,21 @@
 {
     "id": "1429405137198452736",
-    "screen_name": "Ruri_Mitsuki",
-    "name": "铃木樱雪#SuzukiProject",
-    "description": "18，🇨🇳🏳️‍⚧️，HRT:2024/2/10，重度双向精分/ADHD，号主已换屏蔽拉黑过我的请解除，同类互Fo私信",
-    "location": "Catisland",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1894829014130327552/HqovqF9F_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429405137198452736/1740597171",
-    "followers_count": 7632,
-    "statuses_count": 19179,
-    "favourites_count": 123402,
+    "screen_name": "MissSuzuki3301",
+    "name": "鈴木真依-Truth_Suzuki",
+    "description": "I can drink nitric acid cause, it won't hurt me.",
+    "location": "台灣 台北/中國重慶/日本東京 ",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1898163261801218048/SQ7wnmnx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429405137198452736/1741393047",
+    "followers_count": 7649,
+    "statuses_count": 19192,
+    "favourites_count": 123469,
     "listed_count": 38,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2021-08-22 19:28:44 +08:00",
-    "url": "https://twitter.com/Ruri_Mitsuki",
+    "url": "https://twitter.com/MissSuzuki3301",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDI5NDA1MTM3MTk4NDUyNzM2",
@@ -31,33 +31,17 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/Catisland_Inc",
-                            "expanded_url": "https://t.me/Catisland_Inc",
-                            "url": "https://t.co/HVN4UcawjA",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 872,
+            "friends_count": 877,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 3258,
-            "pinned_tweet_ids_str": [
-                "1895293588805660793"
-            ],
+            "media_count": 3259,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/HVN4UcawjA",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -81,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1629631724000,
-            "updated_at": 1740914914864
+            "updated_at": 1741399594535
         }
     }
 }

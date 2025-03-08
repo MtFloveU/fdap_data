@@ -5,10 +5,10 @@
     "description": "我会友善的对待每一位推友的哟 ✧(≖ ◡ ≖✿)",
     "location": "D.P.R.KOREN",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872123086683901952/OLhb4dEw_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845668678387515392/1737996029",
-    "followers_count": 663,
-    "statuses_count": 5684,
-    "favourites_count": 61509,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845668678387515392/1741008676",
+    "followers_count": 684,
+    "statuses_count": 5921,
+    "favourites_count": 65579,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,14 +47,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 401,
+            "friends_count": 411,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 410,
-            "pinned_tweet_ids_str": [
-                "1894277397236912398"
-            ],
-            "possibly_sensitive": false,
+            "media_count": 435,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/QenrBcUdw5",
@@ -65,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1728876687000,
-            "updated_at": 1740914900796
+            "updated_at": 1741399582240
         }
     }
 }

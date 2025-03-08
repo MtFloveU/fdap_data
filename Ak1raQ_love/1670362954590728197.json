@@ -1,14 +1,14 @@
 {
     "id": "1670362954590728197",
     "screen_name": "Kagurazakahyoto",
-    "name": "神楽坂温原🍥◂Ⓘ▸",
-    "description": "she/her | trans girl🏳️‍⚧️| MTX|:HRT：2025/01/14|07｜无证含糖 |永远17岁|中 ENG｜双相|bpd 喜欢@lemon_bocchi_",
+    "name": "神楽坂温原🍥🌂",
+    "description": "she/her | trans girl🏳️‍⚧️| MTX|:HRT：2025/01/14|07｜无证含糖 |永远17岁|中 ENG｜双相|bpd 喜欢@kiriyama_lemon",
     "location": "土星",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1893199118484545536/BR7AlSOt_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670362954590728197/1740625314",
-    "followers_count": 539,
-    "statuses_count": 817,
-    "favourites_count": 0,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1898076200914108420/-BfBNND__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670362954590728197/1740919082",
+    "followers_count": 623,
+    "statuses_count": 1362,
+    "favourites_count": 5553,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,37 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjcwMzYyOTU0NTkwNzI4MTk3",
-        "affiliates_highlighted_label": {},
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Single_Hyoto",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 26,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Single_Hyoto",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Single_Hyoto"
+                                        },
+                                        "rest_id": "1680834021377593344"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -34,12 +64,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 16,
+            "friends_count": 895,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 131,
+            "media_count": 184,
             "pinned_tweet_ids_str": [
-                "1759151656946766187"
+                "1897212243445735651"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -53,7 +83,7 @@
         },
         "twe_private_fields": {
             "created_at": 1687080552000,
-            "updated_at": 1740914902981
+            "updated_at": 1741399584062
         }
     }
 }

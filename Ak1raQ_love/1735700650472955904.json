@@ -6,10 +6,10 @@
     "location": "精神卫生中心",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866537587122515968/8WVcBKAk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735700650472955904/1731512321",
-    "followers_count": 615,
-    "statuses_count": 2147,
-    "favourites_count": 14135,
-    "listed_count": 2,
+    "followers_count": 624,
+    "statuses_count": 2246,
+    "favourites_count": 14608,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -35,9 +35,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "t.me/ErQiu13",
-                            "expanded_url": "http://t.me/ErQiu13",
-                            "url": "https://t.co/2kwwj5vRxH",
+                            "display_url": "ngl.link/erqiu80131",
+                            "expanded_url": "https://ngl.link/erqiu80131",
+                            "url": "https://t.co/rQbp7InDUv",
                             "indices": [
                                 0,
                                 23
@@ -47,17 +47,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1390,
+            "friends_count": 1408,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 280,
+            "media_count": 292,
             "pinned_tweet_ids_str": [
                 "1895347907588694421"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/2kwwj5vRxH",
+            "url": "https://t.co/rQbp7InDUv",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1702658272000,
-            "updated_at": 1740914912276
+            "updated_at": 1741399592094
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "地球🌍",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883898030321270784/-_Bt-JBc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753847571263488000/1731704991",
-    "followers_count": 2361,
-    "statuses_count": 273,
-    "favourites_count": 4198,
+    "followers_count": 2405,
+    "statuses_count": 276,
+    "favourites_count": 4216,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1609,
+            "friends_count": 1610,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 114,
@@ -62,7 +62,7 @@
         },
         "twe_private_fields": {
             "created_at": 1706984889000,
-            "updated_at": 1740914933249
+            "updated_at": 1741399611162
         }
     }
 }

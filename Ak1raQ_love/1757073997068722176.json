@@ -6,7 +6,7 @@
     "location": "キヴォトス",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889525648059777024/BInjFzr9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757073997068722176/1722431429",
-    "followers_count": 19,
+    "followers_count": 20,
     "statuses_count": 95,
     "favourites_count": 340,
     "listed_count": 0,
@@ -20,7 +20,7 @@
         "__typename": "User",
         "id": "VXNlcjoxNzU3MDczOTk3MDY4NzIyMTc2",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
+        "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1707754078000,
-            "updated_at": 1740914922903
+            "updated_at": 1741399601500
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "喵星",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1835902542120927232/-eUty_Gp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1566662742047477760/1662624400",
-    "followers_count": 5479,
-    "statuses_count": 10034,
-    "favourites_count": 9133,
+    "followers_count": 5494,
+    "statuses_count": 10051,
+    "favourites_count": 9149,
     "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": true,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3452,
+            "friends_count": 3446,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 696,
+            "media_count": 697,
             "pinned_tweet_ids_str": [
                 "1718767915791729142"
             ],
@@ -74,7 +74,7 @@
         },
         "twe_private_fields": {
             "created_at": 1662356493000,
-            "updated_at": 1740914912278
+            "updated_at": 1741399592094
         }
     }
 }

@@ -3,12 +3,12 @@
     "screen_name": "ylmjc6",
     "name": "YLmmc",
     "description": "hello",
-    "location": "東京 港区",
+    "location": "Minato-ku, Tokyo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894731311392477185/Sy0KkdUP_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626412637973274627/1719097362",
     "followers_count": 19,
-    "statuses_count": 89,
-    "favourites_count": 459,
+    "statuses_count": 90,
+    "favourites_count": 464,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -66,7 +66,7 @@
         },
         "twe_private_fields": {
             "created_at": 1676601979000,
-            "updated_at": 1740914922903
+            "updated_at": 1741399601501
         }
     }
 }

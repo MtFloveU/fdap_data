@@ -3,12 +3,12 @@
     "screen_name": "Alice14_88",
     "name": "𝔄𝔩𝔦𝔠𝔢",
     "description": "我决定为我的大脑做件善事/@Minamikaze_1995",
-    "location": "阜姆集团",
+    "location": "萨洛共和国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1893273240640069634/GdW0BAbp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819944260239851520/1740209267",
-    "followers_count": 1493,
-    "statuses_count": 10823,
-    "favourites_count": 23190,
+    "followers_count": 1519,
+    "statuses_count": 10948,
+    "favourites_count": 23562,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,7 +24,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -35,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2007,
+            "friends_count": 2030,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 970,
+            "media_count": 977,
             "pinned_tweet_ids_str": [
                 "1893208949001789801"
             ],
@@ -52,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1722743506000,
-            "updated_at": 1740914912278
+            "updated_at": 1741399592094
         }
     }
 }

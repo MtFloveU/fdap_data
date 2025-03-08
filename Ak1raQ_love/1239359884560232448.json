@@ -6,10 +6,10 @@
     "location": "赛博空间",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866042968182046720/flvjCgkO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239359884560232448/1659282159",
-    "followers_count": 934,
-    "statuses_count": 5829,
-    "favourites_count": 10980,
-    "listed_count": 5,
+    "followers_count": 961,
+    "statuses_count": 5967,
+    "favourites_count": 11254,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2547,
+            "friends_count": 2608,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 287,
+            "media_count": 294,
             "pinned_tweet_ids_str": [
                 "1888238052403003795"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1584321414000,
-            "updated_at": 1740914907432
+            "updated_at": 1741399588000
         }
     }
 }
