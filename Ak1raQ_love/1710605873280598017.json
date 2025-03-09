@@ -1,0 +1,68 @@
+{
+    "id": "1710605873280598017",
+    "screen_name": "ToToffeeQwQ",
+    "name": "ToToffee",
+    "description": "男丨07丨183/57丨不约不线下丨欢迎互推",
+    "location": "距离你≤10m",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1806596532210475008/rpfh9SlB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1710605873280598017/1719804101",
+    "followers_count": 5399,
+    "statuses_count": 1302,
+    "favourites_count": 5671,
+    "listed_count": 20,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-10-07 18:40:12 +08:00",
+    "url": "https://twitter.com/ToToffeeQwQ",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzEwNjA1ODczMjgwNTk4MDE3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 705,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 6,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1736350388008493400",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 640,
+                    "name": "Proctologist",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1696675212000,
+            "updated_at": 1741524775002
+        }
+    }
+}

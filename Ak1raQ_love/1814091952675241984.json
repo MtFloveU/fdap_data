@@ -6,9 +6,9 @@
     "location": "你心里",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866105834331340801/cgOdoGRE_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814091952675241984/1721448635",
-    "followers_count": 1333,
-    "statuses_count": 1024,
-    "favourites_count": 5882,
+    "followers_count": 1353,
+    "statuses_count": 1043,
+    "favourites_count": 6129,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1230,
+            "friends_count": 1199,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 72,
+            "media_count": 75,
             "pinned_tweet_ids_str": [
                 "1845846553216626725"
             ],
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1721348213000,
-            "updated_at": 1741399588000
+            "updated_at": 1741524788335
         }
     }
 }

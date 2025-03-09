@@ -6,9 +6,9 @@
     "location": "中国-四川省",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872460637403852800/NAq594BI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605171476881371136/1730541111",
-    "followers_count": 2232,
-    "statuses_count": 15702,
-    "favourites_count": 20799,
+    "followers_count": 2239,
+    "statuses_count": 15720,
+    "favourites_count": 20824,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +37,7 @@
             "friends_count": 1431,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1082,
+            "media_count": 1083,
             "pinned_tweet_ids_str": [
                 "1849401311860867118"
             ],
@@ -58,7 +58,7 @@
         },
         "twe_private_fields": {
             "created_at": 1671537684000,
-            "updated_at": 1741399617868
+            "updated_at": 1741524810415
         }
     }
 }

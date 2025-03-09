@@ -6,9 +6,9 @@
     "location": "RING",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897997193623252992/jWbGW5SS_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1501548463208955904/1738911371",
-    "followers_count": 612,
-    "statuses_count": 332,
-    "favourites_count": 4687,
+    "followers_count": 611,
+    "statuses_count": 333,
+    "favourites_count": 4728,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1324,
+            "friends_count": 1327,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 21,
+            "media_count": 22,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -76,7 +76,7 @@
         },
         "twe_private_fields": {
             "created_at": 1646832040000,
-            "updated_at": 1741399603667
+            "updated_at": 1741524799101
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "重庆 马来西亚/（广东省）闽粤交界",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872200034487611392/VRQbEUx2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795137310935408640/1729710651",
-    "followers_count": 1237,
-    "statuses_count": 24502,
-    "favourites_count": 70603,
+    "followers_count": 1239,
+    "statuses_count": 24544,
+    "favourites_count": 70690,
     "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": false,
@@ -80,10 +80,8 @@
             "friends_count": 1525,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1784,
-            "pinned_tweet_ids_str": [
-                "1887538884273439096"
-            ],
+            "media_count": 1789,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -95,7 +93,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716829078000,
-            "updated_at": 1741399596727
+            "updated_at": 1741524794361
         }
     }
 }

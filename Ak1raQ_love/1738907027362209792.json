@@ -6,8 +6,8 @@
     "location": "白雪的笼子里",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738907027362209792/1729176342",
-    "followers_count": 726,
-    "statuses_count": 1916,
+    "followers_count": 759,
+    "statuses_count": 1921,
     "favourites_count": 953,
     "listed_count": 3,
     "verified_type": null,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 776,
+            "friends_count": 787,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 285,
+            "media_count": 286,
             "pinned_tweet_ids_str": [
                 "1838745643696963894"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1703422726000,
-            "updated_at": 1741399586718
+            "updated_at": 1741524784500
         }
     }
 }

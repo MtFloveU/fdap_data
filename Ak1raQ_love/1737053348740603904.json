@@ -1,0 +1,71 @@
+{
+    "id": "1737053348740603904",
+    "screen_name": "shiroko2024",
+    "name": "砂狼白子",
+    "description": "白子单推人！！！\n妈妈 @kurioshifio | 好朋友 @GlimpseAbyss | 爱你 @squirrelGUW | 互fo100％查成分",
+    "location": "阿拜多斯职业高中",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1897940585606242304/H60B0hSx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737053348740603904/1727352459",
+    "followers_count": 6906,
+    "statuses_count": 12476,
+    "favourites_count": 164592,
+    "listed_count": 24,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-12-19 18:13:24 +08:00",
+    "url": "https://twitter.com/shiroko2024",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzM3MDUzMzQ4NzQwNjAzOTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/shirok…",
+                            "expanded_url": "https://bsky.app/profile/shiroko2024.bsky.social",
+                            "url": "https://t.co/ourvdZc0Xc",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1345,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 1434,
+            "pinned_tweet_ids_str": [
+                "1892241303770964050"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/ourvdZc0Xc",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1702980804000,
+            "updated_at": 1741524775002
+        }
+    }
+}

@@ -6,9 +6,9 @@
     "location": "帕拉迪岛",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894479853765726208/WMvXgosb_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1732085087",
-    "followers_count": 4212,
-    "statuses_count": 504,
-    "favourites_count": 21536,
+    "followers_count": 4219,
+    "statuses_count": 510,
+    "favourites_count": 21680,
     "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1209,
+            "friends_count": 1203,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 99,
+            "media_count": 102,
             "pinned_tweet_ids_str": [
                 "1841674811069825079"
             ],
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716813658000,
-            "updated_at": 1741399594535
+            "updated_at": 1741524792004
         }
     }
 }

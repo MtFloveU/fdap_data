@@ -6,13 +6,13 @@
     "location": "北京通州中南海",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891889932307959808/OVjWcqCA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888192531277737984/1739015713",
-    "followers_count": 551,
-    "statuses_count": 1029,
-    "favourites_count": 2366,
+    "followers_count": 588,
+    "statuses_count": 1180,
+    "favourites_count": 2662,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2025-02-08 19:46:05 +08:00",
     "url": "https://twitter.com/small_fun8964",
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1210,
+            "friends_count": 1263,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 161,
+            "media_count": 179,
             "pinned_tweet_ids_str": [
                 "1892221735530836159"
             ],
@@ -59,13 +59,13 @@
             "translator_type": "none",
             "url": "https://t.co/48QYIK5jft",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1739015165000,
-            "updated_at": 1741399517358
+            "updated_at": 1741524775003
         }
     }
 }

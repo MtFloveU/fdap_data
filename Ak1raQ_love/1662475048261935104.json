@@ -6,9 +6,9 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1862287465144623106/Umc_K7dA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662475048261935104/1685200150",
-    "followers_count": 256,
+    "followers_count": 255,
     "statuses_count": 1971,
-    "favourites_count": 12263,
+    "favourites_count": 12207,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 720,
+            "friends_count": 719,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 62,
@@ -50,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1685199921000,
-            "updated_at": 1741399599262
+            "updated_at": 1741524795813
         }
     }
 }

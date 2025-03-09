@@ -6,9 +6,9 @@
     "location": "Corner of magical forest",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1896446926117376001/Izn0iOIl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350616739848073220/1724138436",
-    "followers_count": 5198,
-    "statuses_count": 2581,
-    "favourites_count": 8452,
+    "followers_count": 5226,
+    "statuses_count": 2593,
+    "favourites_count": 8462,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
@@ -44,10 +44,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1641,
+            "friends_count": 1643,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 484,
+            "media_count": 488,
             "pinned_tweet_ids_str": [
                 "1897137187315159246"
             ],
@@ -63,7 +63,7 @@
         },
         "twe_private_fields": {
             "created_at": 1610847113000,
-            "updated_at": 1741399599262
+            "updated_at": 1741524795813
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "Eientē,The MNC,P.R.Gensokyo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1867609944859754496/LNawlrIs_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461971113362145280/1734107926",
-    "followers_count": 1735,
-    "statuses_count": 46058,
-    "favourites_count": 34628,
+    "followers_count": 1737,
+    "statuses_count": 46142,
+    "favourites_count": 34688,
     "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,7 +50,7 @@
             "friends_count": 2210,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 2874,
+            "media_count": 2893,
             "pinned_tweet_ids_str": [
                 "1851598915147100160"
             ],
@@ -72,7 +72,7 @@
         },
         "twe_private_fields": {
             "created_at": 1637396060000,
-            "updated_at": 1741399596727
+            "updated_at": 1741524794361
         }
     }
 }

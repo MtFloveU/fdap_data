@@ -1,0 +1,57 @@
+{
+    "id": "1841769775686680581",
+    "screen_name": "FBYriyo",
+    "name": "小FY",
+    "description": "是一个喜欢看动漫的小男娘哦",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1898085265664884737/oY9c2-rw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841769775686680581/1727948643",
+    "followers_count": 98,
+    "statuses_count": 25,
+    "favourites_count": 51,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-10-03 17:20:34 +08:00",
+    "url": "https://twitter.com/FBYriyo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQxNzY5Nzc1Njg2NjgwNTgx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 148,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 4,
+            "pinned_tweet_ids_str": [
+                "1898261047729176589"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1727947234000,
+            "updated_at": 1741524709215
+        }
+    }
+}

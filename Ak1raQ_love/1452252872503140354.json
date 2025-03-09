@@ -6,9 +6,9 @@
     "location": "Netherlands",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892672853943648256/GAXKnmgm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452252872503140354/1724041967",
-    "followers_count": 1376,
-    "statuses_count": 13836,
-    "favourites_count": 34974,
+    "followers_count": 1374,
+    "statuses_count": 13894,
+    "favourites_count": 35132,
     "listed_count": 24,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,8 +50,10 @@
             "friends_count": 334,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1125,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1132,
+            "pinned_tweet_ids_str": [
+                "1898260333443125428"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -68,7 +70,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1635079143000,
-            "updated_at": 1741399584062
+            "updated_at": 1741524783106
         }
     }
 }

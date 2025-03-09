@@ -1,14 +1,14 @@
 {
     "id": "1567505290026958848",
     "screen_name": "woshiami",
-    "name": "阿mi（淡推）",
-    "description": "客服小祥,随时待命！（大概吧）",
+    "name": "阿mi",
+    "description": "客服小祥,随时待命！",
     "location": "距您2.8km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887872470319022080/E1KjNWh5_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567505290026958848/1738236147",
-    "followers_count": 1902,
-    "statuses_count": 4798,
-    "favourites_count": 63515,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567505290026958848/1741438803",
+    "followers_count": 1913,
+    "statuses_count": 4861,
+    "favourites_count": 64396,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,14 +47,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1995,
+            "friends_count": 2022,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 833,
+            "media_count": 847,
             "pinned_tweet_ids_str": [
                 "1876099002103746722"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/5BLeIu7ql7",
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1662557397000,
-            "updated_at": 1741399606114
+            "updated_at": 1741524800898
         }
     }
 }

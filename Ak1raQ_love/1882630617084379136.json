@@ -6,9 +6,9 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895743063693094912/o-eQp_Vp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882630617084379136/1737689472",
-    "followers_count": 348,
-    "statuses_count": 567,
-    "favourites_count": 1595,
+    "followers_count": 396,
+    "statuses_count": 618,
+    "favourites_count": 1766,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,12 +47,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 802,
+            "friends_count": 882,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 35,
+            "media_count": 44,
             "pinned_tweet_ids_str": [
-                "1897952790800220437"
+                "1898655494320824536"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1737689106000,
-            "updated_at": 1741399577637
+            "updated_at": 1741524775003
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "44怀里~",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1618954126871924741/ZXkOdYhu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427572752358141956/1740825186",
-    "followers_count": 1711,
+    "followers_count": 1710,
     "statuses_count": 4859,
-    "favourites_count": 31628,
+    "favourites_count": 31675,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -31,33 +31,19 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/+x0xvld9DC78yM…",
-                            "expanded_url": "https://t.me/+x0xvld9DC78yMjk0",
-                            "url": "https://t.co/xLlFX14WkX",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1597,
+            "friends_count": 1596,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 137,
+            "media_count": 134,
             "pinned_tweet_ids_str": [
                 "1888656037705855197"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/xLlFX14WkX",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -65,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1629194851000,
-            "updated_at": 1741399594535
+            "updated_at": 1741524792004
         }
     }
 }

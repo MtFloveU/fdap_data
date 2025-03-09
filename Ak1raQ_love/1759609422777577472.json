@@ -1,14 +1,14 @@
 {
     "id": "1759609422777577472",
     "screen_name": "newland_rev24",
-    "name": "Hélène Rytmann",
-    "description": "如果有希望，希望就蕴藏在群众运动中",
+    "name": "최건",
+    "description": "一无所有",
     "location": "再見的下一個路口",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1896060288199266304/rpPF71Zo_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759609422777577472/1740890974",
-    "followers_count": 1451,
-    "statuses_count": 16640,
-    "favourites_count": 46774,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1898608511866580992/z33qv16R_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759609422777577472/1741498520",
+    "followers_count": 1447,
+    "statuses_count": 16704,
+    "favourites_count": 46953,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,7 +24,6 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -35,12 +34,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2604,
+            "friends_count": 2610,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 316,
+            "media_count": 317,
             "pinned_tweet_ids_str": [
-                "1884476762182099451"
+                "1898267085257560192"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -52,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1708358582000,
-            "updated_at": 1741399601501
+            "updated_at": 1741524797454
         }
     }
 }

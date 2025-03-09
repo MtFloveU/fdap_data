@@ -6,9 +6,9 @@
     "location": "Manchester, England",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1849346857899794432/uCUcHsi6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756696963016474624/1732127218",
-    "followers_count": 390,
+    "followers_count": 391,
     "statuses_count": 1182,
-    "favourites_count": 32828,
+    "favourites_count": 32874,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 986,
+            "friends_count": 987,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 81,
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1707664181000,
-            "updated_at": 1741399596727
+            "updated_at": 1741524794362
         }
     }
 }

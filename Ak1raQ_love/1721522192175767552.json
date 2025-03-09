@@ -6,9 +6,9 @@
     "location": "猫猫星",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873906145099935744/CkpOKBHa_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721522192175767552/1740062875",
-    "followers_count": 1233,
-    "statuses_count": 2132,
-    "favourites_count": 49465,
+    "followers_count": 1229,
+    "statuses_count": 2130,
+    "favourites_count": 49345,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,7 +24,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": true,
             "default_profile": true,
@@ -35,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1387,
+            "friends_count": 1388,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 201,
@@ -52,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1699277861000,
-            "updated_at": 1741399617867
+            "updated_at": 1741524810415
         }
     }
 }

@@ -6,10 +6,10 @@
     "location": "你的心里",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897659266326020096/YUzUza1f_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479696561302999042/1718372140",
-    "followers_count": 5666,
-    "statuses_count": 10393,
-    "favourites_count": 22461,
-    "listed_count": 10,
+    "followers_count": 6236,
+    "statuses_count": 10471,
+    "favourites_count": 22615,
+    "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -44,10 +44,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2123,
+            "friends_count": 2196,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 544,
+            "media_count": 547,
             "pinned_tweet_ids_str": [
                 "1887176415617163394"
             ],
@@ -63,7 +63,7 @@
         },
         "twe_private_fields": {
             "created_at": 1641622148000,
-            "updated_at": 1741399617868
+            "updated_at": 1741524810415
         }
     }
 }

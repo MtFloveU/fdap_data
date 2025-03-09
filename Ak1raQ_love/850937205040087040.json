@@ -6,9 +6,9 @@
     "location": "Machida-shi, Tokyo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892957757739024384/zqtY7usg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/850937205040087040/1740151173",
-    "followers_count": 20628,
-    "statuses_count": 10875,
-    "favourites_count": 44593,
+    "followers_count": 20637,
+    "statuses_count": 10889,
+    "favourites_count": 44652,
     "listed_count": 50,
     "verified_type": null,
     "is_blue_verified": true,
@@ -57,7 +57,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 10483,
+            "friends_count": 10493,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 1909,
@@ -90,7 +90,7 @@
         },
         "twe_private_fields": {
             "created_at": 1491714214000,
-            "updated_at": 1741399564470
+            "updated_at": 1741524758712
         }
     }
 }

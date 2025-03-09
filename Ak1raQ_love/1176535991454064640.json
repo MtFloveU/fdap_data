@@ -2,16 +2,16 @@
     "id": "1176535991454064640",
     "screen_name": "lumigj02",
     "name": "ؘ",
-    "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200",
-    "location": "Singapore",
+    "description": "💖 @HobartR6",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1741253128",
-    "followers_count": 2111,
-    "statuses_count": 10429,
-    "favourites_count": 25501,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1741516825",
+    "followers_count": 2147,
+    "statuses_count": 10541,
+    "favourites_count": 25558,
     "listed_count": 11,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2019-09-25 00:37:04 +08:00",
@@ -61,45 +61,31 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/lumigj",
-                            "expanded_url": "https://t.me/lumigj",
-                            "url": "https://t.co/xnU7yfJnaD",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 853,
+            "friends_count": 871,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 936,
+            "media_count": 943,
             "pinned_tweet_ids_str": [
-                "1897879808396153106"
+                "1897934948197445982"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/xnU7yfJnaD",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {
             "is_enabled": true,
-            "bitcoin_handle": "bc1qzgnmqn6tv8l3urytxm6g5tyvzaqjxmxze356vm",
-            "ethereum_handle": "0x9A504F5c32E4640372dca43EF2e243f28D89C481"
+            "bitcoin_handle": "bc1qld490vqvffyz00c526dp3vq70a3gpk477kuj8r",
+            "ethereum_handle": "0xBf59649c1A3652Df1947d72bC1e3cF813c864Cd3"
         },
         "twe_private_fields": {
             "created_at": 1569343024000,
-            "updated_at": 1741399592094
+            "updated_at": 1741524789699
         }
     }
 }

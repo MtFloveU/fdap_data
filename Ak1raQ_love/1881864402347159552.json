@@ -4,11 +4,11 @@
     "name": "Alice",
     "description": "？",
     "location": "ᛦ",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898035021505511424/iZs8DLrt_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1898325929383870464/R8spPTkQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881864402347159552/1740294507",
-    "followers_count": 81,
-    "statuses_count": 233,
-    "favourites_count": 412,
+    "followers_count": 82,
+    "statuses_count": 262,
+    "favourites_count": 512,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,12 +35,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 91,
+            "friends_count": 96,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 8,
+            "media_count": 9,
             "pinned_tweet_ids_str": [
-                "1883497559735595162"
+                "1898632174741414107"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1737506419000,
-            "updated_at": 1741399579664
+            "updated_at": 1741524777921
         }
     }
 }

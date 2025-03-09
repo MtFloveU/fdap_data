@@ -6,8 +6,8 @@
     "location": "ZheJiang NingBo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1815436051437285380/AdFj8fW3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618557658163970049/1721668658",
-    "followers_count": 555,
-    "statuses_count": 299,
+    "followers_count": 557,
+    "statuses_count": 300,
     "favourites_count": 461,
     "listed_count": 4,
     "verified_type": null,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 803,
+            "friends_count": 802,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 97,
+            "media_count": 98,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1674729199000,
-            "updated_at": 1741399584062
+            "updated_at": 1741524783107
         }
     }
 }
