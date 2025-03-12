@@ -6,9 +6,9 @@
     "location": "1.7km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897685318586748928/5-v6ctNP_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1423220645383475200/1741170240",
-    "followers_count": 1542,
-    "statuses_count": 16788,
-    "favourites_count": 12618,
+    "followers_count": 1493,
+    "statuses_count": 16877,
+    "favourites_count": 12768,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 980,
+            "friends_count": 979,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1107,
+            "media_count": 1114,
             "pinned_tweet_ids_str": [
                 "1862539669592031578"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1628157234000,
-            "updated_at": 1741524800898
+            "updated_at": 1741819144767
         }
     }
 }

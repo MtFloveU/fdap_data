@@ -6,10 +6,10 @@
     "location": "France",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
-    "followers_count": 3926,
-    "statuses_count": 5159,
-    "favourites_count": 61726,
-    "listed_count": 7,
+    "followers_count": 3934,
+    "statuses_count": 5203,
+    "favourites_count": 61941,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3296,
+            "friends_count": 3294,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 177,
+            "media_count": 179,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1627137169000,
-            "updated_at": 1741524806819
+            "updated_at": 1741819153019
         }
     }
 }

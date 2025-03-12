@@ -6,9 +6,9 @@
     "location": "瀋陽",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1851255555177730049/3LlrtXw6_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 226,
-    "statuses_count": 1187,
-    "favourites_count": 17936,
+    "followers_count": 229,
+    "statuses_count": 1208,
+    "favourites_count": 18294,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 877,
+            "friends_count": 891,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 72,
+            "media_count": 73,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1730208107000,
-            "updated_at": 1741524788335
+            "updated_at": 1741819126270
         }
     }
 }

@@ -6,10 +6,10 @@
     "location": "日本国东京都港区港南2-15-3 品川城际",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876199238557933568/oyF7OKX1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1615704614766260225/1726720807",
-    "followers_count": 1613,
-    "statuses_count": 4840,
-    "favourites_count": 17962,
-    "listed_count": 5,
+    "followers_count": 1681,
+    "statuses_count": 4873,
+    "favourites_count": 18036,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -47,10 +48,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 765,
+            "friends_count": 768,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 743,
+            "media_count": 745,
             "pinned_tweet_ids_str": [
                 "1865343341266890803"
             ],
@@ -65,7 +66,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1674048982000,
-            "updated_at": 1741524792005
+            "updated_at": 1741819130912
         }
     }
 }

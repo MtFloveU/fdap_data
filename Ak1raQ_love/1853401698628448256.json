@@ -6,9 +6,9 @@
     "location": "Madrid, España | 馬德里, 西班牙",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1896947865697800192/OVH3ACUF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853401698628448256/1741102333",
-    "followers_count": 169,
-    "statuses_count": 423,
-    "favourites_count": 4911,
+    "followers_count": 171,
+    "statuses_count": 533,
+    "favourites_count": 6196,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -65,10 +65,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 263,
+            "friends_count": 269,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 51,
+            "media_count": 61,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
@@ -80,18 +80,12 @@
         "professional": {
             "rest_id": "1891783145353249258",
             "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
+            "category": []
         },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1730720379000,
-            "updated_at": 1741524775003
+            "updated_at": 1741819110986
         }
     }
 }

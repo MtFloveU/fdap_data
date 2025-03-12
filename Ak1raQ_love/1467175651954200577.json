@@ -1,15 +1,15 @@
 {
     "id": "1467175651954200577",
     "screen_name": "kjkluk",
-    "name": "川井 橘音🏳️‍⚧️",
-    "description": "",
+    "name": "Pluie::miaou🏳️‍⚧️",
+    "description": "import miau if __name__ == ''__main__'': print ('miaou')",
     "location": "Japan",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1879463926951243776/JYf1bDOU_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1898722449942020096/nb7k-yt4_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 2083,
-    "statuses_count": 9084,
-    "favourites_count": 195648,
-    "listed_count": 13,
+    "followers_count": 2095,
+    "statuses_count": 9187,
+    "favourites_count": 196937,
+    "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -47,10 +48,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2395,
+            "friends_count": 2432,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 614,
+            "media_count": 622,
             "pinned_tweet_ids_str": [
                 "1897280320694837517"
             ],
@@ -68,7 +69,7 @@
         },
         "twe_private_fields": {
             "created_at": 1638636923000,
-            "updated_at": 1741524810416
+            "updated_at": 1741819161588
         }
     }
 }

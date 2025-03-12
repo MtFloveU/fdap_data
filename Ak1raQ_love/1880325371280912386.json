@@ -2,13 +2,13 @@
     "id": "1880325371280912386",
     "screen_name": "genya1976",
     "name": "江上 清风游🇷🇺Василек",
-    "description": "劳保岁静🌹/右上拥共🫡/反跨反同😔/高歌猛进⚡",
+    "description": "岁静劳保🌹/右上拥共🫡/反跨反同😔/高歌猛进⚡",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891118827171360768/JgsYPNw__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880325371280912386/1738923607",
-    "followers_count": 169,
-    "statuses_count": 1543,
-    "favourites_count": 25398,
+    "followers_count": 177,
+    "statuses_count": 233,
+    "favourites_count": 29409,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,11 +35,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 307,
+            "friends_count": 318,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 149,
-            "pinned_tweet_ids_str": [],
+            "media_count": 28,
+            "pinned_tweet_ids_str": [
+                "1898899521096343865"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -50,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1737139487000,
-            "updated_at": 1741524781243
+            "updated_at": 1741819116574
         }
     }
 }

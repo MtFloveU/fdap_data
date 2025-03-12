@@ -6,9 +6,9 @@
     "location": "海上",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228638724583374848/1740858236",
-    "followers_count": 10026,
-    "statuses_count": 5551,
-    "favourites_count": 18570,
+    "followers_count": 10037,
+    "statuses_count": 5553,
+    "favourites_count": 18605,
     "listed_count": 38,
     "verified_type": null,
     "is_blue_verified": false,
@@ -74,10 +74,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1769,
+            "friends_count": 1777,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 937,
+            "media_count": 938,
             "pinned_tweet_ids_str": [
                 "1895871945629216924"
             ],
@@ -93,7 +93,7 @@
         },
         "twe_private_fields": {
             "created_at": 1581765289000,
-            "updated_at": 1741524808359
+            "updated_at": 1741819155366
         }
     }
 }

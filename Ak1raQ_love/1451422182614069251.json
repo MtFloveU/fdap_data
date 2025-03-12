@@ -6,10 +6,10 @@
     "location": "Peñamellera Baja, Españ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1451422182614069251/1680796518",
-    "followers_count": 42673,
-    "statuses_count": 47651,
-    "favourites_count": 70459,
-    "listed_count": 46,
+    "followers_count": 42714,
+    "statuses_count": 47689,
+    "favourites_count": 70498,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1676,
+            "friends_count": 1675,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 3454,
+            "media_count": 3456,
             "pinned_tweet_ids_str": [
                 "1574387867362545664"
             ],
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1634880997000,
-            "updated_at": 1741524786802
+            "updated_at": 1741819124356
         }
     }
 }

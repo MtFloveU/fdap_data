@@ -6,9 +6,9 @@
     "location": "霍格沃茨",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1846140890232102912/ExumaWMa_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652582280974708736/1704030724",
-    "followers_count": 33060,
-    "statuses_count": 11543,
-    "favourites_count": 70679,
+    "followers_count": 33050,
+    "statuses_count": 11576,
+    "favourites_count": 70748,
     "listed_count": 38,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +37,7 @@
             "friends_count": 81,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2695,
+            "media_count": 2701,
             "pinned_tweet_ids_str": [
                 "1887136773245190229"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1682841302000,
-            "updated_at": 1741524810415
+            "updated_at": 1741819158545
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "Japan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1797075151772884992/dlxmOZgI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1540024964979367937/1735203226",
-    "followers_count": 1463,
-    "statuses_count": 2955,
-    "favourites_count": 152976,
+    "followers_count": 1461,
+    "statuses_count": 2959,
+    "favourites_count": 152961,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -57,7 +57,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7448,
+            "friends_count": 7447,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 76,
@@ -88,7 +88,7 @@
         },
         "twe_private_fields": {
             "created_at": 1656005547000,
-            "updated_at": 1741524740285
+            "updated_at": 1741819077169
         }
     }
 }

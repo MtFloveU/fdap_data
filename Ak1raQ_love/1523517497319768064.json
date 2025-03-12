@@ -6,10 +6,10 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861798629738156032/xvWzw4gn_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1523517497319768064/1739703235",
-    "followers_count": 1201,
-    "statuses_count": 12351,
-    "favourites_count": 59030,
-    "listed_count": 12,
+    "followers_count": 1203,
+    "statuses_count": 12359,
+    "favourites_count": 59128,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -19,37 +19,7 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTIzNTE3NDk3MzE5NzY4MDY0",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @Suguruko_i39",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 26,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "Suguruko_i39",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "Suguruko_i39"
-                                        },
-                                        "rest_id": "1756986139326775296"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -64,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2367,
+            "friends_count": 2372,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1866,
+            "media_count": 1867,
             "pinned_tweet_ids_str": [
                 "1871805998459130211"
             ],
@@ -81,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1652069862000,
-            "updated_at": 1741524797454
+            "updated_at": 1741819138767
         }
     }
 }

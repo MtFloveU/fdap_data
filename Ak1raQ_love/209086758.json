@@ -6,9 +6,9 @@
     "location": "香港",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1752527741604573184/9CYe5WhN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/209086758/1706670150",
-    "followers_count": 788,
-    "statuses_count": 9547,
-    "favourites_count": 47708,
+    "followers_count": 789,
+    "statuses_count": 9578,
+    "favourites_count": 47860,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +37,7 @@
             "friends_count": 2031,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 970,
+            "media_count": 975,
             "pinned_tweet_ids_str": [
                 "1885111860380455344"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1288273916000,
-            "updated_at": 1741524800898
+            "updated_at": 1741819144766
         }
     }
 }

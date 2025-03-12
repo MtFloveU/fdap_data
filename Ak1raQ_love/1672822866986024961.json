@@ -6,9 +6,9 @@
     "location": "384,400km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889609333740281861/wCbfA8lO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672822866986024961/1687668245",
-    "followers_count": 1264,
-    "statuses_count": 8767,
-    "favourites_count": 67632,
+    "followers_count": 1256,
+    "statuses_count": 8775,
+    "favourites_count": 68011,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -25,7 +25,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1004,
+            "friends_count": 1005,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 196,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1687667043000,
-            "updated_at": 1741524797454
+            "updated_at": 1741819138767
         }
     }
 }

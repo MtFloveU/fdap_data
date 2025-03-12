@@ -6,10 +6,10 @@
     "location": "土卫六",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 24406,
-    "statuses_count": 9986,
-    "favourites_count": 2942,
-    "listed_count": 231,
+    "followers_count": 24408,
+    "statuses_count": 10030,
+    "favourites_count": 2947,
+    "listed_count": 230,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -69,7 +69,7 @@
             "friends_count": 538,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 3445,
+            "media_count": 3447,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -97,7 +97,7 @@
         },
         "twe_private_fields": {
             "created_at": 1670857959000,
-            "updated_at": 1741524804831
+            "updated_at": 1741819149798
         }
     }
 }

@@ -1,0 +1,55 @@
+{
+    "id": "1868652162831826944",
+    "screen_name": "ZNYl9qc3",
+    "name": "易知苟🐙",
+    "description": "抽象男娘 没活了\n（算是吧）坐标东百🤔\nQQ是1769457983",
+    "location": "。。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1872593548916514816/vfFrMw9C_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 145,
+    "statuses_count": 93,
+    "favourites_count": 44,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-12-16 21:39:40 +08:00",
+    "url": "https://twitter.com/ZNYl9qc3",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODY4NjUyMTYyODMxODI2OTQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 991,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 31,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1734356380000,
+            "updated_at": 1741819110986
+        }
+    }
+}

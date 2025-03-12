@@ -6,9 +6,9 @@
     "location": "Бадахшон",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889317644991602688/GobrhtGI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889314440102965248/1739283403",
-    "followers_count": 154,
-    "statuses_count": 525,
-    "favourites_count": 6028,
+    "followers_count": 172,
+    "statuses_count": 625,
+    "favourites_count": 6641,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 387,
+            "friends_count": 411,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 79,
+            "media_count": 99,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1739282661000,
-            "updated_at": 1741524777920
+            "updated_at": 1741819113911
         }
     }
 }

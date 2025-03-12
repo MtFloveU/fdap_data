@@ -6,9 +6,9 @@
     "location": "海邊",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1791518994018766850/PcZ6d9iA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669305436254932993/1712490507",
-    "followers_count": 219,
-    "statuses_count": 1489,
-    "favourites_count": 17162,
+    "followers_count": 220,
+    "statuses_count": 1515,
+    "favourites_count": 17420,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 914,
+            "friends_count": 943,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 137,
+            "media_count": 138,
             "pinned_tweet_ids_str": [
                 "1895818045182132297"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1686828422000,
-            "updated_at": 1741524714541
+            "updated_at": 1741819050765
         }
     }
 }

@@ -2,13 +2,13 @@
     "id": "1774357995792777216",
     "screen_name": "hanabishirosaki",
     "name": "⁺ ｡ ᜊ花火百咲⁺ ｡ ᜊ🍥",
-    "description": "10年10.XXmtf 叫我百咲就可以了 最愛的姐姐💗 @ForteYuriHK",
+    "description": "10年10.23mtf🍥🏳️‍⚧️ /叫我白咲就可以了 /半家長黨/中英都可 日勉強中/一隻抖m/最愛的姐姐💗 @ForteYuriHK/168cm/60kg",
     "location": "何も無い",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1774358056362754048/kTq4OolK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774357995792777216/1735074459",
-    "followers_count": 388,
-    "statuses_count": 397,
-    "favourites_count": 1431,
+    "followers_count": 412,
+    "statuses_count": 416,
+    "favourites_count": 1495,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": true,
@@ -31,19 +31,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "instagram.com/snow._.fox9506…",
+                            "expanded_url": "https://www.instagram.com/snow._.fox9506?igsh=NmFtcnB5cnIyeGpy&utm_source=qr",
+                            "url": "https://t.co/ziqWB0BIB0",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 794,
+            "friends_count": 803,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 27,
+            "media_count": 28,
             "pinned_tweet_ids_str": [
                 "1898307734250127410"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/ziqWB0BIB0",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -51,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1711874901000,
-            "updated_at": 1741524775004
+            "updated_at": 1741819110986
         }
     }
 }

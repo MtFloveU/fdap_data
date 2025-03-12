@@ -6,9 +6,9 @@
     "location": "London, England",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1817800272439398400/oP7ZHA8t_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722627937898577920/1722361531",
-    "followers_count": 221,
+    "followers_count": 219,
     "statuses_count": 778,
-    "favourites_count": 13592,
+    "favourites_count": 13581,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 557,
+            "friends_count": 556,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 6,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1699541490000,
-            "updated_at": 1741524758713
+            "updated_at": 1741819098286
         }
     }
 }

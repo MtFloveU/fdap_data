@@ -4,11 +4,11 @@
     "name": "神楽坂温原🍥🌂",
     "description": "she/her | trans girl🏳️‍⚧️| MTX|:HRT：2025/01/14|07｜无证含糖 |永远17岁|中 ENG｜双相|bpd 喜欢@kiriyama_lemon",
     "location": "土星",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898076200914108420/-BfBNND__normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1899819712286167040/Dho4TYMi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670362954590728197/1740919082",
-    "followers_count": 632,
-    "statuses_count": 1376,
-    "favourites_count": 5587,
+    "followers_count": 652,
+    "statuses_count": 1459,
+    "favourites_count": 6019,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -26,19 +26,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @Single_Hyoto",
+                    "text": "Automated by @HyotoKagurazaka",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 26,
+                            "toIndex": 29,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "Single_Hyoto",
+                                "screen_name": "HyotoKagurazaka",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "Single_Hyoto"
+                                            "screen_name": "HyotoKagurazaka"
                                         },
                                         "rest_id": "1680834021377593344"
                                     }
@@ -54,6 +54,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -64,10 +65,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 900,
+            "friends_count": 908,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 186,
+            "media_count": 193,
             "pinned_tweet_ids_str": [
                 "1897212243445735651"
             ],
@@ -83,7 +84,7 @@
         },
         "twe_private_fields": {
             "created_at": 1687080552000,
-            "updated_at": 1741524783107
+            "updated_at": 1741819121853
         }
     }
 }

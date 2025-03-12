@@ -6,7 +6,7 @@
     "location": "Moscow, Russia",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1808193294981332992/bZpTjgm0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593228796265570305/1719837484",
-    "followers_count": 89,
+    "followers_count": 90,
     "statuses_count": 66,
     "favourites_count": 142,
     "listed_count": 0,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 500,
+            "friends_count": 499,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 1,
@@ -65,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1668690333000,
-            "updated_at": 1741524754760
+            "updated_at": 1741819093236
         }
     }
 }

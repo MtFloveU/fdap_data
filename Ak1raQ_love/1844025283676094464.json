@@ -6,9 +6,9 @@
     "location": "Aoba-ku, Miyagi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894011794416357376/sd-Gqb3F_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844025283676094464/1741241748",
-    "followers_count": 7034,
-    "statuses_count": 10134,
-    "favourites_count": 4547,
+    "followers_count": 7044,
+    "statuses_count": 10264,
+    "favourites_count": 4626,
     "listed_count": 27,
     "verified_type": null,
     "is_blue_verified": true,
@@ -57,10 +57,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1393,
+            "friends_count": 1401,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3418,
+            "media_count": 3461,
             "pinned_tweet_ids_str": [
                 "1897996611189641532"
             ],
@@ -77,7 +77,7 @@
         },
         "twe_private_fields": {
             "created_at": 1728484872000,
-            "updated_at": 1741524786801
+            "updated_at": 1741819124356
         }
     }
 }

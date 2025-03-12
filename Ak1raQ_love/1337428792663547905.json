@@ -6,9 +6,9 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1748459331115454464/ARnaeGHy_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337428792663547905/1671439460",
-    "followers_count": 4370,
+    "followers_count": 4363,
     "statuses_count": 789,
-    "favourites_count": 1986,
+    "favourites_count": 1976,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1488,
+            "friends_count": 1487,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 259,
@@ -52,7 +52,7 @@
         },
         "twe_private_fields": {
             "created_at": 1607702862000,
-            "updated_at": 1741524810416
+            "updated_at": 1741819158545
         }
     }
 }

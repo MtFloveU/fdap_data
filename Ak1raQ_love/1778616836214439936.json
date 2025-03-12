@@ -6,9 +6,9 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1807703472961445888/QlrmPoet_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778616836214439936/1716443879",
-    "followers_count": 979,
-    "statuses_count": 8517,
-    "favourites_count": 31294,
+    "followers_count": 986,
+    "statuses_count": 8571,
+    "favourites_count": 31499,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1467,
+            "friends_count": 1474,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 595,
+            "media_count": 599,
             "pinned_tweet_ids_str": [
                 "1874417607568494921"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1712890280000,
-            "updated_at": 1741524803384
+            "updated_at": 1741819149798
         }
     }
 }

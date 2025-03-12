@@ -6,9 +6,9 @@
     "location": "China Mainland",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1757630635047280640/bkSrQETY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757630242288541696/1739094814",
-    "followers_count": 127,
-    "statuses_count": 4752,
-    "favourites_count": 44877,
+    "followers_count": 128,
+    "statuses_count": 4789,
+    "favourites_count": 45396,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -31,33 +31,19 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "discord.gg/sfWpBMyD",
-                            "expanded_url": "https://discord.gg/sfWpBMyD",
-                            "url": "https://t.co/cgrPIVkMFf",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1487,
+            "friends_count": 1496,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 449,
+            "media_count": 460,
             "pinned_tweet_ids_str": [
                 "1885583710499856582"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/cgrPIVkMFf",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -65,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1707886693000,
-            "updated_at": 1741524781243
+            "updated_at": 1741819116574
         }
     }
 }

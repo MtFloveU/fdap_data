@@ -6,10 +6,10 @@
     "location": "Zapolyary Palace, Snezhnaya",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1898652027057831936/4KuZC6VJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1739918002",
-    "followers_count": 19189,
-    "statuses_count": 12031,
-    "favourites_count": 66432,
-    "listed_count": 65,
+    "followers_count": 19407,
+    "statuses_count": 12071,
+    "favourites_count": 66550,
+    "listed_count": 64,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -57,10 +57,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 10448,
+            "friends_count": 10444,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3011,
+            "media_count": 3038,
             "pinned_tweet_ids_str": [
                 "1807074114362036302"
             ],
@@ -86,7 +86,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1690519895000,
-            "updated_at": 1741524806825
+            "updated_at": 1741819153019
         }
     }
 }

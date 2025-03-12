@@ -6,10 +6,10 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873309667964944384/IISivAsb_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 861,
+    "followers_count": 856,
     "statuses_count": 440,
     "favourites_count": 844,
-    "listed_count": 2,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 204,
+            "friends_count": 203,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 33,
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1715332778000,
-            "updated_at": 1741524784498
+            "updated_at": 1741819121853
         }
     }
 }

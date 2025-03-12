@@ -6,9 +6,9 @@
     "location": "No Such BAR “不在这吧”",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892924726911094784/8tnLc2-T_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557353901044555776/1740143398",
-    "followers_count": 891,
-    "statuses_count": 9763,
-    "favourites_count": 26031,
+    "followers_count": 892,
+    "statuses_count": 9767,
+    "favourites_count": 26017,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1297,
+            "friends_count": 1299,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 621,
+            "media_count": 623,
             "pinned_tweet_ids_str": [
                 "1895071003077656664"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1660137089000,
-            "updated_at": 1741524784500
+            "updated_at": 1741819124355
         }
     }
 }

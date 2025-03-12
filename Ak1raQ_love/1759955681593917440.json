@@ -6,9 +6,9 @@
     "location": "地球",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1851580126796083201/BZa5z-O3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759955681593917440/1734001138",
-    "followers_count": 656,
-    "statuses_count": 412,
-    "favourites_count": 149,
+    "followers_count": 657,
+    "statuses_count": 421,
+    "favourites_count": 150,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,9 +35,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "t.me/killoio",
-                            "expanded_url": "https://t.me/killoio",
-                            "url": "https://t.co/2rZjHVaEhs",
+                            "display_url": "t.me",
+                            "expanded_url": "https://t.me",
+                            "url": "https://t.co/92fY79QRHo",
                             "indices": [
                                 0,
                                 23
@@ -47,17 +47,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 347,
+            "friends_count": 348,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 114,
+            "media_count": 116,
             "pinned_tweet_ids_str": [
                 "1884266070405681243"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/2rZjHVaEhs",
+            "url": "https://t.co/92fY79QRHo",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -68,7 +68,7 @@
         },
         "twe_private_fields": {
             "created_at": 1708441121000,
-            "updated_at": 1741524784500
+            "updated_at": 1741819121853
         }
     }
 }

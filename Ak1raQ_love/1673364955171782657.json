@@ -6,10 +6,10 @@
     "location": "柠檬树上",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 3309,
-    "statuses_count": 3089,
-    "favourites_count": 20029,
-    "listed_count": 5,
+    "followers_count": 3308,
+    "statuses_count": 3094,
+    "favourites_count": 20042,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4237,
+            "friends_count": 4232,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 308,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1687796283000,
-            "updated_at": 1741524792004
+            "updated_at": 1741819130912
         }
     }
 }

@@ -2,13 +2,13 @@
     "id": "1532663208393117696",
     "screen_name": "Ziverk2",
     "name": "Einaちゃん🍥（=^𖥦^=）~",
-    "description": "一只没有成年的成年猫猫w\n| CHI | ENG | Esperanto | 想学日语QAQ\n|间歇发病(紫餐不o)\n| PUBGM |飞车 |BA |战双 ..\n|写歌\n|社民&社自\n|Debian 12--\n|Web开发&Android开发(已荒废)\n|写作@EinaPoe  锁推小号@TakeNitrite",
+    "description": "一只没有成年的成年猫猫w\n| CHI | ENG | Esperanto | 想学日语QAQ\n|间歇发病(紫餐不o)\n| PUBGM |飞车 | BA |战双..\n|社民/社自\n|-Debian 12-\n| 原生JS(+PHP) Website/WebApp\n| Java(+Lua)半原生安卓开发\n| Wooooo🫨",
     "location": "天府",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864480412086439936/I2-BmRO2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1532663208393117696/1738295119",
-    "followers_count": 1837,
-    "statuses_count": 6558,
-    "favourites_count": 108277,
+    "followers_count": 1868,
+    "statuses_count": 6710,
+    "favourites_count": 109575,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,8 +24,9 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,10 +48,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3916,
+            "friends_count": 3964,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 76,
+            "media_count": 77,
             "pinned_tweet_ids_str": [
                 "1884407282454482944"
             ],
@@ -67,8 +68,8 @@
             "professional_type": "Business",
             "category": [
                 {
-                    "id": 941,
-                    "name": "Music Producer",
+                    "id": 963,
+                    "name": "Desktop Application",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
@@ -78,7 +79,7 @@
         },
         "twe_private_fields": {
             "created_at": 1654250369000,
-            "updated_at": 1741524788335
+            "updated_at": 1741819126270
         }
     }
 }

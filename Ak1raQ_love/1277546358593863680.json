@@ -1,13 +1,13 @@
 {
     "id": "1277546358593863680",
-    "screen_name": "wuzhishan6",
+    "screen_name": "200dandan",
     "name": "dandan",
     "description": "欢迎来到 Dandan 的编程 AI 频道！  \n理念：🌟 向前一小步，🚀 人生一大步。  \n\n快速入门，轻松掌握编程与 AI，开启你的全栈开发之旅！\n\n开源免费核心课程：  \n- 🎨 HTML & CSS: 构建网页的基石，打造精美用户界面。  \n- 💫 JavaScript: 让网页充满互动，赋予它动态的灵",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1807244549577904128/eE0mb3VA_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277546358593863680/1734598708",
-    "followers_count": 466,
-    "statuses_count": 917,
+    "followers_count": 461,
+    "statuses_count": 1009,
     "favourites_count": 17,
     "listed_count": 1,
     "verified_type": null,
@@ -15,7 +15,7 @@
     "following": false,
     "followed_by": true,
     "created_at": "2020-06-29 18:16:37 +08:00",
-    "url": "https://twitter.com/wuzhishan6",
+    "url": "https://twitter.com/200dandan",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjc3NTQ2MzU4NTkzODYzNjgw",
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7442,
+            "friends_count": 7481,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 289,
@@ -65,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1593425797000,
-            "updated_at": 1741524749885
+            "updated_at": 1741819088146
         }
     }
 }

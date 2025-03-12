@@ -6,9 +6,9 @@
     "location": "梦之乡",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895352936487636992/HyGnw-G1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865831426303897600/1741055932",
-    "followers_count": 872,
-    "statuses_count": 2805,
-    "favourites_count": 4865,
+    "followers_count": 900,
+    "statuses_count": 3034,
+    "favourites_count": 5355,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 610,
+            "friends_count": 637,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 186,
+            "media_count": 198,
             "pinned_tweet_ids_str": [
                 "1896577424101621828"
             ],
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1733683866000,
-            "updated_at": 1741524784500
+            "updated_at": 1741819121853
         }
     }
 }

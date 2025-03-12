@@ -6,9 +6,9 @@
     "location": "貓貓特別行政區",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1898031974562119681/2j7U3dkv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491429513779359745/1740906096",
-    "followers_count": 2245,
-    "statuses_count": 9044,
-    "favourites_count": 83024,
+    "followers_count": 2251,
+    "statuses_count": 9046,
+    "favourites_count": 83181,
     "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,9 +37,9 @@
             "friends_count": 2227,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1718,
+            "media_count": 1717,
             "pinned_tweet_ids_str": [
-                "1897560265744580672"
+                "1899818252710420761"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +60,7 @@
         },
         "twe_private_fields": {
             "created_at": 1644419490000,
-            "updated_at": 1741524808359
+            "updated_at": 1741819155366
         }
     }
 }

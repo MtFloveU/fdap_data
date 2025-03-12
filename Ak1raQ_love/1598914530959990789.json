@@ -1,0 +1,56 @@
+{
+    "id": "1598914530959990789",
+    "screen_name": "Dripluminum",
+    "name": "Lumi",
+    "description": "That person",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1878204957213835264/-838BsCZ_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598914530959990789/1715147115",
+    "followers_count": 30,
+    "statuses_count": 130,
+    "favourites_count": 354,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2022-12-03 13:38:39 +08:00",
+    "url": "https://twitter.com/Dripluminum",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTk4OTE0NTMwOTU5OTkwNzg5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": false,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 160,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 13,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1670045919000,
+            "updated_at": 1741819110985
+        }
+    }
+}

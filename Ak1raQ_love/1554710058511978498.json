@@ -6,9 +6,9 @@
     "location": "深圳",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1806679647708663808/mVdFPYci_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554710058511978498/1688869392",
-    "followers_count": 606,
-    "statuses_count": 909,
-    "favourites_count": 3948,
+    "followers_count": 602,
+    "statuses_count": 908,
+    "favourites_count": 3947,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 601,
+            "friends_count": 598,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 46,
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1659506747000,
-            "updated_at": 1741524756055
+            "updated_at": 1741819096092
         }
     }
 }

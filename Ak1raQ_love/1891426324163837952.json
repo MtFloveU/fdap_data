@@ -20,7 +20,7 @@
         "__typename": "User",
         "id": "VXNlcjoxODkxNDI2MzI0MTYzODM3OTUy",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
+        "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1739786193000,
-            "updated_at": 1741524709218
+            "updated_at": 1741819044051
         }
     }
 }

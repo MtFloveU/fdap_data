@@ -6,9 +6,9 @@
     "location": "惟親愛國",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1896025806679183360/ZJ0VlyJw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880275242926714881/1739979611",
-    "followers_count": 224,
-    "statuses_count": 1754,
-    "favourites_count": 6509,
+    "followers_count": 223,
+    "statuses_count": 1783,
+    "favourites_count": 6640,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 391,
+            "friends_count": 399,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 51,
-            "pinned_tweet_ids_str": [],
+            "pinned_tweet_ids_str": [
+                "1898389455834415345"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1737127535000,
-            "updated_at": 1741524777921
+            "updated_at": 1741819113911
         }
     }
 }

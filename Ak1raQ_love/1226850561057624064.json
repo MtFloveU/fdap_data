@@ -6,9 +6,9 @@
     "location": "梦里",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1691374845140082688/f2RPoY8q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226850561057624064/1728640858",
-    "followers_count": 28562,
-    "statuses_count": 7674,
-    "favourites_count": 11644,
+    "followers_count": 28591,
+    "statuses_count": 7683,
+    "favourites_count": 11642,
     "listed_count": 101,
     "verified_type": null,
     "is_blue_verified": true,
@@ -47,11 +47,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3222,
+            "friends_count": 3220,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 4323,
-            "pinned_tweet_ids_str": [],
+            "media_count": 4332,
+            "pinned_tweet_ids_str": [
+                "1899225539568861241"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -74,7 +76,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1581338953000,
-            "updated_at": 1741524792005
+            "updated_at": 1741819130912
         }
     }
 }

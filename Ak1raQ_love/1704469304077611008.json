@@ -2,17 +2,17 @@
     "id": "1704469304077611008",
     "screen_name": "jiaoyanboluooo",
     "name": "椒盐菠萝🍥",
-    "description": "ISFP/mtf/生产日期7.24/od/抑郁/臭蝈蝻/深柜/🏳️‍⚧️/steam好友码：1737257608",
+    "description": "ISFP/mtf/生产日期7.24/od/抑郁/臭蝈蝻/深柜/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m/无证含糖/",
     "location": "宛平南路600号",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1845701516545638400/CJz4quM6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1704469304077611008/1736569625",
-    "followers_count": 443,
-    "statuses_count": 660,
-    "favourites_count": 1260,
+    "followers_count": 669,
+    "statuses_count": 813,
+    "favourites_count": 1992,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2023-09-20 20:15:32 +08:00",
     "url": "https://twitter.com/jiaoyanboluooo",
@@ -34,22 +34,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1344,
+            "friends_count": 1506,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 130,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
+            "media_count": 157,
+            "pinned_tweet_ids_str": [
+                "1898953172044984701"
+            ],
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1695212132000,
-            "updated_at": 1741524737630
+            "updated_at": 1741819110986
         }
     }
 }

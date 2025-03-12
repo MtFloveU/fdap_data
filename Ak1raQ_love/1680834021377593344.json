@@ -1,21 +1,21 @@
 {
     "id": "1680834021377593344",
-    "screen_name": "Single_Hyoto",
+    "screen_name": "HyotoKagurazaka",
     "name": "温原ひょと 🍥",
     "description": "青空だけが見たいのは我儘ですか",
     "location": "土星",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1896938130928025601/_r8zosPU_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1899764777867436032/8DMH6EdC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680834021377593344/1735933697",
-    "followers_count": 2134,
-    "statuses_count": 23357,
-    "favourites_count": 73987,
+    "followers_count": 2136,
+    "statuses_count": 23560,
+    "favourites_count": 75209,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-07-17 14:57:26 +08:00",
-    "url": "https://twitter.com/Single_Hyoto",
+    "url": "https://twitter.com/HyotoKagurazaka",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjgwODM0MDIxMzc3NTkzMzQ0",
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 960,
+            "friends_count": 959,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3808,
+            "media_count": 3828,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +60,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1689577046000,
-            "updated_at": 1741524788335
+            "updated_at": 1741819128359
         }
     }
 }

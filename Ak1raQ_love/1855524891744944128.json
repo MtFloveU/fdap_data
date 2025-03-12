@@ -1,21 +1,21 @@
 {
     "id": "1855524891744944128",
-    "screen_name": "YuFanGe198964",
+    "screen_name": "LoveYezi8964",
     "name": "𝓛𝓲𝓾𝓼𝓾𝓚",
     "description": "流苏的里推",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892153553890004993/50l-iwCO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855524891744944128/1732298292",
-    "followers_count": 94,
-    "statuses_count": 274,
-    "favourites_count": 372,
+    "followers_count": 123,
+    "statuses_count": 305,
+    "favourites_count": 430,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
     "created_at": "2024-11-10 16:16:32 +08:00",
-    "url": "https://twitter.com/YuFanGe198964",
+    "url": "https://twitter.com/LoveYezi8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODU1NTI0ODkxNzQ0OTQ0MTI4",
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 76,
+            "friends_count": 85,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 9,
+            "media_count": 10,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -63,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1731226592000,
-            "updated_at": 1741524775002
+            "updated_at": 1741819110986
         }
     }
 }

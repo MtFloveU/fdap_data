@@ -6,8 +6,8 @@
     "location": "中华人民共和国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876295299439939584/KPTvk2v1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794131217463615488/1736146775",
-    "followers_count": 2289,
-    "statuses_count": 4381,
+    "followers_count": 2311,
+    "statuses_count": 4406,
     "favourites_count": 1900,
     "listed_count": 9,
     "verified_type": null,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2888,
+            "friends_count": 2944,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 208,
+            "media_count": 209,
             "pinned_tweet_ids_str": [
                 "1889937031511548353"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716589205000,
-            "updated_at": 1741524789699
+            "updated_at": 1741819128359
         }
     }
 }
