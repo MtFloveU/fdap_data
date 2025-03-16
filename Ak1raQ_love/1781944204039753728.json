@@ -6,9 +6,9 @@
     "location": "RWY 18L/36R",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1781946587637547008/bf9YzP0c_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781944204039753728/1713687089",
-    "followers_count": 158,
-    "statuses_count": 467,
-    "favourites_count": 1788,
+    "followers_count": 160,
+    "statuses_count": 472,
+    "favourites_count": 1806,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 275,
+            "friends_count": 276,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 69,
+            "media_count": 70,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1713683747000,
-            "updated_at": 1741819153019
+            "updated_at": 1742120160265
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "Los Angeles, CA",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1831508601598570497/U_eNF_Vn_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255407520409100291/1715304052",
-    "followers_count": 2105,
-    "statuses_count": 3600,
-    "favourites_count": 5523,
+    "followers_count": 2112,
+    "statuses_count": 3616,
+    "favourites_count": 5532,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1250,
+            "friends_count": 1253,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 97,
+            "media_count": 102,
             "pinned_tweet_ids_str": [
                 "1858613730445332556"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1588147463000,
-            "updated_at": 1741819153019
+            "updated_at": 1742120160265
         }
     }
 }

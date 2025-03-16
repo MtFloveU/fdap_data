@@ -8,8 +8,8 @@
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1305129071563534337/1738926256",
     "followers_count": 264,
     "statuses_count": 1770,
-    "favourites_count": 5375,
-    "listed_count": 3,
+    "favourites_count": 5370,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -66,7 +66,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 289,
+            "friends_count": 290,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 498,
@@ -97,7 +97,7 @@
         },
         "twe_private_fields": {
             "created_at": 1600002003000,
-            "updated_at": 1741819116574
+            "updated_at": 1742120121800
         }
     }
 }

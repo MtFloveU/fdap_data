@@ -1,21 +1,21 @@
 {
     "id": "1896940327833042944",
-    "screen_name": "Lightly_wind",
-    "name": "やさしい風通り | 猫耳メイドさん",
-    "description": "「こちらが風風（ふうふう）でございます。穏やかで愛らしく、素直でおとなしいメイド猫娘で、生きる喜びは最愛のご主人様との触れ合いにあらせられます。撫で撫では耳垂れ、ぺたぺたは頬染め、ぎゅーっとなれば尻尾もふにゃり……全てのときめきはご主人様と共にありますにゃん♡」",
-    "location": "異世界、王都、帝都の広庭",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898968741431640064/HMZVtnWH_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896940327833042944/1741532146",
-    "followers_count": 136,
-    "statuses_count": 11,
-    "favourites_count": 633,
-    "listed_count": 3,
+    "screen_name": "Lightly_Neko",
+    "name": "やさしい風通り | 萌え猫耳少女",
+    "description": "こちらは風風にゃ…♡ 元気で可愛く、優しくておとなしい愛らしい猫猫なの…♡毎日のお仕事は、バカ主人様の生活のお世話するのにゃ…♡ 一番の幸せは、ご主人様に抱っこされたり、くっついたり、ふわふわ頭を撫でてもらうことにゃ…♡  親愛なるご主人様…風風をもっと優しくしてね…♡",
+    "location": "異世界、王国の都、帝国の長庭",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1901163016676352000/17_dODKQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896940327833042944/1742107559",
+    "followers_count": 138,
+    "statuses_count": 5,
+    "favourites_count": 861,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2025-03-04 23:06:37 +08:00",
-    "url": "https://twitter.com/Lightly_wind",
+    "url": "https://twitter.com/Lightly_Neko",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODk2OTQwMzI3ODMzMDQyOTQ0",
@@ -31,19 +31,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "limestart.cn",
+                            "expanded_url": "https://www.limestart.cn/",
+                            "url": "https://t.co/7s3GJwpdq8",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 174,
+            "friends_count": 138,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 0,
+            "media_count": 1,
             "pinned_tweet_ids_str": [
-                "1899865981109121239"
+                "1900457506045861988"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/7s3GJwpdq8",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -51,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1741100797000,
-            "updated_at": 1741819110986
+            "updated_at": 1742120113063
         }
     }
 }

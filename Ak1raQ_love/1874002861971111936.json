@@ -2,14 +2,14 @@
     "id": "1874002861971111936",
     "screen_name": "zxzxovo",
     "name": "芷OvO夏",
-    "description": "infp| mtf🌈| 深柜| 半含糖🍥| 日常🍭| 四年级自闭女大| 计算机| 游戏🎮| 没钱但摄影| 爱听歌| 蓄发中| 迷茫焦虑期| 不要亚健康\n“wounds heal but scars still remain the same”\n如果终将落入泥潭，请让我在幸福的瞬间死去^~^",
+    "description": "infp| 深柜半含糖🍥| 日常🍭| 四年级自闭女大| 计算机| 游戏🎮| 没钱但摄影| 爱听歌| 蓄发中| 迷茫焦虑期| 不要亚健康  \n\n“吾生梦幻间，何事绁尘羁”  \n\nhttps://t.co/DRSuko6s7x",
     "location": "不知道在哪儿格勒",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874002978124029952/IbJI95b2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874002861971111936/1735658770",
-    "followers_count": 134,
-    "statuses_count": 204,
-    "favourites_count": 1559,
-    "listed_count": 0,
+    "followers_count": 137,
+    "statuses_count": 205,
+    "favourites_count": 1607,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -30,14 +30,24 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "t.me/zhixiaovo",
+                            "expanded_url": "http://t.me/zhixiaovo",
+                            "url": "https://t.co/DRSuko6s7x",
+                            "indices": [
+                                88,
+                                111
+                            ]
+                        }
+                    ]
                 },
                 "url": {
                     "urls": [
                         {
                             "display_url": "hizhixia.site",
-                            "expanded_url": "http://hizhixia.site",
-                            "url": "https://t.co/dQFuG6Db3p",
+                            "expanded_url": "https://hizhixia.site",
+                            "url": "https://t.co/xOyiQTFUZC",
                             "indices": [
                                 0,
                                 23
@@ -47,17 +57,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 435,
+            "friends_count": 439,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 49,
+            "media_count": 47,
             "pinned_tweet_ids_str": [
-                "1882479963481514446"
+                "1874435459545436531"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/dQFuG6Db3p",
+            "url": "https://t.co/xOyiQTFUZC",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -67,7 +77,7 @@
         },
         "twe_private_fields": {
             "created_at": 1735632082000,
-            "updated_at": 1741819121853
+            "updated_at": 1742120124891
         }
     }
 }

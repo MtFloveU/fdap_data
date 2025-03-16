@@ -6,10 +6,10 @@
     "location": "黑域",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1893978289561022464/-QQItmxW_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 1292,
-    "statuses_count": 1157,
-    "favourites_count": 10187,
-    "listed_count": 3,
+    "followers_count": 1290,
+    "statuses_count": 1159,
+    "favourites_count": 10205,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -35,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 511,
+            "friends_count": 512,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 278,
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1731384377000,
-            "updated_at": 1741819110986
+            "updated_at": 1742120113063
         }
     }
 }

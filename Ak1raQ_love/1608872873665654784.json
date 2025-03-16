@@ -2,13 +2,13 @@
     "id": "1608872873665654784",
     "screen_name": "yhu37052536",
     "name": "跬步",
-    "description": "做好你该做的事，让心流自然发展。",
+    "description": "使用AI时一定要优先告诉AI做什么，等AI做出来以后（或者部分做出来）再去问AI这样做的原因，继而学习。\n使用AI时一定不要提前设想太多乱七八糟的情况，如果提前设想太多可能会遇到的困难并传递给AI，反而会打乱AI的思路，使得AI考虑太多细节，从而最终写出的代码反而会非常复杂，并且更有可能跑不通。就像你自己一样，不是吗？",
     "location": "愿与你同在",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1823517214592655360/3jc5RWe7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608872873665654784/1723550160",
     "followers_count": 496,
-    "statuses_count": 2836,
-    "favourites_count": 63012,
+    "statuses_count": 2833,
+    "favourites_count": 63200,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1707,
+            "friends_count": 1705,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 34,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1672420175000,
-            "updated_at": 1741819147426
+            "updated_at": 1742120154346
         }
     }
 }

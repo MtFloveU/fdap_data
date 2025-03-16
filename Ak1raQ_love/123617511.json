@@ -6,9 +6,9 @@
     "location": "Sanctuary",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1875884401437110272/YoPhEBoY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/123617511/1721005491",
-    "followers_count": 528,
-    "statuses_count": 9949,
-    "favourites_count": 16291,
+    "followers_count": 525,
+    "statuses_count": 9997,
+    "favourites_count": 16389,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 862,
+            "friends_count": 864,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1757,
+            "media_count": 1769,
             "pinned_tweet_ids_str": [
                 "1693522389177618504"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1268760658000,
-            "updated_at": 1741819147424
+            "updated_at": 1742120154346
         }
     }
 }

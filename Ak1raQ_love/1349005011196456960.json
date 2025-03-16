@@ -6,9 +6,9 @@
     "location": "Yuen Long District, Hong Kong",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1657234649830285312/qEpN8yMZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1349005011196456960/1641890119",
-    "followers_count": 1844,
-    "statuses_count": 4215,
-    "favourites_count": 93904,
+    "followers_count": 1861,
+    "statuses_count": 4235,
+    "favourites_count": 94315,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6068,
+            "friends_count": 6096,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 298,
+            "media_count": 299,
             "pinned_tweet_ids_str": [
                 "1745818308346257811"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1610462851000,
-            "updated_at": 1741819158545
+            "updated_at": 1742120167028
         }
     }
 }

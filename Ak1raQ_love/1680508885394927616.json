@@ -6,9 +6,9 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680508885394927616/1736369831",
-    "followers_count": 10063,
-    "statuses_count": 16862,
-    "favourites_count": 62137,
+    "followers_count": 10145,
+    "statuses_count": 16923,
+    "favourites_count": 62161,
     "listed_count": 28,
     "verified_type": null,
     "is_blue_verified": false,
@@ -64,10 +64,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6173,
+            "friends_count": 6165,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2087,
+            "media_count": 2106,
             "pinned_tweet_ids_str": [
                 "1864147494676123745"
             ],
@@ -88,7 +88,7 @@
         },
         "twe_private_fields": {
             "created_at": 1689499535000,
-            "updated_at": 1741819158545
+            "updated_at": 1742120167028
         }
     }
 }

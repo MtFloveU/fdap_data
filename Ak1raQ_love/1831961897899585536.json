@@ -1,15 +1,15 @@
 {
     "id": "1831961897899585536",
     "screen_name": "kiriyama_lemon",
-    "name": "桜井🍋‍🟩侑斗 🍋",
-    "description": "爱人@Kagurazakahyoto 「胸が痛んでも嘘がつけるのは何でなんでしょうか",
-    "location": "15900",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898592535683235840/qTs7R5b1_normal.jpg",
+    "name": "坂下三花🍋‍🟩",
+    "description": "恋人@Kagurazakahyoto 「胸が痛んでも嘘がつけるのは何でなんでしょうか/匿名提问箱https://t.co/Ozgtc71AnS",
+    "location": "距离15.9km",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1900064000777609217/4-jT5Xxp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831961897899585536/1738423378",
-    "followers_count": 732,
-    "statuses_count": 12029,
-    "favourites_count": 62770,
-    "listed_count": 3,
+    "followers_count": 740,
+    "statuses_count": 12518,
+    "favourites_count": 63665,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -19,39 +19,9 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODMxOTYxODk3ODk5NTg1NTM2",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @sakurai_yuto_1",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 28,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "sakurai_yuto_1",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "sakurai_yuto_1"
-                                        },
-                                        "rest_id": "1850495394192801792"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
+        "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -60,14 +30,24 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/sukabak01",
+                            "expanded_url": "https://ngl.link/sukabak01",
+                            "url": "https://t.co/Ozgtc71AnS",
+                            "indices": [
+                                48,
+                                71
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 876,
+            "friends_count": 881,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1601,
+            "media_count": 1672,
             "pinned_tweet_ids_str": [
                 "1895080229955371363"
             ],
@@ -88,7 +68,7 @@
         },
         "twe_private_fields": {
             "created_at": 1725608744000,
-            "updated_at": 1741819128359
+            "updated_at": 1742120133443
         }
     }
 }

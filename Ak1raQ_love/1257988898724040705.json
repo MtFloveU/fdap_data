@@ -5,10 +5,10 @@
     "description": "夜夜皆空",
     "location": "Dimensional Space Time",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1898247925542920192/Ekr_0_25_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257988898724040705/1741539286",
-    "followers_count": 191,
-    "statuses_count": 1090,
-    "favourites_count": 4845,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257988898724040705/1742051883",
+    "followers_count": 192,
+    "statuses_count": 1134,
+    "favourites_count": 5065,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,9 +35,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "tkww.hk/a/202501/25/AP…",
-                            "expanded_url": "https://www.tkww.hk/a/202501/25/AP67942604e4b04111a49f8c4a.html",
-                            "url": "https://t.co/1TNm19Rb5q",
+                            "display_url": "whitehouse.gov/articles/2025/…",
+                            "expanded_url": "https://www.whitehouse.gov/articles/2025/03/50-wins-in-50-days-president-trump-delivers-for-american",
+                            "url": "https://t.co/2BbldtKPsJ",
                             "indices": [
                                 0,
                                 23
@@ -47,15 +47,15 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 727,
+            "friends_count": 734,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 316,
+            "media_count": 327,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/1TNm19Rb5q",
+            "url": "https://t.co/2BbldtKPsJ",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -74,7 +74,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1588762926000,
-            "updated_at": 1741819110986
+            "updated_at": 1742120116187
         }
     }
 }

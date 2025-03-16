@@ -1,21 +1,21 @@
 {
     "id": "1837092704045649920",
-    "screen_name": "xiaoyuqeq",
+    "screen_name": "xiaoxiaqeq",
     "name": "小雨（退x版）",
     "description": "4月1日起淡圈开始新的生活",
     "location": "pai",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885502250552045568/DXtv2Cbw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837092704045649920/1733536504",
-    "followers_count": 730,
-    "statuses_count": 93,
-    "favourites_count": 6079,
+    "followers_count": 725,
+    "statuses_count": 111,
+    "favourites_count": 6084,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-20 19:33:43 +08:00",
-    "url": "https://twitter.com/xiaoyuqeq",
+    "url": "https://twitter.com/xiaoxiaqeq",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODM3MDkyNzA0MDQ1NjQ5OTIw",
@@ -35,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 266,
+            "friends_count": 267,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 20,
+            "media_count": 22,
             "pinned_tweet_ids_str": [
                 "1895128570881794165"
             ],
@@ -54,7 +54,7 @@
         },
         "twe_private_fields": {
             "created_at": 1726832023000,
-            "updated_at": 1741819126270
+            "updated_at": 1742120130696
         }
     }
 }

@@ -3,12 +3,12 @@
     "screen_name": "ranakiang",
     "name": "楽奈ちゃん😼",
     "description": "/ᐠ .ᆺ. ᐟ\\ﾉ",
-    "location": "RING",
+    "location": "RiNG",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897997193623252992/jWbGW5SS_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1501548463208955904/1738911371",
-    "followers_count": 605,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1501548463208955904/1742096707",
+    "followers_count": 604,
     "statuses_count": 335,
-    "favourites_count": 4774,
+    "favourites_count": 4816,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -31,23 +31,10 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "youtube.com/@bang_dream_my…",
-                            "expanded_url": "https://www.youtube.com/@bang_dream_mygo",
-                            "url": "https://t.co/QSFntilYkf",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1326,
+            "friends_count": 1329,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 24,
@@ -55,7 +42,6 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/QSFntilYkf",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -76,7 +62,7 @@
         },
         "twe_private_fields": {
             "created_at": 1646832040000,
-            "updated_at": 1741819141723
+            "updated_at": 1742120151308
         }
     }
 }

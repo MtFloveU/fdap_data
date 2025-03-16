@@ -6,9 +6,9 @@
     "location": "Guangdong",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1814322788150501376/WnvDwgsu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586665730770366465/1719535119",
-    "followers_count": 1922,
-    "statuses_count": 10744,
-    "favourites_count": 42638,
+    "followers_count": 1919,
+    "statuses_count": 10776,
+    "favourites_count": 42778,
     "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
@@ -35,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1078,
+            "friends_count": 1079,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 402,
+            "media_count": 404,
             "pinned_tweet_ids_str": [
                 "1805759335131398557"
             ],
@@ -54,7 +54,7 @@
         },
         "twe_private_fields": {
             "created_at": 1667125638000,
-            "updated_at": 1741819161588
+            "updated_at": 1742120170045
         }
     }
 }

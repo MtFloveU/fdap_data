@@ -1,14 +1,14 @@
 {
     "id": "1554472312568954883",
     "screen_name": "ccblackrice",
-    "name": "是米饭欸🍥",
-    "description": "INFP-T | 是木桶饭🚪支付宝口令22",
+    "name": "是米饭欸",
+    "description": "INFP-T | 是木桶饭",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1742205978442166272/sQ1djhqj_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1900444155488460800/wlj1UAuO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554472312568954883/1718560560",
     "followers_count": 381,
-    "statuses_count": 258,
-    "favourites_count": 3555,
+    "statuses_count": 259,
+    "favourites_count": 3641,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -37,7 +38,7 @@
             "friends_count": 497,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 53,
+            "media_count": 54,
             "pinned_tweet_ids_str": [
                 "1742202737587273883"
             ],
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1659450064000,
-            "updated_at": 1741819144767
+            "updated_at": 1742120151309
         }
     }
 }

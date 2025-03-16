@@ -6,10 +6,10 @@
     "location": "乌托邦 Utopia ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1843883663496458240/GypnDc1a_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1451898340262645760/1682080336",
-    "followers_count": 5533,
-    "statuses_count": 20278,
-    "favourites_count": 85828,
-    "listed_count": 20,
+    "followers_count": 5524,
+    "statuses_count": 20290,
+    "favourites_count": 85903,
+    "listed_count": 19,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -47,7 +48,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 292,
+            "friends_count": 291,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 1889,
@@ -78,7 +79,7 @@
         },
         "twe_private_fields": {
             "created_at": 1634994523000,
-            "updated_at": 1741819161588
+            "updated_at": 1742120170045
         }
     }
 }

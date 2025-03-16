@@ -6,9 +6,9 @@
     "location": "北京西城区",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1787194887726841856/QMGObFy-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/990912416983601153/1635426191",
-    "followers_count": 4288,
-    "statuses_count": 817,
-    "favourites_count": 56590,
+    "followers_count": 4297,
+    "statuses_count": 825,
+    "favourites_count": 56798,
     "listed_count": 13,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4272,
+            "friends_count": 4297,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 86,
@@ -80,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1525086905000,
-            "updated_at": 1741819138767
+            "updated_at": 1742120145804
         }
     }
 }

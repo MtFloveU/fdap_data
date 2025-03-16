@@ -6,10 +6,10 @@
     "location": "Wien",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1831835746921058304/mh2YW-_0_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 266,
-    "statuses_count": 2175,
-    "favourites_count": 8521,
-    "listed_count": 3,
+    "followers_count": 267,
+    "statuses_count": 2236,
+    "favourites_count": 8867,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 299,
+            "friends_count": 302,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 69,
+            "media_count": 71,
             "pinned_tweet_ids_str": [
                 "1879091740323504365"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1583018177000,
-            "updated_at": 1741819133705
+            "updated_at": 1742120142318
         }
     }
 }

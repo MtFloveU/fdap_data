@@ -6,9 +6,9 @@
     "location": "Zhejiang",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1795801971318026241/26FLh4mB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795801888128139264/1724388488",
-    "followers_count": 196,
-    "statuses_count": 1404,
-    "favourites_count": 834,
+    "followers_count": 197,
+    "statuses_count": 1409,
+    "favourites_count": 837,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,12 +35,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 642,
+            "friends_count": 641,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 102,
+            "media_count": 98,
             "pinned_tweet_ids_str": [
-                "1892926428687245499"
+                "1900253739035848776"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716987516000,
-            "updated_at": 1741819136179
+            "updated_at": 1742120142319
         }
     }
 }

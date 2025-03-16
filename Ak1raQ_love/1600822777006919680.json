@@ -6,9 +6,9 @@
     "location": "中国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1812485400868331520/rVgolGiu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600822777006919680/1682340855",
-    "followers_count": 1385,
-    "statuses_count": 11878,
-    "favourites_count": 55136,
+    "followers_count": 1387,
+    "statuses_count": 11976,
+    "favourites_count": 55380,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2381,
+            "friends_count": 2395,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 47,
+            "media_count": 48,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1670500877000,
-            "updated_at": 1741819080168
+            "updated_at": 1742120068263
         }
     }
 }

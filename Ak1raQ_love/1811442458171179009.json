@@ -6,9 +6,9 @@
     "location": "江苏徐州",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1811442651830644737/wVddPxyQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811442458171179009/1720717549",
-    "followers_count": 973,
-    "statuses_count": 644,
-    "favourites_count": 1613,
+    "followers_count": 980,
+    "statuses_count": 646,
+    "favourites_count": 1596,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 181,
+            "friends_count": 182,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 94,
+            "media_count": 96,
             "pinned_tweet_ids_str": [
                 "1883441099412488383"
             ],
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1720716529000,
-            "updated_at": 1741819147426
+            "updated_at": 1742120154346
         }
     }
 }

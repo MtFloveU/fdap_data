@@ -6,10 +6,10 @@
     "location": "大理石之都艾拉",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872247800387469312/Lgf4o-_h_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470407185121169410/1737818028",
-    "followers_count": 523,
-    "statuses_count": 4995,
-    "favourites_count": 106231,
-    "listed_count": 1,
+    "followers_count": 519,
+    "statuses_count": 5010,
+    "favourites_count": 106835,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 956,
+            "friends_count": 953,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 315,
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1639407377000,
-            "updated_at": 1741819158545
+            "updated_at": 1742120167028
         }
     }
 }

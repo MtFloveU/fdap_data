@@ -1,21 +1,21 @@
 {
     "id": "1812404792507105280",
-    "screen_name": "SMHC_Chen",
-    "name": "上海精神卫生中心陈主任",
-    "description": "上海市精神卫生中心陈嘉禾主任（副主任医师）(Parody）｜薯饼爱好者｜谢谢你看到我，祝你光华璀璨。｜人生是旷野不是轨道，我有权利拒绝任何一种解法。",
-    "location": "上海交通大学医学院附属精神卫生中心",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1883084172232929281/mHXs1Sq7_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812404792507105280/1739828395",
-    "followers_count": 245,
-    "statuses_count": 3088,
-    "favourites_count": 17116,
+    "screen_name": "SIP_Anran",
+    "name": "安然 An Ran S.I.P",
+    "description": "香港警務處西九龍總區重案組安然督察（Parody/非警務職員｜港警與脆薯餅爱好者｜谢谢你看到我，祝你光华璀璨。｜人生是旷野不是轨道，我有权利拒绝任何一种解法。｜睇住防騙 ADCC https://t.co/Fl7YoEAyid｜女同🎲@kusunoki_riko｜女兒與笨蛋@LUBANQIU｜緊急情況請即撥打999",
+    "location": "中國香港",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1900259403921608704/C9FZpxdt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812404792507105280/1741892462",
+    "followers_count": 258,
+    "statuses_count": 3161,
+    "favourites_count": 17354,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-14 16:32:47 +08:00",
-    "url": "https://twitter.com/SMHC_Chen",
+    "url": "https://twitter.com/SIP_Anran",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODEyNDA0NzkyNTA3MTA1Mjgw",
@@ -30,14 +30,24 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "adcc.gov.hk",
+                            "expanded_url": "https://www.adcc.gov.hk/",
+                            "url": "https://t.co/Fl7YoEAyid",
+                            "indices": [
+                                90,
+                                113
+                            ]
+                        }
+                    ]
                 },
                 "url": {
                     "urls": [
                         {
-                            "display_url": "smhc.org.cn",
-                            "expanded_url": "http://www.smhc.org.cn",
-                            "url": "https://t.co/Z4rnEEJ2Nh",
+                            "display_url": "police.gov.hk",
+                            "expanded_url": "http://www.police.gov.hk",
+                            "url": "https://t.co/IfmUotvzrX",
                             "indices": [
                                 0,
                                 23
@@ -47,17 +57,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 833,
+            "friends_count": 837,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 788,
+            "media_count": 796,
             "pinned_tweet_ids_str": [
                 "1890121502332448791"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/Z4rnEEJ2Nh",
+            "url": "https://t.co/IfmUotvzrX",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -67,8 +77,8 @@
             "professional_type": "Creator",
             "category": [
                 {
-                    "id": 993,
-                    "name": "Psychiatric Hospital",
+                    "id": 596,
+                    "name": "Safety & First Aid Service",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
@@ -80,7 +90,7 @@
         },
         "twe_private_fields": {
             "created_at": 1720945967000,
-            "updated_at": 1741819110986
+            "updated_at": 1742120113063
         }
     }
 }

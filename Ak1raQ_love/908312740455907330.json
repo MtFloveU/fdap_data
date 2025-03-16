@@ -6,9 +6,9 @@
     "location": "Seattle, WA",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1821401822323679232/gjmZ-8lh_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/908312740455907330/1723091129",
-    "followers_count": 89,
-    "statuses_count": 317,
-    "favourites_count": 2616,
+    "followers_count": 93,
+    "statuses_count": 340,
+    "favourites_count": 2908,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -49,10 +49,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 315,
+            "friends_count": 316,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 19,
+            "media_count": 21,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -69,7 +69,7 @@
         },
         "twe_private_fields": {
             "created_at": 1505393607000,
-            "updated_at": 1741819128359
+            "updated_at": 1742120133443
         }
     }
 }

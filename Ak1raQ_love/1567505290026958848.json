@@ -6,9 +6,9 @@
     "location": "距您2.8km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887872470319022080/E1KjNWh5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567505290026958848/1741438803",
-    "followers_count": 1917,
-    "statuses_count": 4861,
-    "favourites_count": 64347,
+    "followers_count": 1988,
+    "statuses_count": 5000,
+    "favourites_count": 66195,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -21,7 +21,7 @@
         "id": "VXNlcjoxNTY3NTA1MjkwMDI2OTU4ODQ4",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -47,14 +47,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2020,
+            "friends_count": 2043,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 847,
+            "media_count": 871,
             "pinned_tweet_ids_str": [
                 "1876099002103746722"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/5BLeIu7ql7",
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1662557397000,
-            "updated_at": 1741819144767
+            "updated_at": 1742120151308
         }
     }
 }

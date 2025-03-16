@@ -6,9 +6,9 @@
     "location": "United Kingdom 🇬🇧",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1893420011122802688/-00vSAjc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691334965458604032/1740351878",
-    "followers_count": 2936,
-    "statuses_count": 11148,
-    "favourites_count": 31404,
+    "followers_count": 2955,
+    "statuses_count": 11261,
+    "favourites_count": 31696,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": true,
@@ -37,11 +37,11 @@
             "friends_count": 1360,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 623,
+            "media_count": 631,
             "pinned_tweet_ids_str": [
                 "1859753953812152815"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1692080674000,
-            "updated_at": 1741819155366
+            "updated_at": 1742120167028
         }
     }
 }

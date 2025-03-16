@@ -6,9 +6,9 @@
     "location": "这里是桃子！希望你能喜欢咱！",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1893589817159467008/UaS6DVvA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874081707231694848/1739546446",
-    "followers_count": 79,
-    "statuses_count": 178,
-    "favourites_count": 170,
+    "followers_count": 98,
+    "statuses_count": 214,
+    "favourites_count": 196,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -21,7 +21,7 @@
         "id": "VXNlcjoxODc0MDgxNzA3MjMxNjk0ODQ4",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 238,
+            "friends_count": 258,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 16,
+            "media_count": 21,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -61,7 +61,7 @@
             "withheld_in_countries": []
         },
         "professional": {
-            "rest_id": "1874256124486234341",
+            "rest_id": "1900900745635131612",
             "professional_type": "Creator",
             "category": [
                 {
@@ -74,7 +74,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1735650887000,
-            "updated_at": 1741819119218
+            "updated_at": 1742120121803
         }
     }
 }

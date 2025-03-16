@@ -6,9 +6,9 @@
     "location": "♪往世乐土♪",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891965211952742401/AjYHGciB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889157954143981568/1740919706",
-    "followers_count": 419,
-    "statuses_count": 1017,
-    "favourites_count": 4646,
+    "followers_count": 450,
+    "statuses_count": 1170,
+    "favourites_count": 5262,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -21,7 +21,7 @@
         "id": "VXNlcjoxODg5MTU3OTU0MTQzOTgxNTY4",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
+        "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 533,
+            "friends_count": 567,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 65,
+            "media_count": 70,
             "pinned_tweet_ids_str": [
                 "1892200148526047718"
             ],
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1739245346000,
-            "updated_at": 1741819110986
+            "updated_at": 1742120116187
         }
     }
 }

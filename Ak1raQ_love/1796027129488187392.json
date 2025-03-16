@@ -1,13 +1,13 @@
 {
     "id": "1796027129488187392",
     "screen_name": "Asc_ius",
-    "name": "内科皇帝",
+    "name": "内科卑斯草莓硬糖",
     "description": "冷暴力艺术家",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872248924481921024/9GvOZd_k_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796027129488187392/1717043135",
     "followers_count": 12,
-    "statuses_count": 20,
+    "statuses_count": 19,
     "favourites_count": 110,
     "listed_count": 0,
     "verified_type": null,
@@ -41,7 +41,7 @@
             "pinned_tweet_ids_str": [
                 "1857100224512283026"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1717041221000,
-            "updated_at": 1741819050765
+            "updated_at": 1742120034945
         }
     }
 }

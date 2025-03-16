@@ -1,0 +1,72 @@
+{
+    "id": "1785288034596044800",
+    "screen_name": "Shikoku_Metan",
+    "name": "Larry's house",
+    "description": "Non-stop pop FM @Inaba_Tsumugi idk what's goin' on here but probably you don't need this",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1860613373983158272/Zml_s9uY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1785288034596044800/1726402807",
+    "followers_count": 10,
+    "statuses_count": 130,
+    "favourites_count": 134,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2024-04-30 20:40:18 +08:00",
+    "url": "https://twitter.com/Shikoku_Metan",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzg1Mjg4MDM0NTk2MDQ0ODAw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": false,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "cctv.com",
+                            "expanded_url": "http://cctv.com",
+                            "url": "https://t.co/L7mlrShU4C",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 39,
+            "pinned_tweet_ids_str": [
+                "1901098749746966671"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/L7mlrShU4C",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1714480818000,
+            "updated_at": 1742120113059
+        }
+    }
+}

@@ -6,9 +6,9 @@
     "location": "圆环之理 ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825021494805581824/1727490299",
-    "followers_count": 200,
-    "statuses_count": 2650,
-    "favourites_count": 7168,
+    "followers_count": 203,
+    "statuses_count": 2659,
+    "favourites_count": 7205,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,13 +34,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 265,
+            "friends_count": 268,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 246,
-            "pinned_tweet_ids_str": [
-                "1898189616391352414"
-            ],
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -51,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1723954014000,
-            "updated_at": 1741819116574
+            "updated_at": 1742120119265
         }
     }
 }

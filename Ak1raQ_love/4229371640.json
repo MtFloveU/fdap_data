@@ -6,9 +6,9 @@
     "location": "Latium",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/4229371640/1696596396",
-    "followers_count": 1154,
-    "statuses_count": 8591,
-    "favourites_count": 31394,
+    "followers_count": 1151,
+    "statuses_count": 8640,
+    "favourites_count": 31559,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1343,
+            "friends_count": 1346,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2816,
+            "media_count": 2832,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1447464410000,
-            "updated_at": 1741819161588
+            "updated_at": 1742120170045
         }
     }
 }

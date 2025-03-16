@@ -2,14 +2,14 @@
     "id": "1822910760873537536",
     "screen_name": "KoJikaXiaoLu_",
     "name": "-小鹿小鹿-🦌🐼",
-    "description": "小鹿です！ ｜バンドリ｜Steam｜ドラマー｜authoritarianism｜好宝宝们：@wu_tong6460 @morrrrrrrling @l1ny99 @LiuSuK_Arcaea @qinglongxiangmo @BronyaZay0818 @ChinaRhein0223 🥰🥰🥰",
+    "description": "小鹿です！ ｜バンドリ｜Steam｜ドラマー｜authoritarianism｜好宝宝们：@wu_tong6460 @morrrrrrrling @l1ny99 @LiuSuK_Arcaea @qinglongxiangmo @BronyaZay0818 🥰🥰🥰",
     "location": "花咲川女子学园",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895156362776059904/R7KYNGlN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822910760873537536/1740388939",
-    "followers_count": 1823,
-    "statuses_count": 8179,
-    "favourites_count": 20550,
-    "listed_count": 8,
+    "followers_count": 1815,
+    "statuses_count": 8266,
+    "favourites_count": 20643,
+    "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -47,10 +48,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1321,
+            "friends_count": 1311,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 455,
+            "media_count": 460,
             "pinned_tweet_ids_str": [
                 "1897223970572919164"
             ],
@@ -78,7 +79,7 @@
         },
         "twe_private_fields": {
             "created_at": 1723450775000,
-            "updated_at": 1741524777921
+            "updated_at": 1742120119265
         }
     }
 }

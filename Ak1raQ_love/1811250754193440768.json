@@ -6,12 +6,12 @@
     "location": "／ﾟ(๑°口°๑)ﾟ＼",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876103345871683584/Y-cKgPel_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811250754193440768/1740038948",
-    "followers_count": 2912,
-    "statuses_count": 1819,
-    "favourites_count": 14377,
-    "listed_count": 2,
+    "followers_count": 2910,
+    "statuses_count": 1855,
+    "favourites_count": 15019,
+    "listed_count": 3,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-11 12:07:02 +08:00",
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1720,
+            "friends_count": 1712,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 75,
+            "media_count": 79,
             "pinned_tweet_ids_str": [
                 "1893725912975200298"
             ],
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1720670822000,
-            "updated_at": 1741819119218
+            "updated_at": 1742120121806
         }
     }
 }

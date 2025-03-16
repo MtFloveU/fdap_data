@@ -54,7 +54,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -65,7 +64,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 129,
+            "friends_count": 127,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 2,
@@ -80,7 +79,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1736779866000,
-            "updated_at": 1741819113911
+            "updated_at": 1742120116187
         }
     }
 }

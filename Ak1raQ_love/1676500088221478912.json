@@ -1,31 +1,31 @@
 {
-    "id": "1872470138169307136",
-    "screen_name": "jjz12355",
-    "name": "小姜想躺平",
-    "description": "小男娘一枚，有🚪，不线下，接定制视频呦～求投喂",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1888783238916907009/HXbINcSS_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 2,
-    "statuses_count": 51,
-    "favourites_count": 27,
+    "id": "1676500088221478912",
+    "screen_name": "DOGYeah3376",
+    "name": "小皮🏳️‍⚧️",
+    "description": "忘记写简介了 于是打算不写",
+    "location": "Utopia",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676500088221478912/1740910514",
+    "followers_count": 45,
+    "statuses_count": 98,
+    "favourites_count": 1132,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
-    "created_at": "2024-12-27 10:30:52 +08:00",
-    "url": "https://twitter.com/jjz12355",
+    "created_at": "2023-07-05 15:55:57 +08:00",
+    "url": "https://twitter.com/DOGYeah3376",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxODcyNDcwMTM4MTY5MzA3MTM2",
+        "id": "VXNlcjoxNjc2NTAwMDg4MjIxNDc4OTEy",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +34,22 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 72,
+            "friends_count": 122,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 5,
-            "pinned_tweet_ids_str": [
-                "1872659074585903374"
-            ],
-            "possibly_sensitive": true,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {},
         "twe_private_fields": {
-            "created_at": 1735266652000,
-            "updated_at": 1741524722387
+            "created_at": 1688543757000,
+            "updated_at": 1742120113059
         }
     }
 }

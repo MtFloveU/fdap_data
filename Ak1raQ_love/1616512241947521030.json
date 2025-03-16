@@ -6,10 +6,10 @@
     "location": "IP属地：極東共和国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897846669464752128/c-avgQ1d_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616512241947521030/1740483809",
-    "followers_count": 460,
-    "statuses_count": 6521,
-    "favourites_count": 55679,
-    "listed_count": 2,
+    "followers_count": 459,
+    "statuses_count": 6665,
+    "favourites_count": 56954,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -25,7 +25,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 706,
+            "friends_count": 707,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1346,
+            "media_count": 1366,
             "pinned_tweet_ids_str": [
                 "1889523296624054533"
             ],
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1674241538000,
-            "updated_at": 1741819113911
+            "updated_at": 1742120116188
         }
     }
 }

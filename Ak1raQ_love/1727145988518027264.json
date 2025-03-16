@@ -1,14 +1,14 @@
 {
     "id": "1727145988518027264",
     "screen_name": "666wcnb",
-    "name": "在你的世界中相遇🍥🏳️‍⚧️",
-    "description": "炸柜三次/小证🏳️‍⚧️2024.01/家长绥靖/停糖谈判ing😭/希望每个人都能找到属于自己的宁静😇🙏",
+    "name": "在你的世界中相遇",
+    "description": "炸柜三次/小证2024.01/家长绥靖/停糖谈判ing😭/希望每个人都能找到属于自己的宁静😇🙏",
     "location": "霍格沃兹",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1831730640837881856/WYX3USpR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1727145988518027264/1700621207",
-    "followers_count": 121,
+    "followers_count": 122,
     "statuses_count": 95,
-    "favourites_count": 777,
+    "favourites_count": 772,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -49,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1700618682000,
-            "updated_at": 1741819133705
+            "updated_at": 1742120142318
         }
     }
 }

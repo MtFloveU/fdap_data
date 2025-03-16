@@ -6,9 +6,9 @@
     "location": "Chaozhou to Hualien(coastline)",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1814284664854675456/V3Uf43Pk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746533971809431552/1724944422",
-    "followers_count": 146,
-    "statuses_count": 680,
-    "favourites_count": 5928,
+    "followers_count": 147,
+    "statuses_count": 682,
+    "favourites_count": 5930,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,7 +50,7 @@
             "friends_count": 126,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 138,
+            "media_count": 139,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -76,7 +76,7 @@
         },
         "twe_private_fields": {
             "created_at": 1705241153000,
-            "updated_at": 1741819121853
+            "updated_at": 1742120124891
         }
     }
 }

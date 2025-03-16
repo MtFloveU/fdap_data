@@ -1,14 +1,14 @@
 {
     "id": "1176535991454064640",
     "screen_name": "lumigj02",
-    "name": "ؘ",
-    "description": "💖 Comprometida con @HobartR6 | 📧 Contacto: lumi@u.nus.edu",
-    "location": "",
+    "name": "猫卷",
+    "description": "💖 Comprometida con @HobartR6 | 19 🇸🇬 @NUSingapore",
+    "location": "成都/Singapore",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1741516825",
-    "followers_count": 2168,
-    "statuses_count": 10606,
-    "favourites_count": 25652,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1742016860",
+    "followers_count": 2175,
+    "statuses_count": 10736,
+    "favourites_count": 25709,
     "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": true,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 874,
+            "friends_count": 875,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 946,
-            "pinned_tweet_ids_str": [],
+            "media_count": 955,
+            "pinned_tweet_ids_str": [
+                "1899958748728484214"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -53,7 +55,7 @@
         },
         "twe_private_fields": {
             "created_at": 1569343024000,
-            "updated_at": 1741819128359
+            "updated_at": 1742120133444
         }
     }
 }

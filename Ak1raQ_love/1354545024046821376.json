@@ -1,24 +1,24 @@
 {
-    "id": "1774063407559512064",
-    "screen_name": "lightly_wind",
-    "name": "温柔的风穿堂过 | ※吟游诗人※",
-    "description": "这里是风风，一个立誓不对任何人恶语相向的笨蛋大猫猫ෆ╹ .̮ ╹ෆ/想成为像暖言猫猫一样用语言温暖身边所有人的人(◍•ᴗ•◍)✧*/不排斥任何观点和立场也不歧视任何人( ◜‿◝ )♡/从深渊中醒来过所以尽力去帮助身边处于痛苦和迷茫的人♡ ᒪ∅ᐯᕮ ♡/有烦恼可以和我说说哦，请你喝奶茶(´∩｡• ᵕ •｡∩`)",
-    "location": "异世界，王国都城，上城区",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1888802816195723264/7ghgfSrT_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774063407559512064/1737754338",
-    "followers_count": 755,
-    "statuses_count": 6914,
-    "favourites_count": 18399,
-    "listed_count": 16,
+    "id": "1354545024046821376",
+    "screen_name": "KURANAGA0",
+    "name": "怜子大王",
+    "description": "- 生命永存 - //2005.9.9 // 50🚪可以加好友聊聊天或者打我会的游戏//  提问箱https://t.co/CjNdBMEz8r // 花 绽放于长安的春日 温暖又幸福//",
+    "location": "致以辉煌的人们",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1900462523503243264/YHsJiZo2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1354545024046821376/1737494736",
+    "followers_count": 1831,
+    "statuses_count": 6646,
+    "favourites_count": 6616,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-03-30 21:17:38 +08:00",
-    "url": "https://twitter.com/lightly_wind",
+    "created_at": "2021-01-28 05:41:25 +08:00",
+    "url": "https://twitter.com/KURANAGA0",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxNzc0MDYzNDA3NTU5NTEyMDY0",
+        "id": "VXNlcjoxMzU0NTQ1MDI0MDQ2ODIxMzc2",
         "affiliates_highlighted_label": {
             "label": {
                 "badge": {
@@ -26,21 +26,21 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @Coldly_wind",
+                    "text": "Automated by @LianLianZiNya",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 25,
+                            "toIndex": 27,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "Coldly_wind",
+                                "screen_name": "LianLianZiNya",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "Coldly_wind"
+                                            "screen_name": "LianLianZiNya"
                                         },
-                                        "rest_id": "1882901619601461248"
+                                        "rest_id": "1694626666684039169"
                                     }
                                 }
                             }
@@ -60,14 +60,24 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/kuranaga3",
+                            "expanded_url": "https://ngl.link/kuranaga3",
+                            "url": "https://t.co/CjNdBMEz8r",
+                            "indices": [
+                                49,
+                                72
+                            ]
+                        }
+                    ]
                 },
                 "url": {
                     "urls": [
                         {
-                            "display_url": "limestart.cn",
-                            "expanded_url": "https://limestart.cn/",
-                            "url": "https://t.co/6iDsLyipfL",
+                            "display_url": "t.me/lianlianzinya",
+                            "expanded_url": "http://t.me/lianlianzinya",
+                            "url": "https://t.co/UpUmPYRpAP",
                             "indices": [
                                 0,
                                 23
@@ -77,36 +87,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 793,
-            "has_custom_timelines": false,
+            "friends_count": 727,
+            "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 646,
+            "media_count": 885,
             "pinned_tweet_ids_str": [
-                "1886440954007269741"
+                "1900565400968184174"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/6iDsLyipfL",
+            "url": "https://t.co/UpUmPYRpAP",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "professional": {
-            "rest_id": "1867227615456874894",
-            "professional_type": "Business",
-            "category": [
-                {
-                    "id": 552,
-                    "name": "Photographer",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
+        "tipjar_settings": {
+            "is_enabled": true
         },
-        "tipjar_settings": {},
         "twe_private_fields": {
-            "created_at": 1711804658000,
-            "updated_at": 1740914898772
+            "created_at": 1611783685000,
+            "updated_at": 1742120156940
         }
     }
 }

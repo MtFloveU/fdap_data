@@ -8,8 +8,8 @@
     "profile_banner_url": null,
     "followers_count": 38,
     "statuses_count": 602,
-    "favourites_count": 2350,
-    "listed_count": 0,
+    "favourites_count": 2341,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1609517632000,
-            "updated_at": 1741819058791
+            "updated_at": 1742120043124
         }
     }
 }

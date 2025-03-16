@@ -4,12 +4,12 @@
     "name": "one person",
     "description": "",
     "location": "Eternal sun",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898007498956980231/3eKsVBTh_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1900206642769129472/2OR5KPWH_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 66,
-    "statuses_count": 1128,
-    "favourites_count": 1785,
-    "listed_count": 0,
+    "followers_count": 71,
+    "statuses_count": 1172,
+    "favourites_count": 1871,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -19,37 +19,7 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY5MDc3MzMzNzY2NTk4NjU2",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @UNGAN11111",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 24,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "UNGAN11111",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "UNGAN11111"
-                                        },
-                                        "rest_id": "1889383162754768896"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
@@ -64,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 44,
+            "friends_count": 47,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 26,
+            "media_count": 27,
             "pinned_tweet_ids_str": [
                 "1897526782678753534"
             ],
@@ -92,7 +62,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1710615908000,
-            "updated_at": 1741819147426
+            "updated_at": 1742120154346
         }
     }
 }

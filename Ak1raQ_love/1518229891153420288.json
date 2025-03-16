@@ -6,10 +6,10 @@
     "location": "距离你2km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1826306485309374466/Wge1X5hC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518229891153420288/1739701910",
-    "followers_count": 63954,
-    "statuses_count": 11270,
-    "favourites_count": 25296,
-    "listed_count": 184,
+    "followers_count": 63971,
+    "statuses_count": 11275,
+    "favourites_count": 25295,
+    "listed_count": 186,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 207,
+            "friends_count": 206,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1417,
+            "media_count": 1419,
             "pinned_tweet_ids_str": [
                 "1714068722921398352"
             ],
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1650809197000,
-            "updated_at": 1741819161588
+            "updated_at": 1742120170045
         }
     }
 }

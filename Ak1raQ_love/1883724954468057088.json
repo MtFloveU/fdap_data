@@ -1,0 +1,55 @@
+{
+    "id": "1883724954468057088",
+    "screen_name": "Itis_pft",
+    "name": "百变小丑帕霏特",
+    "description": "可能是某人的另一个账户？到底是不是谁知道呢，反正也没有人会在意的吧？我的身份信息是捏造的，请不要当真，这是为了让那个真正的“我”不被任何人找到，欢迎私信聊天（帕霏特法则：我说的话将有一半是假的，无论何时我都将遵循法则）如果看到感兴趣的帖子就会进行互动，几乎什么内容都看，并不避讳政治话题和性话题，但我不会键政，顶多玩玩梗",
+    "location": "无法被定义，甚至可能根本不存在的宫殿",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1883725528349204480/NoiYgyUd_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883724954468057088/1737950380",
+    "followers_count": 45,
+    "statuses_count": 300,
+    "favourites_count": 426,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2025-01-27 11:54:22 +08:00",
+    "url": "https://twitter.com/Itis_pft",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODgzNzI0OTU0NDY4MDU3MDg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 103,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1737950062000,
+            "updated_at": 1742120113060
+        }
+    }
+}

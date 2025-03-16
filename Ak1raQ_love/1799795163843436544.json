@@ -6,9 +6,9 @@
     "location": "≥999999km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873573738257756160/iAWE5ly9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799795163843436544/1717940291",
-    "followers_count": 28,
-    "statuses_count": 305,
-    "favourites_count": 2096,
+    "followers_count": 29,
+    "statuses_count": 310,
+    "favourites_count": 2106,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 461,
+            "friends_count": 463,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 10,
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1717939593000,
-            "updated_at": 1741819075220
+            "updated_at": 1742120063167
         }
     }
 }

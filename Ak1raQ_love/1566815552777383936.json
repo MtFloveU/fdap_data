@@ -6,10 +6,10 @@
     "location": "Sichuan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894629674883444737/vlmY531Q_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1566815552777383936/1740549891",
-    "followers_count": 14228,
+    "followers_count": 14197,
     "statuses_count": 14439,
-    "favourites_count": 76967,
-    "listed_count": 56,
+    "favourites_count": 76918,
+    "listed_count": 58,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -35,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7286,
+            "friends_count": 7270,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 4541,
@@ -65,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1662392921000,
-            "updated_at": 1741819128359
+            "updated_at": 1742120136173
         }
     }
 }

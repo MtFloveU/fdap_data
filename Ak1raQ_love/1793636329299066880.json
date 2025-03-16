@@ -6,10 +6,10 @@
     "location": "宇宙之外",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793636329299066880/1728542550",
-    "followers_count": 1680,
-    "statuses_count": 2059,
-    "favourites_count": 6559,
-    "listed_count": 2,
+    "followers_count": 1750,
+    "statuses_count": 2117,
+    "favourites_count": 6682,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -31,33 +31,19 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/troellstoree2",
-                            "expanded_url": "https://t.me/troellstoree2",
-                            "url": "https://t.co/YwNpXr1X9R",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3013,
+            "friends_count": 3108,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 149,
+            "media_count": 151,
             "pinned_tweet_ids_str": [
                 "1868290454615474348"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/YwNpXr1X9R",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -69,7 +55,7 @@
         },
         "twe_private_fields": {
             "created_at": 1716471210000,
-            "updated_at": 1741819124356
+            "updated_at": 1742120128126
         }
     }
 }
