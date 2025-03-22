@@ -1,15 +1,15 @@
 {
     "id": "1248637653001494529",
     "screen_name": "Fomalhautawa",
-    "name": "師醬",
-    "description": "你好誒，可以叫我師師。\n一些碎碎唸和日常照片。\n偶爾澀澀抽象一下啊咪。\n謝謝你呀。\n一些碎碎念指路@Ning0809pepsi",
+    "name": "師霂澪。",
+    "description": "你好誒，可以叫我師師。\n一些碎碎唸和日常照片。\n偶爾澀澀抽象一下啊咪。\n會經常刪舊推文喵。\n謝謝你呀。\n一些碎碎念指路@Ning0809pepsi",
     "location": "萱華軒",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1897860278450294784/7V2pVXXB_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1901276682939760640/M7HGkXCx_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248637653001494529/1741319943",
-    "followers_count": 1495,
-    "statuses_count": 24035,
-    "favourites_count": 106896,
-    "listed_count": 12,
+    "followers_count": 1593,
+    "statuses_count": 25461,
+    "favourites_count": 114183,
+    "listed_count": 17,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -31,33 +31,19 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/shisw1",
-                            "expanded_url": "https://ngl.link/shisw1",
-                            "url": "https://t.co/UqBs9GEVAT",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 262,
+            "friends_count": 266,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 40,
+            "media_count": 42,
             "pinned_tweet_ids_str": [
                 "1900761409329524973"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/UqBs9GEVAT",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -67,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1586533399000,
-            "updated_at": 1742120128126
+            "updated_at": 1742645338039
         }
     }
 }

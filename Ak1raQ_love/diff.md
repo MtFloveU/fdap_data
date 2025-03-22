@@ -1,30 +1,31 @@
-🕒Time: `2025-03-16 18:16:26 CST`
+🕒Time: `2025-03-22 20:09:20 CST`
 Username: @`Ak1raQ_love`
-*1004 Following, 1268 Followers*
+*1009 Following, 1300 Followers*
 *Mutual Unfollow or Removal:*
-`王` @`w1a2ng`
-`✡春夏风波🇭🇰🌈` @`ChunXiaFb`
-`糖糖` @`amechan_mtf`
-`夏夏_ℳℯ𝓋𝒾𝓊𝓈🍥` @`XIAXIAKT`
-`🍥鹊宵🏳️‍⚧️` @`quexiao0131_4`
-`CHU²` @`kmg114514`
-`王` @`w3a4ng`
-`私は愛してる喜貓貓（想要讨要fo）` @`XiMaoMao630244`
-`熙` @`tuitewanii`
-`🍥樂晴不会取名字🏳️‍⚧️但是会把ID整的老长老长老长老长老长的给你抄` @`awaemmm`
-`梦雨` @`mngy289164`
-`文` @`fuckpregabalin`
-`Lumi` @`Dripluminum`
-`乌鸦再世＜徕丧【前乌鸦联邦成员（已解体，预备重组中）】` @`blackXD233`
-
-*One-Way Unfollowers:*
-`🔥意志` @`VIEGO_huohuo`
+`Kawroii.II` @`kawroii063_II`
+`ともえ🏳️‍⚧️🍥` @`tomoe_QAQ`
+`M&M 🏳️‍⚧️` @`lunarrdestiny`
+`🍑🍌🫐跳跳喜欢蹦蹦跳🍓🍊🍇` @`qinglongxiangmo`
+`临安月🍥` @`Linanyue42`
+`雨宮ミズキ` @`Amamiya_kksk`
+`「Mark Ⅱ 」😆🇺🇸` @`zzg114514`
+`三明治 Sandwich` @`0721sandwich`
+`𝜗𝜚 ame / 超絶最かわてんしちゃん 𝜗𝜚` @`x_angelkawill_x`
+`-落月-` @`luoyue_maimai`
+`長τμǐ㥁小东覀୧⍤⃝🍥` @`jsbxiaoyu`
+`𝓛𝓲𝓾𝓼𝓾𝓚` @`LoveYezi8964`
+`雪莹ちゃん🍥🏳️‍⚧️` @`SnowGlow_aww`
+`向梦revery🍥` @`xiangmeng_XM`
+`hotaru` @`hotaru31427`
+`☆🏳️‍⚧️🏳️‍🌈Filter🏳️‍🌈🏳️‍⚧️☆` @`gamingf1lter`
+`BakaHDT🏳️‍⚧️🍥` @`BakaHDT`
 
 *Returning Follows:*
-`怜子大王` @`KURANAGA0`
-`温柔的风穿堂过 | ※吟游诗人※` @`lightly_wind`
-`我会一个人活下去` @`zutto_suki513`
-`🐱Ivanovna` @`vkontakteluv`
-`阿列克谢·安东诺夫` @`Alexe_Antonov`
-`-小鹿小鹿-🦌🐼` @`KoJikaXiaoLu_`
-`小姜想躺平（求关注）` @`jjz12355`
+`夏夏_ℳℯ𝓋𝒾𝓊𝓈🍥` @`XIAXIAKT`
+`垐` @`4cyun`
+`K.▲` @`kazimir____`
+`为君扶病上高台` @`Radio_Portales`
+`王` @`w1a2ng`
+`顧某譞` @`GUMOUXUAN2`
+`王` @`w3a4ng`
+`私は愛してる喜貓貓（想要讨要fo）` @`XiMaoMao630244`

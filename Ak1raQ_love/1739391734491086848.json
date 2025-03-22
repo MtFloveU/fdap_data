@@ -2,13 +2,13 @@
     "id": "1739391734491086848",
     "screen_name": "IXXA00",
     "name": "isla",
-    "description": "你可以把我理解成一坨小猫。",
-    "location": "有q和v",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1900871115867901952/wtOdnGc6_normal.jpg",
+    "description": "一碗薄荷小甜酒(72度)。潘多拉魔盒慎点@ithra00",
+    "location": "有门槛",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1901807311053901824/xLERVQcD_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1739504613",
-    "followers_count": 3403,
-    "statuses_count": 17207,
-    "favourites_count": 18165,
+    "followers_count": 3504,
+    "statuses_count": 17831,
+    "favourites_count": 18832,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2656,
+            "friends_count": 2761,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1239,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1270,
+            "pinned_tweet_ids_str": [
+                "1902312663281000756"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -51,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1703538291000,
-            "updated_at": 1742120167028
+            "updated_at": 1742645351156
         }
     }
 }

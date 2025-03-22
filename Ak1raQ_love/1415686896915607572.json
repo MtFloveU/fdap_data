@@ -1,0 +1,57 @@
+{
+    "id": "1415686896915607572",
+    "screen_name": "jeanne73596520",
+    "name": "jeanne",
+    "description": "咕，大龄男娘（雾）25，177/63，希望有四爱姐姐（老公）看看我，主要还是康涩涩，偶尔发图啥的",
+    "location": "New Zealand",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1632783674998652929/VnNqzP1z_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415686896915607572/1678120937",
+    "followers_count": 799,
+    "statuses_count": 164,
+    "favourites_count": 81,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-07-15 22:57:24 +08:00",
+    "url": "https://twitter.com/jeanne73596520",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDE1Njg2ODk2OTE1NjA3NTcy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 366,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 112,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1626361044000,
+            "updated_at": 1742645333644
+        }
+    }
+}

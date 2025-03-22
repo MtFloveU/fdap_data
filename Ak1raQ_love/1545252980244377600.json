@@ -1,0 +1,70 @@
+{
+    "id": "1545252980244377600",
+    "screen_name": "zicai31311055",
+    "name": "然后",
+    "description": "一只柴郡。",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1829428529995407360/Fyw4FNqB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545252980244377600/1707504091",
+    "followers_count": 1267,
+    "statuses_count": 3175,
+    "favourites_count": 910,
+    "listed_count": 7,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-07-08 11:46:44 +08:00",
+    "url": "https://twitter.com/zicai31311055",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQ1MjUyOTgwMjQ0Mzc3NjAw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 305,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 216,
+            "pinned_tweet_ids_str": [
+                "1825355187533516950"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1792829934349762643",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 920,
+                    "name": "Other",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1657252004000,
+            "updated_at": 1742645295975
+        }
+    }
+}

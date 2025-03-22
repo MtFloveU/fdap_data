@@ -2,14 +2,14 @@
     "id": "1243945571796295681",
     "screen_name": "ryq59",
     "name": "你是想气死铨酱么🍥",
-    "description": "PUBGM Esport Palyer & Analyst（2023-）Language:CN/EN/JP｜Sister @shuo_zi27516 @hoshinofujivy @iranon_lcf @yizhikapaiqaq｜莱铭：@revive_meink",
+    "description": "17｜Retired Pro PUBG MOBILE Player｜互fo请DM",
     "location": "Tianjin",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243945571796295681/1736069194",
-    "followers_count": 16587,
-    "statuses_count": 21737,
-    "favourites_count": 172652,
-    "listed_count": 66,
+    "followers_count": 16635,
+    "statuses_count": 21876,
+    "favourites_count": 173916,
+    "listed_count": 67,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -19,37 +19,7 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjQzOTQ1NTcxNzk2Mjk1Njgx",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @xlj070423",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 23,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "xlj070423",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "xlj070423"
-                                        },
-                                        "rest_id": "1875852742855688192"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -78,10 +48,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4500,
+            "friends_count": 4574,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 4744,
+            "media_count": 4764,
             "pinned_tweet_ids_str": [
                 "1892556487030976572"
             ],
@@ -109,7 +79,7 @@
         },
         "twe_private_fields": {
             "created_at": 1585414717000,
-            "updated_at": 1742120170045
+            "updated_at": 1742645352400
         }
     }
 }

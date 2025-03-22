@@ -1,24 +1,24 @@
 {
-    "id": "1545277694325116928",
-    "screen_name": "4cyun",
-    "name": "小任同学陈塘日记",
-    "description": "",
-    "location": "小海地",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1872690942668677120/zldF3R0J_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1737175655",
-    "followers_count": 1045,
-    "statuses_count": 909,
-    "favourites_count": 8386,
-    "listed_count": 5,
+    "id": "1826940055438655488",
+    "screen_name": "GUMOUXUAN2",
+    "name": "顧某譞",
+    "description": "變出花田的魔法",
+    "location": "浦岛隧道",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1902624974793535490/-uqBu_qG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826940055438655488/1740557735",
+    "followers_count": 311,
+    "statuses_count": 1433,
+    "favourites_count": 9933,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-07-08 13:24:56 +08:00",
-    "url": "https://twitter.com/4cyun",
+    "created_at": "2024-08-23 19:10:40 +08:00",
+    "url": "https://twitter.com/GUMOUXUAN2",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxNTQ1Mjc3Njk0MzI1MTE2OTI4",
+        "id": "VXNlcjoxODI2OTQwMDU1NDM4NjU1NDg4",
         "affiliates_highlighted_label": {
             "label": {
                 "badge": {
@@ -26,21 +26,21 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @hereisryq",
+                    "text": "Automated by @zhouxuanjiu2",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 23,
+                            "toIndex": 26,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "hereisryq",
+                                "screen_name": "zhouxuanjiu2",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "hereisryq"
+                                            "screen_name": "zhouxuanjiu2"
                                         },
-                                        "rest_id": "1731220298610188288"
+                                        "rest_id": "1860742128688857088"
                                     }
                                 }
                             }
@@ -64,12 +64,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 944,
+            "friends_count": 617,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 176,
+            "media_count": 160,
             "pinned_tweet_ids_str": [
-                "1832651643797827628"
+                "1894318738285236597"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -78,21 +78,10 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "professional": {
-            "rest_id": "1739633602718216229",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 959,
-                    "name": "Gamer",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
         "tipjar_settings": {},
         "twe_private_fields": {
-            "created_at": 1657257896000,
-            "updated_at": 1740914925539
+            "created_at": 1724411440000,
+            "updated_at": 1742645341150
         }
     }
 }

@@ -1,0 +1,71 @@
+{
+    "id": "935100266814234624",
+    "screen_name": "YHsiko",
+    "name": "原狐siko",
+    "description": "kiger:Manuka from VRC 清水（确信）｜VRC民 ｜痛车佬(E90初音)｜雷批｜ 舞萌/中二痴｜SikoStudio所属｜VRC ID：原狐siko｜ISFP-T 最想顶的宝宝@FUFU_fy0721",
+    "location": "CHN,DPRK",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1830306286808039424/lFm9aobO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/935100266814234624/1728523187",
+    "followers_count": 789,
+    "statuses_count": 545,
+    "favourites_count": 4725,
+    "listed_count": 7,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2017-11-27 18:57:31 +08:00",
+    "url": "https://twitter.com/YHsiko",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5MzUxMDAyNjY4MTQyMzQ2MjQ=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "yhsiko.com",
+                            "expanded_url": "http://yhsiko.com",
+                            "url": "https://t.co/4ISV35WxIM",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 763,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 105,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/4ISV35WxIM",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1511780251000,
+            "updated_at": 1742645295975
+        }
+    }
+}

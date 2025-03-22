@@ -1,0 +1,55 @@
+{
+    "id": "1678805332167106560",
+    "screen_name": "grasswonder612",
+    "name": "みう（蓝凉大王版）",
+    "description": "宝祚延庥 景星拱极",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1678806477270831104/ic_uJALY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678805332167106560/1689093686",
+    "followers_count": 30,
+    "statuses_count": 25,
+    "favourites_count": 32,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-07-12 00:36:06 +08:00",
+    "url": "https://twitter.com/grasswonder612",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjc4ODA1MzMyMTY3MTA2NTYw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 91,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 7,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1689093366000,
+            "updated_at": 1742645295975
+        }
+    }
+}

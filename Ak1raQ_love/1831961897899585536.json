@@ -1,14 +1,14 @@
 {
     "id": "1831961897899585536",
     "screen_name": "kiriyama_lemon",
-    "name": "坂下三花🍋‍🟩",
-    "description": "恋人@Kagurazakahyoto 「胸が痛んでも嘘がつけるのは何でなんでしょうか/匿名提问箱https://t.co/Ozgtc71AnS",
+    "name": "黑夜里的🍋‍🟩",
+    "description": "恋人@Kagurazakahyoto 什么时候认的姐姐@Xinyi_ADHD",
     "location": "距离15.9km",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1900064000777609217/4-jT5Xxp_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1901820913844453376/BdaNhQnj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831961897899585536/1738423378",
-    "followers_count": 740,
-    "statuses_count": 12518,
-    "favourites_count": 63665,
+    "followers_count": 760,
+    "statuses_count": 13199,
+    "favourites_count": 65580,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -21,7 +21,7 @@
         "id": "VXNlcjoxODMxOTYxODk3ODk5NTg1NTM2",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -30,24 +30,14 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/sukabak01",
-                            "expanded_url": "https://ngl.link/sukabak01",
-                            "url": "https://t.co/Ozgtc71AnS",
-                            "indices": [
-                                48,
-                                71
-                            ]
-                        }
-                    ]
+                    "urls": []
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 881,
+            "friends_count": 886,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1672,
+            "media_count": 1749,
             "pinned_tweet_ids_str": [
                 "1895080229955371363"
             ],
@@ -68,7 +58,7 @@
         },
         "twe_private_fields": {
             "created_at": 1725608744000,
-            "updated_at": 1742120133443
+            "updated_at": 1742645340087
         }
     }
 }

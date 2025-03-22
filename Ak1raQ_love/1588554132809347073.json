@@ -1,0 +1,57 @@
+{
+    "id": "1588554132809347073",
+    "screen_name": "YalisanY",
+    "name": "ame",
+    "description": "👁️我是吉他张👁️",
+    "location": "日本の最高企業",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1821609516942970881/vCaJfOA4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1588554132809347073/1723201994",
+    "followers_count": 166,
+    "statuses_count": 623,
+    "favourites_count": 776,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2022-11-04 23:30:34 +08:00",
+    "url": "https://twitter.com/YalisanY",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTg4NTU0MTMyODA5MzQ3MDcz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": false,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 64,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 144,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1667575834000,
+            "updated_at": 1742645333644
+        }
+    }
+}

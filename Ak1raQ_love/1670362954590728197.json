@@ -1,15 +1,15 @@
 {
     "id": "1670362954590728197",
     "screen_name": "Kagurazakahyoto",
-    "name": "神楽坂温原🍥🌂",
-    "description": "🏳️‍⚧️| MTX|:HRT：2025/01/14|无证含糖 |永远17岁|中 ENG｜双相|bpd Nagi @NagiVictoria 🌟💢@kiriyama_lemon清酱@heiwawomamore",
+    "name": "神楽坂 溫原🍥🌂",
+    "description": "07| MTX🏳️‍⚧️|:HRT：2025/01/14|无证含糖｜🌟💢@kiriyama_lemon清酱@heiwawomamore",
     "location": "土星",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1900007594804097024/0ak-lC8K_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670362954590728197/1740919082",
-    "followers_count": 662,
-    "statuses_count": 1672,
-    "favourites_count": 6961,
-    "listed_count": 1,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670362954590728197/1742284473",
+    "followers_count": 741,
+    "statuses_count": 2056,
+    "favourites_count": 8498,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -26,19 +26,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @HyotoKagurazaka",
+                    "text": "Automated by @HyotoChandesuyo",
                     "entities": [
                         {
                             "fromIndex": 13,
                             "toIndex": 29,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "HyotoKagurazaka",
+                                "screen_name": "HyotoChandesuyo",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "HyotoKagurazaka"
+                                            "screen_name": "HyotoChandesuyo"
                                         },
                                         "rest_id": "1680834021377593344"
                                     }
@@ -65,10 +65,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 929,
+            "friends_count": 988,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 209,
+            "media_count": 228,
             "pinned_tweet_ids_str": [
                 "1897212243445735651"
             ],
@@ -84,7 +84,7 @@
         },
         "twe_private_fields": {
             "created_at": 1687080552000,
-            "updated_at": 1742120124890
+            "updated_at": 1742645336943
         }
     }
 }

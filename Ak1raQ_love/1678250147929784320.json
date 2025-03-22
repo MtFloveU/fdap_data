@@ -1,0 +1,55 @@
+{
+    "id": "1678250147929784320",
+    "screen_name": "HarlanT_Herbert",
+    "name": "有坂 美咲",
+    "description": "",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1898786326180515840/ZZKDAO1p_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678250147929784320/1730899861",
+    "followers_count": 54,
+    "statuses_count": 321,
+    "favourites_count": 1278,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-07-10 11:50:34 +08:00",
+    "url": "https://twitter.com/HarlanT_Herbert",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjc4MjUwMTQ3OTI5Nzg0MzIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 658,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 7,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1688961034000,
+            "updated_at": 1742645295975
+        }
+    }
+}

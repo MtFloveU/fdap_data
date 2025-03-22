@@ -1,21 +1,21 @@
 {
     "id": "1765072369599795202",
-    "screen_name": "Kaoruko155",
+    "screen_name": "Kaoruko157",
     "name": "小混沌",
     "description": "私たくさんの人に助けられてま す、この気持ちをいつか返せる人 |大切な弟 @_Pnky__|",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1792135388347457536/iBr2rRJL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1765072369599795202/1739984279",
-    "followers_count": 519,
-    "statuses_count": 625,
-    "favourites_count": 996,
+    "followers_count": 518,
+    "statuses_count": 656,
+    "favourites_count": 1057,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-03-06 01:50:37 +08:00",
-    "url": "https://twitter.com/Kaoruko155",
+    "url": "https://twitter.com/Kaoruko157",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY1MDcyMzY5NTk5Nzk1MjAy",
@@ -24,7 +24,6 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -38,7 +37,7 @@
             "friends_count": 700,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 32,
+            "media_count": 33,
             "pinned_tweet_ids_str": [
                 "1895345693382058375"
             ],
@@ -52,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1709661037000,
-            "updated_at": 1742120119265
+            "updated_at": 1742645335153
         }
     }
 }

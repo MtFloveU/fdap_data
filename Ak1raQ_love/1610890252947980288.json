@@ -1,0 +1,57 @@
+{
+    "id": "1610890252947980288",
+    "screen_name": "cuzhnh3",
+    "name": "天然丐",
+    "description": "大傻逼\n里推\n@kaitshel1680（虽然里推但无黄，因为我丑逼）",
+    "location": "地狱",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1878349025180880896/K1IC9XQb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1610890252947980288/1732293341",
+    "followers_count": 149,
+    "statuses_count": 2982,
+    "favourites_count": 1063,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-01-05 14:45:49 +08:00",
+    "url": "https://twitter.com/cuzhnh3",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjEwODkwMjUyOTQ3OTgwMjg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 185,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 605,
+            "pinned_tweet_ids_str": [
+                "1838600550042202359"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1672901149000,
+            "updated_at": 1742645295975
+        }
+    }
+}

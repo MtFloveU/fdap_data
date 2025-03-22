@@ -2,14 +2,14 @@
     "id": "1309455512895807488",
     "screen_name": "codemica",
     "name": "但为君故✨",
-    "description": "惟文字与甜酒是终身热爱｜生活与思想账本｜个人博客 https://t.co/ys8P710ap3｜小号 @codemetic",
-    "location": "穷发之北，有冥海者",
+    "description": "唯文字和甜酒是终生热爱｜2002",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1901189888550350848/HnJ44ETu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309455512895807488/1736874291",
-    "followers_count": 3924,
-    "statuses_count": 8541,
-    "favourites_count": 52734,
-    "listed_count": 14,
+    "followers_count": 3929,
+    "statuses_count": 8629,
+    "favourites_count": 53094,
+    "listed_count": 15,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -30,30 +30,34 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
+                    "urls": []
+                },
+                "url": {
                     "urls": [
                         {
                             "display_url": "dreams.plus",
                             "expanded_url": "https://dreams.plus",
                             "url": "https://t.co/ys8P710ap3",
                             "indices": [
-                                25,
-                                48
+                                0,
+                                23
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 375,
+            "friends_count": 359,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 644,
+            "media_count": 651,
             "pinned_tweet_ids_str": [
-                "1891142247967601145"
+                "1874102164165190019"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/ys8P710ap3",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -66,7 +70,7 @@
         },
         "twe_private_fields": {
             "created_at": 1601033503000,
-            "updated_at": 1742120124891
+            "updated_at": 1742645338039
         }
     }
 }

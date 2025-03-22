@@ -1,0 +1,69 @@
+{
+    "id": "1557846379736666113",
+    "screen_name": "taffy_lovely",
+    "name": "坂下🌸小菲",
+    "description": "丨09 15岁高一在读丨喜欢玩音游和galgame丨不鉴证\n大爱塔菲\n偶尔发癫\n匿名提问:https://t.co/EeD9BHymb4",
+    "location": "距离你-18cm",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1897596618557566976/oj3eVEVx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1741257188",
+    "followers_count": 231,
+    "statuses_count": 1743,
+    "favourites_count": 412,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-08-12 05:48:42 +08:00",
+    "url": "https://twitter.com/taffy_lovely",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTU3ODQ2Mzc5NzM2NjY2MTEz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/taffy_lovable",
+                            "expanded_url": "https://ngl.link/taffy_lovable",
+                            "url": "https://t.co/EeD9BHymb4",
+                            "indices": [
+                                45,
+                                68
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 480,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 86,
+            "pinned_tweet_ids_str": [
+                "1902017058822664292"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "offensive_profile_content",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1660254522000,
+            "updated_at": 1742645333644
+        }
+    }
+}

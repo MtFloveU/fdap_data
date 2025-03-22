@@ -1,24 +1,24 @@
 {
-    "id": "1809497565630722052",
-    "screen_name": "w1a2ng",
-    "name": "王",
-    "description": "",
+    "id": "1560523219924164610",
+    "screen_name": "kazimir____",
+    "name": "K.▲",
+    "description": "@KarubonWaito",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898273031887151104/ZDDZFSmD_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 1656,
-    "statuses_count": 8564,
-    "favourites_count": 43104,
-    "listed_count": 6,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1903348451347402753/jWq39RYE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560523219924164610/1741700783",
+    "followers_count": 1106,
+    "statuses_count": 3969,
+    "favourites_count": 23215,
+    "listed_count": 3,
     "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
+    "is_blue_verified": false,
+    "following": false,
     "followed_by": true,
-    "created_at": "2024-07-06 16:00:34 +08:00",
-    "url": "https://twitter.com/w1a2ng",
+    "created_at": "2022-08-19 15:05:09 +08:00",
+    "url": "https://twitter.com/kazimir____",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxODA5NDk3NTY1NjMwNzIyMDUy",
+        "id": "VXNlcjoxNTYwNTIzMjE5OTI0MTY0NjEw",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
@@ -34,26 +34,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 902,
+            "friends_count": 5037,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 194,
+            "media_count": 73,
             "pinned_tweet_ids_str": [
-                "1889138032894480534"
+                "1895031580894343444"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": true,
+            "want_retweets": false,
             "withheld_in_countries": []
         },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
+        "tipjar_settings": {},
         "twe_private_fields": {
-            "created_at": 1720252834000,
-            "updated_at": 1741819116574
+            "created_at": 1660892709000,
+            "updated_at": 1742645295975
         }
     }
 }

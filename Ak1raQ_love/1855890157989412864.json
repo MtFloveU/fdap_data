@@ -1,0 +1,55 @@
+{
+    "id": "1855890157989412864",
+    "screen_name": "w3a4ng",
+    "name": "王",
+    "description": "",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1898272845991440384/a9P4Eh69_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 609,
+    "statuses_count": 1364,
+    "favourites_count": 3155,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-11-11 16:27:58 +08:00",
+    "url": "https://twitter.com/w3a4ng",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODU1ODkwMTU3OTg5NDEyODY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 551,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 69,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1731313678000,
+            "updated_at": 1742645335152
+        }
+    }
+}

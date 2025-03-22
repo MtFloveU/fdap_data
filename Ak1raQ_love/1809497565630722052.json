@@ -1,24 +1,24 @@
 {
-    "id": "1855890157989412864",
-    "screen_name": "w3a4ng",
+    "id": "1809497565630722052",
+    "screen_name": "w1a2ng",
     "name": "王",
     "description": "",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898272845991440384/a9P4Eh69_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1898273031887151104/ZDDZFSmD_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 586,
-    "statuses_count": 1363,
-    "favourites_count": 3249,
-    "listed_count": 1,
+    "followers_count": 1664,
+    "statuses_count": 8566,
+    "favourites_count": 42875,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-11-11 16:27:58 +08:00",
-    "url": "https://twitter.com/w3a4ng",
+    "created_at": "2024-07-06 16:00:34 +08:00",
+    "url": "https://twitter.com/w1a2ng",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxODU1ODkwMTU3OTg5NDEyODY0",
+        "id": "VXNlcjoxODA5NDk3NTY1NjMwNzIyMDUy",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 566,
+            "friends_count": 902,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 69,
-            "pinned_tweet_ids_str": [],
+            "media_count": 194,
+            "pinned_tweet_ids_str": [
+                "1889138032894480534"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -46,10 +48,12 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "tipjar_settings": {},
+        "tipjar_settings": {
+            "is_enabled": false
+        },
         "twe_private_fields": {
-            "created_at": 1731313678000,
-            "updated_at": 1741819113911
+            "created_at": 1720252834000,
+            "updated_at": 1742645336006
         }
     }
 }

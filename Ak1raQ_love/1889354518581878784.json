@@ -1,21 +1,21 @@
 {
     "id": "1889354518581878784",
-    "screen_name": "genya2027",
+    "screen_name": "huanye2027",
     "name": "陈艳琼🇷🇺丶",
     "description": "无论去与往 皆是梦中人",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894698060879699968/WZpZzZtX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889354518581878784/1740671421",
-    "followers_count": 165,
-    "statuses_count": 955,
-    "favourites_count": 13528,
+    "followers_count": 179,
+    "statuses_count": 1084,
+    "favourites_count": 17496,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2025-02-12 00:43:54 +08:00",
-    "url": "https://twitter.com/genya2027",
+    "url": "https://twitter.com/huanye2027",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODg5MzU0NTE4NTgxODc4Nzg0",
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 219,
+            "friends_count": 234,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 119,
+            "media_count": 130,
             "pinned_tweet_ids_str": [
                 "1900409159746805920"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1739292234000,
-            "updated_at": 1742120116188
+            "updated_at": 1742645334573
         }
     }
 }

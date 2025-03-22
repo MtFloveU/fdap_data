@@ -1,15 +1,15 @@
 {
     "id": "1798017061131874304",
     "screen_name": "cupric_oxide_",
-    "name": "氧化铜",
-    "description": "好盆友：@Acgbaka233Ba @ci_shang85157 \nI only exist on the internet\n提问↓",
+    "name": "氧化铜🍥",
+    "description": "🏳️‍⚧️🍥🏳️‍⚧️🍥🏳️‍⚧️🍥\n好盆友：@Acgbaka233Ba @ci_shang85157 \nI only exist on the internet\nNGL暂时停用\n手机炸了qwq",
     "location": "南门二",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1813853619403538432/6azYMx2y_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798017061131874304/1742106826",
-    "followers_count": 535,
-    "statuses_count": 3054,
-    "favourites_count": 20900,
-    "listed_count": 2,
+    "followers_count": 587,
+    "statuses_count": 3319,
+    "favourites_count": 21548,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -31,31 +31,19 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/cupric_oxide_",
-                            "expanded_url": "https://ngl.link/cupric_oxide_",
-                            "url": "https://t.co/MQWBfhwtLz",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1106,
+            "friends_count": 1121,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 365,
-            "pinned_tweet_ids_str": [],
+            "media_count": 393,
+            "pinned_tweet_ids_str": [
+                "1903394790919835928"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/MQWBfhwtLz",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -65,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1717515659000,
-            "updated_at": 1742120113063
+            "updated_at": 1742645334573
         }
     }
 }

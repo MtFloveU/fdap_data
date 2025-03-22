@@ -1,21 +1,21 @@
 {
     "id": "1848203946483159040",
-    "screen_name": "Miao_Mihua",
-    "name": "喵咪花",
+    "screen_name": "Jim_Mihua",
+    "name": "鸡米花",
     "description": "🇨🇳 | 共青团 | 实践派 | 喵娘 | 不约 | 顺女 | CN/EN | 厂东人 | 不管你的意识形态是啥（除了极端），都可以和我聊天 | 不主动建政 | 防丢联系人：@Time_Tim_C | 禁止使用人机和我聊天🤬",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886796480637493248/c4z31g1K_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848203946483159040/1741185127",
-    "followers_count": 117,
-    "statuses_count": 1044,
-    "favourites_count": 2078,
+    "followers_count": 124,
+    "statuses_count": 1149,
+    "favourites_count": 2269,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-10-21 11:25:44 +08:00",
-    "url": "https://twitter.com/Miao_Mihua",
+    "url": "https://twitter.com/Jim_Mihua",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQ4MjAzOTQ2NDgzMTU5MDQw",
@@ -34,12 +34,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 233,
+            "friends_count": 246,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 554,
+            "media_count": 613,
             "pinned_tweet_ids_str": [
-                "1899524015326368003"
+                "1901558500721078627"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1729481144000,
-            "updated_at": 1742120116187
+            "updated_at": 1742645334573
         }
     }
 }

@@ -1,14 +1,14 @@
 {
     "id": "1490707122291867648",
     "screen_name": "ACENANAMI",
-    "name": "滿洲山崗上的葉米爾",
-    "description": "我操，陰謀啊,,,\n@514k0ishi",
-    "location": "MouseEnaji市",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898523755900780544/o_diYL5N_normal.jpg",
+    "name": "葉米爾",
+    "description": "@NanamiVr",
+    "location": "鯊鯊國",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1902049244791615488/WV7q5ZJp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490707122291867648/1739314554",
-    "followers_count": 246,
-    "statuses_count": 12639,
-    "favourites_count": 94101,
+    "followers_count": 242,
+    "statuses_count": 12705,
+    "favourites_count": 94264,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -32,33 +32,19 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "box.n3ko.cc/_/yomier",
-                            "expanded_url": "https://box.n3ko.cc/_/yomier",
-                            "url": "https://t.co/M7CcXLKjRs",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 364,
+            "friends_count": 360,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3670,
+            "media_count": 3679,
             "pinned_tweet_ids_str": [
-                "1899801674413424830"
+                "1902050601279877540"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/M7CcXLKjRs",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -66,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1644247256000,
-            "updated_at": 1742120170045
+            "updated_at": 1742645353453
         }
     }
 }
