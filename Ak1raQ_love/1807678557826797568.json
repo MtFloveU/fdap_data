@@ -2,14 +2,14 @@
     "id": "1807678557826797568",
     "screen_name": "TeRiri141421",
     "name": "呼咻~（学习ing",
-    "description": "阿巴阿巴……\n痴呆ㅇㅁㅇing……",
+    "description": "阿巴阿巴……\n痴呆ㅇㅁㅇing……\n现在是~蜕变😋",
     "location": "Izena-son, Okinawa",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874115211260813314/8cSsZofv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807678557826797568/1742623622",
-    "followers_count": 1388,
-    "statuses_count": 5615,
-    "favourites_count": 36033,
-    "listed_count": 1,
+    "followers_count": 1419,
+    "statuses_count": 5815,
+    "favourites_count": 37389,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1724,
+            "friends_count": 1786,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 1078,
@@ -48,10 +48,12 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "tipjar_settings": {},
+        "tipjar_settings": {
+            "is_enabled": false
+        },
         "twe_private_fields": {
             "created_at": 1719819135000,
-            "updated_at": 1742645347083
+            "updated_at": 1742727946102
         }
     }
 }

@@ -2,13 +2,13 @@
     "id": "1733255083440357376",
     "screen_name": "7639xy_k",
     "name": "曦夜少吃两口",
-    "description": "没有个人立场全是私人恩怨｜任何成分互fo互动欢迎｜@TPR_luv是本人肉身控制者",
+    "description": "没有个人立场全是私人恩怨｜任何成分互fo互动欢迎｜@TPR_luv是本人肉身控制者【匿名留言处：https://t.co/TYFMy71gVS】",
     "location": "Anywhere",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1896406076364341248/IjwMVr8X_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1903603452896555008/Wug8ODzC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733255083440357376/1740472740",
-    "followers_count": 980,
-    "statuses_count": 3528,
-    "favourites_count": 35894,
+    "followers_count": 990,
+    "statuses_count": 3577,
+    "favourites_count": 36268,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
@@ -60,14 +60,24 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/xiye1965",
+                            "expanded_url": "https://ngl.link/xiye1965",
+                            "url": "https://t.co/TYFMy71gVS",
+                            "indices": [
+                                48,
+                                71
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 696,
+            "friends_count": 711,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 96,
+            "media_count": 100,
             "pinned_tweet_ids_str": [
                 "1898733868116516968"
             ],
@@ -81,7 +91,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1702075222000,
-            "updated_at": 1742120139076
+            "updated_at": 1742727940864
         }
     }
 }

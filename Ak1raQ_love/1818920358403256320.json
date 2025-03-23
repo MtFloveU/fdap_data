@@ -3,13 +3,13 @@
     "screen_name": "xuanyu20240316",
     "name": "萱雨🏳️‍⚧️🍥",
     "description": "mtf/无证含糖/仍然深柜中/HRT2024.3.16/生日2010.4.14/infp/CChOer（连省一线都过不了的废物）/朝7.5晚10一周6天的初三牲",
-    "location": "重庆市",
+    "location": "Chongqing",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885250161720647680/qEzol3xl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818920358403256320/1725444017",
-    "followers_count": 1560,
-    "statuses_count": 514,
-    "favourites_count": 6286,
-    "listed_count": 2,
+    "followers_count": 1611,
+    "statuses_count": 558,
+    "favourites_count": 7319,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -31,19 +31,31 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/xuanyu20240316",
+                            "expanded_url": "https://ngl.link/xuanyu20240316",
+                            "url": "https://t.co/CpO3M0EScL",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1802,
+            "friends_count": 1887,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 48,
-            "pinned_tweet_ids_str": [
-                "1899679588357206076"
-            ],
+            "media_count": 65,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/CpO3M0EScL",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -51,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1722499398000,
-            "updated_at": 1742120130696
+            "updated_at": 1742727938481
         }
     }
 }
