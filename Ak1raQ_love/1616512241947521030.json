@@ -2,14 +2,14 @@
     "id": "1616512241947521030",
     "screen_name": "Topia_Urbica",
     "name": "Topia Urbica",
-    "description": "|||小号：@Nagata_Hikari",
+    "description": "|||小号：@Nagata_Yume",
     "location": "IP属地：極東共和国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897846669464752128/c-avgQ1d_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616512241947521030/1740483809",
-    "followers_count": 471,
-    "statuses_count": 6864,
-    "favourites_count": 59521,
-    "listed_count": 3,
+    "followers_count": 472,
+    "statuses_count": 7067,
+    "favourites_count": 61251,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -35,9 +35,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "ngl.link/topia_urbica",
-                            "expanded_url": "https://ngl.link/topia_urbica",
-                            "url": "https://t.co/bRtEuECCoC",
+                            "display_url": "t.me/NagataHikari",
+                            "expanded_url": "http://t.me/NagataHikari",
+                            "url": "https://t.co/l94Ib1d0ED",
                             "indices": [
                                 0,
                                 23
@@ -50,14 +50,14 @@
             "friends_count": 723,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1402,
+            "media_count": 1447,
             "pinned_tweet_ids_str": [
                 "1889523296624054533"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/bRtEuECCoC",
+            "url": "https://t.co/l94Ib1d0ED",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1674241538000,
-            "updated_at": 1742645335152
+            "updated_at": 1743234013097
         }
     }
 }

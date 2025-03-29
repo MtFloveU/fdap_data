@@ -1,21 +1,21 @@
 {
     "id": "1705975905167020032",
-    "screen_name": "EmoooXYN",
+    "screen_name": "EmoooNET",
     "name": "云汐",
-    "description": "年份: 2007 / 身高: 167cm / 体重: 53kg / 有对象了 请勿打扰",
+    "description": "年份: 2007 / 身高: 166cm / 体重: 57kg / 有对象了 请勿打扰",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1899247971017125888/KYSy9Nvw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705975905167020032/1741052294",
-    "followers_count": 1959,
-    "statuses_count": 860,
-    "favourites_count": 782,
-    "listed_count": 3,
+    "followers_count": 1982,
+    "statuses_count": 884,
+    "favourites_count": 809,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-09-25 00:02:16 +08:00",
-    "url": "https://twitter.com/EmoooXYN",
+    "url": "https://twitter.com/EmoooNET",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzA1OTc1OTA1MTY3MDIwMDMy",
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1935,
+            "friends_count": 1945,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 48,
+            "media_count": 49,
             "pinned_tweet_ids_str": [
                 "1891639129462517910"
             ],
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1695571336000,
-            "updated_at": 1742120128126
+            "updated_at": 1743234016360
         }
     }
 }

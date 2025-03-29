@@ -3,12 +3,12 @@
     "screen_name": "muzijOvO",
     "name": "沐子酱",
     "description": "⚠️有涩涩请注意！打牌小猫～，是女孩。mtf。les。私信选择性回复，🚪88。只想和有趣的人聊天。接线下。",
-    "location": "沐子星球518",
+    "location": "沐子星球524",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1839609114743488512/SWdGz84Q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1610822912684003329/1727431966",
-    "followers_count": 20578,
-    "statuses_count": 862,
-    "favourites_count": 3484,
+    "followers_count": 20659,
+    "statuses_count": 873,
+    "favourites_count": 3539,
     "listed_count": 71,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 521,
+            "friends_count": 526,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 240,
-            "pinned_tweet_ids_str": [],
+            "media_count": 241,
+            "pinned_tweet_ids_str": [
+                "1903765674390139105"
+            ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -51,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1672885095000,
-            "updated_at": 1742727955032
+            "updated_at": 1743234035365
         }
     }
 }

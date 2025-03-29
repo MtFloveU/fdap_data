@@ -1,24 +1,24 @@
 {
-    "id": "1697903165570686976",
-    "screen_name": "kikoxts",
-    "name": "是kiko哦~🍥",
-    "description": "INF是固定，J/P随时刷新。休学中。想要变成女孩子。精神封印不稳定。渴望安全感。永远的好朋友@ringochichidim",
-    "location": "随机刷新在你身边1000米以内",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1895111547455762433/svnvayy3_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697903165570686976/1711860092",
-    "followers_count": 757,
-    "statuses_count": 1581,
-    "favourites_count": 2750,
+    "id": "1823771857755234305",
+    "screen_name": "azusayuri_1984",
+    "name": "あずにゃん8964🇮🇱🎌",
+    "description": "|⏰别急，能不能冷静一点呢|六四天安門事件|ISFP|不是支黑也不反支黑|单推习主席|文化多元🏳️‍⚧️也是一个猫娘喵～|点赞机器人|”中立“乐子人|想ban随意|我ban你就是觉得你恶心|关注个人资料不完全代表我的成分|欢迎私聊和fo~|小号@Mionyx8964\n想挂的弱智@elonmusk",
+    "location": "IP属地：大日本帝国|GPS定位：呉海軍工廠（中国）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890652731565920256/RiPy7F3R_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823771857755234305/1739602695",
+    "followers_count": 263,
+    "statuses_count": 37,
+    "favourites_count": 3494,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": null,
-    "created_at": "2023-09-02 17:24:11 +08:00",
-    "url": "https://twitter.com/kikoxts",
+    "followed_by": true,
+    "created_at": "2024-08-15 01:22:28 +08:00",
+    "url": "https://twitter.com/azusayuri_1984",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxNjk3OTAzMTY1NTcwNjg2OTc2",
+        "id": "VXNlcjoxODIzNzcxODU3NzU1MjM0MzA1",
         "affiliates_highlighted_label": {
             "label": {
                 "badge": {
@@ -26,21 +26,21 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @ruo_ming233",
+                    "text": "Automated by @Mionyx8964",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 25,
+                            "toIndex": 24,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "ruo_ming233",
+                                "screen_name": "Mionyx8964",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "ruo_ming233"
+                                            "screen_name": "Mionyx8964"
                                         },
-                                        "rest_id": "1775676451007950848"
+                                        "rest_id": "1886833813936070663"
                                     }
                                 }
                             }
@@ -51,9 +51,10 @@
             }
         },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -64,22 +65,26 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 236,
+            "friends_count": 681,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 195,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
+            "media_count": 1,
+            "pinned_tweet_ids_str": [
+                "1884392498875048151"
+            ],
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "tipjar_settings": {},
+        "tipjar_settings": {
+            "is_enabled": false
+        },
         "twe_private_fields": {
-            "created_at": 1693646651000,
-            "updated_at": 1740790911691
+            "created_at": 1723656148000,
+            "updated_at": 1743234015179
         }
     }
 }

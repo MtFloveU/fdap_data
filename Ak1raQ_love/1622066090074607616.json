@@ -1,14 +1,14 @@
 {
     "id": "1622066090074607616",
     "screen_name": "hoshinofujivy",
-    "name": "星野藤（真理部防卫官）",
-    "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤 」Foeverlove @ryq59、@NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+    "name": "星野藤（真理子翼骑兵团团长）",
+    "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤 」Foeverlove @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
     "location": "日本 京都",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1903466341862088704/Hsuu7fb7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622066090074607616/1742655759",
-    "followers_count": 1122,
-    "statuses_count": 3245,
-    "favourites_count": 11283,
+    "followers_count": 1134,
+    "statuses_count": 3407,
+    "favourites_count": 12254,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2128,
+            "friends_count": 2138,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 286,
-            "pinned_tweet_ids_str": [],
+            "media_count": 300,
+            "pinned_tweet_ids_str": [
+                "1905575185580949716"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1675565697000,
-            "updated_at": 1742727937296
+            "updated_at": 1743234017504
         }
     }
 }

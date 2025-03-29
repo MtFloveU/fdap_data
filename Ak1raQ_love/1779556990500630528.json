@@ -1,21 +1,21 @@
 {
     "id": "1779556990500630528",
-    "screen_name": "banyue_0",
-    "name": ".",
-    "description": "",
+    "screen_name": "Aspirin421",
+    "name": "rin",
+    "description": "新生。疯子/我不知道/碎碎念/也许是我自己",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1902103223223382021/NrOUm5nf_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 692,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1905870360706490368/Vq_r9V56_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779556990500630528/1743229914",
+    "followers_count": 688,
     "statuses_count": 20,
-    "favourites_count": 23776,
+    "favourites_count": 23736,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-04-15 01:07:16 +08:00",
-    "url": "https://twitter.com/banyue_0",
+    "url": "https://twitter.com/Aspirin421",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzc5NTU2OTkwNTAwNjMwNTI4",
@@ -24,9 +24,8 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 695,
+            "friends_count": 690,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 0,
@@ -62,7 +61,7 @@
         },
         "twe_private_fields": {
             "created_at": 1713114436000,
-            "updated_at": 1742645347083
+            "updated_at": 1743234028143
         }
     }
 }

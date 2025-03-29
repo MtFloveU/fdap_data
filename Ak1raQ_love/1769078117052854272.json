@@ -6,14 +6,14 @@
     "location": "匹诺康尼",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1770720359312240640/qCqdMpdW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769078117052854272/1711007696",
-    "followers_count": 5462,
-    "statuses_count": 62350,
-    "favourites_count": 75254,
-    "listed_count": 12,
+    "followers_count": 5550,
+    "statuses_count": 65187,
+    "favourites_count": 0,
+    "listed_count": 13,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": true,
+    "followed_by": null,
     "created_at": "2024-03-17 03:07:54 +08:00",
     "url": "https://twitter.com/huahuojiang_",
     "metadata": {
@@ -25,7 +25,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -44,15 +44,15 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3493,
+            "friends_count": 0,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3342,
+            "media_count": 3492,
             "pinned_tweet_ids_str": [
                 "1874363360755831286"
             ],
             "possibly_sensitive": false,
-            "profile_interstitial_type": "",
+            "profile_interstitial_type": "fake_account",
             "translator_type": "none",
             "verified": false,
             "want_retweets": true,
@@ -74,7 +74,7 @@
         },
         "twe_private_fields": {
             "created_at": 1710616074000,
-            "updated_at": 1742120156940
+            "updated_at": 1743234029045
         }
     }
 }

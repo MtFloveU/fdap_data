@@ -1,0 +1,78 @@
+{
+    "id": "1292518508215992322",
+    "screen_name": "ReversedFrontTW",
+    "name": "逆統戰：烽火 Reversed Front: Bonfire",
+    "description": "现代东亚国战手游《逆统战：烽火》4月5日中午开服：https://t.co/taRv5cdOhu",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1679048240510160897/YXcxgshb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292518508215992322/1702028516",
+    "followers_count": 11850,
+    "statuses_count": 2512,
+    "favourites_count": 2212,
+    "listed_count": 31,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2020-08-10 01:50:11 +08:00",
+    "url": "https://twitter.com/ReversedFrontTW",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjkyNTE4NTA4MjE1OTkyMzIy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": false,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "reversedfront-register.vercel.app/zh-CN",
+                            "expanded_url": "https://reversedfront-register.vercel.app/zh-CN",
+                            "url": "https://t.co/taRv5cdOhu",
+                            "indices": [
+                                25,
+                                48
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 334,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 359,
+            "pinned_tweet_ids_str": [
+                "1892565261535912402"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1738866609606009231",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 962,
+                    "name": "Mobile Application",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1596995411000,
+            "updated_at": 1743234010321
+        }
+    }
+}

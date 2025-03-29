@@ -1,15 +1,15 @@
 {
     "id": "1840634278427889664",
     "screen_name": "HotlineMiami888",
-    "name": "亿万人需献忠",
-    "description": "",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1897160439496089600/-csD-Zm5_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840634278427889664/1740389570",
-    "followers_count": 1463,
-    "statuses_count": 324,
-    "favourites_count": 678,
-    "listed_count": 5,
+    "name": "爱国侠",
+    "description": "我翻墙是来看黄的",
+    "location": "日本人学校",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1905422916210364417/9CNn0p2o_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840634278427889664/1742985567",
+    "followers_count": 1482,
+    "statuses_count": 435,
+    "favourites_count": 748,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,14 +34,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 864,
+            "friends_count": 953,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
+            "media_count": 10,
             "pinned_tweet_ids_str": [
                 "1892886544823824857"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1727676395000,
-            "updated_at": 1742645336006
+            "updated_at": 1743234014238
         }
     }
 }

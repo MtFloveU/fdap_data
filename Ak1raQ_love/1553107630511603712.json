@@ -2,14 +2,14 @@
     "id": "1553107630511603712",
     "screen_name": "JiZhenYouZi",
     "name": "纪真由子",
-    "description": "取次花丛懒回顾，半缘修道半缘君。",
+    "description": "九嶷山上白云飞，帝子乘风下翠微。",
     "location": "彩云间",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1865736630247809024/Qxu9B2PB_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553107630511603712/1723097341",
-    "followers_count": 8296,
-    "statuses_count": 14380,
-    "favourites_count": 18762,
-    "listed_count": 35,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1905429001339850752/NNL9e5cv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553107630511603712/1743124654",
+    "followers_count": 8284,
+    "statuses_count": 14461,
+    "favourites_count": 19101,
+    "listed_count": 34,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3252,
+            "friends_count": 3258,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1301,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1303,
+            "pinned_tweet_ids_str": [
+                "1905493100044202389"
+            ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1659124733000,
-            "updated_at": 1742645336006
+            "updated_at": 1743234014238
         }
     }
 }

@@ -2,13 +2,13 @@
     "id": "1378557011097382914",
     "screen_name": "OSS_LEN",
     "name": "OrenjiNako_橙柚橙七七",
-    "description": "ORENJI49(橙柚橙七七)/06年生/169cm/INFP/酷安用户/MTF/ADHD&ASD/如需回fo请私信",
+    "description": "交通 汉字 数码与人文",
     "location": "TSN天津, Chinese Mainland",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1746698329231335424/GiBLcS-Z_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378557011097382914/1705326732",
-    "followers_count": 2834,
-    "statuses_count": 2079,
-    "favourites_count": 8738,
+    "followers_count": 2825,
+    "statuses_count": 1705,
+    "favourites_count": 8502,
     "listed_count": 13,
     "verified_type": null,
     "is_blue_verified": false,
@@ -20,11 +20,10 @@
         "__typename": "User",
         "id": "VXNlcjoxMzc4NTU3MDExMDk3MzgyOTE0",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
+        "has_graduated_access": false,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -38,7 +37,7 @@
                         {
                             "display_url": "b23.tv/fixE8P",
                             "expanded_url": "https://b23.tv/fixE8P",
-                            "url": "https://t.co/568s8dDhrc",
+                            "url": "https://t.co/rKbG0U44Z6",
                             "indices": [
                                 0,
                                 23
@@ -48,17 +47,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4320,
+            "friends_count": 4311,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 450,
+            "media_count": 157,
             "pinned_tweet_ids_str": [
-                "1747389787366146549"
+                "1743898747321627013"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/568s8dDhrc",
+            "url": "https://t.co/rKbG0U44Z6",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -73,7 +72,7 @@
         },
         "twe_private_fields": {
             "created_at": 1617508586000,
-            "updated_at": 1742120170045
+            "updated_at": 1743234034124
         }
     }
 }

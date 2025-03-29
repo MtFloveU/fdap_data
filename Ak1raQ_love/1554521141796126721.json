@@ -1,14 +1,14 @@
 {
     "id": "1554521141796126721",
     "screen_name": "yhpss",
-    "name": "是樱时吗",
-    "description": "一个精神状态很奇葩的人\n负债：590989r",
+    "name": "樱花飘散时",
+    "description": "樱花…真的好漂亮…",
     "location": "现实与幻想的交界处",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1868107452719259648/QzB9Y5Am_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554521141796126721/1729439511",
-    "followers_count": 1352,
-    "statuses_count": 2851,
-    "favourites_count": 3729,
+    "followers_count": 1342,
+    "statuses_count": 2862,
+    "favourites_count": 3723,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,14 +34,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1373,
+            "friends_count": 1367,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 272,
+            "media_count": 273,
             "pinned_tweet_ids_str": [
                 "1888923592915841081"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1659461706000,
-            "updated_at": 1742120167028
+            "updated_at": 1743234032907
         }
     }
 }

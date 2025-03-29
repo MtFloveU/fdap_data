@@ -1,27 +1,27 @@
 {
     "id": "1897563168559525888",
-    "screen_name": "Moothreesan2",
-    "name": "迷人の暮酱🇹🇼🇯🇵🇵🇸🇺🇦（互fo）",
-    "description": "前世：@Moothreesan 不是支黑，是人类黑—平等地讨厌所有人",
+    "screen_name": "2ndMoothreesan",
+    "name": "迷人の暮酱",
+    "description": "前世：@Moothreesan 只想去爱自己想爱的人",
     "location": "中南海",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897564315567153152/uf5nUdBJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897563168559525888/1741260067",
-    "followers_count": 211,
-    "statuses_count": 509,
-    "favourites_count": 1566,
+    "followers_count": 271,
+    "statuses_count": 920,
+    "favourites_count": 2989,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2025-03-06 16:21:49 +08:00",
-    "url": "https://twitter.com/Moothreesan2",
+    "url": "https://twitter.com/2ndMoothreesan",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODk3NTYzMTY4NTU5NTI1ODg4",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
-        "parody_commentary_fan_label": "None",
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -37,7 +37,7 @@
                         {
                             "display_url": "cpcnews.cn",
                             "expanded_url": "http://www.cpcnews.cn",
-                            "url": "https://t.co/mIAU0nXS78",
+                            "url": "https://t.co/mIAU0nXkhA",
                             "indices": [
                                 0,
                                 23
@@ -47,17 +47,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 237,
+            "friends_count": 293,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 34,
+            "media_count": 54,
             "pinned_tweet_ids_str": [
-                "1897588187935248850"
+                "1905256193377141138"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/mIAU0nXS78",
+            "url": "https://t.co/mIAU0nXkhA",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1741249309000,
-            "updated_at": 1742645333645
+            "updated_at": 1743234011757
         }
     }
 }

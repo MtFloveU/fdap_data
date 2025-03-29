@@ -1,15 +1,15 @@
 {
     "id": "1467175651954200577",
     "screen_name": "kjkluk",
-    "name": "Pluie::miaou🏳️‍⚧️",
-    "description": "import miau if __name__ == ''__main__'': print ('miaou')",
+    "name": "🦊 きつね",
+    "description": "ssh -X guest@kitsune.qwq.io",
     "location": "Japan",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898722449942020096/nb7k-yt4_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1904135186444591104/_xtLDjwI_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 2090,
-    "statuses_count": 9283,
-    "favourites_count": 198066,
-    "listed_count": 13,
+    "followers_count": 2142,
+    "statuses_count": 9854,
+    "favourites_count": 209681,
+    "listed_count": 15,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -38,7 +38,7 @@
                         {
                             "display_url": "kjkluk.github.io",
                             "expanded_url": "http://kjkluk.github.io",
-                            "url": "https://t.co/GgffWMPMkn",
+                            "url": "https://t.co/i3MKU3UG3m",
                             "indices": [
                                 0,
                                 23
@@ -48,17 +48,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2440,
+            "friends_count": 2557,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 628,
+            "media_count": 669,
             "pinned_tweet_ids_str": [
-                "1897280320694837517"
+                "1903346835827331539"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/GgffWMPMkn",
+            "url": "https://t.co/i3MKU3UG3m",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -69,7 +69,7 @@
         },
         "twe_private_fields": {
             "created_at": 1638636923000,
-            "updated_at": 1742120170045
+            "updated_at": 1743234034124
         }
     }
 }

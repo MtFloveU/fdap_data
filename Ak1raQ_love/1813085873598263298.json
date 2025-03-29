@@ -2,13 +2,13 @@
     "id": "1813085873598263298",
     "screen_name": "hkwxsl",
     "name": "好困我先睡了",
-    "description": "废话推｜日记本https://t.co/52Ovg3TO5F ｜💞黏黏糊糊@Eglantine257",
+    "description": "废话推｜💞黏黏糊糊@Eglantine257",
     "location": "第六病室",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1899112945105453056/9N16SiP8_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1905298794645970944/dqoBpuuR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813085873598263298/1737380730",
-    "followers_count": 722,
-    "statuses_count": 505,
-    "favourites_count": 3897,
+    "followers_count": 719,
+    "statuses_count": 501,
+    "favourites_count": 3895,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,24 +30,14 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/+QLoWmOfE4-9hN…",
-                            "expanded_url": "https://t.me/+QLoWmOfE4-9hNzM9",
-                            "url": "https://t.co/52Ovg3TO5F",
-                            "indices": [
-                                7,
-                                30
-                            ]
-                        }
-                    ]
+                    "urls": []
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 623,
+            "friends_count": 619,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
+            "media_count": 10,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -59,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1721108359000,
-            "updated_at": 1742645344928
+            "updated_at": 1743234025521
         }
     }
 }

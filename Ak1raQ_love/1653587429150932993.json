@@ -2,13 +2,13 @@
     "id": "1653587429150932993",
     "screen_name": "qibai05",
     "name": "于飞飞🍥",
-    "description": "168/50｜MTF.｜INFP｜无证含糖🍥｜萝莉控（所以纳西妲是我老婆！）☺️｜飞飞不是人机！｜努力读书ing｜聊起来问题会很多｜好迷茫不知道以后要怎么过｜有个很好的宝宝是床上的鸭鸭｜还有一个对我很好的人：@hanseme1",
+    "description": "168/50｜MTF.｜INFP｜无证含糖🍥｜萝莉控（所以纳西妲是我老婆！）☺️｜飞飞不是人机！｜这里可以匿名问飞飞问题（回答在ins里面）：https://t.co/SQuOwcK5jf｜努力读书ing｜聊起来问题会很多｜好迷茫不知道以后要怎么过｜有个很好的宝宝是床上的鸭鸭｜对象是呆瓜：@zeroking1122",
     "location": "距你 520m",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892107563417862146/lOZvztDX_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653587429150932993/1715665049",
-    "followers_count": 165,
-    "statuses_count": 92,
-    "favourites_count": 22,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653587429150932993/1742870582",
+    "followers_count": 227,
+    "statuses_count": 115,
+    "favourites_count": 30,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,14 +30,24 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/qibai05",
+                            "expanded_url": "https://ngl.link/qibai05",
+                            "url": "https://t.co/SQuOwcK5jf",
+                            "indices": [
+                                71,
+                                94
+                            ]
+                        }
+                    ]
                 },
                 "url": {
                     "urls": [
                         {
-                            "display_url": "facebook.com/profile.php?id…",
-                            "expanded_url": "https://www.facebook.com/profile.php?id=61559303656827",
-                            "url": "https://t.co/tAaTmBkXv5",
+                            "display_url": "linktr.ee/Yufeifei",
+                            "expanded_url": "https://linktr.ee/Yufeifei",
+                            "url": "https://t.co/TQ7Z5NSPg4",
                             "indices": [
                                 0,
                                 23
@@ -47,17 +57,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 25,
+            "friends_count": 87,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 23,
+            "media_count": 33,
             "pinned_tweet_ids_str": [
-                "1789609477009965435"
+                "1904380233127796991"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/tAaTmBkXv5",
+            "url": "https://t.co/TQ7Z5NSPg4",
             "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
@@ -68,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1683080956000,
-            "updated_at": 1742120056944
+            "updated_at": 1743233980639
         }
     }
 }

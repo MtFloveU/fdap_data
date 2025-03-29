@@ -2,13 +2,13 @@
     "id": "1844025283676094464",
     "screen_name": "Konekoutena",
     "name": "枫糖小猫",
-    "description": "YouTube频道“夜昕时光”，愿用知识治愈每一颗受伤的心… https://t.co/VWQrtRQrcm",
+    "description": "出生于不幸的原生家庭，遭受过其父（北京高通律师事务所律师张海秦）的极端家暴。现开始接受家暴事件投稿，愿为每一个受到家暴的孩子发声。只有我们敢于反抗，才能制止家暴的恶行",
     "location": "Aoba-ku, Miyagi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894011794416357376/sd-Gqb3F_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844025283676094464/1741241748",
-    "followers_count": 7083,
-    "statuses_count": 10408,
-    "favourites_count": 4733,
+    "followers_count": 7098,
+    "statuses_count": 10825,
+    "favourites_count": 4986,
     "listed_count": 26,
     "verified_type": null,
     "is_blue_verified": true,
@@ -30,17 +30,7 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "youtube.com/@yexintime",
-                            "expanded_url": "https://youtube.com/@yexintime",
-                            "url": "https://t.co/VWQrtRQrcm",
-                            "indices": [
-                                31,
-                                54
-                            ]
-                        }
-                    ]
+                    "urls": []
                 },
                 "url": {
                     "urls": [
@@ -57,12 +47,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1415,
+            "friends_count": 1456,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3514,
+            "media_count": 3622,
             "pinned_tweet_ids_str": [
-                "1897996611189641532"
+                "1905815686150324366"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -77,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1728484872000,
-            "updated_at": 1742120128126
+            "updated_at": 1743234016360
         }
     }
 }

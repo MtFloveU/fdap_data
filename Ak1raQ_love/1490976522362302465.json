@@ -1,21 +1,21 @@
 {
     "id": "1490976522362302465",
-    "screen_name": "huannan_",
+    "screen_name": "whyuounot",
     "name": "星酱ouo",
-    "description": "就是\n那很好了",
-    "location": "13.14/58/168",
+    "description": "",
+    "location": "52/88/168",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1899092064437936128/xkbjHlEU_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490976522362302465/1738518264",
-    "followers_count": 5833,
-    "statuses_count": 11363,
-    "favourites_count": 7163,
+    "followers_count": 5818,
+    "statuses_count": 11657,
+    "favourites_count": 7193,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2022-02-08 17:11:27 +08:00",
-    "url": "https://twitter.com/huannan_",
+    "url": "https://twitter.com/whyuounot",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDkwOTc2NTIyMzYyMzAyNDY1",
@@ -47,13 +47,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1151,
+            "friends_count": 1140,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1662,
-            "pinned_tweet_ids_str": [
-                "1892884229991911532"
-            ],
+            "media_count": 1706,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -78,7 +76,7 @@
         },
         "twe_private_fields": {
             "created_at": 1644311487000,
-            "updated_at": 1742120139077
+            "updated_at": 1743234022965
         }
     }
 }

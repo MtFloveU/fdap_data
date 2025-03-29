@@ -1,19 +1,19 @@
 {
     "id": "1263250188757426176",
     "screen_name": "yunyunyunnya",
-    "name": "口腔溃疡！！！！！！🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
-    "description": "主人是银子 mtx",
+    "name": "口腔溃疡！！！！！！",
+    "description": "",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1893675318512361472/G3J8-h_b_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1904111748673921024/TZNA42zn_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263250188757426176/1721050525",
-    "followers_count": 1275,
-    "statuses_count": 7570,
-    "favourites_count": 102782,
+    "followers_count": 1276,
+    "statuses_count": 7700,
+    "favourites_count": 104267,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": null,
+    "followed_by": true,
     "created_at": "2020-05-21 07:28:22 +08:00",
     "url": "https://twitter.com/yunyunyunnya",
     "metadata": {
@@ -25,7 +25,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1145,
+            "friends_count": 1156,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 641,
+            "media_count": 660,
             "pinned_tweet_ids_str": [
                 "1854636951338631206"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1590017302000,
-            "updated_at": 1742645333644
+            "updated_at": 1743234010321
         }
     }
 }

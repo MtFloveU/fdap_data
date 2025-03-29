@@ -1,0 +1,82 @@
+{
+    "id": "940931345001299970",
+    "screen_name": "pxwwu_chan",
+    "name": "pxwwu🦀🍥",
+    "description": "🦋：@pxwwu.icu|家暴党️|已摆烂の02年老阿姨|176cm|伪音摆烂中|🩷：MoeDreamAria（已销号，在用游客模式）",
+    "location": "阿莉亚的被窝",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1786755868819959808/fS4YVhX6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/940931345001299970/1715278543",
+    "followers_count": 12462,
+    "statuses_count": 17626,
+    "favourites_count": 171948,
+    "listed_count": 42,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2017-12-13 21:08:09 +08:00",
+    "url": "https://twitter.com/pxwwu_chan",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5NDA5MzEzNDUwMDEyOTk5NzA=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/+olTirZL8HI03M…",
+                            "expanded_url": "https://t.me/+olTirZL8HI03MTVl",
+                            "url": "https://t.co/WJWQzHwI82",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3140,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 3536,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/WJWQzHwI82",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1489017592278708224",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 576,
+                    "name": "Maid & Butler Service",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1513170489000,
+            "updated_at": 1743234010321
+        }
+    }
+}
