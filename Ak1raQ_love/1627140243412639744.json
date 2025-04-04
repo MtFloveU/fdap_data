@@ -1,0 +1,59 @@
+{
+    "id": "1627140243412639744",
+    "screen_name": "Smartest2077",
+    "name": "𝕿𝕽𝖀𝕿𝕳",
+    "description": "千粉大号 @Smartest8964 被人才🐜🐲封禁，寻回推油中",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1905821132827303936/P20zdPqi_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 143,
+    "statuses_count": 564,
+    "favourites_count": 1229,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-02-19 10:57:28 +08:00",
+    "url": "https://twitter.com/Smartest2077",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjI3MTQwMjQzNDEyNjM5NzQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 181,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 74,
+            "pinned_tweet_ids_str": [
+                "1906920003993256368"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1676775448000,
+            "updated_at": 1743737865748
+        }
+    }
+}

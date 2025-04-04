@@ -1,55 +1,56 @@
 {
-    "id": "1573778885996584960",
-    "screen_name": "altaz_0",
-    "name": "altaz",
-    "description": "伪人｜04年无证含糖mtf🏳️‍⚧️｜姛｜是xyn喵🍥｜gaht:1723106454｜双相妹｜intp-t｜持证电工（高低压）｜刷新点：成都/oxford｜妹妹：@shenyuebanran｜姐姐：@nekomakiuwu ｜欢迎多多交流喵~",
-    "location": "10.10.0.10",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1863241827387641856/w5b7b1wb_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573778885996584960/1727695700",
-    "followers_count": 843,
-    "statuses_count": 711,
-    "favourites_count": 84805,
-    "listed_count": 5,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2022-09-25 04:59:51 +08:00",
-    "url": "https://twitter.com/altaz_0",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTczNzc4ODg1OTk2NTg0OTYw",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1345,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 67,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1664053191000,
-            "updated_at": 1742120121806
+  "id": "1573778885996584960",
+  "screen_name": "altaz_0",
+  "name": "altaz",
+  "description": "伪人｜04年无证含糖mtf🏳️‍⚧️｜姛｜是xyn喵🍥｜gaht:1723106454｜双相妹｜intp-t｜持证电工（高低压）｜刷新点：成都/oxford｜妹妹：@shenyuebanran｜姐姐：@nekomakiuwu ｜欢迎多多交流喵~",
+  "location": "10.10.0.10",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1863241827387641856/w5b7b1wb_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573778885996584960/1727695700",
+  "followers_count": 843,
+  "statuses_count": 711,
+  "favourites_count": 84805,
+  "listed_count": 5,
+  "verified_type": null,
+  "is_blue_verified": false,
+  "following": true,
+  "followed_by": true,
+  "created_at": "2022-09-25 04:59:51 +08:00",
+  "url": "https://twitter.com/altaz_0",
+  "metadata": {
+    "__typename": "User",
+    "id": "VXNlcjoxNTczNzc4ODg1OTk2NTg0OTYw",
+    "affiliates_highlighted_label": {},
+    "has_graduated_access": true,
+    "parody_commentary_fan_label": "None",
+    "profile_image_shape": "Circle",
+    "legacy": {
+      "can_dm": true,
+      "can_media_tag": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "entities": {
+        "description": {
+          "urls": []
         }
+      },
+      "fast_followers_count": 0,
+      "friends_count": 1345,
+      "has_custom_timelines": true,
+      "is_translator": false,
+      "media_count": 67,
+      "pinned_tweet_ids_str": [],
+      "possibly_sensitive": false,
+      "profile_interstitial_type": "",
+      "translator_type": "none",
+      "verified": false,
+      "want_retweets": true,
+      "withheld_in_countries": []
+    },
+    "tipjar_settings": {},
+    "twe_private_fields": {
+      "created_at": 1664053191000,
+      "updated_at": 1742120121806
     }
+  },
+  "removed": true
 }

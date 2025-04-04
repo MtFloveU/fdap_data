@@ -2,14 +2,14 @@
     "id": "1754801089587933184",
     "screen_name": "jianyuhoudan123",
     "name": "鲣鱼厚蛋烧",
-    "description": "05‖173‖mtx‖胆小鬼‖笨笨的🐟‖欢迎大家‖上学ing‖欢迎同好互fo‖不是很☘️的黄推‖梦想成为超级大手子🙂‖遵守x规则‖\n防失踪小号:  @jianyuhoudan12",
-    "location": "☁️☁️☁️ ",
+    "description": "05‖173‖mtx‖胆小鬼‖笨笨的🐟‖欢迎大家‖上学ing‖欢迎同好互fo‖奇怪推‖梦想成为超级大手子🙂‖遵守x规则‖\n防失踪小号:  @jianyuhoudan12",
+    "location": "衣柜里的阴暗角落",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1903844456371200000/fNsvTERK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754801089587933184/1739146247",
-    "followers_count": 1197,
-    "statuses_count": 735,
-    "favourites_count": 1908,
-    "listed_count": 6,
+    "followers_count": 1357,
+    "statuses_count": 802,
+    "favourites_count": 2045,
+    "listed_count": 9,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -31,19 +31,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "baidu.com",
+                            "expanded_url": "http://www.baidu.com",
+                            "url": "https://t.co/nZbiQNnNae",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 335,
+            "friends_count": 344,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 65,
+            "media_count": 72,
             "pinned_tweet_ids_str": [
                 "1898007902583144580"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/nZbiQNnNae",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -53,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1707212163000,
-            "updated_at": 1743234011757
+            "updated_at": 1743737866835
         }
     }
 }

@@ -1,0 +1,99 @@
+{
+    "id": "1852912799552602113",
+    "screen_name": "TakeNitrite",
+    "name": "AhhDianん（锁）",
+    "description": "Ĉi tiu konto enhavas negativajn emociajn efikojn, bonvolu atenti singarde.Krome, ĉi tiu nombro ankaŭ povas esti uzata kiel fuĝkabano. Ĉefa konto: @Ziverk2",
+    "location": "Antarkto",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1863893525739515905/-_Oi4XQ-_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 59,
+    "statuses_count": 56,
+    "favourites_count": 126,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-11-03 11:17:41 +08:00",
+    "url": "https://twitter.com/TakeNitrite",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODUyOTEyNzk5NTUyNjAyMTEz",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Ziverk2",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 21,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Ziverk2",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Ziverk2"
+                                        },
+                                        "rest_id": "1532663208393117696"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 82,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1858741470616035562",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 993,
+                    "name": "Psychiatric Hospital",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1730603861000,
+            "updated_at": 1743737865748
+        }
+    }
+}

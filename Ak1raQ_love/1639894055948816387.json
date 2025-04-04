@@ -2,13 +2,13 @@
     "id": "1639894055948816387",
     "screen_name": "sakumamutsuki",
     "name": "kayo",
-    "description": "",
+    "description": "bye bye我消失個幾天很快回來（？）\n小賬退了幾個人 不是討厭只是我感覺會影響到你們的心情",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897442361916956672/aMMoErqv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639894055948816387/1739550878",
     "followers_count": 1054,
-    "statuses_count": 7730,
-    "favourites_count": 23168,
+    "statuses_count": 7843,
+    "favourites_count": 23268,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,37 +19,7 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjM5ODk0MDU1OTQ4ODE2Mzg3",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @Pheeveen",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 22,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "Pheeveen",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "Pheeveen"
-                                        },
-                                        "rest_id": "1625104752035139587"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -80,7 +50,7 @@
             "friends_count": 1569,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 215,
+            "media_count": 220,
             "pinned_tweet_ids_str": [
                 "1901437958718455846"
             ],
@@ -95,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1679816193000,
-            "updated_at": 1743233966991
+            "updated_at": 1743737822146
         }
     }
 }

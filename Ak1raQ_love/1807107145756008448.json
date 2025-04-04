@@ -1,14 +1,14 @@
 {
     "id": "1807107145756008448",
     "screen_name": "KagurazakaSiri",
-    "name": "翎玺.𝑰𝒓𝒊𝒔",
-    "description": "MaiMai♿️/東方project/メインゲームはmaimaiでらっくす，日本語勉強/💢入坑maimai since 2024.11.1 /😢9.00流速全外玩家 /💛Rating14100➕/𝑺𝒕𝒓𝒂𝒊𝒈𝒉𝒉𝒕 𝒊𝒏𝒕𝒐 𝒕𝒉𝒆 𝒍𝒊𝒈𝒉𝒕𝒔 ◁ ❚❚ ▷",
-    "location": "重庆",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1900936210782224384/8TrbAA92_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807107145756008448/1742665102",
-    "followers_count": 2861,
-    "statuses_count": 4536,
-    "favourites_count": 14318,
+    "name": "翎",
+    "description": "🏳️‍🌈🏳️‍⚧️MtX/术力口&東方project/ASD&ADHD/♿️maimaiでらっくす/前https://t.co/UmzmLuA9oi编辑/💢入坑maimai since 2024.11.1 /😢9.00流速全外玩家➡️Rating14100➕/7sRef&天空街/头像 (from:東京喰種)@sotonami",
+    "location": "重庆🏳️‍⚧️",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906796197278523392/2eeHkFvY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807107145756008448/1743616756",
+    "followers_count": 2955,
+    "statuses_count": 5129,
+    "favourites_count": 15586,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -58,7 +58,17 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "overspeed.wiki",
+                            "expanded_url": "http://overspeed.wiki",
+                            "url": "https://t.co/UmzmLuA9oi",
+                            "indices": [
+                                51,
+                                74
+                            ]
+                        }
+                    ]
                 },
                 "url": {
                     "urls": [
@@ -75,10 +85,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 623,
+            "friends_count": 655,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 628,
+            "media_count": 711,
             "pinned_tweet_ids_str": [
                 "1900823119130227094"
             ],
@@ -93,7 +103,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1719682900000,
-            "updated_at": 1743234027011
+            "updated_at": 1743737881428
         }
     }
 }

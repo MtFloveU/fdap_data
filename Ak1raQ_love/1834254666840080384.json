@@ -2,13 +2,13 @@
     "id": "1834254666840080384",
     "screen_name": "MoLing_111",
     "name": "不知道叫什么反正跟墙内不一样的小Mo🇨🇳🇹🇼🇺🇦🇵🇸",
-    "description": "人在大陆 初中OIer \n想要当南梁诶 | \n尊重历史 | \n两岸一家亲，反对武统，坐等梧桐 | \n基本地支持自己的祖国 | \n尊重每一位为国家解放或防止国家受侵略而战斗的英雄 | \n支持每一位劳动者 | \n反对独裁专制，支持人人平等 | \n自由左派 | \n友🏳️‍⚧️ | \nINTP | \n支持二次元瑟瑟",
+    "description": "人在大陆 初中OIer \n想要当南梁诶 | \n尊重历史 | \n两岸一家亲，反对武统，坐等梧桐 | \n基本地支持自己的祖国 | \n尊重每一位为国家解放或防止国家受侵略而战斗的英雄 | \n支持每一位劳动者 | \n自由左派 | \n友🏳️‍⚧️ | \nINTP",
     "location": "China Shaanxi Xi’an",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894032224959320064/HjrkwVLT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834254666840080384/1740407448",
-    "followers_count": 171,
-    "statuses_count": 331,
-    "favourites_count": 2529,
+    "followers_count": 205,
+    "statuses_count": 479,
+    "favourites_count": 3337,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -25,7 +25,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 344,
+            "friends_count": 459,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 14,
-            "pinned_tweet_ids_str": [],
+            "media_count": 26,
+            "pinned_tweet_ids_str": [
+                "1907789694449885251"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1726155372000,
-            "updated_at": 1742645333645
+            "updated_at": 1743737866835
         }
     }
 }

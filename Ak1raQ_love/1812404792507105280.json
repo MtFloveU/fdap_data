@@ -1,21 +1,21 @@
 {
     "id": "1812404792507105280",
-    "screen_name": "SIP_Anran",
-    "name": "安然 An Ran S.I.P",
-    "description": "香港警務處西九龍總區重案組安然督察（Parody/非警務職員｜港警與脆薯餅爱好者｜谢谢你看到我，祝你光华璀璨。｜人生是旷野不是轨道，我有权利拒绝任何一种解法。｜睇住防騙 ADCC https://t.co/Fl7YoEAyid｜女同🎲@kusunoki_riko｜女兒與笨蛋@LUBANQIU｜緊急情況請即撥打999",
-    "location": "中國香港",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1900259403921608704/C9FZpxdt_normal.jpg",
+    "screen_name": "HBS6YY_CHEN",
+    "name": "省六院精神科陈主任",
+    "description": "河北省第六人民医院｜河北省卫生精神卫生中心（河北大学附属第六医院／第六临床医学院／精神卫生研究院）普通精神科副主任医师（PARODY）",
+    "location": "乘17路，61路，101路，游1路至军校广场（省第六医院）站",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1907433702873083904/KtLn_u6I_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812404792507105280/1741892462",
-    "followers_count": 258,
-    "statuses_count": 3161,
-    "favourites_count": 17354,
+    "followers_count": 255,
+    "statuses_count": 3313,
+    "favourites_count": 17732,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-14 16:32:47 +08:00",
-    "url": "https://twitter.com/SIP_Anran",
+    "url": "https://twitter.com/HBS6YY_CHEN",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODEyNDA0NzkyNTA3MTA1Mjgw",
@@ -30,24 +30,14 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "adcc.gov.hk",
-                            "expanded_url": "https://www.adcc.gov.hk/",
-                            "url": "https://t.co/Fl7YoEAyid",
-                            "indices": [
-                                90,
-                                113
-                            ]
-                        }
-                    ]
+                    "urls": []
                 },
                 "url": {
                     "urls": [
                         {
-                            "display_url": "police.gov.hk",
-                            "expanded_url": "http://www.police.gov.hk",
-                            "url": "https://t.co/IfmUotvzrX",
+                            "display_url": "hbs6yy.com",
+                            "expanded_url": "http://www.hbs6yy.com",
+                            "url": "https://t.co/usByhzANkx",
                             "indices": [
                                 0,
                                 23
@@ -57,17 +47,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 837,
+            "friends_count": 843,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 796,
+            "media_count": 834,
             "pinned_tweet_ids_str": [
                 "1890121502332448791"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/IfmUotvzrX",
+            "url": "https://t.co/usByhzANkx",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -90,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1720945967000,
-            "updated_at": 1742120113063
+            "updated_at": 1743737866836
         }
     }
 }
