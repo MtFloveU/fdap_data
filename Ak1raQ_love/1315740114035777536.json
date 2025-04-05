@@ -1,24 +1,24 @@
 {
-    "id": "1646839168310583296",
-    "screen_name": "404_Tokio",
-    "name": "トキオ🍥",
-    "description": "🍥无证含糖🍥❤️旅游/机票/酒店/玩卡/数码/eSIM❤️🇹🇼立场🇹🇼",
-    "location": "Tungkun, Kwangtung",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1840973610821042176/RIqNhQQH_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646839168310583296/1704394058",
-    "followers_count": 862,
-    "statuses_count": 925,
-    "favourites_count": 2556,
-    "listed_count": 0,
+    "id": "1315740114035777536",
+    "screen_name": "soiflytoMYwithU",
+    "name": "君が早く死んでよかったな",
+    "description": "detran 对不起鲨鲨",
+    "location": "地獄",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1908116908647579648/qXavKmSB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315740114035777536/1737836134",
+    "followers_count": 163,
+    "statuses_count": 3830,
+    "favourites_count": 25262,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2023-04-14 19:33:58 +08:00",
-    "url": "https://twitter.com/404_Tokio",
+    "created_at": "2020-10-13 03:44:59 +08:00",
+    "url": "https://twitter.com/soiflytoMYwithU",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxNjQ2ODM5MTY4MzEwNTgzMjk2",
+        "id": "VXNlcjoxMzE1NzQwMTE0MDM1Nzc3NTM2",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
@@ -35,9 +35,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "mtf.wiki",
-                            "expanded_url": "http://mtf.wiki",
-                            "url": "https://t.co/hZqiEBXlHK",
+                            "display_url": "y.music.163.com/m/song?id=1946…",
+                            "expanded_url": "https://y.music.163.com/m/song?id=19466000",
+                            "url": "https://t.co/noNAYbE4NG",
                             "indices": [
                                 0,
                                 23
@@ -47,27 +47,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2506,
-            "has_custom_timelines": false,
+            "friends_count": 429,
+            "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 88,
+            "media_count": 615,
             "pinned_tweet_ids_str": [
-                "1822858390982517137"
+                "1908178712958497237"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/hZqiEBXlHK",
+            "url": "https://t.co/noNAYbE4NG",
             "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
         "tipjar_settings": {
-            "is_enabled": true
+            "is_enabled": false
         },
         "twe_private_fields": {
-            "created_at": 1681472038000,
-            "updated_at": 1743821281083
+            "created_at": 1602531899000,
+            "updated_at": 1743821209875
         }
     }
 }

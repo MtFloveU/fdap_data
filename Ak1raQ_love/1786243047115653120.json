@@ -1,31 +1,31 @@
 {
-    "id": "1897563168559525888",
-    "screen_name": "8964Moothreesan",
-    "name": "迷人の暮酱",
-    "description": "前世：@Moothreesan 只想去爱自己想爱的人",
-    "location": "中南海",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1897564315567153152/uf5nUdBJ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897563168559525888/1741260067",
-    "followers_count": 319,
-    "statuses_count": 1076,
-    "favourites_count": 3759,
-    "listed_count": 1,
+    "id": "1786243047115653120",
+    "screen_name": "PJRSYA520_cn",
+    "name": "平靜如水🇨🇳",
+    "description": "09年初三生/中立人(左倾)/不会屏蔽任何人，无论你有多么恶毒/互fo请私信留言提醒/逃生舱@PJRU_cn/朋友之一:@poor_tomato_qaq",
+    "location": "中华人民共和国",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1907987583587725313/6RPn63BE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786243047115653120/1743734637",
+    "followers_count": 784,
+    "statuses_count": 1929,
+    "favourites_count": 1758,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2025-03-06 16:21:49 +08:00",
-    "url": "https://twitter.com/8964Moothreesan",
+    "created_at": "2024-05-03 11:55:14 +08:00",
+    "url": "https://twitter.com/PJRSYA520_cn",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxODk3NTYzMTY4NTU5NTI1ODg4",
+        "id": "VXNlcjoxNzg2MjQzMDQ3MTE1NjUzMTIw",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,9 +35,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "cpcnews.cn",
-                            "expanded_url": "http://www.cpcnews.cn",
-                            "url": "https://t.co/mIAU0nXkhA",
+                            "display_url": "ngl.link/cncoreg",
+                            "expanded_url": "https://ngl.link/cncoreg",
+                            "url": "https://t.co/jdkCsRmhE3",
                             "indices": [
                                 0,
                                 23
@@ -47,25 +47,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 328,
+            "friends_count": 1120,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 55,
+            "media_count": 90,
             "pinned_tweet_ids_str": [
-                "1905256193377141138"
+                "1907992258173182406"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/mIAU0nXkhA",
+            "url": "https://t.co/jdkCsRmhE3",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "tipjar_settings": {},
+        "tipjar_settings": {
+            "is_enabled": false
+        },
         "twe_private_fields": {
-            "created_at": 1741249309000,
-            "updated_at": 1743821293965
+            "created_at": 1714708514000,
+            "updated_at": 1743821292769
         }
     }
 }

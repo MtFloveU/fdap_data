@@ -1,32 +1,31 @@
 {
-    "id": "1881864402347159552",
-    "screen_name": "PrivateofAlice",
-    "name": "ᛅᛚᛁᛋ",
-    "description": "@Minamikaze_1995",
-    "location": "ᛦ",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1903277458465665024/WsoOyB22_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881864402347159552/1742646128",
-    "followers_count": 86,
-    "statuses_count": 305,
-    "favourites_count": 635,
+    "id": "1894261375192764419",
+    "screen_name": "FmpXLkvxbk54771",
+    "name": "芝芝想知知",
+    "description": "烹饪工艺与营养专业学生/虽然我含糖，但是我真的只是为了改善下激素水平！真的！",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1894262836916084736/_CeLAf0J_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894261375192764419/1740462405",
+    "followers_count": 13,
+    "statuses_count": 161,
+    "favourites_count": 222,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2025-01-22 08:40:19 +08:00",
-    "url": "https://twitter.com/PrivateofAlice",
+    "created_at": "2025-02-25 13:41:41 +08:00",
+    "url": "https://twitter.com/FmpXLkvxbk54771",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxODgxODY0NDAyMzQ3MTU5NTUy",
+        "id": "VXNlcjoxODk0MjYxMzc1MTkyNzY0NDE5",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 99,
+            "friends_count": 41,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
+            "media_count": 24,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,8 +48,8 @@
         },
         "tipjar_settings": {},
         "twe_private_fields": {
-            "created_at": 1737506419000,
-            "updated_at": 1743821294953
+            "created_at": 1740462101000,
+            "updated_at": 1743821292769
         }
     }
 }

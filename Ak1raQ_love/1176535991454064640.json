@@ -2,13 +2,13 @@
     "id": "1176535991454064640",
     "screen_name": "lumigj02",
     "name": "貓歸雲卷",
-    "description": "22 🇸🇬 | Rapper @NUSingapore | 🏳️‍⚧️ GAHT 20230418 | ❤️ @Yan_Xing_Xing | @you_miaowu",
+    "description": "22 🇸🇬 | Rapper @NUSingapore | 🏳️‍⚧️ GAHT 20230418 | ❤️ @Yan_Xing_Xing | @you_miaowu | 日雌380包邮",
     "location": "Singapore",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1743234575",
-    "followers_count": 2220,
-    "statuses_count": 11228,
-    "favourites_count": 26230,
+    "followers_count": 2224,
+    "statuses_count": 11244,
+    "favourites_count": 26234,
     "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": true,
@@ -61,19 +61,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/lumigj",
+                            "expanded_url": "https://t.me/lumigj",
+                            "url": "https://t.co/xnU7yfJnaD",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 863,
+            "friends_count": 862,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 986,
+            "media_count": 987,
             "pinned_tweet_ids_str": [
-                "1893566219170488748"
+                "1907728523420381509"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/xnU7yfJnaD",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -85,7 +99,7 @@
         },
         "twe_private_fields": {
             "created_at": 1569343024000,
-            "updated_at": 1743737875599
+            "updated_at": 1743821304321
         }
     }
 }

@@ -1,87 +1,88 @@
 {
-    "id": "1797089026111098880",
-    "screen_name": "x_angelkawill_x",
-    "name": "𝜗𝜚 ame",
-    "description": "#1 internet angel 🎀       menherta , diary account . .",
-    "location": "#bpdtwt   #jiraitwt ୨୧ ꒱",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1907876218487386112/vet1P_oV_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797089026111098880/1743708136",
-    "followers_count": 3005,
-    "statuses_count": 6175,
-    "favourites_count": 27891,
-    "listed_count": 30,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2024-06-02 10:13:14 +08:00",
-    "url": "https://twitter.com/x_angelkawill_x",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzk3MDg5MDI2MTExMDk4ODgw",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @OMGfailureangel",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 29,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "OMGfailureangel",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "OMGfailureangel"
-                                        },
-                                        "rest_id": "1878041670899642368"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
+  "id": "1797089026111098880",
+  "screen_name": "x_angelkawill_x",
+  "name": "𝜗𝜚 ame",
+  "description": "#1 internet angel 🎀       menherta , diary account . .",
+  "location": "#bpdtwt   #jiraitwt ୨୧ ꒱",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1907876218487386112/vet1P_oV_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797089026111098880/1743708136",
+  "followers_count": 3005,
+  "statuses_count": 6175,
+  "favourites_count": 27891,
+  "listed_count": 30,
+  "verified_type": null,
+  "is_blue_verified": false,
+  "following": true,
+  "followed_by": true,
+  "created_at": "2024-06-02 10:13:14 +08:00",
+  "url": "https://twitter.com/x_angelkawill_x",
+  "metadata": {
+    "__typename": "User",
+    "id": "VXNlcjoxNzk3MDg5MDI2MTExMDk4ODgw",
+    "affiliates_highlighted_label": {
+      "label": {
+        "badge": {
+          "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
         },
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
+        "description": "Automated",
+        "longDescription": {
+          "text": "Automated by @OMGfailureangel",
+          "entities": [
+            {
+              "fromIndex": 13,
+              "toIndex": 29,
+              "ref": {
+                "type": "TimelineRichTextMention",
+                "screen_name": "OMGfailureangel",
+                "mention_results": {
+                  "result": {
+                    "__typename": "User",
+                    "legacy": {
+                      "screen_name": "OMGfailureangel"
+                    },
+                    "rest_id": "1878041670899642368"
+                  }
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 3384,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1214,
-            "pinned_tweet_ids_str": [
-                "1907878020289024092"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
+              }
+            }
+          ]
         },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1717294394000,
-            "updated_at": 1743737871505
+        "userLabelType": "AutomatedLabel"
+      }
+    },
+    "has_graduated_access": true,
+    "parody_commentary_fan_label": "None",
+    "profile_image_shape": "Circle",
+    "legacy": {
+      "can_dm": true,
+      "can_media_tag": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "entities": {
+        "description": {
+          "urls": []
         }
+      },
+      "fast_followers_count": 0,
+      "friends_count": 3384,
+      "has_custom_timelines": false,
+      "is_translator": false,
+      "media_count": 1214,
+      "pinned_tweet_ids_str": [
+        "1907878020289024092"
+      ],
+      "possibly_sensitive": false,
+      "profile_interstitial_type": "",
+      "translator_type": "none",
+      "verified": false,
+      "want_retweets": true,
+      "withheld_in_countries": []
+    },
+    "tipjar_settings": {},
+    "twe_private_fields": {
+      "created_at": 1717294394000,
+      "updated_at": 1743737871505
     }
+  },
+  "removed": true
 }
