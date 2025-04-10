@@ -7,9 +7,9 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1893561176073949184/SuZD_JLK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/985073553123852289/1738558560",
     "followers_count": 42,
-    "statuses_count": 1822,
-    "favourites_count": 6661,
-    "listed_count": 3,
+    "statuses_count": 1851,
+    "favourites_count": 7004,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 52,
+            "friends_count": 51,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 121,
+            "media_count": 128,
             "pinned_tweet_ids_str": [
                 "1898983839294468520"
             ],
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1523694811000,
-            "updated_at": 1742120113063
+            "updated_at": 1744300596043
         }
     }
 }

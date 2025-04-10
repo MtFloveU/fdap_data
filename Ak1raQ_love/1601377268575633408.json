@@ -4,11 +4,11 @@
     "name": "不瘦到60kg不改名🏳️‍🌈",
     "description": "日语学习ing；努力提升自己；furry控。",
     "location": "025",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1853348125618184192/Y5h2mx8y_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1909493410089828353/ejpaIIvp_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 506,
-    "statuses_count": 674,
-    "favourites_count": 2893,
+    "followers_count": 512,
+    "statuses_count": 700,
+    "favourites_count": 3291,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1516,
+            "friends_count": 1527,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 94,
-            "pinned_tweet_ids_str": [],
+            "media_count": 101,
+            "pinned_tweet_ids_str": [
+                "1909621815301095767"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1670633091000,
-            "updated_at": 1742645322087
+            "updated_at": 1744300428861
         }
     }
 }

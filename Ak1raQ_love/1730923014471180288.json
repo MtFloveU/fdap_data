@@ -6,10 +6,10 @@
     "location": "Science Museum",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881910733593804800/f5pIXB21_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1730923014471180288/1741433761",
-    "followers_count": 373,
-    "statuses_count": 2510,
-    "favourites_count": 218,
-    "listed_count": 2,
+    "followers_count": 391,
+    "statuses_count": 2591,
+    "favourites_count": 238,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 166,
+            "friends_count": 178,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 271,
+            "media_count": 280,
             "pinned_tweet_ids_str": [
                 "1881979901835968979"
             ],
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1701519195000,
-            "updated_at": 1742120163576
+            "updated_at": 1744300656134
         }
     }
 }

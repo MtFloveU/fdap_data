@@ -2,13 +2,13 @@
     "id": "1577533051558514688",
     "screen_name": "MizunoShio",
     "name": "Cecilia",
-    "description": "日本語勉強します | 中国語話し👌｜日本語ちょっと話します",
+    "description": "日本語勉強します | 中国語話し👌｜日本語ちょっと話します｜人像攝影｜在広州活動｜",
     "location": "Cfbdsir2149",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1823957370726440962/PWwul0an_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577533051558514688/1741416794",
-    "followers_count": 711,
-    "statuses_count": 4840,
-    "favourites_count": 57297,
+    "followers_count": 707,
+    "statuses_count": 4884,
+    "favourites_count": 58809,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -31,19 +31,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/kazamiei",
+                            "expanded_url": "https://ngl.link/kazamiei",
+                            "url": "https://t.co/DcZlvNgCsm",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2724,
+            "friends_count": 2798,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 637,
+            "media_count": 639,
             "pinned_tweet_ids_str": [
                 "1902388052296880270"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/DcZlvNgCsm",
             "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
@@ -64,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1664948174000,
-            "updated_at": 1742645319969
+            "updated_at": 1744300418748
         }
     }
 }

@@ -6,10 +6,10 @@
     "location": "雪国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884912807071895552/GNmJGAiW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822922661174910976/1742063807",
-    "followers_count": 410,
-    "statuses_count": 1605,
-    "favourites_count": 4898,
-    "listed_count": 1,
+    "followers_count": 526,
+    "statuses_count": 1883,
+    "favourites_count": 6315,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,8 +24,9 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,11 +35,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 519,
+            "friends_count": 621,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 129,
-            "pinned_tweet_ids_str": [],
+            "media_count": 146,
+            "pinned_tweet_ids_str": [
+                "1908798345272795619"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -51,7 +54,7 @@
         },
         "twe_private_fields": {
             "created_at": 1723453620000,
-            "updated_at": 1742120119265
+            "updated_at": 1744300604949
         }
     }
 }

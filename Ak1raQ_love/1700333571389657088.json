@@ -1,14 +1,14 @@
 {
     "id": "1700333571389657088",
     "screen_name": "Dongguacute",
-    "name": "冬瓜Cherry🇭🇰",
-    "description": "呆瓜（開學版）｜識寫C++同Python｜GudupaoSpark 成員（管理員兼軟件工程師）@GudupaoSpark｜唔割手唔od｜INFP｜已經失戀｜夜晚會內耗同焦慮｜安全感超低｜已經有閨蜜，勿擾，閨蜜@Kaze_Shiku｜“世界咁多份溫暖，總有一份係屬於自己嘅”",
+    "name": "Cherry🇭🇰",
+    "description": "識寫C++同Python｜唔割手唔od｜INFP｜已經失戀｜夜晚會內耗同焦慮｜安全感超低｜已經有閨蜜，勿擾｜“世界咁多份溫暖，總有一份係屬於自己嘅”",
     "location": "Hong Kong",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1825894753545891840/-i89BuZh_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1908412084171530243/IvvYWqaa_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700333571389657088/1734350051",
-    "followers_count": 366,
-    "statuses_count": 903,
-    "favourites_count": 1156,
+    "followers_count": 287,
+    "statuses_count": 933,
+    "favourites_count": 1234,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -37,7 +38,7 @@
                         {
                             "display_url": "linktr.ee/Dongguacute",
                             "expanded_url": "https://linktr.ee/Dongguacute",
-                            "url": "https://t.co/vbFSPAxzLQ",
+                            "url": "https://t.co/rf3u1MjbES",
                             "indices": [
                                 0,
                                 23
@@ -47,17 +48,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 127,
+            "friends_count": 138,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 210,
+            "media_count": 213,
             "pinned_tweet_ids_str": [
                 "1887501397815664758"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/vbFSPAxzLQ",
+            "url": "https://t.co/rf3u1MjbES",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -65,7 +66,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1694226123000,
-            "updated_at": 1742120148641
+            "updated_at": 1744300637204
         }
     }
 }

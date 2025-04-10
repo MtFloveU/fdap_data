@@ -6,12 +6,12 @@
     "location": "Washington.DC, USA🇺🇸",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1757245651099041792/UzbeKqtj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724349605973049344/1707824800",
-    "followers_count": 857,
-    "statuses_count": 2130,
-    "favourites_count": 10438,
+    "followers_count": 859,
+    "statuses_count": 2144,
+    "favourites_count": 10788,
     "listed_count": 1,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-11-14 16:52:47 +08:00",
@@ -19,43 +19,14 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzI0MzQ5NjA1OTczMDQ5MzQ0",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @qinglongxiangmo",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 29,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "qinglongxiangmo",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "qinglongxiangmo"
-                                        },
-                                        "rest_id": "1668656828740403202"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -77,10 +48,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 988,
+            "friends_count": 987,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 687,
+            "media_count": 690,
             "pinned_tweet_ids_str": [
                 "1835609254679498791"
             ],
@@ -106,7 +77,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1699951967000,
-            "updated_at": 1742120124891
+            "updated_at": 1744300610627
         }
     }
 }

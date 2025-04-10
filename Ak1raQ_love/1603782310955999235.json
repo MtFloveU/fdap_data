@@ -6,10 +6,10 @@
     "location": "江城孱陵路33号",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872272323178631168/y-Oh-OUK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1603782310955999235/1726830491",
-    "followers_count": 426,
-    "statuses_count": 1140,
-    "favourites_count": 3190,
-    "listed_count": 0,
+    "followers_count": 424,
+    "statuses_count": 1153,
+    "favourites_count": 3215,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 585,
+            "friends_count": 586,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 141,
+            "media_count": 142,
             "pinned_tweet_ids_str": [
                 "1885762680365236358"
             ],
@@ -65,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1671206500000,
-            "updated_at": 1742120128126
+            "updated_at": 1744300610628
         }
     }
 }

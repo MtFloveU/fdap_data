@@ -6,10 +6,10 @@
     "location": "中推oomf bot监控中心",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1847265376792625152/HXMaaKxI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771531354645356544/1729257361",
-    "followers_count": 1137,
-    "statuses_count": 11024,
-    "favourites_count": 43614,
-    "listed_count": 5,
+    "followers_count": 1131,
+    "statuses_count": 11131,
+    "favourites_count": 44500,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,13 +47,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1960,
+            "friends_count": 1967,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 976,
-            "pinned_tweet_ids_str": [
-                "1889655573982990477"
-            ],
+            "media_count": 984,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -67,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1711200970000,
-            "updated_at": 1742120151308
+            "updated_at": 1744300637205
         }
     }
 }

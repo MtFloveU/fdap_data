@@ -6,10 +6,10 @@
     "location": "Toronto, Ontario🇨🇦",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587653801305153538/1706581905",
-    "followers_count": 9643,
-    "statuses_count": 48199,
-    "favourites_count": 95619,
-    "listed_count": 21,
+    "followers_count": 9871,
+    "statuses_count": 49352,
+    "favourites_count": 98536,
+    "listed_count": 22,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -47,12 +47,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1085,
+            "friends_count": 1108,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3430,
+            "media_count": 3512,
             "pinned_tweet_ids_str": [
-                "1904239716553368037"
+                "1907530233210863756"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1667361154000,
-            "updated_at": 1743234035365
+            "updated_at": 1744300661989
         }
     }
 }

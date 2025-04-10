@@ -4,16 +4,16 @@
     "name": "花火酱～",
     "description": "诶嘿～好无聊呀~｜加点东西@Muoujiang_｜换一个提问箱：https://t.co/LtoB1mlWHz",
     "location": "匹诺康尼",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1770720359312240640/qCqdMpdW_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769078117052854272/1711007696",
-    "followers_count": 5550,
-    "statuses_count": 65187,
-    "favourites_count": 0,
+    "followers_count": 5526,
+    "statuses_count": 65034,
+    "favourites_count": 77384,
     "listed_count": 13,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": null,
+    "followed_by": true,
     "created_at": "2024-03-17 03:07:54 +08:00",
     "url": "https://twitter.com/huahuojiang_",
     "metadata": {
@@ -25,7 +25,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -44,15 +44,15 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 0,
+            "friends_count": 3522,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3492,
+            "media_count": 3499,
             "pinned_tweet_ids_str": [
                 "1874363360755831286"
             ],
             "possibly_sensitive": false,
-            "profile_interstitial_type": "fake_account",
+            "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
             "want_retweets": true,
@@ -74,7 +74,7 @@
         },
         "twe_private_fields": {
             "created_at": 1710616074000,
-            "updated_at": 1743234029045
+            "updated_at": 1744300649094
         }
     }
 }

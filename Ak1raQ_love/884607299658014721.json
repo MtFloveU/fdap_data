@@ -2,13 +2,13 @@
     "id": "884607299658014721",
     "screen_name": "s_neko21",
     "name": "ねこ",
-    "description": "苦労して生きている一つの生命体 | MTX | 可愛い猫",
+    "description": "苦労して生きている一つの生命体",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877768034968109057/ZqxjZp18_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/884607299658014721/1704446272",
-    "followers_count": 668,
-    "statuses_count": 903,
-    "favourites_count": 1441,
+    "followers_count": 659,
+    "statuses_count": 902,
+    "favourites_count": 1421,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -31,23 +31,10 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/neko_brodcast",
-                            "expanded_url": "https://t.me/neko_brodcast",
-                            "url": "https://t.co/SpXB4AdAnu",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 374,
+            "friends_count": 370,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 292,
@@ -55,7 +42,6 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/SpXB4AdAnu",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -63,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1499741790000,
-            "updated_at": 1742120170045
+            "updated_at": 1744300659444
         }
     }
 }

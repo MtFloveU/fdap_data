@@ -6,9 +6,9 @@
     "location": "ユトピア",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872200180814290944/UHGY-UkI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491710589969711106/1725458627",
-    "followers_count": 1520,
-    "statuses_count": 9945,
-    "favourites_count": 177892,
+    "followers_count": 1574,
+    "statuses_count": 11057,
+    "favourites_count": 195791,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3371,
+            "friends_count": 3520,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 237,
+            "media_count": 252,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -46,10 +46,12 @@
             "want_retweets": false,
             "withheld_in_countries": []
         },
-        "tipjar_settings": {},
+        "tipjar_settings": {
+            "is_enabled": true
+        },
         "twe_private_fields": {
             "created_at": 1644486511000,
-            "updated_at": 1742120071185
+            "updated_at": 1744300418748
         }
     }
 }

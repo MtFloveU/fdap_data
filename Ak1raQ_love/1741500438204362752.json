@@ -6,9 +6,9 @@
     "location": "永恒之地·翁法罗斯",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879791591331975168/LLhSJTp9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741500438204362752/1722823872",
-    "followers_count": 840,
-    "statuses_count": 2120,
-    "favourites_count": 346,
+    "followers_count": 847,
+    "statuses_count": 2190,
+    "favourites_count": 343,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,11 +47,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 498,
+            "friends_count": 516,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 109,
-            "pinned_tweet_ids_str": [],
+            "media_count": 115,
+            "pinned_tweet_ids_str": [
+                "1904940062137323764"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -63,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1704041057000,
-            "updated_at": 1742120154346
+            "updated_at": 1744300645577
         }
     }
 }

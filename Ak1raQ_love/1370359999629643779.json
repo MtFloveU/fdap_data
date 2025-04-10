@@ -6,10 +6,10 @@
     "location": "阳光下见 舞台上见",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872551250149179392/w-z2viqx_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370359999629643779/1716824284",
-    "followers_count": 2364,
-    "statuses_count": 41280,
-    "favourites_count": 15472,
-    "listed_count": 8,
+    "followers_count": 2336,
+    "statuses_count": 41260,
+    "favourites_count": 15419,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
@@ -19,37 +19,7 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzcwMzU5OTk5NjI5NjQzNzc5",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @poohemperor5",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 26,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "poohemperor5",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "poohemperor5"
-                                        },
-                                        "rest_id": "1422499286588170248"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -87,7 +57,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1738,
+            "friends_count": 1719,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 2246,
@@ -120,7 +90,7 @@
         },
         "twe_private_fields": {
             "created_at": 1615554268000,
-            "updated_at": 1742120034945
+            "updated_at": 1744300377708
         }
     }
 }

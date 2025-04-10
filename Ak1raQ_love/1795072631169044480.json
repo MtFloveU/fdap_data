@@ -4,11 +4,11 @@
     "name": "不☆死",
     "description": "我喜歡你 就像魚兒不能離開水那樣喜歡著你",
     "location": "帕拉迪岛",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1903159507162640384/Q30iPMED_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1742578163",
-    "followers_count": 4306,
-    "statuses_count": 546,
-    "favourites_count": 22829,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906775052739031041/LeOvnxbp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1743268735",
+    "followers_count": 4304,
+    "statuses_count": 593,
+    "favourites_count": 23726,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
@@ -21,7 +21,7 @@
         "id": "VXNlcjoxNzk1MDcyNjMxMTY5MDQ0NDgw",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
@@ -47,14 +47,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1206,
+            "friends_count": 1208,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 112,
+            "media_count": 125,
             "pinned_tweet_ids_str": [
                 "1841674811069825079"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/ZLduecxvmn",
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716813658000,
-            "updated_at": 1742645341151
+            "updated_at": 1744300623116
         }
     }
 }

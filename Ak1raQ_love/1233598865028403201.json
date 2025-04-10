@@ -4,11 +4,11 @@
     "name": "是猫猫还是狐狐🐱",
     "description": "🐱 热爱猫咪的幽默摄影师 | 📷 记录生活中的小确幸 | 🤔 对技术与游戏充满好奇 | 🎮 喜欢分享趣事与日常 | Feel free to DM me 💌",
     "location": "幻境，星尘网络，星渊空间站",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1899990080279785472/E9MlaWc3_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1908124912738353152/UlEzCsGe_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1233598865028403201/1736288484",
-    "followers_count": 266,
-    "statuses_count": 8185,
-    "favourites_count": 44132,
+    "followers_count": 280,
+    "statuses_count": 8646,
+    "favourites_count": 46743,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "notifications": true,
             "protected": true,
             "can_dm": true,
             "can_media_tag": true,
@@ -36,9 +37,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "ccwiki.snnetwork.us.kg",
-                            "expanded_url": "https://ccwiki.snnetwork.us.kg",
-                            "url": "https://t.co/1c70gXk62s",
+                            "display_url": "ccwiki.snnetwork.dpdns.org",
+                            "expanded_url": "http://ccwiki.snnetwork.dpdns.org",
+                            "url": "https://t.co/HaTLTX3WRK",
                             "indices": [
                                 0,
                                 23
@@ -48,17 +49,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 453,
+            "friends_count": 472,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 455,
+            "media_count": 472,
             "pinned_tweet_ids_str": [
                 "1844348759460937928"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/1c70gXk62s",
+            "url": "https://t.co/HaTLTX3WRK",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -79,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1582947925000,
-            "updated_at": 1742120151308
+            "updated_at": 1744300637205
         }
     }
 }

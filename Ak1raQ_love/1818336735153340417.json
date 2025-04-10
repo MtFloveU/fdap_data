@@ -6,9 +6,9 @@
     "location": "成都",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1818338637739945984/bkeBKX0j_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818336735153340417/1722371521",
-    "followers_count": 10,
+    "followers_count": 8,
     "statuses_count": 267,
-    "favourites_count": 1055,
+    "favourites_count": 1050,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 65,
+            "friends_count": 66,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 2,
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1722360261000,
-            "updated_at": 1742120065550
+            "updated_at": 1744300411787
         }
     }
 }

@@ -20,7 +20,7 @@
         "__typename": "User",
         "id": "VXNlcjoxNzAxOTQwNjMyNjQ5MDg5MDI0",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
+        "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -35,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 80,
+            "friends_count": 81,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 6,
@@ -52,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1694609249000,
-            "updated_at": 1742120145804
+            "updated_at": 1744300633467
         }
     }
 }

@@ -6,10 +6,10 @@
     "location": "Washington, DC",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1343476573706485760/y4nITVko_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186651487155322880/1624920673",
-    "followers_count": 57159,
-    "statuses_count": 157049,
-    "favourites_count": 156017,
-    "listed_count": 110,
+    "followers_count": 57571,
+    "statuses_count": 157989,
+    "favourites_count": 161091,
+    "listed_count": 113,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 46362,
+            "friends_count": 47403,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 25112,
+            "media_count": 25157,
             "pinned_tweet_ids_str": [
                 "1869860983642173565"
             ],
@@ -65,7 +65,7 @@
         "super_follow_eligible": true,
         "twe_private_fields": {
             "created_at": 1571754746000,
-            "updated_at": 1742120160265
+            "updated_at": 1744300649095
         }
     }
 }

@@ -6,10 +6,10 @@
     "location": "兽耳动物园",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1818678520559874048/N0WoRGTO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609382690964340736/1683996004",
-    "followers_count": 6467,
-    "statuses_count": 3229,
-    "favourites_count": 3820,
-    "listed_count": 15,
+    "followers_count": 6617,
+    "statuses_count": 3221,
+    "favourites_count": 3797,
+    "listed_count": 14,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -67,7 +67,7 @@
             "friends_count": 1048,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 277,
+            "media_count": 274,
             "pinned_tweet_ids_str": [
                 "1879465723833319594"
             ],
@@ -94,7 +94,7 @@
         },
         "twe_private_fields": {
             "created_at": 1672541717000,
-            "updated_at": 1742120170045
+            "updated_at": 1744300661989
         }
     }
 }

@@ -6,9 +6,9 @@
     "location": "IP归属地:深圳",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1733661370220941312/ZfY5xhjf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1419403960696385546/1684912852",
-    "followers_count": 6789,
-    "statuses_count": 5226,
-    "favourites_count": 4949,
+    "followers_count": 6791,
+    "statuses_count": 5341,
+    "favourites_count": 4985,
     "listed_count": 17,
     "verified_type": null,
     "is_blue_verified": true,
@@ -96,10 +96,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2019,
+            "friends_count": 2042,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 649,
+            "media_count": 656,
             "pinned_tweet_ids_str": [
                 "1889677863458095549"
             ],
@@ -128,7 +128,7 @@
         },
         "twe_private_fields": {
             "created_at": 1627247269000,
-            "updated_at": 1742120156940
+            "updated_at": 1744300649094
         }
     }
 }

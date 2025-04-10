@@ -6,9 +6,9 @@
     "location": "Taipei City, Taiwan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1837836779560620032/7SSg9FTb_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821304109451931648/1728020198",
-    "followers_count": 139,
-    "statuses_count": 525,
-    "favourites_count": 1800,
+    "followers_count": 141,
+    "statuses_count": 552,
+    "favourites_count": 1966,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,12 +47,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 372,
+            "friends_count": 373,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 112,
+            "media_count": 118,
             "pinned_tweet_ids_str": [
-                "1837815396319314090"
+                "1908551517273223188"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1723067718000,
-            "updated_at": 1742120121806
+            "updated_at": 1744300607931
         }
     }
 }

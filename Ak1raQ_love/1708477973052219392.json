@@ -6,9 +6,9 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1855551081448976384/-KrItmWK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708477973052219392/1712860227",
-    "followers_count": 258,
+    "followers_count": 254,
     "statuses_count": 807,
-    "favourites_count": 10660,
+    "favourites_count": 10614,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -20,7 +20,7 @@
         "__typename": "User",
         "id": "VXNlcjoxNzA4NDc3OTczMDUyMjE5Mzky",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
+        "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 843,
+            "friends_count": 837,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 87,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1696167881000,
-            "updated_at": 1742120068263
+            "updated_at": 1744300415257
         }
     }
 }

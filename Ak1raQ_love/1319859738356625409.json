@@ -6,8 +6,8 @@
     "location": "Black mesa",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1865830258324176896/-xD0mywG_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 78,
-    "statuses_count": 332,
+    "followers_count": 77,
+    "statuses_count": 331,
     "favourites_count": 79,
     "listed_count": 0,
     "verified_type": null,
@@ -36,11 +36,9 @@
                                 "screen_name": "loj131588",
                                 "mention_results": {
                                     "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "loj131588"
-                                        },
-                                        "rest_id": "1769557732124762113"
+                                        "__typename": "UserUnavailable",
+                                        "reason": "Suspended",
+                                        "message": "User is suspended"
                                     }
                                 }
                             }
@@ -64,7 +62,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 86,
+            "friends_count": 84,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 64,
@@ -81,7 +79,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1603514091000,
-            "updated_at": 1742120142318
+            "updated_at": 1744300626956
         }
     }
 }

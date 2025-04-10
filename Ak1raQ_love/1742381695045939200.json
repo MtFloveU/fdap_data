@@ -6,10 +6,10 @@
     "location": "阿拉斯加美军要塞",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1742381695045939200/1715658297",
-    "followers_count": 2632,
-    "statuses_count": 25426,
-    "favourites_count": 112544,
-    "listed_count": 8,
+    "followers_count": 2709,
+    "statuses_count": 26021,
+    "favourites_count": 114880,
+    "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 958,
+            "friends_count": 968,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1944,
+            "media_count": 1979,
             "pinned_tweet_ids_str": [
                 "1891417536954036561"
             ],
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1704251197000,
-            "updated_at": 1742645347936
+            "updated_at": 1744300649094
         }
     }
 }

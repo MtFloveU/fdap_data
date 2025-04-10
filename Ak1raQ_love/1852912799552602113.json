@@ -1,24 +1,24 @@
 {
-    "id": "1868232427220713473",
-    "screen_name": "fuckpregabalin",
-    "name": "文",
-    "description": "05/10/08|SINCE 30/08/23|✝️Calvinism|叫我小文就好啦😘|永遠的戀人❤️@prumlinfem |一辈子的朋友🥺@yangaaa111 |对所有人友好🥰|所有互动均不代表立场 想连坐我的欢迎dm查成分",
-    "location": "Amoy",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1884707004687802368/VY5DTmzs_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868232427220713473/1739916681",
-    "followers_count": 370,
-    "statuses_count": 1176,
-    "favourites_count": 4305,
-    "listed_count": 1,
+    "id": "1852912799552602113",
+    "screen_name": "TakeNitrite",
+    "name": "AhhDianん（锁）",
+    "description": "Ĉi tiu konto enhavas negativajn emociajn efikojn, bonvolu atenti singarde.Krome, ĉi tiu nombro ankaŭ povas esti uzata kiel fuĝkabano. Ĉefa konto: @Ziverk2",
+    "location": "Antarkto",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1863893525739515905/-_Oi4XQ-_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 58,
+    "statuses_count": 58,
+    "favourites_count": 128,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-12-15 17:51:42 +08:00",
-    "url": "https://twitter.com/fuckpregabalin",
+    "created_at": "2024-11-03 11:17:41 +08:00",
+    "url": "https://twitter.com/TakeNitrite",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxODY4MjMyNDI3MjIwNzEzNDcz",
+        "id": "VXNlcjoxODUyOTEyNzk5NTUyNjAyMTEz",
         "affiliates_highlighted_label": {
             "label": {
                 "badge": {
@@ -26,21 +26,21 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @IokbunTan",
+                    "text": "Automated by @Ziverk2",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 23,
+                            "toIndex": 21,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "IokbunTan",
+                                "screen_name": "Ziverk2",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "IokbunTan"
+                                            "screen_name": "Ziverk2"
                                         },
-                                        "rest_id": "1891980816319975424"
+                                        "rest_id": "1532663208393117696"
                                     }
                                 }
                             }
@@ -54,6 +54,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -61,41 +62,38 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/IokbunTan/",
-                            "expanded_url": "http://t.me/IokbunTan/",
-                            "url": "https://t.co/Vis3o56nk4",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 771,
+            "friends_count": 81,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 60,
-            "pinned_tweet_ids_str": [
-                "1889386592118383039"
-            ],
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/Vis3o56nk4",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "tipjar_settings": {},
+        "professional": {
+            "rest_id": "1858741470616035562",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 993,
+                    "name": "Psychiatric Hospital",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
         "twe_private_fields": {
-            "created_at": 1734256302000,
-            "updated_at": 1741819113911
+            "created_at": 1730603861000,
+            "updated_at": 1744300552736
         }
     }
 }

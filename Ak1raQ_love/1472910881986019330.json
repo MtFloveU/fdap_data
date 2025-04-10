@@ -1,14 +1,14 @@
 {
     "id": "1472910881986019330",
     "screen_name": "xiaochuAnZu",
-    "name": "春晓🍥🏳‍⚧",
-    "description": "喜欢雪糕🤤😋",
+    "name": "澄溪🍥🏳‍⚧",
+    "description": "",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1823972929228693504/gt46QOGD_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 25,
-    "statuses_count": 83,
-    "favourites_count": 125,
+    "followers_count": 24,
+    "statuses_count": 84,
+    "favourites_count": 138,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -20,7 +20,7 @@
         "__typename": "User",
         "id": "VXNlcjoxNDcyOTEwODgxOTg2MDE5MzMw",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
+        "has_graduated_access": false,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 118,
+            "friends_count": 124,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 5,
@@ -62,7 +62,7 @@
         },
         "twe_private_fields": {
             "created_at": 1640004302000,
-            "updated_at": 1742120116188
+            "updated_at": 1744300601520
         }
     }
 }

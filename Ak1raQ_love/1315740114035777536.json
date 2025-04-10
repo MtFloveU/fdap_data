@@ -1,0 +1,73 @@
+{
+    "id": "1315740114035777536",
+    "screen_name": "soiflytoMYwithU",
+    "name": "君が早く死んでよかったな",
+    "description": "Detrans/对不起鲨鲨/我是罪人",
+    "location": "Razorback Drug Town",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1909458570812571653/LVigGawk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315740114035777536/1744046736",
+    "followers_count": 163,
+    "statuses_count": 3923,
+    "favourites_count": 25607,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2020-10-13 03:44:59 +08:00",
+    "url": "https://twitter.com/soiflytoMYwithU",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzE1NzQwMTE0MDM1Nzc3NTM2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "y.music.163.com/m/song?id=1946…",
+                            "expanded_url": "https://y.music.163.com/m/song?id=19466000",
+                            "url": "https://t.co/noNAYbE4NG",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 437,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 632,
+            "pinned_tweet_ids_str": [
+                "1909821109916385579"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/noNAYbE4NG",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1602531899000,
+            "updated_at": 1744300552728
+        }
+    }
+}

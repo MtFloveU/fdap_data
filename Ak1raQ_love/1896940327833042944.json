@@ -6,10 +6,10 @@
     "location": "異世界、王国の都、帝国の長庭",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1901163016676352000/17_dODKQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896940327833042944/1742107559",
-    "followers_count": 138,
-    "statuses_count": 5,
-    "favourites_count": 861,
-    "listed_count": 4,
+    "followers_count": 145,
+    "statuses_count": 43,
+    "favourites_count": 894,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -19,8 +19,38 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODk2OTQwMzI3ODMzMDQyOTQ0",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @lightly_wind",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 26,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "lightly_wind",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "lightly_wind"
+                                        },
+                                        "rest_id": "1774063407559512064"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -47,7 +77,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 138,
+            "friends_count": 145,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 1,
@@ -65,7 +95,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1741100797000,
-            "updated_at": 1742120113063
+            "updated_at": 1744300596042
         }
     }
 }

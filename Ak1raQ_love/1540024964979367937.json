@@ -1,14 +1,14 @@
 {
     "id": "1540024964979367937",
     "screen_name": "Sunset17089641",
-    "name": "Sunset (Deprecating) 🦋 @sunmkt.bsky.social",
+    "name": "Sunset 🦋 @sunmkt.bsky.social",
     "description": "（我暂时不能关注更多用户。）Lead Programmer of S.E.T. Group. PG-13 (doing my best). Moved to https://t.co/UkziVSwyMv",
-    "location": "Japan",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1797075151772884992/dlxmOZgI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1540024964979367937/1735203226",
-    "followers_count": 1460,
+    "followers_count": 1455,
     "statuses_count": 2959,
-    "favourites_count": 152805,
+    "favourites_count": 152423,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -57,7 +57,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7444,
+            "friends_count": 7399,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 76,
@@ -75,20 +75,14 @@
         "professional": {
             "rest_id": "1757944002157129941",
             "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 713,
-                    "name": "Science & Technology",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
+            "category": []
         },
         "tipjar_settings": {
             "is_enabled": false
         },
         "twe_private_fields": {
             "created_at": 1656005547000,
-            "updated_at": 1742120068263
+            "updated_at": 1744300411788
         }
     }
 }

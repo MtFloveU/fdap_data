@@ -2,13 +2,13 @@
     "id": "1425416862276464642",
     "screen_name": "MisakaMisakaxfu",
     "name": "Misaka10526",
-    "description": "中国人｜00后｜是学生｜INFP-T｜爱好二次元，航模，摄影，数码｜喜欢打音游，雷批，邦邦人（ガルパ），拉拉人｜🏳️‍⚧️🏳️‍🌈友好｜不建政｜https://t.co/dnFQt5XUNV｜里:@misakamisa10032",
+    "description": "中国人｜00后｜是学生｜INFP-T｜爱好二次元，航模，摄影，数码｜喜欢打音游，雷批，邦邦人（ガルパ），拉拉人｜🏳️‍⚧️🏳️‍🌈友好｜不建政｜｜里:@misakamisa10032",
     "location": "都市学院",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1872319068239536128/u_8WMdjc_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1904179123070832640/-9bTcW9j_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1425416862276464642/1724087284",
-    "followers_count": 237,
-    "statuses_count": 1389,
-    "favourites_count": 5259,
+    "followers_count": 281,
+    "statuses_count": 1666,
+    "favourites_count": 6153,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,44 +30,18 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "bangdream.icu",
-                            "expanded_url": "http://bangdream.icu",
-                            "url": "https://t.co/dnFQt5XUNV",
-                            "indices": [
-                                72,
-                                95
-                            ]
-                        }
-                    ]
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "b23.tv/oKzu0vP",
-                            "expanded_url": "https://b23.tv/oKzu0vP",
-                            "url": "https://t.co/esYiarDraD",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
+                    "urls": []
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 517,
+            "friends_count": 597,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 354,
-            "pinned_tweet_ids_str": [
-                "1895491256643620867"
-            ],
+            "media_count": 425,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/esYiarDraD",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -75,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1628680853000,
-            "updated_at": 1742645333645
+            "updated_at": 1744300552736
         }
     }
 }

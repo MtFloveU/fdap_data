@@ -6,9 +6,9 @@
     "location": "蓝色空间号（欢迎扩列和私信！！）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876289236909092864/caccjc2M_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755765450707709952/1730289185",
-    "followers_count": 1447,
-    "statuses_count": 7162,
-    "favourites_count": 33814,
+    "followers_count": 1428,
+    "statuses_count": 7370,
+    "favourites_count": 34723,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,10 +47,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1759,
+            "friends_count": 1755,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1129,
+            "media_count": 1160,
             "pinned_tweet_ids_str": [
                 "1876566723912229149"
             ],
@@ -65,20 +65,14 @@
         "professional": {
             "rest_id": "1828834773642752051",
             "professional_type": "Business",
-            "category": [
-                {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
+            "category": []
         },
         "tipjar_settings": {
             "is_enabled": true
         },
         "twe_private_fields": {
             "created_at": 1707442124000,
-            "updated_at": 1742645343107
+            "updated_at": 1744300626956
         }
     }
 }

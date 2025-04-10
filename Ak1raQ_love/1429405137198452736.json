@@ -1,21 +1,21 @@
 {
     "id": "1429405137198452736",
-    "screen_name": "MissSuzuki3301",
-    "name": "鈴木真依-Truth_Suzuki",
-    "description": "I can drink nitric acid cause, it won't hurt me.  \n💻 @Makinotouruko\n🍭 @poohemperor5\n前香港某媒體外派記者，於2025/3/17被解除合約，現為獨立公民記者。",
+    "screen_name": "EffieLindraDom",
+    "name": "Effie Lingley Dorme",
+    "description": "I can drink nitric acid cause, it won't hurt me.  // 我仍舊希望可以像曾經一樣溫暖大家 // 夜貓貓... //  頻道 https://t.co/ngTqg0ulPw // 群 https://t.co/PGUw2uxsDG // 韭菜交易员，不广告不带单 // 跨性别女孩",
     "location": "Osaka-shi Minato-ku, Osaka",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898163261801218048/SQ7wnmnx_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1909109028254621696/ozLT6GKe_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429405137198452736/1741393047",
-    "followers_count": 7920,
-    "statuses_count": 19278,
-    "favourites_count": 123244,
-    "listed_count": 39,
+    "followers_count": 7909,
+    "statuses_count": 19289,
+    "favourites_count": 123339,
+    "listed_count": 35,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2021-08-22 19:28:44 +08:00",
-    "url": "https://twitter.com/MissSuzuki3301",
+    "url": "https://twitter.com/EffieLindraDom",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDI5NDA1MTM3MTk4NDUyNzM2",
@@ -30,16 +30,35 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "t.me/Effie2233",
+                            "expanded_url": "http://t.me/Effie2233",
+                            "url": "https://t.co/ngTqg0ulPw",
+                            "indices": [
+                                87,
+                                110
+                            ]
+                        },
+                        {
+                            "display_url": "t.me/Effie_Rip",
+                            "expanded_url": "http://t.me/Effie_Rip",
+                            "url": "https://t.co/PGUw2uxsDG",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 878,
+            "friends_count": 906,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 3282,
+            "media_count": 3269,
             "pinned_tweet_ids_str": [
-                "1898171624765243621"
+                "1909111523295031470"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -67,7 +86,7 @@
         },
         "twe_private_fields": {
             "created_at": 1629631724000,
-            "updated_at": 1743234021405
+            "updated_at": 1744300623116
         }
     }
 }

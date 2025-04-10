@@ -2,14 +2,14 @@
     "id": "1267812046097117186",
     "screen_name": "Utsuho_223",
     "name": "lingwlk",
-    "description": "無言フォロー失礼します                                               喜欢大家，想交朋友，请多关照\n     ウマ娘/東方project/プロセカ",
+    "description": "無言フォロー失礼します \n喜欢大家，想交朋友，请多关照\nウマ娘/東方project/プロセカ",
     "location": "Sol3",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1872809291771707392/cPtKj79K_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906921009669881856/Gd2xj_Fy_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267812046097117186/1736325566",
-    "followers_count": 1185,
-    "statuses_count": 4244,
-    "favourites_count": 65933,
-    "listed_count": 8,
+    "followers_count": 1222,
+    "statuses_count": 4505,
+    "favourites_count": 71400,
+    "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,11 +47,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2927,
+            "friends_count": 3009,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 405,
-            "pinned_tweet_ids_str": [],
+            "media_count": 467,
+            "pinned_tweet_ids_str": [
+                "1908785908218028389"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -63,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1591104928000,
-            "updated_at": 1742120133443
+            "updated_at": 1744300620032
         }
     }
 }

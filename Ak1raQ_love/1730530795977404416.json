@@ -2,13 +2,13 @@
     "id": "1730530795977404416",
     "screen_name": "0712_luotianyi",
     "name": "蝶依（超级无敌小蝴蝶版）",
-    "description": "华风夏韵，洛水天依\n\ninfp/临床在读/本体是一只小蝴蝶/是可爱的男孩子/喜欢旅行、手机摄影/不含药物/跨性别友善🏳️‍⚧️\n\n蝶依的好朋友们：\n最好的nabiuta姐姐 @nabyuuta ‖星星 @PoorstarRMB‖海鸥姐姐 @liki24003 ‖秋秋 @QiuTtang‖绫乃 @MinaseAyano",
-    "location": "t.me/luotianyi_butterfly",
+    "description": "华风夏韵，洛水天依\n\nINFP-A/临床在读/一只存在于网络上的淡青色小蝴蝶/想成为可爱的男孩子/喜欢旅行、手机摄影/不含药物/跨性别友善🏳️‍⚧️/前世可能是魅魔(?)\n\n最爱的Nabiuta姐姐&老婆： @nabyuuta \n\n蝶依的好朋友们：",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1732238340773314560/awaMaF1J_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1730530795977404416/1701832819",
-    "followers_count": 230,
-    "statuses_count": 959,
-    "favourites_count": 8314,
+    "followers_count": 257,
+    "statuses_count": 1067,
+    "favourites_count": 9384,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -25,39 +25,25 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "bsky.app/profile/butter…",
-                            "expanded_url": "https://bsky.app/profile/butterflyyi.bsky.social",
-                            "url": "https://t.co/P6md7yaBrR",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 667,
+            "friends_count": 743,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 48,
+            "media_count": 50,
             "pinned_tweet_ids_str": [
                 "1876342178571821529"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/P6md7yaBrR",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -65,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1701425680000,
-            "updated_at": 1743234011757
+            "updated_at": 1744300596042
         }
     }
 }

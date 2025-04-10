@@ -1,0 +1,102 @@
+{
+    "id": "1363826773176188934",
+    "screen_name": "huige545",
+    "name": "huige",
+    "description": "理应在最后的最后不说告别 | 是电子幽灵 | chat:https://t.co/qdcf50qYvk |我抬头，星星笑着，默默无言。",
+    "location": "一片死寂的荒地",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1907174623206404096/3ljSb8sI_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 1187,
+    "statuses_count": 10466,
+    "favourites_count": 14026,
+    "listed_count": 11,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-02-22 20:23:45 +08:00",
+    "url": "https://twitter.com/huige545",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzYzODI2NzczMTc2MTg4OTM0",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @unless_huige",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 26,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "unless_huige",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "unless_huige"
+                                        },
+                                        "rest_id": "1510657888754221059"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/huige233",
+                            "expanded_url": "http://t.me/huige233",
+                            "url": "https://t.co/qdcf50qYvk",
+                            "indices": [
+                                28,
+                                51
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 834,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 934,
+            "pinned_tweet_ids_str": [
+                "1860278144823099607"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1629827730731831298",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1613996625000,
+            "updated_at": 1744300552736
+        }
+    }
+}

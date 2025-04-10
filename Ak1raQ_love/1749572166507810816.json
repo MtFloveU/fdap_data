@@ -2,13 +2,13 @@
     "id": "1749572166507810816",
     "screen_name": "muxi012345",
     "name": "木汐",
-    "description": "she/her 🏳️‍⚧️",
+    "description": "she her 🏳️‍⚧️ / bsky https://t.co/8vsuevNxPD",
     "location": "United States",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1750853196493586432/e2Wwo6as_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749572166507810816/1706273075",
-    "followers_count": 92,
-    "statuses_count": 363,
-    "favourites_count": 7596,
+    "followers_count": 106,
+    "statuses_count": 407,
+    "favourites_count": 8730,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,14 +30,24 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "miruu.me",
+                            "expanded_url": "http://miruu.me",
+                            "url": "https://t.co/8vsuevNxPD",
+                            "indices": [
+                                21,
+                                44
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 415,
+            "friends_count": 436,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 18,
+            "media_count": 27,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +70,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1705965492000,
-            "updated_at": 1742120091976
+            "updated_at": 1744300441771
         }
     }
 }

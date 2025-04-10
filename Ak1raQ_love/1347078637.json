@@ -1,0 +1,56 @@
+{
+    "id": "1347078637",
+    "screen_name": "4cyun",
+    "name": "Yeong-Jeon",
+    "description": "“我所遺失的心啊 我曾做過的夢啊”｜在读jk 再问带把｜日常推｜在华🇳🇬人｜",
+    "location": "Lagos, Nigeria",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1908864634200657920/oTga62hT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347078637/1743943936",
+    "followers_count": 12,
+    "statuses_count": 8,
+    "favourites_count": 53,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2013-04-12 23:24:49 +08:00",
+    "url": "https://twitter.com/4cyun",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzQ3MDc4NjM3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1365780289000,
+            "updated_at": 1744300552728
+        }
+    }
+}

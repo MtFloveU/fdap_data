@@ -1,21 +1,21 @@
 {
     "id": "1877035470615638016",
-    "screen_name": "pNcYSzDUsc75787",
+    "screen_name": "LMegurine03",
     "name": "Luka Megurine 03",
-    "description": "Plus Ultra | 原账号@pNcYSzDUsc75790 @pNcYSzDUsc81146 @pNcYSzDUsc81147 备用账号@pNcYSzDUsc75789",
+    "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08",
     "location": "Genova，Italia ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1736355746",
-    "followers_count": 1290,
-    "statuses_count": 1459,
-    "favourites_count": 1315,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1742842046",
+    "followers_count": 1579,
+    "statuses_count": 1982,
+    "favourites_count": 1807,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2025-01-09 00:52:03 +08:00",
-    "url": "https://twitter.com/pNcYSzDUsc75787",
+    "url": "https://twitter.com/LMegurine03",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODc3MDM1NDcwNjE1NjM4MDE2",
@@ -26,19 +26,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @pNcYSzDUsc75789",
+                    "text": "Automated by @FLjungberg08",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 29,
+                            "toIndex": 26,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "pNcYSzDUsc75789",
+                                "screen_name": "FLjungberg08",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "pNcYSzDUsc75789"
+                                            "screen_name": "FLjungberg08"
                                         },
                                         "rest_id": "1697181010914639872"
                                     }
@@ -55,25 +55,39 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/pncysz…",
+                            "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                            "url": "https://t.co/CMTlpCbNau",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4170,
+            "friends_count": 5573,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 316,
+            "media_count": 472,
             "pinned_tweet_ids_str": [
-                "1901105432674107748"
+                "1909615625351364662"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/CMTlpCbNau",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -94,7 +108,7 @@
         },
         "twe_private_fields": {
             "created_at": 1736355123000,
-            "updated_at": 1742120124890
+            "updated_at": 1744300607932
         }
     }
 }

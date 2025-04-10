@@ -6,10 +6,10 @@
     "location": "在服务器里",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1502807334170468352/3MDJLkyu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352930854448680960/1641728266",
-    "followers_count": 3952,
-    "statuses_count": 8444,
-    "favourites_count": 117860,
-    "listed_count": 9,
+    "followers_count": 3963,
+    "statuses_count": 8447,
+    "favourites_count": 117901,
+    "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1624,
+            "friends_count": 1619,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 321,
@@ -65,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1611398837000,
-            "updated_at": 1742120170045
+            "updated_at": 1744300659444
         }
     }
 }

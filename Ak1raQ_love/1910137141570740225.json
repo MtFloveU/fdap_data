@@ -1,0 +1,57 @@
+{
+    "id": "1910137141570740225",
+    "screen_name": "AsabaLike",
+    "name": "秦川洛水💤",
+    "description": "MTX｜再多看一会简介的话我会害羞的ww｜恋人：@Shiluoshiro｜主治医师兼家人：@AsabaSeiban｜之前的账户被马斯克拿下了",
+    "location": "地球",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1910137251679571968/1rHxFD6__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910137141570740225/1744247630",
+    "followers_count": 36,
+    "statuses_count": 53,
+    "favourites_count": 217,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2025-04-10 09:06:09 +08:00",
+    "url": "https://twitter.com/AsabaLike",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxOTEwMTM3MTQxNTcwNzQwMjI1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 70,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 2,
+            "pinned_tweet_ids_str": [
+                "1910206966678622680"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1744247169000,
+            "updated_at": 1744300552727
+        }
+    }
+}

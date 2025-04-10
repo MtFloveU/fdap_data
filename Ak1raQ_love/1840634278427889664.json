@@ -1,21 +1,21 @@
 {
     "id": "1840634278427889664",
-    "screen_name": "HotlineMiami888",
-    "name": "爱国侠",
+    "screen_name": "ShaZhi_888",
+    "name": "无产爱毛男",
     "description": "我翻墙是来看黄的",
     "location": "日本人学校",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1905422916210364417/9CNn0p2o_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840634278427889664/1742985567",
-    "followers_count": 1482,
-    "statuses_count": 435,
-    "favourites_count": 748,
-    "listed_count": 4,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1905995095939403776/lz-pYYoH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840634278427889664/1743863620",
+    "followers_count": 1512,
+    "statuses_count": 644,
+    "favourites_count": 1048,
+    "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-09-30 14:06:35 +08:00",
-    "url": "https://twitter.com/HotlineMiami888",
+    "url": "https://twitter.com/ShaZhi_888",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQwNjM0Mjc4NDI3ODg5NjY0",
@@ -24,8 +24,9 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,14 +35,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 953,
+            "friends_count": 1046,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 10,
-            "pinned_tweet_ids_str": [
-                "1892886544823824857"
-            ],
-            "possibly_sensitive": true,
+            "media_count": 7,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -53,7 +52,7 @@
         },
         "twe_private_fields": {
             "created_at": 1727676395000,
-            "updated_at": 1743234014238
+            "updated_at": 1744300607931
         }
     }
 }

@@ -3,12 +3,12 @@
     "screen_name": "HMur233",
     "name": "NekO0o",
     "description": "It works on my machine",
-    "location": "Floppy",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1823476827589107712/cmgNsrx__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1412991005477933058/1731015959",
-    "followers_count": 415,
-    "statuses_count": 3928,
-    "favourites_count": 7635,
+    "followers_count": 408,
+    "statuses_count": 3933,
+    "favourites_count": 7632,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -31,33 +31,19 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "izumino.cat",
-                            "expanded_url": "https://izumino.cat",
-                            "url": "https://t.co/EI79TRvGp4",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 432,
+            "friends_count": 431,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 264,
+            "media_count": 265,
             "pinned_tweet_ids_str": [
                 "1738155033760583942"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/EI79TRvGp4",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -67,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1625718335000,
-            "updated_at": 1742120167028
+            "updated_at": 1744300656134
         }
     }
 }

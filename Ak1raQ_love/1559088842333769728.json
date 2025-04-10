@@ -2,14 +2,14 @@
     "id": "1559088842333769728",
     "screen_name": "hsnyuia",
     "name": "ゆいあ",
-    "description": "",
+    "description": "自己紹介なし",
     "location": "地球以外",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1805979917391405057/dySmOpSA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559088842333769728/1725648955",
-    "followers_count": 827,
-    "statuses_count": 4080,
-    "favourites_count": 8241,
-    "listed_count": 4,
+    "followers_count": 884,
+    "statuses_count": 4111,
+    "favourites_count": 8313,
+    "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -25,7 +25,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,9 +37,9 @@
             "friends_count": 1045,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 516,
+            "media_count": 521,
             "pinned_tweet_ids_str": [
-                "1895523658711646485"
+                "1908855974095434213"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1660550737000,
-            "updated_at": 1742120133444
+            "updated_at": 1744300620032
         }
     }
 }

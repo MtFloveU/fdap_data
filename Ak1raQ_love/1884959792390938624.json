@@ -2,16 +2,16 @@
     "id": "1884959792390938624",
     "screen_name": "mengqing8964",
     "name": "梦情🏳️‍⚧️",
-    "description": "11年出生的mtf哦🏳️‍⚧️（已出柜、未含糖）🥹/反战反侵略🇨🇳🇹🇼🇺🇦🇵🇸中间偏自由主义、女权主义、温和民族主义＋全球主义🤔（反对极端主义）/中度抑郁（住院中）/infp/想和大家交朋友捏🥺/备用：@mengqing2011MTF/同类会回fo🥰/最好的妹妹鸭：@odelia21321",
-    "location": "中華民國",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1886710596856635392/IXcZQaDM_normal.jpg",
+    "description": "11年出生的mtf哦🏳️‍⚧️（已出柜、未含糖）🥹/反战反侵略🇨🇳🇹🇼🇺🇦🇵🇸社会民主主义+温和民族主义＋全球主义🤔（反对极端主义）/中度抑郁（住院中）/infp/想和大家交朋友捏🥺同类会回fo🥰/stand with 🇨🇳/最好的妹妹鸭：@odelia21321",
+    "location": "Taipei City, Taiwan",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1908326418850996228/qdg_d-52_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884959792390938624/1738290375",
-    "followers_count": 723,
-    "statuses_count": 2268,
-    "favourites_count": 5396,
+    "followers_count": 966,
+    "statuses_count": 3486,
+    "favourites_count": 7745,
     "listed_count": 3,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2025-01-30 21:40:24 +08:00",
@@ -37,7 +37,7 @@
                         {
                             "display_url": "t.me/lisa8964",
                             "expanded_url": "https://t.me/lisa8964",
-                            "url": "https://t.co/81dSoqDAA3",
+                            "url": "https://t.co/81dSoqE8pB",
                             "indices": [
                                 0,
                                 23
@@ -47,25 +47,36 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 590,
+            "friends_count": 734,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 123,
+            "media_count": 179,
             "pinned_tweet_ids_str": [
-                "1901510794690625774"
+                "1909518419579613278"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/81dSoqDAA3",
+            "url": "https://t.co/81dSoqE8pB",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "professional": {
+            "rest_id": "1906543348485431709",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1738244424000,
-            "updated_at": 1743234011757
+            "updated_at": 1744300596043
         }
     }
 }

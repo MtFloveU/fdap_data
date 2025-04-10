@@ -6,9 +6,9 @@
     "location": "巴达赫尚 塔吉克",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1822321024127623168/HtR2uNgC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818325332233269248/1723310166",
-    "followers_count": 421,
-    "statuses_count": 3234,
-    "favourites_count": 30081,
+    "followers_count": 420,
+    "statuses_count": 3338,
+    "favourites_count": 31622,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2322,
+            "friends_count": 2325,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 217,
+            "media_count": 224,
             "pinned_tweet_ids_str": [
                 "1903018531240960482"
             ],
@@ -64,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1722357529000,
-            "updated_at": 1742645336006
+            "updated_at": 1744300607931
         }
     }
 }

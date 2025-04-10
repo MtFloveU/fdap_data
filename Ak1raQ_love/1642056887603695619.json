@@ -6,9 +6,9 @@
     "location": "Solar & Lumin",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873736063484919809/CsLWv1cI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642056887603695619/1738606728",
-    "followers_count": 1010,
-    "statuses_count": 2536,
-    "favourites_count": 4733,
+    "followers_count": 1008,
+    "statuses_count": 2584,
+    "favourites_count": 4749,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -25,7 +25,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "protected": true,
-            "can_dm": true,
+            "can_dm": false,
             "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
@@ -51,7 +51,7 @@
             "friends_count": 101,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 33,
+            "media_count": 39,
             "pinned_tweet_ids_str": [
                 "1886482580192845930"
             ],
@@ -66,7 +66,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1680331866000,
-            "updated_at": 1743234034124
+            "updated_at": 1744300659444
         }
     }
 }

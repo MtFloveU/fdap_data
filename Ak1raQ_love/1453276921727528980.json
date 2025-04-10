@@ -6,10 +6,10 @@
     "location": "东亚劳动者联合公社",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1748373072170913792/gRKXDGXc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1453276921727528980/1660707376",
-    "followers_count": 814,
-    "statuses_count": 3273,
-    "favourites_count": 51026,
-    "listed_count": 5,
+    "followers_count": 818,
+    "statuses_count": 3276,
+    "favourites_count": 51444,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4813,
+            "friends_count": 5148,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 102,
@@ -51,7 +52,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1635323216000,
-            "updated_at": 1742120148640
+            "updated_at": 1744300633467
         }
     }
 }

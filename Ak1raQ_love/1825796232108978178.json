@@ -6,14 +6,14 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1865540900686114816/vxC6xt1V_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825796232108978178/1733614731",
-    "followers_count": 32,
-    "statuses_count": 36,
-    "favourites_count": 1647,
+    "followers_count": 27,
+    "statuses_count": 37,
+    "favourites_count": 0,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": true,
+    "followed_by": null,
     "created_at": "2024-08-20 15:25:30 +08:00",
     "url": "https://twitter.com/iHj32Cv91G96823",
     "metadata": {
@@ -25,7 +25,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,13 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 371,
+            "friends_count": 0,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 9,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
-            "profile_interstitial_type": "",
+            "profile_interstitial_type": "fake_account",
             "translator_type": "none",
             "verified": false,
             "want_retweets": true,
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1724138730000,
-            "updated_at": 1742120124891
+            "updated_at": 1744300610627
         }
     }
 }

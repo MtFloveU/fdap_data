@@ -1,24 +1,24 @@
 {
-    "id": "1222199363847327744",
-    "screen_name": "Mikuma1936",
-    "name": "🍥Mikuma⚓三隈🏳️‍⚧️",
-    "description": "小药娘/OD/双相/军迷/德棍/精日/英吹/美分/乌贼/台独/化学专业/数竞/穷玩车的/臭外地的",
-    "location": "木衛三·Ganymede",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1792915151596732416/gqkmbRRd_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222199363847327744/1740128375",
-    "followers_count": 4137,
-    "statuses_count": 9724,
-    "favourites_count": 78878,
-    "listed_count": 14,
+    "id": "1393065220323647494",
+    "screen_name": "dangshuang0608",
+    "name": "霜",
+    "description": "Life is so wonderful…",
+    "location": "Kuala Lumpur",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1833119548117319680/63fWi4wI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393065220323647494/1661589176",
+    "followers_count": 1490,
+    "statuses_count": 5277,
+    "favourites_count": 4645,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
-    "followed_by": true,
-    "created_at": "2020-01-29 00:46:59 +08:00",
-    "url": "https://twitter.com/Mikuma1936",
+    "followed_by": null,
+    "created_at": "2021-05-14 12:46:55 +08:00",
+    "url": "https://twitter.com/dangshuang0608",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxMjIyMTk5MzYzODQ3MzI3NzQ0",
+        "id": "VXNlcjoxMzkzMDY1MjIwMzIzNjQ3NDk0",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
@@ -35,9 +35,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "bsky.app/profile/mikuma…",
-                            "expanded_url": "https://bsky.app/profile/mikuma1936.bsky.social",
-                            "url": "https://t.co/coQ3AGsDs6",
+                            "display_url": "t.me/dangshuang",
+                            "expanded_url": "http://t.me/dangshuang",
+                            "url": "https://t.co/v2rIN31BR3",
                             "indices": [
                                 0,
                                 23
@@ -47,38 +47,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1063,
+            "friends_count": 548,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1495,
+            "media_count": 646,
             "pinned_tweet_ids_str": [
-                "1874418807294578705"
+                "1864318595834237066"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/coQ3AGsDs6",
+            "url": "https://t.co/v2rIN31BR3",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "professional": {
-            "rest_id": "1560107375176163328",
+            "rest_id": "1555864754983673856",
             "professional_type": "Creator",
             "category": [
                 {
-                    "id": 141,
-                    "name": "Gas & Oil Company",
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
         },
         "tipjar_settings": {
-            "is_enabled": false
+            "is_enabled": true,
+            "bitcoin_handle": "17A8kSMm3hvtHAbQK94FhkpUzFqYBycwWJ",
+            "ethereum_handle": "0x1f5f2fbE9d4d0BE998A758bea8ad54f0B1ECfb5A"
         },
         "twe_private_fields": {
-            "created_at": 1580230019000,
-            "updated_at": 1742645336006
+            "created_at": 1620967615000,
+            "updated_at": 1744300552736
         }
     }
 }

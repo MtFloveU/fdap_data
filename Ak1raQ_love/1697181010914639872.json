@@ -1,21 +1,21 @@
 {
     "id": "1697181010914639872",
-    "screen_name": "pNcYSzDUsc75789",
+    "screen_name": "FLjungberg08",
     "name": "Ljungberg",
-    "description": "HALA MADRID | @pNcYSzDUsc75787备用账号",
+    "description": "这里是Luka的逃生舱，处理紧急事务用，不常更新｜号主@LMegurine03｜前世@pNcYSzDUsc75790 @pNcYSzDUsc81146 @pNcYSzDUsc81147",
     "location": "Napoli，Italia ",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1894046206717755392/rtLOMKak_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697181010914639872/1739502756",
-    "followers_count": 1228,
-    "statuses_count": 114,
-    "favourites_count": 2,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1908508722957344770/6l5JeHj2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697181010914639872/1742841952",
+    "followers_count": 1460,
+    "statuses_count": 120,
+    "favourites_count": 1,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2023-08-31 17:34:28 +08:00",
-    "url": "https://twitter.com/pNcYSzDUsc75789",
+    "url": "https://twitter.com/FLjungberg08",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjk3MTgxMDEwOTE0NjM5ODcy",
@@ -26,19 +26,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @pNcYSzDUsc75787",
+                    "text": "Automated by @LMegurine03",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 29,
+                            "toIndex": 25,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "pNcYSzDUsc75787",
+                                "screen_name": "LMegurine03",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "pNcYSzDUsc75787"
+                                            "screen_name": "LMegurine03"
                                         },
                                         "rest_id": "1877035470615638016"
                                     }
@@ -64,10 +64,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1968,
+            "friends_count": 2246,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 20,
+            "media_count": 21,
             "pinned_tweet_ids_str": [
                 "1829694214898344428"
             ],
@@ -94,7 +94,7 @@
         },
         "twe_private_fields": {
             "created_at": 1693474468000,
-            "updated_at": 1742120139077
+            "updated_at": 1744300626955
         }
     }
 }

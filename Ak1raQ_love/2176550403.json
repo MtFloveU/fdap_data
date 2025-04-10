@@ -6,10 +6,10 @@
     "location": "San Francisco, CA",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1813319457722482688/sd2Wniij_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/2176550403/1689615720",
-    "followers_count": 347,
-    "statuses_count": 1127,
-    "favourites_count": 13661,
-    "listed_count": 1,
+    "followers_count": 358,
+    "statuses_count": 1167,
+    "favourites_count": 13914,
+    "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 323,
+            "friends_count": 329,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 136,
+            "media_count": 142,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -58,7 +58,7 @@
         },
         "twe_private_fields": {
             "created_at": 1384144658000,
-            "updated_at": 1742120167028
+            "updated_at": 1744300552735
         }
     }
 }

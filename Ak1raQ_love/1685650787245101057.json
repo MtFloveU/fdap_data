@@ -2,13 +2,13 @@
     "id": "1685650787245101057",
     "screen_name": "VLTHellolin",
     "name": "hellolin",
-    "description": "Frontend Developer & Student. He/Him",
+    "description": "Frontend Developer, Student, ACG Lover. He/Him",
     "location": "Shandong, China",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1753683653849440256/h6Qa5b-o_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685650787245101057/1731718658",
-    "followers_count": 544,
-    "statuses_count": 1352,
-    "favourites_count": 16696,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685650787245101057/1743520425",
+    "followers_count": 564,
+    "statuses_count": 1464,
+    "favourites_count": 18302,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -36,8 +36,8 @@
                     "urls": [
                         {
                             "display_url": "hellolin.top",
-                            "expanded_url": "https://hellolin.top/",
-                            "url": "https://t.co/JDea8CGlB9",
+                            "expanded_url": "http://hellolin.top",
+                            "url": "https://t.co/xErhJHxkXm",
                             "indices": [
                                 0,
                                 23
@@ -47,17 +47,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1080,
+            "friends_count": 1128,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 158,
+            "media_count": 173,
             "pinned_tweet_ids_str": [
                 "1883717557288583478"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/JDea8CGlB9",
+            "url": "https://t.co/xErhJHxkXm",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1690725445000,
-            "updated_at": 1742645340087
+            "updated_at": 1744300617331
         }
     }
 }

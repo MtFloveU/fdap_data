@@ -6,10 +6,10 @@
     "location": "Κωνσταντινούπολις",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753419726582345728/1706885627",
-    "followers_count": 1848,
-    "statuses_count": 26056,
-    "favourites_count": 89804,
-    "listed_count": 15,
+    "followers_count": 1909,
+    "statuses_count": 27892,
+    "favourites_count": 96308,
+    "listed_count": 17,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -47,11 +47,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2497,
+            "friends_count": 2583,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1191,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1291,
+            "pinned_tweet_ids_str": [
+                "1882848053792813350"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -68,7 +70,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1706882858000,
-            "updated_at": 1742120154346
+            "updated_at": 1744300645577
         }
     }
 }

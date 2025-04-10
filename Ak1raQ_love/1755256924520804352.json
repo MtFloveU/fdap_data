@@ -1,15 +1,15 @@
 {
     "id": "1755256924520804352",
     "screen_name": "Exusiai159_2",
-    "name": "一只能天使（二代目）",
-    "description": "@Exusiai159 的二代目\n/一代目被没有马的一龙同志把家端了，于是我决定天天去他推文底下发遗像",
+    "name": "能天使的苹果派供应所",
+    "description": "@Exusiai159 的小号，大号不好发的东西会发在这里😗",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1896374914577543168/m6fYPfmU_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906315778326237185/sU_3Fxd-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755256924520804352/1725989926",
-    "followers_count": 552,
-    "statuses_count": 523,
-    "favourites_count": 3211,
-    "listed_count": 3,
+    "followers_count": 616,
+    "statuses_count": 526,
+    "favourites_count": 3191,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,13 +35,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 869,
+            "friends_count": 897,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 142,
-            "pinned_tweet_ids_str": [
-                "1896105355241013750"
-            ],
+            "media_count": 143,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -51,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1707320858000,
-            "updated_at": 1742120113063
+            "updated_at": 1744300596042
         }
     }
 }

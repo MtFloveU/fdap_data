@@ -1,0 +1,66 @@
+{
+    "id": "1279568645488668678",
+    "screen_name": "K250618",
+    "name": "しよりん（互fo）",
+    "description": "keep smile",
+    "location": "日本 神奈川",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1279568781648355328/ojqB2myj_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 48,
+    "statuses_count": 804,
+    "favourites_count": 693,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2020-07-05 08:12:04 +08:00",
+    "url": "https://twitter.com/K250618",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjc5NTY4NjQ1NDg4NjY4Njc4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 425,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 25,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1840453932289818953",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1593907924000,
+            "updated_at": 1744300366635
+        }
+    }
+}

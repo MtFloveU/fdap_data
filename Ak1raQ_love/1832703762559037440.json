@@ -1,0 +1,74 @@
+{
+    "id": "1832703762559037440",
+    "screen_name": "SHEEPLOVESGRASS",
+    "name": "爱草の绵羊",
+    "description": "对｜很好｜嗯｜就是这样｜再冷静一点｜有事都可在置顶帖说哦｜这里弥补空白更具美感｜小号@Xieshenmone8964｜看唧唧回fo",
+    "location": "中华民主主义人民共和国",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1907779733510934528/nYPrSh_r_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832703762559037440/1743907178",
+    "followers_count": 1002,
+    "statuses_count": 1026,
+    "favourites_count": 12320,
+    "listed_count": 9,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-09-08 16:53:31 +08:00",
+    "url": "https://twitter.com/SHEEPLOVESGRASS",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODMyNzAzNzYyNTU5MDM3NDQw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "x.com",
+                            "expanded_url": "http://x.com",
+                            "url": "https://t.co/CgSUZKgFkf",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 722,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 180,
+            "pinned_tweet_ids_str": [
+                "1897277035132961063"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/CgSUZKgFkf",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1725785611000,
+            "updated_at": 1744300366635
+        }
+    }
+}

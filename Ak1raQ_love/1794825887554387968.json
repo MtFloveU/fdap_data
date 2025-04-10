@@ -2,14 +2,14 @@
     "id": "1794825887554387968",
     "screen_name": "porphyrin49",
     "name": "porphyrin",
-    "description": "嗯？所以你为什么被我吸引呢……\n可爱的妹妹@_XiaoYu_OvO_\n椿宫姐姐（大雾）@ATRIyatuoliQAQ",
+    "description": "我拒绝成为人类",
     "location": "距你 460亿Ly",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861693473185042432/SeVXhxm4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794825887554387968/1729543752",
-    "followers_count": 370,
-    "statuses_count": 3662,
-    "favourites_count": 44485,
-    "listed_count": 1,
+    "followers_count": 371,
+    "statuses_count": 3862,
+    "favourites_count": 46478,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -56,7 +56,7 @@
         "legacy": {
             "protected": true,
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -65,13 +65,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 378,
+            "friends_count": 386,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 708,
-            "pinned_tweet_ids_str": [
-                "1893312909121388991"
-            ],
+            "media_count": 724,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -82,7 +80,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716754890000,
-            "updated_at": 1742120133444
+            "updated_at": 1744300620032
         }
     }
 }

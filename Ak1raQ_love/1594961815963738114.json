@@ -1,14 +1,14 @@
 {
     "id": "1594961815963738114",
     "screen_name": "AlivicEbey",
-    "name": "玖隗（AAA大运重卡国道玖师傅👊🚚🔥）",
+    "name": "玖隗👊🚚🔥（AAA大运重卡国道玖师傅）",
     "description": "普通大学生一个",
     "location": "距你0km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1903359210399879168/Xkyhvy49_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1594961815963738114/1733321802",
-    "followers_count": 1241,
-    "statuses_count": 3676,
-    "favourites_count": 21947,
+    "followers_count": 1249,
+    "statuses_count": 3911,
+    "favourites_count": 23635,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 350,
+            "friends_count": 370,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 430,
+            "media_count": 474,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1669103513000,
-            "updated_at": 1743234011757
+            "updated_at": 1744300601519
         }
     }
 }

@@ -6,10 +6,10 @@
     "location": "宇宙之外",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793636329299066880/1728542550",
-    "followers_count": 1750,
-    "statuses_count": 2117,
-    "favourites_count": 6682,
-    "listed_count": 4,
+    "followers_count": 2067,
+    "statuses_count": 2396,
+    "favourites_count": 7406,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -34,13 +34,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3108,
+            "friends_count": 3597,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 151,
-            "pinned_tweet_ids_str": [
-                "1868290454615474348"
-            ],
+            "media_count": 164,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -55,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1716471210000,
-            "updated_at": 1742120128126
+            "updated_at": 1744300613744
         }
     }
 }

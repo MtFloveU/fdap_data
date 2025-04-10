@@ -6,9 +6,9 @@
     "location": "Kyoto-shi Nakagyo, Kyoto",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1786006843468468224/iaOCcpYp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756382484714102784/1707836021",
-    "followers_count": 569,
-    "statuses_count": 1461,
-    "favourites_count": 6045,
+    "followers_count": 562,
+    "statuses_count": 1455,
+    "favourites_count": 5913,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 530,
+            "friends_count": 419,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 154,
+            "media_count": 153,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1707589200000,
-            "updated_at": 1742120163576
+            "updated_at": 1744300652964
         }
     }
 }

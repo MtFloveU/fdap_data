@@ -2,16 +2,16 @@
     "id": "1690570637499154432",
     "screen_name": "saonanaa",
     "name": "Zhi Wei",
-    "description": "Infinite Circle:个人账号，想写什么写什么。",
-    "location": "🌏 Chine",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1896199576690040832/gvpmueaX_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1742606052",
-    "followers_count": 2374,
-    "statuses_count": 8682,
-    "favourites_count": 15962,
-    "listed_count": 12,
+    "description": "我的简介就是我自己",
+    "location": "🌏🌐",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1909077249778950144/qMpk70Sg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1743997011",
+    "followers_count": 2755,
+    "statuses_count": 10825,
+    "favourites_count": 19988,
+    "listed_count": 15,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "created_at": "2023-08-13 11:47:17 +08:00",
@@ -34,12 +34,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 286,
+            "friends_count": 326,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 930,
+            "media_count": 1145,
             "pinned_tweet_ids_str": [
-                "1903335053020762583"
+                "1909992334085009742"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,12 +49,13 @@
             "withheld_in_countries": []
         },
         "tipjar_settings": {
-            "is_enabled": true,
-            "ethereum_handle": "0x5730dCE87d5C6309210EF152c959dcFf3F348d11"
+            "is_enabled": false,
+            "ethereum_handle": "",
+            "patreon_handle": "zhiweiinx"
         },
         "twe_private_fields": {
             "created_at": 1691898437000,
-            "updated_at": 1742645349990
+            "updated_at": 1744300652964
         }
     }
 }

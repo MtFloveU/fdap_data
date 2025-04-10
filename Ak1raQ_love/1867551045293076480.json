@@ -1,21 +1,21 @@
 {
     "id": "1867551045293076480",
-    "screen_name": "Lotus_Side",
-    "name": "鸿熙",
+    "screen_name": "Chiba_Seiren",
+    "name": "千羽清莲",
     "description": "我是乐子小学生 不要把我当回事捏",
     "location": "距离0.91km",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1895114924357230594/nh22Tdm9_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1907134683374362624/KhlhMnnu_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 14,
-    "statuses_count": 19,
-    "favourites_count": 96,
+    "followers_count": 12,
+    "statuses_count": 3,
+    "favourites_count": 99,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "created_at": "2024-12-13 20:44:09 +08:00",
-    "url": "https://twitter.com/Lotus_Side",
+    "url": "https://twitter.com/Chiba_Seiren",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODY3NTUxMDQ1MjkzMDc2NDgw",
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 77,
+            "friends_count": 94,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1,
+            "media_count": 0,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1734093849000,
-            "updated_at": 1742120031263
+            "updated_at": 1744300374457
         }
     }
 }

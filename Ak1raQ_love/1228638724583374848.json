@@ -2,13 +2,13 @@
     "id": "1228638724583374848",
     "screen_name": "Plantie_uwu",
     "name": "plantie✨🎄求转推(´▽｀)",
-    "description": "They/them 小男女孩⚠️⚠️⚠️有裸体⚠️⚠️⚠️ 🚪88 一般不搞黄偶尔掉落色色 Bluesky:https://t.co/uWtv3YTCqv",
+    "description": "They/them ⚠️⚠️⚠️有裸体⚠️⚠️⚠️ 🚪88 一般不搞黄偶尔掉落色色",
     "location": "海上",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228638724583374848/1740858236",
-    "followers_count": 10072,
-    "statuses_count": 5559,
-    "favourites_count": 18674,
+    "followers_count": 10212,
+    "statuses_count": 5619,
+    "favourites_count": 18902,
     "listed_count": 38,
     "verified_type": null,
     "is_blue_verified": false,
@@ -60,28 +60,18 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "plantie.bsky.social",
-                            "expanded_url": "http://plantie.bsky.social",
-                            "url": "https://t.co/uWtv3YTCqv",
-                            "indices": [
-                                54,
-                                77
-                            ]
-                        }
-                    ]
+                    "urls": []
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1780,
+            "friends_count": 1802,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 941,
+            "media_count": 956,
             "pinned_tweet_ids_str": [
                 "1895871945629216924"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -93,7 +83,7 @@
         },
         "twe_private_fields": {
             "created_at": 1581765289000,
-            "updated_at": 1742645349991
+            "updated_at": 1744300652964
         }
     }
 }

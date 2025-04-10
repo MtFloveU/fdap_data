@@ -6,9 +6,9 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1868645961435942912/YyraRetC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687475463474626560/1691162314",
-    "followers_count": 1988,
-    "statuses_count": 5841,
-    "favourites_count": 9122,
+    "followers_count": 1958,
+    "statuses_count": 5867,
+    "favourites_count": 9113,
     "listed_count": 8,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 331,
+            "friends_count": 355,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 782,
+            "media_count": 785,
             "pinned_tweet_ids_str": [
                 "1880854255768330595"
             ],
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1691160522000,
-            "updated_at": 1742120170045
+            "updated_at": 1744300661989
         }
     }
 }

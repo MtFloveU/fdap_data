@@ -2,14 +2,14 @@
     "id": "1243945571796295681",
     "screen_name": "ryq59",
     "name": "你是想气死铨酱么🍥",
-    "description": "17｜MtX🏳️‍⚧️｜Retired Pro PUBG MOBILE Player｜互fo请私信｜Contact with me in https://t.co/vL9QVAaVSM",
+    "description": "17｜家暴党MtX🏳️‍⚧️ 断糖中｜Retired Pro PUBG MOBILE Player｜查成分回fo（一般会回 也可以私信）｜Contact with me in https://t.co/vL9QVAaVSM ｜ Sis @iranon_lcf @yizhikapaiqaq",
     "location": "Tianjin",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243945571796295681/1736069194",
-    "followers_count": 16359,
-    "statuses_count": 21993,
-    "favourites_count": 174508,
-    "listed_count": 68,
+    "followers_count": 16526,
+    "statuses_count": 22272,
+    "favourites_count": 176578,
+    "listed_count": 67,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -26,21 +26,21 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @KVECBot",
+                    "text": "Automated by @4cyun",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 21,
+                            "toIndex": 19,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "KVECBot",
+                                "screen_name": "4cyun",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "legacy": {
-                                            "screen_name": "KVECBot"
+                                            "screen_name": "4cyun"
                                         },
-                                        "rest_id": "1545277694325116928"
+                                        "rest_id": "1347078637"
                                     }
                                 }
                             }
@@ -67,8 +67,8 @@
                             "expanded_url": "http://linktr.ee/ryq59",
                             "url": "https://t.co/vL9QVAaVSM",
                             "indices": [
-                                69,
-                                92
+                                88,
+                                111
                             ]
                         }
                     ]
@@ -88,12 +88,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4643,
+            "friends_count": 4720,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 4781,
+            "media_count": 4834,
             "pinned_tweet_ids_str": [
-                "1905572874074947996"
+                "1765934211918397447"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -119,7 +119,7 @@
         },
         "twe_private_fields": {
             "created_at": 1585414717000,
-            "updated_at": 1743234035365
+            "updated_at": 1744300661989
         }
     }
 }

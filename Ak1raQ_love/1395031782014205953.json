@@ -2,16 +2,16 @@
     "id": "1395031782014205953",
     "screen_name": "komacyan_zZ",
     "name": "小鞠",
-    "description": "躁鬱病 / JLPT-N2/ a.k.a.泉こしや/ 彼女❤️：@MoeQike",
+    "description": "躁鬱病 / JLPT-N2 / 日常垢 / 絵垢 / フォロバをご希望の方はDMお願いします",
     "location": "キミのとなり",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1858128123377979392/cyt76Q_p_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395031782014205953/1732175141",
-    "followers_count": 2879,
-    "statuses_count": 6055,
-    "favourites_count": 13422,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906494714863611904/APifHM8E_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395031782014205953/1743548805",
+    "followers_count": 2898,
+    "statuses_count": 6224,
+    "favourites_count": 13604,
     "listed_count": 8,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": null,
     "created_at": "2021-05-19 23:01:25 +08:00",
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -37,7 +38,7 @@
                         {
                             "display_url": "kona.icu",
                             "expanded_url": "https://kona.icu",
-                            "url": "https://t.co/71HeCHXSPO",
+                            "url": "https://t.co/71HeCHYqFm",
                             "indices": [
                                 0,
                                 23
@@ -47,17 +48,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 766,
+            "friends_count": 768,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1335,
+            "media_count": 1353,
             "pinned_tweet_ids_str": [
-                "1893637723237364068"
+                "1908835407950946407"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/71HeCHXSPO",
+            "url": "https://t.co/71HeCHYqFm",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -69,7 +70,7 @@
         },
         "twe_private_fields": {
             "created_at": 1621436485000,
-            "updated_at": 1742120167028
+            "updated_at": 1744300656134
         }
     }
 }

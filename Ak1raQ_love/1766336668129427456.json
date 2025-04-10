@@ -6,9 +6,9 @@
     "location": "一顶很大很大的大黑伞下",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1812092073698263040/Zcj2Rf1Q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766336668129427456/1719239440",
-    "followers_count": 144,
-    "statuses_count": 868,
-    "favourites_count": 3990,
+    "followers_count": 129,
+    "statuses_count": 901,
+    "favourites_count": 4228,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -48,10 +48,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 499,
+            "friends_count": 517,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 55,
+            "media_count": 59,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -66,7 +66,7 @@
         },
         "twe_private_fields": {
             "created_at": 1709962467000,
-            "updated_at": 1742645344929
+            "updated_at": 1744300637204
         }
     }
 }

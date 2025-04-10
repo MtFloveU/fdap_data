@@ -2,14 +2,14 @@
     "id": "1860560373264580611",
     "screen_name": "suai1991",
     "name": "所以音乐放弃了我",
-    "description": "苦逼高二生，男，不想登校😭，电吉他！梦想是在日本开琴行😋，还要有一把自己的telecaster，最近练习的曲目是やっぱり雨は降るんだね",
+    "description": "苦逼高二生，男，不想登校😭，电吉他！梦想是在日本开琴行😋，努力攒钱购买日融二ing!，最近练习的曲目是やっぱり雨は降るんだね",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894725901038108672/37c74YPA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860560373264580611/1742603231",
-    "followers_count": 665,
-    "statuses_count": 1545,
-    "favourites_count": 29577,
-    "listed_count": 2,
+    "followers_count": 829,
+    "statuses_count": 2658,
+    "favourites_count": 43112,
+    "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
@@ -31,17 +31,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/suai19911",
+                            "expanded_url": "https://ngl.link/suai19911",
+                            "url": "https://t.co/DvmvEUIALZ",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2544,
+            "friends_count": 2799,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 268,
-            "pinned_tweet_ids_str": [],
+            "media_count": 420,
+            "pinned_tweet_ids_str": [
+                "1909098275405201885"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/DvmvEUIALZ",
             "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
@@ -49,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1732427148000,
-            "updated_at": 1743233966991
+            "updated_at": 1744300366635
         }
     }
 }

@@ -2,13 +2,13 @@
     "id": "1354545024046821376",
     "screen_name": "KURANAGA0",
     "name": "甜甜怜怜子🍥",
-    "description": "- 生命永存 - //2005.9.9 //  提问箱https://t.co/mvIXmHb7S1 // 花 绽放于长安的春日 温暖又幸福//",
+    "description": "- 生命永存 - 🚪52",
     "location": "致以辉煌的人们",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1900462523503243264/YHsJiZo2_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906386649245962240/c71LsckR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1354545024046821376/1737494736",
-    "followers_count": 1856,
-    "statuses_count": 6859,
-    "favourites_count": 6838,
+    "followers_count": 1882,
+    "statuses_count": 7102,
+    "favourites_count": 6989,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -60,17 +60,7 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/kuranaga3",
-                            "expanded_url": "https://ngl.link/kuranaga3",
-                            "url": "https://t.co/mvIXmHb7S1",
-                            "indices": [
-                                27,
-                                50
-                            ]
-                        }
-                    ]
+                    "urls": []
                 },
                 "url": {
                     "urls": [
@@ -87,12 +77,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 742,
+            "friends_count": 752,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 909,
+            "media_count": 945,
             "pinned_tweet_ids_str": [
-                "1902756501305143687"
+                "1909279378497835414"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -107,7 +97,7 @@
         },
         "twe_private_fields": {
             "created_at": 1611783685000,
-            "updated_at": 1743234029045
+            "updated_at": 1744300645578
         }
     }
 }

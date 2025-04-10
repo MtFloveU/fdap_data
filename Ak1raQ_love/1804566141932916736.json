@@ -1,18 +1,18 @@
 {
     "id": "1804566141932916736",
     "screen_name": "FujiwaraNyanya",
-    "name": "藤原喵喵（妄想成为总输寄结果被总输寄夺舍）",
-    "description": "Xi Jinping is coming!!!",
+    "name": "藤原喵喵 归来 笑看人类社会土崩瓦解，动物朋友统治人类之日到来",
+    "description": "万物有灵 生灵有性 生生不息 繁荣昌盛|\n|真核域 动物界 脊索动物门 哺乳纲 灵长目 类人猿亚目 狭鼻猴次目 人猿超科 人科 人亚科——人类",
     "location": "中南海",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1844768183590461440/Ubqjb-mQ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804566141932916736/1743071942",
-    "followers_count": 1177,
-    "statuses_count": 6027,
-    "favourites_count": 11582,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804566141932916736/1743254249",
+    "followers_count": 1156,
+    "statuses_count": 7758,
+    "favourites_count": 14479,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2024-06-23 01:24:48 +08:00",
     "url": "https://twitter.com/FujiwaraNyanya",
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,18 +35,18 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7500,
+            "friends_count": 7490,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 879,
+            "media_count": 952,
             "pinned_tweet_ids_str": [
-                "1905211548236145024"
+                "1905965817629450378"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {
@@ -53,7 +54,7 @@
         },
         "twe_private_fields": {
             "created_at": 1719077088000,
-            "updated_at": 1743233973913
+            "updated_at": 1744300552736
         }
     }
 }

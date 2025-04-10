@@ -4,11 +4,11 @@
     "name": "Lene 永琳",
     "description": "我找不到爱了",
     "location": "Toronto, Ontario",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1895954037436030976/MvB6kaCk_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1908312781935230976/0ZLrhKXp_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 175,
-    "statuses_count": 351,
-    "favourites_count": 167,
+    "followers_count": 233,
+    "statuses_count": 488,
+    "favourites_count": 186,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -25,7 +25,7 @@
         "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 576,
+            "friends_count": 882,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
+            "media_count": 13,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1724806868000,
-            "updated_at": 1742645295975
+            "updated_at": 1744300366635
         }
     }
 }

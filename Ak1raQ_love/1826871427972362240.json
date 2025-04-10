@@ -6,9 +6,9 @@
     "location": "/Users/MisakaNetworkServices/",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892543426656415744/mYE7JEtM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826871427972362240/1726647335",
-    "followers_count": 316,
-    "statuses_count": 7925,
-    "favourites_count": 26343,
+    "followers_count": 342,
+    "statuses_count": 9251,
+    "favourites_count": 29263,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -47,12 +48,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 483,
+            "friends_count": 517,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 106,
+            "media_count": 133,
             "pinned_tweet_ids_str": [
-                "1901078827385975197"
+                "1909961097207296091"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
@@ -70,7 +71,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1724395089000,
-            "updated_at": 1742120139077
+            "updated_at": 1744300626955
         }
     }
 }

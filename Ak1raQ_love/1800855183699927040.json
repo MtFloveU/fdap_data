@@ -2,12 +2,12 @@
     "id": "1800855183699927040",
     "screen_name": "shnhytng232878",
     "name": "十天幸福死亡计数",
-    "description": "上海人，反支黑、殖人、乌贼斗士。B站号https://t.co/y71M06B3rT，欢迎关注。",
+    "description": "上海人，反支黑、殖人、乌贼斗士，欢迎关注。",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892314296014819331/AcgbLKAM_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 15,
-    "statuses_count": 67,
+    "followers_count": 14,
+    "statuses_count": 73,
     "favourites_count": 51,
     "listed_count": 0,
     "verified_type": null,
@@ -24,30 +24,21 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "b23.tv/0L0WRSn",
-                            "expanded_url": "http://b23.tv/0L0WRSn",
-                            "url": "https://t.co/y71M06B3rT",
-                            "indices": [
-                                19,
-                                42
-                            ]
-                        }
-                    ]
+                    "urls": []
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 25,
+            "friends_count": 34,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 15,
+            "media_count": 19,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -59,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1718192319000,
-            "updated_at": 1742120068263
+            "updated_at": 1744300415258
         }
     }
 }

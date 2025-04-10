@@ -1,21 +1,21 @@
 {
     "id": "1823712839351328768",
-    "screen_name": "Baka_shiluo",
-    "name": "莳洛💤",
-    "description": "MTX | 摄影萌新📷 | 垃圾佬📱💻 | FPS苦手♿ | ⚠️查成分勿扰 | I'm a fool,and I know nothing.",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1844040846716637184/Lb6Bhi1Q_normal.jpg",
+    "screen_name": "AsabaLazy",
+    "name": "秦川洛水💤",
+    "description": "MTX | 再多看一会简介我会害羞的ww｜恋人：@Shiluoshiro｜主治医师兼家人：@AsabaSeiban",
+    "location": "罗德岛",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1909940522732670976/YnOsH2qH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823712839351328768/1727530220",
-    "followers_count": 143,
-    "statuses_count": 692,
-    "favourites_count": 2067,
+    "followers_count": 153,
+    "statuses_count": 1279,
+    "favourites_count": 0,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": true,
+    "followed_by": null,
     "created_at": "2024-08-14 21:26:53 +08:00",
-    "url": "https://twitter.com/Baka_shiluo",
+    "url": "https://twitter.com/AsabaLazy",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODIzNzEyODM5MzUxMzI4NzY4",
@@ -24,8 +24,8 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
+            "can_dm": false,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,13 +34,15 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 164,
+            "friends_count": 0,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 13,
-            "pinned_tweet_ids_str": [],
+            "media_count": 32,
+            "pinned_tweet_ids_str": [
+                "1908146809945706960"
+            ],
             "possibly_sensitive": false,
-            "profile_interstitial_type": "",
+            "profile_interstitial_type": "fake_account",
             "translator_type": "none",
             "verified": false,
             "want_retweets": true,
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1723642013000,
-            "updated_at": 1742120136173
+            "updated_at": 1744300623116
         }
     }
 }

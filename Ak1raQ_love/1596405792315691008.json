@@ -6,10 +6,10 @@
     "location": "深圳市龍華区少年科學院(报刊亭)",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1724776088",
-    "followers_count": 1035,
-    "statuses_count": 5946,
-    "favourites_count": 6892,
-    "listed_count": 1,
+    "followers_count": 1050,
+    "statuses_count": 5989,
+    "favourites_count": 6822,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,7 +35,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 742,
+            "friends_count": 737,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 953,
@@ -62,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1669447863000,
-            "updated_at": 1742120167028
+            "updated_at": 1744300656134
         }
     }
 }

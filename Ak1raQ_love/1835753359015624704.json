@@ -2,14 +2,14 @@
     "id": "1835753359015624704",
     "screen_name": "misumiaoi06",
     "name": "三澄 葵",
-    "description": "长三角正牌十三点港督 / 🇨🇳人で🇯🇵🇬🇧語を話せる音ゲーマ / PJSK, maimai & arcaea / contact misumiaoi06@gmail.com / another me @misumiaoi02 / ASD & ADHD 🦋 / BPD",
+    "description": "长三角正牌十三点港督 / PJSK, maimai, arcaea / contact misumiaoi06@gmail.com / another me @misumiaoi02 / ASD & ADHD / BPD / photographer / translator / interpreter / tutor",
     "location": "WNZ, HGH ZJ & SHA / PVG",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897479472376336384/QetRn-bO_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835753359015624704/1741351913",
-    "followers_count": 852,
-    "statuses_count": 3547,
-    "favourites_count": 20616,
-    "listed_count": 5,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835753359015624704/1743385151",
+    "followers_count": 964,
+    "statuses_count": 4204,
+    "favourites_count": 23521,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
@@ -47,11 +47,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 793,
+            "friends_count": 877,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 882,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1042,
+            "pinned_tweet_ids_str": [
+                "1910010576899825946"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -65,8 +67,8 @@
             "professional_type": "Business",
             "category": [
                 {
-                    "id": 144,
-                    "name": "Education",
+                    "id": 558,
+                    "name": "Translator",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
@@ -76,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1726512688000,
-            "updated_at": 1743234015179
+            "updated_at": 1744300607932
         }
     }
 }

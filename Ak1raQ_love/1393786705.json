@@ -5,11 +5,11 @@
     "description": "分产自由意志主义｜政治学爱好者 尊重每一种意识形态和声音♏️ 关注100%回",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1817889237431431168/u41Rh2rN_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393786705/1734439910",
-    "followers_count": 892,
-    "statuses_count": 273,
-    "favourites_count": 551,
-    "listed_count": 3,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393786705/1742790036",
+    "followers_count": 846,
+    "statuses_count": 325,
+    "favourites_count": 648,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 729,
+            "friends_count": 719,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 20,
-            "pinned_tweet_ids_str": [],
+            "media_count": 24,
+            "pinned_tweet_ids_str": [
+                "1867904478575481013"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1367382410000,
-            "updated_at": 1742120139077
+            "updated_at": 1744300626955
         }
     }
 }

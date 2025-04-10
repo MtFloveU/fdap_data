@@ -1,15 +1,15 @@
 {
     "id": "1532663208393117696",
     "screen_name": "Ziverk2",
-    "name": "Einaちゃん🍥（=^𖥦^=）~",
-    "description": "一只没有成年的成年猫猫w\n|MTX(F)🏳️‍⚧️🍥 SINCE 2024.11\n| Esperanto!\n|间歇发病(紫餐不o)\n| PUBGM |飞车|战双..\n| 原生JS(+PHP) Web\n| Java(+Lua)原生安卓开发\n| Office @mtitstudio",
-    "location": "Tianfu",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1864480412086439936/I2-BmRO2_normal.jpg",
+    "name": "Einaちゃん🍥🐱",
+    "description": "",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1532663208393117696/1738295119",
-    "followers_count": 2019,
-    "statuses_count": 8018,
-    "favourites_count": 121551,
-    "listed_count": 7,
+    "followers_count": 2115,
+    "statuses_count": 8922,
+    "favourites_count": 128211,
+    "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,40 +24,27 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "einashome.byethost22.com",
-                            "expanded_url": "http://einashome.byethost22.com",
-                            "url": "https://t.co/AFyZbAfS0k",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4293,
+            "friends_count": 4437,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 88,
+            "media_count": 94,
             "pinned_tweet_ids_str": [
                 "1884407282454482944"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/AFyZbAfS0k",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -78,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1654250369000,
-            "updated_at": 1743234017504
+            "updated_at": 1744300613744
         }
     }
 }

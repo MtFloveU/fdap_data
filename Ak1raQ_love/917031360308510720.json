@@ -1,0 +1,57 @@
+{
+    "id": "917031360308510720",
+    "screen_name": "user670839245",
+    "name": "User670",
+    "description": "&gt;_&lt; | 喵喵喵喵喵？？",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1561406835999244288/TsO3KvPy_normal.png",
+    "profile_banner_url": null,
+    "followers_count": 543,
+    "statuses_count": 5052,
+    "favourites_count": 3191,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2017-10-08 22:18:08 +08:00",
+    "url": "https://twitter.com/user670839245",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5MTcwMzEzNjAzMDg1MTA3MjA=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3219,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 130,
+            "pinned_tweet_ids_str": [
+                "1650211659913510913"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1507472288000,
+            "updated_at": 1744300366635
+        }
+    }
+}

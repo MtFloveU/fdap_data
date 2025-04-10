@@ -1,0 +1,84 @@
+{
+    "id": "1222199363847327744",
+    "screen_name": "Mikuma1936",
+    "name": "🍥Mikuma⚓三隈🏳️‍⚧️",
+    "description": "小药娘/OD/双相/军迷/德棍/精日/英吹/美分/乌贼/台独/化学专业/数竞/穷玩车的/臭外地的",
+    "location": "木衛三·Ganymede",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1792915151596732416/gqkmbRRd_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222199363847327744/1740128375",
+    "followers_count": 4109,
+    "statuses_count": 9719,
+    "favourites_count": 78749,
+    "listed_count": 14,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2020-01-29 00:46:59 +08:00",
+    "url": "https://twitter.com/Mikuma1936",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjIyMTk5MzYzODQ3MzI3NzQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/mikuma…",
+                            "expanded_url": "https://bsky.app/profile/mikuma1936.bsky.social",
+                            "url": "https://t.co/coQ3AGsDs6",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1056,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 1494,
+            "pinned_tweet_ids_str": [
+                "1874418807294578705"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/coQ3AGsDs6",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "professional": {
+            "rest_id": "1560107375176163328",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 141,
+                    "name": "Gas & Oil Company",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1580230019000,
+            "updated_at": 1744300607931
+        }
+    }
+}

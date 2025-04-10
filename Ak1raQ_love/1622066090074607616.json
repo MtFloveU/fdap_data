@@ -1,15 +1,15 @@
 {
     "id": "1622066090074607616",
     "screen_name": "hoshinofujivy",
-    "name": "星野藤（真理子翼骑兵团团长）",
-    "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤 」Foeverlove @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+    "name": "星野ふじ",
+    "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
     "location": "日本 京都",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1903466341862088704/Hsuu7fb7_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622066090074607616/1742655759",
-    "followers_count": 1134,
-    "statuses_count": 3407,
-    "favourites_count": 12254,
-    "listed_count": 1,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622066090074607616/1743410594",
+    "followers_count": 1168,
+    "statuses_count": 3779,
+    "favourites_count": 14480,
+    "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -31,19 +31,31 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/hanszimmer5272",
+                            "expanded_url": "https://t.me/hanszimmer5272",
+                            "url": "https://t.co/CgxvdN2DbO",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2138,
+            "friends_count": 2188,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 300,
-            "pinned_tweet_ids_str": [
-                "1905575185580949716"
-            ],
+            "media_count": 328,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/CgxvdN2DbO",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
@@ -51,7 +63,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1675565697000,
-            "updated_at": 1743234017504
+            "updated_at": 1744300617330
         }
     }
 }

@@ -1,14 +1,14 @@
 {
     "id": "1512771023518957575",
     "screen_name": "keer12343",
-    "name": "等我陶下吉吉（无🚪）",
-    "description": "互联网冲浪达人 高二在校 无🚪167cm/48kg上推纯发泄 偶尔讲故事，头像名字多变，认准本人标痔 https://t.co/ujnKG6uj6z电报聊天群免费进",
+    "name": "等我陶下吉吉",
+    "description": "互联网冲浪达人 高二在校  167cm/48kg上推纯发泄 偶尔讲故事，头像名字多变，认准本人标痔 https://t.co/ujnKG6uj6z电报聊天群免费进",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879511066293440512/UF9QplNB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512771023518957575/1649507950",
-    "followers_count": 878,
-    "statuses_count": 387,
-    "favourites_count": 578,
+    "followers_count": 891,
+    "statuses_count": 394,
+    "favourites_count": 558,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -20,7 +20,7 @@
         "__typename": "User",
         "id": "VXNlcjoxNTEyNzcxMDIzNTE4OTU3NTc1",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
+        "has_graduated_access": false,
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "legacy": {
@@ -36,8 +36,8 @@
                             "expanded_url": "https://t.me/+vEhyo1HiiYxmYjZl",
                             "url": "https://t.co/ujnKG6uj6z",
                             "indices": [
-                                51,
-                                74
+                                50,
+                                73
                             ]
                         }
                     ]
@@ -47,7 +47,7 @@
             "friends_count": 472,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 87,
+            "media_count": 89,
             "pinned_tweet_ids_str": [
                 "1884962986197942350"
             ],
@@ -61,7 +61,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1649507707000,
-            "updated_at": 1742120043124
+            "updated_at": 1744300385781
         }
     }
 }

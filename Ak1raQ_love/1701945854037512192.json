@@ -6,9 +6,9 @@
     "location": "中华帝国新华宫",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1782794000476307456/kVUvOBop_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701945854037512192/1724490729",
-    "followers_count": 1888,
+    "followers_count": 1871,
     "statuses_count": 11830,
-    "favourites_count": 15359,
+    "favourites_count": 15163,
     "listed_count": 12,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1307,
+            "friends_count": 1286,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 1572,
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1694610494000,
-            "updated_at": 1742120151309
+            "updated_at": 1744300641571
         }
     }
 }

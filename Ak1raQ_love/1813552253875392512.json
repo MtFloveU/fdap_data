@@ -6,9 +6,9 @@
     "location": "CoBeTckag CoynanucTuyeckag Pec",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1893289318472376320/8Y0W_UaC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813552253875392512/1740230422",
-    "followers_count": 144,
-    "statuses_count": 294,
-    "favourites_count": 524,
+    "followers_count": 149,
+    "statuses_count": 307,
+    "favourites_count": 544,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -57,10 +57,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 931,
+            "friends_count": 1000,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 34,
+            "media_count": 35,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -71,11 +71,12 @@
             "withheld_in_countries": []
         },
         "tipjar_settings": {
-            "is_enabled": false
+            "is_enabled": true,
+            "ethereum_handle": "0x43045FDfcbEA17Ad89eE17ECf328399B374eCABC"
         },
         "twe_private_fields": {
             "created_at": 1721219538000,
-            "updated_at": 1743233966990
+            "updated_at": 1744300366635
         }
     }
 }

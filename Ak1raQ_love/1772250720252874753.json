@@ -6,9 +6,9 @@
     "location": "要陪我听一辈子scenecore吗^",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1772254511857569792/__ku3Smw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772250720252874753/1727594833",
-    "followers_count": 183,
-    "statuses_count": 5771,
-    "favourites_count": 18088,
+    "followers_count": 181,
+    "statuses_count": 5841,
+    "favourites_count": 18213,
     "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,11 +34,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 721,
+            "friends_count": 718,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 553,
-            "pinned_tweet_ids_str": [],
+            "media_count": 555,
+            "pinned_tweet_ids_str": [
+                "1908256820269122027"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -49,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1711372484000,
-            "updated_at": 1743234027011
+            "updated_at": 1744300637205
         }
     }
 }

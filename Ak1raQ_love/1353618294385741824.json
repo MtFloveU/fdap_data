@@ -6,10 +6,10 @@
     "location": "日本 東京",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876197139967045632/fGT7bvOH_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 1971,
-    "statuses_count": 688,
-    "favourites_count": 1732,
-    "listed_count": 6,
+    "followers_count": 1966,
+    "statuses_count": 691,
+    "favourites_count": 1715,
+    "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 891,
+            "friends_count": 949,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 36,
+            "media_count": 37,
             "pinned_tweet_ids_str": [
                 "1875541584214946199"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1611563248000,
-            "updated_at": 1742120170045
+            "updated_at": 1744300659444
         }
     }
 }

@@ -4,11 +4,11 @@
     "name": "然后",
     "description": "一只柴郡。",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1829428529995407360/Fyw4FNqB_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1908639348310106114/VoVAbSUi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545252980244377600/1707504091",
-    "followers_count": 1267,
-    "statuses_count": 3175,
-    "favourites_count": 910,
+    "followers_count": 1265,
+    "statuses_count": 3262,
+    "favourites_count": 921,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -34,10 +35,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 305,
+            "friends_count": 311,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 216,
+            "media_count": 223,
             "pinned_tweet_ids_str": [
                 "1825355187533516950"
             ],
@@ -64,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1657252004000,
-            "updated_at": 1742645295975
+            "updated_at": 1744300366635
         }
     }
 }

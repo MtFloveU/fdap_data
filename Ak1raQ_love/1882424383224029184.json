@@ -1,15 +1,15 @@
 {
     "id": "1882424383224029184",
     "screen_name": "YuJian21145",
-    "name": "yoyo🏳️‍⚧️（空手道修行ing）",
-    "description": "Domo，米娜＝桑•yoyo DESU\naieeeeeeee!\n风火林山，茶道！然后是，空手道！\n咏颂俳句吧！",
+    "name": "yoyo🏳️‍⚧️（隐藏版）",
+    "description": "看不见我，看不见我(〜￣▽￣)〜",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890682663452782592/khG4x7fZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882424383224029184/1739673635",
-    "followers_count": 208,
-    "statuses_count": 365,
-    "favourites_count": 845,
-    "listed_count": 2,
+    "followers_count": 258,
+    "statuses_count": 443,
+    "favourites_count": 1091,
+    "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -24,8 +24,9 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
-            "can_media_tag": true,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,13 +35,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 200,
+            "friends_count": 232,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
-            "pinned_tweet_ids_str": [
-                "1902713610155213036"
-            ],
+            "media_count": 15,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -51,7 +50,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1737639941000,
-            "updated_at": 1743234011757
+            "updated_at": 1744300601519
         }
     }
 }

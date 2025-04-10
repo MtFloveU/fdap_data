@@ -2,13 +2,13 @@
     "id": "1757839794967883776",
     "screen_name": "__touka_akizuki",
     "name": "秋月 橙花",
-    "description": "17↑ | ixfp-t | 可燃ごみ/LDO恐怖症",
-    "location": "la terdi",
+    "description": "不知道",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1795922368348790784/WQzYZr3y_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757839794967883776/1707943441",
-    "followers_count": 136,
-    "statuses_count": 7004,
-    "favourites_count": 7533,
+    "followers_count": 131,
+    "statuses_count": 7598,
+    "favourites_count": 7898,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -24,6 +24,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "notifications": true,
             "protected": true,
             "can_dm": true,
             "can_media_tag": false,
@@ -35,12 +36,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 64,
+            "friends_count": 65,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 628,
+            "media_count": 665,
             "pinned_tweet_ids_str": [
-                "1897482762841686168"
+                "1905449973199884412"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -52,7 +53,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1707936728000,
-            "updated_at": 1742120163575
+            "updated_at": 1744300652964
         }
     }
 }

@@ -1,21 +1,21 @@
 {
     "id": "1817088326559752192",
-    "screen_name": "Akimeonko",
+    "screen_name": "MirukuJuusu",
     "name": "マイコ",
     "description": "🥺",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1848368569261891584/eD6P7HVK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817088326559752192/1723685421",
-    "followers_count": 61,
-    "statuses_count": 434,
-    "favourites_count": 323,
+    "followers_count": 55,
+    "statuses_count": 438,
+    "favourites_count": 322,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "created_at": "2024-07-27 14:43:56 +08:00",
-    "url": "https://twitter.com/Akimeonko",
+    "url": "https://twitter.com/MirukuJuusu",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODE3MDg4MzI2NTU5NzUyMTky",
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 177,
+            "friends_count": 181,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 7,
+            "media_count": 8,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1722062636000,
-            "updated_at": 1742120142319
+            "updated_at": 1744300630241
         }
     }
 }

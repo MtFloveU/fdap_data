@@ -6,8 +6,8 @@
     "location": "Alicante, Spain",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1900171460829757440/F7N_zqN5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571902100128268290/1703454348",
-    "followers_count": 376,
-    "statuses_count": 3393,
+    "followers_count": 385,
+    "statuses_count": 3445,
     "favourites_count": 6536,
     "listed_count": 1,
     "verified_type": null,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1289,
+            "friends_count": 1347,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 152,
+            "media_count": 153,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1663605660000,
-            "updated_at": 1742120160265
+            "updated_at": 1744300649095
         }
     }
 }

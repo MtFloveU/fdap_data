@@ -6,9 +6,9 @@
     "location": "Avernus",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1858998583766437888/VYsBeZ1a_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597993409473818624/1690311266",
-    "followers_count": 721,
-    "statuses_count": 2902,
-    "favourites_count": 9232,
+    "followers_count": 726,
+    "statuses_count": 2888,
+    "favourites_count": 9325,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -54,6 +54,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -64,10 +65,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 582,
+            "friends_count": 590,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 252,
+            "media_count": 245,
             "pinned_tweet_ids_str": [
                 "1810255962789593353"
             ],
@@ -86,7 +87,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1669826305000,
-            "updated_at": 1742120133443
+            "updated_at": 1744300617331
         }
     }
 }

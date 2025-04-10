@@ -6,9 +6,9 @@
     "location": "郑州",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874107298957713408/dqy3PxZ2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874104856375693312/1736450332",
-    "followers_count": 554,
-    "statuses_count": 122,
-    "favourites_count": 849,
+    "followers_count": 1019,
+    "statuses_count": 249,
+    "favourites_count": 1593,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 529,
+            "friends_count": 696,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 8,
+            "media_count": 15,
             "pinned_tweet_ids_str": [
                 "1884609840162738487"
             ],
@@ -48,12 +48,23 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "professional": {
+            "rest_id": "1906359640633540647",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
         "twe_private_fields": {
             "created_at": 1735656404000,
-            "updated_at": 1742120121803
+            "updated_at": 1744300607931
         }
     }
 }

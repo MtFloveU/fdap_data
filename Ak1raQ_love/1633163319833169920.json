@@ -6,10 +6,10 @@
     "location": "北京",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1733845957564116992/UvEm9iSn_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1633163319833169920/1700884592",
-    "followers_count": 5228,
-    "statuses_count": 3618,
-    "favourites_count": 11822,
-    "listed_count": 17,
+    "followers_count": 5211,
+    "statuses_count": 3692,
+    "favourites_count": 11908,
+    "listed_count": 16,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 611,
+            "friends_count": 601,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 518,
+            "media_count": 541,
             "pinned_tweet_ids_str": [
                 "1801595451155825138"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1678211467000,
-            "updated_at": 1742120163580
+            "updated_at": 1744300656134
         }
     }
 }
