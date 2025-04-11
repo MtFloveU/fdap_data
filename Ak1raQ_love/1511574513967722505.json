@@ -6,10 +6,10 @@
     "location": "我於萬物之中",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1855989363446030336/CCBokdrt_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511574513967722505/1740561301",
-    "followers_count": 492,
-    "statuses_count": 1007,
+    "followers_count": 503,
+    "statuses_count": 1008,
     "favourites_count": 494,
-    "listed_count": 2,
+    "listed_count": 3,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
@@ -57,7 +57,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 350,
+            "friends_count": 351,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 156,
@@ -77,7 +77,7 @@
         },
         "twe_private_fields": {
             "created_at": 1649222431000,
-            "updated_at": 1744300552736
+            "updated_at": 1744345002132
         }
     }
 }

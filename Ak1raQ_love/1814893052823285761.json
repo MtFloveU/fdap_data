@@ -6,9 +6,9 @@
     "location": "Zhaoqing",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882839632670502913/SVIb6Zg8_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814893052823285761/1737098904",
-    "followers_count": 263,
+    "followers_count": 261,
     "statuses_count": 144,
-    "favourites_count": 12427,
+    "favourites_count": 12424,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": false,
@@ -57,7 +57,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 695,
+            "friends_count": 694,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 44,
@@ -86,7 +86,7 @@
         },
         "twe_private_fields": {
             "created_at": 1721539210000,
-            "updated_at": 1744300604949
+            "updated_at": 1744345007688
         }
     }
 }

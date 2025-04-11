@@ -6,9 +6,9 @@
     "location": "永远亭",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1909915616560975872/1LfHHCif_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690386306139111424/1741880002",
-    "followers_count": 804,
-    "statuses_count": 7848,
-    "favourites_count": 7205,
+    "followers_count": 806,
+    "statuses_count": 7853,
+    "favourites_count": 7209,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 977,
+            "friends_count": 976,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 1634,
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1691854486000,
-            "updated_at": 1744300607931
+            "updated_at": 1744345010625
         }
     }
 }

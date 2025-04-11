@@ -6,9 +6,9 @@
     "location": "Glentanner Parking Area",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891735080089051136/5XPumcvA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497064983968075776/1741249687",
-    "followers_count": 1324,
-    "statuses_count": 23396,
-    "favourites_count": 104955,
+    "followers_count": 1322,
+    "statuses_count": 23398,
+    "favourites_count": 104962,
     "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,7 +50,7 @@
             "friends_count": 853,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1355,
+            "media_count": 1356,
             "pinned_tweet_ids_str": [
                 "1897155859865854420"
             ],
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1645763095000,
-            "updated_at": 1744300626955
+            "updated_at": 1744345026618
         }
     }
 }

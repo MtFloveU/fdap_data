@@ -6,9 +6,9 @@
     "location": "中华民国，北平",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895102259245260805/JLObg4-p_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818731995310309376/1740246809",
-    "followers_count": 1348,
-    "statuses_count": 18751,
-    "favourites_count": 115768,
+    "followers_count": 1350,
+    "statuses_count": 18796,
+    "favourites_count": 30,
     "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1792,
+            "friends_count": 1,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 864,
+            "media_count": 865,
             "pinned_tweet_ids_str": [
                 "1907810174527852850"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1722454481000,
-            "updated_at": 1744300620032
+            "updated_at": 1744345021270
         }
     }
 }

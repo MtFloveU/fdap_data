@@ -6,7 +6,7 @@
     "location": "厦门",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1637283779265052672/m6IakSh0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504141224256495622/1729788055",
-    "followers_count": 2245,
+    "followers_count": 2242,
     "statuses_count": 291,
     "favourites_count": 7120,
     "listed_count": 7,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2915,
+            "friends_count": 2913,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 55,
@@ -64,7 +64,7 @@
         },
         "twe_private_fields": {
             "created_at": 1647450204000,
-            "updated_at": 1744300620032
+            "updated_at": 1744345021270
         }
     }
 }

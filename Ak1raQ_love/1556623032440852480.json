@@ -6,9 +6,9 @@
     "location": "Stars",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1820690351503609856/YU-98RFl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556623032440852480/1731162953",
-    "followers_count": 243,
+    "followers_count": 241,
     "statuses_count": 1824,
-    "favourites_count": 29062,
+    "favourites_count": 29061,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1236,
+            "friends_count": 1235,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 166,
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1659962841000,
-            "updated_at": 1744300428862
+            "updated_at": 1744344979092
         }
     }
 }

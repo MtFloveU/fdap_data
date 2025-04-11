@@ -6,9 +6,9 @@
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1807752794868436992/aRV-vQMQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470410046353858565/1741136862",
-    "followers_count": 32066,
-    "statuses_count": 10935,
-    "favourites_count": 20230,
+    "followers_count": 32067,
+    "statuses_count": 10936,
+    "favourites_count": 20236,
     "listed_count": 95,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +37,7 @@
             "friends_count": 268,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 262,
+            "media_count": 263,
             "pinned_tweet_ids_str": [
                 "1908370203987099845"
             ],
@@ -53,7 +53,7 @@
         },
         "twe_private_fields": {
             "created_at": 1639408065000,
-            "updated_at": 1744300659444
+            "updated_at": 1744345050195
         }
     }
 }

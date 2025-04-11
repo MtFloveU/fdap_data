@@ -6,9 +6,9 @@
     "location": "距离你 6 km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1843716455499739141/mTomvrER_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230450318837571586/1738430335",
-    "followers_count": 386,
-    "statuses_count": 3254,
-    "favourites_count": 16604,
+    "followers_count": 387,
+    "statuses_count": 3256,
+    "favourites_count": 16615,
     "listed_count": 10,
     "verified_type": null,
     "is_blue_verified": false,
@@ -50,7 +50,7 @@
             "friends_count": 2089,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 478,
+            "media_count": 479,
             "pinned_tweet_ids_str": [
                 "1845895191984779433"
             ],
@@ -67,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1582197198000,
-            "updated_at": 1744300396158
+            "updated_at": 1744344954593
         }
     }
 }

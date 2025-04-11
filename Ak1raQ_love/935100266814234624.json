@@ -6,9 +6,9 @@
     "location": "CHN,DPRK",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1830306286808039424/lFm9aobO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/935100266814234624/1728523187",
-    "followers_count": 850,
-    "statuses_count": 569,
-    "favourites_count": 4846,
+    "followers_count": 854,
+    "statuses_count": 571,
+    "favourites_count": 4870,
     "listed_count": 7,
     "verified_type": null,
     "is_blue_verified": false,
@@ -47,7 +47,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 785,
+            "friends_count": 793,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 106,
@@ -65,7 +65,7 @@
         },
         "twe_private_fields": {
             "created_at": 1511780251000,
-            "updated_at": 1744300370715
+            "updated_at": 1744344934530
         }
     }
 }

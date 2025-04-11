@@ -6,13 +6,13 @@
     "location": "Yilan County, R.O.C. Taiwan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1904941400799797255/EPNB-OxK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904941139108782080/1743070793",
-    "followers_count": 155,
-    "statuses_count": 285,
-    "favourites_count": 663,
+    "followers_count": 159,
+    "statuses_count": 318,
+    "favourites_count": 745,
     "listed_count": 1,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "created_at": "2025-03-27 00:59:24 +08:00",
     "url": "https://twitter.com/SenrenBanka0721",
@@ -34,22 +34,22 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 314,
+            "friends_count": 335,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 10,
+            "media_count": 11,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1743008364000,
-            "updated_at": 1744300366634
+            "updated_at": 1744345002130
         }
     }
 }

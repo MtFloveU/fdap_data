@@ -6,8 +6,8 @@
     "location": "宛平南路600号",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1844733200876417024/F283A_FZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271295081144696833/1728653685",
-    "followers_count": 1948,
-    "statuses_count": 4206,
+    "followers_count": 1945,
+    "statuses_count": 4205,
     "favourites_count": 4683,
     "listed_count": 7,
     "verified_type": null,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1355,
+            "friends_count": 1353,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1007,
+            "media_count": 1006,
             "pinned_tweet_ids_str": [
                 "1742150268509446636"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1591935349000,
-            "updated_at": 1744300652964
+            "updated_at": 1744345044893
         }
     }
 }

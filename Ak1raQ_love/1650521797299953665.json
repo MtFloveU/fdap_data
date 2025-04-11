@@ -6,9 +6,9 @@
     "location": "第三公园",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1907411523582279680/y9jBLrJj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650521797299953665/1743597323",
-    "followers_count": 943,
-    "statuses_count": 8713,
-    "favourites_count": 54018,
+    "followers_count": 944,
+    "statuses_count": 8725,
+    "favourites_count": 54084,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -38,7 +38,7 @@
             "friends_count": 757,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 416,
+            "media_count": 418,
             "pinned_tweet_ids_str": [
                 "1907428560442470698"
             ],
@@ -54,7 +54,7 @@
         },
         "twe_private_fields": {
             "created_at": 1682350047000,
-            "updated_at": 1744300626956
+            "updated_at": 1744345026619
         }
     }
 }

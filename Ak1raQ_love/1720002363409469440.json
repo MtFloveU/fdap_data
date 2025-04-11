@@ -6,9 +6,9 @@
     "location": "Сыктывкар",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1765418586913570817/p38T5BY0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720002363409469440/1710591671",
-    "followers_count": 384,
-    "statuses_count": 8345,
-    "favourites_count": 8254,
+    "followers_count": 382,
+    "statuses_count": 8354,
+    "favourites_count": 8258,
     "listed_count": 2,
     "verified_type": null,
     "is_blue_verified": false,
@@ -48,10 +48,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 343,
+            "friends_count": 341,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 932,
+            "media_count": 933,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -75,7 +75,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1698915504000,
-            "updated_at": 1744300607932
+            "updated_at": 1744345010625
         }
     }
 }

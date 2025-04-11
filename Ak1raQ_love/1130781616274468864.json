@@ -6,9 +6,9 @@
     "location": "IJN 2nd Fleet",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1869671377147748352/35AqOkZ__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1734610924",
-    "followers_count": 60852,
+    "followers_count": 60861,
     "statuses_count": 539,
-    "favourites_count": 50063,
+    "favourites_count": 50064,
     "listed_count": 0,
     "verified_type": null,
     "is_blue_verified": true,
@@ -51,7 +51,7 @@
             "friends_count": 2114,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 360,
+            "media_count": 361,
             "pinned_tweet_ids_str": [
                 "1861947934868455904"
             ],
@@ -79,7 +79,7 @@
         },
         "twe_private_fields": {
             "created_at": 1558434321000,
-            "updated_at": 1744300645578
+            "updated_at": 1744345039440
         }
     }
 }

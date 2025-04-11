@@ -6,9 +6,9 @@
     "location": "IP所在国：魁北克",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897287680309829632/ra9YoYW__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1012920230803169280/1739716919",
-    "followers_count": 232,
-    "statuses_count": 2776,
-    "favourites_count": 60848,
+    "followers_count": 231,
+    "statuses_count": 2780,
+    "favourites_count": 60886,
     "listed_count": 14,
     "verified_type": null,
     "is_blue_verified": true,
@@ -48,10 +48,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6030,
+            "friends_count": 6031,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 322,
+            "media_count": 323,
             "pinned_tweet_ids_str": [
                 "1906977803838316738"
             ],
@@ -71,7 +71,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1530333976000,
-            "updated_at": 1744300366635
+            "updated_at": 1744344931522
         }
     }
 }

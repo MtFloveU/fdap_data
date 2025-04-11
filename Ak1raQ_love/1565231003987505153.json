@@ -6,9 +6,9 @@
     "location": "广州",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565231003987505153/1684829218",
-    "followers_count": 6197,
-    "statuses_count": 59957,
-    "favourites_count": 93307,
+    "followers_count": 6207,
+    "statuses_count": 60032,
+    "favourites_count": 93367,
     "listed_count": 11,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,10 +34,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6575,
+            "friends_count": 6577,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 881,
+            "media_count": 882,
             "pinned_tweet_ids_str": [
                 "1903121425768337747"
             ],
@@ -51,7 +51,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1662015155000,
-            "updated_at": 1744300645578
+            "updated_at": 1744345039440
         }
     }
 }

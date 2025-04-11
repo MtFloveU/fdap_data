@@ -6,9 +6,9 @@
     "location": "中国上海市黄浦区汉口路10号",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1910194367958278144/G4MtflID_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 880,
-    "statuses_count": 8515,
-    "favourites_count": 42381,
+    "followers_count": 876,
+    "statuses_count": 8521,
+    "favourites_count": 42438,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -51,7 +51,7 @@
             "friends_count": 816,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 944,
+            "media_count": 945,
             "pinned_tweet_ids_str": [
                 "1908104592031899905"
             ],
@@ -68,7 +68,7 @@
         },
         "twe_private_fields": {
             "created_at": 1716218392000,
-            "updated_at": 1744300630241
+            "updated_at": 1744345028977
         }
     }
 }

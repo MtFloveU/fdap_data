@@ -6,9 +6,9 @@
     "location": "Beijing",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889708317590822917/8u44zi_Y_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1425888111859363842/1744294505",
-    "followers_count": 803,
-    "statuses_count": 14539,
-    "favourites_count": 31561,
+    "followers_count": 802,
+    "statuses_count": 14541,
+    "favourites_count": 31584,
     "listed_count": 5,
     "verified_type": null,
     "is_blue_verified": false,
@@ -45,7 +45,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2581,
+            "friends_count": 2583,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 1680,
@@ -73,7 +73,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1628793199000,
-            "updated_at": 1744300404882
+            "updated_at": 1744344961001
         }
     }
 }

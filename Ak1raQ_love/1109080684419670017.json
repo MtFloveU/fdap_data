@@ -6,9 +6,9 @@
     "location": "Living Memory",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1905562293552939009/rzMWQ94-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109080684419670017/1692265233",
-    "followers_count": 17001,
-    "statuses_count": 20029,
-    "favourites_count": 27571,
+    "followers_count": 17013,
+    "statuses_count": 20036,
+    "favourites_count": 27544,
     "listed_count": 42,
     "verified_type": null,
     "is_blue_verified": false,
@@ -37,7 +37,7 @@
             "friends_count": 1771,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 2443,
+            "media_count": 2444,
             "pinned_tweet_ids_str": [
                 "1906195764239344095"
             ],
@@ -62,7 +62,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1553260415000,
-            "updated_at": 1744300645578
+            "updated_at": 1744345039440
         }
     }
 }
