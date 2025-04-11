@@ -6,7 +6,7 @@
     "location": "localhost",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1775602322154102784/dViOiawi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767835046600474624/1718153446",
-    "followers_count": 1557,
+    "followers_count": 1556,
     "statuses_count": 434,
     "favourites_count": 7177,
     "listed_count": 5,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7320,
+            "friends_count": 7319,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 20,
@@ -49,7 +49,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1710319710000,
-            "updated_at": 1744345034192
+            "updated_at": 1744350101510
         }
     }
 }

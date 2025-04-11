@@ -6,8 +6,8 @@
     "location": "Hong Kong",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1433839553748430851/2UH9XRNO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/957544663275028481/1662378070",
-    "followers_count": 17599,
-    "statuses_count": 4072,
+    "followers_count": 17594,
+    "statuses_count": 4073,
     "favourites_count": 6613,
     "listed_count": 53,
     "verified_type": null,
@@ -53,7 +53,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 901,
+            "friends_count": 900,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 609,
@@ -72,7 +72,7 @@
         },
         "twe_private_fields": {
             "created_at": 1517131412000,
-            "updated_at": 1744345016111
+            "updated_at": 1744350085207
         }
     }
 }

@@ -6,8 +6,8 @@
     "location": "点一下「查看更多」试试？",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613079089879076864/1727929985",
-    "followers_count": 60974,
-    "statuses_count": 12476,
+    "followers_count": 61023,
+    "statuses_count": 12478,
     "favourites_count": 27869,
     "listed_count": 208,
     "verified_type": null,
@@ -37,7 +37,7 @@
             "friends_count": 562,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 8764,
+            "media_count": 8766,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -59,7 +59,7 @@
         },
         "twe_private_fields": {
             "created_at": 1673423009000,
-            "updated_at": 1744345044893
+            "updated_at": 1744350112277
         }
     }
 }

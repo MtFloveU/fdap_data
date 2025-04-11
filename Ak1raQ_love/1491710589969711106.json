@@ -7,8 +7,8 @@
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872200180814290944/UHGY-UkI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491710589969711106/1725458627",
     "followers_count": 1579,
-    "statuses_count": 11073,
-    "favourites_count": 196184,
+    "statuses_count": 11081,
+    "favourites_count": 196265,
     "listed_count": 4,
     "verified_type": null,
     "is_blue_verified": false,
@@ -34,7 +34,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3531,
+            "friends_count": 3533,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 252,
@@ -51,7 +51,7 @@
         },
         "twe_private_fields": {
             "created_at": 1644486511000,
-            "updated_at": 1744344969752
+            "updated_at": 1744350047733
         }
     }
 }

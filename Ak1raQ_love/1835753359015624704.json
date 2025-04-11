@@ -6,9 +6,9 @@
     "location": "WNZ, HGH ZJ & SHA / PVG",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897479472376336384/QetRn-bO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835753359015624704/1743385151",
-    "followers_count": 967,
-    "statuses_count": 4219,
-    "favourites_count": 23587,
+    "followers_count": 969,
+    "statuses_count": 4224,
+    "favourites_count": 23595,
     "listed_count": 6,
     "verified_type": null,
     "is_blue_verified": true,
@@ -50,7 +50,7 @@
             "friends_count": 858,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1046,
+            "media_count": 1049,
             "pinned_tweet_ids_str": [
                 "1910010576899825946"
             ],
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1726512688000,
-            "updated_at": 1744345010625
+            "updated_at": 1744350082251
         }
     }
 }
