@@ -1,0 +1,75 @@
+{
+    "id": "1467175651954200577",
+    "screen_name": "kjkluk",
+    "name": "Pluie今天哈气了吗😾",
+    "description": "喵呜器正在依靠bug运行中",
+    "location": "Japan",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1913011289997406209/17twdbY4_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 2194,
+    "statuses_count": 10681,
+    "favourites_count": 228118,
+    "listed_count": 13,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-12-05 00:55:23 +08:00",
+    "url": "https://twitter.com/kjkluk",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDY3MTc1NjUxOTU0MjAwNTc3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "kjkluk.github.io",
+                            "expanded_url": "http://kjkluk.github.io",
+                            "url": "https://t.co/i3MKU3UG3m",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2674,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 747,
+            "pinned_tweet_ids_str": [
+                "1915342614376964317"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/i3MKU3UG3m",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": false,
+            "bitcoin_handle": "bc1qdkz59fxq8q7ul9kgxvrzm89r5ua4233e4paq26"
+        },
+        "twe_private_fields": {
+            "created_at": 1638636923000,
+            "updated_at": 1746077194422
+        }
+    }
+}

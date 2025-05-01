@@ -1,0 +1,99 @@
+{
+    "id": "1791348768690089984",
+    "screen_name": "owl8964cat",
+    "name": "魔法使いねこ",
+    "description": "福建|美少女ゲーム|社畜実習|互fo 貓貓：@SakuraCatMoe @Romanorum_ @LycoReco_neneko铁道友@kiming568416百合醬@allknowbody 姐姐:@honxine8964 p宝:@M600_spitfire 麦:@2SJ7ntKBdEtTKrM",
+    "location": "北京市东城区新开路胡同71号",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1812771583234068481/3J6UZdqY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791348768690089984/1722145862",
+    "followers_count": 765,
+    "statuses_count": 16056,
+    "favourites_count": 53085,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-05-17 14:03:53 +08:00",
+    "url": "https://twitter.com/owl8964cat",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzkxMzQ4NzY4NjkwMDg5OTg0",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @saya8964cat",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 25,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "saya8964cat",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "saya8964cat"
+                                        },
+                                        "rest_id": "1824480149385121799"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "10.191.5.5.com",
+                            "expanded_url": "http://10.191.5.5.com",
+                            "url": "https://t.co/7b5QKZSVTF",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 879,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 112,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/7b5QKZSVTF",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1715925833000,
+            "updated_at": 1746077183634
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": "702827952803680256",
+    "screen_name": "allvulples",
+    "name": "Demonkeyse Manell",
+    "description": "BIG BANG BAD BOYS AND GIRLS.",
+    "location": "Hong Kong",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1886505840297041922/T3n-n-l2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/702827952803680256/1730308908",
+    "followers_count": 686,
+    "statuses_count": 27064,
+    "favourites_count": 21502,
+    "listed_count": 6,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2016-02-25 20:10:16 +08:00",
+    "url": "https://twitter.com/allvulples",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo3MDI4Mjc5NTI4MDM2ODAyNTY=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3265,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 622,
+            "pinned_tweet_ids_str": [
+                "1913211554511954142"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1456402216000,
+            "updated_at": 1746080526291
+        }
+    }
+}

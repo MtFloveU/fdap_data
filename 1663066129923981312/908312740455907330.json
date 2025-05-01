@@ -1,0 +1,87 @@
+{
+    "id": "908312740455907330",
+    "screen_name": "qiuylove",
+    "name": "🍥小秋月🏳️‍⚧",
+    "description": "Stand with🇹🇼🇺🇦/里推/一只09的MtF噢/未炸柜但被迫断糖/化竞生/INFP/sub/免费私信树洞 /表@imqiuy /https://t.co/BFK1NVA58J 限时放送：我想看@P5KAban变男娘",
+    "location": "Seattle, WA",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1916718580705742848/pSAcedGu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/908312740455907330/1723091129",
+    "followers_count": 139,
+    "statuses_count": 640,
+    "favourites_count": 7755,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2017-09-14 20:53:27 +08:00",
+    "url": "https://twitter.com/qiuylove",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5MDgzMTI3NDA0NTU5MDczMzA=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "notifications": true,
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/xyn8964",
+                            "expanded_url": "https://t.me/xyn8964",
+                            "url": "https://t.co/BFK1NVA58J",
+                            "indices": [
+                                68,
+                                91
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "open.spotify.com/playlist/0ETzV…",
+                            "expanded_url": "https://open.spotify.com/playlist/0ETzVTcvLjjxCuzT9xMjmV?si=367bbafcc369445b",
+                            "url": "https://t.co/qLU5z1lJqT",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 370,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 42,
+            "pinned_tweet_ids_str": [
+                "1902942928017793151"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/qLU5z1lJqT",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "bc1qjlhyzcn99xk78au2vgran220q9ff8y48fck8w0",
+            "ethereum_handle": "0x31A6B4DB1afA07809eCC659bBDbcC870086Bf3B7"
+        },
+        "twe_private_fields": {
+            "created_at": 1505393607000,
+            "updated_at": 1746077179548
+        }
+    }
+}

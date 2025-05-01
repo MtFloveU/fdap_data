@@ -1,0 +1,73 @@
+{
+    "id": "1741993395910811648",
+    "screen_name": "AnIncandescence",
+    "name": "炽烈已极",
+    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+    "location": "0°00′N 260°00′E Mars",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741993395910811648/1720619087",
+    "followers_count": 884,
+    "statuses_count": 2617,
+    "favourites_count": 7200,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-01-02 09:22:57 +08:00",
+    "url": "https://twitter.com/AnIncandescence",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQxOTkzMzk1OTEwODExNjQ4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/anincandescence",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 183,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 529,
+            "pinned_tweet_ids_str": [
+                "1905895186867400960"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/MuEKSg4tIS",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1704158577000,
+            "updated_at": 1746077183634
+        }
+    }
+}

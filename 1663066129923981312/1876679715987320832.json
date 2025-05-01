@@ -1,0 +1,55 @@
+{
+    "id": "1876679715987320832",
+    "screen_name": "icnotye",
+    "name": "Ictye Game™",
+    "description": "developer @ictyep 's another account\n@icnotye",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1876679798153699328/fMQydlp2_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 5,
+    "statuses_count": 9,
+    "favourites_count": 19,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2025-01-08 01:18:25 +08:00",
+    "url": "https://twitter.com/icnotye",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODc2Njc5NzE1OTg3MzIwODMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 7,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 2,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1736270305000,
+            "updated_at": 1746077169154
+        }
+    }
+}

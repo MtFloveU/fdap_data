@@ -1,0 +1,100 @@
+{
+    "id": "1823771857755234305",
+    "screen_name": "azusayuri_1984",
+    "name": "あずにゃん8964🇮🇱🎌",
+    "description": "|🕷🕷人能不能冷靜一點|六四天安門事件|\n|不是支黑也不反支黑|友跨喵🏳️‍⚧️|點贊機器人外加“視奸”|”中立“乐子人|我ban你就是覺得你惡心|\n|提問箱:https://t.co/hjmHJxAMWm|小號@azusayuri_8964|\n想挂的弱智@elonmusk",
+    "location": "IP属地：大日本帝国",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1916019833080283136/bPPQu7ao_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823771857755234305/1739602695",
+    "followers_count": 278,
+    "statuses_count": 44,
+    "favourites_count": 8097,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-08-15 01:22:28 +08:00",
+    "url": "https://twitter.com/azusayuri_1984",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODIzNzcxODU3NzU1MjM0MzA1",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @azusayuri_8964",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 28,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "azusayuri_8964",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "azusayuri_8964"
+                                        },
+                                        "rest_id": "1886833813936070663"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/azusayuri_1984",
+                            "expanded_url": "https://ngl.link/azusayuri_1984",
+                            "url": "https://t.co/hjmHJxAMWm",
+                            "indices": [
+                                80,
+                                103
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 727,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 1,
+            "pinned_tweet_ids_str": [
+                "1884392498875048151"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1723656148000,
+            "updated_at": 1746077175502
+        }
+    }
+}

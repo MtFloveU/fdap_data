@@ -1,0 +1,70 @@
+{
+    "id": "1839263401845075974",
+    "screen_name": "0NewRajalAurora",
+    "name": "𝓨𝓸𝓾𝓼𝓮𝓻 𝓡𝓪𝓳𝓪𝓻 🇦🇶",
+    "description": ".",
+    "location": "New Rajal Aurora City",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+    "followers_count": 1249,
+    "statuses_count": 3465,
+    "favourites_count": 10500,
+    "listed_count": 6,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-09-26 19:19:31 +08:00",
+    "url": "https://twitter.com/0NewRajalAurora",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM5MjYzNDAxODQ1MDc1OTc0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1764,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 177,
+            "pinned_tweet_ids_str": [
+                "1895931291142627425"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1894213773226848702",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 93,
+                    "name": "Aviation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1727349571000,
+            "updated_at": 1746077173226
+        }
+    }
+}

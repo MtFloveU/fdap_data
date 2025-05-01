@@ -1,0 +1,58 @@
+{
+    "id": "1702290376894152704",
+    "screen_name": "Bocchi520_",
+    "name": "抱歉BOT",
+    "description": "",
+    "location": "革命之後殺你全家",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1814192894468915200/ce8g9NaG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1702290376894152704/1713588689",
+    "followers_count": 966,
+    "statuses_count": 19220,
+    "favourites_count": 37071,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-09-14 19:57:16 +08:00",
+    "url": "https://twitter.com/Bocchi520_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzAyMjkwMzc2ODk0MTUyNzA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1098,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 683,
+            "pinned_tweet_ids_str": [
+                "1851616905888715109"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1694692636000,
+            "updated_at": 1746077187245
+        }
+    }
+}

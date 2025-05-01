@@ -1,0 +1,78 @@
+{
+    "id": "1425888111859363842",
+    "screen_name": "Anataha_sakana",
+    "name": "Anataha_Sakana",
+    "description": "一个普通人\n\nIns＆threads:Anataha_sakana\n\n提问箱：https://t.co/7BZ6NKrsBJ\n\n提问箱的回复会在置顶的回复中喔",
+    "location": "Beijing",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1889708317590822917/8u44zi_Y_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1425888111859363842/1744721382",
+    "followers_count": 811,
+    "statuses_count": 15150,
+    "favourites_count": 32983,
+    "listed_count": 5,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2021-08-13 02:33:19 +08:00",
+    "url": "https://twitter.com/Anataha_sakana",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDI1ODg4MTExODU5MzYzODQy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/anataha_sakana",
+                            "expanded_url": "https://ngl.link/anataha_sakana",
+                            "url": "https://t.co/7BZ6NKrsBJ",
+                            "indices": [
+                                39,
+                                62
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2661,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 1762,
+            "pinned_tweet_ids_str": [
+                "1712117803455852794"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1819602545385619809",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1056,
+                    "name": "Social worker",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1628793199000,
+            "updated_at": 1746080536175
+        }
+    }
+}

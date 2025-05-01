@@ -1,0 +1,60 @@
+{
+    "id": "1826129497714040832",
+    "screen_name": "CREZAN_LM",
+    "name": "何止七月八月份我也不想更新",
+    "description": "",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1917295223237140480/k_zmcmOX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826129497714040832/1745712167",
+    "followers_count": 286,
+    "statuses_count": 3280,
+    "favourites_count": 5176,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-08-21 13:29:47 +08:00",
+    "url": "https://twitter.com/CREZAN_LM",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODI2MTI5NDk3NzE0MDQwODMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 316,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 768,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1851240962783371377",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1724218187000,
+            "updated_at": 1746077182049
+        }
+    }
+}

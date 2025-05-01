@@ -1,0 +1,82 @@
+{
+    "id": "1781308864438345728",
+    "screen_name": "FoxRed695449",
+    "name": "RedFox（2代目）🇲🇴🇭🇰",
+    "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+    "location": "Hong Kong or Hangzhou",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781308864438345728/1744115637",
+    "followers_count": 3677,
+    "statuses_count": 1499,
+    "favourites_count": 3008,
+    "listed_count": 6,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-04-19 21:08:37 +08:00",
+    "url": "https://twitter.com/FoxRed695449",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzgxMzA4ODY0NDM4MzQ1NzI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/redredfox002",
+                            "expanded_url": "https://t.me/redredfox002",
+                            "url": "https://t.co/nfLXZUDtJe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 644,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 509,
+            "pinned_tweet_ids_str": [
+                "1912777752786125154"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/nfLXZUDtJe",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1858727151672938543",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1713532117000,
+            "updated_at": 1746077178287
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": "94999172",
+    "screen_name": "toukorina",
+    "name": "Yuzuhara Touko",
+    "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender. 退学phd. gamedev. 🥰@TakotamiChan 你太NT了我给你送精神病院关两个月. #happysugarlife 上网上腻了",
+    "location": "/橙子精神病院/Neurodivergent Dept.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/94999172/1644518429",
+    "followers_count": 7428,
+    "statuses_count": 41770,
+    "favourites_count": 168967,
+    "listed_count": 19,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2009-12-06 21:33:23 +08:00",
+    "url": "https://twitter.com/toukorina",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5NDk5OTE3Mg==",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "touko.social",
+                            "expanded_url": "https://touko.social",
+                            "url": "https://t.co/gEkfnFCEhQ",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 820,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 1372,
+            "pinned_tweet_ids_str": [
+                "1527654707765792768"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/gEkfnFCEhQ",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1492410365480628226",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 993,
+                    "name": "Psychiatric Hospital",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "patreon_handle": "toukorina"
+        },
+        "twe_private_fields": {
+            "created_at": 1260106403000,
+            "updated_at": 1746077192669
+        }
+    }
+}

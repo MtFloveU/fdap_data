@@ -1,0 +1,88 @@
+{
+    "id": "1889251771350138880",
+    "screen_name": "ND5_0179",
+    "name": "AAA真中ND5-0179 🇺🇦🇩🇪🇷🇴",
+    "description": "@manakaao68\n支持吉利客車佔領杭州公交一輩子",
+    "location": "星咲高校",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1917719306797998085/jnEB_7IT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889251771350138880/1746070019",
+    "followers_count": 192,
+    "statuses_count": 460,
+    "favourites_count": 430,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2025-02-11 17:55:16 +08:00",
+    "url": "https://twitter.com/ND5_0179",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODg5MjUxNzcxMzUwMTM4ODgw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @manakaao68",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 24,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "manakaao68",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "manakaao68"
+                                        },
+                                        "rest_id": "1773877435748270080"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 181,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 51,
+            "pinned_tweet_ids_str": [
+                "1913126986748510677"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1739267716000,
+            "updated_at": 1746077171590
+        }
+    }
+}

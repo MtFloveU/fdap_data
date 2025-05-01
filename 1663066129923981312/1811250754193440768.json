@@ -1,0 +1,70 @@
+{
+    "id": "1811250754193440768",
+    "screen_name": "kirino_ki",
+    "name": "Kirino",
+    "description": "如果在你心中出现一片乌云的时候。 悲伤的诗能给乌云一个小小的拥抱。 然后它就会变换成一道开心的彩虹！",
+    "location": "／ﾟ(๑°口°๑)ﾟ＼",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1876103345871683584/Y-cKgPel_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811250754193440768/1740038948",
+    "followers_count": 2950,
+    "statuses_count": 2078,
+    "favourites_count": 16957,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-07-11 12:07:02 +08:00",
+    "url": "https://twitter.com/kirino_ki",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODExMjUwNzU0MTkzNDQwNzY4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1727,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 88,
+            "pinned_tweet_ids_str": [
+                "1893725912975200298"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1882372922851160388",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 638,
+                    "name": "Orthopedists",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1720670822000,
+            "updated_at": 1746077174316
+        }
+    }
+}

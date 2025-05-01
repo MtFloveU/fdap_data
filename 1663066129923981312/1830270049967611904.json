@@ -1,0 +1,59 @@
+{
+    "id": "1830270049967611904",
+    "screen_name": "mmbb111222333",
+    "name": "沫汁🍥",
+    "description": "生产日期2009.07｜mtf🏳️‍⚧️｜🚪｜诡秘：@FengJIn2781｜小号@mmbb111222",
+    "location": "遇境",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1913452632460701696/AVEv06q0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830270049967611904/1745037470",
+    "followers_count": 4830,
+    "statuses_count": 504,
+    "favourites_count": 2050,
+    "listed_count": 8,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-09-01 23:43:23 +08:00",
+    "url": "https://twitter.com/mmbb111222333",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODMwMjcwMDQ5OTY3NjExOTA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 670,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 12,
+            "pinned_tweet_ids_str": [
+                "1905877585323778304"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1725205403000,
+            "updated_at": 1746077175502
+        }
+    }
+}

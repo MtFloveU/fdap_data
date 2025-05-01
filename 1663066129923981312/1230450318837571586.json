@@ -1,0 +1,73 @@
+{
+    "id": "1230450318837571586",
+    "screen_name": "Luckyumimi",
+    "name": "幸海ち",
+    "description": "🇯🇵🇨🇳日中友谊长存/日本語N4勉強中/デブ専/須田景凪推し/犬公ミミ美推し",
+    "location": "距离你 6 km",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1913540575418363904/eIQpCT0k_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230450318837571586/1738430335",
+    "followers_count": 389,
+    "statuses_count": 3347,
+    "favourites_count": 17522,
+    "listed_count": 10,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2020-02-20 19:13:18 +08:00",
+    "url": "https://twitter.com/Luckyumimi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjMwNDUwMzE4ODM3NTcxNTg2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "lit.link/luckyumimi",
+                            "expanded_url": "https://lit.link/luckyumimi",
+                            "url": "https://t.co/WvA5QN6U6v",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2155,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 492,
+            "pinned_tweet_ids_str": [
+                "1845895191984779433"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/WvA5QN6U6v",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1582197198000,
+            "updated_at": 1746080534090
+        }
+    }
+}

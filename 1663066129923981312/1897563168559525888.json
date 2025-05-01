@@ -1,0 +1,84 @@
+{
+    "id": "1897563168559525888",
+    "screen_name": "8964Moothreesan",
+    "name": "迷人の暮酱",
+    "description": "冷静一点呢亲",
+    "location": "中南海",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1897564315567153152/uf5nUdBJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897563168559525888/1744383461",
+    "followers_count": 463,
+    "statuses_count": 2033,
+    "favourites_count": 6975,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2025-03-06 16:21:49 +08:00",
+    "url": "https://twitter.com/8964Moothreesan",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODk3NTYzMTY4NTU5NTI1ODg4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "cpcnews.cn",
+                            "expanded_url": "http://www.cpcnews.cn",
+                            "url": "https://t.co/mIAU0nXS78",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 443,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 83,
+            "pinned_tweet_ids_str": [
+                "1905256193377141138"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/mIAU0nXS78",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1916357452796465624",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 960,
+                    "name": "Spiritual Leader",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1741249309000,
+            "updated_at": 1746077170591
+        }
+    }
+}

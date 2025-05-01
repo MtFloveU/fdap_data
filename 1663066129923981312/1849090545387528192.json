@@ -1,0 +1,60 @@
+{
+    "id": "1849090545387528192",
+    "screen_name": "Net2ach_",
+    "name": "Ash",
+    "description": "并不纯净",
+    "location": "Unkown",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1859800873276407811/TYvqReDU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849090545387528192/1731420391",
+    "followers_count": 302,
+    "statuses_count": 3636,
+    "favourites_count": 4583,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-10-23 22:09:09 +08:00",
+    "url": "https://twitter.com/Net2ach_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQ5MDkwNTQ1Mzg3NTI4MTky",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 302,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 248,
+            "pinned_tweet_ids_str": [
+                "1917074104374726769"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1729692549000,
+            "updated_at": 1746077175503
+        }
+    }
+}

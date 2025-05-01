@@ -1,0 +1,85 @@
+{
+    "id": "1233598865028403201",
+    "screen_name": "NekoNoct",
+    "name": "星韵狐狐🦊",
+    "description": "😾 哈气米 | 🐱 热爱猫咪的幽默摄影师 | 📷 记录生活中的小确幸 | 🤔 对技术与游戏充满好奇 | 🎮 喜欢分享趣事与日常 | Feel free to DM me 💌",
+    "location": "幻境，星尘网络，星渊空间站",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1913814816533499904/ia4uYos__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1233598865028403201/1736288484",
+    "followers_count": 288,
+    "statuses_count": 8741,
+    "favourites_count": 47242,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2020-02-29 11:45:25 +08:00",
+    "url": "https://twitter.com/NekoNoct",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjMzNTk4ODY1MDI4NDAzMjAx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "notifications": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ccwiki.snnetwork.dpdns.org",
+                            "expanded_url": "http://ccwiki.snnetwork.dpdns.org",
+                            "url": "https://t.co/HaTLTX3p2c",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 484,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 476,
+            "pinned_tweet_ids_str": [
+                "1844348759460937928"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/HaTLTX3p2c",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1528390109694943233",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1037,
+                    "name": "Game Developer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1582947925000,
+            "updated_at": 1746077186476
+        }
+    }
+}

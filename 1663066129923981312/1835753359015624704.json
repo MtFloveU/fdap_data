@@ -1,0 +1,86 @@
+{
+    "id": "1835753359015624704",
+    "screen_name": "aoi_mti",
+    "name": "Aoi M - T.I.",
+    "description": "rhythm gamer & tutor / hsr, zzz, maimai, arcaea / another me @aoimti02 / ASD & ADHD / BPD / photography / translate / buddhism / INFP / CN JP EN",
+    "location": "WNZ HGH ZJ & SH CHN",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1914226740257587200/UDJESJ-e_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835753359015624704/1745778649",
+    "followers_count": 1146,
+    "statuses_count": 5366,
+    "favourites_count": 28739,
+    "listed_count": 7,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-09-17 02:51:28 +08:00",
+    "url": "https://twitter.com/aoi_mti",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODM1NzUzMzU5MDE1NjI0NzA0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "msmaoi.link",
+                            "expanded_url": "https://msmaoi.link",
+                            "url": "https://t.co/gjzPrisrKk",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1043,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 1318,
+            "pinned_tweet_ids_str": [
+                "1915194181427048710"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/gjzPrisrKk",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1874773863806243195",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 558,
+                    "name": "Translator",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "1LEDpTYngocthr4EaXL5XCZdy6TjnZ3EYb",
+            "ethereum_handle": "0x547B4a4936857d81f4e702D28b9e157cc0d6bB6B"
+        },
+        "twe_private_fields": {
+            "created_at": 1726512688000,
+            "updated_at": 1746077174316
+        }
+    }
+}

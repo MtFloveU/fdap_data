@@ -1,0 +1,73 @@
+{
+    "id": "1748763011140169729",
+    "screen_name": "sxshuishuimao",
+    "name": "神仙水水猫🍕",
+    "description": "07 ｜互fo｜HRT咨询｜提问箱链接↓｜拼图积木代拼",
+    "location": "距离你1.7km",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1913909805120659456/ptCEEJn4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1721061304",
+    "followers_count": 683,
+    "statuses_count": 3471,
+    "favourites_count": 190,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-01-21 01:42:54 +08:00",
+    "url": "https://twitter.com/sxshuishuimao",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzQ4NzYzMDExMTQwMTY5NzI5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                            "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B42",
+                            "url": "https://t.co/WhstBgh4oE",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 685,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 448,
+            "pinned_tweet_ids_str": [
+                "1915053112668422265"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/WhstBgh4oE",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1705772574000,
+            "updated_at": 1746077169154
+        }
+    }
+}

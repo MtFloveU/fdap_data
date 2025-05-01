@@ -1,0 +1,111 @@
+{
+    "id": "1444672266231369749",
+    "screen_name": "Lodo_lala",
+    "name": "Lodo🍥",
+    "description": "08女高🏳️‍⚧️ | 努力PASS中 | 持证含糖🍥 | 171/60kg | MtF | 基本RLE状态 | 家长党 | INFP | 不键政 | 欢迎互fo | 超级败犬 | 提问箱https://t.co/m76k5PkIps",
+    "location": "Fly me to the moon.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1754195653033656320/2oUPcP7k_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444672266231369749/1657768332",
+    "followers_count": 245,
+    "statuses_count": 793,
+    "favourites_count": 621,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-10-03 22:34:59 +08:00",
+    "url": "https://twitter.com/Lodo_lala",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDQ0NjcyMjY2MjMxMzY5NzQ5",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Lodo_two",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 22,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Lodo_two",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Lodo_two"
+                                        },
+                                        "rest_id": "1672408893622992896"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/lodo_lala",
+                            "expanded_url": "https://ngl.link/lodo_lala",
+                            "url": "https://t.co/m76k5PkIps",
+                            "indices": [
+                                94,
+                                117
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 511,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 331,
+            "pinned_tweet_ids_str": [
+                "1811716827376165256"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1771226992631046420",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 600,
+                    "name": "Meditation Center",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1633271699000,
+            "updated_at": 1746077178287
+        }
+    }
+}

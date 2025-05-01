@@ -1,0 +1,106 @@
+{
+    "id": "1220170861761781762",
+    "screen_name": "Hennyano",
+    "name": "🌸🎀",
+    "description": "轻微地雷倾向💣｜地球猫猫教忠实信徒⛪️｜lesbian🌈｜中, EN｜看黄男、头像/名称带旗子的勿fo 😡｜sunshine：@fly_me2_themoon❤️",
+    "location": "🌕",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1912536328329392129/yPH1uuyO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1220170861761781762/1721565032",
+    "followers_count": 604,
+    "statuses_count": 3744,
+    "favourites_count": 27817,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2020-01-23 10:26:44 +08:00",
+    "url": "https://twitter.com/Hennyano",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjIwMTcwODYxNzYxNzgxNzYy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @fly_me2_themoon",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "fly_me2_themoon",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "fly_me2_themoon"
+                                        },
+                                        "rest_id": "902108985368559616"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "instagram.com/rikki.1024",
+                            "expanded_url": "https://www.instagram.com/rikki.1024",
+                            "url": "https://t.co/DVAKcMJZ4I",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 473,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 334,
+            "pinned_tweet_ids_str": [
+                "1842225042870116355"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/DVAKcMJZ4I",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "1DfDrrRj4sjdeQF4RGKZU613srqg3gSHDK",
+            "ethereum_handle": "0x5692c220e44fb43c01532360bfa591766dee05ea"
+        },
+        "twe_private_fields": {
+            "created_at": 1579746404000,
+            "updated_at": 1746077186476
+        }
+    }
+}

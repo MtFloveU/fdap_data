@@ -1,0 +1,83 @@
+{
+    "id": "1356514988223918080",
+    "screen_name": "StarrySkyOvO",
+    "name": "StarrySky",
+    "description": " EN/漢語/日本語 INFP-T Dev. web3+Crypto Photographer📷 05后 友🏳️‍🌈 常驻027 逃生舱@StarrySkyUS bsky@starryskyovo.bsky.social",
+    "location": "🚪0 欢迎扩列",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1579650782344855553/SF85JWDo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356514988223918080/1722527030",
+    "followers_count": 4030,
+    "statuses_count": 19550,
+    "favourites_count": 1,
+    "listed_count": 27,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-02-02 16:09:33 +08:00",
+    "url": "https://twitter.com/StarrySkyOvO",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzU2NTE0OTg4MjIzOTE4MDgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/StarrySkyOvO",
+                            "expanded_url": "https://t.me/StarrySkyOvO",
+                            "url": "https://t.co/qZoRN6mwUP",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3461,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 2067,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/qZoRN6mwUP",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1582779101622177792",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "cash_app_handle": "$StarrySkyCN"
+        },
+        "twe_private_fields": {
+            "created_at": 1612253373000,
+            "updated_at": 1746077188993
+        }
+    }
+}

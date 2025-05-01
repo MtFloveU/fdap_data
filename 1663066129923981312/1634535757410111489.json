@@ -1,0 +1,74 @@
+{
+    "id": "1634535757410111489",
+    "screen_name": "HongYu_yuki",
+    "name": "虹雨",
+    "description": "中性|不键政|工作日在上学＝似了",
+    "location": "🚪0.4",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1908321342749106178/0qjFrMB6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634535757410111489/1738046559",
+    "followers_count": 301,
+    "statuses_count": 2162,
+    "favourites_count": 5619,
+    "listed_count": 5,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-03-11 20:44:37 +08:00",
+    "url": "https://twitter.com/HongYu_yuki",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjM0NTM1NzU3NDEwMTExNDg5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/hongyu_yuki",
+                            "expanded_url": "https://ngl.link/hongyu_yuki",
+                            "url": "https://t.co/kSCU5K8mGL",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 227,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 84,
+            "pinned_tweet_ids_str": [
+                "1908340991272378395"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/kSCU5K8mGL",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1678538677000,
+            "updated_at": 1746077169154
+        }
+    }
+}

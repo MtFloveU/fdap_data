@@ -1,0 +1,83 @@
+{
+    "id": "1432146992914853893",
+    "screen_name": "yccc_0000",
+    "name": "🏳️‍⚧️yc🍥",
+    "description": "Bio:\n{\n    BIRTH:10/08/2007,\n    HRT:08/12/2024,\n    CN:7/10,EN:5.5/9,\n    No Alcohol,\n    喵喵神教,\n    no politics,\n}\n朋友圈：https://t.co/wmfqQ7erNP",
+    "location": "Melbourne, Victoria",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1900187258625679360/QLgaflor_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1432146992914853893/1654666940",
+    "followers_count": 129,
+    "statuses_count": 1714,
+    "favourites_count": 16796,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-08-30 09:04:22 +08:00",
+    "url": "https://twitter.com/yccc_0000",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDMyMTQ2OTkyOTE0ODUzODkz",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/yccc_0000",
+                            "expanded_url": "https://t.me/yccc_0000",
+                            "url": "https://t.co/wmfqQ7erNP",
+                            "indices": [
+                                120,
+                                143
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ycxiao1204.com",
+                            "expanded_url": "https://ycxiao1204.com",
+                            "url": "https://t.co/Px7MS8q3AV",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 304,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 93,
+            "pinned_tweet_ids_str": [
+                "1895891072490054014"
+            ],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/Px7MS8q3AV",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1630285462000,
+            "updated_at": 1746077174316
+        }
+    }
+}

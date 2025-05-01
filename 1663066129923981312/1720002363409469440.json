@@ -1,0 +1,81 @@
+{
+    "id": "1720002363409469440",
+    "screen_name": "ImNotCrosZ1878",
+    "name": "Fllllllldocekr",
+    "description": "3xxxxxaaext",
+    "location": "Сыктывкар",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1765418586913570817/p38T5BY0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720002363409469440/1710591671",
+    "followers_count": 383,
+    "statuses_count": 8472,
+    "favourites_count": 8255,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-11-02 16:58:24 +08:00",
+    "url": "https://twitter.com/ImNotCrosZ1878",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzIwMDAyMzYzNDA5NDY5NDQw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/crosz1878",
+                            "expanded_url": "https://ngl.link/crosz1878",
+                            "url": "https://t.co/B3Z6Q53L0E",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 346,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 963,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/B3Z6Q53L0E",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1862900189805293870",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 584,
+                    "name": "Medical & Health",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1698915504000,
+            "updated_at": 1746077174316
+        }
+    }
+}

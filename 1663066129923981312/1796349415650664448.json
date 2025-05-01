@@ -1,0 +1,87 @@
+{
+    "id": "1796349415650664448",
+    "screen_name": "KawaiiCheshire_",
+    "name": "坂下える🕷️🔪🕷️",
+    "description": "",
+    "location": "神山高中古典文学部",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1916534320212434944/HJQ4Dk2g_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796349415650664448/1744745330",
+    "followers_count": 2128,
+    "statuses_count": 10407,
+    "favourites_count": 21967,
+    "listed_count": 10,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-05-31 09:14:22 +08:00",
+    "url": "https://twitter.com/KawaiiCheshire_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk2MzQ5NDE1NjUwNjY0NDQ4",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @LovelyCheshire_",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "LovelyCheshire_",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "LovelyCheshire_"
+                                        },
+                                        "rest_id": "1848778576507842560"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 331,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 2106,
+            "pinned_tweet_ids_str": [
+                "1888586145770115485"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1717118062000,
+            "updated_at": 1746077179548
+        }
+    }
+}

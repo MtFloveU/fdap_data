@@ -1,0 +1,84 @@
+{
+    "id": "1490976522362302465",
+    "screen_name": "whyuounot",
+    "name": "蛋炒饭",
+    "description": "临场发挥第一名",
+    "location": "888",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1899092064437936128/xkbjHlEU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490976522362302465/1745857002",
+    "followers_count": 6434,
+    "statuses_count": 12749,
+    "favourites_count": 7608,
+    "listed_count": 14,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-02-08 17:11:27 +08:00",
+    "url": "https://twitter.com/whyuounot",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDkwOTc2NTIyMzYyMzAyNDY1",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bocchi.rocks",
+                            "expanded_url": "https://bocchi.rocks/",
+                            "url": "https://t.co/RB0YNUTOVV",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1161,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 1789,
+            "pinned_tweet_ids_str": [
+                "1911220914190270736"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/RB0YNUTOVV",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1824270904907669788",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 942,
+                    "name": "Band",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1644311487000,
+            "updated_at": 1746077182049
+        }
+    }
+}

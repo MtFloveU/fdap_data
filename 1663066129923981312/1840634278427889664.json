@@ -1,0 +1,57 @@
+{
+    "id": "1840634278427889664",
+    "screen_name": "DXL_888",
+    "name": "无产爱毛男",
+    "description": "我翻墙是来看黄的",
+    "location": "日本人学校",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1905995095939403776/lz-pYYoH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840634278427889664/1745330035",
+    "followers_count": 1709,
+    "statuses_count": 802,
+    "favourites_count": 1179,
+    "listed_count": 6,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-09-30 14:06:35 +08:00",
+    "url": "https://twitter.com/DXL_888",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQwNjM0Mjc4NDI3ODg5NjY0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1143,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 12,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1727676395000,
+            "updated_at": 1746077174316
+        }
+    }
+}

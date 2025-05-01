@@ -1,0 +1,71 @@
+{
+    "id": "1682428492078788608",
+    "screen_name": "shiroko486318",
+    "name": "和摇滚的你说拜拜",
+    "description": "08|Wuhan|类人生物|EnOK|MtF|HRT240714|炸柜",
+    "location": "OM70##",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682428492078788608/1729538776",
+    "followers_count": 512,
+    "statuses_count": 1995,
+    "favourites_count": 1207,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-07-22 00:33:21 +08:00",
+    "url": "https://twitter.com/shiroko486318",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjgyNDI4NDkyMDc4Nzg4NjA4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/shiroko486318",
+                            "expanded_url": "https://ngl.link/shiroko486318",
+                            "url": "https://t.co/9NiuQsKFtL",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 650,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 256,
+            "pinned_tweet_ids_str": [
+                "1914572306690789807"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/9NiuQsKFtL",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1689957201000,
+            "updated_at": 1746077174316
+        }
+    }
+}

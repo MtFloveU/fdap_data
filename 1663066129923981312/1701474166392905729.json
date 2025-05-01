@@ -1,0 +1,56 @@
+{
+    "id": "1701474166392905729",
+    "screen_name": "NanaNana_os",
+    "name": "セブンナナ",
+    "description": "・・・・・・・",
+    "location": "Nowhere",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1913289307445714944/PgNR7w7H_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701474166392905729/1744998704",
+    "followers_count": 990,
+    "statuses_count": 2847,
+    "favourites_count": 25606,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-09-12 13:54:01 +08:00",
+    "url": "https://twitter.com/NanaNana_os",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzAxNDc0MTY2MzkyOTA1NzI5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 639,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 374,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1694498041000,
+            "updated_at": 1746077188993
+        }
+    }
+}

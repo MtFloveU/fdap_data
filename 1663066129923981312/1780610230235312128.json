@@ -1,0 +1,59 @@
+{
+    "id": "1780610230235312128",
+    "screen_name": "storMTXsnow8964",
+    "name": "风雪",
+    "description": "biopolar.精神并不稳定。病み垢.",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1909628865607352320/XhP9WSGd_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780610230235312128/1744801090",
+    "followers_count": 503,
+    "statuses_count": 4232,
+    "favourites_count": 13515,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-04-17 22:52:48 +08:00",
+    "url": "https://twitter.com/storMTXsnow8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzgwNjEwMjMwMjM1MzEyMTI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1477,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 571,
+            "pinned_tweet_ids_str": [
+                "1911070807016788072"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1713365568000,
+            "updated_at": 1746077186476
+        }
+    }
+}

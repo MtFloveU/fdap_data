@@ -1,0 +1,79 @@
+{
+    "id": "1352594576054382599",
+    "screen_name": "LilyTheFox8",
+    "name": "Lilli die Füchsin 莉莉",
+    "description": "Welcome fellow Friend!\nIm Lilli a Fox Girl from 🇩🇪 Germany :3\ni creat varied content on Youtube check out my channel!\nhttps://t.co/8VaniQUMT2",
+    "location": "Germany",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1675617110993641473/nuwMkDel_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352594576054382599/1724526236",
+    "followers_count": 237,
+    "statuses_count": 6609,
+    "favourites_count": 12160,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-01-22 20:32:18 +08:00",
+    "url": "https://twitter.com/LilyTheFox8",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzUyNTk0NTc2MDU0MzgyNTk5",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/@lillifuchs",
+                            "expanded_url": "https://www.youtube.com/@lillifuchs",
+                            "url": "https://t.co/8VaniQUMT2",
+                            "indices": [
+                                118,
+                                141
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/LilliOffiziell",
+                            "expanded_url": "https://twitter.com/LilliOffiziell",
+                            "url": "https://t.co/liiMYpg98x",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 71,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 1784,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/liiMYpg98x",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1611318738000,
+            "updated_at": 1746077186476
+        }
+    }
+}

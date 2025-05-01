@@ -1,0 +1,72 @@
+{
+    "id": "1789350691951312896",
+    "screen_name": "DrDaniel1097",
+    "name": "Dr Daniel",
+    "description": "Time is fly,I want time slow down that I can enjoy my life.",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906352989763506176/KFLGcMG5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789350691951312896/1715450122",
+    "followers_count": 1487,
+    "statuses_count": 1413,
+    "favourites_count": 10850,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-05-12 01:43:57 +08:00",
+    "url": "https://twitter.com/DrDaniel1097",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzg5MzUwNjkxOTUxMzEyODk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/+CcdwiizIQCVhO…",
+                            "expanded_url": "https://t.me/+CcdwiizIQCVhOTVl",
+                            "url": "https://t.co/I4A3VVfuYt",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 740,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 175,
+            "pinned_tweet_ids_str": [
+                "1910367167876677772"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/I4A3VVfuYt",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1715449437000,
+            "updated_at": 1746080521888
+        }
+    }
+}

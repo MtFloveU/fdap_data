@@ -1,0 +1,62 @@
+{
+    "id": "1520126866132434944",
+    "screen_name": "baimao_suki",
+    "name": "白毛suki",
+    "description": "电脑DIY爱好者/ ISTP/CS2玩家/ 头像是⁹ 背景是桜田シロ ASD阿斯伯 容易踩地雷（雾）",
+    "location": "广州",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1671767047737602051/c8nMOrhH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520126866132434944/1707748230",
+    "followers_count": 481,
+    "statuses_count": 2645,
+    "favourites_count": 26862,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-04-30 03:44:32 +08:00",
+    "url": "https://twitter.com/baimao_suki",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTIwMTI2ODY2MTMyNDM0OTQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1497,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 111,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1626876891771858951",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1651261472000,
+            "updated_at": 1746080519787
+        }
+    }
+}

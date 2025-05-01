@@ -1,0 +1,67 @@
+{
+    "id": "1861775594331193344",
+    "screen_name": "mysexhelicopter",
+    "name": "Eudora Hodgson",
+    "description": "3rd-year undergraduate student | like algorithm and cryptology | admire @d_pand79010 | looking for a postgraduate offer | https://t.co/zINvHuuVCV",
+    "location": "Tsingtao,China",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1861784782470066177/7HAKDFQU_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 449,
+    "statuses_count": 217,
+    "favourites_count": 766,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-11-27 22:14:38 +08:00",
+    "url": "https://twitter.com/mysexhelicopter",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODYxNzc1NTk0MzMxMTkzMzQ0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/qwq93061",
+                            "expanded_url": "https://ngl.link/qwq93061",
+                            "url": "https://t.co/zINvHuuVCV",
+                            "indices": [
+                                122,
+                                145
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3014,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 8,
+            "pinned_tweet_ids_str": [
+                "1877959080788242597"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1732716878000,
+            "updated_at": 1746080529047
+        }
+    }
+}

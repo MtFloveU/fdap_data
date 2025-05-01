@@ -1,0 +1,85 @@
+{
+    "id": "1521781722551103490",
+    "screen_name": "_XiaoYu_OvO_",
+    "name": "筱雨awa",
+    "description": "| 小破县城高二在读的笨蛋 | 奇怪的数字之071230和241002 | 可能会发带有各种情绪的推文 | 贴贴姐姐@porphyrin49 | 蹭蹭妹妹@Panxi___ | 呆受的k酱@raidraptormirai | hmm不知道说什么好了 祝看到的你开心快乐每一天awa（ '▿ ' ）|",
+    "location": "距你2147483647米",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1842600495145168896/d9a8nlO-_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 177,
+    "statuses_count": 1466,
+    "favourites_count": 8394,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-05-04 17:20:23 +08:00",
+    "url": "https://twitter.com/_XiaoYu_OvO_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTIxNzgxNzIyNTUxMTAzNDkw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @_yh_awa_",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 22,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "_yh_awa_",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "_yh_awa_"
+                                        },
+                                        "rest_id": "1796542163712675840"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 205,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 268,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1651656023000,
+            "updated_at": 1746080532390
+        }
+    }
+}

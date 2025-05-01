@@ -1,0 +1,73 @@
+{
+    "id": "1539409747828346880",
+    "screen_name": "XCZora",
+    "name": "橙橙橙z1",
+    "description": "05小孩",
+    "location": "私立初心學園",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1905931931143016448/PqZy3Nu-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1539409747828346880/1745256454",
+    "followers_count": 378,
+    "statuses_count": 2007,
+    "favourites_count": 3207,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-06-22 08:47:50 +08:00",
+    "url": "https://twitter.com/XCZora",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTM5NDA5NzQ3ODI4MzQ2ODgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "identityvgame.com",
+                            "expanded_url": "https://www.identityvgame.com/",
+                            "url": "https://t.co/pm3RLAiolA",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 377,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 244,
+            "pinned_tweet_ids_str": [
+                "1855118325887729830"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/pm3RLAiolA",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1655858870000,
+            "updated_at": 1746077184814
+        }
+    }
+}

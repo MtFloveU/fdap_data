@@ -1,0 +1,114 @@
+{
+    "id": "1801777341368041472",
+    "screen_name": "fen_mo61725",
+    "name": "一具人",
+    "description": "AAA🚄全能人才接受4i忍耐度高会做饭富婆加我原猫猫国国王达芬·梵莫高奈·奇",
+    "location": "猫猫星球猫猫国猫猫街猫猫宫殿",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906365406144540672/75u96NdR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801777341368041472/1721893964",
+    "followers_count": 611,
+    "statuses_count": 8062,
+    "favourites_count": 29274,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-06-15 08:43:00 +08:00",
+    "url": "https://twitter.com/fen_mo61725",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODAxNzc3MzQxMzY4MDQxNDcy",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @xio247704042307",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "xio247704042307",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "xio247704042307"
+                                        },
+                                        "rest_id": "1689615327523643392"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "en.wikipedia.org/wiki/Julius_Ca…",
+                            "expanded_url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+                            "url": "https://t.co/AhR3vHKilY",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1261,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 509,
+            "pinned_tweet_ids_str": [
+                "1888930858616205449"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/AhR3vHKilY",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1801786959708250297",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 956,
+                    "name": "Writer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1718412180000,
+            "updated_at": 1746077174316
+        }
+    }
+}

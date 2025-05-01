@@ -1,0 +1,115 @@
+{
+    "id": "1243945571796295681",
+    "screen_name": "ryq59",
+    "name": "你是想气死铨酱么🍥",
+    "description": "半个天津卫嘴子（在努力练说话了）｜家暴党MtX🏳️‍⚧️｜Retired Pro PUBG MOBILE Player｜查成分回fo（可以私信）｜Sis @iranon_lcf @yizhikapaiqaq｜请点击查看更多 以了解我",
+    "location": "Tianjin",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243945571796295681/1736069194",
+    "followers_count": 17223,
+    "statuses_count": 22891,
+    "favourites_count": 179398,
+    "listed_count": 70,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2020-03-29 00:58:37 +08:00",
+    "url": "https://twitter.com/ryq59",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjQzOTQ1NTcxNzk2Mjk1Njgx",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @4cyun",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 19,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "4cyun",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "4cyun"
+                                        },
+                                        "rest_id": "1347078637"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "notifications": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linktr.ee/ryq59",
+                            "expanded_url": "https://linktr.ee/ryq59",
+                            "url": "https://t.co/6W3mmCUeaH",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 4888,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 5143,
+            "pinned_tweet_ids_str": [
+                "1765934211918397447"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/6W3mmCUeaH",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1724057853562953939",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 959,
+                    "name": "Gamer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1585414717000,
+            "updated_at": 1746077196170
+        }
+    }
+}

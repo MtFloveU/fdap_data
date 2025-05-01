@@ -1,0 +1,114 @@
+{
+    "id": "1649365408779214848",
+    "screen_name": "bolckAshley",
+    "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+    "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+    "location": "Fujian,Republic of China",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1737476099",
+    "followers_count": 2408,
+    "statuses_count": 13511,
+    "favourites_count": 26109,
+    "listed_count": 10,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-04-21 18:52:19 +08:00",
+    "url": "https://twitter.com/bolckAshley",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjQ5MzY1NDA4Nzc5MjE0ODQ4",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @BolckAshleylife",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "BolckAshleylife",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "BolckAshleylife"
+                                        },
+                                        "rest_id": "1856392303310422016"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "fes.de",
+                            "expanded_url": "https://www.fes.de",
+                            "url": "https://t.co/7x8MsmOgUP",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1786,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 885,
+            "pinned_tweet_ids_str": [
+                "1861746855861785070"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/7x8MsmOgUP",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1692904276170076235",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 957,
+                    "name": "Author",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1682074339000,
+            "updated_at": 1746077190503
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "id": "1755765450707709952",
+    "screen_name": "huajuanshiwo",
+    "name": "树海",
+    "description": "我喜欢@HY_ShiZhong",
+    "location": "蓝色空间号",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1876289236909092864/caccjc2M_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755765450707709952/1730289185",
+    "followers_count": 1425,
+    "statuses_count": 7581,
+    "favourites_count": 35722,
+    "listed_count": 6,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-02-09 09:28:44 +08:00",
+    "url": "https://twitter.com/huajuanshiwo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU1NzY1NDUwNzA3NzA5OTUy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/huajuanshiwo2",
+                            "expanded_url": "https://ngl.link/huajuanshiwo2",
+                            "url": "https://t.co/kZiBWvLQIv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1733,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 1197,
+            "pinned_tweet_ids_str": [
+                "1876566723912229149"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/kZiBWvLQIv",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1828834773642752051",
+            "professional_type": "Business",
+            "category": []
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1707442124000,
+            "updated_at": 1746077182049
+        }
+    }
+}

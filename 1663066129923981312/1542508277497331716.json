@@ -1,0 +1,69 @@
+{
+    "id": "1542508277497331716",
+    "screen_name": "_Marurudayo",
+    "name": "○○るだよ",
+    "description": "美少女ゲームとイラストとアイドルが大好き┊︎アイコンヘッダー等は趣味で変えます┊︎言語：中文、English、日本語（勉強中）┊︎DM❌",
+    "location": "秋葉原",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1904921895256154113/sJ8Ow4AY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542508277497331716/1745897428",
+    "followers_count": 2107,
+    "statuses_count": 22037,
+    "favourites_count": 56783,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2022-06-30 22:00:15 +08:00",
+    "url": "https://twitter.com/_Marurudayo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTQyNTA4Mjc3NDk3MzMxNzE2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "lit.link/marurudayo",
+                            "expanded_url": "http://lit.link/marurudayo",
+                            "url": "https://t.co/d40Cq6VuXQ",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 6892,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 524,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/d40Cq6VuXQ",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1656597615000,
+            "updated_at": 1746080526291
+        }
+    }
+}

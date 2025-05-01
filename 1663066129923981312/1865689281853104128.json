@@ -1,0 +1,55 @@
+{
+    "id": "1865689281853104128",
+    "screen_name": "jiaowoyujiuhao",
+    "name": "叫我yu就行",
+    "description": "有个小可爱正在看我的简介(๑ơ ₃ ơ)♥",
+    "location": "你心里",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1888958319840444417/kY5KyhuN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865689281853104128/1739200555",
+    "followers_count": 234,
+    "statuses_count": 2,
+    "favourites_count": 379,
+    "listed_count": 2,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2024-12-08 17:26:11 +08:00",
+    "url": "https://twitter.com/jiaowoyujiuhao",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODY1Njg5MjgxODUzMTA0MTI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2169,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1733649971000,
+            "updated_at": 1746080524007
+        }
+    }
+}

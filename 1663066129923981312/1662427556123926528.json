@@ -1,0 +1,55 @@
+{
+    "id": "1662427556123926528",
+    "screen_name": "chenjingyao250",
+    "name": "狗头附魔师",
+    "description": "我精神病患者之一只人类mtf",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1876526759677771776/0l7ikLOj_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 203,
+    "statuses_count": 88,
+    "favourites_count": 213,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-05-27 19:56:39 +08:00",
+    "url": "https://twitter.com/chenjingyao250",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjYyNDI3NTU2MTIzOTI2NTI4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 835,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 5,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1685188599000,
+            "updated_at": 1746080524007
+        }
+    }
+}

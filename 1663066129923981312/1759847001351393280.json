@@ -1,0 +1,71 @@
+{
+    "id": "1759847001351393280",
+    "screen_name": "kewenly12",
+    "name": "inkwenly🍤🍛🍇🍼🌮🍥",
+    "description": "大家的互联网朋友，可以叫我墨水喵或者墨墨/mtx/友一切/超级内向社恐人类🥺/刚满19岁😋/涉猎广泛捏/不键政对政治什么的不感兴趣嗯嗯/权当pyq发/做的不好的话对不起呜呜/blue sky↓↓↓每日更新吃货墨墨的日常😋，欢迎灌注喵～↓↓↓",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1836618631251382272/1gtyaij0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759847001351393280/1726739483",
+    "followers_count": 1158,
+    "statuses_count": 4261,
+    "favourites_count": 38425,
+    "listed_count": 5,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-02-20 15:46:52 +08:00",
+    "url": "https://twitter.com/kewenly12",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzU5ODQ3MDAxMzUxMzkzMjgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bsky.app/profile/inkmew…",
+                            "expanded_url": "https://bsky.app/profile/inkmeww.bsky.social",
+                            "url": "https://t.co/1iUGzWRqIP",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1054,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 112,
+            "pinned_tweet_ids_str": [
+                "1906204245621387488"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/1iUGzWRqIP",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1708415212000,
+            "updated_at": 1746077176790
+        }
+    }
+}

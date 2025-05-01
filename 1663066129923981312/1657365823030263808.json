@@ -1,0 +1,79 @@
+{
+    "id": "1657365823030263808",
+    "screen_name": "llkawi_",
+    "name": "盒沐子 / Hexzii⭐",
+    "description": "17 y/o |🎵 DTM 💻 IT, Coding  💽 DJ 🎨 Pixelart | 🌈 A little bit of everything | Lang: chs / eng /  jp (translate) | 📭Links & Project: https://t.co/5Pn1GO92Pw",
+    "location": "The Void",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1908205838470373376/d10k83uH_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657365823030263808/1730125577",
+    "followers_count": 331,
+    "statuses_count": 1851,
+    "favourites_count": 14212,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "created_at": "2023-05-13 20:43:10 +08:00",
+    "url": "https://twitter.com/llkawi_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjU3MzY1ODIzMDMwMjYzODA4",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "nichijou.moe",
+                            "expanded_url": "http://nichijou.moe",
+                            "url": "https://t.co/5Pn1GO92Pw",
+                            "indices": [
+                                131,
+                                154
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "nichijou.moe",
+                            "expanded_url": "http://nichijou.moe",
+                            "url": "https://t.co/5Pn1GO92Pw",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 2002,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 163,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/5Pn1GO92Pw",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1683981790000,
+            "updated_at": 1746080529047
+        }
+    }
+}

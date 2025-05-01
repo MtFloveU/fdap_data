@@ -1,0 +1,73 @@
+{
+    "id": "756779273155858432",
+    "screen_name": "ScarletKc_",
+    "name": "KC",
+    "description": "she/her | friendly | web3 | crypto",
+    "location": "🏳️‍⚧️",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1913049579739828224/GClUlD41_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/756779273155858432/1546229475",
+    "followers_count": 2285,
+    "statuses_count": 4645,
+    "favourites_count": 0,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2016-07-23 17:13:33 +08:00",
+    "url": "https://twitter.com/ScarletKc_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo3NTY3NzkyNzMxNTU4NTg0MzI=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "scarletkc.com",
+                            "expanded_url": "https://scarletkc.com/",
+                            "url": "https://t.co/YTKXMPiBzd",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 0,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 115,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "fake_account",
+            "translator_type": "none",
+            "url": "https://t.co/YTKXMPiBzd",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "bc1qj4jslttx6375s6p7ez42h7j6zprcgvg5aeaknv",
+            "ethereum_handle": "0x42FD444391cC35Fa45df5970F76Ec51Da852f424"
+        },
+        "twe_private_fields": {
+            "created_at": 1469265213000,
+            "updated_at": 1746077196170
+        }
+    }
+}

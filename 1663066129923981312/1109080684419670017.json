@@ -1,0 +1,68 @@
+{
+    "id": "1109080684419670017",
+    "screen_name": "KillerBeeSweety",
+    "name": "ミズキ",
+    "description": "She/Her\nCN/EN/JP\nWelcome friendly DM\n本体电子游戏宅女。\nFFXIV:Meteor\n个人日常社交账号，什么都发。\n喜好请自行避雷。\n如果让你感到不适我很荣幸。",
+    "location": "Living Memory",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1912318587148111872/KBgUFGVZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109080684419670017/1692265233",
+    "followers_count": 16978,
+    "statuses_count": 19961,
+    "favourites_count": 28141,
+    "listed_count": 42,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2019-03-22 21:13:35 +08:00",
+    "url": "https://twitter.com/KillerBeeSweety",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMTA5MDgwNjg0NDE5NjcwMDE3",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1782,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 2352,
+            "pinned_tweet_ids_str": [
+                "1913753768132513994"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1590416121034813441",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1553260415000,
+            "updated_at": 1746077187245
+        }
+    }
+}

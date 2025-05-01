@@ -1,0 +1,103 @@
+{
+    "id": "1526938197951131648",
+    "screen_name": "xinxia_mtf",
+    "name": "喵喵大王小夏😺",
+    "description": "07年/身高165/INFP/持证含糖mtf/第二次HRT：23.9.10/妈妈意外变成家长党/音游人/推文当日记发（一些和对象的日常）/魔怔小药娘/想跟xyn互fo贴贴（没回fo可能是没看见)/最好的姐姐兼恋人: @Starrynightwglf /🚪30",
+    "location": "小风怀里",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1898947809514242048/m6eXmu55_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526938197951131648/1653923886",
+    "followers_count": 6768,
+    "statuses_count": 2999,
+    "favourites_count": 7879,
+    "listed_count": 16,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-05-18 22:50:21 +08:00",
+    "url": "https://twitter.com/xinxia_mtf",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTI2OTM4MTk3OTUxMTMxNjQ4",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Starrynightwglf",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 29,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Starrynightwglf",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Starrynightwglf"
+                                        },
+                                        "rest_id": "1563508655256850433"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/xinxia90268",
+                            "expanded_url": "https://ngl.link/xinxia90268",
+                            "url": "https://t.co/vMsqLwqjNV",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1755,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 286,
+            "pinned_tweet_ids_str": [
+                "1871838248030671333"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/vMsqLwqjNV",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "twe_private_fields": {
+            "created_at": 1652885421000,
+            "updated_at": 1746077173226
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1840055457756610560",
+    "screen_name": "hood8964",
+    "name": "坂下壹佰叁拾捌的红移",
+    "description": "",
+    "location": "London, England",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1915485414837936128/avTcAW0h_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840055457756610560/1745408221",
+    "followers_count": 808,
+    "statuses_count": 9365,
+    "favourites_count": 38010,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-09-28 23:46:52 +08:00",
+    "url": "https://twitter.com/hood8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQwMDU1NDU3NzU2NjEwNTYw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1302,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 573,
+            "pinned_tweet_ids_str": [
+                "1917169464879046853"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1727538412000,
+            "updated_at": 1746077176790
+        }
+    }
+}

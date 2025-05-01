@@ -1,0 +1,73 @@
+{
+    "id": "1752648024453738496",
+    "screen_name": "AItianlian",
+    "name": "爱天怜 🔪",
+    "description": "米娜桑，我是爱酱，路过一般神明，兼职睡眠的神，那些以前的推文不是我的喵，注意甄别，爱酱在这里希望米娜桑们永远快乐，幸福，远离不幸，神明会一直爱着你们的",
+    "location": "手枪星 ",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1912615836218716161/spzzi6SB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752648024453738496/1744652900",
+    "followers_count": 4520,
+    "statuses_count": 3282,
+    "favourites_count": 297,
+    "listed_count": 14,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-01-31 19:01:10 +08:00",
+    "url": "https://twitter.com/AItianlian",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzUyNjQ4MDI0NDUzNzM4NDk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "annszero1.gmail.com",
+                            "expanded_url": "http://annszero1.gmail.com",
+                            "url": "https://t.co/9k0a9Pz5JT",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 461,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 771,
+            "pinned_tweet_ids_str": [
+                "1905591089706533211"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/9k0a9Pz5JT",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1706698870000,
+            "updated_at": 1746077190503
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "id": "1878816996013608960",
+    "screen_name": "Aurora102938475",
+    "name": "云迹",
+    "description": "",
+    "location": "北京",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1895492204841365504/v-3MayWl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878816996013608960/1739464636",
+    "followers_count": 96,
+    "statuses_count": 19,
+    "favourites_count": 96,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2025-01-13 22:51:06 +08:00",
+    "url": "https://twitter.com/Aurora102938475",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODc4ODE2OTk2MDEzNjA4OTYw",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @Aurora71310",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 25,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "Aurora71310",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "Aurora71310"
+                                        },
+                                        "rest_id": "1759721938191110144"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 123,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 2,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1913988986680578160",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1736779866000,
+            "updated_at": 1746077171590
+        }
+    }
+}

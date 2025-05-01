@@ -1,0 +1,68 @@
+{
+    "id": "1361669446645948421",
+    "screen_name": "YueYinLanQi",
+    "name": "岚柒🏳️‍⚧️（😶）",
+    "description": "良良惶惶多少次，纤素云丝一飞尘/深柜mtf/ INFJ废物/没事写点小破诗/精神状态暂时很好/白日做梦ing/steam好友码1181115828",
+    "location": "奥林匹斯-众人失足处",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1874125474407776256/4NpDjtAm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361669446645948421/1705511182",
+    "followers_count": 727,
+    "statuses_count": 1696,
+    "favourites_count": 8000,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-02-16 21:31:21 +08:00",
+    "url": "https://twitter.com/YueYinLanQi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzYxNjY5NDQ2NjQ1OTQ4NDIx",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": false,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1124,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 241,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1744179972535992544",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1023,
+                    "name": "Illustrator",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1613482281000,
+            "updated_at": 1746077196170
+        }
+    }
+}

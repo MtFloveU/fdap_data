@@ -1,0 +1,62 @@
+{
+    "id": "1444716723978981380",
+    "screen_name": "EleanorAnatidae",
+    "name": "雪雁",
+    "description": "恋人@AliciaCervidae/姐姐@Shirlene_girl",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444716723978981380/1672378905",
+    "followers_count": 2113,
+    "statuses_count": 4494,
+    "favourites_count": 17051,
+    "listed_count": 7,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-10-04 01:31:37 +08:00",
+    "url": "https://twitter.com/EleanorAnatidae",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDQ0NzE2NzIzOTc4OTgxMzgw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1394,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 91,
+            "pinned_tweet_ids_str": [
+                "1906286240649134342"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1682657039875719169",
+            "professional_type": "Business",
+            "category": []
+        },
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1633282297000,
+            "updated_at": 1746077190503
+        }
+    }
+}

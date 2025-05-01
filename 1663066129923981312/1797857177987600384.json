@@ -1,0 +1,55 @@
+{
+    "id": "1797857177987600384",
+    "screen_name": "Cerulean_Milo",
+    "name": "米洛",
+    "description": "recognize and respect the differences of all people 欢迎私信聊天～看到了都会回owo，想跟大家交朋友呐",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1916011354751991808/n7CreJRS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797857177987600384/1745647694",
+    "followers_count": 3132,
+    "statuses_count": 5480,
+    "favourites_count": 20453,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-06-04 13:06:07 +08:00",
+    "url": "https://twitter.com/Cerulean_Milo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk3ODU3MTc3OTg3NjAwMzg0",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1348,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 240,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1717477567000,
+            "updated_at": 1746077176790
+        }
+    }
+}

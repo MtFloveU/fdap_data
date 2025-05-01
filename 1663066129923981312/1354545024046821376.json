@@ -1,0 +1,101 @@
+{
+    "id": "1354545024046821376",
+    "screen_name": "KURANAGA0",
+    "name": "甜甜怜怜子🍥",
+    "description": "🚪52 没长b 是跨÷ 还仇富 腿粗猪头肉肥猪死人妖 腿一天不细自恨一辈子",
+    "location": "致以辉煌的人们",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906386649245962240/c71LsckR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1354545024046821376/1737494736",
+    "followers_count": 1908,
+    "statuses_count": 7302,
+    "favourites_count": 7249,
+    "listed_count": 3,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2021-01-28 05:41:25 +08:00",
+    "url": "https://twitter.com/KURANAGA0",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMzU0NTQ1MDI0MDQ2ODIxMzc2",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @LianLianZiNya",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 27,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "LianLianZiNya",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "legacy": {
+                                            "screen_name": "LianLianZiNya"
+                                        },
+                                        "rest_id": "1694626666684039169"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/lianlianzinya",
+                            "expanded_url": "http://t.me/lianlianzinya",
+                            "url": "https://t.co/IHZrnYTTII",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 765,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 963,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/IHZrnYTTII",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1611783685000,
+            "updated_at": 1746077188993
+        }
+    }
+}

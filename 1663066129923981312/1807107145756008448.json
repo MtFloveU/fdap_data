@@ -1,0 +1,99 @@
+{
+    "id": "1807107145756008448",
+    "screen_name": "kagurazakaSiri_",
+    "name": "翎",
+    "description": "飞入宇宙的宇航员回望地球发现地球是个巨他妈大的栗子头，四目的对视穿过无垠的太空，穿过人类千万年的历程，穿过第一个氨基酸融合的瞬间，最终湮灭在无尽的时光里",
+    "location": "🏳️‍⚧️",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1916471335238422528/As6XMr1p_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807107145756008448/1746035208",
+    "followers_count": 2852,
+    "statuses_count": 7489,
+    "favourites_count": 19244,
+    "listed_count": 6,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-06-30 01:41:40 +08:00",
+    "url": "https://twitter.com/kagurazakaSiri_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODA3MTA3MTQ1NzU2MDA4NDQ4",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @TheSolipsism",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 26,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "TheSolipsism",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "UserUnavailable",
+                                        "reason": "Suspended",
+                                        "message": "User is suspended"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/Allenium114",
+                            "expanded_url": "http://t.me/Allenium114",
+                            "url": "https://t.co/zULBkaIhWS",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 743,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 973,
+            "pinned_tweet_ids_str": [
+                "1900823119130227094"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/zULBkaIhWS",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1719682900000,
+            "updated_at": 1746077185700
+        }
+    }
+}

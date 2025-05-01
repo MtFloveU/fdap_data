@@ -1,0 +1,58 @@
+{
+    "id": "1501393967245496320",
+    "screen_name": "KaZeNaGi_Q",
+    "name": "風凪不是疯子",
+    "description": "是有主的猫猫啦！最爱的老婆&主人 @BH2USU，生活中的一些东西会发在 @KaZeLife2411上面🥺",
+    "location": "在你身后",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1750344663960330240/TSHacDl2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1501393967245496320/1708040854",
+    "followers_count": 1098,
+    "statuses_count": 7617,
+    "favourites_count": 34350,
+    "listed_count": 1,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-03-09 11:06:38 +08:00",
+    "url": "https://twitter.com/KaZeNaGi_Q",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTAxMzkzOTY3MjQ1NDk2MzIw",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1916,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 410,
+            "pinned_tweet_ids_str": [
+                "1830367284193628538"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1646795198000,
+            "updated_at": 1746077192669
+        }
+    }
+}

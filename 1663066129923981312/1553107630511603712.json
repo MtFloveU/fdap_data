@@ -1,0 +1,56 @@
+{
+    "id": "1553107630511603712",
+    "screen_name": "JiZhenYouZi",
+    "name": "纪真由子",
+    "description": "九嶷山上白云飞，帝子乘风下翠微。",
+    "location": "彩云间",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1905429001339850752/NNL9e5cv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553107630511603712/1743124654",
+    "followers_count": 8211,
+    "statuses_count": 14487,
+    "favourites_count": 19380,
+    "listed_count": 34,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2022-07-30 03:58:53 +08:00",
+    "url": "https://twitter.com/JiZhenYouZi",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTUzMTA3NjMwNTExNjAzNzEy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "protected": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 3266,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 1310,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1659124733000,
+            "updated_at": 1746077174316
+        }
+    }
+}

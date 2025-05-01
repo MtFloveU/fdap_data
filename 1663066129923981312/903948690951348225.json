@@ -1,0 +1,68 @@
+{
+    "id": "903948690951348225",
+    "screen_name": "MAGNIFIERhuahua",
+    "name": "MAGNIFIER",
+    "description": "有性繁殖笑话合集",
+    "location": "Melbourne, Victoria",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1759563538140667904/fNEbEd_l_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/903948690951348225/1713923088",
+    "followers_count": 2573,
+    "statuses_count": 13847,
+    "favourites_count": 8682,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "created_at": "2017-09-02 19:52:17 +08:00",
+    "url": "https://twitter.com/MAGNIFIERhuahua",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjo5MDM5NDg2OTA5NTEzNDgyMjU=",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 671,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 985,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1520030863446413314",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 37,
+                    "name": "Event Venue",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "twe_private_fields": {
+            "created_at": 1504353137000,
+            "updated_at": 1746077169154
+        }
+    }
+}

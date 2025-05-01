@@ -1,0 +1,57 @@
+{
+    "id": "1854224109011664896",
+    "screen_name": "A5Tr41",
+    "name": "☁️",
+    "description": "非二元｜虎鲸｜小零食",
+    "location": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1915207166644113409/j7rfhT4f_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854224109011664896/1739021168",
+    "followers_count": 322,
+    "statuses_count": 988,
+    "favourites_count": 344,
+    "listed_count": 0,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2024-11-07 02:07:41 +08:00",
+    "url": "https://twitter.com/A5Tr41",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODU0MjI0MTA5MDExNjY0ODk2",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 98,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 15,
+            "pinned_tweet_ids_str": [
+                "1900982077845369340"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1730916461000,
+            "updated_at": 1746077179548
+        }
+    }
+}

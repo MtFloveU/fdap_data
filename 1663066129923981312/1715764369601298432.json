@@ -1,0 +1,55 @@
+{
+    "id": "1715764369601298432",
+    "screen_name": "tabo127238",
+    "name": "taboo？",
+    "description": "一个音美双修的哲学爱好者",
+    "location": "实在界",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1874479646957539328/VUm-6U39_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715764369601298432/1735745762",
+    "followers_count": 1436,
+    "statuses_count": 2503,
+    "favourites_count": 6416,
+    "listed_count": 4,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "created_at": "2023-10-22 00:18:41 +08:00",
+    "url": "https://twitter.com/tabo127238",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzE1NzY0MzY5NjAxMjk4NDMy",
+        "affiliates_highlighted_label": {},
+        "has_graduated_access": true,
+        "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1005,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 481,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "tipjar_settings": {},
+        "twe_private_fields": {
+            "created_at": 1697905121000,
+            "updated_at": 1746077190503
+        }
+    }
+}
