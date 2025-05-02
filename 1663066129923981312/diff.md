@@ -1,12 +1,5 @@
-🕒Time: `2025-05-02 17:23:18 `
-📊Total followers: `1325`, folowing: `1034`
+🕒Time: `2025-05-02 20:43:13 `
+📊Total followers: `1325`, following: `1033`
 *Mutual Unfollow or Removal:*
-`瞑尘🏳️‍⚧️` @`minchen3943`
-`梁晓南` @`XiaoNan426`
-`凡凡凡凡星星` @`FFFFFanXingxing`
+`Erbswurst` @`U7dc8Sf9`
 
-*Returning Follows:*
-`茳菁` @`genya1976`
-`水のトロツキストアクア（follow alt or find me on fediverse）` @`KawaiiTrotsky`
-`茶语香` @`chayuxiang`
-`KC` @`ScarletKc_`

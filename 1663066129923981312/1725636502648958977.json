@@ -2,18 +2,23 @@
     "id": "1725636502648958977",
     "screen_name": "AGXiaoLi",
     "name": "晓漓",
-    "description": "先这样吧，不知道哪天就死了",
+    "description": "每天都是发情期🤤",
     "location": "距离您520亿光年",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872546884050653184/vRlUxIkP_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725636502648958977/1731726015",
-    "followers_count": 405,
-    "statuses_count": 636,
-    "favourites_count": 1499,
+    "followers_count": 406,
+    "friends_count": 454,
+    "statuses_count": 639,
+    "favourites_count": 1500,
     "listed_count": 2,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2023-11-18 06:06:38 +08:00",
     "url": "https://twitter.com/AGXiaoLi",
     "metadata": {
@@ -32,10 +37,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 453,
+            "friends_count": 454,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 71,
+            "media_count": 72,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -51,7 +56,7 @@
         },
         "twe_private_fields": {
             "created_at": 1700258798000,
-            "updated_at": 1746077175503
+            "updated_at": 1746189657755
         }
     }
 }

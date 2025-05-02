@@ -2,18 +2,23 @@
     "id": "1557846379736666113",
     "screen_name": "taffy_lovely",
     "name": "坂下🌸小菲",
-    "description": "丨09 15岁高一在读丨常驻广州 生日2009.8.23喜欢玩音游和galgame丨不鉴证\n大爱塔菲\n偶尔发癫\n匿名提问:https://t.co/EeD9BHymb4\n回fo看成分 逃生舱/垃圾桶:@taffy_daisuki",
+    "description": "丨09 15岁高一在读丨广州入丨生日2009.8.23喜欢玩音游和galgame丨不鉴证 丨最喜欢的v是塔菲 最喜欢的歌手是真夜中同时喜欢听古典和术力口丨匿名提问:https://t.co/EeD9BHymb4 回fo看成分 逃生舱/垃圾桶:@taffy_daisuki",
     "location": "天国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897596618557566976/oj3eVEVx_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1743837803",
-    "followers_count": 368,
-    "statuses_count": 2848,
-    "favourites_count": 759,
-    "listed_count": 2,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1745893236",
+    "followers_count": 499,
+    "friends_count": 861,
+    "statuses_count": 4035,
+    "favourites_count": 1747,
+    "listed_count": 1,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2022-08-12 05:48:42 +08:00",
     "url": "https://twitter.com/taffy_lovely",
     "metadata": {
@@ -21,10 +26,7 @@
         "id": "VXNlcjoxNTU3ODQ2Mzc5NzM2NjY2MTEz",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -37,18 +39,18 @@
                             "expanded_url": "https://ngl.link/taffy_lovable",
                             "url": "https://t.co/EeD9BHymb4",
                             "indices": [
-                                61,
-                                84
+                                82,
+                                105
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 691,
+            "friends_count": 861,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 125,
+            "media_count": 174,
             "pinned_tweet_ids_str": [
                 "1902017058822664292"
             ],
@@ -59,12 +61,14 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
         "tipjar_settings": {
             "is_enabled": false
         },
         "twe_private_fields": {
             "created_at": 1660254522000,
-            "updated_at": 1744350074463
+            "updated_at": 1746189650112
         }
     }
 }

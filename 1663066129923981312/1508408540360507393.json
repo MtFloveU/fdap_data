@@ -6,18 +6,18 @@
     "location": "臺灣及福建群島蘇維埃公社邦聯",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895006997944078336/0Nnvy5Ja_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1508408540360507393/1708959034",
-    "followers_count": 1001,
-    "friends_count": 3423,
-    "statuses_count": 48999,
-    "favourites_count": 4923,
+    "followers_count": 1000,
+    "friends_count": 3426,
+    "statuses_count": 49009,
+    "favourites_count": 4927,
     "listed_count": 8,
     "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": null,
-    "can_dm": false,
+    "followed_by": true,
+    "can_dm": true,
     "protected": null,
     "created_at": "2022-03-28 19:40:34 +08:00",
     "url": "https://twitter.com/YuRain_Is_Doll",
@@ -27,8 +27,8 @@
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": false,
-            "can_media_tag": false,
+            "can_dm": true,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,7 +37,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3423,
+            "friends_count": 3426,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 3069,
@@ -56,7 +56,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1648467634000,
-            "updated_at": 1746176977957
+            "updated_at": 1746189648177
         }
     }
 }
