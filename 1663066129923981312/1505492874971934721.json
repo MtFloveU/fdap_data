@@ -2,18 +2,23 @@
     "id": "1505492874971934721",
     "screen_name": "CH3COSCoA",
     "name": "べのむ",
-    "description": "重ね合わせ \nJChO '21金 '22金 '23金\nJPhO '24銀\nIChO '25🇦🇪 APhO '25🇸🇦 IPhO '25🇫🇷",
+    "description": "TK74\nJChO '21金 '22金 '23金\nJPhO '24銀\nIChO '25🇦🇪 APhO '25🇸🇦 IPhO '25🇫🇷",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916846784724496384/lEO-_f_A_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 1557,
-    "statuses_count": 21557,
-    "favourites_count": 35065,
+    "followers_count": 1560,
+    "friends_count": 3385,
+    "statuses_count": 21573,
+    "favourites_count": 35140,
     "listed_count": 3,
+    "website": "https://t.co/gSbWDy4y2w",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": true,
     "created_at": "2022-03-20 18:34:12 +08:00",
     "url": "https://twitter.com/CH3COSCoA",
     "metadata": {
@@ -46,10 +51,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3377,
+            "friends_count": 3385,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1433,
+            "media_count": 1434,
             "pinned_tweet_ids_str": [
                 "1905160170780639287"
             ],
@@ -66,7 +71,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1647772452000,
-            "updated_at": 1746080532390
+            "updated_at": 1746176955343
         }
     }
 }

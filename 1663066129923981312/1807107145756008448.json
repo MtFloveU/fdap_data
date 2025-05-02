@@ -2,18 +2,23 @@
     "id": "1807107145756008448",
     "screen_name": "kagurazakaSiri_",
     "name": "翎",
-    "description": "飞入宇宙的宇航员回望地球发现地球是个巨他妈大的栗子头，四目的对视穿过无垠的太空，穿过人类千万年的历程，穿过第一个氨基酸融合的瞬间，最终湮灭在无尽的时光里",
-    "location": "🏳️‍⚧️",
+    "description": "我永远是“初心者”",
+    "location": "🏳️‍🌈🏳️‍⚧️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916471335238422528/As6XMr1p_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807107145756008448/1746035208",
-    "followers_count": 2852,
-    "statuses_count": 7489,
-    "favourites_count": 19244,
+    "followers_count": 2861,
+    "friends_count": 761,
+    "statuses_count": 7623,
+    "favourites_count": 19337,
     "listed_count": 6,
+    "website": "https://t.co/zULBkaIhWS",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2024-06-30 01:41:40 +08:00",
     "url": "https://twitter.com/kagurazakaSiri_",
     "metadata": {
@@ -73,10 +78,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 743,
+            "friends_count": 761,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 973,
+            "media_count": 998,
             "pinned_tweet_ids_str": [
                 "1900823119130227094"
             ],
@@ -93,7 +98,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1719682900000,
-            "updated_at": 1746077185700
+            "updated_at": 1746176991875
         }
     }
 }

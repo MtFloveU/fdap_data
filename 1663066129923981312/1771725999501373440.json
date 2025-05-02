@@ -2,18 +2,23 @@
     "id": "1771725999501373440",
     "screen_name": "fhsknxkxoaejt",
     "name": "maku224",
-    "description": "討厭上學\n小貓無敵\n補藥視姦我呀(⁠┛⁠✧⁠Д⁠✧⁠)⁠)⁠┛⁠💥💥",
+    "description": "上學使我體弱多病怒不可遏哀嚎遍野面目全非渾渾噩噩毫無生氣死人微活屍體僵硬",
     "location": "24小時位於家中",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1823888471309832192/BNqb3W26_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771725999501373440/1723683977",
     "followers_count": 36,
-    "statuses_count": 1054,
-    "favourites_count": 4543,
+    "friends_count": 47,
+    "statuses_count": 1087,
+    "favourites_count": 4730,
     "listed_count": 0,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2024-03-24 10:30:08 +08:00",
     "url": "https://twitter.com/fhsknxkxoaejt",
     "metadata": {
@@ -21,8 +26,6 @@
         "id": "VXNlcjoxNzcxNzI1OTk5NTAxMzczNDQw",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
             "can_media_tag": false,
@@ -34,10 +37,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 49,
+            "friends_count": 47,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 73,
+            "media_count": 74,
             "pinned_tweet_ids_str": [
                 "1872206826743447792"
             ],
@@ -48,10 +51,12 @@
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1711247408000,
-            "updated_at": 1744350018288
+            "updated_at": 1746176915723
         }
     }
 }

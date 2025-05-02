@@ -2,18 +2,23 @@
     "id": "1908668668919398400",
     "screen_name": "NotHoshikawa",
     "name": "ブルーおにぎり。",
-    "description": "“Goodbye. Hoshika... Ah, It was Anonymous H.”📺| You can call me ホシカワ(Hoshikawa-星川) or ホカ(Hoka)💫|※20代の未成年👦です。性的なメッセージは送信しないでください。",
+    "description": "“Goodbye. Hoshika... Ah, It was Anonymous H.”📺| You can call me ホシカワ(Hoshikawa-星川) or ブルぎり(Burugiri-蓝团)💫|※20代の未成年👦です。性的なメッセージは送信しないでください。",
     "location": "↓ソラミ垢",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1912459786303537152/8gDBC4wL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908668668919398400/1746069216",
-    "followers_count": 121,
-    "statuses_count": 453,
-    "favourites_count": 164,
+    "followers_count": 124,
+    "friends_count": 761,
+    "statuses_count": 469,
+    "favourites_count": 167,
     "listed_count": 0,
+    "website": "https://t.co/n0SIRlctBn",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": true,
     "created_at": "2025-04-06 07:50:54 +08:00",
     "url": "https://twitter.com/NotHoshikawa",
     "metadata": {
@@ -36,7 +41,7 @@
                         {
                             "display_url": "soramidev.xym.tw/Hoshikawa_qwq",
                             "expanded_url": "https://soramidev.xym.tw/Hoshikawa_qwq",
-                            "url": "https://t.co/3OK2V5UtoH",
+                            "url": "https://t.co/n0SIRlctBn",
                             "indices": [
                                 0,
                                 23
@@ -46,15 +51,15 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 740,
+            "friends_count": 761,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 37,
+            "media_count": 41,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/3OK2V5UtoH",
+            "url": "https://t.co/n0SIRlctBn",
             "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
@@ -75,7 +80,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1743897054000,
-            "updated_at": 1746080519787
+            "updated_at": 1746176881371
         }
     }
 }

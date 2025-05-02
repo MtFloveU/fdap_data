@@ -2,18 +2,23 @@
     "id": "943439286287851520",
     "screen_name": "KagurazakaSenba",
     "name": "💮西行寺　千羽🌸",
-    "description": "请与我交往•盼来盼去盼不尽天涯何处是归处•为了没有眼泪的明天•希望大家都可以幸福•取向是可爱",
+    "description": "请与我交往•盼来盼去盼不尽天涯何处是归处•为了没有眼泪的明天•希望大家都可以幸福•取向是可爱•可能是无性别",
     "location": "来自夏莱的老师",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/943439286287851520/1699106051",
-    "followers_count": 2921,
-    "statuses_count": 25809,
-    "favourites_count": 96588,
+    "followers_count": 2937,
+    "friends_count": 5205,
+    "statuses_count": 25855,
+    "favourites_count": 96944,
     "listed_count": 10,
+    "website": "https://t.co/hLF8aWcrJJ",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2017-12-20 19:13:48 +08:00",
     "url": "https://twitter.com/KagurazakaSenba",
     "metadata": {
@@ -45,10 +50,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 5199,
+            "friends_count": 5205,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 2026,
+            "media_count": 2029,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -66,7 +71,7 @@
         },
         "twe_private_fields": {
             "created_at": 1513768428000,
-            "updated_at": 1746077190503
+            "updated_at": 1746176997343
         }
     }
 }

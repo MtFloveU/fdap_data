@@ -2,18 +2,23 @@
     "id": "1880325371280912386",
     "screen_name": "genya1976",
     "name": "茳菁",
-    "description": "新西伯利亚/托木斯克/乌法/喀山/叶卡捷琳堡 172 55kg 偶尔兼职母狗 可线上线下 优先回复私信备注地区长度 拒绝回复小于18cm的男的 小寄吧的勿扰",
+    "description": "新西伯利亚/托木斯克 /乌法/喀山/叶卡捷琳堡 172 55kg 偶尔兼职公狗 可线上线下 优先回复私信备注地区长度 拒绝回复小于18cm的男的 小鸡巴的勿扰除了@zhu6hua",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891118827171360768/JgsYPNw__normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880325371280912386/1738923607",
-    "followers_count": 176,
-    "statuses_count": 1164,
-    "favourites_count": 46109,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880325371280912386/1744788198",
+    "followers_count": 183,
+    "friends_count": 346,
+    "statuses_count": 1363,
+    "favourites_count": 51242,
     "listed_count": 2,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": true,
     "created_at": "2025-01-18 02:44:47 +08:00",
     "url": "https://twitter.com/genya1976",
     "metadata": {
@@ -21,12 +26,10 @@
         "id": "VXNlcjoxODgwMzI1MzcxMjgwOTEyMzg2",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
             "protected": true,
             "can_dm": true,
-            "can_media_tag": false,
+            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,10 +38,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 319,
+            "friends_count": 346,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 68,
+            "media_count": 72,
             "pinned_tweet_ids_str": [
                 "1898969059267613034"
             ],
@@ -49,10 +52,12 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1737139487000,
-            "updated_at": 1744350080771
+            "updated_at": 1746176982521
         }
     }
 }

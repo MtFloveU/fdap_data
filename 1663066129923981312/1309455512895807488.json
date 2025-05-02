@@ -3,17 +3,22 @@
     "screen_name": "codemica",
     "name": "但为君故✨",
     "description": "唯文字和甜酒是终生热爱｜2002｜技术推 @codemetic｜计算机准研究生｜找实习中｜背景是冯 · 诺依曼｜顺直",
-    "location": "🚪96",
+    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1901189888550350848/HnJ44ETu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309455512895807488/1745422618",
-    "followers_count": 4062,
-    "statuses_count": 8982,
-    "favourites_count": 55694,
+    "followers_count": 4064,
+    "friends_count": 348,
+    "statuses_count": 8898,
+    "favourites_count": 55636,
     "listed_count": 14,
+    "website": "https://t.co/ys8P710ap3",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2020-09-25 19:31:43 +08:00",
     "url": "https://twitter.com/codemica",
     "metadata": {
@@ -45,10 +50,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 350,
+            "friends_count": 348,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 676,
+            "media_count": 671,
             "pinned_tweet_ids_str": [
                 "1908137579725365386"
             ],
@@ -70,7 +75,7 @@
         },
         "twe_private_fields": {
             "created_at": 1601033503000,
-            "updated_at": 1746077175503
+            "updated_at": 1746176983429
         }
     }
 }

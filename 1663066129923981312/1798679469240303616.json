@@ -2,18 +2,23 @@
     "id": "1798679469240303616",
     "screen_name": "qingyin038",
     "name": "诅咒",
-    "description": "🚪24 纯绿钱全用来复活科比",
+    "description": "",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1865395654287335425/nQFw7e3M_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798679469240303616/1724522579",
-    "followers_count": 44,
-    "statuses_count": 450,
-    "favourites_count": 2846,
+    "followers_count": 41,
+    "friends_count": 169,
+    "statuses_count": 462,
+    "favourites_count": 2869,
     "listed_count": 0,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": true,
     "created_at": "2024-06-06 19:33:14 +08:00",
     "url": "https://twitter.com/qingyin038",
     "metadata": {
@@ -33,7 +38,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 170,
+            "friends_count": 169,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 30,
@@ -52,7 +57,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1717673594000,
-            "updated_at": 1746080525183
+            "updated_at": 1746176915723
         }
     }
 }

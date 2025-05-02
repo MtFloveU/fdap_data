@@ -2,18 +2,23 @@
     "id": "1491429513779359745",
     "screen_name": "mizuchanqwq",
     "name": "若水醬𖦹 ̫ × 🏳️‍⚧️🍥",
-    "description": "請留意此帳的內容可能會被清除",
+    "description": "🐱🏳️‍⚧️ | ❤️@yuzuchanqwq | 🇺🇳 Statelessness | 小貓長不大",
     "location": "Void",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917109591223201792/vVkMcug1_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1917901610707292160/B6CvauUm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491429513779359745/1743835719",
-    "followers_count": 2338,
-    "statuses_count": 9521,
-    "favourites_count": 84847,
+    "followers_count": 2342,
+    "friends_count": 2233,
+    "statuses_count": 9532,
+    "favourites_count": 84887,
     "listed_count": 9,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2022-02-09 23:11:30 +08:00",
     "url": "https://twitter.com/mizuchanqwq",
     "metadata": {
@@ -32,13 +37,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2235,
+            "friends_count": 2233,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1805,
-            "pinned_tweet_ids_str": [
-                "1916850790708494560"
-            ],
+            "media_count": 1809,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -60,7 +63,7 @@
         },
         "twe_private_fields": {
             "created_at": 1644419490000,
-            "updated_at": 1746077192669
+            "updated_at": 1746176997343
         }
     }
 }

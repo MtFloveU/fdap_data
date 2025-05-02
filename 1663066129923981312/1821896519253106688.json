@@ -1,19 +1,24 @@
 {
     "id": "1821896519253106688",
     "screen_name": "YUSEI1917",
-    "name": "大藏游星",
+    "name": "大藏游星/小仓朝日",
     "description": "最喜欢妹妹了@RinTka8964",
     "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885634943369576448/Yxa7WUtO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821896519253106688/1738405381",
-    "followers_count": 126,
-    "statuses_count": 189,
-    "favourites_count": 496,
+    "followers_count": 128,
+    "friends_count": 17,
+    "statuses_count": 191,
+    "favourites_count": 497,
     "listed_count": 0,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": true,
     "created_at": "2024-08-09 21:09:30 +08:00",
     "url": "https://twitter.com/YUSEI1917",
     "metadata": {
@@ -21,8 +26,6 @@
         "id": "VXNlcjoxODIxODk2NTE5MjUzMTA2Njg4",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
             "protected": true,
             "can_dm": true,
@@ -35,7 +38,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 18,
+            "friends_count": 17,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 21,
@@ -47,10 +50,12 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1723208970000,
-            "updated_at": 1744350082251
+            "updated_at": 1746176983429
         }
     }
 }

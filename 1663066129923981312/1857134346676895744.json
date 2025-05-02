@@ -2,18 +2,23 @@
     "id": "1857134346676895744",
     "screen_name": "chayuxiang",
     "name": "茶语香",
-    "description": "茶语香｜唯一日常碎碎念账号｜普通人类｜想和大家交朋友｜₍˄·͈༝·͈˄*₎◞ ̑̑",
-    "location": "🌏",
+    "description": "茶语香｜唯一日常碎碎念账号｜普通人类｜想和大家交朋友｜@chayuxiang_sub₍˄·͈༝·͈˄*₎◞ ̑̑",
+    "location": "カップの中",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1875477108656611328/UrCy2t0k_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857134346676895744/1733823296",
-    "followers_count": 713,
-    "statuses_count": 1069,
-    "favourites_count": 3244,
+    "followers_count": 709,
+    "friends_count": 59,
+    "statuses_count": 1121,
+    "favourites_count": 3515,
     "listed_count": 3,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": true,
+    "followed_by": null,
+    "can_dm": false,
+    "protected": null,
     "created_at": "2024-11-15 02:52:27 +08:00",
     "url": "https://twitter.com/chayuxiang",
     "metadata": {
@@ -21,51 +26,35 @@
         "id": "VXNlcjoxODU3MTM0MzQ2Njc2ODk1NzQ0",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
+            "can_dm": false,
+            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "youtube.com/@chayuxiang1",
-                            "expanded_url": "https://www.youtube.com/@chayuxiang1",
-                            "url": "https://t.co/C0Wr8Y3ej2",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 196,
+            "friends_count": 59,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 60,
-            "pinned_tweet_ids_str": [
-                "1898264898263548066"
-            ],
+            "media_count": 68,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/C0Wr8Y3ej2",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1731610347000,
-            "updated_at": 1743234017504
+            "updated_at": 1746176984382
         }
     }
 }

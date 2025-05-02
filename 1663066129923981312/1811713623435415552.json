@@ -1,19 +1,24 @@
 {
     "id": "1811713623435415552",
     "screen_name": "Dodome2617",
-    "name": "我有罪我有罪我有罪",
-    "description": "垃圾推/////////////////////////////////////////////////////////////\n是喵喵露，永远的木琴 @NecoraNyaru 😭✋\n                永久身份燃燃露，重要的人@moxi_ocurmi",
+    "name": "我有罪",
+    "description": "是燃燃露，重要的人@moxi_ocurmi",
     "location": "Adachi-ku, Tokyo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870474612737495041/AMS3Ovy4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811713623435415552/1735670702",
-    "followers_count": 664,
-    "statuses_count": 3289,
-    "favourites_count": 20889,
+    "followers_count": 679,
+    "friends_count": 2427,
+    "statuses_count": 3347,
+    "favourites_count": 21666,
     "listed_count": 2,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2024-07-12 18:46:12 +08:00",
     "url": "https://twitter.com/Dodome2617",
     "metadata": {
@@ -32,10 +37,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2373,
+            "friends_count": 2427,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 183,
+            "media_count": 187,
             "pinned_tweet_ids_str": [
                 "1913812681372680632"
             ],
@@ -51,7 +56,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1720781172000,
-            "updated_at": 1746080534090
+            "updated_at": 1746176956573
         }
     }
 }

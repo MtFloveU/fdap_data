@@ -1,16 +1,16 @@
 {
-    "id": "1783739407981228032",
-    "screen_name": "MasahiroV2",
-    "name": "神乐坂正太🚜ماساهيرو🕋",
-    "description": "我是晓山瑞希/前MTF/女装鬼火少年/天方教自创教派/叛徒林彪孔老二都是坏东西/致敬JM/机箱里有蟒蛇/专门折腾破电动车/摩托车/违规三四轮车/江浙沪可约",
+    "id": "1915723009161375744",
+    "screen_name": "isaactan8964",
+    "name": "郁文",
+    "description": "o大了会上推\n妈妈: @yangaaa111\n绝世大好人: @iTZQing \n小号: @MOLeren198964 @Cheese_Ghostfox @Xinyi_ADHD",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1918220567976800256/9pMPbJ81_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1783739407981228032/1746175353",
-    "followers_count": 354,
-    "friends_count": 434,
-    "statuses_count": 4921,
-    "favourites_count": 16955,
-    "listed_count": 1,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1915723272433655810/GR52rmD7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915723009161375744/1745579192",
+    "followers_count": 35,
+    "friends_count": 42,
+    "statuses_count": 157,
+    "favourites_count": 388,
+    "listed_count": 0,
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,15 +18,16 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-04-26 14:06:38 +08:00",
-    "url": "https://twitter.com/MasahiroV2",
+    "protected": true,
+    "created_at": "2025-04-25 19:02:16 +08:00",
+    "url": "https://twitter.com/isaactan8964",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxNzgzNzM5NDA3OTgxMjI4MDMy",
+        "id": "VXNlcjoxOTE1NzIzMDA5MTYxMzc1NzQ0",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
+        "has_graduated_access": false,
         "legacy": {
+            "protected": true,
             "can_dm": true,
             "can_media_tag": true,
             "default_profile": true,
@@ -37,14 +38,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 434,
+            "friends_count": 42,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 123,
+            "media_count": 16,
             "pinned_tweet_ids_str": [
-                "1894712062112309399"
+                "1917921500482666901"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "verified": false,
@@ -54,20 +55,20 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "professional": {
-            "rest_id": "1875486447068967336",
+            "rest_id": "1915723870738538748",
             "professional_type": "Creator",
             "category": [
                 {
-                    "id": 132,
-                    "name": "Commercial & Industrial",
+                    "id": 477,
+                    "name": "Professional Services",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
         },
         "tipjar_settings": {},
         "twe_private_fields": {
-            "created_at": 1714111598000,
-            "updated_at": 1746176985448
+            "created_at": 1745578936000,
+            "updated_at": 1746176977957
         }
     }
 }

@@ -1,19 +1,24 @@
 {
     "id": "1680834021377593344",
     "screen_name": "HyotoChandesuyo",
-    "name": "温原ひょと 🍥🌂💤",
+    "name": "温原ひょと 🌂💤",
     "description": "いつまでも風に吹かれたい",
     "location": "土星",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1915857999618572288/KcKV9Jo6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680834021377593344/1735933697",
-    "followers_count": 2262,
-    "statuses_count": 27755,
-    "favourites_count": 94810,
-    "listed_count": 15,
+    "followers_count": 2266,
+    "friends_count": 986,
+    "statuses_count": 27792,
+    "favourites_count": 95077,
+    "listed_count": 14,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": true,
     "created_at": "2023-07-17 14:57:26 +08:00",
     "url": "https://twitter.com/HyotoChandesuyo",
     "metadata": {
@@ -63,10 +68,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 984,
+            "friends_count": 986,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 4135,
+            "media_count": 4138,
             "pinned_tweet_ids_str": [
                 "1903805604915020062"
             ],
@@ -93,7 +98,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1689577046000,
-            "updated_at": 1746077179548
+            "updated_at": 1746176986656
         }
     }
 }
