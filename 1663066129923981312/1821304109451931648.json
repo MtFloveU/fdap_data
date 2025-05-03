@@ -2,18 +2,23 @@
     "id": "1821304109451931648",
     "screen_name": "Fisa_wo",
     "name": "Fisa翎~🇨🇳🇺🇸🇹🇼",
-    "description": "简体中文🇨🇳/Engilsh🇺🇸/繁體中文🇭🇰/初二生/音游人（主要游玩移动端音游+MC）/有时键政/日常居多\n网址有机场",
+    "description": "简体中文🇨🇳/Engilsh🇺🇸/繁體中文🇭🇰/初二生/音游人（主要游玩移动端音游+MC）/有时键政/日常居多",
     "location": "Taipei City, Taiwan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1837836779560620032/7SSg9FTb_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821304109451931648/1728020198",
     "followers_count": 142,
-    "statuses_count": 552,
-    "favourites_count": 1968,
+    "friends_count": 384,
+    "statuses_count": 577,
+    "favourites_count": 2129,
     "listed_count": 1,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2024-08-08 05:55:18 +08:00",
     "url": "https://twitter.com/Fisa_wo",
     "metadata": {
@@ -21,8 +26,6 @@
         "id": "VXNlcjoxODIxMzA0MTA5NDUxOTMxNjQ4",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
             "can_media_tag": true,
@@ -31,43 +34,31 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "fbinv02.fbaff.cc/auth/register?…",
-                            "expanded_url": "https://fbinv02.fbaff.cc/auth/register?code=PwQIWiM4",
-                            "url": "https://t.co/xOPLc96sAw",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 372,
+            "friends_count": 384,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 118,
+            "media_count": 125,
             "pinned_tweet_ids_str": [
                 "1908551517273223188"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/xOPLc96sAw",
             "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "tipjar_settings": {
             "is_enabled": true
         },
         "twe_private_fields": {
             "created_at": 1723067718000,
-            "updated_at": 1744350082251
+            "updated_at": 1746277401156
         }
     }
 }

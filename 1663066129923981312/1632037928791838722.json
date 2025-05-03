@@ -2,18 +2,23 @@
     "id": "1632037928791838722",
     "screen_name": "nanaiskami",
     "name": "无糖可乐加冰🧊🥤",
-    "description": "🏳️‍⚧️ | 欢迎互fo | 打工人 | 老东西了",
+    "description": "🏳️‍⚧️ | 欢迎互fo | 打工人|常住上海/南京 | 老东西了",
     "location": "~100m",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1846019542902099969/xHBjIF_m_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1632037928791838722/1698378688",
-    "followers_count": 134,
-    "statuses_count": 285,
-    "favourites_count": 618,
+    "followers_count": 138,
+    "friends_count": 327,
+    "statuses_count": 299,
+    "favourites_count": 642,
     "listed_count": 1,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2023-03-04 23:19:09 +08:00",
     "url": "https://twitter.com/nanaiskami",
     "metadata": {
@@ -32,10 +37,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 326,
+            "friends_count": 327,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 24,
+            "media_count": 26,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +65,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1677943149000,
-            "updated_at": 1746077174316
+            "updated_at": 1746277401156
         }
     }
 }

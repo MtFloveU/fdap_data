@@ -2,18 +2,23 @@
     "id": "1720819011057840128",
     "screen_name": "Pissenlit_AH",
     "name": "AH",
-    "description": "郁期mtf，躁期mtx（性别认同不稳定，但持续 gd中）/哲逼\n\n大鼠鼠🐀：@sayonara149",
+    "description": "死掉啦～",
     "location": "辩证法的每个环节",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1909520166939226112/XnRoI0Mw_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1910708897557733376/fRyr1PrR_normal.jpg",
     "profile_banner_url": null,
     "followers_count": 192,
-    "statuses_count": 2536,
-    "favourites_count": 8387,
-    "listed_count": 3,
+    "friends_count": 223,
+    "statuses_count": 2569,
+    "favourites_count": 8687,
+    "listed_count": 2,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2023-11-04 23:03:25 +08:00",
     "url": "https://twitter.com/Pissenlit_AH",
     "metadata": {
@@ -21,8 +26,6 @@
         "id": "VXNlcjoxNzIwODE5MDExMDU3ODQwMTI4",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
             "can_media_tag": false,
@@ -34,10 +37,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 227,
+            "friends_count": 223,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 330,
+            "media_count": 336,
             "pinned_tweet_ids_str": [
                 "1909960673225847011"
             ],
@@ -48,12 +51,14 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
         "tipjar_settings": {
             "is_enabled": false
         },
         "twe_private_fields": {
             "created_at": 1699110205000,
-            "updated_at": 1744350101511
+            "updated_at": 1746277412264
         }
     }
 }

@@ -2,18 +2,23 @@
     "id": "1794131217463615488",
     "screen_name": "satsushou_sonn",
     "name": "加奈ちゃん",
-    "description": "加奈ちゃん/カナちゃん（ka na chan） ｜希望和大家作为好朋友，基本上fo的都会回｜自用机场是一元机场｜加点东西@satsushou__sonn｜头像画师：@yangyan88596853 ｜咱的好朋友@qingshixiang258 @xsf727",
+    "description": "加奈ちゃん/カナちゃん（ka na chan） ｜希望和大家作为好朋友，基本上fo的都会回｜自用机场是一元机场｜加点东西@satsushou__sonn｜头像画师：@yangyan88596853 ｜咱的好朋友@Kaoruko157 @xsf727",
     "location": "中华人民共和国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876295299439939584/KPTvk2v1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794131217463615488/1736146775",
-    "followers_count": 2494,
-    "statuses_count": 4533,
-    "favourites_count": 1878,
-    "listed_count": 11,
+    "followers_count": 2591,
+    "friends_count": 3482,
+    "statuses_count": 4620,
+    "favourites_count": 1868,
+    "listed_count": 10,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2024-05-25 06:20:05 +08:00",
     "url": "https://twitter.com/satsushou_sonn",
     "metadata": {
@@ -21,8 +26,6 @@
         "id": "VXNlcjoxNzk0MTMxMjE3NDYzNjE1NDg4",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
             "can_dm": true,
             "can_media_tag": true,
@@ -34,10 +37,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3288,
+            "friends_count": 3482,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 223,
+            "media_count": 232,
             "pinned_tweet_ids_str": [
                 "1889937031511548353"
             ],
@@ -48,10 +51,12 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1716589205000,
-            "updated_at": 1744350088738
+            "updated_at": 1746277405361
         }
     }
 }

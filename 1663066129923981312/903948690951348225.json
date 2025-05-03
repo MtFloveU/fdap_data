@@ -2,18 +2,23 @@
     "id": "903948690951348225",
     "screen_name": "MAGNIFIERhuahua",
     "name": "MAGNIFIER",
-    "description": "有性繁殖笑话合集",
+    "description": "最爱宝宝心",
     "location": "Melbourne, Victoria",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1759563538140667904/fNEbEd_l_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/903948690951348225/1713923088",
-    "followers_count": 2573,
-    "statuses_count": 13847,
-    "favourites_count": 8682,
+    "followers_count": 2575,
+    "friends_count": 672,
+    "statuses_count": 13869,
+    "favourites_count": 8686,
     "listed_count": 4,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2017-09-02 19:52:17 +08:00",
     "url": "https://twitter.com/MAGNIFIERhuahua",
     "metadata": {
@@ -32,10 +37,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 671,
+            "friends_count": 672,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 985,
+            "media_count": 987,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -62,7 +67,7 @@
         },
         "twe_private_fields": {
             "created_at": 1504353137000,
-            "updated_at": 1746077169154
+            "updated_at": 1746277396475
         }
     }
 }

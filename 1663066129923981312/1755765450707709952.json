@@ -2,18 +2,23 @@
     "id": "1755765450707709952",
     "screen_name": "huajuanshiwo",
     "name": "树海",
-    "description": "我喜欢@HY_ShiZhong",
+    "description": "15岁  我喜欢@HY_ShiZhong",
     "location": "蓝色空间号",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876289236909092864/caccjc2M_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755765450707709952/1730289185",
-    "followers_count": 1425,
-    "statuses_count": 7581,
-    "favourites_count": 35722,
+    "followers_count": 1429,
+    "friends_count": 1731,
+    "statuses_count": 7625,
+    "favourites_count": 35942,
     "listed_count": 6,
+    "website": "https://t.co/kZiBWvLQIv",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2024-02-09 09:28:44 +08:00",
     "url": "https://twitter.com/huajuanshiwo",
     "metadata": {
@@ -45,10 +50,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1733,
+            "friends_count": 1731,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1197,
+            "media_count": 1203,
             "pinned_tweet_ids_str": [
                 "1876566723912229149"
             ],
@@ -72,7 +77,7 @@
         },
         "twe_private_fields": {
             "created_at": 1707442124000,
-            "updated_at": 1746077182049
+            "updated_at": 1746277407625
         }
     }
 }

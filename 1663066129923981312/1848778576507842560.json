@@ -1,19 +1,24 @@
 {
     "id": "1848778576507842560",
     "screen_name": "LovelyCheshire_",
-    "name": "起来～不愿做坂下的六花",
+    "name": "为什么坂下六花（而不是正常人）能有这么大流量？",
     "description": "#它们才是坂下六花@zuifeiwu @6huazhu @zhao_mama @zhu6hua @yihong23\n#大号@KawaiiCheshire_",
     "location": "樱丘女子高等学校轻音部",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917619673052635137/rvDQOPke_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1918375579356938243/EhfwWPOv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848778576507842560/1738836459",
-    "followers_count": 728,
-    "statuses_count": 1852,
-    "favourites_count": 3764,
+    "followers_count": 733,
+    "friends_count": 301,
+    "statuses_count": 1869,
+    "favourites_count": 3798,
     "listed_count": 0,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2024-10-23 01:29:09 +08:00",
     "url": "https://twitter.com/LovelyCheshire_",
     "metadata": {
@@ -65,7 +70,7 @@
             "friends_count": 301,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 372,
+            "media_count": 377,
             "pinned_tweet_ids_str": [
                 "1901191209315672294"
             ],
@@ -81,7 +86,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1729618149000,
-            "updated_at": 1746077178287
+            "updated_at": 1746277404248
         }
     }
 }

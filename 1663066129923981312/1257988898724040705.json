@@ -1,30 +1,32 @@
 {
     "id": "1257988898724040705",
-    "screen_name": "KagrhitenGareka",
+    "screen_name": "KagrhitenData",
     "name": "𝒯𝒶𝓃𝑔𝓎𝒞𝒽𝒶𝓇𝓂🌏🌠🧃",
     "description": "反过来的直觉是直觉吗?人造的虚妄?",
     "location": "Dimensional Space Time",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1908951854945583104/UBcmNt10_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257988898724040705/1743840857",
-    "followers_count": 208,
-    "statuses_count": 1368,
-    "favourites_count": 6664,
+    "followers_count": 226,
+    "friends_count": 808,
+    "statuses_count": 1492,
+    "favourites_count": 8157,
     "listed_count": 0,
+    "website": "https://t.co/ZmePM3btIz",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": null,
     "created_at": "2020-05-06 19:02:06 +08:00",
-    "url": "https://twitter.com/KagrhitenGareka",
+    "url": "https://twitter.com/KagrhitenData",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjU3OTg4ODk4NzI0MDQwNzA1",
         "affiliates_highlighted_label": {},
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
             "can_dm": true,
             "can_media_tag": false,
             "default_profile": true,
@@ -48,10 +50,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 784,
+            "friends_count": 808,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 386,
+            "media_count": 428,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -61,6 +63,8 @@
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1862798329999933893",
             "professional_type": "Business",
@@ -75,7 +79,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1588762926000,
-            "updated_at": 1744350078918
+            "updated_at": 1746277399305
         }
     }
 }

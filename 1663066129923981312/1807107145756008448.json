@@ -2,14 +2,14 @@
     "id": "1807107145756008448",
     "screen_name": "kagurazakaSiri_",
     "name": "翎.",
-    "description": "悲しくなるならそれでもいいなら，ずっと一人で笑えよ・成渝半休学陰暗比高二生 阿斯ADHD Pansexual INFP MtX 🏳️‍🌈🏳️‍⚧️买葯找@Minokakay 翎私人TG https://t.co/zULBkaIhWS",
+    "description": "啊我草SEGA怎么这么坏",
     "location": "🏳️‍🌈🏳️‍⚧️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916471335238422528/As6XMr1p_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807107145756008448/1746035208",
-    "followers_count": 2864,
-    "friends_count": 761,
-    "statuses_count": 7650,
-    "favourites_count": 19368,
+    "followers_count": 2882,
+    "friends_count": 774,
+    "statuses_count": 7747,
+    "favourites_count": 19477,
     "listed_count": 6,
     "website": "https://t.co/zULBkaIhWS",
     "birthdate": null,
@@ -61,17 +61,7 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/Allenium114",
-                            "expanded_url": "http://t.me/Allenium114",
-                            "url": "https://t.co/zULBkaIhWS",
-                            "indices": [
-                                93,
-                                116
-                            ]
-                        }
-                    ]
+                    "urls": []
                 },
                 "url": {
                     "urls": [
@@ -88,10 +78,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 761,
+            "friends_count": 774,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1000,
+            "media_count": 1010,
             "pinned_tweet_ids_str": [
                 "1900823119130227094"
             ],
@@ -108,7 +98,7 @@
         "tipjar_settings": {},
         "twe_private_fields": {
             "created_at": 1719682900000,
-            "updated_at": 1746189675711
+            "updated_at": 1746277411128
         }
     }
 }
