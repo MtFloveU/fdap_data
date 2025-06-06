@@ -2,63 +2,99 @@
     "id": "1870022570353012736",
     "screen_name": "kukudejiaxibei",
     "name": "贾西贝🏳️‍⚧️🍥",
-    "description": "06年INFJ+处女座\nHRT-24.10.21\n擅长文学艺术类\nSteamID1151422332\n梦想是变成酷女孩\n烹饪烘焙调酒\n主人@lyb1007\n涩猫猫@jiang_chua28655\n好朋友@NataliaIcey2006\n@zixinmiao2好妹妹@yanmin1105可爱的宝宝@xiyimeng04",
-    "location": "山西省晋中市太谷区",
+    "description": "06年INFJ+♍️\n是个在军队基地待过的傻逼\n擅长文学艺术类\nsteamID:1151422332\n粥批/米游/supercell\n烹饪/烘焙/调酒\nEN🇺🇸/ESP🇪🇸/CN🇨🇳\n朋友@NataliaIcey2006\n@lyb1007\n涩猫猫@jiang_chua28655\n笨老公@xiyimeng04",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1913754050249846784/oWJ2G5vF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870022570353012736/1735747145",
-    "followers_count": 1112,
-    "friends_count": 1881,
-    "statuses_count": 4491,
-    "favourites_count": 18517,
+    "followers_count": 1349,
+    "friends_count": 2219,
+    "statuses_count": 5447,
+    "favourites_count": 21167,
     "listed_count": 2,
-    "website": null,
+    "location": "山西省晋中市太谷区",
+    "website": "https://t.co/lGi3Ux0J3v",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-12-20 16:25:12 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/kukudejiaxibei",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODcwMDIyNTcwMzUzMDEyNzM2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1913754050249846784/oWJ2G5vF_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Dec 20 08:25:12 +0000 2024",
+            "name": "贾西贝🏳️‍⚧️🍥",
+            "screen_name": "kukudejiaxibei"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/NataliaICEY060…",
+                            "expanded_url": "https://t.me/NataliaICEY060910https://ngl.link/kukudejiaxibei1",
+                            "url": "https://t.co/lGi3Ux0J3v",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1881,
+            "friends_count": 2219,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 427,
-            "pinned_tweet_ids_str": [
-                "1909221888443949341"
-            ],
+            "media_count": 549,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/lGi3Ux0J3v",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "山西省晋中市太谷区"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
-            "is_enabled": false
+            "is_enabled": true
+        },
+        "verification": {
+            "verified": false
         },
         "twe_private_fields": {
-            "created_at": 1734683112000,
-            "updated_at": 1746277401156
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

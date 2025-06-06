@@ -2,30 +2,42 @@
     "id": "1123254290615652352",
     "screen_name": "6eoj24wUhyNZ6iv",
     "name": "山桜七安",
-    "description": "MtX🍬/in Tokyo/社恐社障ASD/INFJ-T/设备控/声效编曲/杂学爱好/ACG圈/转赞色色注意/sub(找主人⭐️)/fps苦手/Cn-En-Jp-De///日常寂寞缺爱~多来找咱贴贴🥺 生活美食推(没有生活就是了",
-    "location": "自闭小屋",
+    "description": "MtX🍬/东京＆上海/社恐社障ASD/INFJ-T/设备控/声效编曲/杂学爱好/ACG圈/转赞色色注意/sub(找主人⭐️)/fps苦手/Cn-En-Jp-De///日常寂寞缺爱~多来找咱贴贴🥺 生活美食推(没有生活就是了",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1863508417744429056/-pmkxQlY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1123254290615652352/1625257676",
-    "followers_count": 265,
-    "statuses_count": 785,
-    "favourites_count": 5098,
+    "followers_count": 326,
+    "friends_count": 781,
+    "statuses_count": 828,
+    "favourites_count": 5318,
     "listed_count": 0,
+    "location": "自闭小屋",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2019-04-30 23:54:26 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/6eoj24wUhyNZ6iv",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTIzMjU0MjkwNjE1NjUyMzUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1863508417744429056/-pmkxQlY_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Apr 30 15:54:26 +0000 2019",
+            "name": "山桜七安",
+            "screen_name": "6eoj24wUhyNZ6iv"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 725,
+            "friends_count": 781,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 414,
+            "media_count": 440,
             "pinned_tweet_ids_str": [
                 "1905292987799924887"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "自闭小屋"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1556639666000,
-            "updated_at": 1744350094638
+            "created_at": 946656000000,
+            "updated_at": 1749219068775
         }
     }
 }

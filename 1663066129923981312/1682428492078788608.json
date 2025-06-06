@@ -2,28 +2,42 @@
     "id": "1682428492078788608",
     "screen_name": "shiroko486318",
     "name": "和摇滚的你说拜拜",
-    "description": "08|Wuhan|类人生物|EnOK|MtF|HRT240714|炸柜",
-    "location": "OM70##",
+    "description": "08|Wuhan|类人生物|EnOK|MtF|HRT240714|炸柜|小号@ARIAS114514",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682428492078788608/1729538776",
-    "followers_count": 512,
-    "statuses_count": 1995,
-    "favourites_count": 1207,
+    "followers_count": 565,
+    "friends_count": 687,
+    "statuses_count": 2173,
+    "favourites_count": 1389,
     "listed_count": 4,
+    "location": "OM70##",
+    "website": "https://t.co/XGIERxMtx3",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-07-22 00:33:21 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/shiroko486318",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjgyNDI4NDkyMDc4Nzg4NjA4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jul 21 16:33:21 +0000 2023",
+            "name": "和摇滚的你说拜拜",
+            "screen_name": "shiroko486318"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "ngl.link/shiroko486318",
-                            "expanded_url": "https://ngl.link/shiroko486318",
-                            "url": "https://t.co/9NiuQsKFtL",
+                            "display_url": "ngl.link/shioko11451419…",
+                            "expanded_url": "https://ngl.link/shioko1145141919810",
+                            "url": "https://t.co/XGIERxMtx3",
                             "indices": [
                                 0,
                                 23
@@ -45,27 +59,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 650,
+            "friends_count": 687,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 256,
-            "pinned_tweet_ids_str": [
-                "1914572306690789807"
-            ],
+            "media_count": 286,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/9NiuQsKFtL",
-            "verified": false,
+            "url": "https://t.co/XGIERxMtx3",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "OM70##"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1689957201000,
-            "updated_at": 1746077174316
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

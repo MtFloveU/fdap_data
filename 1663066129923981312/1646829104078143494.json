@@ -2,30 +2,42 @@
     "id": "1646829104078143494",
     "screen_name": "8EY3rZMN2k78200",
     "name": "湯湯 beautiful soup（求互fo!!）",
-    "description": "資工（computer science）大學生，喜歡梗圖、小說、幻想、女裝，喜歡和各種有趣的人聊天，蘿莉控+百合控，intp，都會回跟，會聊政治，但僅限回覆，盡量不吵到不聊政治的人，青鳥眼中的中共同路人，粉紅眼中的台獨，私信非廣告都會回，但不會秒回\n(我不是beautifulsoup的作者，只是當暱稱而已)",
-    "location": "台灣 台北 Taiwan Taipei ",
+    "description": "資工（computer science）大學生，喜歡梗圖、小說、幻想、女裝，喜歡和各種有趣的人聊天，蘿莉控+百合控，intp，不約不線下，都會回跟，會聊政治，但僅限回覆，盡量不吵到不聊政治的人，青鳥眼中的中共同路人，粉紅眼中的台獨，私信非廣告都會回，但不會秒回\n(我不是beautifulsoup的作者，只是拿來當暱稱)",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1693455888768745472/P3GUay9S_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646829104078143494/1692586321",
-    "followers_count": 1345,
-    "statuses_count": 8776,
-    "favourites_count": 78554,
+    "followers_count": 1628,
+    "friends_count": 3884,
+    "statuses_count": 9106,
+    "favourites_count": 83571,
     "listed_count": 6,
+    "location": "台灣 台北 Taiwan Taipei ",
+    "website": "https://t.co/07s4Q6MeA8",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-04-14 18:54:50 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/8EY3rZMN2k78200",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjQ2ODI5MTA0MDc4MTQzNDk0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1693455888768745472/P3GUay9S_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Apr 14 10:54:50 +0000 2023",
+            "name": "湯湯 beautiful soup（求互fo!!）",
+            "screen_name": "8EY3rZMN2k78200"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,7 +49,7 @@
                         {
                             "display_url": "t.me/BeautifulSoup8",
                             "expanded_url": "http://t.me/BeautifulSoup8",
-                            "url": "https://t.co/07s4Q6MMpG",
+                            "url": "https://t.co/07s4Q6MeA8",
                             "indices": [
                                 0,
                                 23
@@ -47,21 +59,28 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3603,
+            "friends_count": 3884,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 620,
+            "media_count": 674,
             "pinned_tweet_ids_str": [
                 "1864690737667035216"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/07s4Q6MMpG",
-            "verified": false,
+            "url": "https://t.co/07s4Q6MeA8",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "台灣 台北 Taiwan Taipei "
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1717774284586975625",
             "professional_type": "Creator",
@@ -73,10 +92,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1681469690000,
-            "updated_at": 1744350085207
+            "created_at": 946656000000,
+            "updated_at": 1749219065464
         }
     }
 }

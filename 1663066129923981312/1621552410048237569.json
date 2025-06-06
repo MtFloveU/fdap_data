@@ -2,30 +2,42 @@
     "id": "1621552410048237569",
     "screen_name": "amecandy_x",
     "name": "超絕最可愛 Rain 💙🧬",
-    "description": "「过于真实的幻像露出了天使般的笑容」这里是Rain 处于焦虑抑郁和恐惧的小女孩→    ////    \n需要互 fo 请私信 需要我陪你请私信！我想陪着大家所以没有门槛🥹",
-    "location": "这是我的网站 oc小说连载处👉",
+    "description": "小雨不乖，请你抱紧 我会写点东西求你看看 //// 互 fo 请私信 /// ♡❀✦💘 @appleneko2001 ✦❀♡",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621552410048237569/1699572130",
-    "followers_count": 2265,
-    "statuses_count": 4757,
-    "favourites_count": 15192,
+    "followers_count": 2447,
+    "friends_count": 1098,
+    "statuses_count": 4981,
+    "favourites_count": 15974,
     "listed_count": 7,
+    "location": "",
+    "website": "https://t.co/Ul32kqG4uh",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-02-04 00:53:25 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/amecandy_x",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjIxNTUyNDEwMDQ4MjM3NTY5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Feb 03 16:53:25 +0000 2023",
+            "name": "超絕最可愛 Rain 💙🧬",
+            "screen_name": "amecandy_x"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -36,8 +48,8 @@
                     "urls": [
                         {
                             "display_url": "angelkawaii.xyz",
-                            "expanded_url": "http://angelkawaii.xyz",
-                            "url": "https://t.co/CwKoKqRk8n",
+                            "expanded_url": "https://angelkawaii.xyz",
+                            "url": "https://t.co/Ul32kqG4uh",
                             "indices": [
                                 0,
                                 23
@@ -47,32 +59,49 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1045,
+            "friends_count": 1098,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 302,
+            "media_count": 334,
             "pinned_tweet_ids_str": [
-                "1861034108069318895"
+                "1926501642251202861"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/CwKoKqRk8n",
-            "verified": false,
+            "url": "https://t.co/Ul32kqG4uh",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1728714603398611373",
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1675443205000,
-            "updated_at": 1744350096786
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

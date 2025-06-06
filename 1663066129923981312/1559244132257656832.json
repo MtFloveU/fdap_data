@@ -1,31 +1,43 @@
 {
     "id": "1559244132257656832",
-    "screen_name": "AsdAsd72654380_",
+    "screen_name": "AsdAsd7265438_",
     "name": "仰望星空岁月",
     "description": "我是谁？ | 喜欢@lyulka_in_true",
-    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1752340898669789184/z3-Yp4KJ_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 744,
-    "statuses_count": 1249,
-    "favourites_count": 15177,
+    "followers_count": 763,
+    "friends_count": 1739,
+    "statuses_count": 1286,
+    "favourites_count": 15469,
     "listed_count": 1,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-08-16 02:22:39 +08:00",
-    "url": "https://twitter.com/AsdAsd72654380_",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/AsdAsd7265438_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTU5MjQ0MTMyMjU3NjU2ODMy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1752340898669789184/z3-Yp4KJ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Aug 15 18:22:39 +0000 2022",
+            "name": "仰望星空岁月",
+            "screen_name": "AsdAsd7265438_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1706,
+            "friends_count": 1739,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 20,
@@ -42,14 +54,31 @@
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1660587759000,
-            "updated_at": 1744350118008
+            "created_at": 946656000000,
+            "updated_at": 1749219079495
         }
     }
 }

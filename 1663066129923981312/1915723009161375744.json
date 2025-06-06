@@ -1,17 +1,17 @@
 {
     "id": "1915723009161375744",
-    "screen_name": "isaactan8964",
-    "name": "郁文",
-    "description": "o大了会上推 \n妈妈: @yangaaa111 \n姐姐: @VicoOci \n绝世大好人: @iTZQing \n小号：@Cheese_Ghostfox @Xinyi_ADHD \n不熟的小号: @MOLeren198964",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915723272433655810/GR52rmD7_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915723009161375744/1745579192",
-    "followers_count": 44,
-    "friends_count": 51,
-    "statuses_count": 217,
-    "favourites_count": 648,
-    "listed_count": 0,
-    "website": null,
+    "screen_name": "fuckpregabalin",
+    "name": "文",
+    "description": "死猪@VicoOci｜永远的好朋友@yangaaa111｜不过陌生人qqqxx｜废文预警 慎fo｜我的互fo都是很好很好的宝宝",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929907258668003329/gS45bbEO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915723009161375744/1748628696",
+    "followers_count": 146,
+    "friends_count": 200,
+    "statuses_count": 2698,
+    "favourites_count": 5995,
+    "listed_count": 1,
+    "location": "Amoy",
+    "website": "https://t.co/wHA2veb7Zu",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,38 +19,65 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2025-04-25 19:02:16 +08:00",
-    "url": "https://twitter.com/isaactan8964",
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/fuckpregabalin",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxOTE1NzIzMDA5MTYxMzc1NzQ0",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929907258668003329/gS45bbEO_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Apr 25 11:02:16 +0000 2025",
+            "name": "文",
+            "screen_name": "fuckpregabalin"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/fuckpregabalin",
+                            "expanded_url": "https://ngl.link/fuckpregabalin",
+                            "url": "https://t.co/wHA2veb7Zu",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 51,
+            "friends_count": 200,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 19,
+            "media_count": 207,
             "pinned_tweet_ids_str": [
-                "1917921500482666901"
+                "1926657048831254945"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/wHA2veb7Zu",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Amoy"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -59,16 +86,26 @@
             "professional_type": "Creator",
             "category": [
                 {
-                    "id": 477,
-                    "name": "Professional Services",
+                    "id": 942,
+                    "name": "Band",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
         },
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1745578936000,
-            "updated_at": 1746277396475
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

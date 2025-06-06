@@ -2,28 +2,42 @@
     "id": "1782063289675255808",
     "screen_name": "Kisaragi_Momoe",
     "name": "如月 桃枝 🍥",
-    "description": "🏳️‍⚧️ | 重度网瘾熬夜少女 | 前OIer | 疑似家长党(？) | 最重要的可爱主人&妹妹&老婆 @MinaseAyano | 可爱妹妹 @bakazorange\n\n一个很负能量的人，如果给你带来了困扰我很抱歉\n\n会尽量互关同类哦，如果漏了请私信我w",
-    "location": "在你心里",
+    "description": "🏳️‍⚧️ | 重度网瘾熬夜少女 | 前OIer | 疑似家长党(？) | 最重要的可爱主人&妹妹&老婆 @MinaseAyano | 可爱妹妹 @bakazorange 一个很负能量的人，如果给你带来了困扰我很抱歉 还有就是真的好穷好穷…非同类的话找我聊天请私信🚪10元呜呜呜",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895410848836759553/EbKJ2tNI_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782063289675255808/1737201756",
-    "followers_count": 617,
-    "statuses_count": 1849,
-    "favourites_count": 10800,
-    "listed_count": 2,
+    "followers_count": 742,
+    "friends_count": 691,
+    "statuses_count": 2114,
+    "favourites_count": 13521,
+    "listed_count": 3,
+    "location": "在你心里",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-04-21 23:06:19 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Kisaragi_Momoe",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzgyMDYzMjg5Njc1MjU1ODA4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1895410848836759553/EbKJ2tNI_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Apr 21 15:06:19 +0000 2024",
+            "name": "如月 桃枝 🍥",
+            "screen_name": "Kisaragi_Momoe"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 596,
+            "friends_count": 691,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 126,
+            "media_count": 105,
             "pinned_tweet_ids_str": [
-                "1910921133735751899"
+                "1923436598101721554"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "在你心里"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1713711979000,
-            "updated_at": 1746077176790
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

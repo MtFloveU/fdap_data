@@ -2,28 +2,42 @@
     "id": "1236317911431536640",
     "screen_name": "RusndageSNF",
     "name": "Rusndage小雪花❄️🍥",
-    "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
-    "location": "Hailfern，现居Snoronto（划去）",
+    "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1699114659",
-    "followers_count": 1748,
-    "statuses_count": 4496,
-    "favourites_count": 24698,
-    "listed_count": 7,
+    "followers_count": 1791,
+    "friends_count": 966,
+    "statuses_count": 4743,
+    "favourites_count": 25700,
+    "listed_count": 8,
+    "location": "Hailfern，现居Snoronto（划去）",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2020-03-07 23:48:59 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/RusndageSNF",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjM2MzE3OTExNDMxNTM2NjQw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Mar 07 15:48:59 +0000 2020",
+            "name": "Rusndage小雪花❄️🍥",
+            "screen_name": "RusndageSNF"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 952,
+            "friends_count": 966,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 422,
+            "media_count": 439,
             "pinned_tweet_ids_str": [
                 "1900564583427019183"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Hailfern，现居Snoronto（划去）"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1583596139000,
-            "updated_at": 1746077194422
+            "created_at": 946656000000,
+            "updated_at": 1749219079495
         }
     }
 }

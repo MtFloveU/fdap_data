@@ -2,28 +2,42 @@
     "id": "1841847755691745280",
     "screen_name": "jimi_yang22770",
     "name": "YYY",
-    "description": "友跨顺男（总有刁民想害朕翻车）\n  ENTJ  \n間歇性極端\n  喜歡運動    已成宅男（大悲\n     \n成分：农批   蒸蒸日上  甲级战犯\n\n怎么你们都那么变态，我跟不上节奏啊",
-    "location": "距您0.02公里",
+    "description": "友跨顺男（总有刁民想害朕翻车）\n  ENTJ  \n小鹿🦌@LightlyXiaoLu99    牢哥@AnYeEternal   一個抽象逼@Xinyi_ADHD\n\n怎么你们都那么变态，我跟不上节奏啊",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906626847124983808/Ao9FzEG-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841847755691745280/1739101867",
-    "followers_count": 1101,
-    "statuses_count": 10221,
-    "favourites_count": 55953,
-    "listed_count": 9,
+    "followers_count": 1110,
+    "friends_count": 1358,
+    "statuses_count": 10595,
+    "favourites_count": 57818,
+    "listed_count": 8,
+    "location": "距您0.02公里",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-10-03 22:28:28 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/jimi_yang22770",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQxODQ3NzU1NjkxNzQ1Mjgw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1906626847124983808/Ao9FzEG-_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Oct 03 14:28:28 +0000 2024",
+            "name": "YYY",
+            "screen_name": "jimi_yang22770"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1346,
+            "friends_count": 1358,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 404,
+            "media_count": 439,
             "pinned_tweet_ids_str": [
                 "1915238382072131802"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "距您0.02公里"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1727965708000,
-            "updated_at": 1746077176790
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

@@ -1,16 +1,16 @@
 {
     "id": "1684788633797287936",
     "screen_name": "Muoujiang_",
-    "name": "木偶酱～🍥",
-    "description": "🌌 | 🏳️‍🌈🏳️‍⚧️ | 家长反对党 | 在留头发 | HRT？？？🍥 | 跨跨帮助跨跨 | @huahuojiang_ | 妹妹: @liveDeath750122 @bushi_233",
-    "location": "Zapolyary Palace, Snezhnaya",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915955699227799552/DKSKir8c_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1746036703",
-    "followers_count": 20681,
-    "friends_count": 10614,
-    "statuses_count": 13111,
-    "favourites_count": 72805,
-    "listed_count": 70,
+    "name": "沫柠～🍥",
+    "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→大学之后🍥（怕被家里发现 | 跨跨帮助跨跨 | @huahuojiang_ | 最好的姐妹 @wflmyblj @Sakura_mo_yu @Livedeath750122",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930631904300240896/TJtG6DsZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1746424440",
+    "followers_count": 21046,
+    "friends_count": 10655,
+    "statuses_count": 13517,
+    "favourites_count": 75707,
+    "listed_count": 74,
+    "location": "Nod-Krai, Snezhnaya",
     "website": "https://t.co/gWovYpoBzT",
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2023-07-28 12:51:35 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Muoujiang_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjg0Nzg4NjMzNzk3Mjg3OTM2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930631904300240896/TJtG6DsZ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jul 28 04:51:35 +0000 2023",
+            "name": "沫柠～🍥",
+            "screen_name": "Muoujiang_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -50,20 +59,25 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 10614,
+            "friends_count": 10655,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3474,
+            "media_count": 3665,
             "pinned_tweet_ids_str": [
-                "1910218894813675591"
+                "1927365238833250356"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/gWovYpoBzT",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Nod-Krai, Snezhnaya"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -78,10 +92,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1690519895000,
-            "updated_at": 1746277415794
+            "created_at": 946656000000,
+            "updated_at": 1749219076818
         }
     }
 }

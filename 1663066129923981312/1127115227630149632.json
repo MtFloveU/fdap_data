@@ -2,28 +2,42 @@
     "id": "1127115227630149632",
     "screen_name": "hatsuki_mumu",
     "name": "叶",
-    "description": "mtx | @CelestialNeb @InnocetRabbit BFF | @storMTXsnow8964 猫猫 | 🟨⬜️🟪⬛️❤️💛🩵",
-    "location": "",
+    "description": "mtx | @CelestialNeb @InnocetRabbit BFF | @storMTXsnow8964 猫猫 | 🟨⬜️🟪⬛️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1900930270666387456/cCA5FlvK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127115227630149632/1741513565",
-    "followers_count": 308,
-    "statuses_count": 1346,
-    "favourites_count": 10357,
+    "followers_count": 305,
+    "friends_count": 48,
+    "statuses_count": 1391,
+    "favourites_count": 10289,
     "listed_count": 2,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2019-05-11 15:36:25 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/hatsuki_mumu",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTI3MTE1MjI3NjMwMTQ5NjMy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1900930270666387456/cCA5FlvK_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat May 11 07:36:25 +0000 2019",
+            "name": "叶",
+            "screen_name": "hatsuki_mumu"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,28 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 51,
+            "friends_count": 48,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 326,
+            "media_count": 347,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false,
             "bitcoin_handle": "",
             "ethereum_handle": ""
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1557560185000,
-            "updated_at": 1746077185700
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

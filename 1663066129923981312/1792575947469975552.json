@@ -2,31 +2,42 @@
     "id": "1792575947469975552",
     "screen_name": "Chigine1",
     "name": "𝕮𝖍𝖎𝖌𝖎𝖓𝖊",
-    "description": "现实的虚无主义",
-    "location": "中国上海市黄浦区汉口路10号",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1910194367958278144/G4MtflID_normal.jpg",
+    "description": "正在补充阅读量 互关说一声",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1915831868836220931/z8i5_a8M_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 875,
-    "statuses_count": 8522,
-    "favourites_count": 42440,
+    "followers_count": 1090,
+    "friends_count": 989,
+    "statuses_count": 10426,
+    "favourites_count": 51150,
     "listed_count": 4,
+    "location": "中国上海市黄浦区汉口路10号",
+    "website": "https://t.co/Ii6gF9bQKi",
+    "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-05-20 23:19:52 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Chigine1",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzkyNTc1OTQ3NDY5OTc1NTUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1915831868836220931/z8i5_a8M_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon May 20 15:19:52 +0000 2024",
+            "name": "𝕮𝖍𝖎𝖌𝖎𝖓𝖊",
+            "screen_name": "Chigine1"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -36,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "love-letter.club/to/Chigine1/",
-                            "expanded_url": "https://love-letter.club/to/Chigine1/",
-                            "url": "https://t.co/jdLl81WyjB",
+                            "display_url": "ngl.link/chigine1",
+                            "expanded_url": "https://ngl.link/chigine1",
+                            "url": "https://t.co/Ii6gF9bQKi",
                             "indices": [
                                 0,
                                 23
@@ -48,27 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 816,
+            "friends_count": 989,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 945,
+            "media_count": 1062,
             "pinned_tweet_ids_str": [
-                "1908104592031899905"
+                "1917389505264509260"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/jdLl81WyjB",
-            "verified": false,
+            "url": "https://t.co/Ii6gF9bQKi",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "中国上海市黄浦区汉口路10号"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1716218392000,
-            "updated_at": 1744350096785
+            "created_at": 946656000000,
+            "updated_at": 1749219069841
         }
     }
 }

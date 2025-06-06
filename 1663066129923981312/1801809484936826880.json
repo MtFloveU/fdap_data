@@ -1,32 +1,73 @@
 {
     "id": "1801809484936826880",
-    "screen_name": "BelleWalton0714",
-    "name": "Belle Walton",
-    "description": "",
-    "location": "",
+    "screen_name": "Best_Ak1ra",
+    "name": "aBaNd0N.🫤",
+    "description": "just a silly internet girl tweeting her thoughts :3 / Chinese: @CharmingP5K",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888544348238921728/U9JFVEhj_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 29,
-    "statuses_count": 2,
-    "favourites_count": 44,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801809484936826880/1747930578",
+    "followers_count": 50,
+    "friends_count": 9,
+    "statuses_count": 43,
+    "favourites_count": 258,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-06-15 10:51:07 +08:00",
-    "url": "https://twitter.com/BelleWalton0714",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/Best_Ak1ra",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODAxODA5NDg0OTM2ODI2ODgw",
-        "affiliates_highlighted_label": {},
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @CharmingP5K",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 25,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "CharmingP5K",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "core": {
+                                            "screen_name": "CharmingP5K"
+                                        },
+                                        "rest_id": "1663066129923981312"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1888544348238921728/U9JFVEhj_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 15 02:51:07 +0000 2024",
+            "name": "aBaNd0N.🫤",
+            "screen_name": "Best_Ak1ra"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,22 +76,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1,
+            "friends_count": 9,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 0,
-            "pinned_tweet_ids_str": [],
+            "media_count": 4,
+            "pinned_tweet_ids_str": [
+                "1925587925326270486"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1718419867000,
-            "updated_at": 1744350078919
+            "created_at": 946656000000,
+            "updated_at": 1749219061680
         }
     }
 }

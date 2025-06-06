@@ -1,16 +1,16 @@
 {
     "id": "1700935161301655552",
     "screen_name": "qingshixiang258",
-    "name": "拉斯普青不是阿青🇨🇳 🇹🇼 🍃🕊️",
+    "name": "青石巷🍃🕊️",
     "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930642071146442752/DL727ikJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700935161301655552/1748858469",
+    "followers_count": 1202,
+    "friends_count": 1034,
+    "statuses_count": 10180,
+    "favourites_count": 23319,
+    "listed_count": 6,
     "location": "？？？",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1916284947746459648/Fmz_BBPX_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700935161301655552/1744130161",
-    "followers_count": 1014,
-    "friends_count": 877,
-    "statuses_count": 8235,
-    "favourites_count": 18630,
-    "listed_count": 5,
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2023-09-11 02:12:06 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/qingshixiang258",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzAwOTM1MTYxMzAxNjU1NTUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930642071146442752/DL727ikJ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Sep 10 18:12:06 +0000 2023",
+            "name": "青石巷🍃🕊️",
+            "screen_name": "qingshixiang258"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,28 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 877,
+            "friends_count": 1034,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 324,
+            "media_count": 582,
             "pinned_tweet_ids_str": [
-                "1918577779450237268"
+                "1930276431860510793"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "？？？"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1694369526000,
-            "updated_at": 1746277403165
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

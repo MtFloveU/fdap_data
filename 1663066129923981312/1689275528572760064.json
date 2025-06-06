@@ -2,28 +2,42 @@
     "id": "1689275528572760064",
     "screen_name": "5mRtist",
     "name": "5mR",
-    "description": "15岁高中生｜请不要对我扣帽子或人身攻击，我也会礼貌对待大家🩵我没有b过任何人，尊重每一种声音💜 🙏精神病友好，小孩哥友好🙏。。。不参与也懒得参与宫斗和政治斗争",
-    "location": "距你4.51km",
+    "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689275528572760064/1720341261",
-    "followers_count": 4825,
-    "statuses_count": 6445,
-    "favourites_count": 31482,
+    "followers_count": 4925,
+    "friends_count": 1604,
+    "statuses_count": 6652,
+    "favourites_count": 33391,
     "listed_count": 12,
+    "location": "距你4.51km",
+    "website": "https://t.co/gOK4bNBI2K",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-08-09 22:00:59 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/5mRtist",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjg5Mjc1NTI4NTcyNzYwMDY0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Aug 09 14:00:59 +0000 2023",
+            "name": "5mR",
+            "screen_name": "5mRtist"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1569,
+            "friends_count": 1604,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 231,
+            "media_count": 228,
             "pinned_tweet_ids_str": [
                 "1870638198768169190"
             ],
@@ -56,9 +70,14 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/gOK4bNBI2K",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "距你4.51km"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -73,13 +92,23 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true,
             "ethereum_handle": "0xFC404fdBc592852b64b297b5717a84a76a4e12B0"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1691589659000,
-            "updated_at": 1746077174316
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

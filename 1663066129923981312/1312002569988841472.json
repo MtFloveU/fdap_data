@@ -1,41 +1,55 @@
 {
     "id": "1312002569988841472",
     "screen_name": "zhishi_cook",
-    "name": "知式",
-    "description": "申必mtf🤔🤔/超级缺爱b🥵/头发没了想似喵😭😭/恶臭郭楠😥/ENFP-T/🤔提问:https://t.co/73sHa69a9d / 只会写php py的废物😭/生产日期:2009-03-07/小号:@TypezhiQwQ",
-    "location": "黄石市第二医院精神科住院楼",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898385012581650433/XNb2PE9Q_normal.jpg",
+    "name": "知式🍥",
+    "description": "申必mtf🏳️‍⚧️🤔🤔/家长不管(?/超级缺爱b🥵/头发没了想似喵😭😭/恶臭郭楠😥/ENFP-T/🤔提问:https://t.co/bDeKeMQNaN / 只会写php py的废物😭/生产日期:2009-03-07/小号:@TypezhiQwQ/同类回fo喵🤓/宝宝@qiu90827",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1920010651700973568/DmyTtkvn_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1312002569988841472/1744982913",
-    "followers_count": 349,
-    "statuses_count": 2187,
-    "favourites_count": 1074,
-    "listed_count": 0,
+    "followers_count": 1581,
+    "friends_count": 885,
+    "statuses_count": 2693,
+    "favourites_count": 1240,
+    "listed_count": 1,
+    "location": "黄石市第二医院精神科住院楼",
+    "website": "https://t.co/842XMZv0Pp",
+    "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2020-10-02 20:12:55 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/zhishi_cook",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzEyMDAyNTY5OTg4ODQxNDcy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1920010651700973568/DmyTtkvn_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Oct 02 12:12:55 +0000 2020",
+            "name": "知式🍥",
+            "screen_name": "zhishi_cook"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": [
                         {
-                            "display_url": "ngl.link/zhishi_cook",
-                            "expanded_url": "https://ngl.link/zhishi_cook",
-                            "url": "https://t.co/73sHa69a9d",
+                            "display_url": "ngl.link/zhishi_cook1",
+                            "expanded_url": "https://ngl.link/zhishi_cook1",
+                            "url": "https://t.co/bDeKeMQNaN",
                             "indices": [
-                                42,
-                                65
+                                54,
+                                77
                             ]
                         }
                     ]
@@ -55,27 +69,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 531,
+            "friends_count": 885,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 161,
+            "media_count": 243,
             "pinned_tweet_ids_str": [
-                "1898183733221769263"
+                "1920328261478793373"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/842XMZv0Pp",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "黄石市第二医院精神科住院楼"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1601640775000,
-            "updated_at": 1746077173226
+            "created_at": 946656000000,
+            "updated_at": 1749219061680
         }
     }
 }

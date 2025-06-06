@@ -2,30 +2,42 @@
     "id": "1822530373349195776",
     "screen_name": "TaoWen44377",
     "name": "猫闻百合",
-    "description": "喜欢女装    不约/不接广\n\n共产主义者 随缘更新",
-    "location": "china",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1907065446198657024/_qTctHOY_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822530373349195776/1743514810",
-    "followers_count": 3,
-    "statuses_count": 42,
-    "favourites_count": 575,
+    "description": "14岁小男娘一枚😇",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929411908211257344/EnMMM1Ev_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822530373349195776/1748842618",
+    "followers_count": 12,
+    "friends_count": 148,
+    "statuses_count": 34,
+    "favourites_count": 707,
     "listed_count": 0,
+    "location": "china",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-08-11 15:08:07 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/TaoWen44377",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODIyNTMwMzczMzQ5MTk1Nzc2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929411908211257344/EnMMM1Ev_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Aug 11 07:08:07 +0000 2024",
+            "name": "猫闻百合",
+            "screen_name": "TaoWen44377"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 142,
+            "friends_count": 148,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 9,
+            "media_count": 1,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "china"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1723360087000,
-            "updated_at": 1744350049695
+            "created_at": 946656000000,
+            "updated_at": 1749219044314
         }
     }
 }

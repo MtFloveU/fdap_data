@@ -1,29 +1,43 @@
 {
     "id": "1613864465195503616",
-    "screen_name": "filer0040",
-    "name": "𝙇𝙚𝙞𝙧𝙞 .𖥔 ݁ ˖ ✦ ‧₊˚ ⋅",
-    "description": "private acc: @filer0050 | she/they | @SuperFunnyGuy0 my beloved ❤️❤️❤️❤️",
-    "location": "lesbian cave",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917667911189270528/Rtlkiv3b_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613864465195503616/1745498585",
-    "followers_count": 4684,
-    "statuses_count": 14955,
-    "favourites_count": 40442,
-    "listed_count": 93,
+    "screen_name": "sinthell0ver040",
+    "name": "FiLER",
+    "description": "priv acc: @filer0050 | he/him | alias: Leiri | genderfluid | silly gf: @WeissAsSnow15 | fav friends: @small_circleFPE @jaidendouble @FPESchool @RobbyFPE132",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1928765385400315904/fn121m95_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613864465195503616/1747870995",
+    "followers_count": 5031,
+    "friends_count": 1452,
+    "statuses_count": 15761,
+    "favourites_count": 42874,
+    "listed_count": 87,
+    "location": "2fort",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-01-13 19:44:17 +08:00",
-    "url": "https://twitter.com/filer0040",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/sinthell0ver040",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjEzODY0NDY1MTk1NTAzNjE2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1928765385400315904/fn121m95_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jan 13 11:44:17 +0000 2023",
+            "name": "FiLER",
+            "screen_name": "sinthell0ver040"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1448,
+            "friends_count": 1452,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 4615,
+            "media_count": 4888,
             "pinned_tweet_ids_str": [
-                "1914475055452709307"
+                "1925977852081557743"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "2fort"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -53,10 +72,20 @@
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1673610257000,
-            "updated_at": 1746077176790
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

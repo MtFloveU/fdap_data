@@ -2,15 +2,15 @@
     "id": "1880325371280912386",
     "screen_name": "genya1976",
     "name": "茳菁",
-    "description": "新西伯利亚/托木斯克 /乌法/喀山/叶卡捷琳堡 172 55kg 偶尔兼职公狗 可线上线下 优先回复私信备注地区长度 拒绝回复小于18cm的男的 小鸡巴的勿扰除了@zhu6hua",
-    "location": "",
+    "description": "圣彼得堡/莫斯科/新西伯利亚/喀山/叶卡捷琳堡 172 60kg 偶尔兼职公狗 可线上线下 优先回复私信备注地区长度 拒绝回复小于18cm的男的 小鸡巴的勿扰除了@zhu6hua\n不定时视奸",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891118827171360768/JgsYPNw__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880325371280912386/1744788198",
-    "followers_count": 183,
-    "friends_count": 346,
-    "statuses_count": 1363,
-    "favourites_count": 51242,
+    "followers_count": 193,
+    "friends_count": 361,
+    "statuses_count": 1412,
+    "favourites_count": 52760,
     "listed_count": 2,
+    "location": "",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -19,17 +19,25 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2025-01-18 02:44:47 +08:00",
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/genya1976",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODgwMzI1MzcxMjgwOTEyMzg2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1891118827171360768/JgsYPNw__normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jan 17 18:44:47 +0000 2025",
+            "name": "茳菁",
+            "screen_name": "genya1976"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -38,26 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 346,
+            "friends_count": 361,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 72,
-            "pinned_tweet_ids_str": [
-                "1898969059267613034"
-            ],
+            "media_count": 70,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1737139487000,
-            "updated_at": 1746176982521
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

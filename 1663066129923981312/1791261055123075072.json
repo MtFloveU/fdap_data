@@ -1,16 +1,16 @@
 {
     "id": "1791261055123075072",
     "screen_name": "errors_8964",
-    "name": "Ella🍇🍥",
-    "description": "06｜173 45｜无证含🍬since25.3.11｜内向社恐(点赞代表已读哦 不敢主动找推友聊qwq)｜不善言辞｜缺爱自卑敏感｜中抑轻焦｜容易控制不住情绪对不起...｜妈妈@nanami_mua 姐姐@nes_tea3939 @DAmnesia8964",
-    "location": "垃圾桶",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1918506003169198084/srqZJlBT_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791261055123075072/1746242756",
-    "followers_count": 942,
-    "friends_count": 666,
-    "statuses_count": 1115,
-    "favourites_count": 17700,
+    "name": "小葡萄🍇🍥",
+    "description": "宝宝@changmengxk",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930897196356186112/EArhYSCw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791261055123075072/1747318689",
+    "followers_count": 920,
+    "friends_count": 674,
+    "statuses_count": 1152,
+    "favourites_count": 18519,
     "listed_count": 3,
+    "location": "垃圾桶",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-05-17 08:15:07 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/errors_8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzkxMjYxMDU1MTIzMDc1MDcy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930897196356186112/EArhYSCw_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri May 17 00:15:07 +0000 2024",
+            "name": "小葡萄🍇🍥",
+            "screen_name": "errors_8964"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 666,
+            "friends_count": 674,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 32,
+            "media_count": 34,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "垃圾桶"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1715904907000,
-            "updated_at": 1746277411128
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

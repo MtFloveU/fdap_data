@@ -2,30 +2,42 @@
     "id": "1717717662485327873",
     "screen_name": "yanyan2567",
     "name": "白·鸦鸦",
-    "description": "06的自闭人，是个xp奇怪的人。\n是男娘（目前是），没礼貌的人活该被杀\n咱的唯一@1812_z\n咱的好妹妹@xiximtf_ @SasKuraMiku\n永远的好闺蜜@MeviuslX_Xl\n女儿@xielingxi123\n精神状态疯疯癫癫（容易拐走）\n绳图专用号：@eikst2567",
-    "location": "芥川",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1851993082998460419/dINIiQW4_normal.jpg",
+    "description": "06男娘，会点捆绑，可以找我约玩\n最喜欢的动漫人物是索菲酱~\n\n对我来说重要的人:@1812_z @MeviuslX_Xl @LoRaZePaM0128  @SasKuraMiku @xielingxi123\n\n想看绳图与约绳点这里→@eikst2567",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1922151215648911360/v7fvXsV5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717717662485327873/1735475213",
-    "followers_count": 4389,
-    "statuses_count": 2798,
-    "favourites_count": 7219,
+    "followers_count": 4391,
+    "friends_count": 768,
+    "statuses_count": 2116,
+    "favourites_count": 7365,
     "listed_count": 13,
+    "location": "泉州",
+    "website": "https://t.co/VtivjUsYZn",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-10-27 09:39:54 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/yanyan2567",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzE3NzE3NjYyNDg1MzI3ODcz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1922151215648911360/v7fvXsV5_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Oct 27 01:39:54 +0000 2023",
+            "name": "白·鸦鸦",
+            "screen_name": "yanyan2567"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "t.me/yanyan25666",
-                            "expanded_url": "https://t.me/yanyan25666",
-                            "url": "https://t.co/Cwda5d7tf4",
+                            "display_url": "t.me/baiyaya2567",
+                            "expanded_url": "https://t.me/baiyaya2567",
+                            "url": "https://t.co/VtivjUsYZn",
                             "indices": [
                                 0,
                                 23
@@ -47,25 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 718,
+            "friends_count": 768,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 133,
+            "media_count": 3,
             "pinned_tweet_ids_str": [
-                "1873318174072127902"
+                "1926933868386414870"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/Cwda5d7tf4",
-            "verified": false,
+            "url": "https://t.co/VtivjUsYZn",
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "tipjar_settings": {},
+        "location": {
+            "location": "泉州"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1698370794000,
-            "updated_at": 1744350106481
+            "created_at": 946656000000,
+            "updated_at": 1749219075207
         }
     }
 }

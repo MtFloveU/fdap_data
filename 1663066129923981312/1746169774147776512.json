@@ -1,17 +1,17 @@
 {
     "id": "1746169774147776512",
     "screen_name": "A1sakuMenh3ra",
-    "name": "🩵出女大自用99新9800x3d SGD 650 RMB 3599 MYR 2130可小小刀🌘",
+    "name": "🩵魅魔女孩营养不良🌘",
     "description": "Fake it till make it",
-    "location": "Selangor ",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917261661628686336/jfIkQJxb_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930035511198146560/kLGuWTLq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746169774147776512/1729489049",
-    "followers_count": 663,
-    "friends_count": 854,
-    "statuses_count": 38534,
-    "favourites_count": 54150,
+    "followers_count": 657,
+    "friends_count": 859,
+    "statuses_count": 39769,
+    "favourites_count": 56790,
     "listed_count": 2,
-    "website": "https://t.co/MYzhwjB35L",
+    "location": "",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,59 +19,68 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2024-01-13 21:58:25 +08:00",
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/A1sakuMenh3ra",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzQ2MTY5Nzc0MTQ3Nzc2NTEy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930035511198146560/kLGuWTLq_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jan 13 13:58:25 +0000 2024",
+            "name": "🩵魅魔女孩营养不良🌘",
+            "screen_name": "A1sakuMenh3ra"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/ProjectA1saku",
-                            "expanded_url": "https://t.me/ProjectA1saku",
-                            "url": "https://t.co/MYzhwjB35L",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 854,
+            "friends_count": 859,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1619,
+            "media_count": 1518,
             "pinned_tweet_ids_str": [
-                "1917986436743303595"
+                "1930586107181457679"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/MYzhwjB35L",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1705154305000,
-            "updated_at": 1746176990779
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

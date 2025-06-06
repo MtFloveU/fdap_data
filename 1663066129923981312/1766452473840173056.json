@@ -2,28 +2,42 @@
     "id": "1766452473840173056",
     "screen_name": "mikotossd0106",
     "name": "御坂鱼板",
-    "description": "｜叫我mikoto就好｜性格阴暗的死宅一个｜成分及其复杂｜初三国际部在读｜大概率是全推特唯一一个用水月雨miad01当主力机的人｜推止于推｜萝莉控｜社团@Erjinzhi_Square",
-    "location": "成都",
+    "description": "常驻成都｜叫我mikoto就好｜性格阴暗的死宅一个｜成分及其复杂｜初三国际部在读｜推特水月雨粉丝头子｜推止于推｜萝莉控｜八六｜阿航@Inaba_Tsumugi｜社团@Erjinzhi_Square",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879226218350075904/jFCN5grB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766452473840173056/1741954993",
-    "followers_count": 668,
-    "statuses_count": 3178,
-    "favourites_count": 36564,
-    "listed_count": 4,
+    "followers_count": 724,
+    "friends_count": 906,
+    "statuses_count": 3759,
+    "favourites_count": 47365,
+    "listed_count": 0,
+    "location": "成都",
+    "website": "https://t.co/8nrYDOo2IB",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-03-09 21:14:37 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/mikotossd0106",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY2NDUyNDczODQwMTczMDU2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1879226218350075904/jFCN5grB_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Mar 09 13:14:37 +0000 2024",
+            "name": "御坂鱼板",
+            "screen_name": "mikotossd0106"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,7 +49,7 @@
                         {
                             "display_url": "mikotossd.top",
                             "expanded_url": "http://www.mikotossd.top",
-                            "url": "https://t.co/ONd86sCN43",
+                            "url": "https://t.co/8nrYDOo2IB",
                             "indices": [
                                 0,
                                 23
@@ -45,29 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 828,
+            "friends_count": 906,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 551,
+            "media_count": 686,
             "pinned_tweet_ids_str": [
-                "1905763931874046275"
+                "1927728017318576147"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/ONd86sCN43",
-            "verified": false,
+            "url": "https://t.co/8nrYDOo2IB",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "成都"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1709990077000,
-            "updated_at": 1746077170591
+            "created_at": 946656000000,
+            "updated_at": 1749219059243
         }
     }
 }

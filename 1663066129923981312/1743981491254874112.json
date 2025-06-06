@@ -2,30 +2,42 @@
     "id": "1743981491254874112",
     "screen_name": "tonyhaozhe",
     "name": "tony YS",
-    "description": "09/ENTP | 业余无线电爱好者 | 电台呼号 BI9CBS | 高考科目物化地 | 不键政 | 不支持也不反对 LGBT | 不是 Mtf | 喜欢鉴证的选物化政的同学暨技术宅@svaghglm | 好朋友暨同学@ypeilng",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898054286455848968/lFOnOufV_normal.jpg",
+    "description": "09/ENTP | 业余无线电爱好者 | 电台呼号 BI9CBS | 高考科目物化地 |",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1911376184887091201/6TBLv-dH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743981491254874112/1713070104",
-    "followers_count": 216,
-    "statuses_count": 187,
-    "favourites_count": 2368,
+    "followers_count": 181,
+    "friends_count": 410,
+    "statuses_count": 244,
+    "favourites_count": 3831,
     "listed_count": 0,
+    "location": "",
+    "website": "https://t.co/5BzqDIgVAI",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-01-07 21:03:03 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/tonyhaozhe",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzQzOTgxNDkxMjU0ODc0MTEy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911376184887091201/6TBLv-dH_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jan 07 13:03:03 +0000 2024",
+            "name": "tony YS",
+            "screen_name": "tonyhaozhe"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,23 +59,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 371,
+            "friends_count": 410,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 8,
+            "media_count": 15,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/5BzqDIgVAI",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1704632583000,
-            "updated_at": 1744350009041
+            "created_at": 946656000000,
+            "updated_at": 1749219025756
         }
     }
 }

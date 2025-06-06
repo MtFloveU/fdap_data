@@ -1,29 +1,43 @@
 {
     "id": "1845491203124441093",
     "screen_name": "yu_huacs",
-    "name": "✿余华8964成霜❀",
-    "description": "逝去的前一刻是美丽的，是神圣的，不可超越的最美的一刻，出生真的即是死亡吗，有乐趣在世，在活着，在感受自己的生命力，太美了，凋谢的一刻仅仅只有一次，何事没有第一次，那他这件事后面肯定可以重复，凋零的美无法替代\n\n@yuhuacs5570 是他     \n我最喜欢的姐姐@mayumi1625658",
-    "location": "shanghai",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1909791048425222144/iZCwAN2K_normal.jpg",
+    "name": "余華成霜",
+    "description": "♂余华 单车佬 宅 双 抽象 我的世界 Allez sprint tfsa jhf06 \nOCR5500 Lain od 双相 精神max 公路车 二次元 09 原产于shanghai 叠加状态 \n第二人格 @yuhuacs5570",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1922978167616143360/O6HKnIve_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845491203124441093/1740625782",
-    "followers_count": 757,
-    "statuses_count": 10969,
-    "favourites_count": 63595,
-    "listed_count": 9,
+    "followers_count": 859,
+    "friends_count": 969,
+    "statuses_count": 12248,
+    "favourites_count": 71457,
+    "listed_count": 10,
+    "location": "shanghai",
+    "website": "https://t.co/fGARwmdWCT",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-10-13 23:46:25 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/yu_huacs",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQ1NDkxMjAzMTI0NDQxMDkz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1922978167616143360/O6HKnIve_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Oct 13 15:46:25 +0000 2024",
+            "name": "余華成霜",
+            "screen_name": "yu_huacs"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,27 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 884,
+            "friends_count": 969,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1337,
+            "media_count": 1459,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/fGARwmdWCT",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "shanghai"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1728834385000,
-            "updated_at": 1746077173226
+            "created_at": 946656000000,
+            "updated_at": 1749219061680
         }
     }
 }

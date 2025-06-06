@@ -2,30 +2,42 @@
     "id": "1568990514732490756",
     "screen_name": "IronDick2333",
     "name": "Id_23",
-    "description": "2006｜本科在读｜常驻澳门、广东｜日常推｜友好｜@id19890604",
-    "location": "Macau🇲🇴",
+    "description": "2006｜本科在读｜常驻澳门、广东｜日常推｜友好｜@id19890604｜",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1837465154881310722/E2-bHsZg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568990514732490756/1675164458",
-    "followers_count": 775,
-    "statuses_count": 1545,
-    "favourites_count": 139346,
+    "followers_count": 792,
+    "friends_count": 4887,
+    "statuses_count": 1846,
+    "favourites_count": 161489,
     "listed_count": 1,
+    "location": "武汉",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-09-11 23:51:17 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/IronDick2333",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTY4OTkwNTE0NzMyNDkwNzU2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1837465154881310722/E2-bHsZg_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Sep 11 15:51:17 +0000 2022",
+            "name": "Id_23",
+            "screen_name": "IronDick2333"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4860,
+            "friends_count": 4887,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 299,
+            "media_count": 390,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "武汉"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1662911477000,
-            "updated_at": 1744350033597
+            "created_at": 946656000000,
+            "updated_at": 1749219037508
         }
     }
 }

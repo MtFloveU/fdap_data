@@ -2,28 +2,42 @@
     "id": "1196633399999389696",
     "screen_name": "cai233QAQ",
     "name": "雾雨菜菜✨",
-    "description": "✨男娘✨小红书/b站同名✨喜欢美少女和小麦果汁✨和@TKNS_kanatsu是柏拉图恋爱，不接推广",
-    "location": "東京 渋谷区",
+    "description": "小麦果汁爱好者 | 男的 | 里百合💕@TKNS_kanatsu",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1899433639277932544/-XYOkas5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196633399999389696/1722792727",
-    "followers_count": 46676,
-    "statuses_count": 4080,
-    "favourites_count": 12185,
+    "followers_count": 46936,
+    "friends_count": 1643,
+    "statuses_count": 4102,
+    "favourites_count": 12296,
     "listed_count": 183,
+    "location": "東京 渋谷区",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
-    "created_at": "2019-11-19 11:36:57 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/cai233QAQ",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTk2NjMzMzk5OTk5Mzg5Njk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1899433639277932544/-XYOkas5_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Nov 19 03:36:57 +0000 2019",
+            "name": "雾雨菜菜✨",
+            "screen_name": "cai233QAQ"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,28 +46,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1630,
+            "friends_count": 1643,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 276,
+            "media_count": 266,
             "pinned_tweet_ids_str": [
                 "1819596960892178485"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "東京 渋谷区"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1574134617000,
-            "updated_at": 1746077192669
+            "created_at": 946656000000,
+            "updated_at": 1749219078458
         }
     }
 }

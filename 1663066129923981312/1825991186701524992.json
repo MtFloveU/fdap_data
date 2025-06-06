@@ -1,29 +1,43 @@
 {
     "id": "1825991186701524992",
     "screen_name": "Young2568",
-    "name": "高價回收二手習近平🦄",
+    "name": "AAA中央政治局常委批發🚌",
     "description": "「我就知道！什麼他爹的公司殖民主義，狗屁，你就是為了你那個果兒！」",
-    "location": "月球上的小小愛之孤島",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1905919207617056768/I6CSeWzt_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825991186701524992/1743711232",
-    "followers_count": 463,
-    "statuses_count": 7745,
-    "favourites_count": 21140,
+    "followers_count": 498,
+    "friends_count": 307,
+    "statuses_count": 9273,
+    "favourites_count": 24487,
     "listed_count": 5,
+    "location": "月球上的小小愛之孤島",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-08-21 04:20:06 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Young2568",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI1OTkxMTg2NzAxNTI0OTky",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1905919207617056768/I6CSeWzt_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Aug 20 20:20:06 +0000 2024",
+            "name": "AAA中央政治局常委批發🚌",
+            "screen_name": "Young2568"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 296,
+            "friends_count": 307,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 612,
+            "media_count": 752,
             "pinned_tweet_ids_str": [
                 "1893520953419932147"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "月球上的小小愛之孤島"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1724185206000,
-            "updated_at": 1746080537329
+            "created_at": 946656000000,
+            "updated_at": 1749219039837
         }
     }
 }

@@ -2,31 +2,42 @@
     "id": "1756382484714102784",
     "screen_name": "Crazy_Juziilk",
     "name": "橘子。",
-    "description": "我知这世界本如露水般短暂。然而，然而。/姐姐：@ringochichidim",
-    "location": "Kyoto-shi Nakagyo, Kyoto",
+    "description": "我知这世界本如露水般短暂。然而，然而。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1786006843468468224/iaOCcpYp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756382484714102784/1707836021",
-    "followers_count": 561,
-    "statuses_count": 1455,
-    "favourites_count": 5913,
+    "followers_count": 554,
+    "friends_count": 417,
+    "statuses_count": 1452,
+    "favourites_count": 5852,
     "listed_count": 0,
+    "location": "Kyoto-shi Nakagyo, Kyoto",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-02-11 02:20:00 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Crazy_Juziilk",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzU2MzgyNDg0NzE0MTAyNzg0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1786006843468468224/iaOCcpYp_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Feb 10 18:20:00 +0000 2024",
+            "name": "橘子。",
+            "screen_name": "Crazy_Juziilk"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -43,14 +54,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Kyoto-shi Nakagyo, Kyoto"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1707589200000,
-            "updated_at": 1744350112277
+            "created_at": 946656000000,
+            "updated_at": 1749219078458
         }
     }
 }

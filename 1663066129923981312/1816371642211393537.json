@@ -1,29 +1,43 @@
 {
     "id": "1816371642211393537",
-    "screen_name": "huoqinge114514",
+    "screen_name": "huoqinge8963",
     "name": "霍青娥（🐱←重度依赖）",
-    "description": "查成分互fo极端仇富🚪1145148963 疯子/尸体/穷蛆/反人类  里推@huoqinge_nn    狗奴隶妈妈爱人玩具@silverbird18841",
-    "location": "",
+    "description": "查成分互fo极端仇富🚪1145148963入门条件是你全家四万了 疯子/尸体/穷蛆/反人类  里推@huoqinge_nn    狗奴隶妈妈爱人玩具@silverbird18841",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1816372320845586434/2hGEv4gu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816371642211393537/1732246293",
-    "followers_count": 1656,
-    "statuses_count": 8110,
-    "favourites_count": 15420,
-    "listed_count": 6,
+    "followers_count": 1744,
+    "friends_count": 152,
+    "statuses_count": 9020,
+    "favourites_count": 16505,
+    "listed_count": 7,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-07-25 15:15:52 +08:00",
-    "url": "https://twitter.com/huoqinge114514",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/huoqinge8963",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODE2MzcxNjQyMjExMzkzNTM3",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1816372320845586434/2hGEv4gu_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jul 25 07:15:52 +0000 2024",
+            "name": "霍青娥（🐱←重度依赖）",
+            "screen_name": "huoqinge8963"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 154,
+            "friends_count": 152,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 432,
+            "media_count": 465,
             "pinned_tweet_ids_str": [
-                "1907415676383277455"
+                "1920693075325657241"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1721891752000,
-            "updated_at": 1746077184814
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

@@ -1,30 +1,43 @@
 {
     "id": "1660606032199163905",
     "screen_name": "appleorfaith",
-    "name": "雪糕Official",
-    "description": "🐱匿名\n/淡推ing\n/当我是ai就行😢",
-    "location": "幻想乡404号",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1914729663899033610/J8xQTxyD_normal.jpg",
+    "name": "雪糕bot",
+    "description": "淡推ing",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1924508311812218880/SkA-sL-B_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660606032199163905/1725105991",
-    "followers_count": 350,
-    "statuses_count": 273,
-    "favourites_count": 2371,
+    "followers_count": 344,
+    "friends_count": 342,
+    "statuses_count": 291,
+    "favourites_count": 2657,
     "listed_count": 0,
+    "location": "幻想乡404号",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-05-22 19:18:41 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/appleorfaith",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjYwNjA2MDMyMTk5MTYzOTA1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1924508311812218880/SkA-sL-B_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon May 22 11:18:41 +0000 2023",
+            "name": "雪糕bot",
+            "screen_name": "appleorfaith"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 341,
+            "friends_count": 342,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 0,
@@ -41,18 +54,33 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "幻想乡404号"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1684754321000,
-            "updated_at": 1746077183634
+            "created_at": 946656000000,
+            "updated_at": 1749219069841
         }
     }
 }

@@ -2,28 +2,42 @@
     "id": "1753596776253165568",
     "screen_name": "Radio_Portales",
     "name": "为君扶病上高台",
-    "description": "Chinese student/ #Nafo \n左下民社/1941季春の俾斯麦\n吉他手/乐队构思ing/水色系重度依赖\nMy pleasure🥳 @Roblox_1212",
-    "location": "China",
+    "description": "Chinese student/ #Nafo \n左下民社/1941季春の俾斯麦\n此人精神疑似不正常/建议b\n吉他手/乐队构思ing/水色系重度依赖\n对象是中推之前的“镌刻晴川万代”🥰\n反革命伴侣 😇@Kiamsi_\nMy pleasure🥳 @Roblox_1212",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1905134795690258432/fdYYX3g0_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753596776253165568/1737269724",
-    "followers_count": 1522,
-    "statuses_count": 2216,
-    "favourites_count": 3888,
-    "listed_count": 3,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753596776253165568/1747846081",
+    "followers_count": 2910,
+    "friends_count": 1260,
+    "statuses_count": 2723,
+    "favourites_count": 4535,
+    "listed_count": 4,
+    "location": "China",
+    "website": "https://t.co/cxDtfXnOk4",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-02-03 09:50:36 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Radio_Portales",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzUzNTk2Nzc2MjUzMTY1NTY4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1905134795690258432/fdYYX3g0_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Feb 03 01:50:36 +0000 2024",
+            "name": "为君扶病上高台",
+            "screen_name": "Radio_Portales"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1024,
+            "friends_count": 1260,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 181,
+            "media_count": 233,
             "pinned_tweet_ids_str": [
                 "1912389650242818092"
             ],
@@ -56,16 +70,31 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/cxDtfXnOk4",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "China"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1706925036000,
-            "updated_at": 1746077171590
+            "created_at": 946656000000,
+            "updated_at": 1749219061680
         }
     }
 }

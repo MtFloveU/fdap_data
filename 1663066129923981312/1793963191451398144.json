@@ -1,31 +1,43 @@
 {
     "id": "1793963191451398144",
     "screen_name": "mlio8964",
-    "name": "沫子 白茶🚾🧊",
+    "name": "are you lost?",
     "description": "off",
-    "location": "包子神社",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1909094155969810433/Y6JquoCw_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1918785220725428224/l-Qrj_Th_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793963191451398144/1737435865",
-    "followers_count": 625,
-    "statuses_count": 4491,
-    "favourites_count": 40445,
+    "followers_count": 623,
+    "friends_count": 720,
+    "statuses_count": 4548,
+    "favourites_count": 41127,
     "listed_count": 2,
+    "location": "包子神社",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-05-24 19:12:45 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/mlio8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzkzOTYzMTkxNDUxMzk4MTQ0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1918785220725428224/l-Qrj_Th_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri May 24 11:12:45 +0000 2024",
+            "name": "are you lost?",
+            "screen_name": "mlio8964"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 724,
+            "friends_count": 720,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 509,
+            "media_count": 517,
             "pinned_tweet_ids_str": [
                 "1893859669497536933"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "包子神社"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1716549165000,
-            "updated_at": 1744350049695
+            "created_at": 946656000000,
+            "updated_at": 1749219044314
         }
     }
 }

@@ -2,41 +2,64 @@
     "id": "1789350691951312896",
     "screen_name": "DrDaniel1097",
     "name": "Dr Daniel",
-    "description": "Time is fly,I want time slow down that I can enjoy my life.",
-    "location": "",
+    "description": "Time is fly,I want time slow down that I can enjoy my life. https://t.co/VieTr3kXu3",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906352989763506176/KFLGcMG5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789350691951312896/1715450122",
-    "followers_count": 1487,
-    "statuses_count": 1413,
-    "favourites_count": 10850,
+    "followers_count": 1495,
+    "friends_count": 826,
+    "statuses_count": 1534,
+    "favourites_count": 12315,
     "listed_count": 3,
+    "location": "",
+    "website": "https://t.co/GMJ13ovzi4",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-05-12 01:43:57 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/DrDaniel1097",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzg5MzUwNjkxOTUxMzEyODk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1906352989763506176/KFLGcMG5_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat May 11 17:43:57 +0000 2024",
+            "name": "Dr Daniel",
+            "screen_name": "DrDaniel1097"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/buh24823",
+                            "expanded_url": "https://ngl.link/buh24823",
+                            "url": "https://t.co/VieTr3kXu3",
+                            "indices": [
+                                60,
+                                83
+                            ]
+                        }
+                    ]
                 },
                 "url": {
                     "urls": [
                         {
                             "display_url": "t.me/+CcdwiizIQCVhO…",
                             "expanded_url": "https://t.me/+CcdwiizIQCVhOTVl",
-                            "url": "https://t.co/I4A3VVfuYt",
+                            "url": "https://t.co/GMJ13ovzi4",
                             "indices": [
                                 0,
                                 23
@@ -46,27 +69,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 740,
+            "friends_count": 826,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 175,
+            "media_count": 195,
             "pinned_tweet_ids_str": [
                 "1910367167876677772"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/I4A3VVfuYt",
-            "verified": false,
+            "url": "https://t.co/GMJ13ovzi4",
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1715449437000,
-            "updated_at": 1746080521888
+            "created_at": 946656000000,
+            "updated_at": 1749219025756
         }
     }
 }

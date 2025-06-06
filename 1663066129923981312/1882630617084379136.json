@@ -1,32 +1,43 @@
 {
     "id": "1882630617084379136",
     "screen_name": "XiMaoMao630244",
-    "name": "私は愛してる喜貓貓（想要讨要fo）",
-    "description": "一代目@y6302448844989，情绪状态随机。",
-    "location": "",
+    "name": "小翌同学（二代目）🎉🎊✨",
+    "description": "一代目@y6302448844989，情绪状态随机。(暂时离线)",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895743063693094912/o-eQp_Vp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882630617084379136/1737689472",
     "followers_count": 386,
-    "statuses_count": 644,
-    "favourites_count": 1799,
+    "friends_count": 866,
+    "statuses_count": 663,
+    "favourites_count": 1807,
     "listed_count": 1,
+    "location": "",
+    "website": "https://t.co/usijwP8MoT",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2025-01-24 11:25:06 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/XiMaoMao630244",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODgyNjMwNjE3MDg0Mzc5MTM2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1895743063693094912/o-eQp_Vp_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jan 24 03:25:06 +0000 2025",
+            "name": "小翌同学（二代目）🎉🎊✨",
+            "screen_name": "XiMaoMao630244"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -48,7 +59,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 869,
+            "friends_count": 866,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 47,
@@ -59,10 +70,17 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/usijwP8MoT",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1895744432559063104",
             "professional_type": "Business",
@@ -74,12 +92,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1737689106000,
-            "updated_at": 1744350076463
+            "created_at": 946656000000,
+            "updated_at": 1749219060359
         }
     }
 }

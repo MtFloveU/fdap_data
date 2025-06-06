@@ -1,29 +1,43 @@
 {
     "id": "1741623197546807296",
     "screen_name": "xinmengQAQ",
-    "name": "下北泽の大天使！✨☀️🎸",
-    "description": "ENFJ-A，只是一个普通的音乐爱好者啦～性格比较像虹夏，现在正在学习电吉他🎸～互fo和扩列请私信～/🥥@xiaoxiaoyezi_ /萱雨酱@Cryblacktea   /星海酱@Frieastarsea\n/匿名箱↓",
-    "location": "距离你1km",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1894046709128556544/8r74L23d_normal.jpg",
+    "name": "薪梦丶✨☀️🎸",
+    "description": "ENFJ-A，只是一个普通的音乐爱好者啦～性格比较像虹夏，现在正在学习电吉他🎸～互fo和扩列请私信～\n/匿名箱↓",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930269691106463745/u8UXl0J1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741623197546807296/1726064205",
-    "followers_count": 1641,
-    "statuses_count": 3728,
-    "favourites_count": 3444,
+    "followers_count": 1662,
+    "friends_count": 3076,
+    "statuses_count": 3837,
+    "favourites_count": 3506,
     "listed_count": 1,
+    "location": "個性捨てたら死んでるのと一緒だよ",
+    "website": "https://t.co/GbMDFl22iM",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-01-01 08:51:54 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/xinmengQAQ",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzQxNjIzMTk3NTQ2ODA3Mjk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930269691106463745/u8UXl0J1_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Jan 01 00:51:54 +0000 2024",
+            "name": "薪梦丶✨☀️🎸",
+            "screen_name": "xinmengQAQ"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2984,
+            "friends_count": 3076,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1304,
+            "media_count": 1338,
             "pinned_tweet_ids_str": [
                 "1910346379068940336"
             ],
@@ -56,16 +70,31 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/GbMDFl22iM",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "個性捨てたら死んでるのと一緒だよ"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1704070314000,
-            "updated_at": 1746077176790
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

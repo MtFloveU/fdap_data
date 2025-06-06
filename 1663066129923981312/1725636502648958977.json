@@ -2,15 +2,15 @@
     "id": "1725636502648958977",
     "screen_name": "AGXiaoLi",
     "name": "晓漓",
-    "description": "哀莫大于心死，悲莫过于无声",
-    "location": "距离您520亿光年",
+    "description": "糖系法师养成中，文艺且沙雕69/会回fo，没有回的可以私信我，看到会马上回",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872546884050653184/vRlUxIkP_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725636502648958977/1731726015",
-    "followers_count": 407,
-    "friends_count": 455,
-    "statuses_count": 644,
-    "favourites_count": 1506,
+    "followers_count": 438,
+    "friends_count": 411,
+    "statuses_count": 684,
+    "favourites_count": 1532,
     "listed_count": 2,
+    "location": "距离您520亿光年",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2023-11-18 06:06:38 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/AGXiaoLi",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzI1NjM2NTAyNjQ4OTU4OTc3",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1872546884050653184/vRlUxIkP_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Nov 17 22:06:38 +0000 2023",
+            "name": "晓漓",
+            "screen_name": "AGXiaoLi"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 455,
+            "friends_count": 411,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 72,
+            "media_count": 74,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "距离您520亿光年"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1700258798000,
-            "updated_at": 1746277402138
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

@@ -2,33 +2,42 @@
     "id": "1741993395910811648",
     "screen_name": "AnIncandescence",
     "name": "炽烈已极",
-    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
-    "location": "夜航忒修斯",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | ⚠️目前没有售卖的商品",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741993395910811648/1720619087",
-    "followers_count": 888,
-    "friends_count": 186,
-    "statuses_count": 2634,
-    "favourites_count": 7265,
-    "listed_count": 2,
-    "website": "https://t.co/MuEKSg4tIS",
+    "followers_count": 975,
+    "friends_count": 191,
+    "statuses_count": 2901,
+    "favourites_count": 8204,
+    "listed_count": 1,
+    "location": "天鹅座X-1",
+    "website": "https://t.co/MuEKSg3VTk",
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-01-02 09:22:57 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/AnIncandescence",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzQxOTkzMzk1OTEwODExNjQ4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jan 02 01:22:57 +0000 2024",
+            "name": "炽烈已极",
+            "screen_name": "AnIncandescence"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -40,7 +49,7 @@
                         {
                             "display_url": "ngl.link/anincandescence",
                             "expanded_url": "https://ngl.link/anincandescence",
-                            "url": "https://t.co/MuEKSg4tIS",
+                            "url": "https://t.co/MuEKSg3VTk",
                             "indices": [
                                 0,
                                 23
@@ -50,29 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 186,
+            "friends_count": 191,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 531,
-            "pinned_tweet_ids_str": [
-                "1917636544921493819"
-            ],
+            "media_count": 596,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/MuEKSg4tIS",
-            "verified": false,
+            "url": "https://t.co/MuEKSg3VTk",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "天鹅座X-1"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1704158577000,
-            "updated_at": 1746176989813
+            "created_at": 946656000000,
+            "updated_at": 1749219069841
         }
     }
 }

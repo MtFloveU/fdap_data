@@ -2,28 +2,42 @@
     "id": "1814263478699626496",
     "screen_name": "PomeloSoda_OvO",
     "name": "柚子气泡水🍒",
-    "description": "もっと可愛くなりたいな～✨|🚪128r(口令红包)＝好友位/电报群(会分享日常和cos🍰)，有原味出售哦🍦| 被夸可爱会很开心♡谢谢大家的喜欢喵～",
-    "location": "随机刷新",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1916290898268463104/_sNgsB6A_normal.jpg",
+    "description": "もっと可愛くなりたいな～✨|🚪128r＝好友位和电报福利小群🍰 ，喜欢的可以投喂主播哦🍦| 被夸可爱会很开心🍧，谢谢大家的喜欢喵❤️",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1922695378710953985/GJU9Cfwk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814263478699626496/1737014071",
-    "followers_count": 45766,
-    "statuses_count": 301,
-    "favourites_count": 1659,
-    "listed_count": 109,
+    "followers_count": 51333,
+    "friends_count": 129,
+    "statuses_count": 475,
+    "favourites_count": 1974,
+    "listed_count": 120,
+    "location": "在睡觉喵💤",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-07-19 19:38:39 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/PomeloSoda_OvO",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODE0MjYzNDc4Njk5NjI2NDk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1922695378710953985/GJU9Cfwk_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jul 19 11:38:39 +0000 2024",
+            "name": "柚子气泡水🍒",
+            "screen_name": "PomeloSoda_OvO"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 121,
+            "friends_count": 129,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 20,
-            "pinned_tweet_ids_str": [],
+            "media_count": 33,
+            "pinned_tweet_ids_str": [
+                "1926868841839124905"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "在睡觉喵💤"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1721389119000,
-            "updated_at": 1746077187245
+            "created_at": 946656000000,
+            "updated_at": 1749219074028
         }
     }
 }

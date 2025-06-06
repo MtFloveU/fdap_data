@@ -1,30 +1,43 @@
 {
     "id": "1751235517860196352",
     "screen_name": "Cynun75x",
-    "name": "Cynun",
-    "description": "Cynun | 碎碎念 | 计算机用户 | 鱼网的鱼 | @cynun:https://t.co/vrxQZPRD30",
-    "location": "鱼网",
+    "name": "Cynun🏳️‍⚧️",
+    "description": "Cynun | 碎碎念 | 计算机用户 | 鱼网的鱼 | @cynun:https://t.co/HkIt3gWsqs",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889986897759686656/qS6XIa1v_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751235517860196352/1715384753",
-    "followers_count": 722,
-    "statuses_count": 4468,
-    "favourites_count": 19856,
-    "listed_count": 6,
+    "followers_count": 731,
+    "friends_count": 839,
+    "statuses_count": 5443,
+    "favourites_count": 21860,
+    "listed_count": 7,
+    "location": "鱼网",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-01-27 21:27:55 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Cynun75x",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzUxMjM1NTE3ODYwMTk2MzUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1889986897759686656/qS6XIa1v_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jan 27 13:27:55 +0000 2024",
+            "name": "Cynun🏳️‍⚧️",
+            "screen_name": "Cynun75x"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,7 +46,7 @@
                         {
                             "display_url": "matrix.org",
                             "expanded_url": "http://matrix.org",
-                            "url": "https://t.co/vrxQZPRD30",
+                            "url": "https://t.co/HkIt3gWsqs",
                             "indices": [
                                 36,
                                 59
@@ -43,24 +56,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 786,
+            "friends_count": 839,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 402,
-            "pinned_tweet_ids_str": [],
+            "media_count": 518,
+            "pinned_tweet_ids_str": [
+                "1929723611323289917"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "鱼网"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1706362075000,
-            "updated_at": 1746077179548
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

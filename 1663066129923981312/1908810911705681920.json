@@ -1,0 +1,86 @@
+{
+    "id": "1908810911705681920",
+    "screen_name": "D1o2ng",
+    "name": "Dong",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1908811082564841474/Tq8TMTCq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908810911705681920/1746945892",
+    "followers_count": 47,
+    "friends_count": 87,
+    "statuses_count": 68,
+    "favourites_count": 65,
+    "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/D1o2ng",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxOTA4ODEwOTExNzA1NjgxOTIw",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1908811082564841474/Tq8TMTCq_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Apr 06 09:16:10 +0000 2025",
+            "name": "Dong",
+            "screen_name": "D1o2ng"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 87,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 9,
+            "pinned_tweet_ids_str": [
+                "1930938006019711055"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
+        }
+    }
+}

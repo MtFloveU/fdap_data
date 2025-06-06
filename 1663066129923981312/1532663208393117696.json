@@ -1,34 +1,43 @@
 {
     "id": "1532663208393117696",
     "screen_name": "Ziverk2",
-    "name": "Einaちゃん🍥🐱",
-    "description": "一只没有成年的成年猫猫w\n|像MTF的MTX🏳️‍⚧️🍥 SINCE 2024.11\n| 极度社恐\n| 偶尔血图\n|小群 1020709329\n| Lost a very good friend.\n| Office @mtitstudio",
-    "location": "",
+    "name": "Einaちゃん🏳️‍⚧️🍥",
+    "description": "一只没有成年的成年猫猫w\n|像MTF的MTX🏳️‍⚧️🍥 SINCE 2024.11\n| 极度社恐\n| 偶尔血图\n|小群 1020709329\n| Office @mtitstudio\n| ♥️ @lm9325435076267",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1532663208393117696/1738295119",
-    "followers_count": 2214,
-    "friends_count": 4672,
-    "statuses_count": 10127,
-    "favourites_count": 138229,
-    "listed_count": 9,
-    "website": "https://t.co/AFyZbAfS0k",
+    "followers_count": 2489,
+    "friends_count": 5026,
+    "statuses_count": 11958,
+    "favourites_count": 149871,
+    "listed_count": 10,
+    "location": "",
+    "website": "https://t.co/AFyZbAfkaM",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2022-06-03 17:59:29 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Ziverk2",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTMyNjYzMjA4MzkzMTE3Njk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jun 03 09:59:29 +0000 2022",
+            "name": "Einaちゃん🏳️‍⚧️🍥",
+            "screen_name": "Ziverk2"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -40,7 +49,7 @@
                         {
                             "display_url": "einashome.byethost22.com",
                             "expanded_url": "http://einashome.byethost22.com",
-                            "url": "https://t.co/AFyZbAfS0k",
+                            "url": "https://t.co/AFyZbAfkaM",
                             "indices": [
                                 0,
                                 23
@@ -50,20 +59,25 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4672,
+            "friends_count": 5026,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 111,
+            "media_count": 132,
             "pinned_tweet_ids_str": [
                 "1884407282454482944"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/AFyZbAfS0k",
-            "verified": false,
+            "url": "https://t.co/AFyZbAfkaM",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -78,12 +92,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1654250369000,
-            "updated_at": 1746176985448
+            "created_at": 946656000000,
+            "updated_at": 1749219065464
         }
     }
 }

@@ -2,30 +2,42 @@
     "id": "1858070265152131072",
     "screen_name": "changmengxk",
     "name": "guoke（过客）🍥",
-    "description": "出厂年份：2008/1/无证瞎含糖（含糖时间：25.1.8）/天残党/精神异常（真的吗?）/废物家里蹲啥都不会/身高体重165/57\n                                                 一颗孤单的星星就此滑过，有被独特的你看见吗，有吗有吗！",
-    "location": "不远呢",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1901528707820609536/irp5hzIg_normal.jpg",
+    "description": "出厂年份：2008/1/无证瞎含糖（含糖时间：25.1.8）/天残党/精神异常（真的吗?）/废物家里蹲啥都不会/身高体重165/57\n 一颗孤单的星星就此滑过，有被独特的你看见吗，有吗有吗！\n对象：@ChenJia55491 。喜欢的姐姐：@errors_8964",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1910837659657752576/bB0i-0SL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858070265152131072/1732395383",
-    "followers_count": 40,
-    "statuses_count": 98,
-    "favourites_count": 111,
+    "followers_count": 56,
+    "friends_count": 211,
+    "statuses_count": 123,
+    "favourites_count": 140,
     "listed_count": 0,
+    "location": "不远呢",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-11-17 16:51:14 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/changmengxk",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODU4MDcwMjY1MTUyMTMxMDcy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1910837659657752576/bB0i-0SL_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Nov 17 08:51:14 +0000 2024",
+            "name": "guoke（过客）🍥",
+            "screen_name": "changmengxk"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 197,
+            "friends_count": 211,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 16,
+            "media_count": 22,
             "pinned_tweet_ids_str": [
-                "1877259560605344099"
+                "1922226100417048603"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "不远呢"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1731833474000,
-            "updated_at": 1744350087210
+            "created_at": 946656000000,
+            "updated_at": 1749219065464
         }
     }
 }

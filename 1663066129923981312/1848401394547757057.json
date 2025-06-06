@@ -2,28 +2,42 @@
     "id": "1848401394547757057",
     "screen_name": "QiHaiYingShui7",
     "name": "七海桜水酱🍥🍬🍱🍣🍨🍶",
-    "description": "重生3.0💓😼\n七海樱水🪦\n七海桜水🪦\n06\n社恐聊天哑巴😔\n回fo",
-    "location": "",
+    "description": "重生3.0💓😼|七海樱水🪦|七海桜水🪦|06|我不会聊天😭|回fo|日常推",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1848401799901773824/TX_T9Zcr_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 70,
-    "statuses_count": 191,
-    "favourites_count": 2580,
+    "followers_count": 114,
+    "friends_count": 837,
+    "statuses_count": 235,
+    "favourites_count": 3031,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-10-22 00:30:21 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/QiHaiYingShui7",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQ4NDAxMzk0NTQ3NzU3MDU3",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1848401799901773824/TX_T9Zcr_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Oct 21 16:30:21 +0000 2024",
+            "name": "七海桜水酱🍥🍬🍱🍣🍨🍶",
+            "screen_name": "QiHaiYingShui7"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 678,
+            "friends_count": 837,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 7,
+            "media_count": 10,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1729528221000,
-            "updated_at": 1746080519787
+            "created_at": 946656000000,
+            "updated_at": 1749219023519
         }
     }
 }

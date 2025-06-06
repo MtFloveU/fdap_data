@@ -1,16 +1,16 @@
 {
     "id": "1624705678593134592",
     "screen_name": "Ripperdoc2034",
-    "name": "金流🍥（准备下海",
-    "description": "06mtx 断糖两个月再次hrt 4.27/现居沈阳，预计7月份在上海接线下/过🚪30r加v或QQ解锁价位表和露脸照（真有人能过？）/可爱妹妹@MXF0721（已退网）/感谢你的驻足",
-    "location": "龙脉束气结穴处，藏风聚气所",
+    "name": "金流☯",
+    "description": "06mtx 断续含糖/巨丑 所以放弃下海/定居沈阳，假期在江浙沪刷新/可爱大姐姐&恋人&同居中@bibibizizizi/已经退推的妹妹@MXF0721/感谢你的关注",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1900766854106542082/zzK8Mu9t_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624705678593134592/1729793211",
-    "followers_count": 420,
-    "friends_count": 243,
-    "statuses_count": 1200,
-    "favourites_count": 13735,
+    "followers_count": 466,
+    "friends_count": 254,
+    "statuses_count": 1354,
+    "favourites_count": 16297,
     "listed_count": 2,
+    "location": "龙脉过峡结穴处，藏风聚气所",
     "website": "https://t.co/DBPSj6IdTv",
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2023-02-12 17:43:55 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Ripperdoc2034",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjI0NzA1Njc4NTkzMTM0NTky",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1900766854106542082/zzK8Mu9t_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Feb 12 09:43:55 +0000 2023",
+            "name": "金流☯",
+            "screen_name": "Ripperdoc2034"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -50,29 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 243,
+            "friends_count": 254,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 52,
+            "media_count": 66,
             "pinned_tweet_ids_str": [
-                "1917716390678782332"
+                "1928600515111198924"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/DBPSj6IdTv",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "龙脉过峡结穴处，藏风聚气所"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1676195035000,
-            "updated_at": 1746277402138
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

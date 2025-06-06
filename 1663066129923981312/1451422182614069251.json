@@ -1,31 +1,43 @@
 {
     "id": "1451422182614069251",
     "screen_name": "DavariT72",
-    "name": "水果甜野猫~😋🥑🐱",
+    "name": "水果甜野猫~有主😋🥑🐱",
     "description": "欢迎来到我的主页，可爱的肥橘猫(178，MTF抖m，k6k8，植物科普\n含糖天残党/已嘎蛋HRT起始日(2022/5/24)。欢迎同类贴贴(´｡✪ω✪｡，有时会难过崩溃，可能会重开。身体状况差，不在线请见谅，爱吃水果!热爱植物\n成分（40%可爱+20%焦虑+30%烟花和水果+2%雌二醇+8%抑郁",
-    "location": "Peñamellera Baja, Españ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1451422182614069251/1680796518",
-    "followers_count": 43418,
-    "statuses_count": 48098,
-    "favourites_count": 70974,
-    "listed_count": 47,
+    "followers_count": 44400,
+    "friends_count": 1686,
+    "statuses_count": 48785,
+    "favourites_count": 71712,
+    "listed_count": 48,
+    "location": "Peñamellera Baja, Españ",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
-    "created_at": "2021-10-22 13:36:37 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/DavariT72",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDUxNDIyMTgyNjE0MDY5MjUx",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Oct 22 05:36:37 +0000 2021",
+            "name": "水果甜野猫~有主😋🥑🐱",
+            "screen_name": "DavariT72"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,26 +46,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1680,
+            "friends_count": 1686,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 3515,
-            "pinned_tweet_ids_str": [
-                "1574387867362545664"
-            ],
+            "media_count": 3644,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Peñamellera Baja, Españ"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1634880997000,
-            "updated_at": 1744350085207
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

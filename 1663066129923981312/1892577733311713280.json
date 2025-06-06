@@ -1,31 +1,43 @@
 {
     "id": "1892577733311713280",
     "screen_name": "XiaoSan630244",
-    "name": "明ちゃんのクラスメート🇹🇼🇺🇦",
+    "name": "明ちゃんのクラスメート",
     "description": "这里是某人的第三代号，n年后使用",
-    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1893168498144354305/IcrgvLNd_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 64,
-    "statuses_count": 117,
-    "favourites_count": 648,
+    "followers_count": 63,
+    "friends_count": 196,
+    "statuses_count": 125,
+    "favourites_count": 655,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2025-02-20 22:11:17 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/XiaoSan630244",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODkyNTc3NzMzMzExNzEzMjgw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1893168498144354305/IcrgvLNd_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Feb 20 14:11:17 +0000 2025",
+            "name": "明ちゃんのクラスメート",
+            "screen_name": "XiaoSan630244"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -42,10 +54,17 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1907400725656912257",
             "professional_type": "Business",
@@ -57,12 +76,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1740060677000,
-            "updated_at": 1744350009042
+            "created_at": 946656000000,
+            "updated_at": 1749219025756
         }
     }
 }

@@ -1,32 +1,43 @@
 {
     "id": "1764991223792906240",
     "screen_name": "ZW3333T",
-    "name": "wet.zZz👊😼🔥",
+    "name": "wet.zZz👊😭✏️",
     "description": "我说话笨笨的，打字也慢慢的",
-    "location": "VA-11 HALL-A ",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1906873493729513472/f3f9hSTK_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930507409396813824/eC_ZHS0x_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764991223792906240/1725845381",
-    "followers_count": 1654,
-    "statuses_count": 21664,
-    "favourites_count": 204472,
-    "listed_count": 15,
+    "followers_count": 1718,
+    "friends_count": 2777,
+    "statuses_count": 23565,
+    "favourites_count": 219657,
+    "listed_count": 16,
+    "location": "VA-11 HALL-A ",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-03-05 20:28:14 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/ZW3333T",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY0OTkxMjIzNzkyOTA2MjQw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930507409396813824/eC_ZHS0x_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Mar 05 12:28:14 +0000 2024",
+            "name": "wet.zZz👊😭✏️",
+            "screen_name": "ZW3333T"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,29 +46,46 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2634,
+            "friends_count": 2777,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 931,
+            "media_count": 1068,
             "pinned_tweet_ids_str": [
                 "1910023961548841235"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "VA-11 HALL-A "
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1836764542409506837",
             "professional_type": "Business",
             "category": []
         },
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1709641694000,
-            "updated_at": 1744350099731
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

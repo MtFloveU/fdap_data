@@ -2,19 +2,24 @@
     "id": "1877035470615638016",
     "screen_name": "LMegurine03",
     "name": "Luka Megurine 03",
-    "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
-    "location": "Genova，Italia ",
+    "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1742842046",
-    "followers_count": 1822,
-    "statuses_count": 2153,
-    "favourites_count": 2074,
-    "listed_count": 3,
+    "followers_count": 2202,
+    "friends_count": 7501,
+    "statuses_count": 2771,
+    "favourites_count": 3029,
+    "listed_count": 6,
+    "location": "Genova，Italia ",
+    "website": "https://t.co/TPt8JQYyPs",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2025-01-09 00:52:03 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/LMegurine03",
     "metadata": {
         "__typename": "User",
@@ -26,19 +31,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @FLjungberg08",
+                    "text": "Automated by @SChiharu20",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 26,
+                            "toIndex": 24,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "FLjungberg08",
+                                "screen_name": "SChiharu20",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "FLjungberg08"
+                                        "core": {
+                                            "screen_name": "SChiharu20"
                                         },
                                         "rest_id": "1697181010914639872"
                                     }
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Jan 08 16:52:03 +0000 2025",
+            "name": "Luka Megurine 03",
+            "screen_name": "LMegurine03"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -65,7 +79,7 @@
                         {
                             "display_url": "ngl.link/pncyszdusc75790",
                             "expanded_url": "https://ngl.link/pncyszdusc75790",
-                            "url": "https://t.co/TPt8JQZ6F0",
+                            "url": "https://t.co/TPt8JQYyPs",
                             "indices": [
                                 0,
                                 23
@@ -75,20 +89,25 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6800,
+            "friends_count": 7501,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 519,
+            "media_count": 673,
             "pinned_tweet_ids_str": [
                 "1909615625351364662"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/TPt8JQZ6F0",
-            "verified": false,
+            "url": "https://t.co/TPt8JQYyPs",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Genova，Italia "
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
@@ -103,12 +122,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1736355123000,
-            "updated_at": 1746077175502
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

@@ -1,25 +1,25 @@
 {
     "id": "1695452816658325504",
     "screen_name": "minchen3943",
-    "name": "瞑尘🏳️‍⚧️",
+    "name": "瞑尘 😉",
     "description": "07年天才少女！持证含糖丨INFP丨 半个家长党丨日常状态随机刷新丨因为淡推所以纯随缘回fo，当然也可以私信/tg丨日常出没在湖南长沙｜tg：https://t.co/KKC329JhfY 最爱的老婆是@Moyang0709 ^ω^",
-    "location": "长沙",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1697598311883304960/jDWBHRM7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695452816658325504/1730814181",
-    "followers_count": 852,
-    "friends_count": 747,
-    "statuses_count": 1626,
-    "favourites_count": 3169,
+    "followers_count": 867,
+    "friends_count": 736,
+    "statuses_count": 1824,
+    "favourites_count": 3361,
     "listed_count": 2,
+    "location": "长沙",
     "website": "https://t.co/zGDjn2211w",
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2023-08-26 23:07:16 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/minchen3943",
     "metadata": {
         "__typename": "User",
@@ -42,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "Moyang0709"
                                         },
                                         "rest_id": "1853793365353193472"
@@ -55,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1697598311883304960/jDWBHRM7_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Aug 26 15:07:16 +0000 2023",
+            "name": "瞑尘 😉",
+            "screen_name": "minchen3943"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -90,31 +99,46 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 747,
+            "friends_count": 736,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 173,
+            "media_count": 231,
             "pinned_tweet_ids_str": [
-                "1905570999288168613"
+                "1925077524830151040"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/zGDjn2211w",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "长沙"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true,
             "bitcoin_handle": "1LKiRuGY261XyRpHdw3kxdu8DhNCgS2UXd",
             "ethereum_handle": "0x086ab188234c0962b47149872b6c6a92fd5830e8"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1693062436000,
-            "updated_at": 1746277398002
+            "created_at": 946656000000,
+            "updated_at": 1749219059243
         }
     }
 }

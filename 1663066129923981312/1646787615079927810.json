@@ -1,29 +1,43 @@
 {
     "id": "1646787615079927810",
     "screen_name": "xxstxa",
-    "name": "一只兮兮子",
+    "name": "一只兮兮子（贪吃布偶猫）",
     "description": "木桶饭/INTP/不会社交但脑子有点好用的小阿斯/二型双相/编程魔方乒乓球/一个厨娘",
-    "location": "Guangdong",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1913246286335332352/_gE2v2bO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646787615079927810/1682422464",
     "followers_count": 142,
-    "statuses_count": 323,
-    "favourites_count": 319,
+    "friends_count": 341,
+    "statuses_count": 326,
+    "favourites_count": 323,
     "listed_count": 0,
+    "location": "Guangdong",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-04-14 16:09:13 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/xxstxa",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjQ2Nzg3NjE1MDc5OTI3ODEw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1913246286335332352/_gE2v2bO_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Apr 14 08:09:13 +0000 2023",
+            "name": "一只兮兮子（贪吃布偶猫）",
+            "screen_name": "xxstxa"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": false,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 340,
+            "friends_count": 341,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 69,
@@ -42,16 +56,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Guangdong"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1681459753000,
-            "updated_at": 1746077192669
+            "created_at": 946656000000,
+            "updated_at": 1749219078458
         }
     }
 }

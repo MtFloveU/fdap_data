@@ -1,16 +1,16 @@
 {
     "id": "1768631748257361920",
     "screen_name": "NeneK0SMTwTF5_",
-    "name": "中继者涅氵*&# 武装千金？",
-    "description": "宇宙中飞行的不可思议的魔女｜厌恶着自己｜嘎喽给木吃｜七色的暖暖暖暖暖炉\n姐姐大人@Smilewei114514 糖罐子@Sa1ntM0n1ka 我的内脏 @0xSorrowRain",
-    "location": "理性も倫理も悪意に溺れろ。",
+    "name": "折射的 涅氵*&# 亂魂抄？",
+    "description": "不想被定义｜正体不明｜宇宙中飞行的不可思议装置｜爱人：@Sa1ntM0n1ka｜心脏：@0xSorrowRain 里角色？@Antoneva347428",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1913481999773573120/eOoo5YWp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768631748257361920/1736146582",
-    "followers_count": 1357,
-    "friends_count": 994,
-    "statuses_count": 4878,
-    "favourites_count": 1535,
+    "followers_count": 1376,
+    "friends_count": 978,
+    "statuses_count": 5108,
+    "favourites_count": 1652,
     "listed_count": 2,
+    "location": "理性も倫理も悪意に溺れろ。",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-03-15 21:34:27 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/NeneK0SMTwTF5_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY4NjMxNzQ4MjU3MzYxOTIw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1913481999773573120/eOoo5YWp_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Mar 15 13:34:27 +0000 2024",
+            "name": "折射的 涅氵*&# 亂魂抄？",
+            "screen_name": "NeneK0SMTwTF5_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 994,
+            "friends_count": 978,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 426,
+            "media_count": 452,
             "pinned_tweet_ids_str": [
-                "1834058575863501273"
+                "1918483295106629749"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "理性も倫理も悪意に溺れろ。"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1710509667000,
-            "updated_at": 1746277415794
+            "created_at": 946656000000,
+            "updated_at": 1749219076818
         }
     }
 }

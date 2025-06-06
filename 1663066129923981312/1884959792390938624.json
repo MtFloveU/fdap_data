@@ -1,34 +1,43 @@
 {
     "id": "1884959792390938624",
-    "screen_name": "mengqing8964",
-    "name": "梦情🏳️‍⚧️🇨🇳",
-    "description": "2011年的雜魚跨女~泛/雙性戀\n永遠愛 @WinkCat1234  /好朋友@SujitGund\n/中度抑郁（with 舍曲林）疑似边缘型人格障碍/包容所有政治立场，反对歧视  /I stand with 🇺🇦🇨🇳/看政治內容請轉@mengqing6464（更新很少）/英文賬號@LilyRose1776",
-    "location": "中華人民共和國🇨🇳",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917588872252588032/_RNdNxeK_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884959792390938624/1746023788",
-    "followers_count": 1230,
-    "friends_count": 909,
-    "statuses_count": 5268,
-    "favourites_count": 11839,
-    "listed_count": 3,
-    "website": "https://t.co/81dSoqE8pB",
+    "screen_name": "mengqing5735",
+    "name": "梦情",
+    "description": "女孩子/14岁/中度抑郁/摄影爱好者/写作爱好者（对不起，我心情很低落，影响大家心情的话实在抱歉）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929155386973822977/1FhMRHW9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884959792390938624/1747308472",
+    "followers_count": 1579,
+    "friends_count": 1036,
+    "statuses_count": 5823,
+    "favourites_count": 14249,
+    "listed_count": 5,
+    "location": "美丽新世界",
+    "website": "https://t.co/0elVIHwpOu",
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2025-01-30 21:40:24 +08:00",
-    "url": "https://twitter.com/mengqing8964",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/mengqing5735",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODg0OTU5NzkyMzkwOTM4NjI0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929155386973822977/1FhMRHW9_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jan 30 13:40:24 +0000 2025",
+            "name": "梦情",
+            "screen_name": "mengqing5735"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -38,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "t.me/lisa8964",
-                            "expanded_url": "https://t.me/lisa8964",
-                            "url": "https://t.co/81dSoqE8pB",
+                            "display_url": "t.me/luna57351",
+                            "expanded_url": "http://t.me/luna57351",
+                            "url": "https://t.co/0elVIHwpOu",
                             "indices": [
                                 0,
                                 23
@@ -50,20 +59,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 909,
+            "friends_count": 1036,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 301,
-            "pinned_tweet_ids_str": [],
+            "media_count": 156,
+            "pinned_tweet_ids_str": [
+                "1929546395968553281"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/81dSoqE8pB",
-            "verified": false,
+            "url": "https://t.co/0elVIHwpOu",
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "parody_commentary_fan_label": "Parody",
+        "location": {
+            "location": "美丽新世界"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "Fan",
         "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1906543348485431709",
@@ -76,10 +92,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1738244424000,
-            "updated_at": 1746176980226
+            "created_at": 946656000000,
+            "updated_at": 1749219060359
         }
     }
 }

@@ -2,68 +2,68 @@
     "id": "1422521161934643216",
     "screen_name": "younstark3000",
     "name": "豆奶",
-    "description": "infj ｜🚪188/288/520/1314｜私信过🚪回复不退🚪｜只在推更新｜未术MTF｜🉑定制原味｜ 推广自辨真假｜二代目@younstark3000_｜生活号@zero1one0_（眼熟🉑申请互关｜盗图替我挡灾｜",
-    "location": "臺南",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1875525818748973056/jHsZAx94_normal.jpg",
+    "description": "🚪188（不解锁朋友圈）/288/520（接爸爸活）/1314口令红包｜男娘｜置顶推广自辨真假，如果涉及钱或者其他情况请推上私信我",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1923010764467585025/MxjgxSSf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1422521161934643216/1736013384",
-    "followers_count": 12227,
-    "friends_count": 972,
-    "statuses_count": 3989,
-    "favourites_count": 35726,
-    "listed_count": 28,
-    "website": "https://t.co/9UMg3eHu22",
+    "followers_count": 21092,
+    "friends_count": 983,
+    "statuses_count": 3467,
+    "favourites_count": 36826,
+    "listed_count": 59,
+    "location": "臺南",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2021-08-03 19:34:20 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/younstark3000",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDIyNTIxMTYxOTM0NjQzMjE2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1923010764467585025/MxjgxSSf_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Aug 03 11:34:20 +0000 2021",
+            "name": "豆奶",
+            "screen_name": "younstark3000"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "wwwwwl.sogood9.com/#/register?cod…",
-                            "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=IUU1vod9",
-                            "url": "https://t.co/9UMg3eHu22",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 972,
+            "friends_count": 983,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 394,
+            "media_count": 165,
             "pinned_tweet_ids_str": [
-                "1917599351024804003"
+                "1930900054539395076"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/9UMg3eHu22",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "臺南"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -78,12 +78,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1627990460000,
-            "updated_at": 1746176991875
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

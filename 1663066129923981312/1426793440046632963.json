@@ -2,30 +2,42 @@
     "id": "1426793440046632963",
     "screen_name": "reedreedandsoon",
     "name": "白芷🏳️‍⚧️（冲击2030世锦赛冠军ing）",
-    "description": "06年的药药（性别酷儿）曾经是mtf/100％互fo/175，63kg/现居墨尔本，平常在南京/男生女生都接受的🏳️‍🌈🌈t/社民/肌肉and古典健身爱好者/容易吃醋/🚪200/正在冲击2030年奥林匹亚健美冠军/是病娇/地雷女/仇恨之书12.13/性冷淡",
-    "location": "神圣泰拉 审判庭马上到你家门口",
+    "description": "06年的药药（性别酷儿）曾经是mtf/100％互fo/175，63kg/现居墨尔本，平常在南京/男生女生都接受的🏳️‍🌈🌈t/社民/肌肉and古典健身爱好者/容易吃醋/🚪200/正在冲击2030年奥林匹亚健美冠军/是病娇/地雷女/仇恨之书12.13/性冷淡/91赛先生",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1865748407220056064/gJd5UpI9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426793440046632963/1716448311",
-    "followers_count": 4190,
-    "statuses_count": 9418,
-    "favourites_count": 11191,
-    "listed_count": 7,
+    "followers_count": 4376,
+    "friends_count": 3716,
+    "statuses_count": 10435,
+    "favourites_count": 12421,
+    "listed_count": 6,
+    "location": "神圣泰拉 审判庭马上到你家门口",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2021-08-15 14:30:49 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/reedreedandsoon",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDI2NzkzNDQwMDQ2NjMyOTYz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1865748407220056064/gJd5UpI9_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Aug 15 06:30:49 +0000 2021",
+            "name": "白芷🏳️‍⚧️（冲击2030世锦赛冠军ing）",
+            "screen_name": "reedreedandsoon"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,20 +46,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3539,
+            "friends_count": 3716,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1046,
+            "media_count": 1132,
             "pinned_tweet_ids_str": [
-                "1832365696644161672"
+                "1913235767452901582"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "神圣泰拉 审判庭马上到你家门口"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1793540502761230749",
             "professional_type": "Creator",
@@ -59,10 +78,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1629009049000,
-            "updated_at": 1744350109138
+            "created_at": 946656000000,
+            "updated_at": 1749219075207
         }
     }
 }

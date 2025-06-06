@@ -1,34 +1,43 @@
 {
     "id": "1479696561302999042",
     "screen_name": "quitee123",
-    "name": "🐱🍊静静🍊🐱（泰补190一盒清仓版）",
-    "description": "永远17岁的小傻瓜 /XYN forever! /三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina tg：@hajvmi SRS记录：https://t.co/jVttn2YeBF",
-    "location": "你的心里",
+    "name": "枫糖小橘🍊",
+    "description": "永远17岁的小傻瓜 /XYN forever! /三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina tg：@hajvmi SRS记录：https://t.co/jVttn2XGM7",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1903862743012380672/H6rYb4Zo_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479696561302999042/1718372140",
-    "followers_count": 8085,
-    "friends_count": 2558,
-    "statuses_count": 11978,
-    "favourites_count": 25902,
-    "listed_count": 17,
+    "followers_count": 8983,
+    "friends_count": 2719,
+    "statuses_count": 12749,
+    "favourites_count": 27621,
+    "listed_count": 22,
+    "location": "你的心里",
     "website": null,
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2022-01-08 14:09:08 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/quitee123",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDc5Njk2NTYxMzAyOTk5MDQy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1903862743012380672/H6rYb4Zo_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jan 08 06:09:08 +0000 2022",
+            "name": "枫糖小橘🍊",
+            "screen_name": "quitee123"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,7 +46,7 @@
                         {
                             "display_url": "t.me/miaomiao202503…",
                             "expanded_url": "https://t.me/miaomiao202503010",
-                            "url": "https://t.co/jVttn2YeBF",
+                            "url": "https://t.co/jVttn2XGM7",
                             "indices": [
                                 97,
                                 120
@@ -47,28 +56,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2558,
+            "friends_count": 2719,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 619,
+            "media_count": 647,
             "pinned_tweet_ids_str": [
                 "1910999755334832267"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "你的心里"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1641622148000,
-            "updated_at": 1746176998262
+            "created_at": 946656000000,
+            "updated_at": 1749219079495
         }
     }
 }

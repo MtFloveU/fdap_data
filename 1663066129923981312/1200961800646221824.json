@@ -1,32 +1,43 @@
 {
     "id": "1200961800646221824",
-    "screen_name": "mtf_xixi",
-    "name": "夕沫🍥",
+    "screen_name": "ximo_0605",
+    "name": "夕沫",
     "description": "",
-    "location": "湖南",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895368607275606016/8fSrXBY__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1200961800646221824/1709632571",
-    "followers_count": 294,
+    "followers_count": 290,
+    "friends_count": 323,
     "statuses_count": 62,
-    "favourites_count": 130,
+    "favourites_count": 131,
     "listed_count": 0,
+    "location": "湖南",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2019-12-01 10:16:37 +08:00",
-    "url": "https://twitter.com/mtf_xixi",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/ximo_0605",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjAwOTYxODAwNjQ2MjIxODI0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1895368607275606016/8fSrXBY__normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Dec 01 02:16:37 +0000 2019",
+            "name": "夕沫",
+            "screen_name": "ximo_0605"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 328,
+            "friends_count": 323,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 3,
@@ -43,14 +54,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "湖南"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1575166597000,
-            "updated_at": 1744350112277
+            "created_at": 946656000000,
+            "updated_at": 1749219076818
         }
     }
 }

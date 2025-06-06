@@ -2,28 +2,42 @@
     "id": "1897563168559525888",
     "screen_name": "8964Moothreesan",
     "name": "迷人の暮酱",
-    "description": "冷静一点呢亲",
-    "location": "中南海",
+    "description": "早安 午安 晚安",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897564315567153152/uf5nUdBJ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897563168559525888/1744383461",
-    "followers_count": 463,
-    "statuses_count": 2033,
-    "favourites_count": 6975,
-    "listed_count": 1,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897563168559525888/1746125423",
+    "followers_count": 537,
+    "friends_count": 510,
+    "statuses_count": 2752,
+    "favourites_count": 10040,
+    "listed_count": 2,
+    "location": "中南海",
+    "website": "https://t.co/mIAU0nXS78",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2025-03-06 16:21:49 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/8964Moothreesan",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODk3NTYzMTY4NTU5NTI1ODg4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1897564315567153152/uf5nUdBJ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Mar 06 08:21:49 +0000 2025",
+            "name": "迷人の暮酱",
+            "screen_name": "8964Moothreesan"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 443,
+            "friends_count": 510,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 83,
+            "media_count": 102,
             "pinned_tweet_ids_str": [
                 "1905256193377141138"
             ],
@@ -56,9 +70,14 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/mIAU0nXS78",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "中南海"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
@@ -73,12 +92,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1741249309000,
-            "updated_at": 1746077170591
+            "created_at": 946656000000,
+            "updated_at": 1749219059243
         }
     }
 }

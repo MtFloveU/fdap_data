@@ -1,20 +1,25 @@
 {
     "id": "1457925329939361797",
     "screen_name": "sutanghentian",
-    "name": "酥糖～🏳️‍⚧️🍥🍬",
-    "description": "07年的女孩子，家暴党，（hrt：2023.6.24）老公@kokodayoCN，姐姐@Fancy_Starry，闺蜜@eureka222323，@plantie_uwu，@bghtnya，@linyin1129，妹妹@sorasukiovo，经常emo…",
-    "location": "垃圾桶",
+    "name": "酥糖～🏳️‍⚧️🏳️‍🌈🍥🍬",
+    "description": "07年的女孩子，家暴党，（hrt：2023.6.24）老公@SarkazWisadel，姐姐@Fancy_Starry，闺蜜@eureka222323，@plantie_uwu，@bghtnya，@linyin1129，妹妹@sorasukiovo，经常emo…",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1695389239528353792/rhleJFI8_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457925329939361797/1693047279",
-    "followers_count": 3860,
-    "statuses_count": 15666,
-    "favourites_count": 26832,
+    "followers_count": 3963,
+    "friends_count": 1749,
+    "statuses_count": 16913,
+    "favourites_count": 29040,
     "listed_count": 6,
+    "location": "垃圾桶",
+    "website": "https://t.co/kPZmayouXK",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
-    "created_at": "2021-11-09 12:17:53 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/sutanghentian",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "sutangtiantian"
                                         },
                                         "rest_id": "1459715520140242947"
@@ -50,12 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1695389239528353792/rhleJFI8_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Nov 09 04:17:53 +0000 2021",
+            "name": "酥糖～🏳️‍⚧️🏳️‍🌈🍥🍬",
+            "screen_name": "sutanghentian"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -77,10 +89,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1675,
+            "friends_count": 1749,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 468,
+            "media_count": 505,
             "pinned_tweet_ids_str": [
                 "1823031404789481494"
             ],
@@ -88,14 +100,30 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/kPZmayouXK",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "垃圾桶"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1636431473000,
-            "updated_at": 1744350109133
+            "created_at": 946656000000,
+            "updated_at": 1749219075207
         }
     }
 }

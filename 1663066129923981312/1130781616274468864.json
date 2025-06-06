@@ -1,32 +1,43 @@
 {
     "id": "1130781616274468864",
     "screen_name": "_SHIGURERERE_",
-    "name": "しぐれ",
-    "description": "💕@ NaShir……是谁呢好难猜啊",
-    "location": "IJN 2nd Fleet",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1869671377147748352/35AqOkZ__normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1734610924",
-    "followers_count": 60857,
-    "statuses_count": 539,
-    "favourites_count": 50065,
-    "listed_count": 0,
+    "name": "rain",
+    "description": "💕@████",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930248403268841473/WgJJUqUy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1748175832",
+    "followers_count": 61599,
+    "friends_count": 2105,
+    "statuses_count": 561,
+    "favourites_count": 50427,
+    "listed_count": 1,
+    "location": "吉他IV-卫星IV-加达里海军 组装车间",
+    "website": "https://t.co/cbYwxUxMqv",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": null,
-    "created_at": "2019-05-21 18:25:21 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/_SHIGURERERE_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTMwNzgxNjE2Mjc0NDY4ODY0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930248403268841473/WgJJUqUy_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue May 21 10:25:21 +0000 2019",
+            "name": "rain",
+            "screen_name": "_SHIGURERERE_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -36,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "t.me/+0be0wxiVvB5jY…",
-                            "expanded_url": "https://t.me/+0be0wxiVvB5jY2Vl",
-                            "url": "https://t.co/CcTZjHEfaP",
+                            "display_url": "t.me/+XgR11PBoaTdmZ…",
+                            "expanded_url": "https://t.me/+XgR11PBoaTdmZGM1",
+                            "url": "https://t.co/cbYwxUxMqv",
                             "indices": [
                                 0,
                                 23
@@ -48,21 +59,28 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2114,
+            "friends_count": 2105,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 361,
+            "media_count": 386,
             "pinned_tweet_ids_str": [
-                "1861947934868455904"
+                "1922335622066233436"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/CcTZjHEfaP",
-            "verified": false,
+            "url": "https://t.co/cbYwxUxMqv",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "吉他IV-卫星IV-加达里海军 组装车间"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1488361352129179651",
             "professional_type": "Creator",
@@ -74,12 +92,21 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1558434321000,
-            "updated_at": 1744350106481
+            "created_at": 946656000000,
+            "updated_at": 1749219074028
         }
     }
 }

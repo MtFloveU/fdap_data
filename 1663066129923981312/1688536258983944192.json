@@ -2,28 +2,42 @@
     "id": "1688536258983944192",
     "screen_name": "cn_aria_lyx",
     "name": "Ariasaka🍥",
-    "description": "渝XDFZ xyn喵🏳‍⚧ bir.2010 HRT 2025.3.14深柜（炸了的话家暴可能？）无证无rle  169cm 尝试变可爱&&减肥中呜呜呜 | OI(AFO)er | 前端嵌入式🐶 | CR/CRT车迷 | 彩笔音游人 | Arch Linux | INFP-T | 推新人欢迎互foQwQ | 舞萌吃",
-    "location": "Chongqing, China",
+    "description": "渝XDFZ xyn喵🏳‍⚧ bir.2010 HRT 2025.3.14 炸柜党 无证无rle  169cm 尝试变可爱&&减肥中呜呜呜 | OI(AFO)er | 前端嵌入式🐶 | CR/CRT车迷 | 彩笔音游人 | Arch Linux | INFP-T | 推新人欢迎互foQwQ | 舞萌吃",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1908743164732776448/qjJoPzM9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688536258983944192/1743735856",
-    "followers_count": 208,
-    "statuses_count": 86,
-    "favourites_count": 98,
+    "followers_count": 304,
+    "friends_count": 329,
+    "statuses_count": 98,
+    "favourites_count": 110,
     "listed_count": 0,
+    "location": "Chongqing, China",
+    "website": "https://t.co/JBDo2ZiNFs",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-08-07 21:04:13 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/cn_aria_lyx",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjg4NTM2MjU4OTgzOTQ0MTky",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1908743164732776448/qjJoPzM9_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Aug 07 13:04:13 +0000 2023",
+            "name": "Ariasaka🍥",
+            "screen_name": "cn_aria_lyx"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,25 +59,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 319,
+            "friends_count": 329,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 21,
+            "media_count": 25,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/JBDo2ZiNFs",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Chongqing, China"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1691413453000,
-            "updated_at": 1746077169154
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

@@ -1,0 +1,83 @@
+{
+    "id": "1889235307348037632",
+    "screen_name": "Phoeversum",
+    "name": "Phoeversum",
+    "description": "好吃吗？\nMain account: @Zhixiang_312145\n这是一个仅中文账户",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1919304074232725504/AKgbkaZN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889235307348037632/1745205099",
+    "followers_count": 11,
+    "friends_count": 85,
+    "statuses_count": 61,
+    "favourites_count": 942,
+    "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/Phoeversum",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODg5MjM1MzA3MzQ4MDM3NjMy",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1919304074232725504/AKgbkaZN_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Feb 11 08:49:48 +0000 2025",
+            "name": "Phoeversum",
+            "screen_name": "Phoeversum"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 85,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 4,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
+        }
+    }
+}

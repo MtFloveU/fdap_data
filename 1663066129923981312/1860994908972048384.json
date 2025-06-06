@@ -2,29 +2,42 @@
     "id": "1860994908972048384",
     "screen_name": "raindew877",
     "name": "雨露",
-    "description": "你...你好！如果被打扰到了...对不起...\n(计算机学习中)",
-    "location": "",
+    "description": "你...你好！如果被打扰到了...对不起... | 计算机学习中 | 害怕被责问 | 没有吃糖",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1860996345785442304/uzIwT7nM_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 92,
-    "statuses_count": 617,
-    "favourites_count": 5679,
-    "listed_count": 0,
+    "followers_count": 110,
+    "friends_count": 242,
+    "statuses_count": 788,
+    "favourites_count": 7493,
+    "listed_count": 1,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-11-25 18:32:39 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/raindew877",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODYwOTk0OTA4OTcyMDQ4Mzg0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1860996345785442304/uzIwT7nM_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Nov 25 10:32:39 +0000 2024",
+            "name": "雨露",
+            "screen_name": "raindew877"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 211,
+            "friends_count": 242,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 0,
+            "media_count": 1,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1732530759000,
-            "updated_at": 1746077171590
+            "created_at": 946656000000,
+            "updated_at": 1749219061680
         }
     }
 }

@@ -2,30 +2,42 @@
     "id": "1541205673068752896",
     "screen_name": "wanwen2029",
     "name": "万文先生☯️",
-    "description": "当老旧的规律学愈来愈无法贴合时代的发展，在其彻底沦为腐朽的历史尘埃与单调的文化符号之前，会于某一个时间爆发出惊人的力量，这既是它的回光返照，也是关乎它能否涅盘重生的最后的尝试。\n我道号万文先生，师承魏志民。我衔接新与旧的术，看似毫无关联的两者终将在我手中互通，助我达成算尽天下事的追求。",
-    "location": "togo",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1544707296718045184/DKRksfbR_normal.jpg",
+    "description": "北真仙派开山祖师。北真仙派以占验术数为根。\n拜师请私信，准备5k+预算。\n算命算卦三位数起。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1924316604067700736/AP0HhI2B_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541205673068752896/1718809448",
     "followers_count": 141,
+    "friends_count": 82,
     "statuses_count": 1404,
-    "favourites_count": 22058,
+    "favourites_count": 21866,
     "listed_count": 3,
+    "location": "togo",
+    "website": "https://t.co/eDeimcQIdV",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-06-27 07:44:16 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/wanwen2029",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTQxMjA1NjczMDY4NzUyODk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1924316604067700736/AP0HhI2B_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jun 26 23:44:16 +0000 2022",
+            "name": "万文先生☯️",
+            "screen_name": "wanwen2029"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,7 +59,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 83,
+            "friends_count": 82,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 31,
@@ -58,14 +70,31 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/eDeimcQIdV",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "togo"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1656287056000,
-            "updated_at": 1744350042027
+            "created_at": 946656000000,
+            "updated_at": 1749219039837
         }
     }
 }

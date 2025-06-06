@@ -2,28 +2,42 @@
     "id": "764856941151596549",
     "screen_name": "_AkitaYura",
     "name": "Akita Yura",
-    "description": "短发棕毛假小子🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控🐱|\n▫️姐@Sugita_Midoriko💗\n▫️叶@fallenleavesw😽\n▫️青@qingshixiang258😺",
-    "location": "",
+    "description": "红毛假小子/双🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|\n▫️爱人@yumiralove\n▫️家人@ShikuiL23822",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/764856941151596549/1736575567",
-    "followers_count": 753,
-    "statuses_count": 10613,
-    "favourites_count": 46308,
-    "listed_count": 7,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/764856941151596549/1748715976",
+    "followers_count": 867,
+    "friends_count": 683,
+    "statuses_count": 12945,
+    "favourites_count": 56596,
+    "listed_count": 8,
+    "location": "R18禁止💢|文爱禁止💢",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2016-08-15 00:11:19 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/_AkitaYura",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjo3NjQ4NTY5NDExNTE1OTY1NDk=",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Aug 14 16:11:19 +0000 2016",
+            "name": "Akita Yura",
+            "screen_name": "_AkitaYura"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,28 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 645,
+            "friends_count": 683,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1073,
-            "pinned_tweet_ids_str": [
-                "1915098818837930168"
-            ],
+            "media_count": 1410,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "R18禁止💢|文爱禁止💢"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1471191079000,
-            "updated_at": 1746077174316
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

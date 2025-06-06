@@ -2,30 +2,42 @@
     "id": "1653207153044520960",
     "screen_name": "AsilenA123",
     "name": "Nicolette86132",
-    "description": "现在我有个好点子🤓👆",
-    "location": "暗淡蓝点",
+    "description": "找实习中|单片机/全栈学习中|南京",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653207153044520960/1743011579",
-    "followers_count": 307,
-    "statuses_count": 1383,
-    "favourites_count": 18248,
+    "followers_count": 362,
+    "friends_count": 881,
+    "statuses_count": 2036,
+    "favourites_count": 21902,
     "listed_count": 0,
+    "location": "暗淡蓝点",
+    "website": "https://t.co/rSoB5cSWHw",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-05-02 09:18:09 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/AsilenA123",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjUzMjA3MTUzMDQ0NTIwOTYw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue May 02 01:18:09 +0000 2023",
+            "name": "Nicolette86132",
+            "screen_name": "AsilenA123"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "google.com",
-                            "expanded_url": "http://www.google.com",
-                            "url": "https://t.co/HOfpyE9dOa",
+                            "display_url": "ebotian-blog.vercel.app",
+                            "expanded_url": "https://ebotian-blog.vercel.app/",
+                            "url": "https://t.co/rSoB5cSWHw",
                             "indices": [
                                 0,
                                 23
@@ -47,27 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 790,
+            "friends_count": 881,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 45,
+            "media_count": 74,
             "pinned_tweet_ids_str": [
                 "1904980730620592600"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/HOfpyE9dOa",
-            "verified": false,
+            "url": "https://t.co/rSoB5cSWHw",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "暗淡蓝点"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1682990289000,
-            "updated_at": 1744350096785
+            "created_at": 946656000000,
+            "updated_at": 1749219069841
         }
     }
 }

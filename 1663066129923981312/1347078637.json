@@ -2,29 +2,72 @@
     "id": "1347078637",
     "screen_name": "4cyun",
     "name": "Yeong-Jeon",
-    "description": "“我所遺失的心啊 我曾做過的夢啊”｜小铨的里部活跃账号｜日常推｜在华🇳🇬人｜肝硬化患者",
-    "location": "Lagos, Nigeria",
+    "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1908864634200657920/oTga62hT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347078637/1743943936",
-    "followers_count": 22,
-    "statuses_count": 22,
-    "favourites_count": 133,
+    "followers_count": 45,
+    "friends_count": 45,
+    "statuses_count": 26,
+    "favourites_count": 153,
     "listed_count": 0,
+    "location": "Lagos, Nigeria",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2013-04-12 23:24:49 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/4cyun",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzQ3MDc4NjM3",
-        "affiliates_highlighted_label": {},
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @yqua_",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 19,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "yqua_",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "core": {
+                                            "screen_name": "yqua_"
+                                        },
+                                        "rest_id": "1545277694325116928"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1908864634200657920/oTga62hT_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Apr 12 15:24:49 +0000 2013",
+            "name": "Yeong-Jeon",
+            "screen_name": "4cyun"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,24 +76,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 23,
+            "friends_count": 45,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3,
+            "media_count": 4,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Lagos, Nigeria"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1365780289000,
-            "updated_at": 1746077169154
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

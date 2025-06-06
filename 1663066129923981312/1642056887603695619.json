@@ -1,72 +1,85 @@
 {
     "id": "1642056887603695619",
     "screen_name": "Luminme_SL",
-    "name": "️‍⚧️Luminme♥️ SL system",
-    "description": "多意識體，無性別，代詞為THEY/THEM | 主要內容為記錄日常和表達內心，偶爾od💊 | 勵志關注全中推的afab跨性別",
-    "location": "Solar & Lumin",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1873736063484919809/CsLWv1cI_normal.jpg",
+    "name": "️‍⚧️Lumin♥️",
+    "description": "多意識體，無性別，afab，代詞為THEY/THEM | 主要內容為記錄日常和表達內心，偶爾od💊 | 勵志關注全中推的afab跨性別",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1925961659106902016/bFzlO4e__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642056887603695619/1738606728",
-    "followers_count": 1009,
-    "statuses_count": 2587,
-    "favourites_count": 4749,
+    "followers_count": 1007,
+    "friends_count": 113,
+    "statuses_count": 2748,
+    "favourites_count": 4750,
     "listed_count": 1,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
-    "created_at": "2023-04-01 14:51:06 +08:00",
+    "can_dm": false,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Luminme_SL",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjQyMDU2ODg3NjAzNjk1NjE5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1925961659106902016/bFzlO4e__normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Apr 01 06:51:06 +0000 2023",
+            "name": "️‍⚧️Lumin♥️",
+            "screen_name": "Luminme_SL"
+        },
+        "dm_permissions": {
+            "can_dm": false
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": false,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/Rinkokoro2",
-                            "expanded_url": "http://t.me/Rinkokoro2",
-                            "url": "https://t.co/4wMFna6uAr",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 101,
+            "friends_count": 113,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 39,
+            "media_count": 49,
             "pinned_tweet_ids_str": [
                 "1886482580192845930"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/4wMFna6uAr",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1680331866000,
-            "updated_at": 1744350118007
+            "created_at": 946656000000,
+            "updated_at": 1749219079495
         }
     }
 }

@@ -1,20 +1,25 @@
 {
     "id": "1228638724583374848",
     "screen_name": "Plantie_uwu",
-    "name": "plantie✨☘️",
-    "description": "They/them 🚪88",
-    "location": "海上",
+    "name": "plantie✨🏳️‍🌈",
+    "description": "They/them🏳️‍🌈",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228638724583374848/1740858236",
-    "followers_count": 10193,
-    "statuses_count": 5646,
-    "favourites_count": 19007,
-    "listed_count": 38,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228638724583374848/1748691519",
+    "followers_count": 10124,
+    "friends_count": 1750,
+    "statuses_count": 5702,
+    "favourites_count": 18953,
+    "listed_count": 37,
+    "location": "bed",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
-    "created_at": "2020-02-15 19:14:49 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Plantie_uwu",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "plantie_awa"
                                         },
                                         "rest_id": "1612855155128504335"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Feb 15 11:14:49 +0000 2020",
+            "name": "plantie✨🏳️‍🌈",
+            "screen_name": "Plantie_uwu"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -62,28 +76,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1808,
+            "friends_count": 1750,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 957,
+            "media_count": 975,
             "pinned_tweet_ids_str": [
-                "1895871945629216924"
+                "1928829047020151081"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "bed"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1581765289000,
-            "updated_at": 1746077192669
+            "created_at": 946656000000,
+            "updated_at": 1749219078458
         }
     }
 }

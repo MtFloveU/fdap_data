@@ -2,28 +2,42 @@
     "id": "1601893417549967360",
     "screen_name": "AcboxLiu",
     "name": "📦Acbox",
-    "description": "💻开源开发&全职创业/全栈&LLM/Building EchoAI/🎨UI&UX学习中/Founder of @bijon_ai/🐱Github: sheepbox8646/🍥🏳️‍⚧️🇭🇰/📮me@acbox.lol/🧭@sciuxkit @bugduckteam/小号@xiaoxiangziqwq",
-    "location": "深圳-廣州-香港",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1914958257879441409/Yh9QRIIX_normal.jpg",
+    "description": "💻开源开发/全栈&LLM/EN: @acbox_lol/全职开发EchoAI/UI&UX学习中/Founder of @bijon_ai/🐱Github: sheepbox8646/🚇轨道交通/🧭@sciuxkit @bugduckteam",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1926469991936733184/Y4W4X94i_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1743358641",
-    "followers_count": 4268,
-    "statuses_count": 3491,
-    "favourites_count": 2163,
+    "followers_count": 4705,
+    "friends_count": 2975,
+    "statuses_count": 3797,
+    "favourites_count": 2304,
     "listed_count": 16,
+    "location": "深圳-廣州-香港",
+    "website": "https://t.co/mRP5RDvKAZ",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-12-11 18:55:41 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/AcboxLiu",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjAxODkzNDE3NTQ5OTY3MzYw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1926469991936733184/Y4W4X94i_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Dec 11 10:55:41 +0000 2022",
+            "name": "📦Acbox",
+            "screen_name": "AcboxLiu"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "acbox.lol",
-                            "expanded_url": "https://acbox.lol",
-                            "url": "https://t.co/kJvOSjAt1j",
+                            "display_url": "github.com/sheepbox8646",
+                            "expanded_url": "https://github.com/sheepbox8646",
+                            "url": "https://t.co/mRP5RDvKAZ",
                             "indices": [
                                 0,
                                 23
@@ -45,20 +59,25 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2831,
+            "friends_count": 2975,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 646,
+            "media_count": 731,
             "pinned_tweet_ids_str": [
-                "1911631620274086230"
+                "1925115627330839030"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/kJvOSjAt1j",
-            "verified": false,
+            "url": "https://t.co/mRP5RDvKAZ",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "深圳-廣州-香港"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -73,12 +92,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1670756141000,
-            "updated_at": 1746077171590
+            "created_at": 946656000000,
+            "updated_at": 1749219060359
         }
     }
 }

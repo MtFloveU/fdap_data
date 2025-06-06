@@ -1,26 +1,26 @@
 {
     "id": "1823771857755234305",
-    "screen_name": "azusayuri_1984",
-    "name": "あずにゃん8964🇮🇱🎌",
-    "description": "|🕷🕷人能不能冷靜一點|六四天安門事件|\n|不是支黑也不反支黑|友跨喵🏳️‍⚧️|點贊機器人外加“視奸”|”中立“乐子人|我ban你就是覺得你惡心|\n|提問箱:https://t.co/hjmHJxAMWm(不像人写的問題不回)|小號@azusayuri_8964|\n想挂的弱智@elonmusk",
-    "location": "IP属地：大日本帝国",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1916019833080283136/bPPQu7ao_normal.jpg",
+    "screen_name": "azusayuri_8964",
+    "name": "あずにゃん8964🇮🇱🇨🇭🎌",
+    "description": "|🕷🕷人能不能冷靜一點|六四天安門事件|我ban你就是覺得你腦殘|\n|不是支黑也不反支黑|友正常的跨🏳️‍⚧️|點贊即已讀和“視奸”|”中立“乐子人|😿如果我讓你難受了，我很抱歉。😿我也經常會做一些弱智事情,求你千萬不要責怪我。😿|\n|小號@azusayuri_1984|想挂的弱智@elonmusk|",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1922696295535476739/MGTtO525_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823771857755234305/1739602695",
-    "followers_count": 280,
-    "friends_count": 735,
-    "statuses_count": 44,
-    "favourites_count": 8402,
+    "followers_count": 303,
+    "friends_count": 843,
+    "statuses_count": 233,
+    "favourites_count": 12251,
     "listed_count": 1,
-    "website": null,
+    "location": "IP屬地：大日本帝国",
+    "website": "https://t.co/BI7LH993xf",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": true,
-    "created_at": "2024-08-15 01:22:28 +08:00",
-    "url": "https://twitter.com/azusayuri_1984",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/azusayuri_8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODIzNzcxODU3NzU1MjM0MzA1",
@@ -31,19 +31,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @azusayuri_8964",
+                    "text": "Automated by @azusayuri_1984",
                     "entities": [
                         {
                             "fromIndex": 13,
                             "toIndex": 28,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "azusayuri_8964",
+                                "screen_name": "azusayuri_1984",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "azusayuri_8964"
+                                        "core": {
+                                            "screen_name": "azusayuri_1984"
                                         },
                                         "rest_id": "1886833813936070663"
                                     }
@@ -55,51 +55,78 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1922696295535476739/MGTtO525_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Aug 14 17:22:28 +0000 2024",
+            "name": "あずにゃん8964🇮🇱🇨🇭🎌",
+            "screen_name": "azusayuri_8964"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
+                    "urls": []
+                },
+                "url": {
                     "urls": [
                         {
                             "display_url": "ngl.link/azusayuri_1984",
                             "expanded_url": "https://ngl.link/azusayuri_1984",
-                            "url": "https://t.co/hjmHJxAMWm",
+                            "url": "https://t.co/BI7LH993xf",
                             "indices": [
-                                80,
-                                103
+                                0,
+                                23
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 735,
+            "friends_count": 843,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1,
+            "media_count": 5,
             "pinned_tweet_ids_str": [
-                "1884392498875048151"
+                "1923521639188398258"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/BI7LH993xf",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "IP屬地：大日本帝国"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1723656148000,
-            "updated_at": 1746277402138
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

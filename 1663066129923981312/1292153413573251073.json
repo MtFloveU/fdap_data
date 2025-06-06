@@ -2,30 +2,42 @@
     "id": "1292153413573251073",
     "screen_name": "Sablinkochi1966",
     "name": "📕🚩⚙️東風归来在天安门草死习近平8964防盗",
-    "description": "【三代目】某个三起三落左逼mtf复出丨革命无罪，造反有理/Marx-Lenin-Maoist 战无不胜的马克思列宁主义毛泽东思想万岁！/坐标左上偏下丨🏳️‍🌈🏳️‍⚧️LGBTQIA+友好丨@baiguan_副主席乖狗勾永远健康丨革命风暴席卷全球，美帝中修必将灭亡丨互fo丨Stand with️🇵🇸🇺🇦",
-    "location": "某扒衣地下室初生革命造反总司令部",
+    "description": "【三代目】某个三起三落左逼mtf复出丨革命无罪，造反有理/Marx-Lenin-Maoist 战无不胜的马克思列宁主义毛泽东思想万岁！/坐标左上偏下丨🏳️‍🌈🏳️‍⚧️LGBTQIA+友好丨革命风暴席卷全球，美帝中修必将灭亡丨互fo丨Stand with️🇵🇸🇺🇦",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1821826495830224899/D_cJQ9yH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292153413573251073/1721197451",
-    "followers_count": 652,
-    "statuses_count": 884,
-    "favourites_count": 5421,
+    "followers_count": 651,
+    "friends_count": 880,
+    "statuses_count": 840,
+    "favourites_count": 5282,
     "listed_count": 2,
+    "location": "某扒衣地下室初生革命造反总司令部",
+    "website": "https://t.co/9lBzrLc8jQ",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2020-08-09 01:39:26 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Sablinkochi1966",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjkyMTUzNDEzNTczMjUxMDcz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1821826495830224899/D_cJQ9yH_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Aug 08 17:39:26 +0000 2020",
+            "name": "📕🚩⚙️東風归来在天安门草死习近平8964防盗",
+            "screen_name": "Sablinkochi1966"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,7 +49,7 @@
                         {
                             "display_url": "t.me/transmarisa",
                             "expanded_url": "http://t.me/transmarisa",
-                            "url": "https://t.co/9lBzrLcG9o",
+                            "url": "https://t.co/9lBzrLc8jQ",
                             "indices": [
                                 0,
                                 23
@@ -50,22 +62,39 @@
             "friends_count": 880,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 52,
+            "media_count": 50,
             "pinned_tweet_ids_str": [
                 "1757668966225621453"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/9lBzrLcG9o",
-            "verified": false,
+            "url": "https://t.co/9lBzrLc8jQ",
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "某扒衣地下室初生革命造反总司令部"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1596908366000,
-            "updated_at": 1744350056148
+            "created_at": 946656000000,
+            "updated_at": 1749219048360
         }
     }
 }

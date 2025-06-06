@@ -2,30 +2,42 @@
     "id": "987866655127752704",
     "screen_name": "Hoshiumi_Rin321",
     "name": "星海翎🕯️",
-    "description": "She/Her | 门槛随缘 | 大猫姐姐：@E2Blackhole | 挚爱：@wan_jimore",
-    "location": "天国",
+    "description": "She/Her | 门槛随缘 | 大猫姐姐：@E2Blackhole",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1747079482161369088/_PdhIw9o_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/987866655127752704/1699889801",
-    "followers_count": 4925,
-    "statuses_count": 4971,
-    "favourites_count": 57716,
+    "followers_count": 5022,
+    "friends_count": 2809,
+    "statuses_count": 4985,
+    "favourites_count": 58439,
     "listed_count": 18,
+    "location": "天国",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2018-04-22 09:32:19 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Hoshiumi_Rin321",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjo5ODc4NjY2NTUxMjc3NTI3MDQ=",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1747079482161369088/_PdhIw9o_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Apr 22 01:32:19 +0000 2018",
+            "name": "星海翎🕯️",
+            "screen_name": "Hoshiumi_Rin321"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2703,
+            "friends_count": 2809,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 204,
+            "media_count": 209,
             "pinned_tweet_ids_str": [
                 "1670890825272946688"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "天国"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1524360739000,
-            "updated_at": 1744350099731
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

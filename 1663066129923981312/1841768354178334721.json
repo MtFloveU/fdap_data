@@ -2,28 +2,42 @@
     "id": "1841768354178334721",
     "screen_name": "jingzi004",
     "name": "京本京子",
-    "description": "男性身體，定期注射雌二醇的藥娘，彤惠丹房煉丹師，自產自銷人妖藥（雌二醇）糖商，擅長減肥、豐胸、泌乳、互fo，會轉發好看的",
-    "location": "",
+    "description": "常駐昆山😁是剛用上雌激素沒幾年的亞洲人妖🌝自產自銷人妖藥（雌二醇）糖商🌚減肥、豐胸、泌乳、脫毛、美白、雌墮、互fo、面基找我☝️🤓會轉發好看的",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1911275045080436736/rttLfADV_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841768354178334721/1727947470",
-    "followers_count": 2461,
-    "statuses_count": 3014,
-    "favourites_count": 871,
-    "listed_count": 4,
+    "followers_count": 2915,
+    "friends_count": 2689,
+    "statuses_count": 3765,
+    "favourites_count": 936,
+    "listed_count": 3,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-10-03 17:14:54 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/jingzi004",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQxNzY4MzU0MTc4MzM0NzIx",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911275045080436736/rttLfADV_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Oct 03 09:14:54 +0000 2024",
+            "name": "京本京子",
+            "screen_name": "jingzi004"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2623,
+            "friends_count": 2689,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 189,
+            "media_count": 198,
             "pinned_tweet_ids_str": [
-                "1893839054027862404"
+                "1928450148285263911"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1727946894000,
-            "updated_at": 1746077179548
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

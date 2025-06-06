@@ -2,30 +2,42 @@
     "id": "1444347089308184581",
     "screen_name": "HellKillerEX",
     "name": "ℝ𝕖𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟(Elder Luminescence)♂️🩷🍀🐇",
-    "description": "♂️です/⚧️🏳️‍⚧️ friendly/最推し:🍀@shino_nome22\\🍫💪@chocolat_cos0\\🐇@rin_risu2\\🌸@angelia_lapin\\🐤@kc_2_cos/一番好きなVtuber:❤️🏴‍☠️@houshoumarine\\💜🪐@niboshi_cute",
-    "location": "",
+    "description": "♂️です/鳴潮701430930/⚧️🏳️‍⚧️ friendly/最推し:🍀@shino_nome22\\🍫💪@chocolat_cos0\\🐇@rin_risu2\\🌸@angelia_lapin\\🐤@kc_2_cos/❤️@houshoumarine/💜🪐@niboshi_cute",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1853491399666417664/UG1W76PL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444347089308184581/1730741760",
-    "followers_count": 1705,
-    "statuses_count": 19706,
-    "favourites_count": 16483,
+    "followers_count": 1700,
+    "friends_count": 7499,
+    "statuses_count": 19982,
+    "favourites_count": 16626,
     "listed_count": 5,
+    "location": "",
+    "website": "https://t.co/gaynrNg14n",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2021-10-03 01:02:52 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/HellKillerEX",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDQ0MzQ3MDg5MzA4MTg0NTgx",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1853491399666417664/UG1W76PL_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Oct 02 17:02:52 +0000 2021",
+            "name": "ℝ𝕖𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟(Elder Luminescence)♂️🩷🍀🐇",
+            "screen_name": "HellKillerEX"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,25 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7485,
+            "friends_count": 7499,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1229,
+            "media_count": 1239,
             "pinned_tweet_ids_str": [
-                "1901310031267782999"
+                "1920068851771003323"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/gaynrNg14n",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1633194172000,
-            "updated_at": 1744350088738
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

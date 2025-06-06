@@ -1,34 +1,43 @@
 {
     "id": "1874081707231694848",
     "screen_name": "TaoziNyaaa",
-    "name": "桃子✿",
-    "description": "桃子哦🍑/感性的/三無少女/桃林的守護神（貓）/流行音樂🎵/希望以作品為生/無危險可靠近/掉落联系方式ww",
-    "location": "这里是桃子！希望你能喜欢咱！",
+    "name": "桃子",
+    "description": "桃子哦🍑/感性的/三無少女/桃林的守護神（貓）/流行音樂🎵/復古/笨蛋/希望以作品為生/無危險可靠近/掉落联系方式ww",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1893589817159467008/UaS6DVvA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874081707231694848/1746058957",
-    "followers_count": 173,
-    "friends_count": 350,
-    "statuses_count": 378,
-    "favourites_count": 679,
+    "followers_count": 183,
+    "friends_count": 380,
+    "statuses_count": 436,
+    "favourites_count": 991,
     "listed_count": 1,
-    "website": "https://t.co/OI2T1BZUHK",
+    "location": "这里是桃子！希望你能喜欢咱！",
+    "website": "https://t.co/GHQeCAj0B1",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-12-31 21:14:47 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/TaoziNyaaa",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODc0MDgxNzA3MjMxNjk0ODQ4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1893589817159467008/UaS6DVvA_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Dec 31 13:14:47 +0000 2024",
+            "name": "桃子",
+            "screen_name": "TaoziNyaaa"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -38,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "t.me/zhitaoooo",
-                            "expanded_url": "https://t.me/zhitaoooo",
-                            "url": "https://t.co/OI2T1BZUHK",
+                            "display_url": "t.me/Taozi_Chatbot",
+                            "expanded_url": "https://t.me/Taozi_Chatbot",
+                            "url": "https://t.co/GHQeCAj0B1",
                             "indices": [
                                 0,
                                 23
@@ -50,20 +59,25 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 350,
+            "friends_count": 380,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 36,
+            "media_count": 37,
             "pinned_tweet_ids_str": [
                 "1904919469589487726"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/OI2T1BZUHK",
-            "verified": false,
+            "url": "https://t.co/GHQeCAj0B1",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "这里是桃子！希望你能喜欢咱！"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
@@ -72,18 +86,28 @@
             "professional_type": "Creator",
             "category": [
                 {
-                    "id": 940,
-                    "name": "Musician",
+                    "id": 941,
+                    "name": "Music Producer",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1735650887000,
-            "updated_at": 1746176982521
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

@@ -2,30 +2,42 @@
     "id": "1559906722588000256",
     "screen_name": "Luo_yiyu",
     "name": "洛忆雨Yiur",
-    "description": "🥰🥰🥰 @misaka__network  笨蛋 @haku_dabai｜ 请叫我小洛~｜双相阴暗b｜有证含🍥2024.6.10｜行为情绪两个极端乱窜的baka｜infp｜ ctf学习中｜业余无线电BD8ELV｜大一土木跑路电科｜\n晚安🕯🕯@Tianqichen666",
+    "description": "🥰🥰🥰 @misaka__network    笨蛋 @haku_dabai ｜里 @Mitaner_hidden ｜ 请叫我小洛~｜双相阴暗b｜有证含🍥2024.6.10｜infp｜ ctf学习中｜业余无线电｜大一电科｜\n晚安🕯🕯@Tianqichen666",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1916907677721976832/MghM6Z7d_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559906722588000256/1745861422",
+    "followers_count": 1628,
+    "friends_count": 375,
+    "statuses_count": 5429,
+    "favourites_count": 4862,
+    "listed_count": 5,
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1896187995557883904/LPmY2iat_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559906722588000256/1691427413",
-    "followers_count": 1495,
-    "statuses_count": 4444,
-    "favourites_count": 4437,
-    "listed_count": 4,
+    "website": "https://t.co/A4NOlo75lV",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-08-17 22:15:28 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Luo_yiyu",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTU5OTA2NzIyNTg4MDAwMjU2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1916907677721976832/MghM6Z7d_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Aug 17 14:15:28 +0000 2022",
+            "name": "洛忆雨Yiur",
+            "screen_name": "Luo_yiyu"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,7 +49,7 @@
                         {
                             "display_url": "yiurblog.top",
                             "expanded_url": "http://www.yiurblog.top",
-                            "url": "https://t.co/A4NOlo6xwn",
+                            "url": "https://t.co/A4NOlo75lV",
                             "indices": [
                                 0,
                                 23
@@ -47,25 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 347,
+            "friends_count": 375,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 446,
+            "media_count": 524,
             "pinned_tweet_ids_str": [
                 "1894682535612825991"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/A4NOlo6xwn",
-            "verified": false,
+            "url": "https://t.co/A4NOlo75lV",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1660745728000,
-            "updated_at": 1744350094638
+            "created_at": 946656000000,
+            "updated_at": 1749219069841
         }
     }
 }

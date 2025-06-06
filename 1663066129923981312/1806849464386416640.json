@@ -1,50 +1,93 @@
 {
     "id": "1806849464386416640",
-    "screen_name": "bakazorange",
-    "name": "ERR_CONNECTION_LOST",
-    "description": "生命体无法连接。",
-    "location": "",
+    "screen_name": "tangeorange",
+    "name": "橙橘桔橙",
+    "description": "__OIer\n_虚无之有。\n_BFF @alphax1ull\n_我人很老实请不要欺负我\n_MtF\n_working on https://t.co/p5AWIehP0e",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882668179060916224/xtWx_fUa_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1806849464386416640/1734166509",
-    "followers_count": 1148,
-    "statuses_count": 3550,
-    "favourites_count": 5717,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1806849464386416640/1748060367",
+    "followers_count": 1187,
+    "friends_count": 1379,
+    "statuses_count": 3739,
+    "favourites_count": 5913,
     "listed_count": 1,
+    "location": "",
+    "website": "https://t.co/NqG6Q8kFY7",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-06-29 08:37:43 +08:00",
-    "url": "https://twitter.com/bakazorange",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/tangeorange",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODA2ODQ5NDY0Mzg2NDE2NjQw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1882668179060916224/xtWx_fUa_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 29 00:37:43 +0000 2024",
+            "name": "橙橘桔橙",
+            "screen_name": "tangeorange"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "nlnm.orangestd.cn",
+                            "expanded_url": "http://nlnm.orangestd.cn",
+                            "url": "https://t.co/p5AWIehP0e",
+                            "indices": [
+                                61,
+                                84
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "orangestd.cn",
+                            "expanded_url": "http://orangestd.cn",
+                            "url": "https://t.co/NqG6Q8kFY7",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1277,
+            "friends_count": 1379,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 575,
+            "media_count": 602,
             "pinned_tweet_ids_str": [
                 "1868968124990865443"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/NqG6Q8kFY7",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -59,10 +102,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1719621463000,
-            "updated_at": 1746077186476
+            "created_at": 946656000000,
+            "updated_at": 1749219072953
         }
     }
 }

@@ -2,15 +2,15 @@
     "id": "1832703762559037440",
     "screen_name": "SHEEPLOVESGRASS",
     "name": "爱草の绵羊",
-    "description": "对｜很好｜嗯｜就是这样｜再冷静一点｜有事都可以在置顶帖说哦｜这里弥补空白更具美感｜小号@Xieshenmone8964｜做事无风格也不想是任何人的风格💧｜极右偏左｜看唧唧回fo",
-    "location": "Twitter",
+    "description": "在我看完马克思列宁毛泽东之前我不会再键政了！谢谢大家🤔我花十万二十万都要把这个人给做掉@Xieshenmone8964😡",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1907779733510934528/nYPrSh_r_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832703762559037440/1746109690",
-    "followers_count": 1154,
-    "friends_count": 747,
-    "statuses_count": 1380,
-    "favourites_count": 14970,
-    "listed_count": 11,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832703762559037440/1748606265",
+    "followers_count": 1279,
+    "friends_count": 764,
+    "statuses_count": 1656,
+    "favourites_count": 17967,
+    "listed_count": 13,
+    "location": "Twitter",
     "website": "https://t.co/CgSUZKgFkf",
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-09-08 16:53:31 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/SHEEPLOVESGRASS",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODMyNzAzNzYyNTU5MDM3NDQw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1907779733510934528/nYPrSh_r_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Sep 08 08:53:31 +0000 2024",
+            "name": "爱草の绵羊",
+            "screen_name": "SHEEPLOVESGRASS"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -50,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 747,
+            "friends_count": 764,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 209,
+            "media_count": 233,
             "pinned_tweet_ids_str": [
                 "1897277035132961063"
             ],
@@ -61,18 +70,33 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/CgSUZKgFkf",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Twitter"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1725785611000,
-            "updated_at": 1746176977957
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

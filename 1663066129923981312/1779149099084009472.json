@@ -1,20 +1,25 @@
 {
     "id": "1779149099084009472",
     "screen_name": "MikuLoverr_",
-    "name": "emm🏳️‍⚧️🍥🥝(Still Somatization)",
-    "description": "你若是孤独……咱陪着你就好   167cm/48kg/hrt：2024.11.16/09年16岁理科牲/重庆一中唯一mtf（暴论）/双相ADHD躯体化/成分正常都会回fo的/恋人 @mikumiku3648",
-    "location": "重庆 渝北",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1916715396843106305/BAemjGMy_normal.jpg",
+    "name": "emm🏳️‍⚧️🍥🥝(depressed)",
+    "description": "一只Miku单推人/你若是孤独……咱陪着你就好 /抑郁疯癫二面体/备证备术家长党/167cm/48kg/hrt：2024.11.16/09年16岁理科牲/重庆一中唯一mtf（暴论）/双相ADHD感统失调/恋人 @mikumiku3648（可能随时夺舍）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930670465724612608/-qLodlKH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779149099084009472/1737108121",
-    "followers_count": 1071,
-    "statuses_count": 9873,
-    "favourites_count": 19046,
-    "listed_count": 7,
+    "followers_count": 1127,
+    "friends_count": 1096,
+    "statuses_count": 10652,
+    "favourites_count": 20797,
+    "listed_count": 8,
+    "location": "重庆 渝北",
+    "website": "https://t.co/rz5fLl5d1r",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-04-13 22:06:24 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/MikuLoverr_",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "Mikufans_"
                                         },
                                         "rest_id": "1815195966271815680"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930670465724612608/-qLodlKH_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Apr 13 14:06:24 +0000 2024",
+            "name": "emm🏳️‍⚧️🍥🥝(depressed)",
+            "screen_name": "MikuLoverr_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -75,10 +89,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1050,
+            "friends_count": 1096,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 610,
+            "media_count": 640,
             "pinned_tweet_ids_str": [
                 "1884488453842460899"
             ],
@@ -86,9 +100,14 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/rz5fLl5d1r",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "重庆 渝北"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -103,10 +122,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1713017184000,
-            "updated_at": 1746077180863
+            "created_at": 946656000000,
+            "updated_at": 1749219067733
         }
     }
 }

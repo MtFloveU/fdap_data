@@ -2,28 +2,42 @@
     "id": "1526965927748571136",
     "screen_name": "Natsumejuri",
     "name": "夏子🏳️‍⚧️",
-    "description": "MtF | Computer Science｜8086汇编/C/C++/Java｜何を捧げれば「彼女」になることができる？",
-    "location": "Chiba-ken, Japan",
+    "description": "MtF | Computer Science｜8086汇编/C/C++/Java/Python｜何を捧げれば「彼女」になることができる？",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1811649174091546624/VGTTmBoI_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526965927748571136/1721207717",
-    "followers_count": 253,
-    "statuses_count": 423,
-    "favourites_count": 7369,
-    "listed_count": 0,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526965927748571136/1746439659",
+    "followers_count": 956,
+    "friends_count": 341,
+    "statuses_count": 472,
+    "favourites_count": 8234,
+    "listed_count": 3,
+    "location": "药娘斯坦",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-05-19 00:41:01 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Natsumejuri",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTI2OTY1OTI3NzQ4NTcxMTM2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1811649174091546624/VGTTmBoI_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed May 18 16:41:01 +0000 2022",
+            "name": "夏子🏳️‍⚧️",
+            "screen_name": "Natsumejuri"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 269,
+            "friends_count": 341,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 163,
+            "media_count": 186,
             "pinned_tweet_ids_str": [
                 "1801599718956335183"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "药娘斯坦"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1652892061000,
-            "updated_at": 1746077185700
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

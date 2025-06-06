@@ -2,30 +2,42 @@
     "id": "1810642408423747584",
     "screen_name": "Aki_0728_",
     "name": "ほのか",
-    "description": "08在校高中生 maimai DX低手 這裡是我的日常推/08在校高校生 maimai DX低手 ここは私の日常推",
-    "location": "距離您0.1km",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1903647262535753728/oO5jwH1U_normal.jpg",
+    "description": "08在校高中生 maimai DX低手 這裡是我的日常推/08在校高校生 maimai DX低手 ここは私の日常推 頭像不代表任何屬性",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1913264754665156610/rZwfZZGD_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810642408423747584/1735900630",
-    "followers_count": 232,
-    "statuses_count": 1975,
-    "favourites_count": 5075,
+    "followers_count": 228,
+    "friends_count": 296,
+    "statuses_count": 2008,
+    "favourites_count": 5034,
     "listed_count": 2,
+    "location": "距離您0.1km",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-07-09 19:49:34 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Aki_0728_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODEwNjQyNDA4NDIzNzQ3NTg0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1913264754665156610/rZwfZZGD_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jul 09 11:49:34 +0000 2024",
+            "name": "ほのか",
+            "screen_name": "Aki_0728_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 297,
+            "friends_count": 296,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 199,
+            "media_count": 206,
             "pinned_tweet_ids_str": [
                 "1900963252093206678"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "距離您0.1km"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1720525774000,
-            "updated_at": 1744350080771
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

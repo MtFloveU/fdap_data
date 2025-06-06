@@ -2,30 +2,42 @@
     "id": "1513035734844059649",
     "screen_name": "Bingkler",
     "name": "Bingkler",
-    "description": "主人喵 @liychn30019070 | 伊蕾娜天下第一|水月|御坂|澄闪|友跨|键政🚫|这里是冰可乐！|Minecraft|Arknights|Clash Royale|精神状态堪忧|对大多数人友好||愿世间没有死亡，也愿已经离开的人会在另一个世界被温柔以待||梦想是让死者苏生 |",
-    "location": "ShangHai",
+    "description": "日常推特，并不包含过多游戏内容|主人喵 @liychn30019070 | 水月|御坂|澄闪|友跨|键政🚫|这里是冰可乐！|Minecraft|Arknights|Clash Royale|精神状态堪忧|对大多数人友好||愿世间没有死亡，也愿已经离开的人会在另一个世界被温柔以待||梦想是让死者苏生 |",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1717177890356580352/Fpvn8tR4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1513035734844059649/1700378423",
-    "followers_count": 161,
-    "statuses_count": 473,
-    "favourites_count": 2896,
+    "followers_count": 164,
+    "friends_count": 499,
+    "statuses_count": 478,
+    "favourites_count": 2881,
     "listed_count": 0,
+    "location": "ShangHai",
+    "website": "https://t.co/Bmw8qpVcBv",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-04-10 14:06:58 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Bingkler",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTEzMDM1NzM0ODQ0MDU5NjQ5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1717177890356580352/Fpvn8tR4_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Apr 10 06:06:58 +0000 2022",
+            "name": "Bingkler",
+            "screen_name": "Bingkler"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,7 +49,7 @@
                         {
                             "display_url": "bingkler.com",
                             "expanded_url": "http://bingkler.com",
-                            "url": "https://t.co/MrotFr3hDP",
+                            "url": "https://t.co/Bmw8qpVcBv",
                             "indices": [
                                 0,
                                 23
@@ -47,7 +59,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 489,
+            "friends_count": 499,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 38,
@@ -55,11 +67,18 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/MrotFr3hDP",
-            "verified": false,
+            "url": "https://t.co/Bmw8qpVcBv",
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "ShangHai"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1717154913019695113",
             "professional_type": "Creator",
@@ -71,12 +90,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1649570818000,
-            "updated_at": 1744350025839
+            "created_at": 946656000000,
+            "updated_at": 1749219034144
         }
     }
 }

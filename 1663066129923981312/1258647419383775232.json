@@ -2,30 +2,42 @@
     "id": "1258647419383775232",
     "screen_name": "rcj_united",
     "name": "RCJ",
-    "description": "🎸🖤✨️\nRT・いいね≠賛成",
-    "location": "現在フォロー規制　サブ垢もフォローして",
+    "description": "🎸🖤✨️\nRT・いいね≠賛成(現在規制中)",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1779573508248567808/TMiSKGZH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1258647419383775232/1695290177",
-    "followers_count": 75539,
-    "statuses_count": 749172,
-    "favourites_count": 603439,
-    "listed_count": 76,
+    "followers_count": 84078,
+    "friends_count": 24839,
+    "statuses_count": 774287,
+    "favourites_count": 626598,
+    "listed_count": 80,
+    "location": "現在フォロー規制　サブ垢もフォローして",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": false,
     "followed_by": true,
-    "created_at": "2020-05-08 14:38:28 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/rcj_united",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjU4NjQ3NDE5MzgzNzc1MjMy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1779573508248567808/TMiSKGZH_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri May 08 06:38:28 +0000 2020",
+            "name": "RCJ",
+            "screen_name": "rcj_united"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,26 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 21407,
+            "friends_count": 24839,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 5736,
+            "media_count": 5940,
             "pinned_tweet_ids_str": [
                 "1885537394902131125"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "現在フォロー規制　サブ垢もフォローして"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
         },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1588919908000,
-            "updated_at": 1744350012584
+            "created_at": 946656000000,
+            "updated_at": 1749219026953
         }
     }
 }

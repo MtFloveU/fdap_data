@@ -1,16 +1,16 @@
 {
     "id": "1894285195651813378",
     "screen_name": "zhu6hua",
-    "name": "我就要坂下六花，因为我配",
-    "description": "我是极左支黑温和键政魔怔类人生物请和我互fo/攻击是我表达爱的方式 初代目@zuifeiwu 二代目@6huazhu",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1895411742622031872/ktMsbjQx_normal.jpg",
+    "name": "那一天的坂下 六花起来",
+    "description": "我是极左支黑温和键政魔怔萌萌类人生物请和我互fo/攻击是我表达爱的方式 初代目@zuifeiwu 二代目@6huazhu",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930642262855462912/SNlo-KZ5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894285195651813378/1741930815",
-    "followers_count": 909,
-    "friends_count": 903,
-    "statuses_count": 4311,
-    "favourites_count": 6766,
-    "listed_count": 5,
+    "followers_count": 1033,
+    "friends_count": 991,
+    "statuses_count": 5870,
+    "favourites_count": 9395,
+    "listed_count": 4,
+    "location": "",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2025-02-25 15:16:55 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/zhu6hua",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODk0Mjg1MTk1NjUxODEzMzc4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930642262855462912/SNlo-KZ5_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Feb 25 07:16:55 +0000 2025",
+            "name": "那一天的坂下 六花起来",
+            "screen_name": "zhu6hua"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 903,
+            "friends_count": 991,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 54,
+            "media_count": 77,
             "pinned_tweet_ids_str": [
                 "1895423372273819659"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1740467815000,
-            "updated_at": 1746277398002
+            "created_at": 946656000000,
+            "updated_at": 1749219060359
         }
     }
 }

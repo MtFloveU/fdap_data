@@ -2,68 +2,68 @@
     "id": "1755765450707709952",
     "screen_name": "huajuanshiwo",
     "name": "树海",
-    "description": "15岁  我喜欢@HY_ShiZhong",
-    "location": "蓝色空间号",
+    "description": "15岁 我喜欢@HY_SundiFavor",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876289236909092864/caccjc2M_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755765450707709952/1730289185",
-    "followers_count": 1429,
-    "friends_count": 1731,
-    "statuses_count": 7625,
-    "favourites_count": 35942,
-    "listed_count": 6,
-    "website": "https://t.co/kZiBWvLQIv",
+    "followers_count": 1440,
+    "friends_count": 1774,
+    "statuses_count": 7988,
+    "favourites_count": 38101,
+    "listed_count": 5,
+    "location": "蓝色空间号",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-02-09 09:28:44 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/huajuanshiwo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzU1NzY1NDUwNzA3NzA5OTUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1876289236909092864/caccjc2M_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Feb 09 01:28:44 +0000 2024",
+            "name": "树海",
+            "screen_name": "huajuanshiwo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/huajuanshiwo2",
-                            "expanded_url": "https://ngl.link/huajuanshiwo2",
-                            "url": "https://t.co/kZiBWvLQIv",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1731,
+            "friends_count": 1774,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1203,
+            "media_count": 1250,
             "pinned_tweet_ids_str": [
                 "1876566723912229149"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/kZiBWvLQIv",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "蓝色空间号"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -72,12 +72,22 @@
             "professional_type": "Business",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1707442124000,
-            "updated_at": 1746277407625
+            "created_at": 946656000000,
+            "updated_at": 1749219068775
         }
     }
 }

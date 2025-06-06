@@ -1,31 +1,43 @@
 {
     "id": "1470410046353858565",
     "screen_name": "miumcii",
-    "name": "闵目夕曦🍀",
-    "description": "有时候会癫癫的",
-    "location": "",
+    "name": "🍋闵目夕曦🍀",
+    "description": "存在主义危机中",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1807752794868436992/aRV-vQMQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470410046353858565/1741136862",
-    "followers_count": 32069,
-    "statuses_count": 10937,
-    "favourites_count": 20236,
+    "followers_count": 32774,
+    "friends_count": 277,
+    "statuses_count": 11068,
+    "favourites_count": 20901,
     "listed_count": 95,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
-    "created_at": "2021-12-13 23:07:45 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/miumcii",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDcwNDEwMDQ2MzUzODU4NTY1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1807752794868436992/aRV-vQMQ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Dec 13 15:07:45 +0000 2021",
+            "name": "🍋闵目夕曦🍀",
+            "screen_name": "miumcii"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,26 +46,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 268,
+            "friends_count": 277,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 263,
-            "pinned_tweet_ids_str": [
-                "1908370203987099845"
-            ],
+            "media_count": 268,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1639408065000,
-            "updated_at": 1744350118008
+            "created_at": 946656000000,
+            "updated_at": 1749219080434
         }
     }
 }

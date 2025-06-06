@@ -2,28 +2,42 @@
     "id": "1685784710285266944",
     "screen_name": "mhtqwq",
     "name": "🍓草莓棉花糖🍥",
-    "description": "mtf，infp｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜正式出柜前处理大量事务ing｜不建政｜Minecraft｜玩格雷的m｜p社战犯｜杂鱼😈@Alxiaz_ @Black_Millet @Andy1782010",
-    "location": "天津四,联合",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1895128785860665344/EGkQqjL8_normal.jpg",
+    "description": "mtf，infp｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜处理破事｜不建政｜Minecraft｜玩格雷的m｜p社战犯｜杂鱼😈@Alxiaz_ @Black_Millet @Andy1782010",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685784710285266944/1725782078",
-    "followers_count": 1005,
-    "statuses_count": 3184,
-    "favourites_count": 4152,
-    "listed_count": 3,
+    "followers_count": 1913,
+    "friends_count": 364,
+    "statuses_count": 4545,
+    "favourites_count": 6255,
+    "listed_count": 4,
+    "location": "天津四,联合",
+    "website": "https://t.co/cLjIhp4dkM",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-07-31 06:49:53 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/mhtqwq",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjg1Nzg0NzEwMjg1MjY2OTQ0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jul 30 22:49:53 +0000 2023",
+            "name": "🍓草莓棉花糖🍥",
+            "screen_name": "mhtqwq"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,25 +59,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 336,
+            "friends_count": 364,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 339,
+            "media_count": 575,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/cLjIhp4dkM",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "天津四,联合"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1690757393000,
-            "updated_at": 1746077174316
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

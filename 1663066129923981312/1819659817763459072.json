@@ -1,30 +1,43 @@
 {
     "id": "1819659817763459072",
-    "screen_name": "duxin12th",
+    "screen_name": "SPM14thdaduda",
     "name": "🥒🐍都心🐊🐎",
-    "description": "已是◼️◼️◼️",
-    "location": "都心大青楼",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1914282350399434754/WzOnuGRe_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819659817763459072/1744825477",
-    "followers_count": 153,
-    "statuses_count": 21963,
-    "favourites_count": 28389,
-    "listed_count": 6,
+    "description": "只会发小动物",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1928812158906757120/fI7ORHiO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819659817763459072/1748686602",
+    "followers_count": 80,
+    "friends_count": 937,
+    "statuses_count": 23482,
+    "favourites_count": 29542,
+    "listed_count": 5,
+    "location": "Narita-shi, Chiba",
+    "website": "https://t.co/COKDjD7zlP",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-08-03 17:01:34 +08:00",
-    "url": "https://twitter.com/duxin12th",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/SPM14thdaduda",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODE5NjU5ODE3NzYzNDU5MDcy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1928812158906757120/fI7ORHiO_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Aug 03 09:01:34 +0000 2024",
+            "name": "🥒🐍都心🐊🐎",
+            "screen_name": "SPM14thdaduda"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "ngl.link/dadudalalully1",
-                            "expanded_url": "https://ngl.link/dadudalalully1",
-                            "url": "https://t.co/OKclDfoM1T",
+                            "display_url": "ngl.link/duxindaduda",
+                            "expanded_url": "https://ngl.link/duxindaduda",
+                            "url": "https://t.co/COKDjD7zlP",
                             "indices": [
                                 0,
                                 23
@@ -46,27 +59,53 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 958,
+            "friends_count": 937,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3006,
+            "media_count": 3288,
             "pinned_tweet_ids_str": [
-                "1912940705577631972"
+                "1880292001939353770"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/OKclDfoM1T",
-            "verified": false,
+            "url": "https://t.co/COKDjD7zlP",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Narita-shi, Chiba"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1924746156791218397",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 399,
+                    "name": "Home & Garden",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1722675694000,
-            "updated_at": 1746077182049
+            "created_at": 946656000000,
+            "updated_at": 1749219068775
         }
     }
 }

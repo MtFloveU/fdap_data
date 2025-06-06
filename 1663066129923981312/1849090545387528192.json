@@ -1,30 +1,43 @@
 {
     "id": "1849090545387528192",
     "screen_name": "Net2ach_",
-    "name": "Ash",
-    "description": "并不纯净",
-    "location": "Unkown",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1859800873276407811/TYvqReDU_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849090545387528192/1731420391",
-    "followers_count": 302,
-    "statuses_count": 3636,
-    "favourites_count": 4583,
+    "name": "None",
+    "description": "当我死了就行",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1927360953835769856/POQ419rm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849090545387528192/1748353633",
+    "followers_count": 294,
+    "friends_count": 298,
+    "statuses_count": 3638,
+    "favourites_count": 4496,
     "listed_count": 0,
+    "location": "Unkown",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-10-23 22:09:09 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Net2ach_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQ5MDkwNTQ1Mzg3NTI4MTky",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1927360953835769856/POQ419rm_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Oct 23 14:09:09 +0000 2024",
+            "name": "None",
+            "screen_name": "Net2ach_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,28 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 302,
+            "friends_count": 298,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 248,
+            "media_count": 247,
             "pinned_tweet_ids_str": [
-                "1917074104374726769"
+                "1916677895919202705"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Unkown"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1729692549000,
-            "updated_at": 1746077175503
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

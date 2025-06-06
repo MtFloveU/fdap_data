@@ -2,31 +2,42 @@
     "id": "1450731584676458496",
     "screen_name": "twilight8964",
     "name": "红尘寄雪🏳️‍🌈",
-    "description": "bi-les/poly/非专偶 爱 死亡 理性\n我想做既有鸡巴又有逼的女孩子\n我永远喜欢名雪 主人妈咪爱人💞：@nayuki_leung",
-    "location": "幻想乡",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1856693580099936256/40x7ZxFB_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1450731584676458496/1743491748",
-    "followers_count": 387,
-    "statuses_count": 6486,
-    "favourites_count": 143229,
+    "description": "bi-les/poly/非专偶 爱 死亡 理性\n我想做既有鸡巴又有逼的女孩子 但是只有一个好扣的批\n我永远喜欢名雪 主人妈咪爱人💞：@nayuki_leung 对食集美@kfx5611",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929202775424159744/ncgUbW0m_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1450731584676458496/1747960567",
+    "followers_count": 405,
+    "friends_count": 1768,
+    "statuses_count": 6688,
+    "favourites_count": 149095,
     "listed_count": 0,
+    "location": "幻想乡",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2021-10-20 15:52:49 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/twilight8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDUwNzMxNTg0Njc2NDU4NDk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929202775424159744/ncgUbW0m_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Oct 20 07:52:49 +0000 2021",
+            "name": "红尘寄雪🏳️‍🌈",
+            "screen_name": "twilight8964"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1732,
+            "friends_count": 1768,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 246,
-            "pinned_tweet_ids_str": [
-                "1898469557800755486"
-            ],
+            "media_count": 263,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "幻想乡"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1634716369000,
-            "updated_at": 1744350120667
+            "created_at": 946656000000,
+            "updated_at": 1749219080434
         }
     }
 }

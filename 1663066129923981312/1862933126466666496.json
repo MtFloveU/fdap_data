@@ -2,30 +2,42 @@
     "id": "1862933126466666496",
     "screen_name": "moremoreagain",
     "name": "琥珀",
-    "description": "来推特发癫｜偶尔抽象｜日记推（阴湿之物）｜礼（窝）貌（囊）｜不关心政治｜我从不否认自己是傻逼｜互联网重度依赖｜不要跟我私信“你好”，不会回复的",
-    "location": "",
+    "description": "来推特发癫｜偶尔抽象｜日记推（阴湿之物）｜礼（窝）貌（囊）｜不关心政治｜我从不否认自己是傻逼｜互联网重度依赖｜赤石英雄搬石英雄",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1863409830171742208/hTjZ4qQl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862933126466666496/1733106559",
-    "followers_count": 653,
-    "statuses_count": 13663,
-    "favourites_count": 33404,
-    "listed_count": 5,
+    "followers_count": 767,
+    "friends_count": 793,
+    "statuses_count": 17609,
+    "favourites_count": 44975,
+    "listed_count": 4,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-12-01 02:54:15 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/moremoreagain",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODYyOTMzMTI2NDY2NjY2NDk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1863409830171742208/hTjZ4qQl_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Nov 30 18:54:15 +0000 2024",
+            "name": "琥珀",
+            "screen_name": "moremoreagain"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 679,
+            "friends_count": 793,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 342,
+            "media_count": 547,
             "pinned_tweet_ids_str": [
                 "1884931805645803882"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1732992855000,
-            "updated_at": 1744350078919
+            "created_at": 946656000000,
+            "updated_at": 1749219061680
         }
     }
 }

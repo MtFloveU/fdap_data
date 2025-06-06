@@ -1,20 +1,25 @@
 {
     "id": "1795137310935408640",
     "screen_name": "saksamalah2nd",
-    "name": "👁️保守の卡茨向日葵🌻👁️",
-    "description": "马来西亚是马来西亚人的马来西亚😞   不要遵宪要修宪📕  不要主人要平等📜 人民至上👨🛠 Ketuanan Rakyat  一國三制🇲🇾❤  |\n马来西亚Malaysia是由11个州（Negeri）和两个邦（Wilayah）组成的联邦（Persekutuan）\n|Hidup Persekutuan！🇲",
-    "location": "重庆 马来西亚/（广东省）闽粤交界",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1872200034487611392/VRQbEUx2_normal.jpg",
+    "name": "AAA吉隆坡导游•卡茨向日葵🌻",
+    "description": "马来西亚是马来西亚人的马来西亚😞   不要遵宪要修宪📕  不要主人要平等📜 人民至上👨🛠 Ketuanan Rakyat  一國三制🇲🇾❤|惠州人|@lmao_quien",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930138961374261249/nxbqEN9H_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795137310935408640/1729710651",
-    "followers_count": 1203,
-    "statuses_count": 25098,
-    "favourites_count": 70716,
-    "listed_count": 10,
+    "followers_count": 1219,
+    "friends_count": 1501,
+    "statuses_count": 26566,
+    "favourites_count": 76316,
+    "listed_count": 12,
+    "location": "重庆 马来西亚/（广东省）闽粤交界",
+    "website": "https://t.co/GwUECa6oIO",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-05-28 00:57:58 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/saksamalah2nd",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "saksamalah3rd"
                                         },
                                         "rest_id": "1822687533463207936"
@@ -50,12 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930138961374261249/nxbqEN9H_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon May 27 16:57:58 +0000 2024",
+            "name": "AAA吉隆坡导游•卡茨向日葵🌻",
+            "screen_name": "saksamalah2nd"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -77,23 +89,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1492,
+            "friends_count": 1501,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1806,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1854,
+            "pinned_tweet_ids_str": [
+                "1928823430796976162"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/GwUECa6oIO",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "重庆 马来西亚/（广东省）闽粤交界"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1716829078000,
-            "updated_at": 1744350094638
+            "created_at": 946656000000,
+            "updated_at": 1749219068775
         }
     }
 }

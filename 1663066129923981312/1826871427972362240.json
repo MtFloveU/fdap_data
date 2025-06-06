@@ -2,31 +2,42 @@
     "id": "1826871427972362240",
     "screen_name": "misaka__network",
     "name": "Misaka Makoto (御坂　まこと)🏳️‍🌈🏳️‍⚧️🍥🇳🇿🇦🇶🇹🇼",
-    "description": "Pronoun: Misaka/Misaka's; \nGPG Key Fingerprint: 3C01 D0C8 C0D2 3F40 C3E2  4EFD 2C99 FFA9 E7DF F7E2E954; \nTrans Non-Binary; \nGAHT: 2025-1-24; \nMy dear: @Luo_yiyu",
-    "location": "/Users/MisakaNetworkServices/",
+    "description": "Pronoun: Misaka/Misaka's; \nGPG Key Fingerprint: 3C01 D0C8 C0D2 3F40 C3E2  4EFD 2C99 FFA9 E7DF F7E2 E954; \nTrans Female; \nGAHT: 2025-1-24; \nMy dear: @Luo_yiyu",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892543426656415744/mYE7JEtM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826871427972362240/1726647335",
-    "followers_count": 341,
-    "statuses_count": 9270,
-    "favourites_count": 29302,
+    "followers_count": 409,
+    "friends_count": 623,
+    "statuses_count": 12381,
+    "favourites_count": 36835,
     "listed_count": 0,
+    "location": "/Users/MisakaNetworkServices/",
+    "website": "https://t.co/cDAtzx6l4u",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-08-23 14:38:09 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/misaka__network",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI2ODcxNDI3OTcyMzYyMjQw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1892543426656415744/mYE7JEtM_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Aug 23 06:38:09 +0000 2024",
+            "name": "Misaka Makoto (御坂　まこと)🏳️‍🌈🏳️‍⚧️🍥🇳🇿🇦🇶🇹🇼",
+            "screen_name": "misaka__network"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -38,7 +49,7 @@
                         {
                             "display_url": "webpagesvc.misakanetworksystem.org/index.html",
                             "expanded_url": "http://webpagesvc.misakanetworksystem.org/index.html",
-                            "url": "https://t.co/cDAtzx6SU2",
+                            "url": "https://t.co/cDAtzx6l4u",
                             "indices": [
                                 0,
                                 23
@@ -48,30 +59,47 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 514,
+            "friends_count": 623,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 133,
+            "media_count": 176,
             "pinned_tweet_ids_str": [
-                "1909961097207296091"
+                "1925803308469334259"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/cDAtzx6SU2",
-            "verified": false,
+            "url": "https://t.co/cDAtzx6l4u",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "/Users/MisakaNetworkServices/"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1827166741379870929",
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1724395089000,
-            "updated_at": 1744350094637
+            "created_at": 946656000000,
+            "updated_at": 1749219068775
         }
     }
 }

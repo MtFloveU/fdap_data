@@ -2,30 +2,42 @@
     "id": "1453117730341605380",
     "screen_name": "philly030",
     "name": "白雲",
-    "description": "kig新人 忍冬準備中~~ \n本號為主號\ncode: @wh173cl0ud\n之後會有用: @whitecloud_kig\nvrchat: 白雲whitecloud\n喜歡可愛的東西 不管是什麼~",
-    "location": "距離你7km",
+    "description": "kig準備中~~ \n本號為主號\ncode: @wh173cl0ud\n之後會有用: @whitecloud_kig\nvrchat: 白雲whitecloud\n喜歡可愛的東西 不管是什麼~",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1582373311912497154/a_UF-whZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1453117730341605380/1741325172",
-    "followers_count": 206,
-    "statuses_count": 1424,
-    "favourites_count": 16340,
+    "followers_count": 225,
+    "friends_count": 816,
+    "statuses_count": 1499,
+    "favourites_count": 17882,
     "listed_count": 6,
+    "location": "距離你7km",
+    "website": "https://t.co/faqAws0CBI",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2021-10-27 05:54:07 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/philly030",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDUzMTE3NzMwMzQxNjA1Mzgw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1582373311912497154/a_UF-whZ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Oct 26 21:54:07 +0000 2021",
+            "name": "白雲",
+            "screen_name": "philly030"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "blog.cloudowo.com",
-                            "expanded_url": "https://blog.cloudowo.com",
-                            "url": "https://t.co/dqqZXplzUP",
+                            "display_url": "cloudowo.com",
+                            "expanded_url": "https://cloudowo.com",
+                            "url": "https://t.co/faqAws0CBI",
                             "indices": [
                                 0,
                                 23
@@ -47,25 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 767,
+            "friends_count": 816,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 308,
+            "media_count": 313,
             "pinned_tweet_ids_str": [
                 "1854605617706738028"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/dqqZXplzUP",
-            "verified": false,
+            "url": "https://t.co/faqAws0CBI",
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "距離你7km"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1635285247000,
-            "updated_at": 1744350023458
+            "created_at": 946656000000,
+            "updated_at": 1749219032940
         }
     }
 }

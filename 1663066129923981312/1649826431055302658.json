@@ -1,29 +1,43 @@
 {
     "id": "1649826431055302658",
     "screen_name": "pwnint64",
-    "name": "无双大黄瓜",
-    "description": "1/8.2 Billion. | mt*                                                                                              \nTweets are under WTFPL v2 License. @64bit_ndk",
+    "name": "pwnint",
+    "description": "友一切，除了傻逼 | mtm                                                                                              \nTweets are under WTFPL v2 License. @64bit_ndk",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1927074199819964417/5x-YbOYV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649826431055302658/1748285267",
+    "followers_count": 758,
+    "friends_count": 1287,
+    "statuses_count": 5632,
+    "favourites_count": 36802,
+    "listed_count": 0,
     "location": ":D",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1886467087834767360/rfYDuy-B_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649826431055302658/1729966677",
-    "followers_count": 561,
-    "statuses_count": 4295,
-    "favourites_count": 26531,
-    "listed_count": 1,
+    "website": "https://t.co/cgXOrekjOM",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-04-23 01:24:25 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/pwnint64",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjQ5ODI2NDMxMDU1MzAyNjU4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1927074199819964417/5x-YbOYV_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Apr 22 17:24:25 +0000 2023",
+            "name": "pwnint",
+            "screen_name": "pwnint64"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,7 +49,7 @@
                         {
                             "display_url": "ndk.moe",
                             "expanded_url": "https://ndk.moe",
-                            "url": "https://t.co/cgXOrekREk",
+                            "url": "https://t.co/cgXOrekjOM",
                             "indices": [
                                 0,
                                 23
@@ -45,30 +59,45 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1176,
+            "friends_count": 1287,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 731,
+            "media_count": 1050,
             "pinned_tweet_ids_str": [
                 "1900016464209256757"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/cgXOrekREk",
-            "verified": false,
+            "url": "https://t.co/cgXOrekjOM",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ":D"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true,
             "patreon_handle": "kfcthursdayvme50"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1682184265000,
-            "updated_at": 1746077170591
+            "created_at": 946656000000,
+            "updated_at": 1749219059243
         }
     }
 }

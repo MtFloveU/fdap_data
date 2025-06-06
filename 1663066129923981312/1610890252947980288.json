@@ -2,28 +2,42 @@
     "id": "1610890252947980288",
     "screen_name": "cuzhnh3",
     "name": "天然丐",
-    "description": "你们好，我是天然丐，\n丐是乞丐的丐。\n现实版奶龙\n我是个大傻逼\n还是肥宅\n\n里推@kaitshel1680（交朋友）",
-    "location": "地狱",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1914684342858866691/oEZhGb7h_normal.jpg",
+    "description": "你们好，我是天然丐，\n丐是乞丐的丐。\n现实版奶龙\n丑逼\n还是肥宅\n🚪我给你一块求求你我们交朋友吧～\n里推@kaitshel1680（交朋友）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1924095636187598848/pavU3nsa_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1610890252947980288/1732293341",
-    "followers_count": 158,
-    "statuses_count": 3115,
-    "favourites_count": 1151,
-    "listed_count": 1,
+    "followers_count": 162,
+    "friends_count": 199,
+    "statuses_count": 3242,
+    "favourites_count": 1234,
+    "listed_count": 0,
+    "location": "吉林省",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2023-01-05 14:45:49 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/cuzhnh3",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjEwODkwMjUyOTQ3OTgwMjg4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1924095636187598848/pavU3nsa_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jan 05 06:45:49 +0000 2023",
+            "name": "天然丐",
+            "screen_name": "cuzhnh3"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 196,
+            "friends_count": 199,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 621,
+            "media_count": 644,
             "pinned_tweet_ids_str": [
                 "1838600550042202359"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "吉林省"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1672901149000,
-            "updated_at": 1746080521888
+            "created_at": 946656000000,
+            "updated_at": 1749219025756
         }
     }
 }

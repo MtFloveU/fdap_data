@@ -2,30 +2,42 @@
     "id": "1594947258906456065",
     "screen_name": "imqiuy",
     "name": "🏳️‍⚧️秋月🍥",
-    "description": "本推不键政 键政转里推@Beta_Estradiol 只通过熟悉的人 可爱男娘@Ak1raQ_love",
-    "location": "Seattle, WA",
+    "description": "本推不键政 键政转里推@qiuylove 只通过熟悉的人 可爱男娘@CharmingP5K",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1899101332268781568/YFGuh0fA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1594947258906456065/1741616016",
-    "followers_count": 36,
-    "statuses_count": 4,
-    "favourites_count": 170,
+    "followers_count": 43,
+    "friends_count": 6,
+    "statuses_count": 6,
+    "favourites_count": 204,
     "listed_count": 0,
+    "location": "Seattle, WA",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-11-22 14:54:13 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/imqiuy",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTk0OTQ3MjU4OTA2NDU2MDY1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1899101332268781568/YFGuh0fA_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Nov 22 06:54:13 +0000 2022",
+            "name": "🏳️‍⚧️秋月🍥",
+            "screen_name": "imqiuy"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 5,
+            "friends_count": 6,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 0,
+            "media_count": 1,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Seattle, WA"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1669100053000,
-            "updated_at": 1744350076462
+            "created_at": 946656000000,
+            "updated_at": 1749219059243
         }
     }
 }

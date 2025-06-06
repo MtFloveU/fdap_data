@@ -2,30 +2,42 @@
     "id": "1760890372585037824",
     "screen_name": "puddings00",
     "name": "布丁喵呜🏳️‍⚧️🍥",
-    "description": "希望你可以喜欢我哦🍬\n/zh-CN&en-US/Lesbian/\n可爱的mtf一只~🏳️‍⚧️/she or her🩷/157cm＆40kg/HRT•8.30.23🍥/infp-t/喜欢贴贴🌟/不常玩游戏/🚪100/🏳️‍⚧️同类互fo喵/最爱的笨蛋老公:@XXSHHZ8964",
-    "location": "Taiwan",
+    "description": "希望你可以喜欢我哦🍬/zh-CN&en-US/Lesbian/可爱的mtf一只~🏳️‍⚧️/she or her🩷/158cm＆40kg/HRT•8.30.23🍥/infp-t/喜欢贴贴🌟/不玩游戏/🚪128/🏳️‍⚧️同类互fo喵/最爱的笨蛋老公:@XXSHHZ8964",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760890372585037824/1743136785",
-    "followers_count": 1448,
-    "statuses_count": 2627,
-    "favourites_count": 4497,
-    "listed_count": 1,
+    "followers_count": 2374,
+    "friends_count": 598,
+    "statuses_count": 4015,
+    "favourites_count": 6917,
+    "listed_count": 3,
+    "location": "Hong Kong",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-02-23 12:52:48 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/puddings00",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzYwODkwMzcyNTg1MDM3ODI0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Feb 23 04:52:48 +0000 2024",
+            "name": "布丁喵呜🏳️‍⚧️🍥",
+            "screen_name": "puddings00"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 567,
+            "friends_count": 598,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 305,
+            "media_count": 491,
             "pinned_tweet_ids_str": [
-                "1844773108760121787"
+                "1912727183027564721"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Hong Kong"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1708663968000,
-            "updated_at": 1744350090667
+            "created_at": 946656000000,
+            "updated_at": 1749219067732
         }
     }
 }

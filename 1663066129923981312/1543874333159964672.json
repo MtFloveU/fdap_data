@@ -2,28 +2,42 @@
     "id": "1543874333159964672",
     "screen_name": "guihuajiu_886",
     "name": "糯糯桂花呆",
-    "description": "坐标上海的xyn\n07年高中在读~\n喜欢吃各种各样好吃的🥺\n被投喂好吃的会好开心 ！！\nqq🚪50 欢迎来找我聊天！",
-    "location": "花之城堡的小角落",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917166196144971777/VFQYY9Y3_normal.jpg",
+    "description": "坐标上海的xyn\n07年高中在读~\n 不爱写作业 ai重度依赖ing\n喜欢吃各种各样好吃的小孩🥺\n私聊获取随机推荐餐厅？（olnly上海）\n接线下/ 欢迎来找我聊天！\n互fo请私信呀靴靴噜",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1922256756790722560/ZHBn-8fW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543874333159964672/1737101669",
-    "followers_count": 224,
-    "statuses_count": 261,
-    "favourites_count": 596,
-    "listed_count": 0,
+    "followers_count": 330,
+    "friends_count": 173,
+    "statuses_count": 368,
+    "favourites_count": 829,
+    "listed_count": 1,
+    "location": "幻夢里",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-07-04 16:28:42 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/guihuajiu_886",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTQzODc0MzMzMTU5OTY0Njcy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1922256756790722560/ZHBn-8fW_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Jul 04 08:28:42 +0000 2022",
+            "name": "糯糯桂花呆",
+            "screen_name": "guihuajiu_886"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 150,
+            "friends_count": 173,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 38,
-            "pinned_tweet_ids_str": [],
+            "media_count": 60,
+            "pinned_tweet_ids_str": [
+                "1920689615905706030"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "幻夢里"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1656923322000,
-            "updated_at": 1746077175502
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

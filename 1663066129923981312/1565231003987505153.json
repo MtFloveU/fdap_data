@@ -2,30 +2,42 @@
     "id": "1565231003987505153",
     "screen_name": "Kirishima_Arash",
     "name": "雾岛岚🏳️‍⚧️🏳️‍🌈",
-    "description": "是重度正太控~  Non-binary🏳️‍⚧️🏳️‍🌈 好想变可爱啊呜\n闲聊贴贴抱抱QQ群:970700610\n没人要的雾岛🥺",
-    "location": "广州",
+    "description": "是重度正太控~  Non-binary🏳️‍⚧️🏳️‍🌈 好想变可爱啊呜\n闲聊贴贴抱抱QQ群:970700610\n迷茫的雾岛🥺",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565231003987505153/1684829218",
-    "followers_count": 6206,
-    "statuses_count": 60031,
-    "favourites_count": 93367,
+    "followers_count": 6408,
+    "friends_count": 7064,
+    "statuses_count": 66453,
+    "favourites_count": 99919,
     "listed_count": 11,
+    "location": "广州",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-09-01 14:52:35 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Kirishima_Arash",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTY1MjMxMDAzOTg3NTA1MTUz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Sep 01 06:52:35 +0000 2022",
+            "name": "雾岛岚🏳️‍⚧️🏳️‍🌈",
+            "screen_name": "Kirishima_Arash"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6575,
+            "friends_count": 7064,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 882,
+            "media_count": 924,
             "pinned_tweet_ids_str": [
-                "1903121425768337747"
+                "1916824208446726435"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "广州"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1662015155000,
-            "updated_at": 1744350106481
+            "created_at": 946656000000,
+            "updated_at": 1749219074028
         }
     }
 }

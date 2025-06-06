@@ -2,30 +2,42 @@
     "id": "1052903358900580352",
     "screen_name": "Kalin_1124",
     "name": "Kalin_1124",
-    "description": "07|HKer|男\n光譜 #ffffba\nhttps://t.co/dTvv9I2p6f 五筒入口\n\n立志成為中推鍵政圈最可愛的人～",
-    "location": "owo",
+    "description": "07|HKer|男\n\nhttps://t.co/dTvv9I2p6f 五筒入口\n\n喵。\n\n01|01 best code",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1796204182531420160/ipHrT5dR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052903358900580352/1723229137",
-    "followers_count": 407,
-    "statuses_count": 3993,
-    "favourites_count": 32071,
-    "listed_count": 0,
+    "followers_count": 451,
+    "friends_count": 1942,
+    "statuses_count": 4949,
+    "favourites_count": 34400,
+    "listed_count": 1,
+    "location": "owo",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2018-10-18 20:44:57 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Kalin_1124",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMDUyOTAzMzU4OTAwNTgwMzUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1796204182531420160/ipHrT5dR_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Oct 18 12:44:57 +0000 2018",
+            "name": "Kalin_1124",
+            "screen_name": "Kalin_1124"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -36,34 +48,51 @@
                             "expanded_url": "https://www.gfbzb.gov.cn/",
                             "url": "https://t.co/dTvv9I2p6f",
                             "indices": [
-                                21,
-                                44
+                                11,
+                                34
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1734,
+            "friends_count": 1942,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 284,
+            "media_count": 365,
             "pinned_tweet_ids_str": [
                 "1868255145446043787"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "owo"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1539866697000,
-            "updated_at": 1744350033596
+            "created_at": 946656000000,
+            "updated_at": 1749219036309
         }
     }
 }

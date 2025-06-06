@@ -1,20 +1,25 @@
 {
     "id": "1508319011200651267",
     "screen_name": "lamte15072",
-    "name": "怪异客服丰川小绿",
-    "description": "女，学生https://t.co/YnqA90ASUO\nsoyo宝宝 @Phrenologist258\n江江宝宝@GlunekiKCA",
-    "location": "花咲川高中",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915741110561116160/y1yflJAN_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1508319011200651267/1745675781",
-    "followers_count": 1056,
-    "statuses_count": 1751,
-    "favourites_count": 22144,
+    "name": "怪异客服八幡小绿",
+    "description": "女，学生https://t.co/hKaNWls6uA\nlove @Ave_Nagasaki\n江宝@GlunekiKCA\n小莲@Amemyia_hasumi\n梦酱@melody221B_",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1925830545054875648/TS-ICmpB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1508319011200651267/1748487639",
+    "followers_count": 1083,
+    "friends_count": 1334,
+    "statuses_count": 1922,
+    "favourites_count": 24515,
     "listed_count": 11,
+    "location": "花咲川高中",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-03-28 13:44:22 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/lamte15072",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "lamte123098"
                                         },
                                         "rest_id": "1821017499200258048"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1925830545054875648/TS-ICmpB_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Mar 28 05:44:22 +0000 2022",
+            "name": "怪异客服八幡小绿",
+            "screen_name": "lamte15072"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -62,7 +76,7 @@
                         {
                             "display_url": "ngl.link/lamte15072",
                             "expanded_url": "https://ngl.link/lamte15072",
-                            "url": "https://t.co/YnqA90ASUO",
+                            "url": "https://t.co/hKaNWls6uA",
                             "indices": [
                                 4,
                                 27
@@ -72,26 +86,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1161,
+            "friends_count": 1334,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 226,
-            "pinned_tweet_ids_str": [
-                "1829842886499975336"
-            ],
+            "media_count": 243,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "花咲川高中"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1648446262000,
-            "updated_at": 1746077185700
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

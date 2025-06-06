@@ -2,30 +2,42 @@
     "id": "1628965541057642496",
     "screen_name": "Warma_Plaza",
     "name": "Warma广场",
-    "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！不是沃玛本尊，本尊请左转：@_Warma_",
-    "location": "忆雨座-沃玛星",
+    "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1731584965",
-    "followers_count": 3342,
-    "statuses_count": 1262,
-    "favourites_count": 570,
-    "listed_count": 2,
+    "followers_count": 3595,
+    "friends_count": 7489,
+    "statuses_count": 1562,
+    "favourites_count": 607,
+    "listed_count": 3,
+    "location": "忆雨座-沃玛星",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2023-02-24 11:50:29 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Warma_Plaza",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjI4OTY1NTQxMDU3NjQyNDk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Feb 24 03:50:29 +0000 2023",
+            "name": "Warma广场",
+            "screen_name": "Warma_Plaza"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7472,
+            "friends_count": 7489,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 225,
+            "media_count": 354,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "忆雨座-沃玛星"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1677210629000,
-            "updated_at": 1744350059817
+            "created_at": 946656000000,
+            "updated_at": 1749219050498
         }
     }
 }

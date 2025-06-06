@@ -1,20 +1,25 @@
 {
     "id": "1176535991454064640",
     "screen_name": "lumigj02",
-    "name": "Lumi Cонце 猫卷 日雌泰补",
-    "description": "🏳️‍⚧️ | R6 Player ?? | 主人&大老婆 @RanXi_MtF | 小老婆 @_FurryFur_ | @you_miaowu | 日雌370",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1909860067069116416/5GCEQpVV_normal.jpg",
+    "name": "lumifps",
+    "description": "23 F | R6 Analyst | Retired Software Engineer | @NUSingapore Alumni | ❤️ @HobartR6 | @_FurryFur_ | 日雌390泰补210 私信/下方Telegram",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930683991180587008/HXiTh4eq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1744406940",
-    "followers_count": 2443,
-    "statuses_count": 11641,
-    "favourites_count": 26570,
-    "listed_count": 11,
+    "followers_count": 2698,
+    "friends_count": 896,
+    "statuses_count": 12309,
+    "favourites_count": 27075,
+    "listed_count": 12,
+    "location": "Malaysia",
+    "website": "https://t.co/xnU7yfJnaD",
+    "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2019-09-25 00:37:04 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/lumigj02",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "_Sanxon"
                                         },
                                         "rest_id": "1552918719440924672"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930683991180587008/HXiTh4eq_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Sep 24 16:37:04 +0000 2019",
+            "name": "lumifps",
+            "screen_name": "lumigj02"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -75,31 +89,46 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 880,
+            "friends_count": 896,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1034,
+            "media_count": 1096,
             "pinned_tweet_ids_str": [
-                "1914941473071550607"
+                "1930316290662768737"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/xnU7yfJnaD",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Malaysia"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true,
             "bitcoin_handle": "bc1qld490vqvffyz00c526dp3vq70a3gpk477kuj8r",
             "ethereum_handle": "0xBf59649c1A3652Df1947d72bC1e3cF813c864Cd3"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1569343024000,
-            "updated_at": 1746077179549
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

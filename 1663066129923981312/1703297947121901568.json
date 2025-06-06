@@ -2,19 +2,24 @@
     "id": "1703297947121901568",
     "screen_name": "xue_zhi2008",
     "name": "织不唧",
-    "description": "一般路过女高||\n在读纯理科高中生/MtF/退役CChOer/ADHD||\n目标是华西临床医学院||\n兴趣是内分泌科/神经内科/(我想去外科但是做得到吗)||\n业余爱好:声乐(女高音/假声男高音)/有机化学/摄影/数码硬件||\n明日方舟干员收集度97.4%",
-    "location": "重庆市",
+    "description": "一般路过女高||\n在读大理科高中生/MtF/退役CChOer/ADHD||\n目标是临床医学||\n兴趣是内分泌科/神经内科/血液内科/(我想去外科但是做得到吗)||\n业余爱好:声乐/有机化学/摄影/数码硬件||\n明日方舟干员收集度98%",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887703881578389506/l5PxO2Co_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703297947121901568/1738898651",
-    "followers_count": 1629,
-    "statuses_count": 1853,
-    "favourites_count": 6797,
+    "followers_count": 1632,
+    "friends_count": 439,
+    "statuses_count": 1935,
+    "favourites_count": 6890,
     "listed_count": 2,
+    "location": "重庆市",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-09-17 14:41:15 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/xue_zhi2008",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "xue_zhi_2nd"
                                         },
                                         "rest_id": "1836957331198001152"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1887703881578389506/l5PxO2Co_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Sep 17 06:41:15 +0000 2023",
+            "name": "织不唧",
+            "screen_name": "xue_zhi2008"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -62,19 +76,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 434,
+            "friends_count": 439,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 552,
+            "media_count": 582,
             "pinned_tweet_ids_str": [
                 "1907327813289730421"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "重庆市"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -83,10 +102,20 @@
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1694932875000,
-            "updated_at": 1746077184814
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

@@ -1,57 +1,100 @@
 {
     "id": "1756922914291474432",
-    "screen_name": "HuangJ38887",
-    "name": "Shadow_114514🇨🇳❤️🕊️❤️🇭🇰❤️🇲🇴❤️🌍❤️🇵🇸❤️🇹🇼",
-    "description": "10後男孩紙，是大陸人，肯定100%回fo喵（沒fo私信我喵），台灣回歸派！！！盡量不參加任何鍵政， 世界共產主義萬歲，接納所有人，不是粉紅，因為被極端粉紅傷害過所以罵人會比較狠，日本語/한국어勉強中，中立政治，蔚藍檔案圈子保護者，非支黑也不會去主動反對，小號:@VIGLbb79EI88783，一起互fo吧喵～",
-    "location": "汕頭市ミレニアム科学技術学院",
+    "screen_name": "LiuyuedeHuoban",
+    "name": "Shadow_114514💙",
+    "description": "10後男孩紙，是大陸人，肯定100%回fo喵，憧憬成為美圖推薦使，不想參加任何鍵政，接納所有人，不是粉紅，日本語/한국어勉強中，中立政治，蔚藍檔案圈子保護者，小號:@VIGLbb79EI88783 @TendouArisu1989 ，一起互fo吧喵～任何人都可以",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756922914291474432/1742713893",
-    "followers_count": 804,
-    "statuses_count": 3067,
-    "favourites_count": 26076,
-    "listed_count": 9,
+    "followers_count": 1004,
+    "friends_count": 2067,
+    "statuses_count": 4447,
+    "favourites_count": 33932,
+    "listed_count": 4,
+    "location": "ミレニアム科学技術学院",
+    "website": "https://t.co/XdyIPZAeRS",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-02-12 14:07:43 +08:00",
-    "url": "https://twitter.com/HuangJ38887",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/LiuyuedeHuoban",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzU2OTIyOTE0MjkxNDc0NDMy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Feb 12 06:07:43 +0000 2024",
+            "name": "Shadow_114514💙",
+            "screen_name": "LiuyuedeHuoban"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/shadow_1145146…",
+                            "expanded_url": "https://ngl.link/shadow_11451468577",
+                            "url": "https://t.co/XdyIPZAeRS",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1564,
+            "friends_count": 2067,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 351,
+            "media_count": 478,
             "pinned_tweet_ids_str": [
-                "1857766830091415748"
+                "1929870903774794048"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/XdyIPZAeRS",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "ミレニアム科学技術学院"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1707718063000,
-            "updated_at": 1746077169154
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

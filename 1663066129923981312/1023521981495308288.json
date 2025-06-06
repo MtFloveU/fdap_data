@@ -2,28 +2,42 @@
     "id": "1023521981495308288",
     "screen_name": "CD_XuanXuan",
     "name": "淫墮男娘萱萱醬",
-    "description": "我重生了只因上一世亞硝酸鈉中毒，這一世我綁定了男娘雌墮系統，明明是男孩子身體胸前卻有軟糯的胸部還憑空冒出乳釘，臀部變翹大腿也變粗，這一世我不只要成為男娘的玩物也要成為一名合格的外送援🫣\n#男の娘 #乳環 #雌墮 #女裝 #男娘 #sissy #男性崇拜",
-    "location": "以上純屬虛構",
+    "description": "17y雌墮小男娘熱衷於身體改造\n#拳交 #雌墮 #穿刺",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1804025065144721408/FZemE8VY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023521981495308288/1707390713",
-    "followers_count": 11883,
-    "statuses_count": 3990,
-    "favourites_count": 12624,
-    "listed_count": 24,
+    "followers_count": 11766,
+    "friends_count": 959,
+    "statuses_count": 3994,
+    "favourites_count": 12597,
+    "listed_count": 23,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2018-07-29 18:53:51 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/CD_XuanXuan",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMDIzNTIxOTgxNDk1MzA4Mjg4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1804025065144721408/FZemE8VY_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jul 29 10:53:51 +0000 2018",
+            "name": "淫墮男娘萱萱醬",
+            "screen_name": "CD_XuanXuan"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 966,
+            "friends_count": 959,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 390,
+            "media_count": 388,
             "pinned_tweet_ids_str": [
                 "1841474870951215234"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -53,12 +72,22 @@
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1532861631000,
-            "updated_at": 1746077188993
+            "created_at": 946656000000,
+            "updated_at": 1749219075207
         }
     }
 }

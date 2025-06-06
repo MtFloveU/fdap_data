@@ -2,30 +2,42 @@
     "id": "1757073997068722176",
     "screen_name": "YeXing48205",
     "name": "サメさん🇯🇵",
-    "description": "星の火は、その後燎原になった！ ！\n\nみんな私と友達になれます。たくさんの友達ができることを願っています\n\n自由でなければ、むしろ死ぬ！\n\n(*＾ー＾)",
-    "location": "キヴォトス",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1889525648059777024/BInjFzr9_normal.jpg",
+    "description": "みんな私と友達になれます。たくさんの友達ができることを願っています\n₍˄·͈༝·͈˄*₎◞ ̑̑\n\n私は民主主義と自由を追求する少女です\n\n自由でなければ、むしろ死ぬ！",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929938060088881157/YT8QGn3O_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757073997068722176/1722431429",
-    "followers_count": 15,
-    "statuses_count": 97,
-    "favourites_count": 400,
+    "followers_count": 16,
+    "friends_count": 121,
+    "statuses_count": 104,
+    "favourites_count": 419,
     "listed_count": 0,
+    "location": "キヴォトス",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-02-13 00:07:58 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/YeXing48205",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzU3MDczOTk3MDY4NzIyMTc2",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929938060088881157/YT8QGn3O_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Feb 12 16:07:58 +0000 2024",
+            "name": "サメさん🇯🇵",
+            "screen_name": "YeXing48205"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": false,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 124,
+            "friends_count": 121,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 13,
+            "media_count": 15,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "キヴォトス"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1707754078000,
-            "updated_at": 1744350099731
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

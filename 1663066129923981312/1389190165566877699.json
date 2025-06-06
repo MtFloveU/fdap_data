@@ -2,51 +2,54 @@
     "id": "1389190165566877699",
     "screen_name": "amcje1",
     "name": "橄榄菜",
-    "description": "https://t.co/Bcmy9MP61E\nhttps://t.co/xXi3oKo4E0",
-    "location": "",
+    "description": "https://t.co/QMTG8CHiPo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872947652662575106/McUAMGzN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389190165566877699/1699424206",
-    "followers_count": 72,
-    "statuses_count": 703,
-    "favourites_count": 17127,
-    "listed_count": 3,
+    "followers_count": 111,
+    "friends_count": 201,
+    "statuses_count": 862,
+    "favourites_count": 18025,
+    "listed_count": 4,
+    "location": "",
+    "website": "https://t.co/W9HXhS9yds",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2021-05-03 20:09:08 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/amcje1",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzg5MTkwMTY1NTY2ODc3Njk5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1872947652662575106/McUAMGzN_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon May 03 12:09:08 +0000 2021",
+            "name": "橄榄菜",
+            "screen_name": "amcje1"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": [
                         {
-                            "display_url": "t.me/ganlancai",
-                            "expanded_url": "http://t.me/ganlancai",
-                            "url": "https://t.co/Bcmy9MP61E",
+                            "display_url": "t.me/hatateaya",
+                            "expanded_url": "http://t.me/hatateaya",
+                            "url": "https://t.co/QMTG8CHiPo",
                             "indices": [
                                 0,
                                 23
-                            ]
-                        },
-                        {
-                            "display_url": "borecole.bsky.social",
-                            "expanded_url": "http://borecole.bsky.social",
-                            "url": "https://t.co/xXi3oKo4E0",
-                            "indices": [
-                                24,
-                                47
                             ]
                         }
                     ]
@@ -54,9 +57,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "hatateaya.github.io",
-                            "expanded_url": "https://hatateaya.github.io",
-                            "url": "https://t.co/z4FSwRpLQO",
+                            "display_url": "ganlanc.at",
+                            "expanded_url": "https://ganlanc.at",
+                            "url": "https://t.co/W9HXhS9yds",
                             "indices": [
                                 0,
                                 23
@@ -66,28 +69,45 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 177,
+            "friends_count": 201,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
+            "media_count": 17,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/z4FSwRpLQO",
-            "verified": false,
+            "url": "https://t.co/W9HXhS9yds",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1792787610827739631",
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1620043748000,
-            "updated_at": 1744350078919
+            "created_at": 946656000000,
+            "updated_at": 1749219060359
         }
     }
 }

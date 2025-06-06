@@ -2,19 +2,24 @@
     "id": "1220170861761781762",
     "screen_name": "Hennyano",
     "name": "🌸🎀",
-    "description": "轻微地雷倾向💣｜地球猫猫教忠实信徒⛪️｜lesbian🌈｜中, EN｜看黄男、头像/名称带旗子的勿fo 😡｜sunshine：@fly_me2_themoon❤️",
-    "location": "🌕",
+    "description": "Severely depressed and anxious, please stay away from me 🚫 | lesbian 🌈 | 汉语, English | sunshine: @fly_me2_themoon ❤️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1912536328329392129/yPH1uuyO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1220170861761781762/1721565032",
-    "followers_count": 604,
-    "statuses_count": 3744,
-    "favourites_count": 27817,
+    "followers_count": 594,
+    "friends_count": 483,
+    "statuses_count": 3822,
+    "favourites_count": 27819,
     "listed_count": 3,
+    "location": "🌕",
+    "website": "https://t.co/DVAKcMJZ4I",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2020-01-23 10:26:44 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Hennyano",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "fly_me2_themoon"
                                         },
                                         "rest_id": "902108985368559616"
@@ -50,11 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1912536328329392129/yPH1uuyO_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jan 23 02:26:44 +0000 2020",
+            "name": "🌸🎀",
+            "screen_name": "Hennyano"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -76,10 +89,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 473,
+            "friends_count": 483,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 334,
+            "media_count": 340,
             "pinned_tweet_ids_str": [
                 "1842225042870116355"
             ],
@@ -87,20 +100,35 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/DVAKcMJZ4I",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "parody_commentary_fan_label": "None",
+        "location": {
+            "location": "🌕"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "Commentary",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true,
             "bitcoin_handle": "1DfDrrRj4sjdeQF4RGKZU613srqg3gSHDK",
             "ethereum_handle": "0x5692c220e44fb43c01532360bfa591766dee05ea"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1579746404000,
-            "updated_at": 1746077186476
+            "created_at": 946656000000,
+            "updated_at": 1749219072953
         }
     }
 }

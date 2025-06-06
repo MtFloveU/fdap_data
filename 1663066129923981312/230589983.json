@@ -1,0 +1,98 @@
+{
+    "id": "230589983",
+    "screen_name": "PinkCat8964",
+    "name": "梦情",
+    "description": "我来了😆不过这个账号我很少用，淡推",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929155472751505408/Hd4Nt6xB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/230589983/1748424559",
+    "followers_count": 16,
+    "friends_count": 26,
+    "statuses_count": 19,
+    "favourites_count": 628,
+    "listed_count": 0,
+    "location": "",
+    "website": "https://t.co/C5NRdJK7Zs",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/PinkCat8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoyMzA1ODk5ODM=",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929155472751505408/Hd4Nt6xB_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Dec 26 02:13:44 +0000 2010",
+            "name": "梦情",
+            "screen_name": "PinkCat8964"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "gov.cn",
+                            "expanded_url": "https://www.gov.cn/",
+                            "url": "https://t.co/C5NRdJK7Zs",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 26,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 1,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/C5NRdJK7Zs",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
+        }
+    }
+}

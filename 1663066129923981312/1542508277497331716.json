@@ -2,28 +2,42 @@
     "id": "1542508277497331716",
     "screen_name": "_Marurudayo",
     "name": "○○るだよ",
-    "description": "美少女ゲームとイラストとアイドルが大好き┊︎アイコンヘッダー等は趣味で変えます┊︎言語：中文、English、日本語（勉強中）┊︎DM❌",
-    "location": "秋葉原",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1904921895256154113/sJ8Ow4AY_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542508277497331716/1745897428",
-    "followers_count": 2107,
-    "statuses_count": 22037,
-    "favourites_count": 56783,
+    "description": "美少女ゲーム、アイドルが大好き\n詐欺垢、0post垢は即ブロします",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929184809089392640/Fm8NoY0L_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542508277497331716/1748611256",
+    "followers_count": 2132,
+    "friends_count": 7447,
+    "statuses_count": 23249,
+    "favourites_count": 59834,
     "listed_count": 2,
+    "location": "DM❌",
+    "website": "https://t.co/d40Cq6VuXQ",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-06-30 22:00:15 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/_Marurudayo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTQyNTA4Mjc3NDk3MzMxNzE2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929184809089392640/Fm8NoY0L_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jun 30 14:00:15 +0000 2022",
+            "name": "○○るだよ",
+            "screen_name": "_Marurudayo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,25 +59,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 6892,
+            "friends_count": 7447,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 524,
+            "media_count": 611,
             "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/d40Cq6VuXQ",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "DM❌"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1656597615000,
-            "updated_at": 1746080526291
+            "created_at": 946656000000,
+            "updated_at": 1749219030283
         }
     }
 }

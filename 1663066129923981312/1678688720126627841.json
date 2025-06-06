@@ -1,29 +1,43 @@
 {
     "id": "1678688720126627841",
     "screen_name": "xianjing_youhu",
-    "name": "仙境幽狐🍥",
-    "description": "🏳️‍⚧ | 想变成猫猫 | 可以叫我狐狐喵 | 07.02.22 | INFJ | HRT 24.10.10- | JLPT N1 | 长居 上海 重庆 东京 | 泛性恋 | 喜欢可爱的东西 | 想要变得可爱 | 喜欢涩涩 | 求fo喵(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡ | ♥️ @hcrk862",
-    "location": "",
+    "name": "仙境幽狐🍥 🍦(⁠*⁠´⁠ω⁠｀⁠*⁠)",
+    "description": "想变成猫猫にゃ〜 | 可以叫我狐狐喵〜 | 07.02.22 | INFJ | HRT 24.10.10- | JLPT N1 | 长居 上海 重庆 东京 | 泛性恋 | 喜欢可爱的东西 | 想要变得可爱 | 喜欢涩涩 | 求fo喵(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡ | ♥️ @hcrk862",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1896395276773920768/MrIgd8kY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678688720126627841/1694127878",
-    "followers_count": 1365,
-    "statuses_count": 1435,
-    "favourites_count": 8886,
+    "followers_count": 1441,
+    "friends_count": 693,
+    "statuses_count": 1836,
+    "favourites_count": 11710,
     "listed_count": 2,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-07-11 16:53:09 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/xianjing_youhu",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjc4Njg4NzIwMTI2NjI3ODQx",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1896395276773920768/MrIgd8kY_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jul 11 08:53:09 +0000 2023",
+            "name": "仙境幽狐🍥 🍦(⁠*⁠´⁠ω⁠｀⁠*⁠)",
+            "screen_name": "xianjing_youhu"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 604,
+            "friends_count": 693,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 528,
+            "media_count": 697,
             "pinned_tweet_ids_str": [
-                "1913968270056600012"
+                "1926663500224471230"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1689065589000,
-            "updated_at": 1746077175502
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

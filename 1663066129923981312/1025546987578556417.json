@@ -2,19 +2,24 @@
     "id": "1025546987578556417",
     "screen_name": "FTMiaoX",
     "name": "🏳️‍🌈发条喵🏳️‍⚧️",
-    "description": "ftx/ftm/ASD/ADHD/S/Dom/我是发条 你的温柔赛博小黑猫/一般路过肥宅/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/主页搜索“授权”可以看到我的一些转载授权/我爱你 希望你幸福快乐 提问https://t.co/a4UYlpzxKj",
-    "location": "关着BakaHDT的笼子旁边",
+    "description": "ENBY/Demimasc/Ludogender/ta/他/ASD/ADHD/S/Dom/我是发条/人类友好/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐 https://t.co/a4UYlpzxKj",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025546987578556417/1715804595",
-    "followers_count": 6362,
-    "statuses_count": 26219,
-    "favourites_count": 156407,
-    "listed_count": 17,
+    "followers_count": 6988,
+    "friends_count": 3248,
+    "statuses_count": 26966,
+    "favourites_count": 162590,
+    "listed_count": 19,
+    "location": "关着BakaHDT的笼子旁边",
+    "website": "https://t.co/OfJi4k397c",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2018-08-04 09:00:30 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/FTMiaoX",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "IWantMyLilDoggy"
                                         },
                                         "rest_id": "1735938952731693056"
@@ -50,12 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Aug 04 01:00:30 +0000 2018",
+            "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+            "screen_name": "FTMiaoX"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -66,8 +78,8 @@
                             "expanded_url": "https://ngl.link/ftmiao",
                             "url": "https://t.co/a4UYlpzxKj",
                             "indices": [
-                                132,
-                                155
+                                133,
+                                156
                             ]
                         }
                     ]
@@ -87,10 +99,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3112,
+            "friends_count": 3248,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2574,
+            "media_count": 2876,
             "pinned_tweet_ids_str": [
                 "1754185922885611679"
             ],
@@ -98,16 +110,33 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/OfJi4k397c",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "关着BakaHDT的笼子旁边"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1533344430000,
-            "updated_at": 1744350118008
+            "created_at": 946656000000,
+            "updated_at": 1749219080434
         }
     }
 }

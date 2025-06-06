@@ -2,28 +2,42 @@
     "id": "1802360940861456384",
     "screen_name": "ssd0kknd",
     "name": "海流",
-    "description": "不知道说什么啦，反正多多关照！孩子还小是个笨蛋|08 |(性别待定)丨喜欢玩很多游戏|几乎随叫随到丨非常非常粘人|BB~： @_Nix24_     |妹妹:@moonyore0318 丨ⅩxⅩ @tonghua245",
-    "location": "软软的床~",
+    "description": "不知道说什么啦，反正多多关照！孩子还小是个笨蛋|08 |(性别待定)丨喜欢玩很多游戏|几乎随叫随到丨非常非常粘人|好朋友~： @_Nix24_     |妹妹:@moonyore0318",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1802361057345769472/9MXDEbOL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1802360940861456384/1741927994",
-    "followers_count": 200,
-    "statuses_count": 694,
-    "favourites_count": 2536,
+    "followers_count": 267,
+    "friends_count": 510,
+    "statuses_count": 863,
+    "favourites_count": 3086,
     "listed_count": 1,
+    "location": "软软的床~",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-06-16 23:21:59 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/ssd0kknd",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODAyMzYwOTQwODYxNDU2Mzg0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1802361057345769472/9MXDEbOL_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jun 16 15:21:59 +0000 2024",
+            "name": "海流",
+            "screen_name": "ssd0kknd"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 415,
+            "friends_count": 510,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 191,
+            "media_count": 234,
             "pinned_tweet_ids_str": [
                 "1802368502193328306"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "软软的床~"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1718551319000,
-            "updated_at": 1746080519787
+            "created_at": 946656000000,
+            "updated_at": 1749219023519
         }
     }
 }

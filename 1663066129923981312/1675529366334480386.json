@@ -2,31 +2,42 @@
     "id": "1675529366334480386",
     "screen_name": "bigfufu1145",
     "name": "猫猫鼠不是老鼠！",
-    "description": "一只🐀，关注一下@dndhns1谢谢喵，这是我的朋友",
-    "location": "",
+    "description": "一只🐀",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1722996114973233152/Q9PR-gp2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675529366334480386/1691495718",
-    "followers_count": 499,
-    "statuses_count": 5285,
-    "favourites_count": 34005,
+    "followers_count": 514,
+    "friends_count": 845,
+    "statuses_count": 5498,
+    "favourites_count": 35875,
     "listed_count": 3,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-07-02 23:38:39 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/bigfufu1145",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjc1NTI5MzY2MzM0NDgwMzg2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1722996114973233152/Q9PR-gp2_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jul 02 15:38:39 +0000 2023",
+            "name": "猫猫鼠不是老鼠！",
+            "screen_name": "bigfufu1145"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,18 +46,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 767,
+            "friends_count": 845,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 868,
-            "pinned_tweet_ids_str": [],
+            "media_count": 886,
+            "pinned_tweet_ids_str": [
+                "1929936565746446498"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1844030981302526247",
             "professional_type": "Business",
@@ -58,10 +78,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1688312319000,
-            "updated_at": 1744350096785
+            "created_at": 946656000000,
+            "updated_at": 1749219069841
         }
     }
 }

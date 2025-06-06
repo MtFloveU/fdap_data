@@ -1,0 +1,84 @@
+{
+    "id": "1518340844562100227",
+    "screen_name": "BethesdaFu",
+    "name": "X videos",
+    "description": "In solitude, where we are least alone. 🍥",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1760487705325236224/0RjpnZl__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518340844562100227/1708567978",
+    "followers_count": 33,
+    "friends_count": 319,
+    "statuses_count": 57,
+    "favourites_count": 228,
+    "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/BethesdaFu",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTE4MzQwODQ0NTYyMTAwMjI3",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1760487705325236224/0RjpnZl__normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Apr 24 21:27:36 +0000 2022",
+            "name": "X videos",
+            "screen_name": "BethesdaFu"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 319,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 2,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 946656000000,
+            "updated_at": 1749219023519
+        }
+    }
+}

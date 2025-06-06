@@ -1,21 +1,26 @@
 {
     "id": "1796349415650664448",
-    "screen_name": "KawaiiCheshire_",
-    "name": "坂下える🕷️🔪🕷️",
+    "screen_name": "KawaiiEru_",
+    "name": "坂下える🐱",
     "description": "",
-    "location": "神山高中古典文学部",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1916534320212434944/HJQ4Dk2g_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1922931115754651648/IlQ5DsSi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796349415650664448/1744745330",
-    "followers_count": 2128,
-    "statuses_count": 10407,
-    "favourites_count": 21967,
+    "followers_count": 2243,
+    "friends_count": 338,
+    "statuses_count": 11026,
+    "favourites_count": 23463,
     "listed_count": 10,
+    "location": "神山高中古典文学部",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-05-31 09:14:22 +08:00",
-    "url": "https://twitter.com/KawaiiCheshire_",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/KawaiiEru_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk2MzQ5NDE1NjUwNjY0NDQ4",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "LovelyCheshire_"
                                         },
                                         "rest_id": "1848778576507842560"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1922931115754651648/IlQ5DsSi_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri May 31 01:14:22 +0000 2024",
+            "name": "坂下える🐱",
+            "screen_name": "KawaiiEru_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -62,26 +76,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 331,
+            "friends_count": 338,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2106,
+            "media_count": 2229,
             "pinned_tweet_ids_str": [
-                "1888586145770115485"
+                "1904130140474581197"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "神山高中古典文学部"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1717118062000,
-            "updated_at": 1746077179548
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

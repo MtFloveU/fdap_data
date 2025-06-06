@@ -2,28 +2,42 @@
     "id": "1529654419213541376",
     "screen_name": "3LifeStrongWine",
     "name": "三生醇醪🍊",
-    "description": "闻有三山不知处，茂陵松柏满西风",
-    "location": "浮生三千不过大梦一场",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+    "description": "时光足够温柔了吗",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529654419213541376/1743689183",
-    "followers_count": 1522,
-    "statuses_count": 10605,
-    "favourites_count": 7389,
+    "followers_count": 1538,
+    "friends_count": 239,
+    "statuses_count": 11124,
+    "favourites_count": 7432,
     "listed_count": 11,
+    "location": "浮生三千不过大梦一场",
+    "website": "https://t.co/3g5y5VovBM",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-05-26 10:43:47 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/3LifeStrongWine",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTI5NjU0NDE5MjEzNTQxMzc2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu May 26 02:43:47 +0000 2022",
+            "name": "三生醇醪🍊",
+            "screen_name": "3LifeStrongWine"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 242,
+            "friends_count": 239,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2599,
+            "media_count": 2734,
             "pinned_tweet_ids_str": [
                 "1874675451739971770"
             ],
@@ -56,9 +70,14 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/3g5y5VovBM",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "浮生三千不过大梦一场"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -73,10 +92,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1653533027000,
-            "updated_at": 1746077185700
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

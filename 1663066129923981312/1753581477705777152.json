@@ -2,28 +2,42 @@
     "id": "1753581477705777152",
     "screen_name": "PoloCoconut2",
     "name": "PoloCoconut 二代目",
-    "description": "这里是可爱的🥥，请和我眼熟吧！/互fo/友跨人士/双相患者/INTP-T/可爱猫猫/♡@Ivy250104 @AtriAzuki♡/\n大号@PoloCoconut永封 三代目：@PoloCoconut3",
-    "location": "",
+    "description": "这里是可爱的🥥，请和我眼熟吧！/互fo/友跨人士/双相患者/INTP-T/可爱猫猫\n大号@PoloCoconut永封 三代目：@PoloCoconut3",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1901421541348585472/7_3z3M5B_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753581477705777152/1706922180",
-    "followers_count": 766,
-    "statuses_count": 1445,
-    "favourites_count": 3969,
+    "followers_count": 811,
+    "friends_count": 1012,
+    "statuses_count": 1570,
+    "favourites_count": 4354,
     "listed_count": 3,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-02-03 08:49:48 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/PoloCoconut2",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzUzNTgxNDc3NzA1Nzc3MTUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1901421541348585472/7_3z3M5B_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Feb 03 00:49:48 +0000 2024",
+            "name": "PoloCoconut 二代目",
+            "screen_name": "PoloCoconut2"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 972,
+            "friends_count": 1012,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 342,
+            "media_count": 393,
             "pinned_tweet_ids_str": [
                 "1904737269728379088"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1706921388000,
-            "updated_at": 1746077194422
+            "created_at": 946656000000,
+            "updated_at": 1749219079495
         }
     }
 }

@@ -1,29 +1,43 @@
 {
     "id": "1470407185121169410",
-    "screen_name": "iranon_lcf",
+    "screen_name": "iranon_amoroto",
     "name": "末日暗影亚马乌罗提",
     "description": "“再陷心孤意怯之惧”   she/her mommy @doraneko_rana",
-    "location": "大理石之都艾拉",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1917719167106703363/9pCHaiVU_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470407185121169410/1746054853",
-    "followers_count": 547,
-    "statuses_count": 5209,
-    "favourites_count": 113779,
+    "followers_count": 539,
+    "friends_count": 992,
+    "statuses_count": 5232,
+    "favourites_count": 116006,
     "listed_count": 2,
+    "location": "大理石之都艾拉",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2021-12-13 22:56:17 +08:00",
-    "url": "https://twitter.com/iranon_lcf",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/iranon_amoroto",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDcwNDA3MTg1MTIxMTY5NDEw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1917719167106703363/9pCHaiVU_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Dec 13 14:56:17 +0000 2021",
+            "name": "末日暗影亚马乌罗提",
+            "screen_name": "iranon_amoroto"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 997,
+            "friends_count": 992,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 323,
@@ -42,16 +56,31 @@
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "大理石之都艾拉"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1639407377000,
-            "updated_at": 1746077194422
+            "created_at": 946656000000,
+            "updated_at": 1749219079495
         }
     }
 }

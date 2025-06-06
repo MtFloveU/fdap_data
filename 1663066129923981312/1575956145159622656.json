@@ -1,31 +1,43 @@
 {
     "id": "1575956145159622656",
     "screen_name": "IctyeP",
-    "name": "Kagiyama Hina",
+    "name": "Kagiyama Hina（Ictye）",
     "description": "Personal vturber,playing rythem games and shoot 'em up games,No politics,usually use name ictye（@IctyeP）,studio：（@IctyeOffice）E-mail： ictyedaily@gmail.com",
-    "location": "Gensokyo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885375492813103104/V0d9rgiY_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1575956145159622656/1742435795",
-    "followers_count": 1101,
-    "statuses_count": 9778,
-    "favourites_count": 18196,
-    "listed_count": 9,
+    "followers_count": 1106,
+    "friends_count": 587,
+    "statuses_count": 10637,
+    "favourites_count": 19799,
+    "listed_count": 10,
+    "location": "Gensokyo",
+    "website": "https://t.co/VKiBPCd7rr",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-10-01 05:10:17 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/IctyeP",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTc1OTU2MTQ1MTU5NjIyNjU2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1885375492813103104/V0d9rgiY_normal.png"
+        },
+        "core": {
+            "created_at": "Fri Sep 30 21:10:17 +0000 2022",
+            "name": "Kagiyama Hina（Ictye）",
+            "screen_name": "IctyeP"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "zyn-publiic.vercel.app",
-                            "expanded_url": "https://zyn-publiic.vercel.app/",
-                            "url": "https://t.co/1tUWgvxKq4",
+                            "display_url": "space.bilibili.com/34932928429452…",
+                            "expanded_url": "http://space.bilibili.com/3493292842945296",
+                            "url": "https://t.co/VKiBPCd7rr",
                             "indices": [
                                 0,
                                 23
@@ -47,21 +59,28 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 585,
+            "friends_count": 587,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1190,
+            "media_count": 1308,
             "pinned_tweet_ids_str": [
                 "1798748784647893259"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/1tUWgvxKq4",
-            "verified": false,
+            "url": "https://t.co/VKiBPCd7rr",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Gensokyo"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1742251468814721292",
             "professional_type": "Creator",
@@ -73,12 +92,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1664572217000,
-            "updated_at": 1744350099731
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

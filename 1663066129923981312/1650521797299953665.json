@@ -1,59 +1,143 @@
 {
     "id": "1650521797299953665",
-    "screen_name": "DAmnesia8964",
-    "name": "林屿",
-    "description": "妄想成为不动点",
-    "location": "第三公园",
+    "screen_name": "yulingko_",
+    "name": "鱼岭",
+    "description": "💛🤍💜🖤 | he/they | 妄想成为不动点",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1907411523582279680/y9jBLrJj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650521797299953665/1743597323",
-    "followers_count": 971,
-    "statuses_count": 9202,
-    "favourites_count": 55604,
+    "followers_count": 974,
+    "friends_count": 714,
+    "statuses_count": 10072,
+    "favourites_count": 58644,
     "listed_count": 3,
+    "location": "Puewwoc Functional Streaming",
+    "website": "https://t.co/y33zzlVlZu",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-04-24 23:27:27 +08:00",
-    "url": "https://twitter.com/DAmnesia8964",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/yulingko_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjUwNTIxNzk3Mjk5OTUzNjY1",
-        "affiliates_highlighted_label": {},
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @yunyunyunnya",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 26,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "yunyunyunnya",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "core": {
+                                            "screen_name": "yunyunyunnya"
+                                        },
+                                        "rest_id": "1263250188757426176"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1907411523582279680/y9jBLrJj_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Apr 24 15:27:27 +0000 2023",
+            "name": "鱼岭",
+            "screen_name": "yulingko_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "yulingko.moe",
+                            "expanded_url": "http://yulingko.moe",
+                            "url": "https://t.co/y33zzlVlZu",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 753,
+            "friends_count": 714,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 429,
+            "media_count": 496,
             "pinned_tweet_ids_str": [
-                "1907428560442470698"
+                "1921841960538566873"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/y33zzlVlZu",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Puewwoc Functional Streaming"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1922913238100083044",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 955,
+                    "name": "Journalist",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1682350047000,
-            "updated_at": 1746077183634
+            "created_at": 946656000000,
+            "updated_at": 1749219069841
         }
     }
 }

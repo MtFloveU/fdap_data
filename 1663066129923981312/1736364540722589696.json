@@ -1,31 +1,43 @@
 {
     "id": "1736364540722589696",
     "screen_name": "JuneSinary",
-    "name": "June Sinary(^v^)🏳️‍⚧️🦊🌈🏳️‍⚧️🏳️‍🌈",
+    "name": "June Sinary(叫我关紫月小姐)🏳️‍⚧️🦊🌈🏳️‍⚧️🏳️‍🌈",
     "description": "苍天给了我一条光秃秃的生路，却并没给我一粒走完这条生路需要的干粮",
-    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1904084697963253760/Vk-lTgAb_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736364540722589696/1718638902",
-    "followers_count": 124,
-    "statuses_count": 1781,
-    "favourites_count": 1192,
+    "followers_count": 161,
+    "friends_count": 358,
+    "statuses_count": 1902,
+    "favourites_count": 1264,
     "listed_count": 0,
+    "location": "",
+    "website": "https://t.co/MkqyLPJJo3",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2023-12-17 20:35:57 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/JuneSinary",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzM2MzY0NTQwNzIyNTg5Njk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1904084697963253760/Vk-lTgAb_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Dec 17 12:35:57 +0000 2023",
+            "name": "June Sinary(叫我关紫月小姐)🏳️‍⚧️🦊🌈🏳️‍⚧️🏳️‍🌈",
+            "screen_name": "JuneSinary"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,7 +49,7 @@
                         {
                             "display_url": "t.me/junesinary_gma…",
                             "expanded_url": "https://t.me/junesinary_gmail_com",
-                            "url": "https://t.co/MkqyLPKhdB",
+                            "url": "https://t.co/MkqyLPJJo3",
                             "indices": [
                                 0,
                                 23
@@ -47,21 +59,28 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 301,
+            "friends_count": 358,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 172,
+            "media_count": 191,
             "pinned_tweet_ids_str": [
-                "1885672940731297953"
+                "1929577038056149482"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/MkqyLPKhdB",
-            "verified": false,
+            "url": "https://t.co/MkqyLPJJo3",
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1740781920026533920",
             "professional_type": "Business",
@@ -73,10 +92,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1702816557000,
-            "updated_at": 1744350039515
+            "created_at": 946656000000,
+            "updated_at": 1749219038641
         }
     }
 }

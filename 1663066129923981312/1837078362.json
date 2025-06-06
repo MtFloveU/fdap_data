@@ -2,30 +2,42 @@
     "id": "1837078362",
     "screen_name": "Chaos_Kitty_qwq",
     "name": "混沌小猫",
-    "description": "Married with a cis woman/Type 2 diabetes/Lawful good/Not minding being perceived as any gender/LGBT-friendly\n已婚（对方顺女）/二型糖尿病/守序善良/不介意被当作任何性别/LGBT友好",
-    "location": "",
+    "description": "Married with a cis woman/Type 2 diabetes/Lawful good/Not minding being perceived as any gender/LGBT-friendly/\n已婚（对方顺女）/二型糖尿病/守序善良/不介意被当作任何性别/LGBT友好",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1785002187539746817/CmkyzbaI_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 1568,
-    "statuses_count": 8467,
-    "favourites_count": 70049,
+    "followers_count": 1665,
+    "friends_count": 2153,
+    "statuses_count": 8974,
+    "favourites_count": 78347,
     "listed_count": 3,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2013-09-09 09:08:18 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Chaos_Kitty_qwq",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODM3MDc4MzYy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1785002187539746817/CmkyzbaI_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Sep 09 01:08:18 +0000 2013",
+            "name": "混沌小猫",
+            "screen_name": "Chaos_Kitty_qwq"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2007,
+            "friends_count": 2153,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 216,
+            "media_count": 249,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1378688898000,
-            "updated_at": 1744350054661
+            "created_at": 946656000000,
+            "updated_at": 1749219048360
         }
     }
 }

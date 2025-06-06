@@ -2,31 +2,42 @@
     "id": "1608872873665654784",
     "screen_name": "yhu37052536",
     "name": "跬步",
-    "description": "使用AI时一定要优先告诉AI做什么，等AI做出来以后（或者部分做出来）再去问AI这样做的原因，继而学习。\n使用AI时一定不要提前设想太多乱七八糟的情况，如果提前设想太多可能会遇到的困难并传递给AI，反而会打乱AI的思路，使得AI考虑太多细节，从而最终写出的代码反而会非常复杂，并且更有可能跑不通。就像你自己一样，不是吗？",
-    "location": "愿与你同在",
+    "description": "靡不有初，鲜克有终。\n桃李不言，下自成蹊。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1823517214592655360/3jc5RWe7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608872873665654784/1723550160",
     "followers_count": 493,
-    "statuses_count": 2831,
-    "favourites_count": 64707,
+    "friends_count": 1711,
+    "statuses_count": 2818,
+    "favourites_count": 67780,
     "listed_count": 0,
+    "location": "愿与你同在",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-12-31 01:09:35 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/yhu37052536",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjA4ODcyODczNjY1NjU0Nzg0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1823517214592655360/3jc5RWe7_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Dec 30 17:09:35 +0000 2022",
+            "name": "跬步",
+            "screen_name": "yhu37052536"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1706,
+            "friends_count": 1711,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 34,
@@ -45,14 +56,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "愿与你同在"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1672420175000,
-            "updated_at": 1744350103152
+            "created_at": 946656000000,
+            "updated_at": 1749219074028
         }
     }
 }

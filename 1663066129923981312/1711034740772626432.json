@@ -1,31 +1,43 @@
 {
     "id": "1711034740772626432",
     "screen_name": "inu_ruri",
-    "name": "如晿昌曰日晶 🪳",
-    "description": "我不是@neko_ruyue，与@neko_ruyue毫无关系，如月小姐是圣洁的天使，我只是在下水道暗恋如月小姐的一条臭狗，臭狗的抽象文案与如月小姐无关",
-    "location": "距离你＜2km",
+    "name": "大狗如日",
+    "description": "我好想做如月小姐的狗啊。可是如月小姐说她喜欢的是猫，我哭了。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1820800115915026432/U7R3Z22Q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711034740772626432/1721180026",
-    "followers_count": 536,
-    "statuses_count": 1406,
-    "favourites_count": 3411,
+    "followers_count": 533,
+    "friends_count": 973,
+    "statuses_count": 1431,
+    "favourites_count": 3450,
     "listed_count": 0,
+    "location": "距离你＜2km",
+    "website": "https://t.co/rvB9D8Ffxf",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-10-08 23:04:15 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/inu_ruri",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzExMDM0NzQwNzcyNjI2NDMy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1820800115915026432/U7R3Z22Q_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Oct 08 15:04:15 +0000 2023",
+            "name": "大狗如日",
+            "screen_name": "inu_ruri"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,23 +59,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 960,
+            "friends_count": 973,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 89,
+            "media_count": 94,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/rvB9D8Ffxf",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "距离你＜2km"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1696777455000,
-            "updated_at": 1744350103152
+            "created_at": 946656000000,
+            "updated_at": 1749219074028
         }
     }
 }

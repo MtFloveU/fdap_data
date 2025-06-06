@@ -2,28 +2,42 @@
     "id": "1790006276162048000",
     "screen_name": "iCosint1978",
     "name": "Freunsigned 🇲🇴",
-    "description": "13岁 || 初中在读 || OIer(暂时退役) || 墙内联系方式自取",
-    "location": "",
+    "description": "\"纵使萤火微芒，愿汇星河璀璨\"\n13 歲 || OIer ||",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884908812936916992/61ZB-f2e_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790006276162048000/1741398653",
-    "followers_count": 208,
-    "statuses_count": 151,
-    "favourites_count": 4054,
-    "listed_count": 1,
+    "followers_count": 225,
+    "friends_count": 274,
+    "statuses_count": 350,
+    "favourites_count": 4530,
+    "listed_count": 0,
+    "location": "",
+    "website": "https://t.co/OAnLvbqWPI",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-05-13 21:08:58 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/iCosint1978",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzkwMDA2Mjc2MTYyMDQ4MDAw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1884908812936916992/61ZB-f2e_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon May 13 13:08:58 +0000 2024",
+            "name": "Freunsigned 🇲🇴",
+            "screen_name": "iCosint1978"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 258,
+            "friends_count": 274,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 5,
+            "media_count": 17,
             "pinned_tweet_ids_str": [
                 "1907798498302636269"
             ],
@@ -56,16 +70,31 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/OAnLvbqWPI",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1715605738000,
-            "updated_at": 1746077170591
+            "created_at": 946656000000,
+            "updated_at": 1749219059243
         }
     }
 }

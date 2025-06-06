@@ -1,0 +1,88 @@
+{
+    "id": "1804566141932916736",
+    "screen_name": "FujiwaraNyanya",
+    "name": "藤原喵喵🏳️‍⚧️超英赶美",
+    "description": "长江后浪推前浪，世上新人换旧人。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929417373699710976/Y7Mxy_Ls_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804566141932916736/1748694287",
+    "followers_count": 1187,
+    "friends_count": 7437,
+    "statuses_count": 11813,
+    "favourites_count": 22455,
+    "listed_count": 2,
+    "location": "疯狂宇宙小池塘",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/FujiwaraNyanya",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODA0NTY2MTQxOTMyOTE2NzM2",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929417373699710976/Y7Mxy_Ls_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 22 17:24:48 +0000 2024",
+            "name": "藤原喵喵🏳️‍⚧️超英赶美",
+            "screen_name": "FujiwaraNyanya"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 7437,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 1099,
+            "pinned_tweet_ids_str": [
+                "1929420071895474238"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "疯狂宇宙小池塘"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 946656000000,
+            "updated_at": 1749219059242
+        }
+    }
+}

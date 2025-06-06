@@ -2,28 +2,42 @@
     "id": "1584177240274706434",
     "screen_name": "sinkingMisery",
     "name": "可燃冰🍥(雅思不到7.5不改名版",
-    "description": "大一休学/水仙多意识体(xnfp与intp)/c-ptsd自愈，高宜人女性化人格重建中~支持网络建立中, 请与我熟悉(///▽///)！",
-    "location": "Smooth Space",
+    "description": "大一休学/水仙多意识体(xnfp与intp)/c-ptsd自愈，高宜人女性化人格重建中~请与我熟悉(///▽///)！",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1782966425910681600/EXvrgv_P_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 301,
-    "statuses_count": 1392,
-    "favourites_count": 21812,
+    "followers_count": 346,
+    "friends_count": 1124,
+    "statuses_count": 1518,
+    "favourites_count": 22336,
     "listed_count": 1,
+    "location": "Smooth Space",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-10-23 21:37:55 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/sinkingMisery",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTg0MTc3MjQwMjc0NzA2NDM0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1782966425910681600/EXvrgv_P_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Oct 23 13:37:55 +0000 2022",
+            "name": "可燃冰🍥(雅思不到7.5不改名版",
+            "screen_name": "sinkingMisery"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1144,
+            "friends_count": 1124,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 107,
+            "media_count": 138,
             "pinned_tweet_ids_str": [],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Smooth Space"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1666532275000,
-            "updated_at": 1746077183634
+            "created_at": 946656000000,
+            "updated_at": 1749219069841
         }
     }
 }

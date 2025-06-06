@@ -2,45 +2,64 @@
     "id": "1309455512895807488",
     "screen_name": "codemica",
     "name": "但为君故✨",
-    "description": "唯文字和甜酒是终生热爱｜2002｜技术推 @codemetic｜计算机准研究生｜找实习中｜背景是冯 · 诺依曼｜顺直",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1901189888550350848/HnJ44ETu_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309455512895807488/1745422618",
-    "followers_count": 4064,
-    "friends_count": 348,
-    "statuses_count": 8898,
-    "favourites_count": 55636,
-    "listed_count": 14,
-    "website": "https://t.co/ys8P710ap3",
+    "description": "唯有文字和甜酒是终生热爱｜2002｜异性恋｜匿名盒子 https://t.co/2FfVZXcZ20｜不接推广｜技术推 @codemetic｜计算机准研究生｜中国古典文学＆语言学",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930616377167208448/4JHKFx-1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309455512895807488/1749127102",
+    "followers_count": 4809,
+    "friends_count": 372,
+    "statuses_count": 9455,
+    "favourites_count": 60248,
+    "listed_count": 15,
+    "location": "🚪请我一杯咖啡",
+    "website": "https://t.co/ZOcRTfO7tM",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2020-09-25 19:31:43 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/codemica",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzA5NDU1NTEyODk1ODA3NDg4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930616377167208448/4JHKFx-1_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Sep 25 11:31:43 +0000 2020",
+            "name": "但为君故✨",
+            "screen_name": "codemica"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "i.dreams.plus/box",
+                            "expanded_url": "http://i.dreams.plus/box",
+                            "url": "https://t.co/2FfVZXcZ20",
+                            "indices": [
+                                27,
+                                50
+                            ]
+                        }
+                    ]
                 },
                 "url": {
                     "urls": [
                         {
                             "display_url": "dreams.plus",
-                            "expanded_url": "https://dreams.plus",
-                            "url": "https://t.co/ys8P710ap3",
+                            "expanded_url": "http://dreams.plus",
+                            "url": "https://t.co/ZOcRTfO7tM",
                             "indices": [
                                 0,
                                 23
@@ -50,32 +69,45 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 348,
+            "friends_count": 372,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 671,
-            "pinned_tweet_ids_str": [
-                "1908137579725365386"
-            ],
+            "media_count": 706,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/ys8P710ap3",
-            "verified": false,
+            "url": "https://t.co/ZOcRTfO7tM",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "🚪请我一杯咖啡"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true,
             "bitcoin_handle": "",
             "ethereum_handle": "0xf7f80b11570e59368056f3efb44ffebf477ba66b",
             "patreon_handle": "terminels"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1601033503000,
-            "updated_at": 1746176983429
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

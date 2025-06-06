@@ -3,29 +3,41 @@
     "screen_name": "PokSasha76731",
     "name": "🏳️‍⚧️春野樱酱*～",
     "description": "06.7.9/巨蟹/isfp/别逼我了随时炸柜！/含糖/政治立场不明/没人理我吗我要爆炸啦！！！",
-    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1860233069602701316/scaYt2Zh_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840897314791268352/1728729508",
-    "followers_count": 222,
-    "statuses_count": 56,
-    "favourites_count": 70,
+    "followers_count": 224,
+    "friends_count": 0,
+    "statuses_count": 62,
+    "favourites_count": 0,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": true,
-    "created_at": "2024-10-01 07:31:48 +08:00",
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/PokSasha76731",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQwODk3MzE0NzkxMjY4MzUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1860233069602701316/scaYt2Zh_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Sep 30 23:31:48 +0000 2024",
+            "name": "🏳️‍⚧️春野樱酱*～",
+            "screen_name": "PokSasha76731"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,38 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 356,
+            "friends_count": 0,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 7,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
-            "profile_interstitial_type": "",
+            "profile_interstitial_type": "fake_account",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1727739108000,
-            "updated_at": 1744350087211
+            "created_at": 946656000000,
+            "updated_at": 1749219065464
         }
     }
 }

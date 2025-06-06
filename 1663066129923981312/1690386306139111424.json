@@ -1,64 +1,69 @@
 {
     "id": "1690386306139111424",
-    "screen_name": "Reisen_Na2CO3",
-    "name": "🧡才羽モモイ❤️",
-    "description": "“让我们把这座城市烧成灰——强尼·银手”\n丨Cities Skylines 2 Designer\n丨CS 2 Player｜Blue Archive Fans\n｜友：@LinranOVERDOSE/@YukimiSinsyou/@SpaceSystemW｜对象：@ZXRPerry\n另一个：@SH_Kikuri",
-    "location": "Night City（夜之城）",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1916713198142582784/vMO03sye_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690386306139111424/1745316690",
-    "followers_count": 823,
-    "statuses_count": 8079,
-    "favourites_count": 7587,
+    "screen_name": "NaHCO3_Lsoda",
+    "name": "NaHCO3小苏打🏳️‍🌈",
+    "description": "“以我残躯化烈火”\n-共产主义（偏毛派）-\n｜都市天际线2丨CS2｜HOI4丨東方丨Blue Archive丨maimai｜友：@LinranOVERDOSE/@YukimiSinsyou/@SpaceSystemW｜对象：@ZXRPerry\n小号：@Neko_Hitori_BTR",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929396499969941504/bG21J2CK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690386306139111424/1748710314",
+    "followers_count": 885,
+    "friends_count": 1050,
+    "statuses_count": 8739,
+    "favourites_count": 8369,
     "listed_count": 4,
+    "location": "Watson,Night City,California",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-08-12 23:34:46 +08:00",
-    "url": "https://twitter.com/Reisen_Na2CO3",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/NaHCO3_Lsoda",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjkwMzg2MzA2MTM5MTExNDI0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929396499969941504/bG21J2CK_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Aug 12 15:34:46 +0000 2023",
+            "name": "NaHCO3小苏打🏳️‍🌈",
+            "screen_name": "NaHCO3_Lsoda"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/Litosoda",
-                            "expanded_url": "http://t.me/Litosoda",
-                            "url": "https://t.co/Vw40i43EFM",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 991,
+            "friends_count": 1050,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1676,
+            "media_count": 1827,
             "pinned_tweet_ids_str": [
                 "1883945474543309021"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/Vw40i43EFM",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Watson,Night City,California"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -73,12 +78,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1691854486000,
-            "updated_at": 1746077174316
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

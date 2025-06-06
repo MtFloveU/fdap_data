@@ -3,29 +3,41 @@
     "screen_name": "GordonEliz9419",
     "name": "3ᐝ🍥",
     "description": "03/小药娘/无证含糖/政键勿扰/间歇性碎碎念ing/纯爱战士现已转纯恨/互关吖//////////",
-    "location": " Poteau",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1845069897996566532/krckl0HJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756256982510514176/1729287607",
-    "followers_count": 481,
-    "statuses_count": 66,
-    "favourites_count": 104,
-    "listed_count": 2,
+    "followers_count": 517,
+    "friends_count": 0,
+    "statuses_count": 70,
+    "favourites_count": 0,
+    "listed_count": 3,
+    "location": " Poteau",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": true,
-    "created_at": "2024-02-10 18:01:13 +08:00",
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/GordonEliz9419",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzU2MjU2OTgyNTEwNTE0MTc2",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1845069897996566532/krckl0HJ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Feb 10 10:01:13 +0000 2024",
+            "name": "3ᐝ🍥",
+            "screen_name": "GordonEliz9419"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": false,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,38 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 513,
+            "friends_count": 0,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 11,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
-            "profile_interstitial_type": "",
+            "profile_interstitial_type": "fake_account",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": " Poteau"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1707559273000,
-            "updated_at": 1744350087210
+            "created_at": 946656000000,
+            "updated_at": 1749219065464
         }
     }
 }

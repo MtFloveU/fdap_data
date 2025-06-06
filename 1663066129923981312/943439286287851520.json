@@ -1,34 +1,43 @@
 {
     "id": "943439286287851520",
     "screen_name": "KagurazakaSenba",
-    "name": "💮西行寺　千羽🌸",
-    "description": "请与我交往•盼来盼去盼不尽天涯何处是归处•为了没有眼泪的明天•希望大家都可以幸福•取向是可爱•可能是无性别",
-    "location": "来自夏莱的老师",
+    "name": "💮桜庭　羽🌸",
+    "description": "请与我交往•盼来盼去盼不尽天涯何处是归处•为了没有眼泪的明天•希望大家都可以幸福•我们都在努力活着•与你的日常 便是奇迹•可是妈妈。。。为什么会这样",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/943439286287851520/1699106051",
-    "followers_count": 2937,
-    "friends_count": 5205,
-    "statuses_count": 25855,
-    "favourites_count": 96944,
+    "followers_count": 3014,
+    "friends_count": 5342,
+    "statuses_count": 27308,
+    "favourites_count": 100318,
     "listed_count": 10,
-    "website": "https://t.co/hLF8aWcrJJ",
+    "location": "来自夏莱的老师",
+    "website": "https://t.co/QmZlMHewkB",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2017-12-20 19:13:48 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/KagurazakaSenba",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjo5NDM0MzkyODYyODc4NTE1MjA=",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Dec 20 11:13:48 +0000 2017",
+            "name": "💮桜庭　羽🌸",
+            "screen_name": "KagurazakaSenba"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -38,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "apple.com.cn",
-                            "expanded_url": "https://apple.com.cn",
-                            "url": "https://t.co/hLF8aWcrJJ",
+                            "display_url": "apple.com/hk",
+                            "expanded_url": "https://apple.com/hk",
+                            "url": "https://t.co/QmZlMHewkB",
                             "indices": [
                                 0,
                                 23
@@ -50,28 +59,45 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 5205,
+            "friends_count": 5342,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 2029,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
+            "media_count": 2096,
+            "pinned_tweet_ids_str": [
+                "1929542409404178704"
+            ],
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/hLF8aWcrJJ",
-            "verified": false,
+            "url": "https://t.co/QmZlMHewkB",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "来自夏莱的老师"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false,
             "ethereum_handle": "0x8058683e95ede1987c21162913e5581cc91c850e"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1513768428000,
-            "updated_at": 1746176997343
+            "created_at": 946656000000,
+            "updated_at": 1749219076818
         }
     }
 }

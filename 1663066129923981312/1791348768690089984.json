@@ -2,24 +2,24 @@
     "id": "1791348768690089984",
     "screen_name": "owl8964cat",
     "name": "魔法使いねこ",
-    "description": "福建|美少女ゲーム|社畜実習|互fo 貓貓：@SakuraCatMoe @Romanorum_ @LycoReco_neneko @niukecat铁道友@kiming568416喵派姐姐:@honxine8964 p宝:@M600_spitfire 麦:@2SJ7ntKBdEtTKrM",
-    "location": "北京市东城区新开路胡同71号",
+    "description": "福建|美少女ゲーム|液态 貓貓:@SakuraCatMoe @Romanorum_ @LycoReco_neneko @niukecat铁道友@kiming568416 茉莉姐:@shirasu8964228喵派:@honxine8964 p宝:@M600_spitfire 麦:@2SJ7ntKBdEtTKr",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1812771583234068481/3J6UZdqY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791348768690089984/1722145862",
-    "followers_count": 770,
-    "friends_count": 883,
-    "statuses_count": 16245,
-    "favourites_count": 53655,
-    "listed_count": 4,
-    "website": "https://t.co/7b5QKZSVTF",
+    "followers_count": 839,
+    "friends_count": 946,
+    "statuses_count": 21165,
+    "favourites_count": 68233,
+    "listed_count": 3,
+    "location": "北京市东城区新开路胡同71号",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-05-17 14:03:53 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/owl8964cat",
     "metadata": {
         "__typename": "User",
@@ -42,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "saya8964cat"
                                         },
                                         "rest_id": "1824480149385121799"
@@ -55,50 +55,62 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1812771583234068481/3J6UZdqY_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri May 17 06:03:53 +0000 2024",
+            "name": "魔法使いねこ",
+            "screen_name": "owl8964cat"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "10.191.5.5.com",
-                            "expanded_url": "http://10.191.5.5.com",
-                            "url": "https://t.co/7b5QKZSVTF",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 883,
+            "friends_count": 946,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 117,
-            "pinned_tweet_ids_str": [],
+            "media_count": 156,
+            "pinned_tweet_ids_str": [
+                "1928444137163964667"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/7b5QKZSVTF",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "北京市东城区新开路胡同71号"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1715925833000,
-            "updated_at": 1746189671694
+            "created_at": 946656000000,
+            "updated_at": 1749219069841
         }
     }
 }

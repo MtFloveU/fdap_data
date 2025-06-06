@@ -1,29 +1,43 @@
 {
     "id": "1858186854526562304",
     "screen_name": "meiyujijie",
-    "name": "何六诚🍥",
-    "description": "全网唯一账号，不收钱不盈利，没有任何打赏途径，内容仅供娱乐，请注意甄别防止被骗",
-    "location": "",
+    "name": "何六诚",
+    "description": "睡觉要抱人，不爱吃蘑菇，可以放在家里改善环境",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858186854526562304/1739373925",
-    "followers_count": 65419,
-    "statuses_count": 332,
-    "favourites_count": 1363,
-    "listed_count": 129,
+    "followers_count": 75970,
+    "friends_count": 85,
+    "statuses_count": 368,
+    "favourites_count": 1439,
+    "listed_count": 156,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
-    "created_at": "2024-11-18 00:34:14 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/meiyujijie",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODU4MTg2ODU0NTI2NTYyMzA0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Nov 17 16:34:14 +0000 2024",
+            "name": "何六诚",
+            "screen_name": "meiyujijie"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 82,
+            "friends_count": 85,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 69,
+            "media_count": 101,
             "pinned_tweet_ids_str": [
                 "1892435541817257985"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1731861254000,
-            "updated_at": 1746077175502
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

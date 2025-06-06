@@ -1,29 +1,43 @@
 {
     "id": "1826129497714040832",
-    "screen_name": "CREZAN_LM",
-    "name": "何止七月八月份我也不想更新",
-    "description": "",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917295223237140480/k_zmcmOX_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826129497714040832/1745712167",
-    "followers_count": 286,
-    "statuses_count": 3280,
-    "favourites_count": 5176,
+    "screen_name": "KangtongnaZJL",
+    "name": "👆。",
+    "description": "鲁西南是鲁西南人的鲁西南",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930694494489550848/-JhuP-gT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826129497714040832/1746588819",
+    "followers_count": 282,
+    "friends_count": 314,
+    "statuses_count": 3451,
+    "favourites_count": 5440,
     "listed_count": 1,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-08-21 13:29:47 +08:00",
-    "url": "https://twitter.com/CREZAN_LM",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/KangtongnaZJL",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI2MTI5NDk3NzE0MDQwODMy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930694494489550848/-JhuP-gT_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Aug 21 05:29:47 +0000 2024",
+            "name": "👆。",
+            "screen_name": "KangtongnaZJL"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,17 +46,22 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 316,
+            "friends_count": 314,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 768,
+            "media_count": 804,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -51,10 +70,20 @@
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1724218187000,
-            "updated_at": 1746077182049
+            "created_at": 946656000000,
+            "updated_at": 1749219068775
         }
     }
 }

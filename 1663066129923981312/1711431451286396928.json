@@ -1,21 +1,26 @@
 {
     "id": "1711431451286396928",
-    "screen_name": "Hyoto_AkiAka",
-    "name": "空知らぬ雨",
-    "description": "以下留白",
-    "location": "上海市自来水厂",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1913461069286432768/YKO_w4nL_normal.jpg",
+    "screen_name": "ikukou__",
+    "name": "💹🈯️🐱🧎🎂",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930622228498100224/B67XZoqQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711431451286396928/1730617163",
-    "followers_count": 81,
-    "statuses_count": 1773,
-    "favourites_count": 6696,
+    "followers_count": 84,
+    "friends_count": 98,
+    "statuses_count": 1794,
+    "favourites_count": 6759,
     "listed_count": 1,
+    "location": "上海市自来水厂",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-10-10 01:20:41 +08:00",
-    "url": "https://twitter.com/Hyoto_AkiAka",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/ikukou__",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzExNDMxNDUxMjg2Mzk2OTI4",
@@ -48,11 +53,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930622228498100224/B67XZoqQ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Oct 09 17:20:41 +0000 2023",
+            "name": "💹🈯️🐱🧎🎂",
+            "screen_name": "ikukou__"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -61,19 +74,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 95,
+            "friends_count": 98,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 307,
+            "media_count": 312,
             "pinned_tweet_ids_str": [
                 "1872734137263767723"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "上海市自来水厂"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -88,10 +106,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1696872041000,
-            "updated_at": 1746077176790
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

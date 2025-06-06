@@ -2,28 +2,42 @@
     "id": "1742111768649052160",
     "screen_name": "nairichanwa",
     "name": "小花酱🏳️‍⚧️はなちゃんは〜",
-    "description": "🚫仅此一个号 | 🏳️‍⚧️Highly qualified #xyn | 🍥含糖3年已断供 | ‼️163cm/54kg/天赋党⁉️ | 💜地雷系、萝莉系、可爱脸 | ⚠️接线下 #圆角 #爸爸活 | 🚪#门槛 198 | ✈️全国可飞 | 🔞未成年勿扰 | 📷寻找摄影师 | 🍑出售 #原味",
-    "location": "Base上海、过门槛或其他业务请点击此链接👉",
+    "description": "🚫仅此一个号 | 🏳️‍⚧️Highly qualified #xyn | 🍥含糖3年已断供 | ‼️163cm/54kg/天赋党⁉️ | 💜地雷系、萝莉系、可爱脸 | ⚠️接线下 #圆角 #爸爸活 | 🚪#门槛 口令红包68 | ✈️全国可飞 | 🔞未成年勿扰 | 📷寻找摄影师 | 🍑出售 #原味",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1742530929263104000/IALD6jyW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1742111768649052160/1704286659",
-    "followers_count": 16514,
-    "statuses_count": 1679,
-    "favourites_count": 1398,
-    "listed_count": 29,
+    "followers_count": 16532,
+    "friends_count": 266,
+    "statuses_count": 1762,
+    "favourites_count": 1423,
+    "listed_count": 31,
+    "location": "Base上海、过门槛或其他业务请点击此链接👉",
+    "website": "https://t.co/ZDroUic90s",
+    "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-01-02 17:13:44 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/nairichanwa",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzQyMTExNzY4NjQ5MDUyMTYw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1742530929263104000/IALD6jyW_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jan 02 09:13:44 +0000 2024",
+            "name": "小花酱🏳️‍⚧️はなちゃんは〜",
+            "screen_name": "nairichanwa"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "bit.ly/nairichanwa",
-                            "expanded_url": "https://bit.ly/nairichanwa",
-                            "url": "https://t.co/wIFBohOCdo",
+                            "display_url": "temporary-closed.com",
+                            "expanded_url": "http://temporary-closed.com",
+                            "url": "https://t.co/ZDroUic90s",
                             "indices": [
                                 0,
                                 23
@@ -45,30 +59,45 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 257,
+            "friends_count": 266,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 338,
+            "media_count": 353,
             "pinned_tweet_ids_str": [
                 "1916803498118955121"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/wIFBohOCdo",
-            "verified": false,
+            "url": "https://t.co/ZDroUic90s",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Base上海、过门槛或其他业务请点击此链接👉"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true,
             "ethereum_handle": "0xafa65101A8F43183da2B3f96F196c626c4B0A450"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1704186824000,
-            "updated_at": 1746077194422
+            "created_at": 946656000000,
+            "updated_at": 1749219079495
         }
     }
 }

@@ -3,29 +3,41 @@
     "screen_name": "cao_xia81245",
     "name": "草下芥",
     "description": "Hello.\n很忙，在亚眠驾驶圣沙蒙，什么事？(ﾟωﾟ)— — — \n日更（大嘘）歌推desu。深夜随机掉落大脑溶解文案。\n观察人类，寻找同类。或许交一些朋友，或许留下些印记。(╬◣ω◢)",
-    "location": "边缘世界",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1765807313900965888/J_F-YjDh_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1765806170382774272/1709836265",
-    "followers_count": 357,
-    "statuses_count": 3015,
-    "favourites_count": 12389,
+    "followers_count": 363,
+    "friends_count": 2485,
+    "statuses_count": 3068,
+    "favourites_count": 12760,
     "listed_count": 1,
+    "location": "搁浅之地",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-03-08 02:26:27 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/cao_xia81245",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY1ODA2MTcwMzgyNzc0Mjcy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1765807313900965888/J_F-YjDh_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Mar 07 18:26:27 +0000 2024",
+            "name": "草下芥",
+            "screen_name": "cao_xia81245"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2436,
+            "friends_count": 2485,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 320,
+            "media_count": 329,
             "pinned_tweet_ids_str": [
                 "1780304801458463080"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "搁浅之地"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1709835987000,
-            "updated_at": 1744350047733
+            "created_at": 946656000000,
+            "updated_at": 1749219043008
         }
     }
 }

@@ -1,78 +1,92 @@
 {
     "id": "1748235492414607360",
-    "screen_name": "yanmao1208",
-    "name": "孤独の阎猫🏳️‍🌈",
-    "description": "一只无性别可愛い精神病少女捏~请多关照~是个很好的小女孩です／媒体有很多照片可以认识我🥺🥺／一般不回fo／阎猫/无性别（enby💛🤍💜🖤半性别／ftx🏳️‍🌈）严重精神疾病/od＆shwtw/新互联网堕天使/地蕾系/自杀筹划版/天堂预备役/交友🚪52/68/88/134",
-    "location": "†升天†",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1796619993662300162/wSHVE9_h_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748235492414607360/1719998843",
-    "followers_count": 1694,
-    "statuses_count": 957,
-    "favourites_count": 4038,
+    "screen_name": "YouRmyCause",
+    "name": "冬がすぎたら",
+    "description": "冬椿丨enby但你们当是我女的也行丨05年妈妈生的丨坐标你家床底丨病号服suki丨osdd丨drugtwt",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1924991315110203392/AxTzEOJY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748235492414607360/1747784074",
+    "followers_count": 1676,
+    "friends_count": 43,
+    "statuses_count": 73,
+    "favourites_count": 3640,
     "listed_count": 6,
+    "location": "距离你0.5米",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
-    "created_at": "2024-01-19 14:47:13 +08:00",
-    "url": "https://twitter.com/yanmao1208",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/YouRmyCause",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzQ4MjM1NDkyNDE0NjA3MzYw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1924991315110203392/AxTzEOJY_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jan 19 06:47:13 +0000 2024",
+            "name": "冬がすぎたら",
+            "screen_name": "YouRmyCause"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "overspeed.wiki/about/",
-                            "expanded_url": "http://overspeed.wiki/about/",
-                            "url": "https://t.co/WmByEWAv33",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 98,
+            "friends_count": 43,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 230,
+            "media_count": 9,
             "pinned_tweet_ids_str": [
-                "1838471219135541544"
+                "1925005648947024229"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/WmByEWAv33",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "距离你0.5米"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1760594249001931153",
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1705646833000,
-            "updated_at": 1744350112277
+            "created_at": 946656000000,
+            "updated_at": 1749219076818
         }
     }
 }

@@ -1,30 +1,43 @@
 {
     "id": "1847901231920140294",
-    "screen_name": "Armadillo53420",
-    "name": "战壕基米👊🏻😹🔥",
-    "description": "最高学历是胎教 政治启蒙是《母猪的产后护理》意识形态是欧码吉利曼波 赛马娘忠实的拥护者 亚眠街道办事处主任 瓦伦丁哈喽王  库滕堡搬运工 特雷森监狱网评员 曼波人间体 傻逼二次元 炒作狗 魔怔人 哥学家 滚学家  极民冷感 傻了吧唧研究中心院长兼头号研究对象  星怒@elonmusk",
-    "location": "傻了吧唧研究中心",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1912470225892659200/pgN7oSGu_normal.jpg",
+    "screen_name": "AKA1huazai0721",
+    "name": "特雷森马脸",
+    "description": "最高学历是胎教 政治启蒙是《母猪的产后护理》意识形态是欧码吉利曼波 赛马娘忠实的拥护者 二次元马警察 亚眠街道办事处主任 瓦伦丁哈喽王  库滕堡搬运工 特雷森监狱网评员 傻逼二次元 炒作狗 魔怔人 哥学家 滚学家  极民冷感 星怒@elonmusk 备用@peacemakerm1873",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929978929189924868/zgkZz0gX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847901231920140294/1743596554",
-    "followers_count": 1004,
-    "statuses_count": 10634,
-    "favourites_count": 53818,
-    "listed_count": 5,
+    "followers_count": 1039,
+    "friends_count": 601,
+    "statuses_count": 12248,
+    "favourites_count": 61644,
+    "listed_count": 6,
+    "location": "傻了吧唧研究中心",
+    "website": "https://t.co/7yooNKFSz9",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-10-20 15:22:53 +08:00",
-    "url": "https://twitter.com/Armadillo53420",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/AKA1huazai0721",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQ3OTAxMjMxOTIwMTQwMjk0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929978929189924868/zgkZz0gX_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Oct 20 07:22:53 +0000 2024",
+            "name": "特雷森马脸",
+            "screen_name": "AKA1huazai0721"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -36,7 +49,7 @@
                         {
                             "display_url": "cnmmusknmsl.com",
                             "expanded_url": "http://www.cnmmusknmsl.com",
-                            "url": "https://t.co/vITiEfZpew",
+                            "url": "https://t.co/7yooNKFSz9",
                             "indices": [
                                 0,
                                 23
@@ -46,27 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 592,
+            "friends_count": 601,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1243,
+            "media_count": 1333,
             "pinned_tweet_ids_str": [
                 "1868148551097909408"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/vITiEfZpew",
-            "verified": false,
+            "url": "https://t.co/7yooNKFSz9",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "傻了吧唧研究中心"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1729408973000,
-            "updated_at": 1746077175502
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

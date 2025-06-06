@@ -1,74 +1,86 @@
 {
     "id": "1634535757410111489",
-    "screen_name": "HongYu_yuki",
+    "screen_name": "woshi_caicai",
     "name": "虹雨",
-    "description": "中性|不键政|工作日在上学＝似了",
-    "location": "🚪0.4",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1908321342749106178/0qjFrMB6_normal.jpg",
+    "description": "|不键政|工作日在上学＝似了",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1923338673476816897/TtY_Yipm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634535757410111489/1738046559",
-    "followers_count": 301,
-    "statuses_count": 2162,
-    "favourites_count": 5619,
-    "listed_count": 5,
+    "followers_count": 302,
+    "friends_count": 231,
+    "statuses_count": 2441,
+    "favourites_count": 6387,
+    "listed_count": 4,
+    "location": "🚪0.4",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-03-11 20:44:37 +08:00",
-    "url": "https://twitter.com/HongYu_yuki",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/woshi_caicai",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjM0NTM1NzU3NDEwMTExNDg5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1923338673476816897/TtY_Yipm_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Mar 11 12:44:37 +0000 2023",
+            "name": "虹雨",
+            "screen_name": "woshi_caicai"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/hongyu_yuki",
-                            "expanded_url": "https://ngl.link/hongyu_yuki",
-                            "url": "https://t.co/kSCU5K8mGL",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 227,
+            "friends_count": 231,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 84,
-            "pinned_tweet_ids_str": [
-                "1908340991272378395"
-            ],
+            "media_count": 96,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/kSCU5K8mGL",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "🚪0.4"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1678538677000,
-            "updated_at": 1746077169154
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

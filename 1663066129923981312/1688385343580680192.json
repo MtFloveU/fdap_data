@@ -1,30 +1,43 @@
 {
     "id": "1688385343580680192",
     "screen_name": "heiwawomamore",
-    "name": "末裏せい/まつり清(前 平和を守れ)",
-    "description": "ima ingenting more alles\n\n願你們平安順遂幸福快樂",
-    "location": "Singin' In The Rain",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917086565467381761/C3Ud0dvT_normal.jpg",
+    "name": "末裏せい/まつり清(前 平和を守れ)🐈",
+    "description": "泛左派(或許）MtX🍥  🐈\n\n發發生活和一些奇怪的想\n \n主要喜歡胃弱久石讓坂本龍一的音樂 常聽朮曲 歷史政治相關歌曲 左翼歌曲 日語英語歌曲 純音樂 交響樂 民歌 老歌 ACG音樂和其他平均律的音樂 歡迎給我推歌？\n\nima ingenting more alles\n \n願你們平安順遂幸福快樂",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930254823301230594/dZGh6wbK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688385343580680192/1743809892",
-    "followers_count": 1335,
-    "statuses_count": 56191,
-    "favourites_count": 107221,
-    "listed_count": 14,
+    "followers_count": 1415,
+    "friends_count": 2189,
+    "statuses_count": 62072,
+    "favourites_count": 117841,
+    "listed_count": 10,
+    "location": "Singin' In The Rain",
+    "website": "https://t.co/NkYsnsHUO7",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-08-07 11:03:51 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/heiwawomamore",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjg4Mzg1MzQzNTgwNjgwMTky",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930254823301230594/dZGh6wbK_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Aug 07 03:03:51 +0000 2023",
+            "name": "末裏せい/まつり清(前 平和を守れ)🐈",
+            "screen_name": "heiwawomamore"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -36,7 +49,7 @@
                         {
                             "display_url": "ngl.link/heiwawomamore",
                             "expanded_url": "https://ngl.link/heiwawomamore",
-                            "url": "https://t.co/hEgd7mN8Dk",
+                            "url": "https://t.co/NkYsnsHUO7",
                             "indices": [
                                 0,
                                 23
@@ -46,27 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2097,
+            "friends_count": 2189,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1237,
+            "media_count": 1492,
             "pinned_tweet_ids_str": [
-                "1917090824590180853"
+                "1924790212334678433"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/hEgd7mN8Dk",
-            "verified": false,
+            "url": "https://t.co/NkYsnsHUO7",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Singin' In The Rain"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1691377431000,
-            "updated_at": 1746077175503
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

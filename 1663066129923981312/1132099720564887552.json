@@ -1,31 +1,43 @@
 {
     "id": "1132099720564887552",
     "screen_name": "anyneko_",
-    "name": "_eko",
-    "description": "任意猫,18,She/Her. / @ZaindORp /@MarshMallowawa / @Skynext_China / '愿你幸福而自由.",
-    "location": "语烟谷设计院",
+    "name": "北桥星子",
+    "description": "任意猫,18,She/Her. / @ZaindORp /@KitahasiKawa / @Skynext_China / '愿你幸福而自由.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1826940856261324800/eGHT1hTm_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132099720564887552/1736832116",
-    "followers_count": 8225,
-    "statuses_count": 8065,
-    "favourites_count": 108118,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132099720564887552/1748029227",
+    "followers_count": 8317,
+    "friends_count": 2288,
+    "statuses_count": 8192,
+    "favourites_count": 109618,
     "listed_count": 25,
+    "location": "语烟谷设计院",
+    "website": "https://t.co/kekCWTVvYT",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2019-05-25 09:43:01 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/anyneko_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTMyMDk5NzIwNTY0ODg3NTUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1826940856261324800/eGHT1hTm_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat May 25 01:43:01 +0000 2019",
+            "name": "北桥星子",
+            "screen_name": "anyneko_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2255,
+            "friends_count": 2288,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 750,
+            "media_count": 755,
             "pinned_tweet_ids_str": [
                 "1894660472085102755"
             ],
@@ -58,10 +70,17 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/kekCWTVvYT",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "语烟谷设计院"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1546020801853669376",
             "professional_type": "Creator",
@@ -73,14 +92,24 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false,
             "bitcoin_handle": "bc1qx65xv3pzn37ygqpdslfn3l4erxxzgtc6qs2yzd",
             "ethereum_handle": "0x14312Cab857FD0C209515b5900A6ccCE89FAca60"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1558748581000,
-            "updated_at": 1744350101510
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

@@ -2,28 +2,42 @@
     "id": "1559088842333769728",
     "screen_name": "hsnyuia",
     "name": "ゆいあ",
-    "description": "トランスじゃなくて男です。自己紹介なし",
-    "location": "地球以外",
+    "description": "トランスじゃなく   好き≠いいね=既読",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1805979917391405057/dySmOpSA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559088842333769728/1725648955",
-    "followers_count": 1199,
-    "statuses_count": 4225,
-    "favourites_count": 8621,
+    "followers_count": 1303,
+    "friends_count": 1136,
+    "statuses_count": 4443,
+    "favourites_count": 9337,
     "listed_count": 5,
+    "location": "寮",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-08-15 16:05:37 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/hsnyuia",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTU5MDg4ODQyMzMzNzY5NzI4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1805979917391405057/dySmOpSA_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Aug 15 08:05:37 +0000 2022",
+            "name": "ゆいあ",
+            "screen_name": "hsnyuia"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1085,
+            "friends_count": 1136,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 541,
-            "pinned_tweet_ids_str": [],
+            "media_count": 568,
+            "pinned_tweet_ids_str": [
+                "1930625947499462721"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "寮"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1660550737000,
-            "updated_at": 1746077179549
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

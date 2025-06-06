@@ -1,20 +1,25 @@
 {
     "id": "1597993409473818624",
     "screen_name": "KomeijiKoishi_1",
-    "name": "Celeriel",
+    "name": "Matsuzaka Satou",
     "description": "而我仍梦到他踏着草地/在露水中飘飘荡荡行走/让我的欢歌轻易刺透",
-    "location": "Avernus",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1858998583766437888/VYsBeZ1a_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597993409473818624/1690311266",
-    "followers_count": 725,
-    "statuses_count": 2888,
-    "favourites_count": 9329,
+    "followers_count": 731,
+    "friends_count": 604,
+    "statuses_count": 2909,
+    "favourites_count": 9575,
     "listed_count": 2,
+    "location": "Avernus",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-12-01 00:38:25 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/KomeijiKoishi_1",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "Neuromancer_77"
                                         },
                                         "rest_id": "1621599269462626304"
@@ -50,13 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1858998583766437888/VYsBeZ1a_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Nov 30 16:38:25 +0000 2022",
+            "name": "Matsuzaka Satou",
+            "screen_name": "KomeijiKoishi_1"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -65,29 +76,46 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 590,
+            "friends_count": 604,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 245,
+            "media_count": 247,
             "pinned_tweet_ids_str": [
                 "1810255962789593353"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Avernus"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1621936203502346240",
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1669826305000,
-            "updated_at": 1744350087213
+            "created_at": 946656000000,
+            "updated_at": 1749219065464
         }
     }
 }

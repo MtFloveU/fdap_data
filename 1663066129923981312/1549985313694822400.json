@@ -2,30 +2,42 @@
     "id": "1549985313694822400",
     "screen_name": "Warden47119942",
     "name": "Warden狱长",
-    "description": "welcome ！学牲党QwQ欢迎找咱玩ovo：塔科夫，战雷……想一起玩的快来找咱玩（接代打日本語を勉强します。狱长の闲聊小屋https://t.co/NG1ghpP5ab\n欢迎mtf、可爱的男孩子，小男娘………大家一起来找咱贴贴哦😝（日常+涩涩偶尔）",
-    "location": "",
+    "description": "welcome ！QwQ欢迎找咱玩ovo：塔科夫，kards……想一起玩的快来找咱玩（接代打日本語を勉强します。狱长の闲聊小屋https://t.co/NG1ghpOxkD\n欢迎大家一起来找咱贴贴哦😝（日常+涩涩偶尔）乌拉～乌拉～咿哈  是乌萨奇咪😼喵",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1652716176945061889/uThtCzJF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549985313694822400/1683467001",
-    "followers_count": 751,
-    "statuses_count": 5275,
-    "favourites_count": 94367,
+    "followers_count": 771,
+    "friends_count": 3199,
+    "statuses_count": 5705,
+    "favourites_count": 99093,
     "listed_count": 1,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-07-21 13:11:19 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Warden47119942",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTQ5OTg1MzEzNjk0ODIyNDAw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1652716176945061889/uThtCzJF_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jul 21 05:11:19 +0000 2022",
+            "name": "Warden狱长",
+            "screen_name": "Warden47119942"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                         {
                             "display_url": "t.me/+EV_WdZ2nx59kM…",
                             "expanded_url": "https://t.me/+EV_WdZ2nx59kMDFl",
-                            "url": "https://t.co/NG1ghpP5ab",
+                            "url": "https://t.co/NG1ghpOxkD",
                             "indices": [
                                 63,
                                 86
@@ -44,31 +56,48 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3046,
+            "friends_count": 3199,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 933,
+            "media_count": 983,
             "pinned_tweet_ids_str": [
                 "1716481628942610447"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1596552716800577537",
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1658380279000,
-            "updated_at": 1744350052405
+            "created_at": 946656000000,
+            "updated_at": 1749219045919
         }
     }
 }

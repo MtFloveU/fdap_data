@@ -2,30 +2,42 @@
     "id": "1786227665348722688",
     "screen_name": "aiwandexiaohao",
     "name": "東方明子（转生版）",
-    "description": "09/mtf  maimai/chunithm/東方project/vocaloid/业余无线电BG2GRL/···",
-    "location": "heilongjiang，china",
+    "description": "09/mtf(?  maimai/chunithm/東方project/vocaloid/鐵路航空愛好者/業餘無線電BG2GRL/···",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892592877433458688/TH_nrnFq_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 142,
-    "statuses_count": 327,
-    "favourites_count": 3564,
+    "followers_count": 153,
+    "friends_count": 435,
+    "statuses_count": 373,
+    "favourites_count": 3925,
     "listed_count": 1,
+    "location": "Heilongjiang   China",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-05-03 10:54:06 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/aiwandexiaohao",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzg2MjI3NjY1MzQ4NzIyNjg4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1892592877433458688/TH_nrnFq_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri May 03 02:54:06 +0000 2024",
+            "name": "東方明子（转生版）",
+            "screen_name": "aiwandexiaohao"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 391,
+            "friends_count": 435,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
+            "media_count": 16,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Heilongjiang   China"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1714704846000,
-            "updated_at": 1744350009041
+            "created_at": 946656000000,
+            "updated_at": 1749219025756
         }
     }
 }

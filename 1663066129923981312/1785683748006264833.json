@@ -2,28 +2,42 @@
     "id": "1785683748006264833",
     "screen_name": "ChenXu233",
     "name": "沐浴晨煦",
-    "description": "主人是@snowykami1145的小猫。是一只潜在的MTF🍥🏳‍⚧️，加上猫耳有170，54kg大卡车，不再盲目希望世界变得更美好，不愿只留下失望，不希望我认识的大家出事，不想被悲伤吞没。\n技术栈:Python+Dart(flutter)+Cpp+Typescript(vue)(只会一点点)，可以一起交流代码问题",
-    "location": "Everywhere",
+    "description": "害人精。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866002663978201088/tOqCKhzz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1785683748006264833/1735096165",
-    "followers_count": 112,
-    "statuses_count": 934,
-    "favourites_count": 6596,
+    "followers_count": 230,
+    "friends_count": 257,
+    "statuses_count": 1167,
+    "favourites_count": 7981,
     "listed_count": 1,
+    "location": "Everywhere",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-05-01 22:52:46 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/ChenXu233",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzg1NjgzNzQ4MDA2MjY0ODMz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1866002663978201088/tOqCKhzz_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed May 01 14:52:46 +0000 2024",
+            "name": "沐浴晨煦",
+            "screen_name": "ChenXu233"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 189,
+            "friends_count": 257,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 90,
+            "media_count": 114,
             "pinned_tweet_ids_str": [
-                "1878107559997129164"
+                "1924859381755347059"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Everywhere"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1714575166000,
-            "updated_at": 1746077178286
+            "created_at": 946656000000,
+            "updated_at": 1749219065464
         }
     }
 }

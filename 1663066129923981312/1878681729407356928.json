@@ -2,28 +2,42 @@
     "id": "1878681729407356928",
     "screen_name": "HYuusui1999",
     "name": "祐穂・H",
-    "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
-    "location": "人间边缘",
+    "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。 ～公告栏～ @jvhao0721 @tingfeng_TF @noname87525好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878681729407356928/1736909213",
-    "followers_count": 320,
-    "statuses_count": 3569,
-    "favourites_count": 17171,
+    "followers_count": 441,
+    "friends_count": 1109,
+    "statuses_count": 4766,
+    "favourites_count": 20961,
     "listed_count": 6,
+    "location": "人间边缘",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2025-01-13 13:53:31 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/HYuusui1999",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODc4NjgxNzI5NDA3MzU2OTI4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Jan 13 05:53:31 +0000 2025",
+            "name": "祐穂・H",
+            "screen_name": "HYuusui1999"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,28 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 789,
+            "friends_count": 1109,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 162,
+            "media_count": 202,
             "pinned_tweet_ids_str": [
-                "1917405127981371473"
+                "1921895055087841673"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "parody_commentary_fan_label": "None",
+        "location": {
+            "location": "人间边缘"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1736747611000,
-            "updated_at": 1746077169154
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

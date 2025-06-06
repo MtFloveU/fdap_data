@@ -2,30 +2,42 @@
     "id": "1401916221214236674",
     "screen_name": "XiJiangFo",
     "name": "夕酱🏴‍☠️",
-    "description": "♂｜INFJ-T｜🚫不键政｜🏴‍☠️ACG原教旨主义｜CS2养老玩家（主队：@FaZeEsports #FaZeUp 副队：@TeamVitalityCS｜小号：@XiJiangKurisu｜欢迎互fo",
-    "location": "↓超自然研究部（telegram群组）",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1863853821648310272/xI_--uch_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401916221214236674/1735843201",
-    "followers_count": 3754,
-    "statuses_count": 14008,
-    "favourites_count": 31979,
+    "description": "♂｜INFJ-T｜🚫不键政｜🏴‍☠️ACG原教旨主义｜CS2养老玩家（主队：@TeamVitalityCS🐝 #VForVictory 副队：@FaZeEsports）｜小号：@XiJiangKurisu｜欢迎互fo｜",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1926908542608396289/xLstmFaJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401916221214236674/1745843820",
+    "followers_count": 3827,
+    "friends_count": 4024,
+    "statuses_count": 14390,
+    "favourites_count": 32507,
     "listed_count": 7,
+    "location": "↓超自然研究部（telegram群组）",
+    "website": "https://t.co/dprzM8uoK5",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2021-06-07 22:57:47 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/XiJiangFo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDAxOTE2MjIxMjE0MjM2Njc0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1926908542608396289/xLstmFaJ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Jun 07 14:57:47 +0000 2021",
+            "name": "夕酱🏴‍☠️",
+            "screen_name": "XiJiangFo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,27 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3995,
+            "friends_count": 4024,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1874,
+            "media_count": 1955,
             "pinned_tweet_ids_str": [
-                "1908187845845758335"
+                "1927016913676226560"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/dprzM8uoK5",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "↓超自然研究部（telegram群组）"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1623077867000,
-            "updated_at": 1744350109133
+            "created_at": 946656000000,
+            "updated_at": 1749219075207
         }
     }
 }

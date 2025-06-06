@@ -2,50 +2,54 @@
     "id": "1402859955196022788",
     "screen_name": "im31core",
     "name": "31core",
-    "description": " | 19y.o. | 🎹ピアノ | ◂Ⓘ▸ | ⊕Cryptologist | 🗺️OpenStreetMap contributor | 🇺🇸English 50% • 🇨🇳简体中文 30% • 🇯🇵日本語 20% | I ❤️ ☕️ | https://t.co/CJg0J2YSn5",
-    "location": "Hinamizawa, Japan",
+    "description": " | 19y.o. | 🎹ピアノ | ◂Ⓘ▸ | 🍊💫 | ⊕Cryptologist | 🗺️OpenStreetMap contributor | 🇺🇸English 50% • 🇨🇳简体中文 30% • 🇯🇵日本語 20% | 友達: @yasakichiyu | 🎼业余编曲学习中",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1900141594348810240/S3CvUTws_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402859955196022788/1741864093",
     "followers_count": 20,
-    "statuses_count": 284,
-    "favourites_count": 1239,
+    "friends_count": 241,
+    "statuses_count": 290,
+    "favourites_count": 1281,
     "listed_count": 0,
+    "location": "Hinamizawa, Japan",
+    "website": "https://t.co/MGZuapOKzq",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2021-06-10 13:27:42 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/im31core",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDAyODU5OTU1MTk2MDIyNzg4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1900141594348810240/S3CvUTws_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jun 10 05:27:42 +0000 2021",
+            "name": "31core",
+            "screen_name": "im31core"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/31core",
-                            "expanded_url": "https://ngl.link/31core",
-                            "url": "https://t.co/CJg0J2YSn5",
-                            "indices": [
-                                123,
-                                146
-                            ]
-                        }
-                    ]
+                    "urls": []
                 },
                 "url": {
                     "urls": [
                         {
                             "display_url": "31core.github.io",
                             "expanded_url": "https://31core.github.io",
-                            "url": "https://t.co/oHpNbceJz7",
+                            "url": "https://t.co/MGZuapOKzq",
                             "indices": [
                                 0,
                                 23
@@ -55,27 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 247,
+            "friends_count": 241,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 55,
+            "media_count": 56,
             "pinned_tweet_ids_str": [
                 "1908929785721741823"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/oHpNbceJz7",
-            "verified": false,
+            "url": "https://t.co/MGZuapOKzq",
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Hinamizawa, Japan"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1623302862000,
-            "updated_at": 1746080538662
+            "created_at": 946656000000,
+            "updated_at": 1749219040874
         }
     }
 }

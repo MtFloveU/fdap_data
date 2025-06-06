@@ -2,30 +2,42 @@
     "id": "908312740455907330",
     "screen_name": "qiuylove",
     "name": "🍥小秋月🏳️‍⚧",
-    "description": "Stand with🇹🇼🇺🇦/里推/一只09的MtF噢/未炸柜但被迫断糖/化竞生/INFP/sub/免费私信树洞 /表@imqiuy /https://t.co/BFK1NVA58J 限时放送：我想看@P5KAban变男娘",
-    "location": "Seattle, WA",
+    "description": "纯情女高？！/里推/一只09的MtF噢/未炸柜但被迫断糖/退役CChOer/INFP/les/sub/免费私信树洞 /表@imqiuy /https://t.co/BFK1NVA58J 限时放送：我想看@CharmingP5K (@Best_Ak1ra)变男娘",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916718580705742848/pSAcedGu_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/908312740455907330/1723091129",
-    "followers_count": 139,
-    "statuses_count": 640,
-    "favourites_count": 7755,
+    "followers_count": 162,
+    "friends_count": 434,
+    "statuses_count": 887,
+    "favourites_count": 11344,
     "listed_count": 0,
+    "location": "Seattle, WA",
+    "website": "https://t.co/qLU5z1lJqT",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2017-09-14 20:53:27 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/qiuylove",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjo5MDgzMTI3NDA0NTU5MDczMzA=",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1916718580705742848/pSAcedGu_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Sep 14 12:53:27 +0000 2017",
+            "name": "🍥小秋月🏳️‍⚧",
+            "screen_name": "qiuylove"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "notifications": true,
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -36,8 +48,8 @@
                             "expanded_url": "https://t.me/xyn8964",
                             "url": "https://t.co/BFK1NVA58J",
                             "indices": [
-                                68,
-                                91
+                                69,
+                                92
                             ]
                         }
                     ]
@@ -57,10 +69,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 370,
+            "friends_count": 434,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 42,
+            "media_count": 57,
+            "notifications": true,
             "pinned_tweet_ids_str": [
                 "1902942928017793151"
             ],
@@ -68,20 +81,35 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/qLU5z1lJqT",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Seattle, WA"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true,
             "bitcoin_handle": "bc1qjlhyzcn99xk78au2vgran220q9ff8y48fck8w0",
             "ethereum_handle": "0x31A6B4DB1afA07809eCC659bBDbcC870086Bf3B7"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1505393607000,
-            "updated_at": 1746077179548
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

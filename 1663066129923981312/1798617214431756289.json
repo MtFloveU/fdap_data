@@ -2,30 +2,42 @@
     "id": "1798617214431756289",
     "screen_name": "Hitori_Gotoh520",
     "name": "一裏醬",
-    "description": "純清水推|日常推/孤獨摇滾單推人/不鍵政不涉政\n波門最忠實的信徒|單推波奇醬🥰\n社交恐惧症/不知道什麼人格\n屑涼@QT_kanata 可愛的@gemmillihxrf\n裡推@Bocchi0221520\n不是健全b，，，\n謹慎follow\n@mutsumi520_逃生艙\n#殺光黃推唯一出路 #全民睡覺唯一出路",
-    "location": "紐帶樂隊",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1862438887106437120/BV-qzKX4_normal.jpg",
+    "description": "裡推@Bocchi0221520\n@mutsumi520_逃生艙\n@yangaaa111 愛人",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1920115032018571265/2qi-udqb_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798617214431756289/1720955456",
-    "followers_count": 1175,
-    "statuses_count": 8907,
-    "favourites_count": 17858,
+    "followers_count": 1167,
+    "friends_count": 1002,
+    "statuses_count": 9192,
+    "favourites_count": 17999,
     "listed_count": 6,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-06-06 15:26:54 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Hitori_Gotoh520",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk4NjE3MjE0NDMxNzU2Mjg5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1920115032018571265/2qi-udqb_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jun 06 07:26:54 +0000 2024",
+            "name": "一裏醬",
+            "screen_name": "Hitori_Gotoh520"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 999,
+            "friends_count": 1002,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 206,
+            "media_count": 214,
             "pinned_tweet_ids_str": [
                 "1863535757128052904"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1717658814000,
-            "updated_at": 1744350106481
+            "created_at": 946656000000,
+            "updated_at": 1749219074028
         }
     }
 }

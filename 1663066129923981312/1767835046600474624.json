@@ -2,30 +2,42 @@
     "id": "1767835046600474624",
     "screen_name": "haha44444qwq",
     "name": "haha44444🏳️‍⚧️🍥",
-    "description": "@haha44444awa 重生号|无证含糖|\n05年mtf|泛性恋|偶尔od自残|hrt:2022/9/30|2b2t玩家/minecraft玩家/服主|技术党|家里云万岁|音游player|\n老公 @Nazuan086374173 |xyn都会写代码😎|\n还我2k粉丝QAQ\n我他妈成年了 别封我号😡😡😡",
-    "location": "localhost",
+    "description": "@haha44444awa 重生号|无证含糖|\n05年mtf|泛性恋|hrt:2022/9|2b2t玩家/minecraft玩家/服主|技术党|家里云万岁|音游|\n老公 @Nazuan086374173 |xyn都会写代码😎|\n还我2k粉丝QAQ\n我他妈成年了 别封我号😡😡😡",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1775602322154102784/dViOiawi_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767835046600474624/1718153446",
-    "followers_count": 1556,
-    "statuses_count": 434,
-    "favourites_count": 7177,
+    "followers_count": 1654,
+    "friends_count": 7502,
+    "statuses_count": 448,
+    "favourites_count": 7435,
     "listed_count": 5,
+    "location": "localhost",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-03-13 16:48:30 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/haha44444qwq",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY3ODM1MDQ2NjAwNDc0NjI0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1775602322154102784/dViOiawi_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Mar 13 08:48:30 +0000 2024",
+            "name": "haha44444🏳️‍⚧️🍥",
+            "screen_name": "haha44444qwq"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7319,
+            "friends_count": 7502,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 20,
+            "media_count": 22,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "localhost"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1710319710000,
-            "updated_at": 1744350101510
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

@@ -1,29 +1,43 @@
 {
     "id": "1865831426303897600",
     "screen_name": "Zero_158_Kana",
-    "name": "Zero_158_Kana",
-    "description": "我们是零酱&樱舞花&可奈&未知（可能出现的碎片）哦！我（零酱）是一只infp小狐狸哦！嗷呜～\n/无证hrt2025.1.10\n/想让大家幸福喵\n/超天酱重度依赖\n/インターネット · エンジェル、ただいま降臨 ！\n/Lover：@calsym456",
-    "location": "梦之乡",
+    "name": "北雁梦 - Dreamland システム",
+    "description": "你们好！现在是可奈和零酱主导，樱舞花与七碎也会出现，为零酱犯病时伤害的人致歉orz\n/无证hrt2025.1.10\n/里推：@DreamlandSysSub\n/Lover：@calsym456",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895352936487636992/HyGnw-G1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865831426303897600/1741055932",
-    "followers_count": 1055,
-    "statuses_count": 4171,
-    "favourites_count": 8344,
-    "listed_count": 9,
+    "followers_count": 1085,
+    "friends_count": 755,
+    "statuses_count": 4708,
+    "favourites_count": 8859,
+    "listed_count": 8,
+    "location": "梦之乡",
+    "website": "https://t.co/ZxXMCZ22Y4",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-12-09 02:51:06 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Zero_158_Kana",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODY1ODMxNDI2MzAzODk3NjAw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1895352936487636992/HyGnw-G1_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Dec 08 18:51:06 +0000 2024",
+            "name": "北雁梦 - Dreamland システム",
+            "screen_name": "Zero_158_Kana"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,7 +49,7 @@
                         {
                             "display_url": "ngl.link/zero_158gjzr",
                             "expanded_url": "https://ngl.link/zero_158gjzr",
-                            "url": "https://t.co/ZxXMCZ2ANC",
+                            "url": "https://t.co/ZxXMCZ22Y4",
                             "indices": [
                                 0,
                                 23
@@ -45,27 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 731,
+            "friends_count": 755,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 253,
+            "media_count": 276,
             "pinned_tweet_ids_str": [
-                "1906895138582106622"
+                "1919773070249632215"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/ZxXMCZ2ANC",
-            "verified": false,
+            "url": "https://t.co/ZxXMCZ22Y4",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "梦之乡"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1733683866000,
-            "updated_at": 1746077175503
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

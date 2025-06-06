@@ -2,15 +2,15 @@
     "id": "1557982495710257152",
     "screen_name": "eggstirmineight",
     "name": "eggstirmin8",
-    "description": "|♥|死了| 这会考完了学完了休息版|这个是竹蜻蜓！：@zqtlovekris99 ||TRC20收款地址TDCzpiCUbDAttBPSSHytbkNY1uAGqmbcKt",
-    "location": "Pok Fu Lam Road, Hong Kong ",
+    "description": "|♥|死了| 努力达con中|25 fall LSE|没了",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1863250418895065089/mYCRJqxe_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557982495710257152/1721458017",
-    "followers_count": 1008,
-    "friends_count": 2355,
-    "statuses_count": 4476,
-    "favourites_count": 49763,
+    "followers_count": 1064,
+    "friends_count": 2448,
+    "statuses_count": 4941,
+    "favourites_count": 52497,
     "listed_count": 4,
+    "location": "McDonald's No1. Tianyaoqiao Rd",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2022-08-12 14:49:20 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/eggstirmineight",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTU3OTgyNDk1NzEwMjU3MTUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1863250418895065089/mYCRJqxe_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Aug 12 06:49:20 +0000 2022",
+            "name": "eggstirmin8",
+            "screen_name": "eggstirmineight"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2355,
+            "friends_count": 2448,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 280,
+            "media_count": 318,
             "pinned_tweet_ids_str": [
                 "1803384742072443017"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "McDonald's No1. Tianyaoqiao Rd"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -64,12 +78,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1660286960000,
-            "updated_at": 1746277413416
+            "created_at": 946656000000,
+            "updated_at": 1749219074028
         }
     }
 }

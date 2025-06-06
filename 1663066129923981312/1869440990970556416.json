@@ -1,55 +1,83 @@
 {
     "id": "1869440990970556416",
-    "screen_name": "Kaohchuancity",
-    "name": "🌈⛩️雪原剑仙🏳️‍⚧️✨（摇光星）",
-    "description": "福冈在住白鸽（mtf）//我是一颗星，4亿岁了。\n里推：@thelastchaoxinx",
-    "location": "星空文明摄平星系云屏市北云区星辰官邸",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917707929014394881/RketdW4h_normal.jpg",
+    "screen_name": "SnowfairySerina",
+    "name": "🌈⛩️雪原剑仙🏳️‍⚧️✨（铁路吟游者）",
+    "description": "福冈在住/铁路吟游诗人/mtf//我是一颗星，4亿岁了。\nSnowfairy🩷Serina Forever",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1923367203124260864/Gs8aq0co_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869440990970556416/1744112511",
-    "followers_count": 367,
-    "friends_count": 374,
-    "statuses_count": 1013,
-    "favourites_count": 823,
+    "followers_count": 507,
+    "friends_count": 515,
+    "statuses_count": 1396,
+    "favourites_count": 1179,
     "listed_count": 2,
-    "website": null,
+    "location": "星空文明摄平星系云屏市北云区星辰官邸",
+    "website": "https://t.co/C5JIQAhDNj",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-12-19 01:54:48 +08:00",
-    "url": "https://twitter.com/Kaohchuancity",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/SnowfairySerina",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODY5NDQwOTkwOTcwNTU2NDE2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1923367203124260864/Gs8aq0co_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Dec 18 17:54:48 +0000 2024",
+            "name": "🌈⛩️雪原剑仙🏳️‍⚧️✨（铁路吟游者）",
+            "screen_name": "SnowfairySerina"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/yaokuanguniver…",
+                            "expanded_url": "https://t.me/yaokuanguniverse",
+                            "url": "https://t.co/C5JIQAhDNj",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 374,
+            "friends_count": 515,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 157,
+            "media_count": 204,
             "pinned_tweet_ids_str": [
-                "1918137951089017322"
+                "1930831213062946997"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/C5JIQAhDNj",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "星空文明摄平星系云屏市北云区星辰官邸"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -64,12 +92,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1734544488000,
-            "updated_at": 1746176984382
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

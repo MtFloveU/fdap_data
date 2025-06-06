@@ -2,19 +2,24 @@
     "id": "1639894055948816387",
     "screen_name": "sakumamutsuki",
     "name": "kayo",
-    "description": "不稱職的神明｜備考dse期間可能暫時死掉 26年考完回來丨不喜歡回私訊，不喜歡回留言，再次感謝大家對我的同情和包容。會回但回的慢，看到我已讀了沒回不是討厭不是敷衍是我想在精力好的時候處理社交避免誤傷他人。和我聊天做好這個準備｜不要叫我寶寶謝謝你們丨中文差勁做題蛆，英語5歲水準，一次性表達不清楚還請原諒",
-    "location": "",
+    "description": "不稱職的神明｜備考dse期間可能暫時死掉/精神不穩講怪話請見諒丨最萌小夜@lonelyxiaoye丨全能小希露@shirumesu丨最溫柔的姊姊@8964_xy11丨國服第一地雷王@Tsukishima_hane",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1909038412721729536/ihaW0tM6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639894055948816387/1739550878",
-    "followers_count": 1093,
-    "statuses_count": 6252,
-    "favourites_count": 23095,
+    "followers_count": 1117,
+    "friends_count": 1597,
+    "statuses_count": 6456,
+    "favourites_count": 22889,
     "listed_count": 7,
+    "location": "",
+    "website": "https://t.co/sZHlu2ozaI",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2023-03-26 15:36:33 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/sakumamutsuki",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "Pheeveen"
                                         },
                                         "rest_id": "1625104752035139587"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1909038412721729536/ihaW0tM6_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Mar 26 07:36:33 +0000 2023",
+            "name": "kayo",
+            "screen_name": "sakumamutsuki"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -75,25 +89,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1590,
+            "friends_count": 1597,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 0,
+            "media_count": 3,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/sZHlu2ozaI",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1679816193000,
-            "updated_at": 1746080521888
+            "created_at": 946656000000,
+            "updated_at": 1749219025756
         }
     }
 }

@@ -1,16 +1,16 @@
 {
     "id": "1759609422777577472",
     "screen_name": "newland_rev24",
-    "name": "分明",
-    "description": "主玩星铁与粥",
-    "location": "圣城奥赫玛",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917532621216628736/kFYPu_0Q_normal.jpg",
+    "name": "サミュエル",
+    "description": "这世界太危险，只有你我最安全",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930826321724092416/2XCgkzqW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759609422777577472/1744437533",
-    "followers_count": 1497,
-    "friends_count": 2895,
-    "statuses_count": 17662,
-    "favourites_count": 50297,
-    "listed_count": 7,
+    "followers_count": 1523,
+    "friends_count": 3047,
+    "statuses_count": 18404,
+    "favourites_count": 52131,
+    "listed_count": 8,
+    "location": "オヘマの聖都",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-02-20 00:03:02 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/newland_rev24",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzU5NjA5NDIyNzc3NTc3NDcy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930826321724092416/2XCgkzqW_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Feb 19 16:03:02 +0000 2024",
+            "name": "サミュエル",
+            "screen_name": "newland_rev24"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2895,
+            "friends_count": 3047,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 346,
+            "media_count": 353,
             "pinned_tweet_ids_str": [
-                "1903278464679154138"
+                "1918933990297284903"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "オヘマの聖都"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1708358582000,
-            "updated_at": 1746176990779
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

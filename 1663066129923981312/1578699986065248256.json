@@ -1,0 +1,89 @@
+{
+    "id": "1578699986065248256",
+    "screen_name": "Frieastarsea",
+    "name": "ℱ𝓇𝒾ℯ𝒶𝒮𝓉𝒶𝓇𝓈ℯ𝒶🌌",
+    "description": "豐川祥子自動轉貼評論不發帖不點讚bot(看到好玩的都會轉)",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1926317183782555648/uTU21SHd_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1578699986065248256/1747750823",
+    "followers_count": 1057,
+    "friends_count": 1076,
+    "statuses_count": 8193,
+    "favourites_count": 9848,
+    "listed_count": 3,
+    "location": "星海",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/Frieastarsea",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTc4Njk5OTg2MDY1MjQ4MjU2",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1926317183782555648/uTU21SHd_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Oct 08 10:53:23 +0000 2022",
+            "name": "ℱ𝓇𝒾ℯ𝒶𝒮𝓉𝒶𝓇𝓈ℯ𝒶🌌",
+            "screen_name": "Frieastarsea"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1076,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 1253,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "星海"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1797298596683170115",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 946656000000,
+            "updated_at": 1749219069841
+        }
+    }
+}

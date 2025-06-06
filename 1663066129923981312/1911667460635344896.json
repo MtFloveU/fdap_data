@@ -1,0 +1,84 @@
+{
+    "id": "1911667460635344896",
+    "screen_name": "watermelon96758",
+    "name": "瓜师傅（二代目/推友寻回中）",
+    "description": "此号仅用于看新闻/不对线/最爱申鹤",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1917238887803498497/vHz4Relr_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911667460635344896/1745155790",
+    "followers_count": 109,
+    "friends_count": 162,
+    "statuses_count": 1104,
+    "favourites_count": 3302,
+    "listed_count": 3,
+    "location": "",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/watermelon96758",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxOTExNjY3NDYwNjM1MzQ0ODk2",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1917238887803498497/vHz4Relr_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Apr 14 06:26:58 +0000 2025",
+            "name": "瓜师傅（二代目/推友寻回中）",
+            "screen_name": "watermelon96758"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 162,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 95,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": true,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
+        }
+    }
+}

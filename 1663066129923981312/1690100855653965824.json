@@ -1,16 +1,16 @@
 {
     "id": "1690100855653965824",
-    "screen_name": "iLIc3134560",
-    "name": "iLIc3🚩📕伍伊斯基同志（再不反毛版）",
-    "description": "消灭性别主义者/mtx喵🍥/180只能走御姐风呜X﹏X/天真单纯可rua🔥寂寞猫猫想被线下单杀🔥快来找我玩吧ヽ(•ω•ゞ)/喜欢键政哲学(*¯v¯*)/社会主义建设万岁！/只要反纳我们就是好朋友啦嘻嘻ヾ(✿ﾟ▽ﾟ)ノʚෆɞ\n🍻追求个人自由若是人性使然，那舍身追求社会自由就是反人性的🍻\n共产主义。马列毛主义。",
-    "location": "民主猫猫避难所（互fo请私信喵）（我看不见呜呜",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917285904030322689/VweKl890_normal.jpg",
+    "screen_name": "iLIc5147",
+    "name": "iLIc🟥⬛🏴‍☠️伍伊斯基同志",
+    "description": "消灭性别者 / mtx喵🍥 /🚪52 /180只能走御姐风呜X﹏X/天真单纯可rua🔥寂寞猫猫想被线下单杀🔥快来找我玩吧ヽ(•ω•ゞ)/只要反戒色我们就是好朋友啦嘻嘻ヾ(✿ﾟ▽ﾟ)ノʚෆɞ\n🍻追求个人自由若是人性使然，那舍身追求社会自由就是反人性的🍻\n@BaoWeiMaoZeDong更是傻逼毛左",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930964043830906880/oCOnpk7m_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690100855653965824/1731739850",
-    "followers_count": 339,
-    "friends_count": 270,
-    "statuses_count": 2785,
-    "favourites_count": 6849,
-    "listed_count": 3,
+    "followers_count": 460,
+    "friends_count": 343,
+    "statuses_count": 4375,
+    "favourites_count": 10872,
+    "listed_count": 5,
+    "location": "",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2023-08-12 04:40:59 +08:00",
-    "url": "https://twitter.com/iLIc3134560",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/iLIc5147",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjkwMTAwODU1NjUzOTY1ODI0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930964043830906880/oCOnpk7m_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Aug 11 20:40:59 +0000 2023",
+            "name": "iLIc🟥⬛🏴‍☠️伍伊斯基同志",
+            "screen_name": "iLIc5147"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,37 +46,52 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 270,
+            "friends_count": 343,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 267,
-            "pinned_tweet_ids_str": [
-                "1918507773987323926"
-            ],
+            "media_count": 318,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1861719049220075976",
-            "professional_type": "Creator",
+            "professional_type": "Business",
             "category": [
                 {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
+                    "id": 49,
+                    "name": "Dance & Night Club",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
         },
-        "tipjar_settings": {},
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {
+            "is_enabled": false
+        },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1691786459000,
-            "updated_at": 1746277398002
+            "created_at": 946656000000,
+            "updated_at": 1749219059242
         }
     }
 }

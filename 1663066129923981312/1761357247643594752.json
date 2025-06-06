@@ -1,20 +1,25 @@
 {
     "id": "1761357247643594752",
     "screen_name": "mugong5036",
-    "name": "子归离🍥（凝胶药商/）",
-    "description": "𝒲𝒾𝓁𝓁 𝒾𝓃 𝓇𝓊𝒾𝓃ℯ𝒹 𝒶ℊℯ 𝓁𝒶𝓈𝓉 𝒻ℴ𝓇ℯ𝓋ℯ𝓇\nMTF/医学生/努力赚钱/喜欢诗与远方/hrt24.03\n 🚪88.88 \ntelegram账号已经死亡\n二代帐号:@mugong5037",
-    "location": "",
+    "name": "子归离🍥",
+    "description": "𝒲𝒾𝓁𝓁 𝒾𝓃 𝓇𝓊𝒾𝓃ℯ𝒹 𝒶ℊℯ 𝓁𝒶𝓈𝓉 𝒻ℴ𝓇ℯ𝓋ℯ𝓇\nmtf/hrt24.03\n 🚪888.88 \n二代帐号:@mugong5037",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1805646126517043204/oHmN8H3L_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 327,
-    "statuses_count": 2944,
-    "favourites_count": 14268,
+    "followers_count": 389,
+    "friends_count": 534,
+    "statuses_count": 3420,
+    "favourites_count": 14259,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-02-24 19:47:58 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/mugong5036",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "mugong5037"
                                         },
                                         "rest_id": "1766337299166744576"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1805646126517043204/oHmN8H3L_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Feb 24 11:47:58 +0000 2024",
+            "name": "子归离🍥",
+            "screen_name": "mugong5036"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -62,17 +76,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 495,
+            "friends_count": 534,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 215,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": true,
+            "media_count": 238,
+            "pinned_tweet_ids_str": [
+                "1926565674056343778"
+            ],
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -87,12 +108,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1708775278000,
-            "updated_at": 1746077185700
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

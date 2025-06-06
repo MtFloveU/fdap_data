@@ -1,31 +1,43 @@
 {
     "id": "1756959084484644864",
     "screen_name": "Im_Grapefruit27",
-    "name": "🍰冰柚glataĵoj🍰（高二半走读版）",
-    "description": "遇弯截角，逢正抽心/可能是小男娘/高中在读/淡推/姐姐：@qiuxue313/小可爱@Nuominiang75884",
-    "location": "Local supercluster",
+    "name": "🍰冰柚glataĵoj🍰",
+    "description": "遇弯截角，逢正抽心/可能是小男娘/高中在读/淡推/姐姐：@qiuxue313",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1811786948387946496/da9QTjYc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756959084484644864/1715685807",
-    "followers_count": 1056,
-    "statuses_count": 1251,
-    "favourites_count": 8509,
+    "followers_count": 1051,
+    "friends_count": 1841,
+    "statuses_count": 1267,
+    "favourites_count": 8748,
     "listed_count": 1,
+    "location": "Local supercluster",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-02-12 16:31:15 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Im_Grapefruit27",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzU2OTU5MDg0NDg0NjQ0ODY0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1811786948387946496/da9QTjYc_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Feb 12 08:31:15 +0000 2024",
+            "name": "🍰冰柚glataĵoj🍰",
+            "screen_name": "Im_Grapefruit27"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1821,
+            "friends_count": 1841,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 100,
+            "media_count": 101,
             "pinned_tweet_ids_str": [
                 "1798716362514428321"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Local supercluster"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1707726675000,
-            "updated_at": 1744350054661
+            "created_at": 946656000000,
+            "updated_at": 1749219047132
         }
     }
 }

@@ -1,30 +1,43 @@
 {
     "id": "1495555563228315652",
-    "screen_name": "Fallen_chunshh",
-    "name": "春树花-中南海",
-    "description": "偶尔会随便发梗图和段子还有美图\n该账号是我本人的\n于2004年出生",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1860979490806968320/c7wErN6z_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495555563228315652/1741428707",
-    "followers_count": 1043,
-    "statuses_count": 9903,
-    "favourites_count": 36652,
+    "screen_name": "Chunshuhua404",
+    "name": "春天树上的花",
+    "description": "十渡冰门冷无情.虚我欲醉幻梦裂\n当出生的一批若没有想象力和创造力的人，在这个世界上永远会是朦胧和迷茫，彻底完全丧失自我意识境界，只有那浅薄的认知和短视的眼界，他可能永远不会理解这个世界",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930279313850748928/dS5tXp5d_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495555563228315652/1749049428",
+    "followers_count": 1047,
+    "friends_count": 1676,
+    "statuses_count": 10566,
+    "favourites_count": 38210,
     "listed_count": 6,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-02-21 08:27:00 +08:00",
-    "url": "https://twitter.com/Fallen_chunshh",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/Chunshuhua404",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDk1NTU1NTYzMjI4MzE1NjUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930279313850748928/dS5tXp5d_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Feb 21 00:27:00 +0000 2022",
+            "name": "春天树上的花",
+            "screen_name": "Chunshuhua404"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,17 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1582,
+            "friends_count": 1676,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1775,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1877,
+            "pinned_tweet_ids_str": [
+                "1740998656679932273"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -58,10 +78,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1645403220000,
-            "updated_at": 1746077180863
+            "created_at": 946656000000,
+            "updated_at": 1749219067732
         }
     }
 }

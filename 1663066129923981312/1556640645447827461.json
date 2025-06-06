@@ -2,30 +2,42 @@
     "id": "1556640645447827461",
     "screen_name": "Bq88UorZLiFvyMN",
     "name": "逍遙仙",
-    "description": "經常發抱抱，blue archive 玩家(國際服)，別ban我(求)，想做位逍遙自在的仙，好無聊的一個人，有悲傷和痛苦的地方，就有可能有我的抱抱~( • ̀ω•́ )✧",
-    "location": "仙界",
+    "description": "經常發抱抱，blue archive 玩家(國際服)，別ban我(求)，想做位逍遙自在的仙，好無聊的一個人，有悲傷和痛苦的地方，就有可能有我的抱抱~( • ̀ω•́ )✧，【我們將主動靠近那些我們曾經迴避恐懼的情境,否則將永遠無法寬容包容地看待一切。】",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1905495387194175488/SxgTGKrg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556640645447827461/1724148414",
-    "followers_count": 695,
-    "statuses_count": 9814,
-    "favourites_count": 37110,
+    "followers_count": 751,
+    "friends_count": 1751,
+    "statuses_count": 11511,
+    "favourites_count": 43667,
     "listed_count": 2,
+    "location": "仙界",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-08-08 21:57:23 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Bq88UorZLiFvyMN",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTU2NjQwNjQ1NDQ3ODI3NDYx",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1905495387194175488/SxgTGKrg_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Aug 08 13:57:23 +0000 2022",
+            "name": "逍遙仙",
+            "screen_name": "Bq88UorZLiFvyMN"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1702,
+            "friends_count": 1751,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 45,
+            "media_count": 61,
             "pinned_tweet_ids_str": [
-                "1908171965568843935"
+                "1927011482807554131"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "仙界"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1659967043000,
-            "updated_at": 1744350103152
+            "created_at": 946656000000,
+            "updated_at": 1749219072953
         }
     }
 }

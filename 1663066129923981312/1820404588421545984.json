@@ -2,15 +2,15 @@
     "id": "1820404588421545984",
     "screen_name": "xiyimeng04",
     "name": "希夷梦",
-    "description": "你我光风里，相偎一片春——《无题》\n@kukudejiaxibei←笨蛋😋",
-    "location": "川",
+    "description": "你我光风里，相偎一片春——《无题》\n@kukudejiaxibei←笨蛋老婆😋",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1820404777915727873/KGC4NvvN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820404588421545984/1744837484",
-    "followers_count": 104,
-    "friends_count": 495,
-    "statuses_count": 905,
-    "favourites_count": 14149,
+    "followers_count": 150,
+    "friends_count": 540,
+    "statuses_count": 1194,
+    "favourites_count": 17763,
     "listed_count": 0,
+    "location": "川",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": false,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-08-05 18:20:59 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/xiyimeng04",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODIwNDA0NTg4NDIxNTQ1OTg0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1820404777915727873/KGC4NvvN_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Aug 05 10:20:59 +0000 2024",
+            "name": "希夷梦",
+            "screen_name": "xiyimeng04"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 495,
+            "friends_count": 540,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 58,
+            "media_count": 73,
             "pinned_tweet_ids_str": [
                 "1917343872558194713"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "川"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -64,10 +78,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1722853259000,
-            "updated_at": 1746277341704
+            "created_at": 946656000000,
+            "updated_at": 1749219023519
         }
     }
 }

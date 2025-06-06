@@ -2,28 +2,42 @@
     "id": "1697936336228126721",
     "screen_name": "charming_xiaoyu",
     "name": "陌小语poi",
-    "description": "我是小语，祝你每天早安，午安，晚安！｜边缘型人格障碍｜恋人: @Reyes_qwq妈妈们: @hoshinofujivy @imilkdragon923 @HyotoChandesuyo 唐氏牢猫 @Paranoia23334｜查成分回fo/粉红滚/block必回｜负能量里推 @Charming_xy04｜自用VPN↓",
-    "location": "理塘国",
+    "description": "每天都在好好爱着最喜欢我的人  @NickReyes8964 妈妈们: @hoshinofujivy @imilkdragon923 @HyotoChandesuyo｜唐氏牢猫 @Paranoia23334 查成分回fo/粉红滚/block必回｜负能量里推 @Charming_xy04｜Bilibili空间↓",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1912330844032606209/Jcpy5eZg_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697936336228126721/1745239008",
-    "followers_count": 1405,
-    "statuses_count": 4619,
-    "favourites_count": 62684,
-    "listed_count": 8,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697936336228126721/1747207288",
+    "followers_count": 1463,
+    "friends_count": 1342,
+    "statuses_count": 4947,
+    "favourites_count": 67598,
+    "listed_count": 7,
+    "location": "理塘国",
+    "website": "https://t.co/HHJcrPfn1y",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-09-02 19:35:50 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/charming_xiaoyu",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjk3OTM2MzM2MjI4MTI2NzIx",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1912330844032606209/Jcpy5eZg_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Sep 02 11:35:50 +0000 2023",
+            "name": "陌小语poi",
+            "screen_name": "charming_xiaoyu"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "12323902.com/NDMDJC6",
-                            "expanded_url": "https://www.12323902.com/NDMDJC6",
-                            "url": "https://t.co/d6PEDcw31T",
+                            "display_url": "b23.tv/xrufZbE",
+                            "expanded_url": "https://b23.tv/xrufZbE",
+                            "url": "https://t.co/HHJcrPfn1y",
                             "indices": [
                                 0,
                                 23
@@ -45,27 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1306,
+            "friends_count": 1342,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 301,
+            "media_count": 342,
             "pinned_tweet_ids_str": [
-                "1896722760141004950"
+                "1929405208448143823"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/d6PEDcw31T",
-            "verified": false,
+            "url": "https://t.co/HHJcrPfn1y",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "理塘国"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1693654550000,
-            "updated_at": 1746077186476
+            "created_at": 946656000000,
+            "updated_at": 1749219072953
         }
     }
 }

@@ -2,59 +2,97 @@
     "id": "1639664012907429890",
     "screen_name": "Je1nFaur_l",
     "name": "Mio大王666",
-    "description": "前世Previous acc:@moeTvT \n我是Mio大王 叫我00 宅女一枚呀 \n我号暂时登不上去了救命🌚✌️\n女宝互关大欢迎 Cute girls plz interact!\nFAFO",
-    "location": "River Styx",
+    "description": "前世Previous acc:@moeTvT \n我是Mio大王 叫我澪澪 宅女一枚呀\n女宝互关大欢迎 Cute girls plz interact!\nFAFO",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1781719164769726464/I0Oci5da_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639664012907429890/1704029690",
-    "followers_count": 366,
-    "friends_count": 2388,
-    "statuses_count": 4585,
-    "favourites_count": 52067,
+    "followers_count": 461,
+    "friends_count": 2530,
+    "statuses_count": 5457,
+    "favourites_count": 66345,
     "listed_count": 3,
-    "website": null,
+    "location": "River Styx",
+    "website": "https://t.co/ak0vV5PfKQ",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2023-03-26 00:22:49 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Je1nFaur_l",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjM5NjY0MDEyOTA3NDI5ODkw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1781719164769726464/I0Oci5da_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Mar 25 16:22:49 +0000 2023",
+            "name": "Mio大王666",
+            "screen_name": "Je1nFaur_l"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "truthsocial.com",
+                            "expanded_url": "http://truthsocial.com",
+                            "url": "https://t.co/ak0vV5PfKQ",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2388,
+            "friends_count": 2530,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 132,
+            "media_count": 147,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/ak0vV5PfKQ",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "River Styx"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1679761369000,
-            "updated_at": 1746277396475
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

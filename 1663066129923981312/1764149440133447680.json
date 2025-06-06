@@ -2,28 +2,42 @@
     "id": "1764149440133447680",
     "screen_name": "RinTka8964",
     "name": "里想奈",
-    "description": "最喜欢游星哥哥了@YUSEI1917\n                                              战斗仍将继续.......?",
-    "location": "布里亚特",
+    "description": "窝里推@YUSEI1917 /战斗仍将继续.......?",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884929141549805568/8VEkfZJJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764149440133447680/1738237437",
-    "followers_count": 600,
-    "statuses_count": 5329,
-    "favourites_count": 26912,
+    "followers_count": 606,
+    "friends_count": 329,
+    "statuses_count": 5837,
+    "favourites_count": 28310,
     "listed_count": 4,
+    "location": "布里亚特",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-03-03 12:43:06 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/RinTka8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY0MTQ5NDQwMTMzNDQ3Njgw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1884929141549805568/8VEkfZJJ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Mar 03 04:43:06 +0000 2024",
+            "name": "里想奈",
+            "screen_name": "RinTka8964"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 250,
+            "friends_count": 329,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 335,
+            "media_count": 375,
             "pinned_tweet_ids_str": [
-                "1904878960783352260"
+                "1928879164222054828"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "布里亚特"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1709440986000,
-            "updated_at": 1746077182049
+            "created_at": 946656000000,
+            "updated_at": 1749219068775
         }
     }
 }

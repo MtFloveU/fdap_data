@@ -1,67 +1,100 @@
 {
     "id": "1512771023518957575",
     "screen_name": "keer12343",
-    "name": "等我陶下吉吉",
-    "description": "互联网冲浪达人 高二在校  167cm/48kg上推纯发泄 偶尔讲故事，头像名字多变，认准本人标痔 https://t.co/ujnKG6uj6z电报聊天群免费进",
-    "location": "",
+    "name": "纯情甜美咸鸭蛋（抠腚怒闻手版）",
+    "description": "互联网冲浪达人 无🚪可自取联系方式，高二在校 167cm/48kg 上推纯发泄 偶尔讲故事，头像名字多变，认准本人标痔 。电报群进群不收费，群内不定期更新福利。常常思考怎么才能让自己火起来",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879511066293440512/UF9QplNB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512771023518957575/1649507950",
-    "followers_count": 891,
-    "statuses_count": 394,
-    "favourites_count": 558,
+    "followers_count": 935,
+    "friends_count": 538,
+    "statuses_count": 489,
+    "favourites_count": 685,
     "listed_count": 2,
+    "location": "",
+    "website": "https://t.co/ujnKG6uj6z",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-04-09 20:35:07 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/keer12343",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTEyNzcxMDIzNTE4OTU3NTc1",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1879511066293440512/UF9QplNB_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Apr 09 12:35:07 +0000 2022",
+            "name": "纯情甜美咸鸭蛋（抠腚怒闻手版）",
+            "screen_name": "keer12343"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
+                    "urls": []
+                },
+                "url": {
                     "urls": [
                         {
                             "display_url": "t.me/+vEhyo1HiiYxmY…",
                             "expanded_url": "https://t.me/+vEhyo1HiiYxmYjZl",
                             "url": "https://t.co/ujnKG6uj6z",
                             "indices": [
-                                50,
-                                73
+                                0,
+                                23
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 472,
+            "friends_count": 538,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 89,
+            "media_count": 103,
             "pinned_tweet_ids_str": [
                 "1884962986197942350"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/ujnKG6uj6z",
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1649507707000,
-            "updated_at": 1744350023458
+            "created_at": 946656000000,
+            "updated_at": 1749219032940
         }
     }
 }

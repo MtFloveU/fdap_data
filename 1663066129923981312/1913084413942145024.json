@@ -1,0 +1,86 @@
+{
+    "id": "1913084413942145024",
+    "screen_name": "Sui_aini",
+    "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+    "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+    "followers_count": 605,
+    "friends_count": 357,
+    "statuses_count": 967,
+    "favourites_count": 827,
+    "listed_count": 1,
+    "location": "你的心",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/Sui_aini",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxOTEzMDg0NDEzOTQyMTQ1MDI0",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Apr 18 04:18:07 +0000 2025",
+            "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+            "screen_name": "Sui_aini"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 357,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 148,
+            "pinned_tweet_ids_str": [
+                "1928847462501920778"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "你的心"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
+        }
+    }
+}

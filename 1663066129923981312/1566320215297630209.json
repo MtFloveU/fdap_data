@@ -2,19 +2,24 @@
     "id": "1566320215297630209",
     "screen_name": "iam66681",
     "name": "iam6668",
-    "description": "愿我能没有痛苦的走向死亡，离开囚笼，归于虚无，再也没有意识可言",
-    "location": "",
+    "description": "愿我能没有痛苦的走向死亡，离开囚笼，归于虚无，再也没有意识可言\n友跨，或者说对谁都尽可能友好吧，尽量",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1772901667463417856/YpRA8_u8_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1566320215297630209/1700132901",
-    "followers_count": 191,
-    "statuses_count": 1667,
-    "favourites_count": 23745,
+    "followers_count": 194,
+    "friends_count": 2020,
+    "statuses_count": 1684,
+    "favourites_count": 24196,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-09-04 15:00:27 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/iam66681",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "iam66682"
                                         },
                                         "rest_id": "1772452493315948544"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1772901667463417856/YpRA8_u8_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Sep 04 07:00:27 +0000 2022",
+            "name": "iam6668",
+            "screen_name": "iam66681"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -62,28 +76,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1960,
+            "friends_count": 2020,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 57,
-            "pinned_tweet_ids_str": [
-                "1773503299242902010"
-            ],
+            "media_count": 63,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1662274827000,
-            "updated_at": 1746080521888
+            "created_at": 946656000000,
+            "updated_at": 1749219025756
         }
     }
 }

@@ -1,31 +1,43 @@
 {
     "id": "1655773787319676929",
     "screen_name": "fliem_147258369",
-    "name": "♡✙自慰重度依赖✙♡",
-    "description": "当朋友圈发，我骂的没娘骂我的没妈",
-    "location": "China",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1885011469923999748/yu0FNpOI_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655773787319676929/1738256645",
-    "followers_count": 117,
-    "statuses_count": 2599,
-    "favourites_count": 1609,
+    "name": "网调且骚爹",
+    "description": "翻车跨出mtx，喜欢意淫，不再鉴证或者瞎骂，互fo",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1925447097551310848/dJlxyztG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655773787319676929/1748509385",
+    "followers_count": 147,
+    "friends_count": 221,
+    "statuses_count": 3067,
+    "favourites_count": 1772,
     "listed_count": 0,
+    "location": "China",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-05-09 11:16:59 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/fliem_147258369",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjU1NzczNzg3MzE5Njc2OTI5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1925447097551310848/dJlxyztG_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue May 09 03:16:59 +0000 2023",
+            "name": "网调且骚爹",
+            "screen_name": "fliem_147258369"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 163,
+            "friends_count": 221,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 150,
-            "pinned_tweet_ids_str": [],
+            "media_count": 192,
+            "pinned_tweet_ids_str": [
+                "1927921591028949035"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "China"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1683602219000,
-            "updated_at": 1744350080771
+            "created_at": 946656000000,
+            "updated_at": 1749219061680
         }
     }
 }

@@ -2,49 +2,78 @@
     "id": "1109080684419670017",
     "screen_name": "KillerBeeSweety",
     "name": "ミズキ",
-    "description": "She/Her\nCN/EN/JP\nWelcome friendly DM\n本体电子游戏宅女。\nFFXIV:Meteor\n个人日常社交账号，什么都发。\n喜好请自行避雷。\n如果让你感到不适我很荣幸。",
-    "location": "Living Memory",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1912318587148111872/KBgUFGVZ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109080684419670017/1692265233",
-    "followers_count": 16978,
-    "statuses_count": 19961,
-    "favourites_count": 28141,
-    "listed_count": 42,
+    "description": "She/Her\nCN/EN/JP\n一般路過のゲーマー女子🎮\n優しいDM大歓迎！\nFFXIV DC:Meteor Valefor\n用户名日文翻译是观月。\nNGL匿名板∶https://t.co/y4SQBEYyVW",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929322772117028864/zU8IX2nF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109080684419670017/1747300184",
+    "followers_count": 16824,
+    "friends_count": 1699,
+    "statuses_count": 20443,
+    "favourites_count": 29404,
+    "listed_count": 21,
+    "location": "Valefor(Meteor)",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2019-03-22 21:13:35 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/KillerBeeSweety",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTA5MDgwNjg0NDE5NjcwMDE3",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929322772117028864/zU8IX2nF_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Mar 22 13:13:35 +0000 2019",
+            "name": "ミズキ",
+            "screen_name": "KillerBeeSweety"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/killerbeesweety",
+                            "expanded_url": "https://ngl.link/killerbeesweety",
+                            "url": "https://t.co/y4SQBEYyVW",
+                            "indices": [
+                                83,
+                                106
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1782,
+            "friends_count": 1699,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 2352,
+            "media_count": 2494,
             "pinned_tweet_ids_str": [
-                "1913753768132513994"
+                "1929051226844397888"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Valefor(Meteor)"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -59,10 +88,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1553260415000,
-            "updated_at": 1746077187245
+            "created_at": 946656000000,
+            "updated_at": 1749219074028
         }
     }
 }

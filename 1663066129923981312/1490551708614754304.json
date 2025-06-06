@@ -1,29 +1,43 @@
 {
     "id": "1490551708614754304",
     "screen_name": "chengzhi_233",
-    "name": "橙橙橙汁",
-    "description": "一杯永不变质的新鲜橙汁，搞IoT的/INFP-T/现居岳麓/🏳️‍⚧️/大四/看成分回fo👀 最爱的人:@ChoricKran_real 发奇奇怪怪的:@minutemaid233",
-    "location": "ChangSha",
+    "name": "味全每日C橙汁",
+    "description": "一杯永不变质的新鲜橙汁，三极管点亮工程师/女的？/INFP-T/看成分回fo👀 最爱的人:@ChoricKran_real 发奇奇怪怪的:@minutemaid233",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897543871464398848/nMsTC7BV_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490551708614754304/1741359778",
-    "followers_count": 199,
-    "statuses_count": 350,
-    "favourites_count": 779,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490551708614754304/1746912957",
+    "followers_count": 222,
+    "friends_count": 422,
+    "statuses_count": 360,
+    "favourites_count": 795,
     "listed_count": 0,
+    "location": "ChangSha",
+    "website": "https://t.co/TRN9n7SBkZ",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-02-07 13:03:23 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/chengzhi_233",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDkwNTUxNzA4NjE0NzU0MzA0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1897543871464398848/nMsTC7BV_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Feb 07 05:03:23 +0000 2022",
+            "name": "味全每日C橙汁",
+            "screen_name": "chengzhi_233"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 405,
+            "friends_count": 422,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 87,
+            "media_count": 83,
             "pinned_tweet_ids_str": [
                 "1729305607386366112"
             ],
@@ -56,16 +70,31 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/TRN9n7SBkZ",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "ChangSha"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1644210203000,
-            "updated_at": 1746080543872
+            "created_at": 946656000000,
+            "updated_at": 1749219044314
         }
     }
 }

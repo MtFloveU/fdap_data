@@ -2,30 +2,42 @@
     "id": "1614421186334851075",
     "screen_name": "HoneyWhiteCloud",
     "name": "𝙃𝙤𝙣𝙚𝙮𝙒𝙝𝙞𝙩𝙚𝘾𝙡𝙤𝙪𝙙🍯⛅ | 云酱",
-    "description": "18 yo | Republic of China 🇹🇼 | 现居苏州 | 战雷苦手 HLL新兵蛋子| 𝙉𝙞𝙠𝙤𝙣摄影新手 | IT/AI/Handware | 🈲政治话题 | DM🆗 | 不喜激烈言辞，不善言辞",
-    "location": "Suzhou Jiangsu China",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1845438051969007617/zz6gi3YI_normal.jpg",
+    "description": "18 yo | From Republic of China 🇹🇼 | 现居苏州 | 𝙉𝙞𝙠𝙤𝙣摄影新手 | IT/AI/Handware | 🈲政治话题 | DM🆗 | 不喜激烈言辞，不善言辞",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1926966759396904960/DQY90lt6_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1614421186334851075/1714889846",
-    "followers_count": 1393,
-    "statuses_count": 6227,
-    "favourites_count": 50134,
+    "followers_count": 1587,
+    "friends_count": 781,
+    "statuses_count": 6949,
+    "favourites_count": 53508,
     "listed_count": 3,
+    "location": "Suzhou Jiangsu China",
+    "website": "https://t.co/lMq73qdn9N",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-01-15 08:36:43 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/HoneyWhiteCloud",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjE0NDIxMTg2MzM0ODUxMDc1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1926966759396904960/DQY90lt6_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jan 15 00:36:43 +0000 2023",
+            "name": "𝙃𝙤𝙣𝙚𝙮𝙒𝙝𝙞𝙩𝙚𝘾𝙡𝙤𝙪𝙙🍯⛅ | 云酱",
+            "screen_name": "HoneyWhiteCloud"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,7 +49,7 @@
                         {
                             "display_url": "honeywhite.cloud",
                             "expanded_url": "http://www.honeywhite.cloud",
-                            "url": "https://t.co/lMq73qcPkf",
+                            "url": "https://t.co/lMq73qdn9N",
                             "indices": [
                                 0,
                                 23
@@ -47,25 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 750,
+            "friends_count": 781,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1020,
+            "media_count": 1167,
             "pinned_tweet_ids_str": [
                 "1888127985544204313"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/lMq73qcPkf",
-            "verified": false,
+            "url": "https://t.co/lMq73qdn9N",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Suzhou Jiangsu China"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1673743003000,
-            "updated_at": 1744350096785
+            "created_at": 946656000000,
+            "updated_at": 1749219069841
         }
     }
 }

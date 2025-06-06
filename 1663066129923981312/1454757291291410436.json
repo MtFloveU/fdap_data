@@ -2,28 +2,42 @@
     "id": "1454757291291410436",
     "screen_name": "datadelete_4444",
     "name": "［数据删除］－4444",
-    "description": "软瘫状态变形虫｜最重要的恋人 @Hongcha_Orchids｜mtf无证（暂时）🏳️‍⚧️｜性格稳定而动荡｜infp但tp核心｜欲肉教派无业人员（中分要炸出来躲躲就再也没回去了）｜军武战术机战拉力｜执行力微弱｜mr设备折腾｜44的胡思乱想https://t.co/9ixy6uj5tS",
-    "location": "红茶身边",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1854602572050669568/t1hslDs0_normal.jpg",
+    "description": "软瘫状态变形虫｜可爱妹妹 @Shenyuebanran｜最重要的恋人 @Hongcha_Orchids｜mtf🏳️‍⚧️｜性格稳定而动荡｜infp但tp核心｜欲肉教派无业人员｜mr设备折腾｜44的胡思乱想https://t.co/9ixy6uixEk",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1927387781434580992/JYdFmqhE_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454757291291410436/1729294368",
-    "followers_count": 1577,
-    "statuses_count": 4164,
-    "favourites_count": 129319,
-    "listed_count": 3,
+    "followers_count": 1626,
+    "friends_count": 3560,
+    "statuses_count": 4325,
+    "favourites_count": 132367,
+    "listed_count": 4,
+    "location": "红茶身边",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2021-10-31 18:29:11 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/datadelete_4444",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDU0NzU3MjkxMjkxNDEwNDM2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1927387781434580992/JYdFmqhE_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Oct 31 10:29:11 +0000 2021",
+            "name": "［数据删除］－4444",
+            "screen_name": "datadelete_4444"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,36 +46,51 @@
                         {
                             "display_url": "t.me/+TLWPHou6saRjO…",
                             "expanded_url": "https://t.me/+TLWPHou6saRjOGM1",
-                            "url": "https://t.co/9ixy6uj5tS",
+                            "url": "https://t.co/9ixy6uixEk",
                             "indices": [
-                                120,
-                                143
+                                102,
+                                125
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2832,
+            "friends_count": 3560,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 211,
+            "media_count": 212,
             "pinned_tweet_ids_str": [
                 "1608881540339228672"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "红茶身边"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1635676151000,
-            "updated_at": 1746077179548
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

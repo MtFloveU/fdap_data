@@ -2,28 +2,42 @@
     "id": "1812419719691186176",
     "screen_name": "qweomy10364583",
     "name": "海盐荔枝",
-    "description": "主人:@ygao1314",
-    "location": "温良可爱是我的本质",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915759584729509888/XEB30nIi_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812419719691186176/1745590326",
-    "followers_count": 915,
-    "statuses_count": 5926,
-    "favourites_count": 13270,
+    "description": "主人:@ygao1314 日更 支黑 介意请b",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929886338326900741/cLPHuc-w_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812419719691186176/1748955744",
+    "followers_count": 963,
+    "friends_count": 694,
+    "statuses_count": 5183,
+    "favourites_count": 13864,
     "listed_count": 4,
+    "location": "我的云是世界上最好最好最好最好的人",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-07-14 17:32:04 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/qweomy10364583",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODEyNDE5NzE5NjkxMTg2MTc2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929886338326900741/cLPHuc-w_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jul 14 09:32:04 +0000 2024",
+            "name": "海盐荔枝",
+            "screen_name": "qweomy10364583"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 721,
+            "friends_count": 694,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 174,
+            "media_count": 11,
             "pinned_tweet_ids_str": [
-                "1915054527952421107"
+                "1926225964356313109"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "我的云是世界上最好最好最好最好的人"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1720949524000,
-            "updated_at": 1746077180863
+            "created_at": 946656000000,
+            "updated_at": 1749219067733
         }
     }
 }

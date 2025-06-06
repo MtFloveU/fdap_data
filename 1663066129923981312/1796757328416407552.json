@@ -1,29 +1,43 @@
 {
     "id": "1796757328416407552",
     "screen_name": "Rinnnnneo",
-    "name": "Rin",
+    "name": "Rinりん",
     "description": "这个人很懒，什么也没有写｜可爱猫猫@amsrntk3",
-    "location": "云之彼端",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916147867808600064/7g3-hDtp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796757328416407552/1739626870",
-    "followers_count": 340,
-    "statuses_count": 420,
-    "favourites_count": 1894,
+    "followers_count": 338,
+    "friends_count": 779,
+    "statuses_count": 444,
+    "favourites_count": 2016,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-06-01 12:15:41 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Rinnnnneo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk2NzU3MzI4NDE2NDA3NTUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1916147867808600064/7g3-hDtp_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 01 04:15:41 +0000 2024",
+            "name": "Rinりん",
+            "screen_name": "Rinnnnneo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,28 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 761,
+            "friends_count": 779,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 80,
+            "media_count": 90,
             "pinned_tweet_ids_str": [
                 "1874650543693725741"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1717215341000,
-            "updated_at": 1746080534090
+            "created_at": 946656000000,
+            "updated_at": 1749219036309
         }
     }
 }

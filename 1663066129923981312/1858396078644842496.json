@@ -2,28 +2,42 @@
     "id": "1858396078644842496",
     "screen_name": "xioy372",
     "name": "萧雨(笨蛋猫猫)",
-    "description": "🏳️‍⚧️一只笨蛋木桶饭猫猫₍˄·͈༝·͈˄*₎੭，呼噜呼噜，爱咬人（特别爱咬姐姐），喜欢摸鱼𓆟 （毕竟是猫猫嘛/ᐠ - ˕ -マ Ⳋ）🍥平时爱玩米哈游的游戏，原神啊崩铁都玩，偶尔会打打音游。喜欢碎碎念，记录生活中的各种事情，喵喵喵喵。看上去很乖其实很反差哦。又爱又恨的姐姐@GailEngel6",
-    "location": "",
+    "description": "🏳️‍⚧️🍥mtf(x)\n好想要贴贴…",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1911219393817620480/LTVGlio5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858396078644842496/1738829723",
-    "followers_count": 708,
-    "statuses_count": 1078,
-    "favourites_count": 4665,
+    "followers_count": 695,
+    "friends_count": 1077,
+    "statuses_count": 1084,
+    "favourites_count": 4515,
     "listed_count": 2,
+    "location": "",
+    "website": "https://t.co/RClIiELqkG",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-11-18 14:25:53 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/xioy372",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODU4Mzk2MDc4NjQ0ODQyNDk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911219393817620480/LTVGlio5_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Nov 18 06:25:53 +0000 2024",
+            "name": "萧雨(笨蛋猫猫)",
+            "screen_name": "xioy372"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,7 +59,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1086,
+            "friends_count": 1077,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 99,
@@ -54,16 +68,31 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/RClIiELqkG",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1731911153000,
-            "updated_at": 1746077175502
+            "created_at": 946656000000,
+            "updated_at": 1749219063571
         }
     }
 }

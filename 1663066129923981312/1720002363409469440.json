@@ -1,30 +1,43 @@
 {
     "id": "1720002363409469440",
-    "screen_name": "ImNotCrosZ1878",
-    "name": "Fllllllldocekr",
-    "description": "3xxxxxaaext",
-    "location": "Сыктывкар",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1765418586913570817/p38T5BY0_normal.jpg",
+    "screen_name": "Priestess1878",
+    "name": "lohalidle",
+    "description": "感覺像玩原神的",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929918146766614532/iXdADrNv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720002363409469440/1710591671",
-    "followers_count": 383,
-    "statuses_count": 8472,
-    "favourites_count": 8255,
+    "followers_count": 385,
+    "friends_count": 347,
+    "statuses_count": 8548,
+    "favourites_count": 8261,
     "listed_count": 2,
+    "location": "Сыктывкар",
+    "website": "https://t.co/qTVreSJypd",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-11-02 16:58:24 +08:00",
-    "url": "https://twitter.com/ImNotCrosZ1878",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/Priestess1878",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzIwMDAyMzYzNDA5NDY5NDQw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929918146766614532/iXdADrNv_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Nov 02 08:58:24 +0000 2023",
+            "name": "lohalidle",
+            "screen_name": "Priestess1878"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -36,7 +49,7 @@
                         {
                             "display_url": "ngl.link/crosz1878",
                             "expanded_url": "https://ngl.link/crosz1878",
-                            "url": "https://t.co/B3Z6Q53L0E",
+                            "url": "https://t.co/qTVreSJypd",
                             "indices": [
                                 0,
                                 23
@@ -46,18 +59,23 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 346,
+            "friends_count": 347,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 963,
+            "media_count": 978,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/B3Z6Q53L0E",
-            "verified": false,
+            "url": "https://t.co/qTVreSJypd",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Сыктывкар"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -72,10 +90,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1698915504000,
-            "updated_at": 1746077174316
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

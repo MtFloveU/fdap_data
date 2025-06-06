@@ -2,28 +2,42 @@
     "id": "1538029712911515648",
     "screen_name": "yanyue0119",
     "name": "烟火熄月光明🏳️‍⚧️🍥（放寒假玩具被扔版）",
-    "description": "美图转推bot丨想变可爱丨07丨是个玩机/垃圾佬/入门CTFer丨mt🐱丨泛性恋丨术力口丨Apex丨CSGO丨Project Sekai丨Yuzu Soft丨喜欢一切可爱的丨谢谢你，真的",
-    "location": "猫窝",
+    "description": "美图转推bot丨想变可爱丨07丨是个玩机/垃圾佬/入门CTFer丨mt🐱丨泛性恋丨术力口丨日本語が勉強します丨Apex丨CSGO丨Project Sekai丨Yuzu Soft丨喜欢一切可爱的",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1558372986003935232/gvsRylWR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1538029712911515648/1660982856",
-    "followers_count": 3946,
-    "statuses_count": 13612,
-    "favourites_count": 43934,
+    "followers_count": 3971,
+    "friends_count": 5417,
+    "statuses_count": 14459,
+    "favourites_count": 45601,
     "listed_count": 14,
+    "location": "猫窝",
+    "website": "https://t.co/VhC8Z9Kc6P",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-06-18 13:23:59 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/yanyue0119",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTM4MDI5NzEyOTExNTE1NjQ4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1558372986003935232/gvsRylWR_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 18 05:23:59 +0000 2022",
+            "name": "烟火熄月光明🏳️‍⚧️🍥（放寒假玩具被扔版）",
+            "screen_name": "yanyue0119"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,18 +59,23 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 5152,
+            "friends_count": 5417,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 371,
+            "media_count": 375,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/VhC8Z9Kc6P",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "猫窝"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -65,12 +84,22 @@
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1655529839000,
-            "updated_at": 1746077184814
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

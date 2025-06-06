@@ -1,60 +1,98 @@
 {
     "id": "1829411930458718208",
     "screen_name": "Natsuki_Akko",
-    "name": "夏希希Natsuki🍥",
-    "description": "是淫乱大兔夏希希。先打着日雌。99年。🏳️‍⚧️🍥。咱不懂政治哦喵🤫QwQ。no politics 🚫谢绝键政🚫🙅🏻‍♀️🙅🏻‍♀️🫸🏻🫸🏻🙊🙉🙈",
-    "location": "ハルピン",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1912662621687619584/-55spIo9_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 390,
-    "friends_count": 993,
-    "statuses_count": 2468,
-    "favourites_count": 13481,
-    "listed_count": 0,
-    "website": null,
+    "name": "希希😮‍💨🥺🥹",
+    "description": "@saika114514常务老公（主持工作）。o(^▽^)o。好姐妹@miaokua，@lhoy440777",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1926614531217768448/yO-88yO1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829411930458718208/1749212926",
+    "followers_count": 792,
+    "friends_count": 1291,
+    "statuses_count": 883,
+    "favourites_count": 22121,
+    "listed_count": 1,
+    "location": "",
+    "website": "https://t.co/ArUVeE4Uuk",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-08-30 14:55:21 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Natsuki_Akko",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI5NDExOTMwNDU4NzE4MjA4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1926614531217768448/yO-88yO1_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Aug 30 06:55:21 +0000 2024",
+            "name": "希希😮‍💨🥺🥹",
+            "screen_name": "Natsuki_Akko"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/Natsuki_Akko",
+                            "expanded_url": "https://t.me/Natsuki_Akko",
+                            "url": "https://t.co/ArUVeE4Uuk",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 993,
+            "friends_count": 1291,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 284,
+            "media_count": 21,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/ArUVeE4Uuk",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1725000921000,
-            "updated_at": 1746176982521
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

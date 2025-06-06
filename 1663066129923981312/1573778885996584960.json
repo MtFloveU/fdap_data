@@ -2,28 +2,42 @@
     "id": "1573778885996584960",
     "screen_name": "altaz_0",
     "name": "altaz",
-    "description": "伪人｜04年无证含糖mtf🏳️‍⚧️｜姛｜是xyn喵🍥｜gaht:1723106454｜扭曲阴暗双相地雷妹｜intp-t｜持证电工（高低压）｜刷新点：成都/oxford｜妹妹：@shenyuebanran｜欢迎多多交流喵~",
-    "location": "10.10.0.10",
+    "description": "会喵喵叫的小狐狸｜04年无证含糖mtf🏳️‍⚧️｜是xyn喵🍥｜gaht:1723106454｜姛｜intp-t｜扭曲阴暗双相地雷妹｜Engimeowing Science｜持证电工（高低压）｜刷新点：成都/oxford｜最爱的虾喵：@xiaxiamiao｜妹妹：@shenyuebanran｜欢迎多多交流喵~",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906992291119529984/57MTjdlv_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573778885996584960/1727695700",
-    "followers_count": 870,
-    "statuses_count": 792,
-    "favourites_count": 89154,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573778885996584960/1746384922",
+    "followers_count": 943,
+    "friends_count": 1604,
+    "statuses_count": 903,
+    "favourites_count": 96729,
     "listed_count": 5,
+    "location": "10.10.0.10",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-09-25 04:59:51 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/altaz_0",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTczNzc4ODg1OTk2NTg0OTYw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1906992291119529984/57MTjdlv_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Sep 24 20:59:51 +0000 2022",
+            "name": "altaz",
+            "screen_name": "altaz_0"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1440,
+            "friends_count": 1604,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 73,
+            "media_count": 84,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "10.10.0.10"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1664053191000,
-            "updated_at": 1746077174316
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

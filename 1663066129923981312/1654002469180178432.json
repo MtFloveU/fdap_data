@@ -2,15 +2,15 @@
     "id": "1654002469180178432",
     "screen_name": "cynti023",
     "name": "Cynthia C♥️",
-    "description": "愿你天天开心(^^)Up Up Up🌸",
-    "location": "",
+    "description": "In any case, your happiness means the world to me. 🌕✨ #微胖女生",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1852775832038891520/PPal3nCT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1654002469180178432/1730571167",
-    "followers_count": 4555,
-    "friends_count": 591,
-    "statuses_count": 4441,
-    "favourites_count": 2955,
+    "followers_count": 4517,
+    "friends_count": 597,
+    "statuses_count": 4630,
+    "favourites_count": 2974,
     "listed_count": 15,
+    "location": "",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2023-05-04 13:58:22 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/cynti023",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjU0MDAyNDY5MTgwMTc4NDMy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1852775832038891520/PPal3nCT_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu May 04 05:58:22 +0000 2023",
+            "name": "Cynthia C♥️",
+            "screen_name": "cynti023"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 591,
+            "friends_count": 597,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 227,
+            "media_count": 245,
             "pinned_tweet_ids_str": [
-                "1901502043849994570"
+                "1920015929519292857"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1683179902000,
-            "updated_at": 1746277414545
+            "created_at": 946656000000,
+            "updated_at": 1749219075207
         }
     }
 }

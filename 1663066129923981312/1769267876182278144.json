@@ -2,31 +2,42 @@
     "id": "1769267876182278144",
     "screen_name": "xiaoyang203120",
     "name": "秧苗🍥",
-    "description": "无证含糖mtf🍥/hrt23.3/重度od/重度割/真的好缺爱好缺爱.... /会经常发一些自己的涩图/但时常发癫",
-    "location": "",
+    "description": "无证含糖mtf🍥/hrt23.3",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1816992263622524929/Pcnl0IlS_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769267876182278144/1722039899",
-    "followers_count": 1331,
+    "followers_count": 1304,
+    "friends_count": 1157,
     "statuses_count": 1071,
-    "favourites_count": 5037,
+    "favourites_count": 4981,
     "listed_count": 1,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-03-17 15:42:02 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/xiaoyang203120",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY5MjY3ODc2MTgyMjc4MTQ0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1816992263622524929/Pcnl0IlS_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Mar 17 07:42:02 +0000 2024",
+            "name": "秧苗🍥",
+            "screen_name": "xiaoyang203120"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1164,
+            "friends_count": 1157,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 13,
@@ -45,14 +56,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1710661322000,
-            "updated_at": 1744350109138
+            "created_at": 946656000000,
+            "updated_at": 1749219076818
         }
     }
 }

@@ -1,29 +1,43 @@
 {
     "id": "830659836924694528",
     "screen_name": "CcZh2zr",
-    "name": "🍪白巧曲奇",
-    "description": "一个得了类似空鼻症的未知痛苦疾病像空鼻狗阿申一样被迫从很好很好的学校辍学隐居的人",
-    "location": "",
+    "name": "🍪白巧曲奇（避难所频道）",
+    "description": "一个得了类似空鼻症的脊椎神经未知痛苦疾病像空鼻狗阿申一样被迫从很好很好的学校辍学隐居的人",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1911797916668174336/zuY2Cgp__normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 2721,
-    "statuses_count": 9957,
-    "favourites_count": 14815,
+    "followers_count": 2729,
+    "friends_count": 1125,
+    "statuses_count": 10653,
+    "favourites_count": 15131,
     "listed_count": 8,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2017-02-12 14:08:32 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/CcZh2zr",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjo4MzA2NTk4MzY5MjQ2OTQ1Mjg=",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911797916668174336/zuY2Cgp__normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Feb 12 06:08:32 +0000 2017",
+            "name": "🍪白巧曲奇（避难所频道）",
+            "screen_name": "CcZh2zr"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1061,
+            "friends_count": 1125,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 784,
+            "media_count": 852,
             "pinned_tweet_ids_str": [
-                "1912443549632897272"
+                "1926984437377466756"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -53,12 +72,22 @@
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1486879712000,
-            "updated_at": 1746077182049
+            "created_at": 946656000000,
+            "updated_at": 1749219068775
         }
     }
 }

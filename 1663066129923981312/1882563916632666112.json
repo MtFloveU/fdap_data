@@ -3,27 +3,41 @@
     "screen_name": "hhjnjkoguyunmo",
     "name": "变成阿良河的顾云沫",
     "description": "学过国学、美术、c/c++、古建筑的小学五年级辍学废物，也是一名诗人，同时还是一位心学家，热爱中国文化，逍遥自在，无为无不为。喜欢交朋友，欢迎大家找我玩。😋\n挚友@Konekoutena",
-    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882563916632666112/1739828710",
-    "followers_count": 539,
-    "statuses_count": 10766,
-    "favourites_count": 66422,
-    "listed_count": 4,
+    "followers_count": 706,
+    "friends_count": 372,
+    "statuses_count": 14062,
+    "favourites_count": 111956,
+    "listed_count": 7,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": null,
-    "created_at": "2025-01-24 07:00:12 +08:00",
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/hhjnjkoguyunmo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODgyNTYzOTE2NjMyNjY2MTEy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jan 23 23:00:12 +0000 2025",
+            "name": "变成阿良河的顾云沫",
+            "screen_name": "hhjnjkoguyunmo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": false,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 282,
+            "friends_count": 372,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 68,
-            "pinned_tweet_ids_str": [
-                "1913025345101725722"
-            ],
+            "media_count": 89,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1737673212000,
-            "updated_at": 1746077169154
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

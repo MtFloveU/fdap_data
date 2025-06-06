@@ -2,28 +2,42 @@
     "id": "1674465339340468237",
     "screen_name": "qjzwq",
     "name": "v(求互推",
-    "description": "brat/🍥翻车倒计时?/易推倒/🚪188口令红包(同类不用 /查成分互fo/想当科技佬好用软件收藏家,欢迎交朋友/求互推..没有曝光量出现不在推荐页就无法结交新朋友这是怪圈",
-    "location": "0553",
+    "description": "brat4i/🍥翻车倒计时?/易推倒/🚪188口令红包(同类不用 /查成分互fo/想当科技佬好用软件收藏家,欢迎交朋友/求互推..没有曝光量出现不在推荐页就无法结交新朋友这是怪圈",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1798578003519098880/8B9rViBL_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 195,
-    "statuses_count": 981,
-    "favourites_count": 772,
+    "followers_count": 212,
+    "friends_count": 309,
+    "statuses_count": 1085,
+    "favourites_count": 916,
     "listed_count": 1,
+    "location": "0553",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2023-06-30 01:10:37 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/qjzwq",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjc0NDY1MzM5MzQwNDY4MjM3",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1798578003519098880/8B9rViBL_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jun 29 17:10:37 +0000 2023",
+            "name": "v(求互推",
+            "screen_name": "qjzwq"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 214,
+            "friends_count": 309,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 30,
+            "media_count": 32,
             "pinned_tweet_ids_str": [
                 "1911251120930115823"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "0553"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
@@ -59,12 +78,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1688058637000,
-            "updated_at": 1746080521888
+            "created_at": 946656000000,
+            "updated_at": 1749219025756
         }
     }
 }

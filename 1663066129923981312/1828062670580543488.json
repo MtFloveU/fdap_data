@@ -1,59 +1,107 @@
 {
     "id": "1828062670580543488",
     "screen_name": "CallHtheXtime",
-    "name": "风情主播喵梦Nyamuchi💙💜🖤（需要奥沙西泮版）",
-    "description": "本人与二次元人物喵梦无直接关系 皮下精神病患者少跟我计较 欢迎找我聊天🫶看心情回fo 有事请留言（热爱中国 所说极端言论皆是开玩笑）",
-    "location": "熊本县",
+    "name": "可爱小主喵梦Nyamuchi🖤🖤🖤（需要奥沙西泮版）",
+    "description": "本人与二次元人物喵梦无直接关系 皮下精神病患者少跟我计较 欢迎找我聊天🫶看心情回fo https://t.co/iQo8cdBwYA（discord频道）畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN https://t.co/Rn34rO8Ity",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1917501944379367427/pNBs76Ac_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1828062670580543488/1738479992",
-    "followers_count": 1271,
-    "statuses_count": 6949,
-    "favourites_count": 5664,
-    "listed_count": 6,
+    "followers_count": 1479,
+    "friends_count": 330,
+    "statuses_count": 8419,
+    "favourites_count": 6426,
+    "listed_count": 7,
+    "location": "熊本县",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-08-26 21:31:28 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/CallHtheXtime",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI4MDYyNjcwNTgwNTQzNDg4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1917501944379367427/pNBs76Ac_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Aug 26 13:31:28 +0000 2024",
+            "name": "可爱小主喵梦Nyamuchi🖤🖤🖤（需要奥沙西泮版）",
+            "screen_name": "CallHtheXtime"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "discord.gg/NUn8b5A9",
+                            "expanded_url": "https://discord.gg/NUn8b5A9",
+                            "url": "https://t.co/iQo8cdBwYA",
+                            "indices": [
+                                43,
+                                66
+                            ]
+                        },
+                        {
+                            "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                            "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=N1RbskWt",
+                            "url": "https://t.co/Rn34rO8Ity",
+                            "indices": [
+                                104,
+                                127
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 324,
+            "friends_count": 330,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 478,
+            "media_count": 567,
             "pinned_tweet_ids_str": [
                 "1916695020075459027"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "熊本县"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1724679088000,
-            "updated_at": 1746077173226
+            "created_at": 946656000000,
+            "updated_at": 1749219061680
         }
     }
 }

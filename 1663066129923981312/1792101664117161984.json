@@ -2,15 +2,15 @@
     "id": "1792101664117161984",
     "screen_name": "Amberlona_LK",
     "name": "Tuệ Quều (امبر لونا)⚜️",
-    "description": "这世上的救世主是你自己\n你失去的是枷锁，但获得了自由与解放\n要么成为自由者的坟墓，要么成为反对压迫的避难所\n歌单推荐:\nEmrooz O Farda - Marjan Farsad \nMiel - Lauri Garcia",
-    "location": "折纸摊「茹素屋」,塔万廷苏尤,帕查妈妈",
+    "description": "我人其实很好的，快来跟我交朋友吧|友一切善良的小可爱|什么都讲| @bayer04fussball\nzh/es/en/de/nl/fa/ar/tr/ko",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916084605712486401/Q3JgvBvS_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792101664117161984/1746145717",
-    "followers_count": 913,
-    "friends_count": 743,
-    "statuses_count": 12881,
-    "favourites_count": 29573,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792101664117161984/1749146841",
+    "followers_count": 995,
+    "friends_count": 821,
+    "statuses_count": 14242,
+    "favourites_count": 33094,
     "listed_count": 6,
+    "location": "星系-N65",
     "website": "https://t.co/zyim7ZSJMl",
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-05-19 15:55:38 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Amberlona_LK",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzkyMTAxNjY0MTE3MTYxOTg0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1916084605712486401/Q3JgvBvS_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun May 19 07:55:38 +0000 2024",
+            "name": "Tuệ Quều (امبر لونا)⚜️",
+            "screen_name": "Amberlona_LK"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -50,27 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 743,
+            "friends_count": 821,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 203,
+            "media_count": 217,
             "pinned_tweet_ids_str": [
-                "1858043172703682561"
+                "1929004849028366398"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/zyim7ZSJMl",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "星系-N65"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1716105338000,
-            "updated_at": 1746176991875
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

@@ -1,16 +1,16 @@
 {
     "id": "756779273155858432",
     "screen_name": "ScarletKc_",
-    "name": "KC",
-    "description": "she/her | friendly | web3 | crypto",
-    "location": "🏳️‍⚧️",
+    "name": "詩音",
+    "description": "This account is frozen.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1913049579739828224/GClUlD41_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/756779273155858432/1546229475",
-    "followers_count": 2287,
-    "friends_count": 767,
-    "statuses_count": 4646,
-    "favourites_count": 41866,
-    "listed_count": 4,
+    "followers_count": 2259,
+    "friends_count": 774,
+    "statuses_count": 4629,
+    "favourites_count": 42919,
+    "listed_count": 5,
+    "location": "",
     "website": "https://t.co/YTKXMPiBzd",
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2016-07-23 17:13:33 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/ScarletKc_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjo3NTY3NzkyNzMxNTU4NTg0MzI=",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1913049579739828224/GClUlD41_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jul 23 09:13:33 +0000 2016",
+            "name": "詩音",
+            "screen_name": "ScarletKc_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -50,29 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 767,
+            "friends_count": 774,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 115,
+            "media_count": 104,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/YTKXMPiBzd",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true,
             "bitcoin_handle": "bc1qj4jslttx6375s6p7ez42h7j6zprcgvg5aeaknv",
             "ethereum_handle": "0x42FD444391cC35Fa45df5970F76Ec51Da852f424"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1469265213000,
-            "updated_at": 1746176999324
+            "created_at": 946656000000,
+            "updated_at": 1749219080434
         }
     }
 }

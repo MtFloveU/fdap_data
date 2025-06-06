@@ -1,29 +1,43 @@
 {
     "id": "1680247071608303616",
     "screen_name": "AsdQWD358224",
-    "name": "鲜虾🍤鱼板🍥面🍜🏳️‍⚧️（❤️.ver.）",
-    "description": "鲜虾鱼板面一生推/他、她、它/泛性恋/MTF🏳️‍⚧️/07年17岁/+5g版/人生二周目/可以喊我“面面”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
-    "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+    "name": "鲜虾🍤鱼板🍥面🍜/夏至🏳️‍⚧️（❤️.ver.）",
+    "description": "鲜虾鱼板面一生推/泛性恋/MTF🏳️‍⚧️/猫猫叫夏至咪/+5g版/人生二周目/可以喊我“面面”“夏至”\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n @Zero_158newsys 零酱姐姐",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
-    "followers_count": 2176,
-    "statuses_count": 14629,
-    "favourites_count": 89350,
+    "followers_count": 2293,
+    "friends_count": 3138,
+    "statuses_count": 15242,
+    "favourites_count": 92796,
     "listed_count": 12,
+    "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-07-16 00:05:09 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/AsdQWD358224",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjgwMjQ3MDcxNjA4MzAzNjE2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jul 15 16:05:09 +0000 2023",
+            "name": "鲜虾🍤鱼板🍥面🍜/夏至🏳️‍⚧️（❤️.ver.）",
+            "screen_name": "AsdQWD358224"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3122,
+            "friends_count": 3138,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1862,
+            "media_count": 1930,
             "pinned_tweet_ids_str": [
-                "1877554130635395229"
+                "1928154514365833564"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "银河系 太阳系 地月系 中国空间站 距你1234KM"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -59,12 +78,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1689437109000,
-            "updated_at": 1746077176790
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

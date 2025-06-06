@@ -2,30 +2,42 @@
     "id": "1841769775686680581",
     "screen_name": "FBYriyo",
     "name": "小FY",
-    "description": "是一个喜欢看动漫和腰的小男娘哦/遵守X规则",
-    "location": "",
+    "description": "是一个喜欢看动漫和腰还有猫猫的小男娘/遵守X规则/精神状态健全！！！",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1898085265664884737/oY9c2-rw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841769775686680581/1727948643",
-    "followers_count": 772,
-    "statuses_count": 174,
-    "favourites_count": 164,
+    "followers_count": 949,
+    "friends_count": 361,
+    "statuses_count": 203,
+    "favourites_count": 167,
     "listed_count": 1,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-10-03 17:20:34 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/FBYriyo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQxNzY5Nzc1Njg2NjgwNTgx",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1898085265664884737/oY9c2-rw_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Oct 03 09:20:34 +0000 2024",
+            "name": "小FY",
+            "screen_name": "FBYriyo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 322,
+            "friends_count": 361,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 16,
+            "media_count": 18,
             "pinned_tweet_ids_str": [
                 "1898261047729176589"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1727947234000,
-            "updated_at": 1744350009042
+            "created_at": 946656000000,
+            "updated_at": 1749219026952
         }
     }
 }

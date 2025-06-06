@@ -1,31 +1,43 @@
 {
     "id": "1740475363061284864",
     "screen_name": "Sheng3565138794",
-    "name": "🎀✝️超絶可愛い超天ちゃん✝️🎀",
+    "name": "痛苦的农村入🤓",
     "description": "",
-    "location": "距离你5.2公里",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1896242261177823232/nSH7Z2HM_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1740475363061284864/1703797145",
-    "followers_count": 2211,
-    "statuses_count": 2,
-    "favourites_count": 544,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1919659691157946369/QjU2fEtS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1740475363061284864/1746517494",
+    "followers_count": 2183,
+    "friends_count": 3762,
+    "statuses_count": 4,
+    "favourites_count": 467,
     "listed_count": 5,
+    "location": "距离你5.2公里",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2023-12-29 04:50:49 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Sheng3565138794",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzQwNDc1MzYzMDYxMjg0ODY0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1919659691157946369/QjU2fEtS_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Dec 28 20:50:49 +0000 2023",
+            "name": "痛苦的农村入🤓",
+            "screen_name": "Sheng3565138794"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3766,
+            "friends_count": 3762,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 0,
@@ -44,16 +56,33 @@
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "距离你5.2公里"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1703796649000,
-            "updated_at": 1744350061929
+            "created_at": 946656000000,
+            "updated_at": 1749219051513
         }
     }
 }

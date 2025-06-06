@@ -2,19 +2,24 @@
     "id": "1586985695461064704",
     "screen_name": "Lmao_Quien",
     "name": "͏͏͏不会取名字怎么办 ͏͏͏",
-    "description": "15岁 男｜很少骂人｜中文｜English｜BS, CR, COC｜中间偏左｜What have we found? The same old fears~ Wish you were here",
-    "location": "美东时间",
+    "description": "15岁 男｜很少骂人｜中文｜English｜BS, CR, COC｜中间偏左｜姐姐@vicooci sao b @xizxrich8964 婊子@zuifeiwu 妈妈 @isaactan8964 @xinyi_adhd 宝宝@gravityswiss 🌻@saksamalah2nd",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1911845059089092608/aooWJ3Dj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586985695461064704/1710560572",
-    "followers_count": 364,
-    "statuses_count": 7549,
-    "favourites_count": 13369,
+    "followers_count": 398,
+    "friends_count": 602,
+    "statuses_count": 8826,
+    "favourites_count": 15181,
     "listed_count": 3,
+    "location": "美东时间",
+    "website": "https://t.co/QE5dw8nnRm",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-10-31 15:37:47 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Lmao_Quien",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "fantuan8964"
                                         },
                                         "rest_id": "1854925585622892544"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911845059089092608/aooWJ3Dj_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Oct 31 07:37:47 +0000 2022",
+            "name": "͏͏͏不会取名字怎么办 ͏͏͏",
+            "screen_name": "Lmao_Quien"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -75,18 +89,23 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 574,
+            "friends_count": 602,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 376,
+            "media_count": 410,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/QE5dw8nnRm",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "美东时间"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
@@ -101,10 +120,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1667201867000,
-            "updated_at": 1746077173226
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

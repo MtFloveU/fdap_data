@@ -1,31 +1,43 @@
 {
     "id": "1843461544740564995",
     "screen_name": "Apache2_91329",
-    "name": "道理喵酱（断糖ing...）🍥",
+    "name": "七奈七奈七奈七（断糖ing...）🍥",
     "description": "你好啊 ~ 这里是一只超爱Apache2的猫猫 ~ |\nINFP一只，喜欢网络安全以及各种硬件知识 ~|Debian什么的最喜欢了❤️@debian|Primary Account @ChaserCHN0721",
-    "location": "https://ngl.link/chaserchn0721",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1909142572251148288/688mrb9G_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1921473910111141888/1-eWFhCr_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843461544740564995/1742172045",
-    "followers_count": 967,
-    "statuses_count": 1816,
-    "favourites_count": 5207,
+    "followers_count": 955,
+    "friends_count": 666,
+    "statuses_count": 2078,
+    "favourites_count": 6070,
     "listed_count": 2,
+    "location": "https://ngl.link/chaserchn0721",
+    "website": "https://t.co/iIK6AO3sQl",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-10-08 09:21:18 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Apache2_91329",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQzNDYxNTQ0NzQwNTY0OTk1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921473910111141888/1-eWFhCr_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Oct 08 01:21:18 +0000 2024",
+            "name": "七奈七奈七奈七（断糖ing...）🍥",
+            "screen_name": "Apache2_91329"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -50,20 +62,37 @@
             "friends_count": 666,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 272,
+            "media_count": 305,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/iIK6AO3sQl",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "https://ngl.link/chaserchn0721"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1728350478000,
-            "updated_at": 1744350087213
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

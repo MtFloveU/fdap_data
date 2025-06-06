@@ -2,28 +2,42 @@
     "id": "1854224109011664896",
     "screen_name": "A5Tr41",
     "name": "☁️",
-    "description": "非二元｜虎鲸｜小零食",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915207166644113409/j7rfhT4f_normal.jpg",
+    "description": "虎鲸｜小零食｜@SayoriCat8964",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1927764186139938816/bUVYlhXc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854224109011664896/1739021168",
-    "followers_count": 322,
-    "statuses_count": 988,
-    "favourites_count": 344,
+    "followers_count": 656,
+    "friends_count": 76,
+    "statuses_count": 1214,
+    "favourites_count": 372,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-11-07 02:07:41 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/A5Tr41",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODU0MjI0MTA5MDExNjY0ODk2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1927764186139938816/bUVYlhXc_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Nov 06 18:07:41 +0000 2024",
+            "name": "☁️",
+            "screen_name": "A5Tr41"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 98,
+            "friends_count": 76,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 15,
+            "media_count": 38,
             "pinned_tweet_ids_str": [
                 "1900982077845369340"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1730916461000,
-            "updated_at": 1746077179548
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

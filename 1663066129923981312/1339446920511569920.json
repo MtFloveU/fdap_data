@@ -2,15 +2,15 @@
     "id": "1339446920511569920",
     "screen_name": "shudesu00",
     "name": "小树（电子烟代/悦刻杆弹/一次性电子）",
-    "description": "🐱💊🐸🌲Ftx_习惯性点赞💍❤️：@CoFfffEeeeE1 ✚各类一次性飞雾小黑条鸭嘴兽等齐全。悦刻五代180六代200「正品」or其他杆子150-180♦悦刻原装果味弹75冰熊75💰买杆又买蛋优惠20。诚信第一♦当天发货，17:00后下单隔天发货「私信请说明需要的产品（高品质有售后，放心购买，诚信第一）",
-    "location": "",
+    "description": "🐱💊🐸🌲Ftx_习惯性点赞✚各类一次性飞雾小黑条鸭嘴兽等齐全。悦刻五代180六代200「正品」or其他杆子150-180♦悦刻原装果味弹75冰熊75💰买杆又买蛋优惠20。诚信第一♦「私信请说明需要的产品（高品质有售后，放心购买，诚信第一）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1910426228177399808/lQ7MJhNZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339446920511569920/1693624613",
-    "followers_count": 3982,
-    "friends_count": 2172,
-    "statuses_count": 16444,
-    "favourites_count": 121914,
+    "followers_count": 4021,
+    "friends_count": 2173,
+    "statuses_count": 16628,
+    "favourites_count": 120644,
     "listed_count": 7,
+    "location": "",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2020-12-17 13:46:58 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/shudesu00",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzM5NDQ2OTIwNTExNTY5OTIw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1910426228177399808/lQ7MJhNZ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Dec 17 05:46:58 +0000 2020",
+            "name": "小树（电子烟代/悦刻杆弹/一次性电子）",
+            "screen_name": "shudesu00"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2172,
+            "friends_count": 2173,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1546,
+            "media_count": 1573,
             "pinned_tweet_ids_str": [
                 "1792758274967953516"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1608184018000,
-            "updated_at": 1746277405361
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

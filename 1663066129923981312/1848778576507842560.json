@@ -1,16 +1,16 @@
 {
     "id": "1848778576507842560",
     "screen_name": "LovelyCheshire_",
-    "name": "为什么坂下六花（而不是正常人）能有这么大流量？",
-    "description": "#它们才是坂下六花@zuifeiwu @6huazhu @zhao_mama @zhu6hua @yihong23\n#大号@KawaiiCheshire_",
-    "location": "樱丘女子高等学校轻音部",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1918375579356938243/EhfwWPOv_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848778576507842560/1738836459",
-    "followers_count": 733,
-    "friends_count": 301,
-    "statuses_count": 1869,
-    "favourites_count": 3798,
+    "name": "那一天的坂下，六花起来~",
+    "description": "❤️",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929187459512102912/JMDsOdno_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848778576507842560/1748415653",
+    "followers_count": 728,
+    "friends_count": 254,
+    "statuses_count": 2145,
+    "favourites_count": 4375,
     "listed_count": 0,
+    "location": "樱丘女子高等学校轻音部",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,8 +18,8 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-10-23 01:29:09 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/LovelyCheshire_",
     "metadata": {
         "__typename": "User",
@@ -31,19 +31,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @KawaiiCheshire_",
+                    "text": "Automated by @KawaiiEru_",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 29,
+                            "toIndex": 24,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "KawaiiCheshire_",
+                                "screen_name": "KawaiiEru_",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "KawaiiCheshire_"
+                                        "core": {
+                                            "screen_name": "KawaiiEru_"
                                         },
                                         "rest_id": "1796349415650664448"
                                     }
@@ -55,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929187459512102912/JMDsOdno_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Oct 22 17:29:09 +0000 2024",
+            "name": "那一天的坂下，六花起来~",
+            "screen_name": "LovelyCheshire_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -67,26 +76,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 301,
+            "friends_count": 254,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 377,
+            "media_count": 421,
             "pinned_tweet_ids_str": [
                 "1901191209315672294"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "樱丘女子高等学校轻音部"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1729618149000,
-            "updated_at": 1746277404248
+            "created_at": 946656000000,
+            "updated_at": 1749219065464
         }
     }
 }

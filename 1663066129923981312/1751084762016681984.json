@@ -2,28 +2,42 @@
     "id": "1751084762016681984",
     "screen_name": "MTFxyn198964",
     "name": "小药娘紫喵🍥🏳️‍⚧️🇮🇱",
-    "description": "就是那个未成年术后娘🥺支持免术换证Ⅰ废除死刑｜全盘西化｜反terf丨安徽裔满洲人｜🏳️‍⚧️🏳️‍🌈🇮🇱丨飞友丨 mtxyn丨🏳️‍⚧️❤️🇮🇱｜原帐号:@zhoxzhn8964｜ 「做一個自由的人，再回到錫安山和耶路撒冷」｜梦想是建立药娘共和国｜永远的小药娘丨逃生舱@zhoxzhn8963",
-    "location": "药娘共和国",
+    "description": "就是那个未成年术后娘🥺支持免术换证Ⅰ废除死刑｜全盘西化｜反terf丨🏳️‍⚧️🏳️‍🌈🇮🇱丨飞友丨 mtxyn丨🏳️‍⚧️❤️🇮🇱｜原帐号:@zhoxzhn8964｜ 「做一個自由的人，再回到錫安山和耶路撒冷」｜梦想是建立药娘共和国｜永远的小药娘丨逃生舱@zhoxzhn8963",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1806207869802708992/sB3Dkpjc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751084762016681984/1738762130",
-    "followers_count": 4661,
-    "statuses_count": 1626,
-    "favourites_count": 10923,
-    "listed_count": 10,
+    "followers_count": 4750,
+    "friends_count": 1721,
+    "statuses_count": 1651,
+    "favourites_count": 11012,
+    "listed_count": 11,
+    "location": "药娘共和国",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-01-27 11:29:28 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/MTFxyn198964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzUxMDg0NzYyMDE2NjgxOTg0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1806207869802708992/sB3Dkpjc_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jan 27 03:29:28 +0000 2024",
+            "name": "小药娘紫喵🍥🏳️‍⚧️🇮🇱",
+            "screen_name": "MTFxyn198964"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1677,
+            "friends_count": 1721,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 431,
+            "media_count": 435,
             "pinned_tweet_ids_str": [
                 "1780270621706129775"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "药娘共和国"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1706326168000,
-            "updated_at": 1746077192669
+            "created_at": 946656000000,
+            "updated_at": 1749219078458
         }
     }
 }

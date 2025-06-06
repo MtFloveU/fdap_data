@@ -1,29 +1,43 @@
 {
     "id": "1515208665330237442",
     "screen_name": "happyending8964",
-    "name": "欣是瓜皮🍈🏳️‍⚧️",
+    "name": "香欣料（欣🧂🏳️‍⚧️",
     "description": "叫我欣就行\n能queer人一脸的mtf",
-    "location": "重庆北边五线小城",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1822621028943904768/P0IBoL5f_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515208665330237442/1720435653",
-    "followers_count": 1202,
-    "statuses_count": 2965,
-    "favourites_count": 3817,
+    "followers_count": 1204,
+    "friends_count": 667,
+    "statuses_count": 3225,
+    "favourites_count": 4136,
     "listed_count": 1,
+    "location": "广州",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-04-16 14:01:35 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/happyending8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTE1MjA4NjY1MzMwMjM3NDQy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1822621028943904768/P0IBoL5f_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Apr 16 06:01:35 +0000 2022",
+            "name": "香欣料（欣🧂🏳️‍⚧️",
+            "screen_name": "happyending8964"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 647,
+            "friends_count": 667,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 142,
+            "media_count": 156,
             "pinned_tweet_ids_str": [
-                "1913141886572961993"
+                "1918256143388033360"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "广州"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1650088895000,
-            "updated_at": 1746077188993
+            "created_at": 946656000000,
+            "updated_at": 1749219075207
         }
     }
 }

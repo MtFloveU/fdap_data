@@ -2,16 +2,16 @@
     "id": "1864551627761315840",
     "screen_name": "MahouShoko",
     "name": "石田将也　低浮上",
-    "description": "不熟勿扰|無断キャプチャー/引用/転载禁止🚫|会清人|黑化发癫暴论号|本号内容不过脑子|罗莎·卢森堡/托洛茨基|不断革命论|自由软件|去中心化 友多数立场，不主动攻击别人，但并不代表我不会骂人。人不犯我，我不犯人；人若犯我，加倍烦人.大号@KawaiiTrotsky挂人@notmentalero图书馆↓",
-    "location": "闖🐟私人生理医生ゆき回忆录",
+    "description": "不熟勿扰|無断キャプチャー/引用/転载禁止🚫|会清人|黑化发癫暴论号|本号内容不过脑子|罗莎·卢森堡/托洛茨基|不断革命论|自由软件|去中心化 人不犯我，我不犯人；人若犯我，加倍烦人.大号/main account/本垢 @KawaiiTrotsky 挂人/对线@notmentalero",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1912825249068195840/mfcOrzQO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864551627761315840/1742528035",
-    "followers_count": 283,
-    "friends_count": 589,
-    "statuses_count": 1933,
-    "favourites_count": 1024,
-    "listed_count": 0,
-    "website": "https://t.co/E014owr6s9",
+    "followers_count": 280,
+    "friends_count": 610,
+    "statuses_count": 2158,
+    "favourites_count": 1083,
+    "listed_count": 1,
+    "location": "打倒童齡廁，捍衛聲之形",
+    "website": "https://t.co/XeG4ug56wW",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2024-12-05 14:05:39 +08:00",
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/MahouShoko",
     "metadata": {
         "__typename": "User",
@@ -42,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "notmentalero"
                                         },
                                         "rest_id": "1667790815819862017"
@@ -55,11 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1912825249068195840/mfcOrzQO_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Dec 05 06:05:39 +0000 2024",
+            "name": "石田将也　低浮上",
+            "screen_name": "MahouShoko"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -69,9 +77,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "t.me/FuckStalinismA…",
-                            "expanded_url": "https://t.me/FuckStalinismAndCapitalism",
-                            "url": "https://t.co/E014owr6s9",
+                            "display_url": "fhs.sh/projects/ksre",
+                            "expanded_url": "https://www.fhs.sh/projects/ksre",
+                            "url": "https://t.co/XeG4ug56wW",
                             "indices": [
                                 0,
                                 23
@@ -81,27 +89,47 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 589,
+            "friends_count": 610,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 345,
+            "media_count": 402,
             "pinned_tweet_ids_str": [
-                "1912843658409423122"
+                "1927624797388943821"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/E014owr6s9",
-            "verified": false,
+            "url": "https://t.co/XeG4ug56wW",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "打倒童齡廁，捍衛聲之形"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Fan",
         "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1928748173545320497",
+            "professional_type": "Creator",
+            "category": []
+        },
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1733378739000,
-            "updated_at": 1746277403165
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

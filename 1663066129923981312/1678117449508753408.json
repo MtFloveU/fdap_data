@@ -2,28 +2,42 @@
     "id": "1678117449508753408",
     "screen_name": "Chunliang2nd",
     "name": "粘同学不是你同学☆",
-    "description": "我褪色了 ADHD/AS 双相待确诊 🏳️‍⚧️Enby🍥HRT2023.6.9 🏳️‍🌈gay 半吊子geek ❄️NixOS Android RKSU user 中二HKer🇭🇰 630游戏科学喷漆事件主犯 贝贝珈毒唯 厌食/ED 维生素不足 关注/转发/评论/点赞及一切互动≠认同 @liminfin",
-    "location": "乡北茶舍",
+    "description": "我说老大哥，我刚刚在电幕旁边写日记的时候，你偷看了对吧？(错乱 ADHD/AS 双相待确诊 恐直🏳️‍⚧️Enby🍥HRT2023.6.9 半吊子geek ❄️NixOS Android RKSU user 中二HKer🇭🇰 贝贝珈毒唯 厌食/ED 维生素不足 @liminfin",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678117449508753408/1716017466",
-    "followers_count": 1221,
-    "statuses_count": 18257,
-    "favourites_count": 11480,
+    "followers_count": 1304,
+    "friends_count": 1299,
+    "statuses_count": 19474,
+    "favourites_count": 12528,
     "listed_count": 11,
+    "location": "乡北茶舍",
+    "website": "https://t.co/wpEdl7tMRJ",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
-    "created_at": "2023-07-10 03:02:54 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Chunliang2nd",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjc4MTE3NDQ5NTA4NzUzNDA4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jul 09 19:02:54 +0000 2023",
+            "name": "粘同学不是你同学☆",
+            "screen_name": "Chunliang2nd"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,7 +49,7 @@
                         {
                             "display_url": "ouka.ro",
                             "expanded_url": "http://ouka.ro",
-                            "url": "https://t.co/wpEdl7ukHh",
+                            "url": "https://t.co/wpEdl7tMRJ",
                             "indices": [
                                 0,
                                 23
@@ -45,20 +59,25 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1172,
+            "friends_count": 1299,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 884,
+            "media_count": 919,
             "pinned_tweet_ids_str": [
                 "1845803069252260212"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/wpEdl7ukHh",
-            "verified": false,
-            "want_retweets": false,
+            "url": "https://t.co/wpEdl7tMRJ",
+            "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "乡北茶舍"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "Fan",
         "profile_image_shape": "Circle",
@@ -73,10 +92,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1688929374000,
-            "updated_at": 1746080539720
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

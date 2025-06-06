@@ -3,29 +3,41 @@
     "screen_name": "PJRSYA520_cn",
     "name": "平靜如水🇨🇳",
     "description": "09年初三生/中立人(左倾)/不会屏蔽任何人，无论你有多么恶毒/互fo请私信留言提醒/逃生舱以及锁推小号@PJRU_cn/朋友之一:@poor_tomato_qaq",
-    "location": "中华人民共和国",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1907987583587725313/6RPn63BE_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786243047115653120/1743734637",
-    "followers_count": 847,
-    "statuses_count": 2183,
-    "favourites_count": 2238,
+    "followers_count": 846,
+    "friends_count": 0,
+    "statuses_count": 2328,
+    "favourites_count": 2464,
     "listed_count": 6,
+    "location": "中华人民共和国",
+    "website": "https://t.co/jdkCsRmhE3",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": true,
-    "created_at": "2024-05-03 11:55:14 +08:00",
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/PJRSYA520_cn",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzg2MjQzMDQ3MTE1NjUzMTIw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1907987583587725313/6RPn63BE_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri May 03 03:55:14 +0000 2024",
+            "name": "平靜如水🇨🇳",
+            "screen_name": "PJRSYA520_cn"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,27 +59,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1133,
+            "friends_count": 0,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 94,
+            "media_count": 102,
             "pinned_tweet_ids_str": [
-                "1907992258173182406"
+                "1910898665008632044"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/jdkCsRmhE3",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "中华人民共和国"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1714708514000,
-            "updated_at": 1744350074462
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

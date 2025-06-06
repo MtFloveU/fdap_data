@@ -2,15 +2,15 @@
     "id": "1795762724254912512",
     "screen_name": "ZDC114",
     "name": "ZDself-neutral",
-    "description": "",
-    "location": "商场 机厅",
+    "description": "是亲戚地域成分过杂的北京人",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1795763095673196544/_j44KcOc_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 27,
-    "friends_count": 102,
-    "statuses_count": 261,
-    "favourites_count": 1283,
+    "followers_count": 28,
+    "friends_count": 125,
+    "statuses_count": 370,
+    "favourites_count": 1701,
     "listed_count": 0,
+    "location": "北京市",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": false,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-05-29 18:23:10 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/ZDC114",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk1NzYyNzI0MjU0OTEyNTEy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1795763095673196544/_j44KcOc_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed May 29 10:23:10 +0000 2024",
+            "name": "ZDself-neutral",
+            "screen_name": "ZDC114"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 102,
+            "friends_count": 125,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 13,
+            "media_count": 15,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "北京市"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1716978190000,
-            "updated_at": 1746176881371
+            "created_at": 946656000000,
+            "updated_at": 1749219023519
         }
     }
 }

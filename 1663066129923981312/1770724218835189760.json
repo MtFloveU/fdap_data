@@ -1,29 +1,43 @@
 {
     "id": "1770724218835189760",
     "screen_name": "EdgarRinik70648",
-    "name": "猫落雨",
-    "description": "废物/男生/172/55/想学计算机与经济学/摆烂/小镇做题家（现在不会做题了）/阴阳双修/我是乖宝宝不键政❌/可以聊天（有空的话/没有攻击性，会先投降喵/🍭2025.1.3/会把这里当日记本＆回忆录&情绪发泄的地方&喜欢玩绳子&友🍥🏳️‍⚧️🍥/常住浙江台玉/上海上学",
-    "location": "魔法大陆",
+    "name": "貓落雨",
+    "description": "废物/男生/172/55/摆烂/是个只会睡觉的废物/不键政❌/可以聊天（有空的话）/🍭2025.1.3/吃过两个月但是心中的女孩子已经死了/会把这里当日记本＆回忆录&情绪发泄的地方&喜欢玩绳子&友🍥🏳️‍⚧️🍥/常住浙江台玉/上海上学",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1774316678471688192/cOu4SASr_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1770724218835189760/1716049007",
-    "followers_count": 272,
-    "statuses_count": 893,
-    "favourites_count": 2268,
+    "followers_count": 1053,
+    "friends_count": 866,
+    "statuses_count": 982,
+    "favourites_count": 2659,
     "listed_count": 1,
+    "location": "魔法大陆",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-03-21 16:09:03 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/EdgarRinik70648",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzcwNzI0MjE4ODM1MTg5NzYw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1774316678471688192/cOu4SASr_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Mar 21 08:09:03 +0000 2024",
+            "name": "貓落雨",
+            "screen_name": "EdgarRinik70648"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 702,
+            "friends_count": 866,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 53,
+            "media_count": 60,
             "pinned_tweet_ids_str": [
                 "1877408729521414175"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "魔法大陆"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1711008543000,
-            "updated_at": 1746080521888
+            "created_at": 946656000000,
+            "updated_at": 1749219025756
         }
     }
 }

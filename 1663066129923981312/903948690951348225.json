@@ -2,15 +2,15 @@
     "id": "903948690951348225",
     "screen_name": "MAGNIFIERhuahua",
     "name": "MAGNIFIER",
-    "description": "最爱宝宝心",
-    "location": "Melbourne, Victoria",
+    "description": "攻击有待提高，素质有待降低",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1759563538140667904/fNEbEd_l_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/903948690951348225/1713923088",
-    "followers_count": 2575,
-    "friends_count": 672,
-    "statuses_count": 13869,
-    "favourites_count": 8686,
+    "followers_count": 2593,
+    "friends_count": 676,
+    "statuses_count": 14037,
+    "favourites_count": 8699,
     "listed_count": 4,
+    "location": "Melbourne, Victoria",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": null,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2017-09-02 19:52:17 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/MAGNIFIERhuahua",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjo5MDM5NDg2OTA5NTEzNDgyMjU=",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1759563538140667904/fNEbEd_l_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Sep 02 11:52:17 +0000 2017",
+            "name": "MAGNIFIER",
+            "screen_name": "MAGNIFIERhuahua"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,17 +46,22 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 672,
+            "friends_count": 676,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 987,
+            "media_count": 1000,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Melbourne, Victoria"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -62,12 +76,21 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1504353137000,
-            "updated_at": 1746277396475
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

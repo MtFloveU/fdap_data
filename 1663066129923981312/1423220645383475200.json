@@ -3,27 +3,41 @@
     "screen_name": "sysjf0",
     "name": "十九方鸞𱁬𬚩𠕲麤齾𰻝",
     "description": "最喜欢的推主是 @umichen0502324",
-    "location": "未被创造出的，只存在初音未来的世界",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906343686289678336/ZKab83IO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1423220645383475200/1741170240",
-    "followers_count": 1373,
-    "statuses_count": 18165,
-    "favourites_count": 14531,
+    "followers_count": 1353,
+    "friends_count": 1007,
+    "statuses_count": 18697,
+    "favourites_count": 15558,
     "listed_count": 4,
+    "location": "未被创造出的，存在真实初音未来的世界",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2021-08-05 17:53:54 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/sysjf0",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDIzMjIwNjQ1MzgzNDc1MjAw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1906343686289678336/ZKab83IO_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Aug 05 09:53:54 +0000 2021",
+            "name": "十九方鸞𱁬𬚩𠕲麤齾𰻝",
+            "screen_name": "sysjf0"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1000,
+            "friends_count": 1007,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1231,
+            "media_count": 1260,
             "pinned_tweet_ids_str": [
                 "1862539669592031578"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "未被创造出的，存在真实初音未来的世界"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1628157234000,
-            "updated_at": 1746077186476
+            "created_at": 946656000000,
+            "updated_at": 1749219072953
         }
     }
 }

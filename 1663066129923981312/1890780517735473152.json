@@ -1,58 +1,100 @@
 {
     "id": "1890780517735473152",
     "screen_name": "wtswaishiteruyo",
-    "name": "🐱にゃこ🇲🇰🌸",
-    "description": "支黑｜Mio宝宝：@moeTvT｜Yuki宝宝：@Kazuko045｜奶茶姐姐：@Shirasu8964228",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1895010945635598336/XgCB_WbF_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890780517735473152/1743297981",
-    "followers_count": 272,
-    "statuses_count": 3089,
-    "favourites_count": 8511,
-    "listed_count": 2,
+    "name": "I love You",
+    "description": "im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy i dont wanna be",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929562149925593088/MSeA3FeN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890780517735473152/1749040693",
+    "followers_count": 391,
+    "friends_count": 340,
+    "statuses_count": 4873,
+    "favourites_count": 12792,
+    "listed_count": 0,
+    "location": "天堂会有毒品吗",
+    "website": "https://t.co/qFkb2xwIVC",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2025-02-15 23:09:54 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/wtswaishiteruyo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODkwNzgwNTE3NzM1NDczMTUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929562149925593088/MSeA3FeN_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Feb 15 15:09:54 +0000 2025",
+            "name": "I love You",
+            "screen_name": "wtswaishiteruyo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "overdose.day",
+                            "expanded_url": "http://overdose.day",
+                            "url": "https://t.co/qFkb2xwIVC",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 281,
+            "friends_count": 340,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 197,
+            "media_count": 332,
             "pinned_tweet_ids_str": [
-                "1915032097317945640"
+                "1930636351239794759"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/qFkb2xwIVC",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "天堂会有毒品吗"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1739632194000,
-            "updated_at": 1746077169154
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

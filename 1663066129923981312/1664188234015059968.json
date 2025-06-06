@@ -1,30 +1,43 @@
 {
     "id": "1664188234015059968",
-    "screen_name": "misaki8964",
-    "name": "上课玩原神被老师没收手机大喊原神是中国游戏中国制造世界第一厉害了我的国",
-    "description": "精神病生活可悲纯发泄情绪和碎碎念的账号，废话很多谨慎关注｜bsky：Misaki8964",
-    "location": "只是一杯草莓牛奶…",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1904175501893337088/h6f16IVU_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664188234015059968/1742825805",
-    "followers_count": 369,
-    "statuses_count": 22193,
-    "favourites_count": 107070,
+    "screen_name": "Mizuiro8964",
+    "name": "枫糖绘名",
+    "description": "祝你幸福｜本账号只有废话和情绪发泄，请谨慎关注",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1926820527781380096/O5WSEU7S_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664188234015059968/1748224799",
+    "followers_count": 376,
+    "friends_count": 1122,
+    "statuses_count": 23470,
+    "favourites_count": 113503,
     "listed_count": 1,
+    "location": "New York, USA",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-06-01 16:33:06 +08:00",
-    "url": "https://twitter.com/misaki8964",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
+    "url": "https://twitter.com/Mizuiro8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjY0MTg4MjM0MDE1MDU5OTY4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1926820527781380096/O5WSEU7S_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jun 01 08:33:06 +0000 2023",
+            "name": "枫糖绘名",
+            "screen_name": "Mizuiro8964"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1071,
+            "friends_count": 1122,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 158,
+            "media_count": 165,
             "pinned_tweet_ids_str": [
                 "1912884867475669379"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "New York, USA"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1685608386000,
-            "updated_at": 1746077182049
+            "created_at": 946656000000,
+            "updated_at": 1749219068775
         }
     }
 }

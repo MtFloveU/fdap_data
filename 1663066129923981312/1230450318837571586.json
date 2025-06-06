@@ -2,33 +2,42 @@
     "id": "1230450318837571586",
     "screen_name": "Luckyumimi",
     "name": "幸海ち",
-    "description": "🇯🇵🇨🇳日中友谊长存/日本語N4勉強中/デブ専/須田景凪推し",
-    "location": "距离你 6 km",
+    "description": "LGBT/日本語N4勉強中/デブ専両性愛/須田景凪推し/音ゲーマー/FF14/自己肥育中",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1913540575418363904/eIQpCT0k_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230450318837571586/1738430335",
-    "followers_count": 391,
-    "friends_count": 2167,
-    "statuses_count": 3350,
-    "favourites_count": 17647,
+    "followers_count": 412,
+    "friends_count": 2279,
+    "statuses_count": 3495,
+    "favourites_count": 19469,
     "listed_count": 10,
-    "website": "https://t.co/WvA5QN6U6v",
+    "location": "距离你 6 km",
+    "website": "https://t.co/97J6wLIZgn",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2020-02-20 19:13:18 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Luckyumimi",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjMwNDUwMzE4ODM3NTcxNTg2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1913540575418363904/eIQpCT0k_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Feb 20 11:13:18 +0000 2020",
+            "name": "幸海ち",
+            "screen_name": "Luckyumimi"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -38,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "lit.link/luckyumimi",
-                            "expanded_url": "https://lit.link/luckyumimi",
-                            "url": "https://t.co/WvA5QN6U6v",
+                            "display_url": "t.me/luckyumimi",
+                            "expanded_url": "http://t.me/luckyumimi",
+                            "url": "https://t.co/97J6wLIZgn",
                             "indices": [
                                 0,
                                 23
@@ -50,29 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2167,
+            "friends_count": 2279,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 492,
+            "media_count": 517,
             "pinned_tweet_ids_str": [
                 "1845895191984779433"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/WvA5QN6U6v",
-            "verified": false,
+            "url": "https://t.co/97J6wLIZgn",
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "距离你 6 km"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1582197198000,
-            "updated_at": 1746277374331
+            "created_at": 946656000000,
+            "updated_at": 1749219035274
         }
     }
 }

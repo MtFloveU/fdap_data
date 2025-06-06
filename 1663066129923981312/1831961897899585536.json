@@ -1,30 +1,43 @@
 {
     "id": "1831961897899585536",
     "screen_name": "Kiriyama_hitori",
-    "name": "🍀雲☁️",
-    "description": "一字不改",
-    "location": "距离15.9km",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915646911270506496/oFV4yGd9_normal.jpg",
+    "name": "小柠☘️探花",
+    "description": "永生是一种诅咒",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930748605847195648/491nLcFf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831961897899585536/1745225940",
-    "followers_count": 716,
-    "statuses_count": 15560,
-    "favourites_count": 71327,
-    "listed_count": 5,
+    "followers_count": 744,
+    "friends_count": 778,
+    "statuses_count": 16273,
+    "favourites_count": 73278,
+    "listed_count": 3,
+    "location": "距离15.9km",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-09-06 15:45:44 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Kiriyama_hitori",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODMxOTYxODk3ODk5NTg1NTM2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930748605847195648/491nLcFf_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Sep 06 07:45:44 +0000 2024",
+            "name": "小柠☘️探花",
+            "screen_name": "Kiriyama_hitori"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 764,
+            "friends_count": 778,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2085,
+            "media_count": 2181,
             "pinned_tweet_ids_str": [
-                "1895080229955371363"
+                "1920358623529873856"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "距离15.9km"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
@@ -54,12 +72,22 @@
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1725608744000,
-            "updated_at": 1746077179548
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

@@ -1,16 +1,16 @@
 {
     "id": "1684572167860801536",
     "screen_name": "kukmoon97",
-    "name": "谷・穆斯塔法二世・月🏳️‍⚧️🍥（tani MusTaFa II tuki）",
+    "name": "谷月谷月谷",
     "description": "🌸 Former #crossdresser #CD｜now #MtF #transgender #TS｜Finding back friends 🌸 前 #伪娘｜现 #跨性别 女｜找回以前的好友中 🌸 元 #女装子｜今や #ニューハーフ｜かつての友逹を探して 🌸",
-    "location": "距离你 0.15 km",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684572167860801536/1743662841",
-    "followers_count": 1520,
-    "friends_count": 1626,
-    "statuses_count": 5431,
-    "favourites_count": 55767,
+    "followers_count": 1678,
+    "friends_count": 1671,
+    "statuses_count": 5815,
+    "favourites_count": 58066,
     "listed_count": 0,
+    "location": "距离你 0.15 km",
     "website": "https://t.co/RJj82hjUIU",
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2023-07-27 22:32:20 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/kukmoon97",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjg0NTcyMTY3ODYwODAxNTM2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jul 27 14:32:20 +0000 2023",
+            "name": "谷月谷月谷",
+            "screen_name": "kukmoon97"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -50,27 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1626,
+            "friends_count": 1671,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 948,
+            "media_count": 996,
             "pinned_tweet_ids_str": [
-                "1918170602390863994"
+                "1921892490388373740"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/RJj82hjUIU",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "距离你 0.15 km"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1690468340000,
-            "updated_at": 1746176984382
+            "created_at": 946656000000,
+            "updated_at": 1749219064503
         }
     }
 }

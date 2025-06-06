@@ -2,19 +2,24 @@
     "id": "1801777341368041472",
     "screen_name": "fen_mo61725",
     "name": "一具人",
-    "description": "AAA🚄全能人才接受4i忍耐度高会做饭富婆加我原猫猫国国王达芬·梵莫高奈·奇",
-    "location": "猫猫星球猫猫国猫猫街猫猫宫殿",
+    "description": "“人类社会是一种延展性惊人的面料 ”——原猫猫国国王达芬·梵莫高奈·奇",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906365406144540672/75u96NdR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801777341368041472/1721893964",
-    "followers_count": 611,
-    "statuses_count": 8062,
-    "favourites_count": 29274,
+    "followers_count": 613,
+    "friends_count": 1360,
+    "statuses_count": 8224,
+    "favourites_count": 30981,
     "listed_count": 1,
+    "location": "猫猫星球猫猫国猫猫街猫猫宫殿",
+    "website": "https://t.co/AhR3vHKilY",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-06-15 08:43:00 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/fen_mo61725",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "xio247704042307"
                                         },
                                         "rest_id": "1689615327523643392"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1906365406144540672/75u96NdR_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 15 00:43:00 +0000 2024",
+            "name": "一具人",
+            "screen_name": "fen_mo61725"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -75,10 +89,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1261,
+            "friends_count": 1360,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 509,
+            "media_count": 523,
             "pinned_tweet_ids_str": [
                 "1888930858616205449"
             ],
@@ -86,9 +100,14 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/AhR3vHKilY",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "猫猫星球猫猫国猫猫街猫猫宫殿"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -103,12 +122,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1718412180000,
-            "updated_at": 1746077174316
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

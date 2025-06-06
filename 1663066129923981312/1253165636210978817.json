@@ -1,29 +1,43 @@
 {
     "id": "1253165636210978817",
     "screen_name": "Exusiai159",
-    "name": "一只能天使",
+    "name": "一只能天使（期末复习淡推）",
     "description": "混吃等死大学牲，粥批，正太控，中推鹿野灸和能天使粉丝头子/头图来自剧毒的KCN老师/会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本记录碎碎念/数码产品迷，Windows平板和Chromebook爱好者/编程一生黑/禁极端歧视仇恨言论/有大量政治内容的账号恕不回fo/避难所@Exusiai159_2/扩列可私信",
-    "location": "炎国 姜齐",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916516326706999296/Cqh4R0TB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253165636210978817/1725527658",
-    "followers_count": 4179,
-    "statuses_count": 31249,
-    "favourites_count": 109033,
-    "listed_count": 8,
+    "followers_count": 4295,
+    "friends_count": 5354,
+    "statuses_count": 33313,
+    "favourites_count": 119553,
+    "listed_count": 9,
+    "location": "炎国 姜齐",
+    "website": "https://t.co/ZoBj8xEVzX",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2020-04-23 11:36:01 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Exusiai159",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjUzMTY1NjM2MjEwOTc4ODE3",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1916516326706999296/Cqh4R0TB_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Apr 23 03:36:01 +0000 2020",
+            "name": "一只能天使（期末复习淡推）",
+            "screen_name": "Exusiai159"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "t.me/Exusiai159",
-                            "expanded_url": "https://t.me/Exusiai159",
-                            "url": "https://t.co/7uMHbOqbVv",
+                            "display_url": "ngl.link/exusiai1592",
+                            "expanded_url": "https://ngl.link/exusiai1592",
+                            "url": "https://t.co/ZoBj8xEVzX",
                             "indices": [
                                 0,
                                 23
@@ -45,27 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 5072,
+            "friends_count": 5354,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 3224,
+            "media_count": 3413,
             "pinned_tweet_ids_str": [
-                "1853604123599622531"
+                "1925197266241077292"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/7uMHbOqbVv",
-            "verified": false,
+            "url": "https://t.co/ZoBj8xEVzX",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "炎国 姜齐"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1587612961000,
-            "updated_at": 1746077179548
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

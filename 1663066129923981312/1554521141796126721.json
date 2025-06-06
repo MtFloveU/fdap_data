@@ -1,31 +1,43 @@
 {
     "id": "1554521141796126721",
     "screen_name": "yhpss",
-    "name": "樱花飘散时",
-    "description": "樱花…真的好漂亮…",
-    "location": "现实与幻想的交界处",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1868107452719259648/QzB9Y5Am_normal.jpg",
+    "name": "烟晗（樱时🌸）",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929122251565047808/eUPmbL4y_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554521141796126721/1729439511",
-    "followers_count": 1340,
-    "statuses_count": 2862,
-    "favourites_count": 3661,
+    "followers_count": 1345,
+    "friends_count": 1357,
+    "statuses_count": 2867,
+    "favourites_count": 3611,
     "listed_count": 5,
+    "location": "现实与幻想的交界处",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-08-03 01:35:06 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/yhpss",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTU0NTIxMTQxNzk2MTI2NzIx",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929122251565047808/eUPmbL4y_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Aug 02 17:35:06 +0000 2022",
+            "name": "烟晗（樱时🌸）",
+            "screen_name": "yhpss"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,26 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1363,
+            "friends_count": 1357,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 273,
+            "media_count": 278,
             "pinned_tweet_ids_str": [
                 "1888923592915841081"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "现实与幻想的交界处"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1659461706000,
-            "updated_at": 1744350115040
+            "created_at": 946656000000,
+            "updated_at": 1749219079495
         }
     }
 }

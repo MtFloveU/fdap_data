@@ -3,29 +3,41 @@
     "screen_name": "qing_mu31199",
     "name": "🍥青木里美🏳️‍⚧️",
     "description": "MTX，激进跨权主义、激进女权主义、安那其🏴🚩",
-    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1899479078471929856/zCGwXc02_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 220,
-    "statuses_count": 1669,
-    "favourites_count": 4864,
+    "followers_count": 295,
+    "friends_count": 327,
+    "statuses_count": 2123,
+    "favourites_count": 5565,
     "listed_count": 2,
+    "location": "Kasukabe-shi, Saitama",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-08-14 15:05:33 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/qing_mu31199",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODIzNjE2ODY5NTYxMjMzNDA5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1899479078471929856/zCGwXc02_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Aug 14 07:05:33 +0000 2024",
+            "name": "🍥青木里美🏳️‍⚧️",
+            "screen_name": "qing_mu31199"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,52 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 296,
+            "friends_count": 327,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 39,
+            "media_count": 47,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "tipjar_settings": {},
+        "location": {
+            "location": "Kasukabe-shi, Saitama"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1922931480126423084",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1723619133000,
-            "updated_at": 1744350085207
+            "created_at": 946656000000,
+            "updated_at": 1749219065464
         }
     }
 }

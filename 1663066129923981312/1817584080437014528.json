@@ -2,19 +2,24 @@
     "id": "1817584080437014528",
     "screen_name": "N552AA",
     "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
-    "description": "08/MTX（f?/ENTP-T/家长吓坏党/ADHD/双相/HRT：2024/8/25/坐标上海/有小证/QQ:234559943/抱抱最最可爱的姐姐: @yizhikapaiqaq\n猫猫： @AGeSang2008\n妈妈：@bolichara0\n主人：@yumekaayumi",
-    "location": "参宿四",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915574638316576776/ewBZ6pcZ_normal.jpg",
+    "description": "08/MTX（f?/ENTP-T/家长吓坏党/ADHD/双相/断续含糖/坐标上海/有小证/抱抱最最可爱的姐姐: @yizhikapaiqaq\n妈妈：@bolichara0\n主人：@yumekaayumi",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1927899559306612736/St9dcsoX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817584080437014528/1728201559",
-    "followers_count": 1044,
-    "statuses_count": 1094,
-    "favourites_count": 3155,
+    "followers_count": 1046,
+    "friends_count": 931,
+    "statuses_count": 1144,
+    "favourites_count": 3314,
     "listed_count": 1,
+    "location": "参宿四",
+    "website": "https://t.co/zkiZZtLQUz",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-07-28 23:33:18 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/N552AA",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "N732FE"
                                         },
                                         "rest_id": "1846816315497238531"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1927899559306612736/St9dcsoX_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jul 28 15:33:18 +0000 2024",
+            "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
+            "screen_name": "N552AA"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -75,27 +89,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 906,
+            "friends_count": 931,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 73,
+            "media_count": 80,
             "pinned_tweet_ids_str": [
-                "1874706282789433484"
+                "1926860966253257155"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/zkiZZtLQUz",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "参宿四"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1722180798000,
-            "updated_at": 1746077180863
+            "created_at": 946656000000,
+            "updated_at": 1749219067732
         }
     }
 }

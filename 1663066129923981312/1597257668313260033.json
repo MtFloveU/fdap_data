@@ -1,67 +1,86 @@
 {
     "id": "1597257668313260033",
     "screen_name": "Minokakay",
-    "name": "Minokakay（日雌泰补色诺",
-    "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
-    "location": "重庆市精神卫生中心门诊5楼",
+    "name": "Minokakay（泰补色诺",
+    "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597257668313260033/1706963304",
-    "followers_count": 6348,
-    "statuses_count": 15990,
-    "favourites_count": 40307,
-    "listed_count": 31,
+    "followers_count": 7481,
+    "friends_count": 883,
+    "statuses_count": 18423,
+    "favourites_count": 43212,
+    "listed_count": 29,
+    "location": "重庆市精神卫生中心门诊5楼",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-11-28 23:54:46 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Minokakay",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTk3MjU3NjY4MzEzMjYwMDMz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Nov 28 15:54:46 +0000 2022",
+            "name": "Minokakay（泰补色诺",
+            "screen_name": "Minokakay"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/minokakay",
-                            "expanded_url": "http://t.me/minokakay",
-                            "url": "https://t.co/jLmgEIa7Rt",
-                            "indices": [
-                                104,
-                                127
-                            ]
-                        }
-                    ]
+                    "urls": []
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 866,
+            "friends_count": 883,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 764,
+            "media_count": 1126,
             "pinned_tweet_ids_str": [
-                "1907979068806672414"
+                "1930535278814576654"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "重庆市精神卫生中心门诊5楼"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1669650886000,
-            "updated_at": 1744350090667
+            "created_at": 946656000000,
+            "updated_at": 1749219067733
         }
     }
 }

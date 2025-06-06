@@ -1,16 +1,16 @@
 {
     "id": "1910137141570740225",
     "screen_name": "AsabaLazy233",
-    "name": "Nous💤",
-    "description": "MTX｜可以叫我眠｜平和度过人生的秘诀就是“我都行”💕亲爱的：@Shiluoshiro｜里推：@MoonLikeQAQ",
-    "location": "地球",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1918518768042688512/qDqn9LoZ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910137141570740225/1746239242",
-    "followers_count": 125,
-    "friends_count": 160,
-    "statuses_count": 641,
-    "favourites_count": 4146,
+    "name": "AsabaLazy⭐️",
+    "description": "这里是洛洛｜长存不灭的过去、逐渐消逝的未来",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929406731278589952/R_xVLztV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910137141570740225/1748995737",
+    "followers_count": 173,
+    "friends_count": 178,
+    "statuses_count": 1212,
+    "favourites_count": 7665,
     "listed_count": 0,
+    "location": "地球",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2025-04-10 09:06:09 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/AsabaLazy233",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxOTEwMTM3MTQxNTcwNzQwMjI1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929406731278589952/R_xVLztV_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Apr 10 01:06:09 +0000 2025",
+            "name": "AsabaLazy⭐️",
+            "screen_name": "AsabaLazy233"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 160,
+            "friends_count": 178,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
+            "media_count": 19,
             "pinned_tweet_ids_str": [
-                "1912820772445557046"
+                "1928500024671089032"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "地球"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1744247169000,
-            "updated_at": 1746277396475
+            "created_at": 946656000000,
+            "updated_at": 1749219057411
         }
     }
 }

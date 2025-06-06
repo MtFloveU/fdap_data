@@ -2,30 +2,42 @@
     "id": "1705973929435873280",
     "screen_name": "JiuChiyl",
     "name": "久池鸢里🍥🏳‍⚧️",
-    "description": "（羡慕党）|  无证含糖🍬 | HRT 24-4-24 ~ ? | 很少发帖 | 🏳️‍⚧️mtf | 随时鱼鱼蒸饭| 定居广东 | 05-11-15 | 超绝死宅假期不出门",
-    "location": "罗德岛",
+    "description": "（羡慕党,限流版）|  无证含糖🍬 | HRT 24-4-24  | 很少发帖 | 🏳️‍⚧️mtf | 随时鱼鱼蒸饭| 定居广东 | 05-11-15 | 超绝死宅假期不出门",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1854767911833096192/gShg1Y84_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705973929435873280/1695575754",
-    "followers_count": 228,
-    "statuses_count": 719,
-    "favourites_count": 2003,
+    "followers_count": 241,
+    "friends_count": 624,
+    "statuses_count": 775,
+    "favourites_count": 2176,
     "listed_count": 1,
+    "location": "罗德岛",
+    "website": "https://t.co/SHSaUb74QO",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-09-24 23:54:26 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/JiuChiyl",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzA1OTczOTI5NDM1ODczMjgw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1854767911833096192/gShg1Y84_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Sep 24 15:54:26 +0000 2023",
+            "name": "久池鸢里🍥🏳‍⚧️",
+            "screen_name": "JiuChiyl"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,7 +49,7 @@
                         {
                             "display_url": "t.me/+Se_7akOuhYwzY…",
                             "expanded_url": "https://t.me/+Se_7akOuhYwzYzNl",
-                            "url": "https://t.co/SHSaUb7CGm",
+                            "url": "https://t.co/SHSaUb74QO",
                             "indices": [
                                 0,
                                 23
@@ -47,21 +59,28 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 613,
+            "friends_count": 624,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 129,
+            "media_count": 146,
             "pinned_tweet_ids_str": [
-                "1907715243742302682"
+                "1920758429070573997"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/SHSaUb7CGm",
-            "verified": false,
+            "url": "https://t.co/SHSaUb74QO",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "罗德岛"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1823059884847583652",
             "professional_type": "Creator",
@@ -73,12 +92,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1695570866000,
-            "updated_at": 1744350099731
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

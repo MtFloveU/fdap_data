@@ -2,28 +2,42 @@
     "id": "1754509145003470848",
     "screen_name": "mengxintu",
     "name": "MXT 2.0",
-    "description": "一只狐娘（1.0 @lovemostmevius）\n| MTX | 大四在读 | \n主人+对象+女朋友+比翼鸟+一直爱着守护陪伴的下去人+另一半+老婆+darling～+主人+兔兔的女王殿下 @MeviuslX_Xl｜大兔兔/姐姐@miya051223 | \n狐娘姐姐@chiori_momo",
-    "location": "ℳℯ𝓋𝒾𝓊𝓈 的心",
+    "description": "一只狐娘（1.0 @lovemostmevius）\n| MTX | 大四在读 | \n最爱的主人+对象+女朋友+比翼鸟+一直爱着守护陪伴的下去人+另一半+老婆+darling～+主人+兔兔的女王殿下 @MeviuslX_Xl｜最爱的大兔兔/姐姐～@miya051223",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873761617328095233/YhvNiWRO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754509145003470848/1726133312",
-    "followers_count": 1183,
-    "statuses_count": 2031,
-    "favourites_count": 6585,
+    "followers_count": 1190,
+    "friends_count": 425,
+    "statuses_count": 2091,
+    "favourites_count": 7048,
     "listed_count": 4,
+    "location": "ℳℯ𝓋𝒾𝓊𝓈 的心",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-02-05 22:16:07 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/mengxintu",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzU0NTA5MTQ1MDAzNDcwODQ4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1873761617328095233/YhvNiWRO_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Feb 05 14:16:07 +0000 2024",
+            "name": "MXT 2.0",
+            "screen_name": "mengxintu"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 427,
+            "friends_count": 425,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 33,
+            "media_count": 34,
             "pinned_tweet_ids_str": [
                 "1911630366596846068"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "ℳℯ𝓋𝒾𝓊𝓈 的心"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1707142567000,
-            "updated_at": 1746077185700
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

@@ -2,30 +2,42 @@
     "id": "1781263104690499584",
     "screen_name": "malone_mar40888",
     "name": "兮仙鹤🍥",
-    "description": "涩推（应该） @xixianhe520  ｜男朋友  主人 @Sakurakouji319  QQ群981820299",
-    "location": "鹤",
+    "description": "涩推（应该） @xixianhe520  ｜   QQ群981820299",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1793987175492812801/txqDMAex_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781263104690499584/1716554848",
-    "followers_count": 1989,
-    "statuses_count": 170,
-    "favourites_count": 811,
-    "listed_count": 2,
+    "followers_count": 2095,
+    "friends_count": 360,
+    "statuses_count": 210,
+    "favourites_count": 976,
+    "listed_count": 4,
+    "location": "鹤",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-04-19 18:06:50 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/malone_mar40888",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzgxMjYzMTA0NjkwNDk5NTg0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1793987175492812801/txqDMAex_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Apr 19 10:06:50 +0000 2024",
+            "name": "兮仙鹤🍥",
+            "screen_name": "malone_mar40888"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 330,
+            "friends_count": 360,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 26,
+            "media_count": 39,
             "pinned_tweet_ids_str": [
                 "1880961588662054987"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "鹤"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1713521210000,
-            "updated_at": 1744350101511
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

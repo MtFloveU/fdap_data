@@ -2,30 +2,72 @@
     "id": "1901481629303881728",
     "screen_name": "puddingskawaii",
     "name": "你的焦糖甜布丁🍼🍬",
-    "description": "叫我 布丁 就好\nzh-CN&en-US/Demigirl/157cm＆40kg/infp-t/喜欢贴贴/不常玩游戏/好友位🚪100/欢迎互fo喵/",
-    "location": "",
+    "description": "叫我 布丁 就好\nzh-CN&en-US/Demigirl/157cm＆40kg/infp-t/喜欢贴贴/不常玩游戏/好友位🚪128/欢迎互fo喵/",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1901810409390448641/W_aO2fvN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901481629303881728/1742909784",
-    "followers_count": 40,
-    "statuses_count": 23,
-    "favourites_count": 10,
+    "followers_count": 102,
+    "friends_count": 49,
+    "statuses_count": 50,
+    "favourites_count": 21,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2025-03-17 11:52:11 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/puddingskawaii",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxOTAxNDgxNjI5MzAzODgxNzI4",
-        "affiliates_highlighted_label": {},
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @puddings00",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 24,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "puddings00",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "core": {
+                                            "screen_name": "puddings00"
+                                        },
+                                        "rest_id": "1760890372585037824"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1901810409390448641/W_aO2fvN_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Mar 17 03:52:11 +0000 2025",
+            "name": "你的焦糖甜布丁🍼🍬",
+            "screen_name": "puddingskawaii"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +76,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 27,
+            "friends_count": 49,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 14,
+            "media_count": 20,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1742183531000,
-            "updated_at": 1744350074462
+            "created_at": 946656000000,
+            "updated_at": 1749219059242
         }
     }
 }

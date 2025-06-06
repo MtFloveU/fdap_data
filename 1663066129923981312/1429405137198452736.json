@@ -2,33 +2,42 @@
     "id": "1429405137198452736",
     "screen_name": "EffieLindraDom",
     "name": "Effie Lingley Dorme🧬🔬",
-    "description": "I can drink nitric acid cause, it won't hurt me./Biohacker💉/Computer-Aided Drug Design…/Psychonaut/Cryptoanarchist/Konstruante potencon kun simboloj/Oder/🧬🍥",
-    "location": "Osaka-shi Minato-ku, Osaka",
+    "description": "I can drink nitric acid cause, it won't hurt me./Biohacker💉/Computer-Aided Drug Design…/Psychonaut/Cryptoanarchist/Konstruante potencon kun simboloj/Oder/中＆En",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1909109028254621696/ozLT6GKe_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429405137198452736/1745511956",
-    "followers_count": 7957,
-    "friends_count": 919,
-    "statuses_count": 19424,
-    "favourites_count": 123087,
+    "followers_count": 9005,
+    "friends_count": 948,
+    "statuses_count": 19997,
+    "favourites_count": 124050,
     "listed_count": 35,
-    "website": "https://t.co/Rnqnch2leD",
+    "location": "Non-Daily Department",
+    "website": "https://t.co/CMmFQgG4Fz",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2021-08-22 19:28:44 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/EffieLindraDom",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDI5NDA1MTM3MTk4NDUyNzM2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1909109028254621696/ozLT6GKe_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Aug 22 11:28:44 +0000 2021",
+            "name": "Effie Lingley Dorme🧬🔬",
+            "screen_name": "EffieLindraDom"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -38,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "systemspaces.top",
-                            "expanded_url": "http://systemspaces.top",
-                            "url": "https://t.co/Rnqnch2leD",
+                            "display_url": "t.me/addlist/fhC2Qb…",
+                            "expanded_url": "https://t.me/addlist/fhC2QbbtzephMTE0",
+                            "url": "https://t.co/CMmFQgG4Fz",
                             "indices": [
                                 0,
                                 23
@@ -50,33 +59,45 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 919,
+            "friends_count": 948,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 3318,
+            "media_count": 3477,
             "pinned_tweet_ids_str": [
-                "1918368455381926271"
+                "1930780898401915336"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/Rnqnch2leD",
-            "verified": false,
+            "url": "https://t.co/CMmFQgG4Fz",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Non-Daily Department"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1806347460299866263",
-            "professional_type": "Creator",
+            "professional_type": "Business",
             "category": [
                 {
-                    "id": 955,
-                    "name": "Journalist",
+                    "id": 713,
+                    "name": "Science & Technology",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
+        },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": false,
@@ -84,9 +105,12 @@
             "ethereum_handle": "0x547b4a4936857d81f4e702d28b9e157cc0d6bb6b",
             "patreon_handle": ""
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1629631724000,
-            "updated_at": 1746277406562
+            "created_at": 946656000000,
+            "updated_at": 1749219067732
         }
     }
 }

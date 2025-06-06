@@ -2,19 +2,24 @@
     "id": "1733255083440357376",
     "screen_name": "8964_xy11",
     "name": "曦夜（一般通过版本）",
-    "description": "一定要活下去捏",
-    "location": "Anywhere",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1910815681467342851/kTvOkEA-_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733255083440357376/1745994642",
-    "followers_count": 981,
-    "statuses_count": 3827,
-    "favourites_count": 36989,
+    "description": "不拟人生物｜尊重任何意识形态｜互fo互动大欢迎",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930081381373358083/-W4GJvyu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733255083440357376/1746624771",
+    "followers_count": 974,
+    "friends_count": 709,
+    "statuses_count": 3427,
+    "favourites_count": 37534,
     "listed_count": 6,
+    "location": "Anywhere",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-12-09 06:40:22 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/8964_xy11",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "8964reckless_"
                                         },
                                         "rest_id": "1882697857393893376"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930081381373358083/-W4GJvyu_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Dec 08 22:40:22 +0000 2023",
+            "name": "曦夜（一般通过版本）",
+            "screen_name": "8964_xy11"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -62,26 +76,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 719,
+            "friends_count": 709,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 119,
+            "media_count": 123,
             "pinned_tweet_ids_str": [
-                "1917548107786838347"
+                "1928720570126151819"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Anywhere"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1702075222000,
-            "updated_at": 1746077182049
+            "created_at": 946656000000,
+            "updated_at": 1749219068775
         }
     }
 }

@@ -2,28 +2,42 @@
     "id": "1676228046247038976",
     "screen_name": "1ka16103257",
     "name": "1ka_",
-    "description": "初三牲/maimai/鸣潮/喵斯/phigros/cytoid/o!m 4k/cs(完美5efaceit)/友跨",
-    "location": "Internet",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915825851557679110/b0BMouKQ_normal.jpg",
+    "description": "初三牲/maimai/鸣潮/喵斯/phigros/cytoid/o!m 4k/cs(完美&faceit)/友跨/好朋友@Quitewaterqwq",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1928619235280039936/4O7hZ2IZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676228046247038976/1738846204",
-    "followers_count": 395,
-    "statuses_count": 4268,
-    "favourites_count": 11310,
+    "followers_count": 561,
+    "friends_count": 878,
+    "statuses_count": 5933,
+    "favourites_count": 18024,
     "listed_count": 3,
+    "location": "Internet",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-07-04 21:55:00 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/1ka16103257",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjc2MjI4MDQ2MjQ3MDM4OTc2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1928619235280039936/4O7hZ2IZ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jul 04 13:55:00 +0000 2023",
+            "name": "1ka_",
+            "screen_name": "1ka16103257"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 706,
+            "friends_count": 878,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 161,
+            "media_count": 195,
             "pinned_tweet_ids_str": [
                 "1890785997740184055"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Internet"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -53,12 +72,22 @@
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1688478900000,
-            "updated_at": 1746077173226
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

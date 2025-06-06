@@ -2,15 +2,15 @@
     "id": "1819240872879497216",
     "screen_name": "sumolilaogong",
     "name": "狸ᨐ",
-    "description": "@ml6990098152941    @Aires_luo\n友跨 男 男女平等\n身体较差 常年吃药 曾感冒连扎两周针不好 长期连续服用药物 最长时间一个半月\n那我算不算均摊od。？\n普通高二 成绩一般 而且我也不喜欢用成绩评判别人。\n私聊一次聊骚罚款两块",
-    "location": "中国辽宁",
+    "description": "友跨 男 男女平等\n身体较差 常年吃药 曾感冒连扎两周针不好 长期连续服用药物 最长时间一个半月\n那我算不算均摊od。？\n普通高二 成绩一般 \n我已经一周没有开心了",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1908735038944116736/Ee5PAByC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819240872879497216/1724236940",
-    "followers_count": 180,
-    "friends_count": 360,
-    "statuses_count": 2916,
-    "favourites_count": 12160,
-    "listed_count": 1,
+    "followers_count": 203,
+    "friends_count": 345,
+    "statuses_count": 3245,
+    "favourites_count": 13595,
+    "listed_count": 2,
+    "location": "中国辽宁",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2024-08-02 13:16:52 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/sumolilaogong",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODE5MjQwODcyODc5NDk3MjE2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1908735038944116736/Ee5PAByC_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Aug 02 05:16:52 +0000 2024",
+            "name": "狸ᨐ",
+            "screen_name": "sumolilaogong"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 360,
+            "friends_count": 345,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 146,
+            "media_count": 155,
             "pinned_tweet_ids_str": [
                 "1885484033188192344"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "中国辽宁"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1722575812000,
-            "updated_at": 1746277399305
+            "created_at": 946656000000,
+            "updated_at": 1749219060359
         }
     }
 }

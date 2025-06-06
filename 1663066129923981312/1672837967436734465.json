@@ -2,30 +2,42 @@
     "id": "1672837967436734465",
     "screen_name": "MuYou17294",
     "name": "柚木夏子🍥🏳️‍⚧️",
-    "description": "友跨NONO～本跨だ! 嘛，七年前就是，超级深柜，一直无糖的胆小鬼罢了，含糖2024.7.1号，目前断糖中，怕发福回到一百九（减肥ing），家在北京，天津上学，物种是狐狐，infj，喜欢文学和音乐，对未知保持好奇，拒绝成为无聊的大人，精神状态极差，超级小透明，小号@yuuko_muyou",
-    "location": "宇宙人",
+    "description": "超级深柜，无糖，家在北京，天津上学，物种是狐狐，infj，喜欢文学和音乐，对未知保持好奇，拒绝成为无聊的大人，精神状态极差，超级小透明，小号@yuuko_muyou",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1717572275543928832/sYXph3aC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672837967436734465/1707577051",
-    "followers_count": 678,
-    "statuses_count": 1023,
-    "favourites_count": 3188,
+    "followers_count": 708,
+    "friends_count": 1558,
+    "statuses_count": 1024,
+    "favourites_count": 3093,
     "listed_count": 0,
+    "location": "宇宙人",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-06-25 13:23:57 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/MuYou17294",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjcyODM3OTY3NDM2NzM0NDY1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1717572275543928832/sYXph3aC_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jun 25 05:23:57 +0000 2023",
+            "name": "柚木夏子🍥🏳️‍⚧️",
+            "screen_name": "MuYou17294"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1443,
+            "friends_count": 1558,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 119,
@@ -44,14 +56,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "宇宙人"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1687670637000,
-            "updated_at": 1744350106481
+            "created_at": 946656000000,
+            "updated_at": 1749219074028
         }
     }
 }

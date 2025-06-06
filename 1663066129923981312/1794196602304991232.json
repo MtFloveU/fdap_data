@@ -2,30 +2,42 @@
     "id": "1794196602304991232",
     "screen_name": "pleasedotkillme",
     "name": "这实在是太糟糕了",
-    "description": "♀，she/her",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1872316771535097856/2_kt8mH-_normal.jpg",
+    "description": "♀，she/her | 03 | 碎碎念ing",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1922328121438552074/qO7ar-nn_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 34,
-    "statuses_count": 91,
-    "favourites_count": 8091,
+    "followers_count": 42,
+    "friends_count": 164,
+    "statuses_count": 114,
+    "favourites_count": 9112,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-05-25 10:39:52 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/pleasedotkillme",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk0MTk2NjAyMzA0OTkxMjMy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1922328121438552074/qO7ar-nn_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat May 25 02:39:52 +0000 2024",
+            "name": "这实在是太糟糕了",
+            "screen_name": "pleasedotkillme"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 152,
+            "friends_count": 164,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 0,
+            "media_count": 2,
             "pinned_tweet_ids_str": [
                 "1882873164210024825"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1716604792000,
-            "updated_at": 1744350099731
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

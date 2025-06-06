@@ -2,19 +2,24 @@
     "id": "992966815692226565",
     "screen_name": "Sakura_noyume",
     "name": "桜梦华&殇梦桜🏳️‍⚧️🍥",
-    "description": "❤️挚爱&妹妹@tatakige♣️|无证含糖mtf|Hrt:2023/09/10|(03/11/02)|希望和大家交朋友|INFP-T|社恐|泛性恋|同类互fo😘|负能小号.另一个我@Hana_theDream|『每一种爱都很有爱』\n淡推",
-    "location": "湖北",
+    "description": "❤️挚爱&妹妹@tatakige♣️|无证含糖mtf|Hrt:2023/09/10|(03/11/02)|希望和大家交朋友|INFP-T|社恐|泛性恋|同类互fo😘|负能小号.另一个我@Hana_theDream|『每一种爱都很有爱』",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1899630424785301504/TWgU4XFt_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/992966815692226565/1741857253",
-    "followers_count": 3649,
-    "statuses_count": 1643,
-    "favourites_count": 63702,
+    "followers_count": 3646,
+    "friends_count": 1861,
+    "statuses_count": 1680,
+    "favourites_count": 63927,
     "listed_count": 6,
+    "location": "湖北",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2018-05-06 11:18:32 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Sakura_noyume",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "tatakige"
                                         },
                                         "rest_id": "1431661541061902337"
@@ -50,12 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1899630424785301504/TWgU4XFt_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun May 06 03:18:32 +0000 2018",
+            "name": "桜梦华&殇梦桜🏳️‍⚧️🍥",
+            "screen_name": "Sakura_noyume"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -64,26 +76,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1849,
+            "friends_count": 1861,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 67,
+            "media_count": 79,
             "pinned_tweet_ids_str": [
                 "1861446218775458300"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "湖北"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1525576712000,
-            "updated_at": 1744350101511
+            "created_at": 946656000000,
+            "updated_at": 1749219071821
         }
     }
 }

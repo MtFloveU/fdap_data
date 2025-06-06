@@ -2,15 +2,15 @@
     "id": "1372184630753853444",
     "screen_name": "2temisinin",
     "name": "氯鸮西泮",
-    "description": "最爱@haku_dabai｜可以叫我鸮｜ 家长党小证MtF🏳️‍⚧️｜ Wuhan生科大一休学 ，业余药理学习中｜PCB、尼康用户、呼号BH6RQG｜彩虹六号、Noita、MC｜药物咨询@HarugumoLee｜代为めんま保存追悼账号🕯️",
-    "location": "罗德岛",
+    "description": "最爱@haku_dabai｜鸮｜呼号BH6RQG",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894978786338222080/ksYWNZSK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1372184630753853444/1679410047",
-    "followers_count": 2621,
-    "friends_count": 1582,
-    "statuses_count": 2774,
-    "favourites_count": 30246,
+    "followers_count": 2788,
+    "friends_count": 1615,
+    "statuses_count": 2970,
+    "favourites_count": 32228,
     "listed_count": 3,
+    "location": "罗德岛",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2021-03-17 21:54:56 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/2temisinin",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzcyMTg0NjMwNzUzODUzNDQ0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1894978786338222080/ksYWNZSK_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Mar 17 13:54:56 +0000 2021",
+            "name": "氯鸮西泮",
+            "screen_name": "2temisinin"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1582,
+            "friends_count": 1615,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 275,
+            "media_count": 307,
             "pinned_tweet_ids_str": [
                 "1894930997873127616"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "罗德岛"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1615989296000,
-            "updated_at": 1746277405361
+            "created_at": 946656000000,
+            "updated_at": 1749219066708
         }
     }
 }

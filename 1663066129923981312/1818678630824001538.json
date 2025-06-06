@@ -2,28 +2,42 @@
     "id": "1818678630824001538",
     "screen_name": "Misako_25ji",
     "name": "Misako～美沙子喵🏳️‍⚧️",
-    "description": "She/Her/Trans｜妹妹@koharu070210｜小狗@Silicium_28｜常驻杭州｜江浙沪可飞｜链接可以投喂哦!｜美沙的流浪生活｜🚪50 （可加微信/QQ） 推特私信免费～",
-    "location": "Inkar-usi.",
+    "description": "翻车顺男.avi｜小狗：@Silicium_28 好き@Cano_3118 @zqtlovekris99｜常驻杭州｜全国可飞｜链接可以投喂哦!｜美沙的流浪生活｜🚪50 （可加微信/QQ） 推特私信免费～",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818678630824001538/1722441982",
-    "followers_count": 1375,
-    "statuses_count": 571,
-    "favourites_count": 808,
-    "listed_count": 6,
+    "followers_count": 1725,
+    "friends_count": 871,
+    "statuses_count": 669,
+    "favourites_count": 966,
+    "listed_count": 5,
+    "location": "Inkar-usi.",
+    "website": "https://t.co/YlSr2fYWzY",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-08-01 00:02:39 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Misako_25ji",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODE4Njc4NjMwODI0MDAxNTM4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Jul 31 16:02:39 +0000 2024",
+            "name": "Misako～美沙子喵🏳️‍⚧️",
+            "screen_name": "Misako_25ji"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,7 +49,7 @@
                         {
                             "display_url": "buy.stripe.com/6oE3fLdpFdqm2q…",
                             "expanded_url": "https://buy.stripe.com/6oE3fLdpFdqm2qs9AD",
-                            "url": "https://t.co/YlSr2fYoKq",
+                            "url": "https://t.co/YlSr2fYWzY",
                             "indices": [
                                 0,
                                 23
@@ -45,29 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 780,
+            "friends_count": 871,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 133,
+            "media_count": 145,
             "pinned_tweet_ids_str": [
                 "1911389216899989608"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/YlSr2fYoKq",
-            "verified": false,
+            "url": "https://t.co/YlSr2fYWzY",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Inkar-usi."
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1722441759000,
-            "updated_at": 1746077178286
+            "created_at": 946656000000,
+            "updated_at": 1749219065464
         }
     }
 }

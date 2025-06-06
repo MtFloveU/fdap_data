@@ -2,70 +2,96 @@
     "id": "1818912725889957890",
     "screen_name": "sheng49754",
     "name": "雨昕",
-    "description": "自用可一元白嫖梯子↓",
-    "location": "重庆",
+    "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1901933422400217088/QWJ08zmD_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818912725889957890/1735992613",
-    "followers_count": 390,
-    "statuses_count": 124,
-    "favourites_count": 159,
+    "followers_count": 457,
+    "friends_count": 2117,
+    "statuses_count": 136,
+    "favourites_count": 181,
     "listed_count": 0,
+    "location": "重庆",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-08-01 15:33:10 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/sheng49754",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODE4OTEyNzI1ODg5OTU3ODkw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1901933422400217088/QWJ08zmD_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Aug 01 07:33:10 +0000 2024",
+            "name": "雨昕",
+            "screen_name": "sheng49754"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "xfx01.com/#/register?cod…",
-                            "expanded_url": "https://www.xfx01.com/#/register?code=nxsBc2MB",
-                            "url": "https://t.co/ksmVrocyt5",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1864,
+            "friends_count": 2117,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 9,
+            "media_count": 11,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/ksmVrocyt5",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "重庆"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1919988229316739214",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1722497590000,
-            "updated_at": 1744350099731
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

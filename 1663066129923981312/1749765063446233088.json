@@ -2,30 +2,42 @@
     "id": "1749765063446233088",
     "screen_name": "ChaBingovo",
     "name": "茶冰",
-    "description": "09年初中生/虾头看黄男/喜欢xyn和小男娘/INFP/性格内向/泛性恋/不回私信只是不会说话😶",
-    "location": "XinJiang",
+    "description": "09/超喜欢xyn和小男娘/INFP/泛性恋",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1765698993743646720/Be_lpq_7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749765063446233088/1709810535",
-    "followers_count": 510,
+    "followers_count": 526,
+    "friends_count": 1242,
     "statuses_count": 20,
-    "favourites_count": 2469,
+    "favourites_count": 2452,
     "listed_count": 0,
+    "location": "XinJiang",
+    "website": "https://t.co/hGBQCNk24n",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-01-23 20:04:43 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/ChaBingovo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzQ5NzY1MDYzNDQ2MjMzMDg4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1765698993743646720/Be_lpq_7_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jan 23 12:04:43 +0000 2024",
+            "name": "茶冰",
+            "screen_name": "ChaBingovo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "cha.edu.pl",
-                            "expanded_url": "https://cha.edu.pl",
-                            "url": "https://t.co/WzrgeLoeB0",
+                            "display_url": "chabing.top",
+                            "expanded_url": "https://chabing.top",
+                            "url": "https://t.co/hGBQCNk24n",
                             "indices": [
                                 0,
                                 23
@@ -47,7 +59,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1234,
+            "friends_count": 1242,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 3,
@@ -55,17 +67,34 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/WzrgeLoeB0",
-            "verified": false,
+            "url": "https://t.co/hGBQCNk24n",
             "want_retweets": false,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "XinJiang"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
         },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1706011483000,
-            "updated_at": 1744350059785
+            "created_at": 946656000000,
+            "updated_at": 1749219050498
         }
     }
 }

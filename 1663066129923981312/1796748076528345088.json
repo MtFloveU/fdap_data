@@ -2,31 +2,42 @@
     "id": "1796748076528345088",
     "screen_name": "DOUFUNAO_ever",
     "name": "速食味增汤",
-    "description": "我复活啦，我是真人请不要再封我了😭",
-    "location": "永远在你心里",
+    "description": "我不想在人际关系里被粗暴对待，我想在做爱的时候被粗暴对待",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1890036200221925376/kc-_uNmT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796748076528345088/1717214556",
-    "followers_count": 167,
-    "statuses_count": 1363,
-    "favourites_count": 21035,
+    "followers_count": 170,
+    "friends_count": 798,
+    "statuses_count": 1428,
+    "favourites_count": 22717,
     "listed_count": 1,
+    "location": "永远在你心里",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2024-06-01 11:38:51 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/DOUFUNAO_ever",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk2NzQ4MDc2NTI4MzQ1MDg4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1890036200221925376/kc-_uNmT_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 01 03:38:51 +0000 2024",
+            "name": "速食味增汤",
+            "screen_name": "DOUFUNAO_ever"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 785,
+            "friends_count": 798,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 52,
-            "pinned_tweet_ids_str": [
-                "1889406257037189501"
-            ],
+            "media_count": 58,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "永远在你心里"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1717213131000,
-            "updated_at": 1744350012584
+            "created_at": 946656000000,
+            "updated_at": 1749219026953
         }
     }
 }

@@ -2,15 +2,15 @@
     "id": "1504799211799265282",
     "screen_name": "LiuSuK7777",
     "name": "流苏",
-    "description": "顺男 |💞对象@yeziyu7777/挚友@zyh1428202",
-    "location": "被禁足 无法面基",
+    "description": "这里是流苏，Arcaea/明日方舟/舞萌DX/火影忍者，线上淫乱线下社恐，健全B无心理疾病，经常搞砸让所有人都不开心，生日2008.02.29 |唯一的主人@yeziyu7777/对象@zyh1428202 小号@Loveyezi8964",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1745545273",
-    "followers_count": 1943,
-    "friends_count": 2193,
-    "statuses_count": 23840,
-    "favourites_count": 32175,
-    "listed_count": 12,
+    "followers_count": 2111,
+    "friends_count": 2383,
+    "statuses_count": 25887,
+    "favourites_count": 34073,
+    "listed_count": 0,
+    "location": "",
     "website": "https://t.co/2xm6Tb7xPR",
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
-    "created_at": "2022-03-18 20:37:55 +08:00",
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/LiuSuK7777",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTA0Nzk5MjExNzk5MjY1Mjgy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Mar 18 12:37:55 +0000 2022",
+            "name": "流苏",
+            "screen_name": "LiuSuK7777"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -50,20 +59,25 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2193,
+            "friends_count": 2383,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1008,
+            "media_count": 1099,
             "pinned_tweet_ids_str": [
-                "1895049418031931716"
+                "1928493663765803223"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/2xm6Tb7xPR",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -72,10 +86,20 @@
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1647607075000,
-            "updated_at": 1746277401155
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

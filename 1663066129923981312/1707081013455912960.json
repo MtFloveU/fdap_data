@@ -2,31 +2,42 @@
     "id": "1707081013455912960",
     "screen_name": "Hanxue0509",
     "name": "⌬🐱晗雪🍥",
-    "description": "呜呜呜……",
-    "location": "晗雪窝",
+    "description": "🍥/游走于霓虹灯下的，梦想成为猫女仆的高三流浪猫/无论如何，很荣幸认识你",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1752204551850229760/mTKjbhTA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707081013455912960/1711371955",
-    "followers_count": 573,
-    "statuses_count": 1308,
-    "favourites_count": 20155,
+    "followers_count": 599,
+    "friends_count": 496,
+    "statuses_count": 1440,
+    "favourites_count": 21137,
     "listed_count": 2,
+    "location": "晗雪窝",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-09-28 01:13:39 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/Hanxue0509",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzA3MDgxMDEzNDU1OTEyOTYw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1752204551850229760/mTKjbhTA_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Sep 27 17:13:39 +0000 2023",
+            "name": "⌬🐱晗雪🍥",
+            "screen_name": "Hanxue0509"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 485,
+            "friends_count": 496,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 220,
+            "media_count": 237,
             "pinned_tweet_ids_str": [
-                "1820874210199384274"
+                "1919767883540005144"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "晗雪窝"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1695834819000,
-            "updated_at": 1744350115034
+            "created_at": 946656000000,
+            "updated_at": 1749219078458
         }
     }
 }

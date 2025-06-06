@@ -2,28 +2,42 @@
     "id": "1239915471945838593",
     "screen_name": "wtxycCO",
     "name": "☁️Cld🏳️‍⚧️🍥",
-    "description": "喵喵 是不太健康的小药娘喵 重重重重庆大学在读 会记录很多生活小感受 就当是个人日记好啦 不聊黄色也不聊政治(●'◡'●) 不要发黄图˃ʍ˂ （推特抱抱王(づ′▽`)づ 回fo请私信～",
-    "location": "多瑙联邦",
+    "description": "喵喵 是不太健康的小药娘喵 重重重重庆大学休学 会记录很多生活小感受 就当是个人日记好啦 不聊黄色也不聊政治(●'◡'●) 不要发黄图˃ʍ˂ （推特抱抱王(づ′▽`)づ 永远爱的人@tycwxoc",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876923727348428800/Oim2ub4Q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239915471945838593/1742518204",
-    "followers_count": 2364,
-    "statuses_count": 1079,
-    "favourites_count": 3070,
-    "listed_count": 7,
+    "followers_count": 3139,
+    "friends_count": 445,
+    "statuses_count": 1480,
+    "favourites_count": 3668,
+    "listed_count": 6,
+    "location": "多瑙联邦",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2020-03-17 22:04:30 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/wtxycCO",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjM5OTE1NDcxOTQ1ODM4NTkz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1876923727348428800/Oim2ub4Q_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Mar 17 14:04:30 +0000 2020",
+            "name": "☁️Cld🏳️‍⚧️🍥",
+            "screen_name": "wtxycCO"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 424,
+            "friends_count": 445,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 63,
+            "media_count": 92,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "多瑙联邦"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1584453870000,
-            "updated_at": 1746077173226
+            "created_at": 946656000000,
+            "updated_at": 1749219061680
         }
     }
 }

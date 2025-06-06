@@ -2,28 +2,42 @@
     "id": "1874104856375693312",
     "screen_name": "shaoxiancao520",
     "name": "烧仙草🍥🏳️‍⚧️(低价自制凝胶)",
-    "description": "mtf丨09年161cm药娘丨性别认知障碍丨双向情感障碍丨中度抑郁丨焦虑症丨高浓度二次元丨坐标郑州丨《蛊真人》死忠粉丨自介条在亮点丨一生所爱 @luo_qi_xi_ink丨低价出售高性价比自制雌二醇凝胶",
-    "location": "郑州",
+    "description": "mtf丨09年161cm药娘丨曾20小时内极限逃离扭转机构丨性别认知障碍丨双向情感障碍丨中度抑郁丨焦虑症丨跨性别女同丨回避型依恋丨高浓度二次元丨坐标郑州丨《蛊真人》死忠粉丨自介条在亮点丨\n最温柔最好的姐姐 @mnmn1876529 丨低价出售高性价比自制雌二醇凝胶 详情看置顶和亮点付款方式支持微信赞赏码或支付宝口令红包",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874107298957713408/dqy3PxZ2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874104856375693312/1736450332",
-    "followers_count": 1363,
-    "statuses_count": 424,
-    "favourites_count": 2679,
-    "listed_count": 1,
+    "followers_count": 1832,
+    "friends_count": 812,
+    "statuses_count": 464,
+    "favourites_count": 3375,
+    "listed_count": 2,
+    "location": "郑州",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-12-31 22:46:44 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/shaoxiancao520",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODc0MTA0ODU2Mzc1NjkzMzEy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1874107298957713408/dqy3PxZ2_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Dec 31 14:46:44 +0000 2024",
+            "name": "烧仙草🍥🏳️‍⚧️(低价自制凝胶)",
+            "screen_name": "shaoxiancao520"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 787,
+            "friends_count": 812,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 28,
+            "media_count": 16,
             "pinned_tweet_ids_str": [
-                "1914577836427583553"
+                "1929549431202095477"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "郑州"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -59,12 +78,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1735656404000,
-            "updated_at": 1746077174316
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

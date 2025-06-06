@@ -2,72 +2,87 @@
     "id": "1754801089587933184",
     "screen_name": "jianyuhoudan123",
     "name": "鲣鱼厚蛋烧",
-    "description": "05‖173‖mtx‖胆小鬼‖笨笨的🐟‖欢迎大家‖上学ing‖欢迎可爱宝宝‖奇怪推‖梦想成为超级大手子🙂‖遵守x规则‖不线下‖\n防失踪小号:  @jianyuhoudan12",
-    "location": "衣柜里的阴暗角落",
+    "description": "05‖173‖mtx‖胆小鬼‖呆呆的🐟‖欢迎大家‖上学ing‖欢迎可爱宝宝‖奇怪推‖梦想成为超级大手子🙂‖遵守x规则‖不线下‖没有情欲的木头人‖\n防失踪小号:  @jianyuhoudan12",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1915691452291833860/y4EkN58p_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754801089587933184/1739146247",
-    "followers_count": 2002,
-    "statuses_count": 930,
-    "favourites_count": 2383,
-    "listed_count": 8,
+    "followers_count": 4468,
+    "friends_count": 423,
+    "statuses_count": 1075,
+    "favourites_count": 2770,
+    "listed_count": 18,
+    "location": "一个充满猫猫的神秘商店",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-02-06 17:36:03 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/jianyuhoudan123",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzU0ODAxMDg5NTg3OTMzMTg0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1915691452291833860/y4EkN58p_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Feb 06 09:36:03 +0000 2024",
+            "name": "鲣鱼厚蛋烧",
+            "screen_name": "jianyuhoudan123"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "baidu.com",
-                            "expanded_url": "http://www.baidu.com",
-                            "url": "https://t.co/nZbiQNnNae",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 386,
+            "friends_count": 423,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 85,
+            "media_count": 106,
             "pinned_tweet_ids_str": [
                 "1898007902583144580"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/nZbiQNnNae",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "一个充满猫猫的神秘商店"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1707212163000,
-            "updated_at": 1746077170591
+            "created_at": 946656000000,
+            "updated_at": 1749219059243
         }
     }
 }

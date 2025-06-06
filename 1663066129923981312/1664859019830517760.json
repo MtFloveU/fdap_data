@@ -1,33 +1,43 @@
 {
     "id": "1664859019830517760",
     "screen_name": "kagurazakachiyo",
-    "name": "神楽坂千代🏳️‍⚧️",
-    "description": "别讨厌我🥺",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1816712967162925056/QM2X2ZK8_normal.jpg",
+    "name": ".",
+    "description": "🥺",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1915057104655900672/y-wLPyZ5_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 1398,
-    "statuses_count": 2861,
-    "favourites_count": 20051,
+    "followers_count": 1396,
+    "friends_count": 1999,
+    "statuses_count": 2917,
+    "favourites_count": 23722,
     "listed_count": 1,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2023-06-03 12:58:45 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/kagurazakachiyo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjY0ODU5MDE5ODMwNTE3NzYw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1915057104655900672/y-wLPyZ5_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 03 04:58:45 +0000 2023",
+            "name": ".",
+            "screen_name": "kagurazakachiyo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "notifications": true,
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -36,22 +46,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1968,
+            "friends_count": 1999,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 147,
+            "media_count": 63,
+            "notifications": true,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1685768325000,
-            "updated_at": 1744350106481
+            "created_at": 946656000000,
+            "updated_at": 1749219074028
         }
     }
 }

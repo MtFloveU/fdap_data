@@ -2,30 +2,42 @@
     "id": "1538218708879163393",
     "screen_name": "nekocatnyn",
     "name": "neko",
-    "description": "07 | mtx(male to femboy) | 南宁 | 03,24,24 | 🔗@lingqin7",
-    "location": "16.884km",
+    "description": "07 | mtx(male to femboy) | 南宁 | 03,24,24 | w/ @rong8338  |🔗 @lingqin7",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1611096891747622912/skXzRHe1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1538218708879163393/1656897317",
     "followers_count": 929,
-    "statuses_count": 831,
-    "favourites_count": 1137,
-    "listed_count": 3,
+    "friends_count": 468,
+    "statuses_count": 844,
+    "favourites_count": 1191,
+    "listed_count": 2,
+    "location": "16.884km",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
-    "created_at": "2022-06-19 01:55:49 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/nekocatnyn",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTM4MjE4NzA4ODc5MTYzMzkz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1611096891747622912/skXzRHe1_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 18 17:55:49 +0000 2022",
+            "name": "neko",
+            "screen_name": "nekocatnyn"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 467,
+            "friends_count": 468,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 65,
@@ -42,14 +54,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "16.884km"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1655574949000,
-            "updated_at": 1744350052405
+            "created_at": 946656000000,
+            "updated_at": 1749219045919
         }
     }
 }

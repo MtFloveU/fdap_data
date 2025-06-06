@@ -2,54 +2,109 @@
     "id": "1813085873598263298",
     "screen_name": "hkwxsl",
     "name": "好困我先睡了",
-    "description": "是社恐｜小动物转发bot｜💞最最最最喜欢的女孩子@Eglantine257",
-    "location": "第六病室",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1917208708645613568/2M_at-Va_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813085873598263298/1745987065",
-    "followers_count": 716,
-    "statuses_count": 529,
-    "favourites_count": 4430,
+    "description": "狸花。公的。暴躁。｜19yo｜可能是小动物转发bot｜日记本https://t.co/52Ovg3TO5F ｜最喜欢的巨大猫@Eglantine257",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929223596146311168/E_0nhMRR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813085873598263298/1746712532",
+    "followers_count": 760,
+    "friends_count": 729,
+    "statuses_count": 806,
+    "favourites_count": 6407,
     "listed_count": 4,
+    "location": "Walk on the wild side",
+    "website": "https://t.co/hDwWKFer3b",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-07-16 13:39:19 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/hkwxsl",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODEzMDg1ODczNTk4MjYzMjk4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929223596146311168/E_0nhMRR_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jul 16 05:39:19 +0000 2024",
+            "name": "好困我先睡了",
+            "screen_name": "hkwxsl"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "t.me/+QLoWmOfE4-9hN…",
+                            "expanded_url": "https://t.me/+QLoWmOfE4-9hNzM9",
+                            "url": "https://t.co/52Ovg3TO5F",
+                            "indices": [
+                                30,
+                                53
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/yswxxl",
+                            "expanded_url": "https://t.me/yswxxl",
+                            "url": "https://t.co/hDwWKFer3b",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 651,
+            "friends_count": 729,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
-            "pinned_tweet_ids_str": [],
+            "media_count": 17,
+            "pinned_tweet_ids_str": [
+                "1930644411396035046"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/hDwWKFer3b",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Walk on the wild side"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1721108359000,
-            "updated_at": 1746077184814
+            "created_at": 946656000000,
+            "updated_at": 1749219070872
         }
     }
 }

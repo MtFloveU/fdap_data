@@ -2,28 +2,42 @@
     "id": "978546324323762177",
     "screen_name": "unserialized304",
     "name": "零℃可乐🍥",
-    "description": "无证含糖 MtX/F ⚧️ | 深柜 | 忧郁呆呆 | 欢迎来贴贴~ | come full circle | 对象/妹妹 @Amikai_Haruhi",
-    "location": "KOI-4878.01",
+    "description": "MtX ⚧️ | 深柜 | 忧郁呆呆 | 欢迎来贴贴~ | come full circle | 妹妹 @Amikai_Haruhi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1903499836189741056/eYrMyff7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/978546324323762177/1721175333",
-    "followers_count": 176,
-    "statuses_count": 192,
-    "favourites_count": 4802,
+    "followers_count": 189,
+    "friends_count": 1720,
+    "statuses_count": 197,
+    "favourites_count": 4963,
     "listed_count": 0,
+    "location": "KOI-4878.01",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2018-03-27 16:16:39 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/unserialized304",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjo5Nzg1NDYzMjQzMjM3NjIxNzc=",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1903499836189741056/eYrMyff7_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Mar 27 08:16:39 +0000 2018",
+            "name": "零℃可乐🍥",
+            "screen_name": "unserialized304"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1678,
+            "friends_count": 1720,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 19,
@@ -40,16 +54,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "KOI-4878.01"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1522138599000,
-            "updated_at": 1746077174316
+            "created_at": 946656000000,
+            "updated_at": 1749219062663
         }
     }
 }

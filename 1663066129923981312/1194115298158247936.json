@@ -2,28 +2,42 @@
     "id": "1194115298158247936",
     "screen_name": "yawarakai421",
     "name": "ヤワラカイ",
-    "description": "努力学习/喜欢画画✍️/想成为温柔的魅魔/兔妹妹@miya051223/长发及腰的虚假魅魔😈/一緒懸命勉強している/魅魔になりたい/絵を描くことが大好きな/日本の愛知県に留学中",
-    "location": "日本 愛知県岡崎市",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1881855451094245376/9VKbIYQP_normal.jpg",
+    "description": "兔妹妹@miya051223/非主流时代不收味的遗老/游戏重度患者、网络赛博人、离开网络一小时会死/不是男娘非跨是个变态幻想着涩涩的双性恋（擦口水）/3D建模和绘画是花钱升级出来的技能/现在日本产品设计修士留学中（居住在名古屋周边）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1925685681621213185/-hVbekGe_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1194115298158247936/1737377004",
-    "followers_count": 1911,
-    "statuses_count": 8099,
-    "favourites_count": 29905,
+    "followers_count": 1939,
+    "friends_count": 2435,
+    "statuses_count": 8514,
+    "favourites_count": 31797,
     "listed_count": 5,
+    "location": "日本 愛知県岡崎市",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2019-11-12 12:51:11 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/yawarakai421",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTk0MTE1Mjk4MTU4MjQ3OTM2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1925685681621213185/-hVbekGe_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Nov 12 04:51:11 +0000 2019",
+            "name": "ヤワラカイ",
+            "screen_name": "yawarakai421"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,28 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2352,
+            "friends_count": 2435,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1399,
+            "media_count": 1460,
             "pinned_tweet_ids_str": [
-                "1690035772634841089"
+                "1923261107709333980"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "日本 愛知県岡崎市"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1573534271000,
-            "updated_at": 1746077180863
+            "created_at": 946656000000,
+            "updated_at": 1749219067732
         }
     }
 }
