@@ -7,10 +7,10 @@
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812419719691186176/1748955744",
     "followers_count": 963,
     "friends_count": 694,
-    "statuses_count": 5183,
-    "favourites_count": 13864,
+    "statuses_count": 5188,
+    "favourites_count": 13867,
     "listed_count": 4,
-    "location": "我的云是世界上最好最好最好最好的人",
+    "location": "我的云宝宝是世界上最好最好最好最好的人",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -49,7 +49,7 @@
             "friends_count": 694,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 11,
+            "media_count": 10,
             "pinned_tweet_ids_str": [
                 "1926225964356313109"
             ],
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "我的云是世界上最好最好最好最好的人"
+            "location": "我的云宝宝是世界上最好最好最好最好的人"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -80,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 946656000000,
-            "updated_at": 1749219067733
+            "updated_at": 1749254095497
         }
     }
 }

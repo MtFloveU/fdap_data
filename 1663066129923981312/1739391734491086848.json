@@ -2,13 +2,13 @@
     "id": "1739391734491086848",
     "screen_name": "IXXA00",
     "name": "卖货小妹isla",
-    "description": "日常推。有门槛。",
+    "description": "我就这样独自盛开。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1747167435",
     "followers_count": 3695,
-    "friends_count": 3049,
-    "statuses_count": 22471,
-    "favourites_count": 22952,
+    "friends_count": 3050,
+    "statuses_count": 22512,
+    "favourites_count": 22985,
     "listed_count": 7,
     "location": "你不知道的地方",
     "website": null,
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3049,
+            "friends_count": 3050,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1671,
+            "media_count": 1673,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -80,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 946656000000,
-            "updated_at": 1749219078458
+            "updated_at": 1749254104278
         }
     }
 }

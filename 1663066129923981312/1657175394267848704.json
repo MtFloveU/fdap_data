@@ -15,7 +15,7 @@
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "can_dm": true,
     "protected": false,
@@ -68,7 +68,7 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/yxR4GeWz6U",
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
@@ -84,7 +84,7 @@
         },
         "relationship_perspectives": {
             "followed_by": true,
-            "following": false
+            "following": true
         },
         "tipjar_settings": {},
         "verification": {
@@ -92,7 +92,7 @@
         },
         "twe_private_fields": {
             "created_at": 946656000000,
-            "updated_at": 1749219038641
+            "updated_at": 1749254086258
         }
     }
 }

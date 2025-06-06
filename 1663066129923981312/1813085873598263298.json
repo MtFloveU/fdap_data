@@ -2,16 +2,16 @@
     "id": "1813085873598263298",
     "screen_name": "hkwxsl",
     "name": "好困我先睡了",
-    "description": "狸花。公的。暴躁。｜19yo｜可能是小动物转发bot｜日记本https://t.co/52Ovg3TO5F ｜最喜欢的巨大猫@Eglantine257",
+    "description": "狸花。公的。暴躁。｜19yo｜可能是小动物转发bot｜最喜欢的巨大猫@Eglantine257",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1929223596146311168/E_0nhMRR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813085873598263298/1746712532",
-    "followers_count": 760,
-    "friends_count": 729,
-    "statuses_count": 806,
-    "favourites_count": 6407,
+    "followers_count": 759,
+    "friends_count": 728,
+    "statuses_count": 796,
+    "favourites_count": 6417,
     "listed_count": 4,
     "location": "Walk on the wild side",
-    "website": "https://t.co/hDwWKFer3b",
+    "website": "https://t.co/vBp7O5LbaJ",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -42,24 +42,14 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/+QLoWmOfE4-9hN…",
-                            "expanded_url": "https://t.me/+QLoWmOfE4-9hNzM9",
-                            "url": "https://t.co/52Ovg3TO5F",
-                            "indices": [
-                                30,
-                                53
-                            ]
-                        }
-                    ]
+                    "urls": []
                 },
                 "url": {
                     "urls": [
                         {
-                            "display_url": "t.me/yswxxl",
-                            "expanded_url": "https://t.me/yswxxl",
-                            "url": "https://t.co/hDwWKFer3b",
+                            "display_url": "chinafxj.cn",
+                            "expanded_url": "https://www.chinafxj.cn",
+                            "url": "https://t.co/vBp7O5LbaJ",
                             "indices": [
                                 0,
                                 23
@@ -69,17 +59,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 729,
+            "friends_count": 728,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 17,
+            "media_count": 16,
             "pinned_tweet_ids_str": [
                 "1930644411396035046"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/hDwWKFer3b",
+            "url": "https://t.co/vBp7O5LbaJ",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -104,7 +94,7 @@
         },
         "twe_private_fields": {
             "created_at": 946656000000,
-            "updated_at": 1749219070872
+            "updated_at": 1749254098166
         }
     }
 }

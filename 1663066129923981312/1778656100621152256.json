@@ -3,18 +3,23 @@
     "screen_name": "KagurazakaSusie",
     "name": "神楽坂 蘇西🍥🏳️‍⚧️",
     "description": "@Susiethegamer的赛博骨灰盒",
-    "location": "Shinagawa-ku, Tokyo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1837807280605233152/8kyTT6Xq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778656100621152256/1727002386",
-    "followers_count": 168,
+    "followers_count": 167,
+    "friends_count": 189,
     "statuses_count": 357,
-    "favourites_count": 1755,
+    "favourites_count": 1740,
     "listed_count": 0,
+    "location": "東京 品川区",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2024-04-12 13:27:23 +08:00",
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/KagurazakaSusie",
     "metadata": {
         "__typename": "User",
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "JR_YamanoteE235"
                                         },
                                         "rest_id": "1688233455363219456"
@@ -50,13 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1837807280605233152/8kyTT6Xq_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Apr 12 05:27:23 +0000 2024",
+            "name": "神楽坂 蘇西🍥🏳️‍⚧️",
+            "screen_name": "KagurazakaSusie"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -65,7 +76,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 192,
+            "friends_count": 189,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 31,
@@ -75,14 +86,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "東京 品川区"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1712899643000,
-            "updated_at": 1744350090667
+            "created_at": 946656000000,
+            "updated_at": 1749254096363
         }
     }
 }
