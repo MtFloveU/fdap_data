@@ -1,7 +1,6 @@
-🕒Time: `2025-06-07 07:55:33 `
-📊Total followers: `1288`, following: `1027`
+🕒Time: `2025-06-07 20:29:20 `
+📊Total followers: `1286`, following: `1026`
 *Mutual Unfollow or Removal:*
-`kayo` @`sakumamutsuki`
-`🍥风夕雨` @`Kaze_Shiku`
-`平靜如水🇨🇳` @`PJRSYA520_cn`
+`-He11sPike-` @`DorkedPard`
+`王` @`w1a2ng`
 

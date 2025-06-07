@@ -1,31 +1,43 @@
 {
     "id": "1521071846128562182",
     "screen_name": "ZhuoZheng1990",
-    "name": "春薄日浓🍥",
+    "name": "拙正🍥",
     "description": "春，追寻真诚，表达心声。妹妹@fec222985075262",
-    "location": "中国",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1906716567527952385/svF-q1lO_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521071846128562182/1741804514",
-    "followers_count": 650,
-    "statuses_count": 3350,
-    "favourites_count": 4753,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1931273145769672705/KJAxiLMu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521071846128562182/1745933892",
+    "followers_count": 646,
+    "friends_count": 590,
+    "statuses_count": 3462,
+    "favourites_count": 4869,
     "listed_count": 7,
+    "location": "中国",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
-    "created_at": "2022-05-02 18:19:37 +08:00",
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2000-01-01 00:00:00 +08:00",
     "url": "https://twitter.com/ZhuoZheng1990",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTIxMDcxODQ2MTI4NTYyMTgy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1931273145769672705/KJAxiLMu_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon May 02 10:19:37 +0000 2022",
+            "name": "拙正🍥",
+            "screen_name": "ZhuoZheng1990"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,29 +46,46 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 623,
+            "friends_count": 590,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 55,
+            "media_count": 60,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "中国"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1538549717772054528",
             "professional_type": "Business",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
-            "created_at": 1651486777000,
-            "updated_at": 1744350101510
+            "created_at": 946656000000,
+            "updated_at": 1749299318460
         }
     }
 }

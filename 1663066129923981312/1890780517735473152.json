@@ -2,15 +2,15 @@
     "id": "1890780517735473152",
     "screen_name": "wtswaishiteruyo",
     "name": "I love You",
-    "description": "im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy i dont wanna be",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1929562149925593088/MSeA3FeN_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890780517735473152/1749040693",
-    "followers_count": 391,
-    "friends_count": 340,
-    "statuses_count": 4873,
-    "favourites_count": 12792,
-    "listed_count": 0,
-    "location": "天堂会有毒品吗",
+    "description": "我来自天堂。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1931271395851554816/YaPlBkSU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890780517735473152/1749286009",
+    "followers_count": 403,
+    "friends_count": 345,
+    "statuses_count": 5076,
+    "favourites_count": 13135,
+    "listed_count": 2,
+    "location": "天堂会有毒品",
     "website": "https://t.co/qFkb2xwIVC",
     "birthdate": null,
     "verified_type": null,
@@ -26,7 +26,7 @@
         "id": "VXNlcjoxODkwNzgwNTE3NzM1NDczMTUy",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1929562149925593088/MSeA3FeN_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1931271395851554816/YaPlBkSU_normal.jpg"
         },
         "core": {
             "created_at": "Sat Feb 15 15:09:54 +0000 2025",
@@ -59,12 +59,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 340,
+            "friends_count": 345,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 332,
+            "media_count": 362,
             "pinned_tweet_ids_str": [
-                "1930636351239794759"
+                "1931117926675030349"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -74,7 +74,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "天堂会有毒品吗"
+            "location": "天堂会有毒品"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -94,7 +94,7 @@
         },
         "twe_private_fields": {
             "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "updated_at": 1749299305281
         }
     }
 }

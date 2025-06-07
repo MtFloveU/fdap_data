@@ -5,13 +5,13 @@
     "description": "Cantonese people 🎭。\nAn ordinary Sun faction❂。\nA madman who longs for redemption🌐",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1913160317326315520/KuwpNZKQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769077333766598656/1748162771",
-    "followers_count": 102,
+    "followers_count": 101,
     "friends_count": 64,
-    "statuses_count": 2812,
-    "favourites_count": 5787,
+    "statuses_count": 2838,
+    "favourites_count": 5857,
     "listed_count": 1,
-    "location": "Greater China",
-    "website": "https://t.co/QWge7ujfMW",
+    "location": "Greater China Cantonese Region",
+    "website": "https://t.co/QWge7ujNCu",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -49,7 +49,7 @@
                         {
                             "display_url": "616.sb",
                             "expanded_url": "http://616.sb",
-                            "url": "https://t.co/QWge7ujfMW",
+                            "url": "https://t.co/QWge7ujNCu",
                             "indices": [
                                 0,
                                 23
@@ -69,12 +69,12 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/QWge7ujfMW",
+            "url": "https://t.co/QWge7ujNCu",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "Greater China"
+            "location": "Greater China Cantonese Region"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -86,8 +86,8 @@
             "professional_type": "Creator",
             "category": [
                 {
-                    "id": 934,
-                    "name": "Social Media Influencer",
+                    "id": 563,
+                    "name": "Funeral & Cemeteries Services",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
@@ -107,7 +107,7 @@
         },
         "twe_private_fields": {
             "created_at": 946656000000,
-            "updated_at": 1749219074028
+            "updated_at": 1749299320808
         }
     }
 }

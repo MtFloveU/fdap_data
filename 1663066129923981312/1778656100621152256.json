@@ -10,7 +10,7 @@
     "statuses_count": 357,
     "favourites_count": 1740,
     "listed_count": 0,
-    "location": "東京 品川区",
+    "location": "Shinagawa-ku, Tokyo",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -90,7 +90,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "東京 品川区"
+            "location": "Shinagawa-ku, Tokyo"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -110,7 +110,7 @@
         },
         "twe_private_fields": {
             "created_at": 946656000000,
-            "updated_at": 1749254096363
+            "updated_at": 1749299314683
         }
     }
 }
