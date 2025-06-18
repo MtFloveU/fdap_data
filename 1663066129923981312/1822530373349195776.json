@@ -2,13 +2,13 @@
     "id": "1822530373349195776",
     "screen_name": "TaoWen44377",
     "name": "猫闻百合",
-    "description": "14岁小男娘一枚😇",
+    "description": "11年😇|159cm|47kg|男娘|NO吃🍥|NO od",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1929411908211257344/EnMMM1Ev_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822530373349195776/1748842618",
-    "followers_count": 12,
-    "friends_count": 148,
-    "statuses_count": 34,
-    "favourites_count": 707,
+    "followers_count": 34,
+    "friends_count": 168,
+    "statuses_count": 23,
+    "favourites_count": 767,
     "listed_count": 0,
     "location": "china",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-08-11 15:08:07 +08:00",
     "url": "https://twitter.com/TaoWen44377",
     "metadata": {
         "__typename": "User",
@@ -46,11 +46,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 148,
+            "friends_count": 168,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1,
-            "pinned_tweet_ids_str": [],
+            "media_count": 4,
+            "pinned_tweet_ids_str": [
+                "1934626650656002432"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -77,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219044314
+            "created_at": 1723360087000,
+            "updated_at": 1750232243720
         }
     }
 }

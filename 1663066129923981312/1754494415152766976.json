@@ -5,12 +5,12 @@
     "description": "勇敢的人先享受世界",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906843104918769664/5Uc-gZdQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754494415152766976/1745917835",
-    "followers_count": 3486,
-    "friends_count": 1638,
-    "statuses_count": 7285,
-    "favourites_count": 10782,
-    "listed_count": 0,
-    "location": "沙坪坝",
+    "followers_count": 3506,
+    "friends_count": 1658,
+    "statuses_count": 8142,
+    "favourites_count": 11636,
+    "listed_count": 8,
+    "location": "也是一种独特的人生体验了",
     "website": "https://t.co/O8fBywpKvQ",
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-02-05 21:17:29 +08:00",
     "url": "https://twitter.com/Xinyi_ADHD",
     "metadata": {
         "__typename": "User",
@@ -59,12 +59,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1638,
+            "friends_count": 1658,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 741,
+            "media_count": 787,
             "pinned_tweet_ids_str": [
-                "1929922204764123503"
+                "1932448312701182085"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -74,7 +74,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "沙坪坝"
+            "location": "也是一种独特的人生体验了"
         },
         "media_permissions": {
             "can_media_tag": true
@@ -93,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219076818
+            "created_at": 1707139049000,
+            "updated_at": 1750232282149
         }
     }
 }

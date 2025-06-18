@@ -2,13 +2,13 @@
     "id": "1093000591104569345",
     "screen_name": "biliacat_public",
     "name": "Sociology Meow🚩🏴",
-    "description": "intersex/ASD/anarcha-feminist/@CyouSakura",
+    "description": "ASD/intersex/anarcha-feminist/@CyouSakura",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1794230733130895360/hthmJ5Du_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093000591104569345/1685189889",
-    "followers_count": 11077,
-    "friends_count": 4071,
-    "statuses_count": 119,
-    "favourites_count": 39224,
+    "followers_count": 11174,
+    "friends_count": 4081,
+    "statuses_count": 171,
+    "favourites_count": 39572,
     "listed_count": 9,
     "location": "東方蓬莱仙境",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2019-02-06 12:17:02 +08:00",
     "url": "https://twitter.com/biliacat_public",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 4071,
+            "friends_count": 4081,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1,
+            "media_count": 3,
             "pinned_tweet_ids_str": [
                 "1922319556799766687"
             ],
@@ -90,8 +90,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219079495
+            "created_at": 1549426622000,
+            "updated_at": 1750232284269
         }
     }
 }

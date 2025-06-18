@@ -1,14 +1,14 @@
 {
     "id": "1657175394267848704",
     "screen_name": "Zh40Le1ZOOB",
-    "name": "nixpkgs#command_block | happy 8964",
-    "description": "NixOS 用户，Nix Pure 原教旨主义者；反对 module system，拒绝 out of store symlink；讨厌 Home Manager，symlinkJoin makeWrapper 配置一切",
+    "name": "nixpkgs#command_block | not Drum & Bass listener",
+    "description": "⚡Uplifting Trance⚡",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 578,
-    "friends_count": 481,
-    "statuses_count": 4088,
-    "favourites_count": 5349,
+    "followers_count": 596,
+    "friends_count": 494,
+    "statuses_count": 4219,
+    "favourites_count": 5539,
     "listed_count": 1,
     "location": "",
     "website": "https://t.co/yxR4GeWz6U",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-05-13 08:10:35 +08:00",
     "url": "https://twitter.com/Zh40Le1ZOOB",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat May 13 00:10:35 +0000 2023",
-            "name": "nixpkgs#command_block | happy 8964",
+            "name": "nixpkgs#command_block | not Drum & Bass listener",
             "screen_name": "Zh40Le1ZOOB"
         },
         "dm_permissions": {
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 481,
+            "friends_count": 494,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 16,
+            "media_count": 19,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -91,8 +91,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749254086258
+            "created_at": 1683936635000,
+            "updated_at": 1750232254497
         }
     }
 }

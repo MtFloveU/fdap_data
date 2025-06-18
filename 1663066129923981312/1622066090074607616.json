@@ -2,13 +2,13 @@
     "id": "1622066090074607616",
     "screen_name": "hoshinofujivy",
     "name": "星野ふじ",
-    "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+    "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_(不知道怎么介绍）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622066090074607616/1749044382",
-    "followers_count": 1326,
-    "friends_count": 2377,
-    "statuses_count": 4614,
-    "favourites_count": 19891,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622066090074607616/1749803075",
+    "followers_count": 1369,
+    "friends_count": 2439,
+    "statuses_count": 5048,
+    "favourites_count": 21405,
     "listed_count": 2,
     "location": "日本 京都",
     "website": "https://t.co/CgxvdN2DbO",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-02-05 10:54:57 +08:00",
     "url": "https://twitter.com/hoshinofujivy",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2377,
+            "friends_count": 2439,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 410,
+            "media_count": 444,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -91,8 +91,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219065464
+            "created_at": 1675565697000,
+            "updated_at": 1750232261519
         }
     }
 }

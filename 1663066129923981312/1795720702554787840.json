@@ -1,0 +1,86 @@
+{
+    "id": "1795720702554787840",
+    "screen_name": "ErinJohnso30164",
+    "name": "虚无味*薯片//🍥",
+    "description": "一只药娘/无人在意/意识流选手/一缕魂魄罢了..接线下 🚪看置顶内容",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1863112523630710785/PUc7HdSb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795720702554787840/1732354838",
+    "followers_count": 1575,
+    "friends_count": 778,
+    "statuses_count": 125,
+    "favourites_count": 210,
+    "listed_count": 4,
+    "location": "福建",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2024-05-29 15:36:03 +08:00",
+    "url": "https://twitter.com/ErinJohnso30164",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzk1NzIwNzAyNTU0Nzg3ODQw",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1863112523630710785/PUc7HdSb_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed May 29 07:36:03 +0000 2024",
+            "name": "虚无味*薯片//🍥",
+            "screen_name": "ErinJohnso30164"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": false,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 778,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 24,
+            "pinned_tweet_ids_str": [
+                "1920824389882315179"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "福建"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1716968163000,
+            "updated_at": 1750232237870
+        }
+    }
+}

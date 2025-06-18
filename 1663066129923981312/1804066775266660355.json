@@ -2,30 +2,42 @@
     "id": "1804066775266660355",
     "screen_name": "xixue_1",
     "name": "雪❄️",
-    "description": "在春天冬眠💤",
-    "location": "",
+    "description": "在夏天冬眠💤",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895872421615534080/b4d-WU4m_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804066775266660355/1740845119",
-    "followers_count": 560,
-    "statuses_count": 16,
-    "favourites_count": 1463,
+    "followers_count": 554,
+    "friends_count": 324,
+    "statuses_count": 15,
+    "favourites_count": 1485,
     "listed_count": 3,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-06-21 16:20:23 +08:00",
     "url": "https://twitter.com/xixue_1",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODA0MDY2Nzc1MjY2NjYwMzU1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1895872421615534080/b4d-WU4m_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jun 21 08:20:23 +0000 2024",
+            "name": "雪❄️",
+            "screen_name": "xixue_1"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 328,
+            "friends_count": 324,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 0,
@@ -42,16 +54,33 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1718958023000,
-            "updated_at": 1744350103152
+            "updated_at": 1750232279957
         }
     }
 }

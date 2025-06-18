@@ -1,14 +1,14 @@
 {
     "id": "1678688720126627841",
     "screen_name": "xianjing_youhu",
-    "name": "仙境幽狐🍥 🍦(⁠*⁠´⁠ω⁠｀⁠*⁠)",
+    "name": "仙境幽狐🍦",
     "description": "想变成猫猫にゃ〜 | 可以叫我狐狐喵〜 | 07.02.22 | INFJ | HRT 24.10.10- | JLPT N1 | 长居 上海 重庆 东京 | 泛性恋 | 喜欢可爱的东西 | 火车迷 飞友 交通吃 | 想要变得可爱 | 喜欢涩涩 | 求fo喵(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡ | ♥️ @hcrk862",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1896395276773920768/MrIgd8kY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678688720126627841/1694127878",
-    "followers_count": 1442,
-    "friends_count": 694,
-    "statuses_count": 1841,
-    "favourites_count": 11751,
+    "followers_count": 1454,
+    "friends_count": 728,
+    "statuses_count": 1980,
+    "favourites_count": 12940,
     "listed_count": 2,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-07-11 16:53:09 +08:00",
     "url": "https://twitter.com/xianjing_youhu",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Tue Jul 11 08:53:09 +0000 2023",
-            "name": "仙境幽狐🍥 🍦(⁠*⁠´⁠ω⁠｀⁠*⁠)",
+            "name": "仙境幽狐🍦",
             "screen_name": "xianjing_youhu"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 694,
+            "friends_count": 728,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 699,
+            "media_count": 747,
             "pinned_tweet_ids_str": [
                 "1926663500224471230"
             ],
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749254091616
+            "created_at": 1689065589000,
+            "updated_at": 1750232259424
         }
     }
 }

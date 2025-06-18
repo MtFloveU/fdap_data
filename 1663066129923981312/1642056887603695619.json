@@ -2,13 +2,13 @@
     "id": "1642056887603695619",
     "screen_name": "Luminme_SL",
     "name": "️‍⚧️Lumin♥️",
-    "description": "多意識體，無性別，afab，代詞為THEY/THEM | 主要內容為記錄日常和表達內心，偶爾od💊 | 勵志關注全中推的afab跨性別",
+    "description": "多意識體，無性別，afab，代詞為THEY/THEM | 主要內容為情緒垃圾桶🗑️和表達內心，偶爾od💊 | 勵志關注全中推的afab跨性別",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1925961659106902016/bFzlO4e__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642056887603695619/1738606728",
-    "followers_count": 1007,
+    "followers_count": 1002,
     "friends_count": 113,
-    "statuses_count": 2748,
-    "favourites_count": 4750,
+    "statuses_count": 2777,
+    "favourites_count": 4766,
     "listed_count": 1,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": null,
     "can_dm": false,
     "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-04-01 14:51:06 +08:00",
     "url": "https://twitter.com/Luminme_SL",
     "metadata": {
         "__typename": "User",
@@ -49,7 +49,7 @@
             "friends_count": 113,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 49,
+            "media_count": 53,
             "pinned_tweet_ids_str": [
                 "1886482580192845930"
             ],
@@ -78,8 +78,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219079495
+            "created_at": 1680331866000,
+            "updated_at": 1750232284269
         }
     }
 }

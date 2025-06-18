@@ -1,14 +1,14 @@
 {
     "id": "1848778576507842560",
     "screen_name": "LovelyCheshire_",
-    "name": "那一天的坂下，六花起来~",
-    "description": "❤️",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1929187459512102912/JMDsOdno_normal.jpg",
+    "name": "根據我的了解，坂下根本不禁止翻牆，台灣網路都在說他們是要翻牆，他們只是要多付一個叫六花的費用",
+    "description": "休息中，暂不常上推喔",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1931201892593594368/Kf3dI50P_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848778576507842560/1748415653",
-    "followers_count": 728,
-    "friends_count": 254,
-    "statuses_count": 2145,
-    "favourites_count": 4375,
+    "followers_count": 746,
+    "friends_count": 256,
+    "statuses_count": 2252,
+    "favourites_count": 4600,
     "listed_count": 0,
     "location": "樱丘女子高等学校轻音部",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-10-23 01:29:09 +08:00",
     "url": "https://twitter.com/LovelyCheshire_",
     "metadata": {
         "__typename": "User",
@@ -56,11 +56,11 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1929187459512102912/JMDsOdno_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1931201892593594368/Kf3dI50P_normal.jpg"
         },
         "core": {
             "created_at": "Tue Oct 22 17:29:09 +0000 2024",
-            "name": "那一天的坂下，六花起来~",
+            "name": "根據我的了解，坂下根本不禁止翻牆，台灣網路都在說他們是要翻牆，他們只是要多付一個叫六花的費用",
             "screen_name": "LovelyCheshire_"
         },
         "dm_permissions": {
@@ -76,10 +76,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 254,
+            "friends_count": 256,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 421,
+            "media_count": 432,
             "pinned_tweet_ids_str": [
                 "1901191209315672294"
             ],
@@ -109,8 +109,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219065464
+            "created_at": 1729618149000,
+            "updated_at": 1750232261520
         }
     }
 }

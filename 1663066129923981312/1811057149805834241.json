@@ -2,14 +2,14 @@
     "id": "1811057149805834241",
     "screen_name": "Tarimarl",
     "name": "Tarimar",
-    "description": "中考淡推中…",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1921943060046327808/h6AtL9dt_normal.jpg",
+    "description": "我来自地狱  |  只是随处可见的普通人  |  玩推特是为了记录生活、发疯、交朋友…  |  想成为温柔的人  |  男的",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1934141564152086528/JPmumLWG_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811057149805834241/1747061967",
-    "followers_count": 298,
+    "followers_count": 297,
     "friends_count": 372,
-    "statuses_count": 632,
-    "favourites_count": 3251,
-    "listed_count": 0,
+    "statuses_count": 675,
+    "favourites_count": 3394,
+    "listed_count": 1,
     "location": "距您＜5km",
     "website": null,
     "birthdate": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-07-10 23:17:40 +08:00",
     "url": "https://twitter.com/Tarimarl",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODExMDU3MTQ5ODA1ODM0MjQx",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1921943060046327808/h6AtL9dt_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1934141564152086528/JPmumLWG_normal.jpg"
         },
         "core": {
             "created_at": "Wed Jul 10 15:17:40 +0000 2024",
@@ -49,8 +49,10 @@
             "friends_count": 372,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 93,
-            "pinned_tweet_ids_str": [],
+            "media_count": 100,
+            "pinned_tweet_ids_str": [
+                "1934212952963657774"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -77,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219060359
+            "created_at": 1720624660000,
+            "updated_at": 1750232256648
         }
     }
 }

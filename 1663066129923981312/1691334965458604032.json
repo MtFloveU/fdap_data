@@ -2,15 +2,15 @@
     "id": "1691334965458604032",
     "screen_name": "Siyan_Xiao",
     "name": "思言",
-    "description": "#ts #人妖小跨妹/现居🇬🇧//奇幻迷/历史迷/喜欢旅行/是只海豹宝宝，打一下不会哭，会咬你一口/鲨鱼妹妹：@Sharkie_4005/一般分享些日常",
+    "description": "#ts #mtf//奇幻迷/历史迷/喜欢旅行/是只海豹宝宝，打一下不会哭，会咬你一口/鲨鱼妹妹：@Sharkie_4005/一般分享些日常",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1920615580484206592/JOXqPCSA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691334965458604032/1746746671",
-    "followers_count": 4390,
-    "friends_count": 1256,
-    "statuses_count": 14280,
-    "favourites_count": 37607,
-    "listed_count": 19,
-    "location": "London, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "followers_count": 4443,
+    "friends_count": 1259,
+    "statuses_count": 14149,
+    "favourites_count": 37935,
+    "listed_count": 20,
+    "location": "London, United Kingdom🇬🇧",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-08-15 14:24:34 +08:00",
     "url": "https://twitter.com/Siyan_Xiao",
     "metadata": {
         "__typename": "User",
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1256,
+            "friends_count": 1259,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 749,
+            "media_count": 615,
             "pinned_tweet_ids_str": [
-                "1859753953812152815"
+                "1931243416513400839"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "London, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+            "location": "London, United Kingdom🇬🇧"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -81,8 +81,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749254104278
+            "created_at": 1692080674000,
+            "updated_at": 1750232283136
         }
     }
 }

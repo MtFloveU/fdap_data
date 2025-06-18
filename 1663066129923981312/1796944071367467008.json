@@ -1,14 +1,14 @@
 {
     "id": "1796944071367467008",
     "screen_name": "vkontakteluv",
-    "name": "🐱Ivanovna",
-    "description": "join in my Minecraft Realm: https://t.co/Cq3SxGQ1eL",
+    "name": "トントントントントントントントンサフル",
+    "description": "你好(´▽｀) 天天开心哦",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916004288255455232/yoUjtWC3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796944071367467008/1731602390",
-    "followers_count": 476,
-    "friends_count": 1614,
-    "statuses_count": 2736,
-    "favourites_count": 5479,
+    "followers_count": 489,
+    "friends_count": 1649,
+    "statuses_count": 2893,
+    "favourites_count": 5684,
     "listed_count": 2,
     "location": "China",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-06-02 00:37:18 +08:00",
     "url": "https://twitter.com/vkontakteluv",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat Jun 01 16:37:18 +0000 2024",
-            "name": "🐱Ivanovna",
+            "name": "トントントントントントントントンサフル",
             "screen_name": "vkontakteluv"
         },
         "dm_permissions": {
@@ -42,24 +42,14 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "vk.me/join/v8DBqAWFO…",
-                            "expanded_url": "https://vk.me/join/v8DBqAWFO24hkMocGevQcFPLJoyhEWDDMso=",
-                            "url": "https://t.co/Cq3SxGQ1eL",
-                            "indices": [
-                                28,
-                                51
-                            ]
-                        }
-                    ]
+                    "urls": []
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1614,
+            "friends_count": 1649,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 126,
+            "media_count": 131,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -87,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219068775
+            "created_at": 1717259838000,
+            "updated_at": 1750232264361
         }
     }
 }

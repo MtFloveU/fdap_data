@@ -2,13 +2,13 @@
     "id": "978546324323762177",
     "screen_name": "unserialized304",
     "name": "零℃可乐🍥",
-    "description": "MtX ⚧️ | 深柜 | 忧郁呆呆 | 欢迎来贴贴~ | come full circle | 妹妹 @Amikai_Haruhi",
+    "description": "无证含糖 MtX ⚧️ | 深柜 | 忧郁呆呆 | 欢迎来贴贴~ | come full circle | 妹妹 @Amikai_Haruhi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1903499836189741056/eYrMyff7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/978546324323762177/1721175333",
-    "followers_count": 189,
-    "friends_count": 1720,
-    "statuses_count": 197,
-    "favourites_count": 4963,
+    "followers_count": 194,
+    "friends_count": 1758,
+    "statuses_count": 201,
+    "favourites_count": 5062,
     "listed_count": 0,
     "location": "KOI-4878.01",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2018-03-27 16:16:39 +08:00",
     "url": "https://twitter.com/unserialized304",
     "metadata": {
         "__typename": "User",
@@ -46,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1720,
+            "friends_count": 1758,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 19,
@@ -77,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219062663
+            "created_at": 1522138599000,
+            "updated_at": 1750232258410
         }
     }
 }

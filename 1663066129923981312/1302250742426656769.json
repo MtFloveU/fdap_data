@@ -2,30 +2,42 @@
     "id": "1302250742426656769",
     "screen_name": "Kaze_337",
     "name": "季风",
-    "description": "大学牲/日本語を勉強しています/转发bot(bushi)/🚫广告🚫机器人/大家都要好好的😢",
-    "location": "幻想鄉",
+    "description": "大学牲/日本語を勉強しています/点赞bot(bushi)/🚫广告🚫机器人/大家都要好好的😢",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1820799500614799360/aBJgvljM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1302250742426656769/1720104905",
-    "followers_count": 372,
-    "statuses_count": 232,
-    "favourites_count": 43388,
+    "followers_count": 359,
+    "friends_count": 743,
+    "statuses_count": 251,
+    "favourites_count": 49984,
     "listed_count": 3,
+    "location": "幻想鄉",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2020-09-05 22:22:37 +08:00",
     "url": "https://twitter.com/Kaze_337",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzAyMjUwNzQyNDI2NjU2NzY5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1820799500614799360/aBJgvljM_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Sep 05 14:22:37 +0000 2020",
+            "name": "季风",
+            "screen_name": "Kaze_337"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 725,
+            "friends_count": 743,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 24,
+            "media_count": 32,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "幻想鄉"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1599315757000,
-            "updated_at": 1744350042027
+            "updated_at": 1750232239761
         }
     }
 }

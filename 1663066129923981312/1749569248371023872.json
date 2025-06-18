@@ -1,16 +1,16 @@
 {
     "id": "1749569248371023872",
     "screen_name": "Eureka222323",
-    "name": "优莱卡Eureka 阮玲玉🇭🇰",
+    "name": "优莱卡Eureka 阮玲玉",
     "description": "HK 18｜阮玲玉｜长期孤独康复中小女孩｜❤️@FoxRed695449｜繁简EN｜白柳玲玉 しらやなぎ レイギョク｜香港穷鬼一个| 逃生舱 @eureka2223232",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1749569308483878912/IAnVW-uw_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749569248371023872/1740729179",
-    "followers_count": 845,
-    "friends_count": 1448,
-    "statuses_count": 7512,
-    "favourites_count": 38930,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749569248371023872/1749646692",
+    "followers_count": 844,
+    "friends_count": 1461,
+    "statuses_count": 7852,
+    "favourites_count": 40524,
     "listed_count": 3,
-    "location": "香港 垃圾桶 HK Litter collector",
+    "location": "不要离开",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-01-23 07:06:35 +08:00",
     "url": "https://twitter.com/Eureka222323",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Mon Jan 22 23:06:35 +0000 2024",
-            "name": "优莱卡Eureka 阮玲玉🇭🇰",
+            "name": "优莱卡Eureka 阮玲玉",
             "screen_name": "Eureka222323"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1448,
+            "friends_count": 1461,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 623,
+            "media_count": 669,
             "pinned_tweet_ids_str": [
                 "1924875679801475234"
             ],
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "香港 垃圾桶 HK Litter collector"
+            "location": "不要离开"
         },
         "media_permissions": {
             "can_media_tag": true
@@ -81,8 +81,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1705964795000,
+            "updated_at": 1750232254497
         }
     }
 }

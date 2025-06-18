@@ -1,15 +1,15 @@
 {
     "id": "1670362954590728197",
-    "screen_name": "baizhou_kawaii",
-    "name": "啊啊啊啊啊啊啊啊啊啊啊你是一个白粥啊啊啊啊啊啊啊啊啊啊啊啊啊🍥🏳️‍⚧️🌂",
-    "description": "07| MTX🏳️‍⚧️|:HRT：2025/01/14|无证含糖｜Asexuality｜🍋@kiriyama_lemon清酱@heiwawomamore妈妈@asahi_jx 小语@charming_xiaoyu杂鱼兰@Inwal3310 姐姐@VicoOci",
+    "screen_name": "Citricacid_bz",
+    "name": "枸橼酸白粥缓释片",
+    "description": "友跨顺男 HRT：2025/01/14 唯有你是我的音乐@kiriyama_hitori",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1930857151398133760/9OCPjCmH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670362954590728197/1749056504",
-    "followers_count": 784,
-    "friends_count": 1093,
-    "statuses_count": 2972,
-    "favourites_count": 12577,
-    "listed_count": 0,
+    "followers_count": 795,
+    "friends_count": 1129,
+    "statuses_count": 3031,
+    "favourites_count": 13077,
+    "listed_count": 2,
     "location": "土星",
     "website": null,
     "birthdate": null,
@@ -19,8 +19,8 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/baizhou_kawaii",
+    "created_at": "2023-06-18 17:29:12 +08:00",
+    "url": "https://twitter.com/Citricacid_bz",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjcwMzYyOTU0NTkwNzI4MTk3",
@@ -60,8 +60,8 @@
         },
         "core": {
             "created_at": "Sun Jun 18 09:29:12 +0000 2023",
-            "name": "啊啊啊啊啊啊啊啊啊啊啊你是一个白粥啊啊啊啊啊啊啊啊啊啊啊啊啊🍥🏳️‍⚧️🌂",
-            "screen_name": "baizhou_kawaii"
+            "name": "枸橼酸白粥缓释片",
+            "screen_name": "Citricacid_bz"
         },
         "dm_permissions": {
             "can_dm": true
@@ -76,10 +76,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1093,
+            "friends_count": 1129,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 405,
+            "media_count": 423,
             "pinned_tweet_ids_str": [
                 "1925253855748792779"
             ],
@@ -111,8 +111,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219063571
+            "created_at": 1687080552000,
+            "updated_at": 1750232259424
         }
     }
 }

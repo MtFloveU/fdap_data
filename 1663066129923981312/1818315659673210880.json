@@ -5,12 +5,12 @@
     "description": "我渺于一粒细尘，却又长于永恒。\n「和平主义🕊️/实用主义🌱/人权&平等🤝/LGBT正当权益🏳️‍🌈/反建制🌹/🚫极端主义🚫」\n胜利属于乌克兰！🇺🇦\n逃生舱：@Nek1BOOM 欢迎互fo😘",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891632521902948354/gqTWHJ2W_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818315659673210880/1730445806",
-    "followers_count": 969,
-    "friends_count": 1033,
-    "statuses_count": 4447,
-    "favourites_count": 19639,
+    "followers_count": 983,
+    "friends_count": 1049,
+    "statuses_count": 4625,
+    "favourites_count": 20538,
     "listed_count": 0,
-    "location": "鸠拉-特恩佩斯特联邦国陆军司令部",
+    "location": "Dawntown NightCity, California",
     "website": "https://t.co/n61PuIvjOU",
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-07-31 00:00:37 +08:00",
     "url": "https://twitter.com/NeK1GG",
     "metadata": {
         "__typename": "User",
@@ -89,10 +89,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1033,
+            "friends_count": 1049,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 287,
+            "media_count": 297,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -102,7 +102,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "鸠拉-特恩佩斯特联邦国陆军司令部"
+            "location": "Dawntown NightCity, California"
         },
         "media_permissions": {
             "can_media_tag": true
@@ -136,8 +136,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219067733
+            "created_at": 1722355237000,
+            "updated_at": 1750232263366
         }
     }
 }

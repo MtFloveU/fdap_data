@@ -2,18 +2,23 @@
     "id": "1759721938191110144",
     "screen_name": "Aurora71310",
     "name": "云迹",
-    "description": "",
-    "location": "北京",
+    "description": "❤️@0iFtVC1e3370792",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895489774967828480/o9n0xLIY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759721938191110144/1736513807",
-    "followers_count": 806,
-    "statuses_count": 1234,
-    "favourites_count": 1755,
+    "followers_count": 844,
+    "friends_count": 835,
+    "statuses_count": 1278,
+    "favourites_count": 1835,
     "listed_count": 1,
+    "location": "北京",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-02-20 07:29:39 +08:00",
     "url": "https://twitter.com/Aurora71310",
     "metadata": {
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "Aurora102938475"
                                         },
                                         "rest_id": "1878816996013608960"
@@ -50,10 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1895489774967828480/o9n0xLIY_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Feb 19 23:29:39 +0000 2024",
+            "name": "云迹",
+            "screen_name": "Aurora71310"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -62,7 +76,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 824,
+            "friends_count": 835,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 89,
@@ -72,18 +86,33 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "北京"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1708385379000,
-            "updated_at": 1746077171590
+            "updated_at": 1750232256648
         }
     }
 }

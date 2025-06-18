@@ -2,30 +2,42 @@
     "id": "1239359884560232448",
     "screen_name": "nes_tea3939",
     "name": "透明Biy🏳️‍🌈",
-    "description": "是正太控  叫我透明就好，泛性恋偏同，XP是我认为可爱的事物，欢迎贴贴，有男友啦~@noviceK3  英专生 人类观察 小妹妹@errors_8964\n废料里推：@nestea114514\n职业翻译准备中……",
-    "location": "赛博空间",
+    "description": "是正太控  叫我透明就好，泛性恋偏同，XP是我认为可爱的事物，欢迎找我聊天，有男友啦~@noviceK3  好奇心成为我生之欲的重要组成，人类观察 妹妹@errors_8964\n废料里推：@nestea114514\n职业翻译准备中……",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866042968182046720/flvjCgkO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239359884560232448/1659282159",
-    "followers_count": 1033,
-    "statuses_count": 6205,
-    "favourites_count": 12109,
+    "followers_count": 1049,
+    "friends_count": 2841,
+    "statuses_count": 6605,
+    "favourites_count": 12664,
     "listed_count": 5,
+    "location": "赛博空间",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2020-03-16 09:16:54 +08:00",
     "url": "https://twitter.com/nes_tea3939",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjM5MzU5ODg0NTYwMjMyNDQ4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1866042968182046720/flvjCgkO_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Mar 16 01:16:54 +0000 2020",
+            "name": "透明Biy🏳️‍🌈",
+            "screen_name": "nes_tea3939"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2747,
+            "friends_count": 2841,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 309,
+            "media_count": 354,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "赛博空间"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1584321414000,
-            "updated_at": 1744350085207
+            "updated_at": 1750232260552
         }
     }
 }

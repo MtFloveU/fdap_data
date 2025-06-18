@@ -2,13 +2,13 @@
     "id": "1130781616274468864",
     "screen_name": "_SHIGURERERE_",
     "name": "rain",
-    "description": "💕@████",
+    "description": "动物界| 脊索动物门|哺乳纲|灵长目|人科|人属|智人 | ♥️@███",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1930248403268841473/WgJJUqUy_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1748175832",
-    "followers_count": 61599,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1750084410",
+    "followers_count": 61717,
     "friends_count": 2105,
-    "statuses_count": 561,
-    "favourites_count": 50427,
+    "statuses_count": 572,
+    "favourites_count": 50457,
     "listed_count": 1,
     "location": "吉他IV-卫星IV-加达里海军 组装车间",
     "website": "https://t.co/cbYwxUxMqv",
@@ -19,7 +19,7 @@
     "followed_by": null,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2019-05-21 18:25:21 +08:00",
     "url": "https://twitter.com/_SHIGURERERE_",
     "metadata": {
         "__typename": "User",
@@ -62,9 +62,9 @@
             "friends_count": 2105,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 386,
+            "media_count": 387,
             "pinned_tweet_ids_str": [
-                "1922335622066233436"
+                "1934282447405064369"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -105,8 +105,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219074028
+            "created_at": 1558434321000,
+            "updated_at": 1750232279957
         }
     }
 }

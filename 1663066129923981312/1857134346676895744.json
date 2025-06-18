@@ -2,13 +2,13 @@
     "id": "1857134346676895744",
     "screen_name": "chayuxiang",
     "name": "茶语香",
-    "description": "茶语香｜唯一日常碎碎念账号｜普通人类｜想和大家交朋友｜@chayuxiang_sub（锁号 不良内容注意）₍˄·͈༝·͈˄*₎◞ ̑̑",
+    "description": "茶语香｜🇨🇳 CN-JP-EN可｜唯一日常碎碎念账号｜普通人类｜想和大家交朋友｜@chayuxiang_sub（锁号 不良内容注意）₍˄·͈༝·͈˄*₎◞ ̑̑",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1875477108656611328/UrCy2t0k_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857134346676895744/1733823296",
-    "followers_count": 689,
-    "friends_count": 58,
-    "statuses_count": 1129,
-    "favourites_count": 3534,
+    "followers_count": 685,
+    "friends_count": 59,
+    "statuses_count": 1137,
+    "favourites_count": 3553,
     "listed_count": 3,
     "location": "カップの中",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": null,
     "can_dm": false,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-11-15 02:52:27 +08:00",
     "url": "https://twitter.com/chayuxiang",
     "metadata": {
         "__typename": "User",
@@ -46,11 +46,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 58,
+            "friends_count": 59,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 68,
-            "pinned_tweet_ids_str": [],
+            "media_count": 70,
+            "pinned_tweet_ids_str": [
+                "1926679355066867880"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -76,8 +78,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219064503
+            "created_at": 1731610347000,
+            "updated_at": 1750232260551
         }
     }
 }

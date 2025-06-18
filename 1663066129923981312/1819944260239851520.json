@@ -2,13 +2,13 @@
     "id": "1819944260239851520",
     "screen_name": "Alice14_88",
     "name": "⸸𝔄𝔩𝔦𝔠𝔢⸸",
-    "description": "模仿着死去的语言，做着一成不变的梦",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1928720541797724160/se51DkP6_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819944260239851520/1748662059",
-    "followers_count": 1658,
-    "friends_count": 2294,
-    "statuses_count": 13213,
-    "favourites_count": 30195,
+    "description": "生者必滅",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1934107666466648064/L-48jTh8_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819944260239851520/1749789462",
+    "followers_count": 1667,
+    "friends_count": 2328,
+    "statuses_count": 13459,
+    "favourites_count": 30744,
     "listed_count": 5,
     "location": "桜高軽音部",
     "website": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-08-04 11:51:46 +08:00",
     "url": "https://twitter.com/Alice14_88",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODE5OTQ0MjYwMjM5ODUxNTIw",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1928720541797724160/se51DkP6_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1934107666466648064/L-48jTh8_normal.jpg"
         },
         "core": {
             "created_at": "Sun Aug 04 03:51:46 +0000 2024",
@@ -46,13 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2294,
+            "friends_count": 2328,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1112,
-            "pinned_tweet_ids_str": [
-                "1928408436573634889"
-            ],
+            "media_count": 1127,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -79,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219066708
+            "created_at": 1722743506000,
+            "updated_at": 1750232262453
         }
     }
 }

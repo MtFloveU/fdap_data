@@ -2,13 +2,13 @@
     "id": "1762820280035250176",
     "screen_name": "Ocelot8964",
     "name": "豹猫 Ocelot 🇺🇸",
-    "description": "E Pluribus Unum | Chinese🇨🇳（掌握）&English🇺🇸(competent)&German🇩🇪(Anfänger)｜libertarian｜He died to make men holy, let us die to make men free!!! ｜@lifa_Petter",
+    "description": "Chinese🇨🇳(掌握)&English🇺🇸(competent)&German🇩🇪(Anfänger)｜libertarian｜He died to make men holy, let us die to make men free!｜请关注@lifa_Petter @PHIphi_idkwhoUR",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1818947910509240320/vVBphImo_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762820280035250176/1741966160",
-    "followers_count": 209,
-    "friends_count": 568,
-    "statuses_count": 5926,
-    "favourites_count": 12519,
+    "followers_count": 225,
+    "friends_count": 590,
+    "statuses_count": 6287,
+    "favourites_count": 13089,
     "listed_count": 2,
     "location": "IP地址：梁家河",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-02-28 20:41:36 +08:00",
     "url": "https://twitter.com/Ocelot8964",
     "metadata": {
         "__typename": "User",
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 568,
+            "friends_count": 590,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 285,
+            "media_count": 306,
             "pinned_tweet_ids_str": [
-                "1930233282626760783"
+                "1933085931491442965"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1709124096000,
+            "updated_at": 1750232254497
         }
     }
 }

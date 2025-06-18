@@ -2,30 +2,42 @@
     "id": "1766858890636120064",
     "screen_name": "Nuominiang75884",
     "name": "糯米娘🍥🏳️‍⚧️",
-    "description": "向光而行，直到燃尽自己\n🏳️‍⚧️/INFP-T /道教徒/国际主义/摄影/❤️亲人@Kietter387803/ 最好的冰柚姐姐\n@Im_Grapefruit27/\n\n如果有紧急情况请加我微信：A1146B9732\n（想开我盒的别试了我微信没绑过手机号和银行卡）",
-    "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+    "description": "向光而行，直到理想的光照透世界\n🏳️‍⚧️/INFP-T /道教徒/国际主义/理想主义/\n摄影/亲人@Kietter387803\n\n如果有紧急情况请加我微信：A1146B9732",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906216622500573184/kaHJHOEs_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766858890636120064/1743142578",
-    "followers_count": 3200,
-    "statuses_count": 2047,
-    "favourites_count": 13045,
-    "listed_count": 6,
+    "followers_count": 3272,
+    "friends_count": 1149,
+    "statuses_count": 2175,
+    "favourites_count": 13673,
+    "listed_count": 4,
+    "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-03-11 00:09:34 +08:00",
     "url": "https://twitter.com/Nuominiang75884",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY2ODU4ODkwNjM2MTIwMDY0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1906216622500573184/kaHJHOEs_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Mar 10 16:09:34 +0000 2024",
+            "name": "糯米娘🍥🏳️‍⚧️",
+            "screen_name": "Nuominiang75884"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1018,
+            "friends_count": 1149,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 228,
+            "media_count": 237,
             "pinned_tweet_ids_str": [
-                "1910543901401796708"
+                "1922247442671493487"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "美国 洛杉矶 Echo Park Ave大街2236号"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1710086974000,
-            "updated_at": 1744350085207
+            "updated_at": 1750232261519
         }
     }
 }

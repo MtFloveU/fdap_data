@@ -3,27 +3,41 @@
     "screen_name": "MikuMiku3648",
     "name": "Miku🥝✞",
     "description": "君といる毎日は奇跡だよ                                                           友達！：@Reisa_Music     @Ludwig_von_Remi  @miku_suki393939 对象：@Mikuloverr_  （新教徒谢谢喵",
-    "location": "原来是生命，而非死亡，才是没有止境的",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1899152886686416896/ZyN3p0_h_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751084995312275456/1742732545",
-    "followers_count": 2695,
-    "statuses_count": 11755,
-    "favourites_count": 31361,
-    "listed_count": 11,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930668961777299456/Hz60qBx6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751084995312275456/1749055276",
+    "followers_count": 2899,
+    "friends_count": 1267,
+    "statuses_count": 12810,
+    "favourites_count": 34984,
+    "listed_count": 14,
+    "location": "「さよなら」じゃなく 「また明日ね」って言って",
+    "website": "https://t.co/TLtumacIN5",
+    "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-01-27 11:30:20 +08:00",
     "url": "https://twitter.com/MikuMiku3648",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzUxMDg0OTk1MzEyMjc1NDU2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930668961777299456/Hz60qBx6_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jan 27 03:30:20 +0000 2024",
+            "name": "Miku🥝✞",
+            "screen_name": "MikuMiku3648"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "114514.com",
-                            "expanded_url": "http://114514.com",
-                            "url": "https://t.co/UQGnaLaq5q",
+                            "display_url": "github.com/LittIeStar/MyG…",
+                            "expanded_url": "https://github.com/LittIeStar/MyGameCode",
+                            "url": "https://t.co/TLtumacIN5",
                             "indices": [
                                 0,
                                 23
@@ -45,20 +59,25 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1264,
+            "friends_count": 1267,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1760,
+            "media_count": 2002,
             "pinned_tweet_ids_str": [
                 "1809865925849674203"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/UQGnaLaq5q",
-            "verified": false,
+            "url": "https://t.co/TLtumacIN5",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "「さよなら」じゃなく 「また明日ね」って言って"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -73,10 +92,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1706326220000,
-            "updated_at": 1746077171590
+            "updated_at": 1750232257457
         }
     }
 }

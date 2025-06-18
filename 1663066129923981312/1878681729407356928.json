@@ -2,13 +2,13 @@
     "id": "1878681729407356928",
     "screen_name": "HYuusui1999",
     "name": "祐穂・H",
-    "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。 ～公告栏～ @jvhao0721 @tingfeng_TF @noname87525好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+    "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。@noname87525 @rubbishbin114好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意；眼下@ESY_yujve0189试图套皮@ESY_yujue0189【如果需要私信，请在推文下评论】",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878681729407356928/1736909213",
-    "followers_count": 441,
-    "friends_count": 1109,
-    "statuses_count": 4766,
-    "favourites_count": 20961,
+    "followers_count": 486,
+    "friends_count": 1173,
+    "statuses_count": 5148,
+    "favourites_count": 22175,
     "listed_count": 6,
     "location": "人间边缘",
     "website": null,
@@ -18,8 +18,8 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "protected": true,
+    "created_at": "2025-01-13 13:53:31 +08:00",
     "url": "https://twitter.com/HYuusui1999",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1109,
+            "friends_count": 1173,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 202,
+            "media_count": 210,
             "pinned_tweet_ids_str": [
                 "1921895055087841673"
             ],
@@ -68,7 +68,7 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "privacy": {
-            "protected": false
+            "protected": true
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -81,8 +81,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1736747611000,
+            "updated_at": 1750232254497
         }
     }
 }

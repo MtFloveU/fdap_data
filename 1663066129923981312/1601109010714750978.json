@@ -1,0 +1,115 @@
+{
+    "id": "1601109010714750978",
+    "screen_name": "tianyi712521",
+    "name": "依不依夏",
+    "description": "07的一名高二牲/170-61/INTP-T(原来是ISFJ)/🏳️‍⚧️（大概是MTX偏F） /最好的姐姐@maimai_dx///快fo咱的可爱",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1601611138491645952/v2V-0pa0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601109010714750978/1670688839",
+    "followers_count": 1177,
+    "friends_count": 685,
+    "statuses_count": 5269,
+    "favourites_count": 45393,
+    "listed_count": 3,
+    "location": "距离你100m",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2022-12-09 14:58:40 +08:00",
+    "url": "https://twitter.com/tianyi712521",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjAxMTA5MDEwNzE0NzUwOTc4",
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @UnnnLlllx3",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 24,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "UnnnLlllx3",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "core": {
+                                            "screen_name": "UnnnLlllx3"
+                                        },
+                                        "rest_id": "1298931721346461696"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1601611138491645952/v2V-0pa0_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Dec 09 06:58:40 +0000 2022",
+            "name": "依不依夏",
+            "screen_name": "tianyi712521"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 685,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 59,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "距离你100m"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1670569120000,
+            "updated_at": 1750232254497
+        }
+    }
+}

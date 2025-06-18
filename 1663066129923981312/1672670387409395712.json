@@ -2,28 +2,42 @@
     "id": "1672670387409395712",
     "screen_name": "JTpuddingmtf",
     "name": "YENA🍥",
-    "description": "漫天星辰中，我是被遗忘的那一颗。",
-    "location": "0772",
+    "description": "我爱你我爱你我爱你我爱你我爱你我爱你我爱你我爱你我爱你我爱你我爱你我爱你我爱你我爱你我恨你我恨你我恨你我恨你我恨你我恨你我恨你我恨你我恨你我恨你我恨你我恨你我恨你我恨你我恨你我恨你我爱你，我好想你。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916143077393371136/bcs8Oqin_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672670387409395712/1729356683",
-    "followers_count": 994,
-    "statuses_count": 67,
-    "favourites_count": 521,
+    "followers_count": 982,
+    "friends_count": 293,
+    "statuses_count": 85,
+    "favourites_count": 518,
     "listed_count": 0,
+    "location": "0772",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-06-25 02:18:15 +08:00",
     "url": "https://twitter.com/JTpuddingmtf",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjcyNjcwMzg3NDA5Mzk1NzEy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1916143077393371136/bcs8Oqin_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 24 18:18:15 +0000 2023",
+            "name": "YENA🍥",
+            "screen_name": "JTpuddingmtf"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,28 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 305,
+            "friends_count": 293,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 10,
+            "media_count": 13,
             "pinned_tweet_ids_str": [
                 "1894720101150310536"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "0772"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1687630695000,
-            "updated_at": 1746077192669
+            "updated_at": 1750232283136
         }
     }
 }

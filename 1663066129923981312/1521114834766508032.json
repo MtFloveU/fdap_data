@@ -2,31 +2,42 @@
     "id": "1521114834766508032",
     "screen_name": "kfx5611",
     "name": "グルユユ🐡",
-    "description": "我是男娘吗。？",
-    "location": "福岡 北九州市 小倉北区",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1856740804674686978/cPTNVsfN_normal.jpg",
+    "description": "怨み。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1929195716880326656/yRHEza0H_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521114834766508032/1712323808",
-    "followers_count": 50,
-    "statuses_count": 716,
-    "favourites_count": 3534,
+    "followers_count": 59,
+    "friends_count": 223,
+    "statuses_count": 822,
+    "favourites_count": 3981,
     "listed_count": 0,
+    "location": "福岡 北九州市 小倉北区",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-05-02 21:10:27 +08:00",
     "url": "https://twitter.com/kfx5611",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTIxMTE0ODM0NzY2NTA4MDMy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1929195716880326656/yRHEza0H_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon May 02 13:10:27 +0000 2022",
+            "name": "グルユユ🐡",
+            "screen_name": "kfx5611"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 195,
+            "friends_count": 223,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 118,
+            "media_count": 127,
             "pinned_tweet_ids_str": [
-                "1850758119988830519"
+                "1928029048334168270"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "福岡 北九州市 小倉北区"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1651497027000,
-            "updated_at": 1744350088738
+            "updated_at": 1750232263366
         }
     }
 }

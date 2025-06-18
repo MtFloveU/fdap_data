@@ -2,24 +2,24 @@
     "id": "1755765450707709952",
     "screen_name": "huajuanshiwo",
     "name": "树海",
-    "description": "15岁 我喜欢@HY_SundiFavor",
+    "description": "啊啊啊啊啊啊还没死啊",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1876289236909092864/caccjc2M_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755765450707709952/1730289185",
-    "followers_count": 1440,
-    "friends_count": 1774,
-    "statuses_count": 7988,
-    "favourites_count": 38101,
+    "followers_count": 1450,
+    "friends_count": 1790,
+    "statuses_count": 8105,
+    "favourites_count": 38519,
     "listed_count": 5,
     "location": "蓝色空间号",
     "website": null,
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-02-09 09:28:44 +08:00",
     "url": "https://twitter.com/huajuanshiwo",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1774,
+            "friends_count": 1790,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1250,
+            "media_count": 1268,
             "pinned_tweet_ids_str": [
                 "1876566723912229149"
             ],
@@ -86,8 +86,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219068775
+            "created_at": 1707442124000,
+            "updated_at": 1750232264361
         }
     }
 }

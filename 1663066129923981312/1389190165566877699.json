@@ -1,17 +1,17 @@
 {
     "id": "1389190165566877699",
     "screen_name": "amcje1",
-    "name": "橄榄菜",
-    "description": "https://t.co/QMTG8CHiPo",
+    "name": "橄榄菜 北桥",
+    "description": "https://t.co/QMTG8CGKZQ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1872947652662575106/McUAMGzN_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389190165566877699/1699424206",
     "followers_count": 111,
-    "friends_count": 201,
-    "statuses_count": 862,
-    "favourites_count": 18025,
-    "listed_count": 4,
+    "friends_count": 200,
+    "statuses_count": 884,
+    "favourites_count": 18083,
+    "listed_count": 3,
     "location": "",
-    "website": "https://t.co/W9HXhS9yds",
+    "website": "https://t.co/W9HXhS90nU",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2021-05-03 20:09:08 +08:00",
     "url": "https://twitter.com/amcje1",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Mon May 03 12:09:08 +0000 2021",
-            "name": "橄榄菜",
+            "name": "橄榄菜 北桥",
             "screen_name": "amcje1"
         },
         "dm_permissions": {
@@ -46,7 +46,7 @@
                         {
                             "display_url": "t.me/hatateaya",
                             "expanded_url": "http://t.me/hatateaya",
-                            "url": "https://t.co/QMTG8CHiPo",
+                            "url": "https://t.co/QMTG8CGKZQ",
                             "indices": [
                                 0,
                                 23
@@ -59,7 +59,7 @@
                         {
                             "display_url": "ganlanc.at",
                             "expanded_url": "https://ganlanc.at",
-                            "url": "https://t.co/W9HXhS9yds",
+                            "url": "https://t.co/W9HXhS90nU",
                             "indices": [
                                 0,
                                 23
@@ -69,7 +69,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 201,
+            "friends_count": 200,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 17,
@@ -77,7 +77,7 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/W9HXhS9yds",
+            "url": "https://t.co/W9HXhS90nU",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -106,8 +106,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219060359
+            "created_at": 1620043748000,
+            "updated_at": 1750232256648
         }
     }
 }

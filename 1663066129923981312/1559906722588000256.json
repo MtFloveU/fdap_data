@@ -2,15 +2,15 @@
     "id": "1559906722588000256",
     "screen_name": "Luo_yiyu",
     "name": "洛忆雨Yiur",
-    "description": "🥰🥰🥰 @misaka__network    笨蛋 @haku_dabai ｜里 @Mitaner_hidden ｜ 请叫我小洛~｜双相阴暗b｜有证含🍥2024.6.10｜infp｜ ctf学习中｜业余无线电｜大一电科｜\n晚安🕯🕯@Tianqichen666",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1916907677721976832/MghM6Z7d_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559906722588000256/1745861422",
-    "followers_count": 1628,
-    "friends_count": 375,
-    "statuses_count": 5429,
-    "favourites_count": 4862,
+    "description": "不幸",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933861735183921152/M1wSmPYo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559906722588000256/1749913303",
+    "followers_count": 1665,
+    "friends_count": 393,
+    "statuses_count": 5657,
+    "favourites_count": 4979,
     "listed_count": 5,
-    "location": "",
+    "location": "坟墓",
     "website": "https://t.co/A4NOlo75lV",
     "birthdate": null,
     "verified_type": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-08-17 22:15:28 +08:00",
     "url": "https://twitter.com/Luo_yiyu",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTU5OTA2NzIyNTg4MDAwMjU2",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1916907677721976832/MghM6Z7d_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1933861735183921152/M1wSmPYo_normal.jpg"
         },
         "core": {
             "created_at": "Wed Aug 17 14:15:28 +0000 2022",
@@ -59,12 +59,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 375,
+            "friends_count": 393,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 524,
+            "media_count": 541,
             "pinned_tweet_ids_str": [
-                "1894682535612825991"
+                "1933769249358819525"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -74,7 +74,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": ""
+            "location": "坟墓"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -93,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219069841
+            "created_at": 1660745728000,
+            "updated_at": 1750232265295
         }
     }
 }

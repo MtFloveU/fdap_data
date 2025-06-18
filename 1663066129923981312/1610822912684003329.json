@@ -5,12 +5,12 @@
     "description": "⚠️有涩涩请注意！打牌小猫～，是女孩。mtf跨性别。私信选择性回复，🚪88。只想和有趣的人聊天。接线下。坐标：郑州。宝贝：@LianZimiao",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1839609114743488512/SWdGz84Q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1610822912684003329/1727431966",
-    "followers_count": 23010,
-    "friends_count": 532,
-    "statuses_count": 1000,
-    "favourites_count": 3883,
-    "listed_count": 0,
-    "location": "沐子星球534",
+    "followers_count": 22947,
+    "friends_count": 540,
+    "statuses_count": 1013,
+    "favourites_count": 3923,
+    "listed_count": 77,
+    "location": "沐子星球538",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-01-05 10:18:15 +08:00",
     "url": "https://twitter.com/muzijOvO",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 532,
+            "friends_count": 540,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 279,
+            "media_count": 281,
             "pinned_tweet_ids_str": [
                 "1912806381910106282"
             ],
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "沐子星球534"
+            "location": "沐子星球538"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -81,8 +81,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219080434
+            "created_at": 1672885095000,
+            "updated_at": 1750232285405
         }
     }
 }

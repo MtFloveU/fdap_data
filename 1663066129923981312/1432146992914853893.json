@@ -2,50 +2,54 @@
     "id": "1432146992914853893",
     "screen_name": "yccc_0000",
     "name": "🏳️‍⚧️yc🍥",
-    "description": "Bio:\n{\n    BIRTH:10/08/2007,\n    HRT:08/12/2024,\n    CN:7/10,EN:5.5/9,\n    No Alcohol,\n    喵喵神教,\n    no politics,\n}\n朋友圈：https://t.co/wmfqQ7erNP",
-    "location": "Melbourne, Victoria",
+    "description": "🕊️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1900187258625679360/QLgaflor_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1432146992914853893/1654666940",
-    "followers_count": 129,
-    "statuses_count": 1714,
-    "favourites_count": 16796,
+    "followers_count": 145,
+    "friends_count": 318,
+    "statuses_count": 1806,
+    "favourites_count": 18030,
     "listed_count": 0,
+    "location": "Melbourne, Victoria",
+    "website": "https://t.co/akCW8XrL0y",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": true,
     "created_at": "2021-08-30 09:04:22 +08:00",
     "url": "https://twitter.com/yccc_0000",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDMyMTQ2OTkyOTE0ODUzODkz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1900187258625679360/QLgaflor_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Aug 30 01:04:22 +0000 2021",
+            "name": "🏳️‍⚧️yc🍥",
+            "screen_name": "yccc_0000"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/yccc_0000",
-                            "expanded_url": "https://t.me/yccc_0000",
-                            "url": "https://t.co/wmfqQ7erNP",
-                            "indices": [
-                                120,
-                                143
-                            ]
-                        }
-                    ]
+                    "urls": []
                 },
                 "url": {
                     "urls": [
                         {
-                            "display_url": "ycxiao1204.com",
-                            "expanded_url": "https://ycxiao1204.com",
-                            "url": "https://t.co/Px7MS8q3AV",
+                            "display_url": "site-v3.pages.dev",
+                            "expanded_url": "https://site-v3.pages.dev/",
+                            "url": "https://t.co/akCW8XrL0y",
                             "indices": [
                                 0,
                                 23
@@ -55,29 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 304,
+            "friends_count": 318,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 93,
+            "media_count": 116,
             "pinned_tweet_ids_str": [
-                "1895891072490054014"
+                "1934695257905746015"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/Px7MS8q3AV",
-            "verified": false,
+            "url": "https://t.co/akCW8XrL0y",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Melbourne, Victoria"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1630285462000,
-            "updated_at": 1746077174316
+            "updated_at": 1750232258410
         }
     }
 }

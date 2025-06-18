@@ -2,13 +2,13 @@
     "id": "1470410046353858565",
     "screen_name": "miumcii",
     "name": "🍋闵目夕曦🍀",
-    "description": "存在主义危机中",
+    "description": "我不理解",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1807752794868436992/aRV-vQMQ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470410046353858565/1741136862",
-    "followers_count": 32774,
-    "friends_count": 277,
-    "statuses_count": 11068,
-    "favourites_count": 20901,
+    "followers_count": 32685,
+    "friends_count": 276,
+    "statuses_count": 11110,
+    "favourites_count": 20990,
     "listed_count": 95,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": null,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2021-12-13 23:07:45 +08:00",
     "url": "https://twitter.com/miumcii",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 277,
+            "friends_count": 276,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 268,
+            "media_count": 273,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -78,8 +78,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219080434
+            "created_at": 1639408065000,
+            "updated_at": 1750232284269
         }
     }
 }

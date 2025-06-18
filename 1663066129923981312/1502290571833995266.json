@@ -1,14 +1,14 @@
 {
     "id": "1502290571833995266",
-    "screen_name": "SaskuraMiku",
+    "screen_name": "3a4kura",
     "name": "₍˄·͈༝·͈˄*₎◞ ̑̑",
-    "description": "les \n老婆大人💕 @shana_yowaino/\n教主 @aspishiguro/\n笨蛋鸦鸦姐姐 @yanyan2567",
+    "description": "les/Hatsune Miku\n老婆大人💕 @shana_yowaino/\n教主 @aspishiguro/\n笨蛋鸦鸦姐姐 @yanyan2567/\n二号姐姐 @zzzkonstrky/\n三号姐姐 @Luo_yiyu/\n五号妹妹 @Zero_158_Kana",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885755697448837120/swM5XmvL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1502290571833995266/1744911796",
-    "followers_count": 835,
-    "friends_count": 227,
-    "statuses_count": 7784,
-    "favourites_count": 15941,
+    "followers_count": 847,
+    "friends_count": 235,
+    "statuses_count": 7932,
+    "favourites_count": 16094,
     "listed_count": 1,
     "location": "蝴蝶姐姐的怀里",
     "website": "https://t.co/ZuTqpGwx8H",
@@ -17,10 +17,10 @@
     "is_blue_verified": false,
     "following": true,
     "followed_by": null,
-    "can_dm": false,
+    "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/SaskuraMiku",
+    "created_at": "2022-03-11 22:29:28 +08:00",
+    "url": "https://twitter.com/3a4kura",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTAyMjkwNTcxODMzOTk1MjY2",
@@ -61,10 +61,10 @@
         "core": {
             "created_at": "Fri Mar 11 14:29:28 +0000 2022",
             "name": "₍˄·͈༝·͈˄*₎◞ ̑̑",
-            "screen_name": "SaskuraMiku"
+            "screen_name": "3a4kura"
         },
         "dm_permissions": {
-            "can_dm": false
+            "can_dm": true
         },
         "has_graduated_access": true,
         "legacy": {
@@ -89,10 +89,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 227,
+            "friends_count": 235,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2536,
+            "media_count": 2568,
             "pinned_tweet_ids_str": [
                 "1899841111612690630"
             ],
@@ -135,8 +135,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749299313594
+            "created_at": 1647008968000,
+            "updated_at": 1750232262452
         }
     }
 }

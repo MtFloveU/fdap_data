@@ -1,16 +1,16 @@
 {
     "id": "1664188234015059968",
-    "screen_name": "Mizuiro8964",
-    "name": "枫糖绘名",
-    "description": "祝你幸福｜本账号只有废话和情绪发泄，请谨慎关注",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1926820527781380096/O5WSEU7S_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664188234015059968/1748224799",
-    "followers_count": 376,
-    "friends_count": 1122,
-    "statuses_count": 23470,
-    "favourites_count": 113503,
+    "screen_name": "nisemono8964",
+    "name": "ゼロ",
+    "description": "您随时都可以创造一个新世界！",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933186314607919104/jQsxg188_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664188234015059968/1749742521",
+    "followers_count": 375,
+    "friends_count": 1144,
+    "statuses_count": 23770,
+    "favourites_count": 115362,
     "listed_count": 1,
-    "location": "New York, USA",
+    "location": "Your closet ",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -19,19 +19,19 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/Mizuiro8964",
+    "created_at": "2023-06-01 16:33:06 +08:00",
+    "url": "https://twitter.com/nisemono8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjY0MTg4MjM0MDE1MDU5OTY4",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1926820527781380096/O5WSEU7S_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1933186314607919104/jQsxg188_normal.jpg"
         },
         "core": {
             "created_at": "Thu Jun 01 08:33:06 +0000 2023",
-            "name": "枫糖绘名",
-            "screen_name": "Mizuiro8964"
+            "name": "ゼロ",
+            "screen_name": "nisemono8964"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1122,
+            "friends_count": 1144,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 165,
+            "media_count": 166,
             "pinned_tweet_ids_str": [
                 "1912884867475669379"
             ],
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "New York, USA"
+            "location": "Your closet "
         },
         "media_permissions": {
             "can_media_tag": false
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219068775
+            "created_at": 1685608386000,
+            "updated_at": 1750232264361
         }
     }
 }

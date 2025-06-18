@@ -2,30 +2,42 @@
     "id": "1722627937898577920",
     "screen_name": "Serina_sanctua",
     "name": "梨奈/：",
-    "description": "森林🌳里的猫🐱",
-    "location": "London, England",
+    "description": "森林🌳裏的貓🐱   MtF （Man to Feline） 素食主義🥬吳越愛國者🇨🇳糖齡1年🍬  pronouns：ha/chimi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1817800272439398400/oP7ZHA8t_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722627937898577920/1722361531",
-    "followers_count": 219,
-    "statuses_count": 801,
-    "favourites_count": 13640,
+    "followers_count": 217,
+    "friends_count": 559,
+    "statuses_count": 809,
+    "favourites_count": 13560,
     "listed_count": 1,
+    "location": "London, England",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-11-09 22:51:30 +08:00",
     "url": "https://twitter.com/Serina_sanctua",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzIyNjI3OTM3ODk4NTc3OTIw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1817800272439398400/oP7ZHA8t_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Nov 09 14:51:30 +0000 2023",
+            "name": "梨奈/：",
+            "screen_name": "Serina_sanctua"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 556,
+            "friends_count": 559,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 6,
@@ -44,14 +56,31 @@
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "London, England"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1699541490000,
-            "updated_at": 1744350059817
+            "updated_at": 1750232248693
         }
     }
 }

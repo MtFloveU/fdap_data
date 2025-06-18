@@ -1,25 +1,25 @@
 {
     "id": "1915723009161375744",
     "screen_name": "fuckpregabalin",
-    "name": "怎么得了，哎呀陈要郁文。",
-    "description": "活狗@VicoOci｜永远的好朋友@yangaaa111｜不过陌生人qqqxx｜废文预警 慎fo｜我的互fo都是很好很好的宝宝",
+    "name": "累到想要一直睡睡睡睡睡",
+    "description": "恋人@VicoOci｜亲友@yangaaa111｜我的互fo都是很好很好的宝宝",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1931211674155139072/LWRVQ942_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915723009161375744/1748628696",
-    "followers_count": 149,
-    "friends_count": 208,
-    "statuses_count": 2736,
-    "favourites_count": 6085,
-    "listed_count": 1,
+    "followers_count": 276,
+    "friends_count": 285,
+    "statuses_count": 3580,
+    "favourites_count": 7939,
+    "listed_count": 2,
     "location": "Amoy",
-    "website": "https://t.co/wHA2veb7Zu",
+    "website": "https://t.co/lHPjNxQ3qk",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "protected": false,
+    "created_at": "2025-04-25 19:02:16 +08:00",
     "url": "https://twitter.com/fuckpregabalin",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Fri Apr 25 11:02:16 +0000 2025",
-            "name": "怎么得了，哎呀陈要郁文。",
+            "name": "累到想要一直睡睡睡睡睡",
             "screen_name": "fuckpregabalin"
         },
         "dm_permissions": {
@@ -47,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "ngl.link/fuckpregabalin",
-                            "expanded_url": "https://ngl.link/fuckpregabalin",
-                            "url": "https://t.co/wHA2veb7Zu",
+                            "display_url": "t.me/IokbunTan",
+                            "expanded_url": "https://t.me/IokbunTan",
+                            "url": "https://t.co/lHPjNxQ3qk",
                             "indices": [
                                 0,
                                 23
@@ -59,17 +59,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 208,
+            "friends_count": 285,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 212,
+            "media_count": 261,
             "pinned_tweet_ids_str": [
-                "1926657048831254945"
+                "1933358753388376570"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/wHA2veb7Zu",
+            "url": "https://t.co/lHPjNxQ3qk",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -77,7 +77,7 @@
             "location": "Amoy"
         },
         "media_permissions": {
-            "can_media_tag": false
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -93,7 +93,7 @@
             ]
         },
         "privacy": {
-            "protected": true
+            "protected": false
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -104,8 +104,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749299305281
+            "created_at": 1745578936000,
+            "updated_at": 1750232254497
         }
     }
 }

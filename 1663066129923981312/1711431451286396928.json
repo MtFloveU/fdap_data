@@ -1,14 +1,14 @@
 {
     "id": "1711431451286396928",
     "screen_name": "ikukou__",
-    "name": "💹🈯️🐱🧎🎂",
-    "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1930622228498100224/B67XZoqQ_normal.jpg",
+    "name": "盐酸白粥缓释片",
+    "description": "明天见",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933882193358782464/yOFS-Amt_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711431451286396928/1730617163",
-    "followers_count": 84,
+    "followers_count": 83,
     "friends_count": 98,
-    "statuses_count": 1794,
-    "favourites_count": 6759,
+    "statuses_count": 1795,
+    "favourites_count": 6771,
     "listed_count": 1,
     "location": "上海市自来水厂",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-10-10 01:20:41 +08:00",
     "url": "https://twitter.com/ikukou__",
     "metadata": {
         "__typename": "User",
@@ -54,11 +54,11 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1930622228498100224/B67XZoqQ_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1933882193358782464/yOFS-Amt_normal.jpg"
         },
         "core": {
             "created_at": "Mon Oct 09 17:20:41 +0000 2023",
-            "name": "💹🈯️🐱🧎🎂",
+            "name": "盐酸白粥缓释片",
             "screen_name": "ikukou__"
         },
         "dm_permissions": {
@@ -77,7 +77,7 @@
             "friends_count": 98,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 312,
+            "media_count": 311,
             "pinned_tweet_ids_str": [
                 "1872734137263767723"
             ],
@@ -118,8 +118,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219064503
+            "created_at": 1696872041000,
+            "updated_at": 1750232260551
         }
     }
 }

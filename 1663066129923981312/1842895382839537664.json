@@ -2,30 +2,42 @@
     "id": "1842895382839537664",
     "screen_name": "_FiniteWorld",
     "name": "Finite World",
-    "description": "为生而战 | 比彩梦还饿\nMinecraft | 崩坏：星穹铁道 | 明日方舟 | Arcaea\nVue | React | Ktor | Fabric | Bukkit",
-    "location": "匹诺康尼",
+    "description": "为生而战 | 比彩梦还饿\nMinecraft | 明日方舟 | Arcaea\nVue | React | Ktor",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1845397247950979072/E2dL3s1c_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842895382839537664/1736042398",
-    "followers_count": 529,
-    "statuses_count": 1544,
-    "favourites_count": 2993,
+    "followers_count": 524,
+    "friends_count": 551,
+    "statuses_count": 1547,
+    "favourites_count": 2829,
     "listed_count": 5,
+    "location": "匹诺康尼",
+    "website": "https://t.co/zlgMX0zv9M",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-10-06 19:51:19 +08:00",
     "url": "https://twitter.com/_FiniteWorld",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQyODk1MzgyODM5NTM3NjY0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1845397247950979072/E2dL3s1c_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Oct 06 11:51:19 +0000 2024",
+            "name": "Finite World",
+            "screen_name": "_FiniteWorld"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,7 +59,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 550,
+            "friends_count": 551,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 33,
@@ -56,14 +68,31 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/zlgMX0zv9M",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "匹诺康尼"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1728215479000,
-            "updated_at": 1744350085207
+            "updated_at": 1750232261519
         }
     }
 }

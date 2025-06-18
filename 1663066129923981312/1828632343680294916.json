@@ -1,31 +1,43 @@
 {
     "id": "1828632343680294916",
-    "screen_name": "lyngxu757186",
-    "name": "EETY(枫糖助手)",
-    "description": "低质量，高产量（枫糖小猫贴身助手）",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1828632623310348289/SJUsSWmx_normal.jpg",
+    "screen_name": "jianlvya",
+    "name": "繁律",
+    "description": "视频版就在这里更新了😼\n@jianlvup 梗图版",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1934119509138219008/57Px9rmO_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 24,
-    "statuses_count": 70,
-    "favourites_count": 114,
+    "followers_count": 36,
+    "friends_count": 114,
+    "statuses_count": 55,
+    "favourites_count": 100,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-08-28 11:15:12 +08:00",
-    "url": "https://twitter.com/lyngxu757186",
+    "url": "https://twitter.com/jianlvya",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI4NjMyMzQzNjgwMjk0OTE2",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1934119509138219008/57Px9rmO_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Aug 28 03:15:12 +0000 2024",
+            "name": "繁律",
+            "screen_name": "jianlvya"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": false,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,52 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 65,
+            "friends_count": 114,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 32,
+            "media_count": 19,
             "pinned_tweet_ids_str": [
-                "1874127886904606736"
+                "1874066904970912147"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1934161800238666125",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1724814912000,
-            "updated_at": 1744350023458
+            "updated_at": 1750232233900
         }
     }
 }

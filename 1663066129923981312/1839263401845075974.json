@@ -1,29 +1,43 @@
 {
     "id": "1839263401845075974",
-    "screen_name": "0NewRajalAurora",
-    "name": "𝓨𝓸𝓾𝓼𝓮𝓻 𝓡𝓪𝓳𝓪𝓻 🇦🇶",
-    "description": ".",
-    "location": "New Rajal Aurora City",
+    "screen_name": "0NewYowlry",
+    "name": "Yowlry",
+    "description": "私たちは二次元をこれほど熱愛している",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
-    "followers_count": 1249,
-    "statuses_count": 3465,
-    "favourites_count": 10500,
+    "followers_count": 1594,
+    "friends_count": 2129,
+    "statuses_count": 5325,
+    "favourites_count": 13852,
     "listed_count": 6,
+    "location": "Neoaurorium City",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-09-26 19:19:31 +08:00",
-    "url": "https://twitter.com/0NewRajalAurora",
+    "url": "https://twitter.com/0NewYowlry",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODM5MjYzNDAxODQ1MDc1OTc0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Sep 26 11:19:31 +0000 2024",
+            "name": "Yowlry",
+            "screen_name": "0NewYowlry"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1764,
+            "friends_count": 2129,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 177,
+            "media_count": 278,
             "pinned_tweet_ids_str": [
                 "1895931291142627425"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Neoaurorium City"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
@@ -59,12 +78,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1727349571000,
-            "updated_at": 1746077173226
+            "updated_at": 1750232257457
         }
     }
 }

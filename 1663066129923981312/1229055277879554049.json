@@ -2,30 +2,42 @@
     "id": "1229055277879554049",
     "screen_name": "qizao1",
     "name": "谢尔汀",
-    "description": "双（只是希望被爱）/mtx/重度互联网依赖男孩/比起别人救赎不如变成那个救赎人的人/虽然会发情但是比较拒绝性ღ彼得.潘综合征✙",
-    "location": "河南洛阳",
+    "description": "爱人@yuekuikui/mtx/重度互联网依赖男孩/比起别人救赎不如变成那个救赎人的人/虽然会发情但是比较拒绝性ღ彼得.潘综合征✙",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883003798509219840/it6hH0IR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229055277879554049/1737778136",
-    "followers_count": 1479,
-    "statuses_count": 1525,
-    "favourites_count": 1091,
+    "followers_count": 1496,
+    "friends_count": 2200,
+    "statuses_count": 1570,
+    "favourites_count": 1120,
     "listed_count": 6,
+    "location": "河南洛阳",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2020-02-16 22:49:58 +08:00",
     "url": "https://twitter.com/qizao1",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjI5MDU1Mjc3ODc5NTU0MDQ5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1883003798509219840/it6hH0IR_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Feb 16 14:49:58 +0000 2020",
+            "name": "谢尔汀",
+            "screen_name": "qizao1"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,20 +46,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2107,
+            "friends_count": 2200,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 42,
+            "media_count": 45,
             "pinned_tweet_ids_str": [
                 "1439858329191284739"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "河南洛阳"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1846684919281734127",
             "professional_type": "Creator",
@@ -59,10 +78,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1581864598000,
-            "updated_at": 1744350015678
+            "updated_at": 1750232230704
         }
     }
 }

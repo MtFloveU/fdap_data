@@ -1,14 +1,14 @@
 {
     "id": "1557353901044555776",
     "screen_name": "hatsuyuki_suki",
-    "name": "初雪🏳️‍⚧️in 冷凍庫 | 高考加油",
+    "name": "初雪🏳️‍⚧️in 冷凍庫 | 解放！",
     "description": "💬记得和过去说再见 ❄️07低糖MtF，INFP 🔥变身酷姐帅爆大家 🌌大概是日常推 💫爱人@Letisin75 🐾 貼地爬行的陰暗b 🐱本體兔猻 半死不活  ☕關注初雪謝謝喵 🩷我一直都會陪著大家",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892924726911094784/8tnLc2-T_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557353901044555776/1740143398",
-    "followers_count": 959,
-    "friends_count": 1336,
-    "statuses_count": 9872,
-    "favourites_count": 25871,
+    "followers_count": 965,
+    "friends_count": 1338,
+    "statuses_count": 9889,
+    "favourites_count": 25874,
     "listed_count": 3,
     "location": "No Such BAR “不在这吧”",
     "website": "https://t.co/Fu6MCIVzye",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-08-10 21:11:29 +08:00",
     "url": "https://twitter.com/hatsuyuki_suki",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Wed Aug 10 13:11:29 +0000 2022",
-            "name": "初雪🏳️‍⚧️in 冷凍庫 | 高考加油",
+            "name": "初雪🏳️‍⚧️in 冷凍庫 | 解放！",
             "screen_name": "hatsuyuki_suki"
         },
         "dm_permissions": {
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1336,
+            "friends_count": 1338,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 644,
+            "media_count": 646,
             "pinned_tweet_ids_str": [
                 "1921074820655034725"
             ],
@@ -106,8 +106,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219064503
+            "created_at": 1660137089000,
+            "updated_at": 1750232260551
         }
     }
 }

@@ -1,14 +1,14 @@
 {
     "id": "1804154448215969795",
     "screen_name": "bushi_233",
-    "name": "嘎嘎嘎 (贴贴bot)",
+    "name": "枫糖万叶 (贴贴bot)",
     "description": "坐标天津｜出生于2008年｜喜欢推油们😘｜淡推ing｜成分复杂｜mtf/x｜姐姐:@Muoujiang_｜好朋友:@mizuki_bot ｜树洞/逃生舱:@aaazbushi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1919261449983283200/oSpFMpfT_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804154448215969795/1724138803",
-    "followers_count": 382,
-    "friends_count": 761,
-    "statuses_count": 1765,
-    "favourites_count": 3546,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804154448215969795/1749404724",
+    "followers_count": 385,
+    "friends_count": 770,
+    "statuses_count": 1821,
+    "favourites_count": 3625,
     "listed_count": 1,
     "location": "IP属地：璃月港",
     "website": "https://t.co/eHYOCP1WJf",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-06-21 22:08:50 +08:00",
     "url": "https://twitter.com/bushi_233",
     "metadata": {
         "__typename": "User",
@@ -60,7 +60,7 @@
         },
         "core": {
             "created_at": "Fri Jun 21 14:08:50 +0000 2024",
-            "name": "嘎嘎嘎 (贴贴bot)",
+            "name": "枫糖万叶 (贴贴bot)",
             "screen_name": "bushi_233"
         },
         "dm_permissions": {
@@ -89,10 +89,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 761,
+            "friends_count": 770,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 168,
+            "media_count": 174,
             "pinned_tweet_ids_str": [
                 "1849612974287462759"
             ],
@@ -137,8 +137,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219069841
+            "created_at": 1718978930000,
+            "updated_at": 1750232265295
         }
     }
 }

@@ -2,13 +2,13 @@
     "id": "1090653130734297088",
     "screen_name": "limestty",
     "name": "芷沐",
-    "description": "软耷耷ing / 姐姐 @citriae @workinglwj / channel: https://t.co/2cHwl546Cn / ingress enl / 一个人迟早会变成自己的陌生人",
+    "description": "软耷耷ing / 姐姐 @citriae @linnaeaqwq / channel: https://t.co/2cHwl546Cn / ingress enl / 一个人迟早会变成自己的陌生人",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1924448513431330816/ilu4d8yA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1090653130734297088/1738500381",
-    "followers_count": 550,
-    "friends_count": 371,
-    "statuses_count": 1714,
-    "favourites_count": 6240,
+    "followers_count": 548,
+    "friends_count": 370,
+    "statuses_count": 1717,
+    "favourites_count": 6257,
     "listed_count": 0,
     "location": "天目山路305号",
     "website": "https://t.co/DLsMJ3y6Zv",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2019-01-31 00:49:04 +08:00",
     "url": "https://twitter.com/limestty",
     "metadata": {
         "__typename": "User",
@@ -69,7 +69,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 371,
+            "friends_count": 370,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 299,
@@ -103,8 +103,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219061680
+            "created_at": 1548866944000,
+            "updated_at": 1750232257457
         }
     }
 }

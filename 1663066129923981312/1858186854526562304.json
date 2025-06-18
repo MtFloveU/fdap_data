@@ -2,14 +2,14 @@
     "id": "1858186854526562304",
     "screen_name": "meiyujijie",
     "name": "何六诚",
-    "description": "睡觉要抱人，不爱吃蘑菇，可以放在家里改善环境",
+    "description": "是一颗仙人球",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858186854526562304/1739373925",
-    "followers_count": 75970,
-    "friends_count": 85,
-    "statuses_count": 368,
-    "favourites_count": 1439,
-    "listed_count": 156,
+    "followers_count": 76057,
+    "friends_count": 88,
+    "statuses_count": 380,
+    "favourites_count": 1453,
+    "listed_count": 159,
     "location": "",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": null,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-11-18 00:34:14 +08:00",
     "url": "https://twitter.com/meiyujijie",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 85,
+            "friends_count": 88,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 101,
+            "media_count": 113,
             "pinned_tweet_ids_str": [
                 "1892435541817257985"
             ],
@@ -78,8 +78,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219063571
+            "created_at": 1731861254000,
+            "updated_at": 1750232259424
         }
     }
 }

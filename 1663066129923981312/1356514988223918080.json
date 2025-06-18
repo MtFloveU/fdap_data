@@ -2,13 +2,13 @@
     "id": "1356514988223918080",
     "screen_name": "StarrySkyOvO",
     "name": "StarrySky",
-    "description": " EN/漢語/日本語 INFP-T Dev. 💻web3+Crypto Photographer📷 05后 友🏳️‍🌈 常驻027 接场照正片 接私房定制 接旅拍 逃生舱@StarrySkyUS bsky@starryskyovo.bsky.social",
+    "description": " EN/漢語/日本語 INFP-T Dev. 💻web3+Crypto Photographer📷 Mixing/Mastering ENGR. 05后 友🏳️‍🌈 常驻027 接场照正片 接私房定制 接旅拍 逃生舱@StarrySkyUS bsky@starryskyovo.bsky.social",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1579650782344855553/SF85JWDo_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356514988223918080/1722527030",
-    "followers_count": 4192,
-    "friends_count": 3457,
-    "statuses_count": 19965,
-    "favourites_count": 12,
+    "followers_count": 4207,
+    "friends_count": 3465,
+    "statuses_count": 20201,
+    "favourites_count": 0,
     "listed_count": 27,
     "location": "🚪0 欢迎扩列",
     "website": "https://t.co/qZoRN6mwUP",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2021-02-02 16:09:33 +08:00",
     "url": "https://twitter.com/StarrySkyOvO",
     "metadata": {
         "__typename": "User",
@@ -59,12 +59,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3457,
+            "friends_count": 3465,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 2121,
+            "media_count": 2150,
             "pinned_tweet_ids_str": [
-                "1930021701489713572"
+                "1934390483335381147"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -107,8 +107,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219075207
+            "created_at": 1612253373000,
+            "updated_at": 1750232281099
         }
     }
 }

@@ -1,15 +1,15 @@
 {
     "id": "1818731995310309376",
     "screen_name": "MOLeren198964",
-    "name": "ㄇㄌㄖ蘋果汁🍥",
-    "description": "一个脾气阴晴不定的人。不熟：@fuckpregabalin 小号：@Moleren114514 姐姐：@IAmTheSolipsism 飞机杯：@5mRtist想挂的朋友：@VicoOci @charming_xiaoyu @ShadowlessmoonR @LeQing123 @SHEEPLOVESGRASS",
+    "name": "魔ㄇ乐ㄌ人ㄖ蘋果汁🍥",
+    "description": "一个脾气阴晴不定的人。不熟：@fuckpregabalin 小号：@Moleren114514 姐姐：@VicoOci飞机杯：@5mRtist想挂的朋友： @charming_xiaoyu @ShadowlessmoonR @LeQing123 @SHEEPLOVESGRASS",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895102259245260805/JLObg4-p_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818731995310309376/1740246809",
-    "followers_count": 1899,
-    "friends_count": 2002,
-    "statuses_count": 22201,
-    "favourites_count": 126439,
-    "listed_count": 10,
+    "followers_count": 1894,
+    "friends_count": 2022,
+    "statuses_count": 22480,
+    "favourites_count": 127093,
+    "listed_count": 11,
     "location": "中华民国，北平",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-08-01 03:34:41 +08:00",
     "url": "https://twitter.com/MOLeren198964",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Wed Jul 31 19:34:41 +0000 2024",
-            "name": "ㄇㄌㄖ蘋果汁🍥",
+            "name": "魔ㄇ乐ㄌ人ㄖ蘋果汁🍥",
             "screen_name": "MOLeren198964"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2002,
+            "friends_count": 2022,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 979,
+            "media_count": 990,
             "pinned_tweet_ids_str": [
                 "1907810174527852850"
             ],
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219067732
+            "created_at": 1722454481000,
+            "updated_at": 1750232263366
         }
     }
 }

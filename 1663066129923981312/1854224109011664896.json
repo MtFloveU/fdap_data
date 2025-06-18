@@ -2,13 +2,13 @@
     "id": "1854224109011664896",
     "screen_name": "A5Tr41",
     "name": "☁️",
-    "description": "虎鲸｜小零食｜@SayoriCat8964",
+    "description": "虎鲸｜小零食｜@SayoriCat8964                            “我们终将重逢”",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1927764186139938816/bUVYlhXc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854224109011664896/1739021168",
-    "followers_count": 656,
+    "followers_count": 886,
     "friends_count": 76,
-    "statuses_count": 1214,
-    "favourites_count": 372,
+    "statuses_count": 1267,
+    "favourites_count": 371,
     "listed_count": 0,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-11-07 02:07:41 +08:00",
     "url": "https://twitter.com/A5Tr41",
     "metadata": {
         "__typename": "User",
@@ -49,7 +49,7 @@
             "friends_count": 76,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 38,
+            "media_count": 37,
             "pinned_tweet_ids_str": [
                 "1900982077845369340"
             ],
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219066708
+            "created_at": 1730916461000,
+            "updated_at": 1750232262452
         }
     }
 }

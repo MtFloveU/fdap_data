@@ -1,31 +1,43 @@
 {
     "id": "1356583549",
     "screen_name": "kagurazakayashi",
-    "name": "神楽坂雅詩👒KagurazakaMiyabi",
-    "description": "2023.7之前的所有内容已经清空，这里是3周目，今年女装11周年啦，希望认识更多友人。没有头像和推文的还有广告人乐子人还是别点关注哦，会被拉黑的。大龄伪娘，非药非跨，友跨顺男，纯爱好不发18x。之前脚本批量B过人可能误B，照片 #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶推🩵🩷",
-    "location": "東京都新宿区神楽坂５丁目７",
+    "name": "神楽坂雅詩🏳️‍⚧️",
+    "description": "2023.7之前的所有内容已经清空，这里是3周目，希望认识更多友人。没有头像和推文的还有广告人乐子人还是别点关注哦，会被拉黑的。女装不发18x。之前脚本批量B过人可能误B，照片 #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶推🩵🩷",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1701949516134375424/nAcSX2PA_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356583549/1689357726",
-    "followers_count": 13485,
-    "statuses_count": 3178,
-    "favourites_count": 15813,
-    "listed_count": 57,
+    "followers_count": 13635,
+    "friends_count": 5142,
+    "statuses_count": 3360,
+    "favourites_count": 16293,
+    "listed_count": 56,
+    "location": "東京都新宿区神楽坂５丁目７",
+    "website": "https://t.co/s9yovgrsWF",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2013-04-16 18:37:57 +08:00",
     "url": "https://twitter.com/kagurazakayashi",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzU2NTgzNTQ5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1701949516134375424/nAcSX2PA_normal.png"
+        },
+        "core": {
+            "created_at": "Tue Apr 16 10:37:57 +0000 2013",
+            "name": "神楽坂雅詩🏳️‍⚧️",
+            "screen_name": "kagurazakayashi"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": false,
             "default_profile_image": false,
             "entities": {
@@ -47,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 5117,
+            "friends_count": 5142,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 387,
+            "media_count": 401,
             "pinned_tweet_ids_str": [
                 "1700827655258690027"
             ],
@@ -58,10 +70,17 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/s9yovgrsWF",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "東京都新宿区神楽坂５丁目７"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1457347618884177920",
             "professional_type": "Creator",
@@ -73,14 +92,24 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true,
             "bitcoin_handle": "",
             "ethereum_handle": "0x667D0Bb4ad10E410eBB3E2F536983d48195CE6A6"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1366108677000,
-            "updated_at": 1744350088738
+            "updated_at": 1750232262453
         }
     }
 }

@@ -2,13 +2,13 @@
     "id": "1711607784071147520",
     "screen_name": "CuteFemboyAddMe",
     "name": "花咲ねむ🏳️‍⚧️",
-    "description": "無価値な人。30+歲mtf。Retweet Master/リツィートマスター/轉發大師。",
+    "description": "無価値な人。30+歲mtf。Retweet Master/リツィートマスター/轉發大師。已找到愛我的人。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1773019535064674304/Fah6pZgW_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 262,
-    "friends_count": 1189,
-    "statuses_count": 2074,
-    "favourites_count": 42770,
+    "followers_count": 275,
+    "friends_count": 1227,
+    "statuses_count": 2131,
+    "favourites_count": 43634,
     "listed_count": 0,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-10-10 13:01:55 +08:00",
     "url": "https://twitter.com/CuteFemboyAddMe",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1189,
+            "friends_count": 1227,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 44,
+            "media_count": 45,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
@@ -77,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219043008
+            "created_at": 1696914115000,
+            "updated_at": 1750232242803
         }
     }
 }

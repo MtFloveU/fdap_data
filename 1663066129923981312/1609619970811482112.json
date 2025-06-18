@@ -2,13 +2,13 @@
     "id": "1609619970811482112",
     "screen_name": "3ch4O1H",
     "name": "Echo4th",
-    "description": "只有情感能超越时间\n顺男 德玛西亚弗雷尔卓德边境人\n最爱的伴侣@LixdH5jzYx99195",
+    "description": "只有情感能超越时间\n自我之像，犹在镜中\n顺男 德玛西亚弗雷尔卓德边境人\n最爱的伴侣@LixdH5jzYx99195",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1925247331391479808/c3pLQLxw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609619970811482112/1742482505",
-    "followers_count": 928,
-    "friends_count": 3042,
-    "statuses_count": 25625,
-    "favourites_count": 57838,
+    "followers_count": 937,
+    "friends_count": 3061,
+    "statuses_count": 26127,
+    "favourites_count": 58763,
     "listed_count": 2,
     "location": "unknown",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-01-02 02:38:28 +08:00",
     "url": "https://twitter.com/3ch4O1H",
     "metadata": {
         "__typename": "User",
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3042,
+            "friends_count": 3061,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 795,
+            "media_count": 807,
             "pinned_tweet_ids_str": [
-                "1919113078924591571"
+                "1932518713498222834"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1672598308000,
+            "updated_at": 1750232254497
         }
     }
 }

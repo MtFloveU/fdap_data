@@ -1,14 +1,14 @@
 {
     "id": "1832834649493762048",
     "screen_name": "1n_fhtagn",
-    "name": "脲是膀胱的淚𒉭",
+    "name": "雪山葵",
     "description": "受到致命伤害时持续使生命值不低于1，9秒后强制退出战场，开启技能后立即恢复所有生命；攻击力+330%，攻击距离+2，攻击目标数+3，生命上限+5000，逐渐失去生命（60秒后到达最大生命20%/秒）；持续时间无限",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1907296465015459840/9ECT2Sd2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832834649493762048/1725977591",
-    "followers_count": 3445,
-    "friends_count": 1247,
-    "statuses_count": 12809,
-    "favourites_count": 31121,
+    "followers_count": 3504,
+    "friends_count": 1245,
+    "statuses_count": 13117,
+    "favourites_count": 31432,
     "listed_count": 6,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-09-09 01:34:06 +08:00",
     "url": "https://twitter.com/1n_fhtagn",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sun Sep 08 17:34:06 +0000 2024",
-            "name": "脲是膀胱的淚𒉭",
+            "name": "雪山葵",
             "screen_name": "1n_fhtagn"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1247,
+            "friends_count": 1245,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2886,
+            "media_count": 2977,
             "pinned_tweet_ids_str": [
                 "1924838096195223828"
             ],
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219067732
+            "created_at": 1725816846000,
+            "updated_at": 1750232263366
         }
     }
 }

@@ -1,17 +1,17 @@
 {
     "id": "1790006276162048000",
-    "screen_name": "iCosint1978",
+    "screen_name": "iCosint8964",
     "name": "Freunsigned 🇲🇴",
-    "description": "\"纵使萤火微芒，愿汇星河璀璨\"\n13 歲 || OIer ||",
+    "description": "\"纵使萤火微芒，愿汇星河璀璨\" || 现役OIer || ip: Yiwu, Chicago, Hangzhou || 🏳️‍🌈🏳️‍⚧️ || 🇭🇰🇲🇴🇹🇼🇨🇳 || 🇺🇸🇨🇦🇯🇵🇸🇬 || 100% 回fo\nlang: 简中 繁中 English C/C++ Python",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1884908812936916992/61ZB-f2e_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790006276162048000/1741398653",
-    "followers_count": 225,
-    "friends_count": 274,
-    "statuses_count": 350,
-    "favourites_count": 4530,
-    "listed_count": 0,
+    "followers_count": 248,
+    "friends_count": 287,
+    "statuses_count": 509,
+    "favourites_count": 4705,
+    "listed_count": 1,
     "location": "",
-    "website": "https://t.co/OAnLvbqWPI",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,8 +19,8 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/iCosint1978",
+    "created_at": "2024-05-13 21:08:58 +08:00",
+    "url": "https://twitter.com/iCosint8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzkwMDA2Mjc2MTYyMDQ4MDAw",
@@ -31,7 +31,7 @@
         "core": {
             "created_at": "Mon May 13 13:08:58 +0000 2024",
             "name": "Freunsigned 🇲🇴",
-            "screen_name": "iCosint1978"
+            "screen_name": "iCosint8964"
         },
         "dm_permissions": {
             "can_dm": true
@@ -43,33 +43,19 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/cosint0806",
-                            "expanded_url": "https://ngl.link/cosint0806",
-                            "url": "https://t.co/OAnLvbqWPI",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 274,
+            "friends_count": 287,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 17,
+            "media_count": 42,
             "pinned_tweet_ids_str": [
                 "1907798498302636269"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/OAnLvbqWPI",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -93,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219059243
+            "created_at": 1715605738000,
+            "updated_at": 1750232255807
         }
     }
 }

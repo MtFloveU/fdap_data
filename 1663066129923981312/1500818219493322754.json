@@ -4,14 +4,14 @@
     "name": "戈列格里斯",
     "description": "低浮上｜07｜BPD｜互fo｜男朋友： @QianliFrost",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873020186095501312/DzLhY3jJ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500818219493322754/1736941313",
-    "followers_count": 819,
-    "friends_count": 731,
-    "statuses_count": 7929,
-    "favourites_count": 27816,
-    "listed_count": 8,
-    "location": "Endfield",
-    "website": "https://t.co/DiFwwfAZpA",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500818219493322754/1749469589",
+    "followers_count": 815,
+    "friends_count": 716,
+    "statuses_count": 7013,
+    "favourites_count": 27877,
+    "listed_count": 7,
+    "location": "",
+    "website": "https://t.co/oLNh7gZl8W",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-03-07 21:07:20 +08:00",
     "url": "https://twitter.com/eee_bree",
     "metadata": {
         "__typename": "User",
@@ -47,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "youtu.be/eP4eqhWc7sI?si…",
-                            "expanded_url": "https://youtu.be/eP4eqhWc7sI?si=EbQV-SR0Y4KcJajK",
-                            "url": "https://t.co/DiFwwfAZpA",
+                            "display_url": "youtube.com/@eee_bre?si=mU…",
+                            "expanded_url": "https://youtube.com/@eee_bre?si=mU7w5AbPyz8dNvdW",
+                            "url": "https://t.co/oLNh7gZl8W",
                             "indices": [
                                 0,
                                 23
@@ -59,22 +59,22 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 731,
+            "friends_count": 716,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 715,
+            "media_count": 595,
             "pinned_tweet_ids_str": [
-                "1914593391821906153"
+                "1903973138846925049"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/DiFwwfAZpA",
+            "url": "https://t.co/oLNh7gZl8W",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "Endfield"
+            "location": ""
         },
         "media_permissions": {
             "can_media_tag": false
@@ -84,13 +84,7 @@
         "professional": {
             "rest_id": "1842405675886162349",
             "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 618,
-                    "name": "Speech Pathologist",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
+            "category": []
         },
         "privacy": {
             "protected": false
@@ -106,8 +100,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219074028
+            "created_at": 1646658440000,
+            "updated_at": 1750232279957
         }
     }
 }

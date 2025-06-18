@@ -2,13 +2,13 @@
     "id": "1830270049967611904",
     "screen_name": "mmbb111222333",
     "name": "沫汁🍥",
-    "description": "09｜163｜84｜mtf🏳️‍⚧️｜hrt24.6.8｜很友好｜家暴暴暴暴暴党｜心烦的时候喜欢删帖😈｜🚪50（陪聊）｜诡秘：@FengJIn2781｜小号@mmbb111222",
+    "description": "09｜163｜84｜mtf🏳️‍⚧️｜hrt24.6.8｜很友好｜家暴暴暴暴暴党｜心烦的时候喜欢删帖😈｜🚪50（仅纯绿陪聊）｜诡秘：@FengJIn2781｜小号@mmbb111222",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1913452632460701696/AVEv06q0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830270049967611904/1745037470",
-    "followers_count": 4856,
-    "friends_count": 705,
-    "statuses_count": 546,
-    "favourites_count": 2241,
+    "followers_count": 4840,
+    "friends_count": 709,
+    "statuses_count": 562,
+    "favourites_count": 2243,
     "listed_count": 10,
     "location": "遇境",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-09-01 23:43:23 +08:00",
     "url": "https://twitter.com/mmbb111222333",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 705,
+            "friends_count": 709,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 9,
+            "media_count": 11,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219063571
+            "created_at": 1725205403000,
+            "updated_at": 1750232259424
         }
     }
 }

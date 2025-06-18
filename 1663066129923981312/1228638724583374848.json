@@ -1,14 +1,14 @@
 {
     "id": "1228638724583374848",
     "screen_name": "Plantie_uwu",
-    "name": "plantie✨🏳️‍🌈🏳️‍⚧️",
-    "description": "They/them🏳️‍🌈🏳️‍⚧️",
+    "name": "plantie✨🏳️‍🌈",
+    "description": "They/them. Celebrating Pride Month🏳️‍🌈🏳️‍⚧️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228638724583374848/1748691519",
-    "followers_count": 10132,
-    "friends_count": 1752,
-    "statuses_count": 5704,
-    "favourites_count": 18967,
+    "followers_count": 10172,
+    "friends_count": 1761,
+    "statuses_count": 5737,
+    "favourites_count": 18991,
     "listed_count": 37,
     "location": "bed",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": null,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2020-02-15 19:14:49 +08:00",
     "url": "https://twitter.com/Plantie_uwu",
     "metadata": {
         "__typename": "User",
@@ -60,7 +60,7 @@
         },
         "core": {
             "created_at": "Sat Feb 15 11:14:49 +0000 2020",
-            "name": "plantie✨🏳️‍🌈🏳️‍⚧️",
+            "name": "plantie✨🏳️‍🌈",
             "screen_name": "Plantie_uwu"
         },
         "dm_permissions": {
@@ -76,10 +76,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1752,
+            "friends_count": 1761,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 976,
+            "media_count": 980,
             "pinned_tweet_ids_str": [
                 "1928829047020151081"
             ],
@@ -110,8 +110,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749299322859
+            "created_at": 1581765289000,
+            "updated_at": 1750232282149
         }
     }
 }

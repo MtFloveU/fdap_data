@@ -1,16 +1,16 @@
 {
     "id": "1176535991454064640",
     "screen_name": "lumigj02",
-    "name": "猫卷大小姐",
-    "description": "@_FurryFur_ @HobartR6 日雌390泰补210 私信或下方telegram⬇️",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1931251090965831680/SudTlOkS_normal.jpg",
+    "name": "Lumi 猫卷 (日雌泰补",
+    "description": "友跨顺男 | 日雌泰补在售 私信或联系下方Telegram | 🇸🇬 Yishun人跟我们Orchard人讲话要用敬语 | 家猫: @_FurryFur_",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1935008461118664704/bvUzII5p_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1744406940",
-    "followers_count": 2699,
-    "friends_count": 895,
-    "statuses_count": 12326,
-    "favourites_count": 27085,
+    "followers_count": 2732,
+    "friends_count": 902,
+    "statuses_count": 12503,
+    "favourites_count": 27186,
     "listed_count": 12,
-    "location": "Malaysia",
+    "location": "",
     "website": "https://t.co/xnU7yfJnaD",
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2019-09-25 00:37:04 +08:00",
     "url": "https://twitter.com/lumigj02",
     "metadata": {
         "__typename": "User",
@@ -56,11 +56,11 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1931251090965831680/SudTlOkS_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1935008461118664704/bvUzII5p_normal.jpg"
         },
         "core": {
             "created_at": "Tue Sep 24 16:37:04 +0000 2019",
-            "name": "猫卷大小姐",
+            "name": "Lumi 猫卷 (日雌泰补",
             "screen_name": "lumigj02"
         },
         "dm_permissions": {
@@ -89,12 +89,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 895,
+            "friends_count": 902,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1097,
+            "media_count": 1110,
             "pinned_tweet_ids_str": [
-                "1930316290662768737"
+                "1935009108744425845"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -104,7 +104,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "Malaysia"
+            "location": ""
         },
         "media_permissions": {
             "can_media_tag": false
@@ -127,8 +127,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749299313594
+            "created_at": 1569343024000,
+            "updated_at": 1750232262453
         }
     }
 }

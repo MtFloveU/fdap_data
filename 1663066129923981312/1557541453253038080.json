@@ -2,15 +2,15 @@
     "id": "1557541453253038080",
     "screen_name": "KawawaDiana8964",
     "name": "枫糖小蓝🫐 (Di Alan Chan 🌊🐻👊🏻）",
-    "description": "简中/English/Español/C \nFriendly with anyone except SB, rac!st,支黑,谣棍,\nSUPPORT✊🏻🌹🇵🇸🇺🇦🇨🇳🇺🇸☮️毛 #中推名人评分 \n欢迎友好交流(8964=no repost on🇨🇳social media!)",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1930972553041920000/J33Kw1L7_normal.jpg",
+    "description": "简中/English/Español/C/Python\nFriendly with anyone except SB, rac!st,支黑,谣棍,\nSUPPORT✊🏻🌹🇵🇸🇺🇦🇨🇳🇺🇸☮️毛 #中推名人评分 \n欢迎友好交流(8964=no repost on🇨🇳social media!)",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933244694252711936/rmJ57Zrt_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557541453253038080/1743469119",
-    "followers_count": 393,
-    "friends_count": 308,
-    "statuses_count": 1195,
-    "favourites_count": 1813,
-    "listed_count": 2,
-    "location": "枝江国际-灯塔分区",
+    "followers_count": 462,
+    "friends_count": 352,
+    "statuses_count": 1402,
+    "favourites_count": 2435,
+    "listed_count": 1,
+    "location": "枝江国际-灯塔(Boston)分区",
     "website": "https://t.co/wy2TJmPIIJ",
     "birthdate": null,
     "verified_type": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-08-11 09:36:58 +08:00",
     "url": "https://twitter.com/KawawaDiana8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTU3NTQxNDUzMjUzMDM4MDgw",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1930972553041920000/J33Kw1L7_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1933244694252711936/rmJ57Zrt_normal.jpg"
         },
         "core": {
             "created_at": "Thu Aug 11 01:36:58 +0000 2022",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 308,
+            "friends_count": 352,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 319,
+            "media_count": 369,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -72,7 +72,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "枝江国际-灯塔分区"
+            "location": "枝江国际-灯塔(Boston)分区"
         },
         "media_permissions": {
             "can_media_tag": true
@@ -91,8 +91,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219025756
+            "created_at": 1660181818000,
+            "updated_at": 1750232227620
         }
     }
 }

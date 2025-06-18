@@ -2,30 +2,42 @@
     "id": "1834768402894012417",
     "screen_name": "MsLbuprofen",
     "name": "MsLbuprofen🏳️‍⚧️",
-    "description": "🏳️‍⚧️🍥 // 想要互fo可以嘛可以嘛可以嘛？// milthm reality 10.69 // muse dash苦手 // INFP-O-H // 重度抑郁 双相 // 泛性恋 // 联系我请用邮件：mslbuprofen@outlook.com // OvacSpeedSuki 编辑组成员",
-    "location": "Ougasyou, Yae, Yukiguni",
+    "description": "自治自由主义宣言提出者 // 不必为了爬上山巅互相残杀，我们可以携手建桥。// 自治自由主义共同体",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1854772073383567361/48jjHTPY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834768402894012417/1729085682",
-    "followers_count": 235,
-    "statuses_count": 374,
-    "favourites_count": 5669,
+    "followers_count": 241,
+    "friends_count": 383,
+    "statuses_count": 433,
+    "favourites_count": 6926,
     "listed_count": 1,
+    "location": "Ougasyou, Yae, Yukiguni",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-09-14 09:37:54 +08:00",
     "url": "https://twitter.com/MsLbuprofen",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODM0NzY4NDAyODk0MDEyNDE3",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1854772073383567361/48jjHTPY_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Sep 14 01:37:54 +0000 2024",
+            "name": "MsLbuprofen🏳️‍⚧️",
+            "screen_name": "MsLbuprofen"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": false,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 349,
+            "friends_count": 383,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 37,
+            "media_count": 46,
             "pinned_tweet_ids_str": [
-                "1852526708894892289"
+                "1933443217472831690"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Ougasyou, Yae, Yukiguni"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1726277874000,
-            "updated_at": 1744350088738
+            "updated_at": 1750232262453
         }
     }
 }

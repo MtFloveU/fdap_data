@@ -2,14 +2,14 @@
     "id": "1911667460635344896",
     "screen_name": "watermelon96758",
     "name": "瓜师傅（二代目/推友寻回中）",
-    "description": "此号仅用于看新闻/不对线/最爱申鹤",
+    "description": "此号仅用于看新闻/不对线/我是画色图的，关注我我会发涩图",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1917238887803498497/vHz4Relr_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911667460635344896/1745155790",
-    "followers_count": 109,
-    "friends_count": 162,
-    "statuses_count": 1104,
-    "favourites_count": 3302,
-    "listed_count": 3,
+    "followers_count": 126,
+    "friends_count": 189,
+    "statuses_count": 1674,
+    "favourites_count": 4642,
+    "listed_count": 0,
     "location": "",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2025-04-14 14:26:58 +08:00",
     "url": "https://twitter.com/watermelon96758",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 162,
+            "friends_count": 189,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 95,
+            "media_count": 144,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
@@ -77,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1744612018000,
+            "updated_at": 1750232254497
         }
     }
 }

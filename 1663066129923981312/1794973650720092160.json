@@ -2,12 +2,12 @@
     "id": "1794973650720092160",
     "screen_name": "zutto_suki513",
     "name": "我会一个人活下去",
-    "description": "恋垢／病み垢  爱着妳的我流泪的理由",
+    "description": "恋垢／病み垢 爱着妳的我流泪的理由  Y是主人",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1905100630634774528/DfdVBL6u_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794973650720092160/1719134818",
     "followers_count": 10,
-    "friends_count": 26,
-    "statuses_count": 435,
+    "friends_count": 25,
+    "statuses_count": 462,
     "favourites_count": 170,
     "listed_count": 0,
     "location": "",
@@ -18,8 +18,8 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "protected": false,
+    "created_at": "2024-05-27 14:07:34 +08:00",
     "url": "https://twitter.com/zutto_suki513",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 26,
+            "friends_count": 25,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 43,
+            "media_count": 47,
             "pinned_tweet_ids_str": [
                 "1920306573970452519"
             ],
@@ -68,7 +68,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "privacy": {
-            "protected": true
+            "protected": false
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219059243
+            "created_at": 1716790054000,
+            "updated_at": 1750232255807
         }
     }
 }

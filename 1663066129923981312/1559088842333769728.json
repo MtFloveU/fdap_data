@@ -2,13 +2,13 @@
     "id": "1559088842333769728",
     "screen_name": "hsnyuia",
     "name": "ゆいあ",
-    "description": "トランスじゃなく   好き≠いいね=既読",
+    "description": "トランスじゃなく  いいね=既読≠好き",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1805979917391405057/dySmOpSA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559088842333769728/1725648955",
-    "followers_count": 1303,
-    "friends_count": 1136,
-    "statuses_count": 4443,
-    "favourites_count": 9337,
+    "followers_count": 1318,
+    "friends_count": 1150,
+    "statuses_count": 4512,
+    "favourites_count": 9592,
     "listed_count": 5,
     "location": "寮",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-08-15 16:05:37 +08:00",
     "url": "https://twitter.com/hsnyuia",
     "metadata": {
         "__typename": "User",
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1136,
+            "friends_count": 1150,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 568,
+            "media_count": 577,
             "pinned_tweet_ids_str": [
-                "1930625947499462721"
+                "1903294731964256498"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219066708
+            "created_at": 1660550737000,
+            "updated_at": 1750232262453
         }
     }
 }

@@ -1,17 +1,17 @@
 {
     "id": "1791348768690089984",
     "screen_name": "owl8964cat",
-    "name": "魔法使いねこ",
-    "description": "福建|美少女ゲーム|液态 貓貓:@SakuraCatMoe @Romanorum_ @LycoReco_neneko @niukecat铁道友@kiming568416 茉莉姐:@shirasu8964228喵派:@honxine8964 p宝:@M600_spitfire 麦:@2SJ7ntKBdEtTKr",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1812771583234068481/3J6UZdqY_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791348768690089984/1722145862",
-    "followers_count": 839,
-    "friends_count": 946,
-    "statuses_count": 21165,
-    "favourites_count": 68233,
-    "listed_count": 3,
+    "name": "魔法使い猫🐈",
+    "description": "福建|美少女ゲーム|液态性别 貓貓:@SakuraCatMoe @Romanorum_ @LycoReco_neneko @niukecat铁道友@kiming568416 茉莉姐:@shirasu8964228喵派:@honxine8964 p宝:@M600_spitfire 麦:@2SJ7ntKBdEtTKr",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1934549696825249792/10cpXTxc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791348768690089984/1749689290",
+    "followers_count": 857,
+    "friends_count": 966,
+    "statuses_count": 22309,
+    "favourites_count": 70692,
+    "listed_count": 4,
     "location": "北京市东城区新开路胡同71号",
-    "website": null,
+    "website": "https://t.co/EK2z6k0V7R",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-05-17 14:03:53 +08:00",
     "url": "https://twitter.com/owl8964cat",
     "metadata": {
         "__typename": "User",
@@ -56,11 +56,11 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1812771583234068481/3J6UZdqY_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1934549696825249792/10cpXTxc_normal.jpg"
         },
         "core": {
             "created_at": "Fri May 17 06:03:53 +0000 2024",
-            "name": "魔法使いねこ",
+            "name": "魔法使い猫🐈",
             "screen_name": "owl8964cat"
         },
         "dm_permissions": {
@@ -73,19 +73,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "192.10.1.1.com",
+                            "expanded_url": "http://192.10.1.1.com",
+                            "url": "https://t.co/EK2z6k0V7R",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 946,
+            "friends_count": 966,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 156,
+            "media_count": 162,
             "pinned_tweet_ids_str": [
                 "1928444137163964667"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/EK2z6k0V7R",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -109,8 +123,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219069841
+            "created_at": 1715925833000,
+            "updated_at": 1750232265295
         }
     }
 }

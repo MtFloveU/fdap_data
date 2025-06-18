@@ -2,13 +2,13 @@
     "id": "1720002363409469440",
     "screen_name": "Priestess1878",
     "name": "lohalidle",
-    "description": "感覺像玩原神的",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1929918146766614532/iXdADrNv_normal.jpg",
+    "description": "Reichstag議員",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933778042528362496/GlV-NMDL_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720002363409469440/1710591671",
-    "followers_count": 385,
-    "friends_count": 347,
-    "statuses_count": 8548,
-    "favourites_count": 8261,
+    "followers_count": 383,
+    "friends_count": 345,
+    "statuses_count": 8585,
+    "favourites_count": 8266,
     "listed_count": 2,
     "location": "Сыктывкар",
     "website": "https://t.co/qTVreSJypd",
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-11-02 16:58:24 +08:00",
     "url": "https://twitter.com/Priestess1878",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzIwMDAyMzYzNDA5NDY5NDQw",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1929918146766614532/iXdADrNv_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1933778042528362496/GlV-NMDL_normal.jpg"
         },
         "core": {
             "created_at": "Thu Nov 02 08:58:24 +0000 2023",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 347,
+            "friends_count": 345,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 978,
+            "media_count": 988,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -102,8 +102,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219062663
+            "created_at": 1698915504000,
+            "updated_at": 1750232259424
         }
     }
 }

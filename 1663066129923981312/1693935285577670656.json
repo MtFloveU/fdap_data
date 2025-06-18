@@ -2,15 +2,15 @@
     "id": "1693935285577670656",
     "screen_name": "MinaseAyano",
     "name": "綾乃🍋‍🟩",
-    "description": "🏳️‍⚧️MtF | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 可以私信找我交换明信片～ | 里推（负能）& 老婆@Yumo_1314 杂鱼主人❤️@_Tojita_Sekai 老婆大人@Kisaragi_momoe | tg频道 https://t.co/xMT471y6mP",
+    "description": "🏳️‍⚧️MtF | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 可以私信找我交换明信片～ | 里推负能 & 可爱老婆@Yumo_1314 杂鱼主人❤️@_Tojita_Sekai 可爱姐姐@yanmin1105 | tg频道 https://t.co/xMT471y6mP",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1693935285577670656/1714064110",
-    "followers_count": 1516,
-    "friends_count": 1577,
-    "statuses_count": 6013,
-    "favourites_count": 5030,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1693935285577670656/1749638802",
+    "followers_count": 1565,
+    "friends_count": 1620,
+    "statuses_count": 6236,
+    "favourites_count": 5369,
     "listed_count": 6,
-    "location": "猫窝",
+    "location": "Longyearbyen",
     "website": "https://t.co/vdyPufHjYv",
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-08-22 18:37:12 +08:00",
     "url": "https://twitter.com/MinaseAyano",
     "metadata": {
         "__typename": "User",
@@ -78,8 +78,8 @@
                             "expanded_url": "https://t.me/+Sn3dFcOItP5lOTM0",
                             "url": "https://t.co/xMT471y6mP",
                             "indices": [
-                                114,
-                                137
+                                111,
+                                134
                             ]
                         }
                     ]
@@ -99,10 +99,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1577,
+            "friends_count": 1620,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 468,
+            "media_count": 492,
             "pinned_tweet_ids_str": [
                 "1909517285662101999"
             ],
@@ -114,7 +114,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "猫窝"
+            "location": "Longyearbyen"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -133,8 +133,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219075207
+            "created_at": 1692700632000,
+            "updated_at": 1750232281099
         }
     }
 }

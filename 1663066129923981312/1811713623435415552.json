@@ -1,16 +1,16 @@
 {
     "id": "1811713623435415552",
     "screen_name": "Dodome2617",
-    "name": "我有罪",
+    "name": "二次罪",
     "description": "@moxi_ocurmi",
-    "location": "Adachi-ku, Tokyo",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1870474612737495041/AMS3Ovy4_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811713623435415552/1735670702",
-    "followers_count": 681,
-    "friends_count": 2428,
-    "statuses_count": 3358,
-    "favourites_count": 21709,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1932174664673132544/-EB9u0Bx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811713623435415552/1748141405",
+    "followers_count": 729,
+    "friends_count": 2614,
+    "statuses_count": 3687,
+    "favourites_count": 24131,
     "listed_count": 2,
+    "location": "Adachi-ku, Tokyo",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": false,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
+    "protected": false,
     "created_at": "2024-07-12 18:46:12 +08:00",
     "url": "https://twitter.com/Dodome2617",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODExNzEzNjIzNDM1NDE1NTUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1932174664673132544/-EB9u0Bx_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jul 12 10:46:12 +0000 2024",
+            "name": "二次罪",
+            "screen_name": "Dodome2617"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2428,
+            "friends_count": 2614,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 190,
+            "media_count": 213,
             "pinned_tweet_ids_str": [
-                "1913812681372680632"
+                "1931508010872189233"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Adachi-ku, Tokyo"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1720781172000,
-            "updated_at": 1746189605003
+            "updated_at": 1750232235958
         }
     }
 }

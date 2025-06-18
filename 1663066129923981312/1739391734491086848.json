@@ -1,14 +1,14 @@
 {
     "id": "1739391734491086848",
     "screen_name": "IXXA00",
-    "name": "卖货小妹isla",
-    "description": "最喜欢吃别人对我无法自拔的爱欲。",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1747167435",
-    "followers_count": 3699,
-    "friends_count": 3052,
-    "statuses_count": 22571,
-    "favourites_count": 23061,
+    "name": "isla🥑",
+    "description": "🚪52/https://t.co/UDk836ufY8",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1934877841247883266/NrEE0FYl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1750041990",
+    "followers_count": 3726,
+    "friends_count": 3102,
+    "statuses_count": 23541,
+    "favourites_count": 23950,
     "listed_count": 7,
     "location": "你不知道的地方",
     "website": null,
@@ -19,18 +19,18 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-12-26 05:04:51 +08:00",
     "url": "https://twitter.com/IXXA00",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzM5MzkxNzM0NDkxMDg2ODQ4",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1930509761147224064/B35rSoQZ_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1934877841247883266/NrEE0FYl_normal.jpg"
         },
         "core": {
             "created_at": "Mon Dec 25 21:04:51 +0000 2023",
-            "name": "卖货小妹isla",
+            "name": "isla🥑",
             "screen_name": "IXXA00"
         },
         "dm_permissions": {
@@ -42,17 +42,25 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/ixxa00",
+                            "expanded_url": "https://ngl.link/ixxa00",
+                            "url": "https://t.co/UDk836ufY8",
+                            "indices": [
+                                4,
+                                27
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3052,
+            "friends_count": 3102,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1678,
-            "pinned_tweet_ids_str": [
-                "1931152726496616745"
-            ],
+            "media_count": 1762,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -81,8 +89,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749299323978
+            "created_at": 1703538291000,
+            "updated_at": 1750232283136
         }
     }
 }

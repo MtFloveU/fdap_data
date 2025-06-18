@@ -2,13 +2,13 @@
     "id": "1512976991976402949",
     "screen_name": "bghtnya",
     "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
-    "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+    "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
-    "followers_count": 6342,
-    "friends_count": 1959,
-    "statuses_count": 35671,
-    "favourites_count": 141618,
+    "followers_count": 6482,
+    "friends_count": 2005,
+    "statuses_count": 36619,
+    "favourites_count": 147032,
     "listed_count": 14,
     "location": "",
     "website": "https://t.co/y39tjWHwQW",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-04-10 10:13:28 +08:00",
     "url": "https://twitter.com/bghtnya",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1959,
+            "friends_count": 2005,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 2626,
+            "media_count": 2743,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -104,8 +104,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219079495
+            "created_at": 1649556808000,
+            "updated_at": 1750232284269
         }
     }
 }

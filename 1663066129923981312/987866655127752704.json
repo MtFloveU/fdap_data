@@ -2,13 +2,13 @@
     "id": "987866655127752704",
     "screen_name": "Hoshiumi_Rin321",
     "name": "星海翎🕯️",
-    "description": "She/Her | 门槛随缘 | 大猫姐姐：@E2Blackhole",
+    "description": "She/Her | 门槛随缘 | 大猫姐姐：@E2Blackhole | 咪：@sunnybless_rk",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1747079482161369088/_PdhIw9o_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/987866655127752704/1699889801",
-    "followers_count": 5022,
-    "friends_count": 2809,
+    "followers_count": 5041,
+    "friends_count": 2815,
     "statuses_count": 4985,
-    "favourites_count": 58439,
+    "favourites_count": 58455,
     "listed_count": 18,
     "location": "天国",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2018-04-22 09:32:19 +08:00",
     "url": "https://twitter.com/Hoshiumi_Rin321",
     "metadata": {
         "__typename": "User",
@@ -46,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2809,
+            "friends_count": 2815,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 209,
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219070872
+            "created_at": 1524360739000,
+            "updated_at": 1750232266173
         }
     }
 }

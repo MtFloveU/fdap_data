@@ -2,15 +2,15 @@
     "id": "1784942881243086848",
     "screen_name": "WomSleeping",
     "name": "Wom sleeping",
-    "description": "摄影爱好者（意外的考到证了），时不时分享一下扫街日常。二次元，大概是个技术宅，社恐，赴德留学预备中，纯正工科生（确信）一个理想主义者\n梦想是做个普通人",
-    "location": "",
+    "description": "一个无足轻重的人",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1877633732120805376/T_aXQ-Pz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784942881243086848/1745421440",
-    "followers_count": 231,
-    "friends_count": 2716,
-    "statuses_count": 3325,
-    "favourites_count": 19829,
+    "followers_count": 266,
+    "friends_count": 3148,
+    "statuses_count": 4656,
+    "favourites_count": 26559,
     "listed_count": 0,
+    "location": "",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
+    "protected": false,
     "created_at": "2024-04-29 21:48:52 +08:00",
     "url": "https://twitter.com/WomSleeping",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzg0OTQyODgxMjQzMDg2ODQ4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1877633732120805376/T_aXQ-Pz_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Apr 29 13:48:52 +0000 2024",
+            "name": "Wom sleeping",
+            "screen_name": "WomSleeping"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2716,
+            "friends_count": 3148,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 666,
+            "media_count": 763,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1714398532000,
-            "updated_at": 1746176978964
+            "updated_at": 1750232256648
         }
     }
 }

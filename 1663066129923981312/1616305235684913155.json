@@ -1,31 +1,43 @@
 {
     "id": "1616305235684913155",
-    "screen_name": "duzengxu",
+    "screen_name": "star_dream_dawn",
     "name": "星夢🍥",
-    "description": "你好亲，这里是星梦哦\n有躁郁症所以不太好交流呢\n喜欢逛街出去玩\n发情才会涩涩\n现实里面有点性冷淡\n会很粘人的哦\n在玉玉自闭…\n姐姐大人:@error_aira8964\nQQ：暂时不加了哦亲",
-    "location": "Minato-ku, Tokyo",
+    "description": "你好亲，这里是星梦哦\n有躁郁症所以不太好交流呢\n喜欢逛街出去玩\n发情才会涩涩\n现实里面有点性冷淡\n会很粘人的哦\n在玉玉自闭…\n阶阶大人：@wangziq51533244\nQQ：暂时不加了哦亲",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1898170224488464388/JZmsnBUM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616305235684913155/1678520099",
-    "followers_count": 366,
-    "statuses_count": 206,
-    "favourites_count": 243,
+    "followers_count": 360,
+    "friends_count": 142,
+    "statuses_count": 213,
+    "favourites_count": 240,
     "listed_count": 1,
+    "location": "Minato-ku, Tokyo",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-01-20 13:23:12 +08:00",
-    "url": "https://twitter.com/duzengxu",
+    "url": "https://twitter.com/star_dream_dawn",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjE2MzA1MjM1Njg0OTEzMTU1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1898170224488464388/JZmsnBUM_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jan 20 05:23:12 +0000 2023",
+            "name": "星夢🍥",
+            "screen_name": "star_dream_dawn"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,26 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 139,
+            "friends_count": 142,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 29,
+            "media_count": 30,
             "pinned_tweet_ids_str": [
                 "1877685983556383074"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Minato-ku, Tokyo"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1674192192000,
-            "updated_at": 1744350083621
+            "updated_at": 1750232259424
         }
     }
 }

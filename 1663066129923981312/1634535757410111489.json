@@ -2,13 +2,13 @@
     "id": "1634535757410111489",
     "screen_name": "woshi_caicai",
     "name": "虹雨",
-    "description": "|不键政|工作日在上学＝似了",
+    "description": "soyorin love~",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1923338673476816897/TtY_Yipm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634535757410111489/1738046559",
-    "followers_count": 302,
-    "friends_count": 231,
-    "statuses_count": 2441,
-    "favourites_count": 6387,
+    "followers_count": 306,
+    "friends_count": 200,
+    "statuses_count": 2519,
+    "favourites_count": 6538,
     "listed_count": 4,
     "location": "🚪0.4",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-03-11 20:44:37 +08:00",
     "url": "https://twitter.com/woshi_caicai",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 231,
+            "friends_count": 200,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 96,
+            "media_count": 98,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1678538677000,
+            "updated_at": 1750232255807
         }
     }
 }

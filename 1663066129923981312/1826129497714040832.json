@@ -1,14 +1,14 @@
 {
     "id": "1826129497714040832",
     "screen_name": "KangtongnaZJL",
-    "name": "幸福的的时候要往🇧🇪射",
-    "description": "鲁西南是鲁西南人的鲁西南",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1930694494489550848/-JhuP-gT_normal.jpg",
+    "name": "シャオユウ",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1934822662909644801/Vxr_wsq9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826129497714040832/1746588819",
-    "followers_count": 280,
-    "friends_count": 312,
-    "statuses_count": 3458,
-    "favourites_count": 5446,
+    "followers_count": 285,
+    "friends_count": 318,
+    "statuses_count": 3545,
+    "favourites_count": 5576,
     "listed_count": 1,
     "location": "",
     "website": null,
@@ -19,18 +19,18 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-08-21 13:29:47 +08:00",
     "url": "https://twitter.com/KangtongnaZJL",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI2MTI5NDk3NzE0MDQwODMy",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1930694494489550848/-JhuP-gT_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1934822662909644801/Vxr_wsq9_normal.jpg"
         },
         "core": {
             "created_at": "Wed Aug 21 05:29:47 +0000 2024",
-            "name": "幸福的的时候要往🇧🇪射",
+            "name": "シャオユウ",
             "screen_name": "KangtongnaZJL"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 312,
+            "friends_count": 318,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 808,
+            "media_count": 824,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -82,8 +82,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749299315634
+            "created_at": 1724218187000,
+            "updated_at": 1750232264361
         }
     }
 }

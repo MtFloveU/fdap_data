@@ -1,0 +1,86 @@
+{
+    "id": "1933225223416864768",
+    "screen_name": "Araya_Touka_222",
+    "name": "灯華⚜️",
+    "description": "中文/English/Français \n现居魁北克的ACGN享受者，可以叫我Léo。\n我推：爱尔奎特，新谷灯華，咲畑梨深，荻浜茜！\nJe me souviens!",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933232115555975169/fCyh7BT7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933225223416864768/1749758219",
+    "followers_count": 101,
+    "friends_count": 636,
+    "statuses_count": 127,
+    "favourites_count": 664,
+    "listed_count": 0,
+    "location": "Québec",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2025-06-13 02:11:38 +08:00",
+    "url": "https://twitter.com/Araya_Touka_222",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxOTMzMjI1MjIzNDE2ODY0NzY4",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1933232115555975169/fCyh7BT7_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jun 12 18:11:38 +0000 2025",
+            "name": "灯華⚜️",
+            "screen_name": "Araya_Touka_222"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": false,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 636,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 13,
+            "pinned_tweet_ids_str": [
+                "1933262800664572093"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Québec"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1749751898000,
+            "updated_at": 1750232254497
+        }
+    }
+}

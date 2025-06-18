@@ -2,13 +2,13 @@
     "id": "1806849464386416640",
     "screen_name": "tangeorange",
     "name": "橙橘桔橙",
-    "description": "__OIer\n_虚无之有。\n_BFF @alphax1ull\n_我人很老实请不要欺负我\n_MtF\n_working on https://t.co/p5AWIehP0e",
+    "description": "__OIer\n_虚无之有。\n_我人很老实请不要欺负我\n_MtF\n_plurality\n! @o_nightangerine",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1882668179060916224/xtWx_fUa_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1806849464386416640/1748060367",
-    "followers_count": 1187,
-    "friends_count": 1379,
-    "statuses_count": 3739,
-    "favourites_count": 5913,
+    "followers_count": 1266,
+    "friends_count": 1453,
+    "statuses_count": 3893,
+    "favourites_count": 6069,
     "listed_count": 1,
     "location": "",
     "website": "https://t.co/NqG6Q8kFY7",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-06-29 08:37:43 +08:00",
     "url": "https://twitter.com/tangeorange",
     "metadata": {
         "__typename": "User",
@@ -42,17 +42,7 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "nlnm.orangestd.cn",
-                            "expanded_url": "http://nlnm.orangestd.cn",
-                            "url": "https://t.co/p5AWIehP0e",
-                            "indices": [
-                                61,
-                                84
-                            ]
-                        }
-                    ]
+                    "urls": []
                 },
                 "url": {
                     "urls": [
@@ -69,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1379,
+            "friends_count": 1453,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 602,
+            "media_count": 625,
             "pinned_tweet_ids_str": [
                 "1868968124990865443"
             ],
@@ -114,8 +104,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219072953
+            "created_at": 1719621463000,
+            "updated_at": 1750232268016
         }
     }
 }

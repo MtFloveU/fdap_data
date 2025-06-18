@@ -1,15 +1,15 @@
 {
     "id": "1613864465195503616",
     "screen_name": "sinthell0ver040",
-    "name": "FiLER",
-    "description": "priv acc: @filer0050 | he/him | alias: Leiri | genderfluid | silly gf: @WeissAsSnow15 | fav friends: @small_circleFPE @jaidendouble @FPESchool @RobbyFPE132",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1928765385400315904/fn121m95_normal.jpg",
+    "name": "Leiri",
+    "description": "priv acc: @filer0050 | she/they | alias: FiLER | genderfluid | silly gf: @WeissAsSnow15 | fav friends: @small_circleFPE @jaidendouble @FPESchool @RobbyFPE132",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1934784204925247488/AvAloFAc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613864465195503616/1747870995",
-    "followers_count": 5031,
-    "friends_count": 1452,
-    "statuses_count": 15761,
-    "favourites_count": 42874,
-    "listed_count": 87,
+    "followers_count": 5038,
+    "friends_count": 1465,
+    "statuses_count": 16026,
+    "favourites_count": 43845,
+    "listed_count": 84,
     "location": "2fort",
     "website": null,
     "birthdate": null,
@@ -19,18 +19,18 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-01-13 19:44:17 +08:00",
     "url": "https://twitter.com/sinthell0ver040",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjEzODY0NDY1MTk1NTAzNjE2",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1928765385400315904/fn121m95_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1934784204925247488/AvAloFAc_normal.jpg"
         },
         "core": {
             "created_at": "Fri Jan 13 11:44:17 +0000 2023",
-            "name": "FiLER",
+            "name": "Leiri",
             "screen_name": "sinthell0ver040"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1452,
+            "friends_count": 1465,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 4888,
+            "media_count": 4990,
             "pinned_tweet_ids_str": [
                 "1925977852081557743"
             ],
@@ -84,8 +84,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219064503
+            "created_at": 1673610257000,
+            "updated_at": 1750232260551
         }
     }
 }

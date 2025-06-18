@@ -1,14 +1,14 @@
 {
     "id": "1746169774147776512",
     "screen_name": "A1sakuMenh3ra",
-    "name": "🩵魅魔女孩营养不良🌘",
+    "name": "🩵纯情蟑螂🌘",
     "description": "Fake it till make it",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1930035511198146560/kLGuWTLq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746169774147776512/1729489049",
-    "followers_count": 657,
-    "friends_count": 859,
-    "statuses_count": 39769,
-    "favourites_count": 56790,
+    "followers_count": 651,
+    "friends_count": 858,
+    "statuses_count": 40827,
+    "favourites_count": 57523,
     "listed_count": 2,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-01-13 21:58:25 +08:00",
     "url": "https://twitter.com/A1sakuMenh3ra",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat Jan 13 13:58:25 +0000 2024",
-            "name": "🩵魅魔女孩营养不良🌘",
+            "name": "🩵纯情蟑螂🌘",
             "screen_name": "A1sakuMenh3ra"
         },
         "dm_permissions": {
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 859,
+            "friends_count": 858,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1518,
+            "media_count": 1546,
             "pinned_tweet_ids_str": [
-                "1930586107181457679"
+                "1934542258306707492"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219070872
+            "created_at": 1705154305000,
+            "updated_at": 1750232266173
         }
     }
 }

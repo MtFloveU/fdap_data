@@ -2,13 +2,13 @@
     "id": "1795762724254912512",
     "screen_name": "ZDC114",
     "name": "ZDself-neutral",
-    "description": "是亲戚地域成分过杂的北京人",
+    "description": "爱好和平",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1795763095673196544/_j44KcOc_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 28,
-    "friends_count": 125,
-    "statuses_count": 370,
-    "favourites_count": 1701,
+    "followers_count": 33,
+    "friends_count": 136,
+    "statuses_count": 423,
+    "favourites_count": 1803,
     "listed_count": 0,
     "location": "北京市",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-05-29 18:23:10 +08:00",
     "url": "https://twitter.com/ZDC114",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 125,
+            "friends_count": 136,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 15,
+            "media_count": 17,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -77,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219023519
+            "created_at": 1716978190000,
+            "updated_at": 1750232226184
         }
     }
 }

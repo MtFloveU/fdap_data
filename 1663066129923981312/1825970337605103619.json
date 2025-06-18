@@ -1,31 +1,43 @@
 {
     "id": "1825970337605103619",
     "screen_name": "HOMRIER",
-    "name": "NaOH",
-    "description": "∵开水是100度，直角是90度，\n∴开水是钝角；\n∵直角是90度，开水是100度，\n∴直角没烧开.",
-    "location": "冥王星",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1825990503625543680/6dxa-nT4_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825970337605103619/1724180885",
-    "followers_count": 19,
+    "name": "NØBS",
+    "description": "没东西",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1934271579325931520/jRNwVdZq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825970337605103619/1750001259",
+    "followers_count": 23,
+    "friends_count": 172,
     "statuses_count": 19,
     "favourites_count": 73,
     "listed_count": 0,
+    "location": "Earth",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-08-21 02:57:58 +08:00",
     "url": "https://twitter.com/HOMRIER",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI1OTcwMzM3NjA1MTAzNjE5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1934271579325931520/jRNwVdZq_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Aug 20 18:57:58 +0000 2024",
+            "name": "NØBS",
+            "screen_name": "HOMRIER"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 149,
+            "friends_count": 172,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 1,
@@ -42,14 +54,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Earth"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1724180278000,
-            "updated_at": 1744350043524
+            "updated_at": 1750232240738
         }
     }
 }

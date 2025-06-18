@@ -2,16 +2,16 @@
     "id": "1735700650472955904",
     "screen_name": "ErQiu8013",
     "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
-    "description": "在意义通胀的时代，无目的性本身就是抵抗\n           去tm的奥氮平   是点赞，关注bot\n 无偏向日常，丝柯克厨，中中。\n米家，Cytoid音游，玩小飞机，赛博朋克死党，要是都不是默认睡死了/-—-/打算在自己有生之年爬雪山，互fo，保留不回fo的权利，没被fo请私信，会被吞，会fo有内容的",
+    "description": "初音ミク/後藤 ひとり/葬送のフリーレン/Cyberpunk: Edgerunners/よふかしのうた/進撃の巨人/86，eva，……/genshin，hsr\n   薬物⚠️，低能量⚠️，日常/欢迎互fo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866537587122515968/8WVcBKAk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735700650472955904/1731512321",
-    "followers_count": 747,
-    "friends_count": 1610,
-    "statuses_count": 3270,
-    "favourites_count": 18913,
+    "followers_count": 759,
+    "friends_count": 1691,
+    "statuses_count": 3493,
+    "favourites_count": 19984,
     "listed_count": 2,
     "location": "垃圾场",
-    "website": null,
+    "website": "https://t.co/6GvFB2usL1",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-12-16 00:37:52 +08:00",
     "url": "https://twitter.com/ErQiu8013",
     "metadata": {
         "__typename": "User",
@@ -43,19 +43,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "love-letter.club/to/ErQiu8013/",
+                            "expanded_url": "https://love-letter.club/to/ErQiu8013/",
+                            "url": "https://t.co/6GvFB2usL1",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1610,
+            "friends_count": 1691,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 421,
+            "media_count": 446,
             "pinned_tweet_ids_str": [
-                "1918262870011461713"
+                "1933555533451309474"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/6GvFB2usL1",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -74,13 +88,15 @@
             "followed_by": true,
             "following": true
         },
-        "tipjar_settings": {},
+        "tipjar_settings": {
+            "is_enabled": false
+        },
         "verification": {
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219066708
+            "created_at": 1702658272000,
+            "updated_at": 1750232262453
         }
     }
 }

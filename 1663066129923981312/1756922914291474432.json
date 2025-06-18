@@ -2,16 +2,16 @@
     "id": "1756922914291474432",
     "screen_name": "LiuyuedeHuoban",
     "name": "Shadow_114514💙",
-    "description": "10後男孩紙，是大陸人，肯定100%回fo喵，憧憬成為美圖推薦使，不想參加任何鍵政，接納所有人，不是粉紅，日本語/한국어勉強中，中立政治，蔚藍檔案圈子保護者，小號:@VIGLbb79EI88783 @TendouArisu1989 ，一起互fo吧喵～任何人都可以",
+    "description": "10後男孩紙是大陸人，肯定100%回fo喵，憧憬成為美圖推薦使，接納所有人哦抱抱，小號:@VIGLbb79EI88783 @TendouArisu1989 ，一起互fo吧喵～任何人都可以\n（ps:不會參加任何的極端政治）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756922914291474432/1742713893",
-    "followers_count": 1004,
-    "friends_count": 2067,
-    "statuses_count": 4447,
-    "favourites_count": 33932,
-    "listed_count": 4,
-    "location": "ミレニアム科学技術学院",
-    "website": "https://t.co/XdyIPZAeRS",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756922914291474432/1749379180",
+    "followers_count": 1074,
+    "friends_count": 2227,
+    "statuses_count": 5708,
+    "favourites_count": 35576,
+    "listed_count": 3,
+    "location": "밀레니암MILLENNIUM",
+    "website": "https://t.co/XdyIPZAMHq",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-02-12 14:07:43 +08:00",
     "url": "https://twitter.com/LiuyuedeHuoban",
     "metadata": {
         "__typename": "User",
@@ -49,7 +49,7 @@
                         {
                             "display_url": "ngl.link/shadow_1145146…",
                             "expanded_url": "https://ngl.link/shadow_11451468577",
-                            "url": "https://t.co/XdyIPZAeRS",
+                            "url": "https://t.co/XdyIPZAMHq",
                             "indices": [
                                 0,
                                 23
@@ -59,22 +59,22 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2067,
+            "friends_count": 2227,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 478,
+            "media_count": 485,
             "pinned_tweet_ids_str": [
                 "1929870903774794048"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/XdyIPZAeRS",
+            "url": "https://t.co/XdyIPZAMHq",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "ミレニアム科学技術学院"
+            "location": "밀레니암MILLENNIUM"
         },
         "media_permissions": {
             "can_media_tag": true
@@ -93,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1707718063000,
+            "updated_at": 1750232254497
         }
     }
 }

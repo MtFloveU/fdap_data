@@ -2,13 +2,13 @@
     "id": "1554457983748378624",
     "screen_name": "ycl_mtf",
     "name": "星云 羽黎🏳️‍🌈",
-    "description": "09年含糖mtf ｜2022 9 21 hrt｜备用账户@dream_ycl｜有事联系tg(下方链接)",
+    "description": "09年含糖mtf ｜2022 9 21 hrt｜备用账户@dream_ycl｜有事联系tg(下方链接)｜门槛50，正常人可以退，浪费时间的不退",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1864026734347304960/EUmq4j_i_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554457983748378624/1674403555",
-    "followers_count": 3615,
-    "friends_count": 1040,
-    "statuses_count": 1921,
-    "favourites_count": 15223,
+    "followers_count": 3458,
+    "friends_count": 1044,
+    "statuses_count": 1975,
+    "favourites_count": 15343,
     "listed_count": 7,
     "location": "地球",
     "website": "https://t.co/N516tdXPsv",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-08-02 21:24:05 +08:00",
     "url": "https://twitter.com/ycl_mtf",
     "metadata": {
         "__typename": "User",
@@ -59,12 +59,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1040,
+            "friends_count": 1044,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 407,
+            "media_count": 416,
             "pinned_tweet_ids_str": [
-                "1930655824583762163"
+                "1934684700704166104"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -106,8 +106,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219080434
+            "created_at": 1659446645000,
+            "updated_at": 1750232285404
         }
     }
 }

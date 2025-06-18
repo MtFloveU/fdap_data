@@ -2,13 +2,13 @@
     "id": "1657365823030263808",
     "screen_name": "llkawi_",
     "name": "Hexzii⭐",
-    "description": "aka 盒沐子 / 17 y/o |🎵 DTM, D 💻 IT, Coding 🎨 Pixelart | 🌈 A little bit of everything | Lang: chs / eng /  jp (transl) | 📭Links & Project: https://t.co/5Pn1GO92Pw",
+    "description": "aka 盒沐子 / 17 y/o |🎵 DTM, DJ 💻 IT, Coding 🎨 Pixelart | 🌈 A little bit of everything | Lang: chs / eng /  jp (transl) | 📭Links & Project: https://t.co/5Pn1GO92Pw",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1908205838470373376/d10k83uH_normal.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657365823030263808/1746466917",
-    "followers_count": 364,
-    "friends_count": 2110,
-    "statuses_count": 2144,
-    "favourites_count": 15440,
+    "followers_count": 405,
+    "friends_count": 2148,
+    "statuses_count": 2231,
+    "favourites_count": 15834,
     "listed_count": 0,
     "location": "The Void",
     "website": "https://t.co/5Pn1GO92Pw",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-05-13 20:43:10 +08:00",
     "url": "https://twitter.com/llkawi_",
     "metadata": {
         "__typename": "User",
@@ -48,8 +48,8 @@
                             "expanded_url": "http://nichijou.moe",
                             "url": "https://t.co/5Pn1GO92Pw",
                             "indices": [
-                                135,
-                                158
+                                136,
+                                159
                             ]
                         }
                     ]
@@ -69,11 +69,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2110,
+            "friends_count": 2148,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 181,
-            "pinned_tweet_ids_str": [],
+            "media_count": 187,
+            "pinned_tweet_ids_str": [
+                "1932851447399657639"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -101,8 +103,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219032940
+            "created_at": 1683981790000,
+            "updated_at": 1750232233900
         }
     }
 }

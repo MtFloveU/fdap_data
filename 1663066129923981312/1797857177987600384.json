@@ -1,15 +1,15 @@
 {
     "id": "1797857177987600384",
     "screen_name": "Cerulean_Milo",
-    "name": "米洛🔜做饭",
-    "description": "recognize and respect the differences of all people 设子是小狼 怀孕中（？欢迎私信聊天～看到了都会回owo，想跟大家交朋友呐",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1929770508226342912/3bu42zhd_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797857177987600384/1745647694",
-    "followers_count": 3185,
-    "friends_count": 1378,
-    "statuses_count": 6052,
-    "favourites_count": 21728,
-    "listed_count": 0,
+    "name": "星澜",
+    "description": "“星光不会迷路，澜影也终将归海。” —— 星澜在黑暗中轻声说着，眼中映出你心底未曾说出的愿望。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933217587066011648/pf5Ha-z5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797857177987600384/1749752717",
+    "followers_count": 3183,
+    "friends_count": 1405,
+    "statuses_count": 6291,
+    "favourites_count": 22518,
+    "listed_count": 4,
     "location": "",
     "website": null,
     "birthdate": null,
@@ -19,18 +19,18 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-06-04 13:06:07 +08:00",
     "url": "https://twitter.com/Cerulean_Milo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk3ODU3MTc3OTg3NjAwMzg0",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1929770508226342912/3bu42zhd_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1933217587066011648/pf5Ha-z5_normal.jpg"
         },
         "core": {
             "created_at": "Tue Jun 04 05:06:07 +0000 2024",
-            "name": "米洛🔜做饭",
+            "name": "星澜",
             "screen_name": "Cerulean_Milo"
         },
         "dm_permissions": {
@@ -46,11 +46,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1378,
+            "friends_count": 1405,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 255,
-            "pinned_tweet_ids_str": [],
+            "media_count": 260,
+            "pinned_tweet_ids_str": [
+                "1933222244874101118"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -77,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219064503
+            "created_at": 1717477567000,
+            "updated_at": 1750232260551
         }
     }
 }

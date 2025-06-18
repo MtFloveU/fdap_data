@@ -2,14 +2,14 @@
     "id": "1521071846128562182",
     "screen_name": "ZhuoZheng1990",
     "name": "拙正🍥",
-    "description": "春，追寻真诚，表达心声。妹妹@fec222985075262",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1931273145769672705/KJAxiLMu_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521071846128562182/1745933892",
-    "followers_count": 646,
-    "friends_count": 590,
-    "statuses_count": 3462,
-    "favourites_count": 4869,
-    "listed_count": 7,
+    "description": "春，追寻真诚，表达心声。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1932243419193315328/OhwJW1KS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521071846128562182/1749517718",
+    "followers_count": 648,
+    "friends_count": 536,
+    "statuses_count": 3496,
+    "favourites_count": 4927,
+    "listed_count": 6,
     "location": "中国",
     "website": null,
     "birthdate": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-05-02 18:19:37 +08:00",
     "url": "https://twitter.com/ZhuoZheng1990",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTIxMDcxODQ2MTI4NTYyMTgy",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1931273145769672705/KJAxiLMu_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1932243419193315328/OhwJW1KS_normal.jpg"
         },
         "core": {
             "created_at": "Mon May 02 10:19:37 +0000 2022",
@@ -46,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 590,
+            "friends_count": 536,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 60,
@@ -84,8 +84,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749299318460
+            "created_at": 1651486777000,
+            "updated_at": 1750232267029
         }
     }
 }

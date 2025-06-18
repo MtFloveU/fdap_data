@@ -1,0 +1,86 @@
+{
+    "id": "1921426104763682816",
+    "screen_name": "hiner233",
+    "name": "hiner",
+    "description": "这里是Hiner/15y初三生/ENTP一枚/清水/来找我玩ww",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921426104763682816/1746938876",
+    "followers_count": 352,
+    "friends_count": 535,
+    "statuses_count": 1677,
+    "favourites_count": 9509,
+    "listed_count": 1,
+    "location": "",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2025-05-11 12:44:35 +08:00",
+    "url": "https://twitter.com/hiner233",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxOTIxNDI2MTA0NzYzNjgyODE2",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun May 11 04:44:35 +0000 2025",
+            "name": "hiner",
+            "screen_name": "hiner233"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 535,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 71,
+            "pinned_tweet_ids_str": [
+                "1931194479119384998"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1746938675000,
+            "updated_at": 1750232254497
+        }
+    }
+}

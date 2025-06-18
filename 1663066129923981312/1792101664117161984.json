@@ -5,12 +5,12 @@
     "description": "我人其实很好的，快来跟我交朋友吧|友一切善良的小可爱|什么都讲| @bayer04fussball\nzh/es/en/de/nl/fa/ar/tr/ko",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916084605712486401/Q3JgvBvS_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792101664117161984/1749146841",
-    "followers_count": 995,
-    "friends_count": 821,
-    "statuses_count": 14242,
-    "favourites_count": 33094,
+    "followers_count": 1009,
+    "friends_count": 829,
+    "statuses_count": 14339,
+    "favourites_count": 33128,
     "listed_count": 6,
-    "location": "星系-N65",
+    "location": "星系-NGC 6523",
     "website": "https://t.co/zyim7ZSJMl",
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-05-19 15:55:38 +08:00",
     "url": "https://twitter.com/Amberlona_LK",
     "metadata": {
         "__typename": "User",
@@ -59,7 +59,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 821,
+            "friends_count": 829,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 217,
@@ -74,7 +74,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "星系-N65"
+            "location": "星系-NGC 6523"
         },
         "media_permissions": {
             "can_media_tag": true
@@ -93,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219071821
+            "created_at": 1716105338000,
+            "updated_at": 1750232267029
         }
     }
 }

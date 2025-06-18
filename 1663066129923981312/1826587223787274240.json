@@ -2,28 +2,42 @@
     "id": "1826587223787274240",
     "screen_name": "0721Williams",
     "name": "J·M·Williams",
-    "description": "敌视现实,虚构远方;东张西望,一无所长;四体不勤,五谷不分;文不能测字,武不能防身. 喜欢养狗,不爱洗头,无事劳作,一无所获;厌恶争执,不善言说;终于沦为,沉默的帮凶.//04师范生//深爱着美式巡航车、四缸街车与美式大排量自吸//旧能源追随者//现已加入HONDA神教//万宝路依赖症//Zippo发烧友",
-    "location": "Dust II",
+    "description": "敌视现实,虚构远方;东张西望,一无所长;四体不勤,五谷不分;文不能测字,武不能防身. 喜欢养狗,不爱洗头,无事劳作,一无所获;厌恶争执,不善言说;终于沦为,沉默的帮凶//师范生//深爱着美式巡航车、四缸街车与美式大排量自吸//旧能源追随者//混子贝斯手//万宝路依赖症//Zippo发烧友",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1829704016869158912/lpMWX5GB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826587223787274240/1740459269",
-    "followers_count": 99,
-    "statuses_count": 1460,
-    "favourites_count": 7329,
+    "followers_count": 109,
+    "friends_count": 206,
+    "statuses_count": 1599,
+    "favourites_count": 8050,
     "listed_count": 1,
+    "location": "Dust II",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-08-22 19:48:35 +08:00",
     "url": "https://twitter.com/0721Williams",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI2NTg3MjIzNzg3Mjc0MjQw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1829704016869158912/lpMWX5GB_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Aug 22 11:48:35 +0000 2024",
+            "name": "J·M·Williams",
+            "screen_name": "0721Williams"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 189,
+            "friends_count": 206,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 46,
+            "media_count": 48,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Dust II"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1724327315000,
-            "updated_at": 1746077182049
+            "updated_at": 1750232264361
         }
     }
 }

@@ -1,31 +1,43 @@
 {
     "id": "1818337984191905794",
-    "screen_name": "ultra_mitsuki4",
-    "name": "mtsuki4.0",
-    "description": "我又重生了*4，这里依旧是小米，依旧重抑重焦，依旧很穷，依旧查成分互fo",
-    "location": "0.1km",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1818338518848225284/vHKgS1xL_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818337984191905794/1722360678",
-    "followers_count": 275,
-    "statuses_count": 390,
-    "favourites_count": 199,
+    "screen_name": "MSQloveCW",
+    "name": "哈基米米米",
+    "description": "健康版小米",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1931683790860210177/TLhOtdm4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818337984191905794/1749384279",
+    "followers_count": 299,
+    "friends_count": 286,
+    "statuses_count": 536,
+    "favourites_count": 267,
     "listed_count": 0,
+    "location": "0.1km",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-07-31 01:29:04 +08:00",
-    "url": "https://twitter.com/ultra_mitsuki4",
+    "url": "https://twitter.com/MSQloveCW",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODE4MzM3OTg0MTkxOTA1Nzk0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1931683790860210177/TLhOtdm4_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jul 30 17:29:04 +0000 2024",
+            "name": "哈基米米米",
+            "screen_name": "MSQloveCW"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 288,
+            "friends_count": 286,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 136,
+            "media_count": 176,
             "pinned_tweet_ids_str": [
-                "1879792768559759451"
+                "1929365805898080507"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "0.1km"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1722360544000,
-            "updated_at": 1744350088738
+            "updated_at": 1750232262453
         }
     }
 }

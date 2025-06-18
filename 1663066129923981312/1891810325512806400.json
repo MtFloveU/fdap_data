@@ -5,12 +5,12 @@
     "description": "| 前世 @jiepaiqi_meow | 📍HK | 初三 | 重度抑鬱焦慮 | With 舍曲林 | 疑似双相、人格分裂 | 無證無糖 | Photographer | Hong Kongese | 卡拉彼丘 | Strinova | Maimai | Chunithm | PJSK |",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891810492777365504/94_igz5q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891810325512806400/1746617366",
-    "followers_count": 643,
-    "friends_count": 978,
-    "statuses_count": 1053,
-    "favourites_count": 10475,
+    "followers_count": 735,
+    "friends_count": 1057,
+    "statuses_count": 1205,
+    "favourites_count": 11597,
     "listed_count": 3,
-    "location": "天安門廣場",
+    "location": "幻想鄉紅魔館兼幻想鄉核爆試驗場所內蕾米莉亞斯卡蕾特臥室的床上",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2025-02-18 19:21:56 +08:00",
     "url": "https://twitter.com/Jiepaiki_meow",
     "metadata": {
         "__typename": "User",
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 978,
+            "friends_count": 1057,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 61,
+            "media_count": 71,
             "pinned_tweet_ids_str": [
-                "1901262314608734527"
+                "1934969589865304373"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "天安門廣場"
+            "location": "幻想鄉紅魔館兼幻想鄉核爆試驗場所內蕾米莉亞斯卡蕾特臥室的床上"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219059242
+            "created_at": 1739877716000,
+            "updated_at": 1750232255807
         }
     }
 }

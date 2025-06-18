@@ -1,14 +1,14 @@
 {
     "id": "1889251771350138880",
     "screen_name": "ND5_0179",
-    "name": "黎墨真中3307 🇺🇦🇩🇪🇨🇭🇸🇱",
-    "description": "@manakaao68\n愛車：6-7989\n我們還在堅持這所謂的破碎的夢想，一直到現在",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1928381025048309760/I056L0lB_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889251771350138880/1746368834",
-    "followers_count": 193,
-    "friends_count": 188,
-    "statuses_count": 556,
-    "favourites_count": 475,
+    "name": "黎墨真中_3307 🇺🇦🇩🇪🇨🇭🇸🇱",
+    "description": "@manakaao68\n杭州公交電車分公司站長真中蒼\n“認真遵守杭州公交三口一道標準、並隨機檢查司機是否遵守標準”",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933422255922688003/r7lwc3kL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889251771350138880/1749684803",
+    "followers_count": 195,
+    "friends_count": 191,
+    "statuses_count": 571,
+    "favourites_count": 479,
     "listed_count": 3,
     "location": "星咲高校地學部",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2025-02-11 17:55:16 +08:00",
     "url": "https://twitter.com/ND5_0179",
     "metadata": {
         "__typename": "User",
@@ -56,11 +56,11 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1928381025048309760/I056L0lB_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1933422255922688003/r7lwc3kL_normal.jpg"
         },
         "core": {
             "created_at": "Tue Feb 11 09:55:16 +0000 2025",
-            "name": "黎墨真中3307 🇺🇦🇩🇪🇨🇭🇸🇱",
+            "name": "黎墨真中_3307 🇺🇦🇩🇪🇨🇭🇸🇱",
             "screen_name": "ND5_0179"
         },
         "dm_permissions": {
@@ -76,12 +76,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 188,
+            "friends_count": 191,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 67,
+            "media_count": 69,
             "pinned_tweet_ids_str": [
-                "1928414349099491563"
+                "1933869548790513757"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -109,8 +109,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219061680
+            "created_at": 1739267716000,
+            "updated_at": 1750232257457
         }
     }
 }

@@ -1,15 +1,15 @@
 {
     "id": "1542508277497331716",
     "screen_name": "_Marurudayo",
-    "name": "○○るだよ",
-    "description": "美少女ゲーム、女性アイドルが大好き",
+    "name": "はや○○か",
+    "description": "美少女ゲームと女性アイドルが大好き",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1929184809089392640/Fm8NoY0L_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542508277497331716/1748611256",
-    "followers_count": 2134,
-    "friends_count": 7457,
-    "statuses_count": 23292,
-    "favourites_count": 59914,
-    "listed_count": 2,
+    "followers_count": 2137,
+    "friends_count": 7498,
+    "statuses_count": 23664,
+    "favourites_count": 61039,
+    "listed_count": 3,
     "location": "DM❌",
     "website": "https://t.co/d40Cq6VuXQ",
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-06-30 22:00:15 +08:00",
     "url": "https://twitter.com/_Marurudayo",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Thu Jun 30 14:00:15 +0000 2022",
-            "name": "○○るだよ",
+            "name": "はや○○か",
             "screen_name": "_Marurudayo"
         },
         "dm_permissions": {
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7457,
+            "friends_count": 7498,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 612,
+            "media_count": 630,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
@@ -91,8 +91,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749299273245
+            "created_at": 1656597615000,
+            "updated_at": 1750232231786
         }
     }
 }

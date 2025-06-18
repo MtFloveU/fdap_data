@@ -2,24 +2,24 @@
     "id": "1025546987578556417",
     "screen_name": "FTMiaoX",
     "name": "🏳️‍🌈发条喵🏳️‍⚧️",
-    "description": "ENBY/Demimasc/Ludogender/ta/他/ASD/ADHD/S/Dom/我是发条/人类友好/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐 https://t.co/a4UYlpzxKj",
+    "description": "FTX/FTM/ta/他/AuDHD/S/Dom/我是发条/人类友好/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025546987578556417/1715804595",
-    "followers_count": 6988,
-    "friends_count": 3248,
-    "statuses_count": 26966,
-    "favourites_count": 162590,
-    "listed_count": 19,
+    "followers_count": 7158,
+    "friends_count": 3261,
+    "statuses_count": 27112,
+    "favourites_count": 163462,
+    "listed_count": 20,
     "location": "关着BakaHDT的笼子旁边",
     "website": "https://t.co/OfJi4k397c",
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2018-08-04 09:00:30 +08:00",
     "url": "https://twitter.com/FTMiaoX",
     "metadata": {
         "__typename": "User",
@@ -72,17 +72,7 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/ftmiao",
-                            "expanded_url": "https://ngl.link/ftmiao",
-                            "url": "https://t.co/a4UYlpzxKj",
-                            "indices": [
-                                133,
-                                156
-                            ]
-                        }
-                    ]
+                    "urls": []
                 },
                 "url": {
                     "urls": [
@@ -99,10 +89,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3248,
+            "friends_count": 3261,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2876,
+            "media_count": 2958,
             "pinned_tweet_ids_str": [
                 "1754185922885611679"
             ],
@@ -135,8 +125,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219080434
+            "created_at": 1533344430000,
+            "updated_at": 1750232285404
         }
     }
 }

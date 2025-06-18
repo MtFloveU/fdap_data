@@ -2,13 +2,13 @@
     "id": "1759609422777577472",
     "screen_name": "newland_rev24",
     "name": "サミュエル",
-    "description": "这世界太危险，只有你我最安全",
+    "description": "主玩HSR，明日方舟，1999，档案\n                                \n坚定不移地支持习近平同志为首的党领导集体\n                                   人回溯性建构在历史中被异化的主体性",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1930826321724092416/2XCgkzqW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759609422777577472/1744437533",
-    "followers_count": 1523,
-    "friends_count": 3047,
-    "statuses_count": 18404,
-    "favourites_count": 52131,
+    "followers_count": 1552,
+    "friends_count": 3074,
+    "statuses_count": 18596,
+    "favourites_count": 52599,
     "listed_count": 8,
     "location": "オヘマの聖都",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-02-20 00:03:02 +08:00",
     "url": "https://twitter.com/newland_rev24",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3047,
+            "friends_count": 3074,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 353,
+            "media_count": 355,
             "pinned_tweet_ids_str": [
                 "1918933990297284903"
             ],
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219070872
+            "created_at": 1708358582000,
+            "updated_at": 1750232266173
         }
     }
 }

@@ -1,25 +1,25 @@
 {
     "id": "1826255472636350464",
     "screen_name": "KawaiiTrotsky",
-    "name": "西宮硝子(生誕日記念特別 Ver.)",
-    "description": "無言フォロー失礼します|低浮上|#西宮硝子生誕祭2025 从死妈骗子手中申诉回来了 骗子 https://t.co/6yaTHToXS2 骗子Discord@glorious_piglet_35968(此DC号原ID@michalisofficialx)可DM要日常垢（不一定通过申请）或者mastodon账户",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1930314870039425028/rgQdQTU3_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826255472636350464/1749057915",
-    "followers_count": 1214,
-    "friends_count": 7386,
-    "statuses_count": 10707,
-    "favourites_count": 12807,
+    "name": "砂藤リリー",
+    "description": "無言フォロー失礼します|低浮上|フォロバ100|相互ブロック100 从死妈骗子申诉回来了 骗子 https://t.co/6yaTHToXS2 骗子Discord@glorious_piglet_35968(此DC号原ID@michalisofficialx)可DM要裏垢(不一定通过申请)或mastodon垢",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1931922308031250432/PgClKYdP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826255472636350464/1749441148",
+    "followers_count": 1224,
+    "friends_count": 7409,
+    "statuses_count": 11420,
+    "favourites_count": 13078,
     "listed_count": 2,
-    "location": "中出人渣_fabianellis6連合王國",
-    "website": "https://t.co/ae6gaEI61t",
+    "location": "中出人渣_fabianellis6連合王國 NFTs🚫",
+    "website": "https://t.co/XedtsYztV7",
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-08-21 21:50:30 +08:00",
     "url": "https://twitter.com/KawaiiTrotsky",
     "metadata": {
         "__typename": "User",
@@ -56,11 +56,11 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1930314870039425028/rgQdQTU3_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1931922308031250432/PgClKYdP_normal.jpg"
         },
         "core": {
             "created_at": "Wed Aug 21 13:50:30 +0000 2024",
-            "name": "西宮硝子(生誕日記念特別 Ver.)",
+            "name": "砂藤リリー",
             "screen_name": "KawaiiTrotsky"
         },
         "dm_permissions": {
@@ -78,8 +78,8 @@
                             "expanded_url": "https://x.com/_fabianellis6",
                             "url": "https://t.co/6yaTHToXS2",
                             "indices": [
-                                46,
-                                69
+                                49,
+                                72
                             ]
                         }
                     ]
@@ -87,9 +87,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "Twitter.com/koenokatachi_M…",
-                            "expanded_url": "https://Twitter.com/koenokatachi_M?mx=1",
-                            "url": "https://t.co/ae6gaEI61t",
+                            "display_url": "Twitter.com/FourLeafStudio…",
+                            "expanded_url": "https://Twitter.com/FourLeafStudios?mx=1",
+                            "url": "https://t.co/XedtsYztV7",
                             "indices": [
                                 0,
                                 23
@@ -99,27 +99,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7386,
+            "friends_count": 7409,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 984,
+            "media_count": 1010,
             "pinned_tweet_ids_str": [
                 "1907386886605193348"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/ae6gaEI61t",
+            "url": "https://t.co/XedtsYztV7",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "中出人渣_fabianellis6連合王國"
+            "location": "中出人渣_fabianellis6連合王國 NFTs🚫"
         },
         "media_permissions": {
             "can_media_tag": false
         },
-        "parody_commentary_fan_label": "Commentary",
+        "parody_commentary_fan_label": "Fan",
         "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1928748440718291058",
@@ -141,8 +141,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749254096363
+            "created_at": 1724248230000,
+            "updated_at": 1750232264361
         }
     }
 }

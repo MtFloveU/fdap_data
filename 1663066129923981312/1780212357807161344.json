@@ -2,52 +2,54 @@
     "id": "1780212357807161344",
     "screen_name": "ChaserCHN0721",
     "name": "七奈七奈七奈七",
-    "description": "前世😶‍🌫️：@chaserchn91329\n老婆😘：@sparkknight0721\n主人😇：@CnHpaHky\n涩涩🥵：@ChaserIs0721ing\n补子🍥：@Apache2_91329\n匿名信箱📬：https://t.co/zQNlwySbJw",
-    "location": "isekai",
+    "description": "INFP-T 🧬 | Asexual ⚪💜 | Embedded Linux 🧠🐧 | OpenSource 🛠️ | Android Modding 📱 | Magisk & LSPosed 🧩 | Transfeminine 🏳️‍⚧️ | @aoidailylife",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1821480594767044608/mE7Qw1Zg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780212357807161344/1727020972",
-    "followers_count": 388,
-    "statuses_count": 2049,
-    "favourites_count": 5843,
+    "followers_count": 385,
+    "friends_count": 387,
+    "statuses_count": 2171,
+    "favourites_count": 6515,
     "listed_count": 2,
+    "location": "From /dev/null to your heart ❤",
+    "website": "https://t.co/dkB1p7CSdJ",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-04-16 20:31:35 +08:00",
     "url": "https://twitter.com/ChaserCHN0721",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzgwMjEyMzU3ODA3MTYxMzQ0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1821480594767044608/mE7Qw1Zg_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Apr 16 12:31:35 +0000 2024",
+            "name": "七奈七奈七奈七",
+            "screen_name": "ChaserCHN0721"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/chaserchn0721",
-                            "expanded_url": "http://ngl.link/chaserchn0721",
-                            "url": "https://t.co/zQNlwySbJw",
-                            "indices": [
-                                104,
-                                127
-                            ]
-                        }
-                    ]
+                    "urls": []
                 },
                 "url": {
                     "urls": [
                         {
-                            "display_url": "bsky.app/profile/chaser…",
-                            "expanded_url": "https://bsky.app/profile/chaserchn0721.bsky.social",
-                            "url": "https://t.co/s2HMmaL3H3",
+                            "display_url": "github.com/Kagurazaka-Nana",
+                            "expanded_url": "https://github.com/Kagurazaka-Nana",
+                            "url": "https://t.co/dkB1p7CSdJ",
                             "indices": [
                                 0,
                                 23
@@ -57,25 +59,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 385,
+            "friends_count": 387,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 251,
+            "media_count": 261,
             "pinned_tweet_ids_str": [
                 "1847688763658715381"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/s2HMmaL3H3",
-            "verified": false,
+            "url": "https://t.co/dkB1p7CSdJ",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "From /dev/null to your heart ❤"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1713270695000,
-            "updated_at": 1744350082251
+            "updated_at": 1750232259424
         }
     }
 }

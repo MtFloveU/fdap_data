@@ -2,13 +2,13 @@
     "id": "1848203946483159040",
     "screen_name": "Jim_Mihua",
     "name": "鸡米花",
-    "description": "🇨🇳 | 中国特色社会主义 | 喵娘 | 顺女 | 不约 | CN/EN | 厂东人 | 不管你的意识形态是啥（除了极端），都可以和我聊天 | 禁止使用人机和我聊天🤬 | 我是晶姐，看黄男离远点 | 默认开启质量过滤",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1928442208841330688/lhLH-ZcV_normal.jpg",
+    "description": "🇨🇳 | 中国特色社会主义 | 喵娘 | 顺女 | 不约 | CN/EN | 厂东人 | 不管你的意识形态是啥（除了极端），都可以和我聊天 | 禁止使用人机和我聊天🤬 | 色色有度，说话请经过大脑 | 默认开启质量过滤",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933188846927462400/6qv9l7a-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848203946483159040/1743874897",
-    "followers_count": 338,
-    "friends_count": 408,
-    "statuses_count": 2242,
-    "favourites_count": 4432,
+    "followers_count": 408,
+    "friends_count": 433,
+    "statuses_count": 2442,
+    "favourites_count": 4864,
     "listed_count": 3,
     "location": "外卖箱",
     "website": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-10-21 11:25:44 +08:00",
     "url": "https://twitter.com/Jim_Mihua",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQ4MjAzOTQ2NDgzMTU5MDQw",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1928442208841330688/lhLH-ZcV_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1933188846927462400/6qv9l7a-_normal.jpg"
         },
         "core": {
             "created_at": "Mon Oct 21 03:25:44 +0000 2024",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 408,
+            "friends_count": 433,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1313,
+            "media_count": 1438,
             "pinned_tweet_ids_str": [
                 "1911341660652593337"
             ],
@@ -92,8 +92,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219060359
+            "created_at": 1729481144000,
+            "updated_at": 1750232256648
         }
     }
 }

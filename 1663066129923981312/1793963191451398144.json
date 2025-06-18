@@ -1,14 +1,14 @@
 {
     "id": "1793963191451398144",
-    "screen_name": "mlio8964",
-    "name": "are you lost?",
-    "description": "off",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1918785220725428224/l-Qrj_Th_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793963191451398144/1737435865",
-    "followers_count": 623,
-    "friends_count": 720,
-    "statuses_count": 4548,
-    "favourites_count": 41127,
+    "screen_name": "moli8964",
+    "name": "睦头掉进海里😹🍄🍁🌠",
+    "description": "直接抽的如黄金回旋般升起 | 豪人@Reiko6464",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1932657401137958912/3rpgKdNF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793963191451398144/1749617026",
+    "followers_count": 622,
+    "friends_count": 722,
+    "statuses_count": 4591,
+    "favourites_count": 41900,
     "listed_count": 2,
     "location": "包子神社",
     "website": null,
@@ -19,19 +19,19 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/mlio8964",
+    "created_at": "2024-05-24 19:12:45 +08:00",
+    "url": "https://twitter.com/moli8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzkzOTYzMTkxNDUxMzk4MTQ0",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1918785220725428224/l-Qrj_Th_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1932657401137958912/3rpgKdNF_normal.jpg"
         },
         "core": {
             "created_at": "Fri May 24 11:12:45 +0000 2024",
-            "name": "are you lost?",
-            "screen_name": "mlio8964"
+            "name": "睦头掉进海里😹🍄🍁🌠",
+            "screen_name": "moli8964"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,13 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 720,
+            "friends_count": 722,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 517,
-            "pinned_tweet_ids_str": [
-                "1893859669497536933"
-            ],
+            "media_count": 523,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -79,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219044314
+            "created_at": 1716549165000,
+            "updated_at": 1750232243720
         }
     }
 }

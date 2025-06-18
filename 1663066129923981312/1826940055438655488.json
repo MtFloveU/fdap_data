@@ -1,14 +1,14 @@
 {
     "id": "1826940055438655488",
     "screen_name": "Sudo2c897ssVer",
-    "name": "顧某譞🍀",
+    "name": "被偷好飯顧某譞🍀",
     "description": "變出花田的魔法",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1929887642487009284/I39R9sg7_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933181486536237056/KRjX9UZJ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826940055438655488/1740557735",
-    "followers_count": 320,
-    "friends_count": 612,
-    "statuses_count": 1784,
-    "favourites_count": 14399,
+    "followers_count": 318,
+    "friends_count": 614,
+    "statuses_count": 1827,
+    "favourites_count": 15159,
     "listed_count": 0,
     "location": "浦島隧道",
     "website": null,
@@ -18,8 +18,8 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "protected": false,
+    "created_at": "2024-08-23 19:10:40 +08:00",
     "url": "https://twitter.com/Sudo2c897ssVer",
     "metadata": {
         "__typename": "User",
@@ -56,11 +56,11 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1929887642487009284/I39R9sg7_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1933181486536237056/KRjX9UZJ_normal.jpg"
         },
         "core": {
             "created_at": "Fri Aug 23 11:10:40 +0000 2024",
-            "name": "顧某譞🍀",
+            "name": "被偷好飯顧某譞🍀",
             "screen_name": "Sudo2c897ssVer"
         },
         "dm_permissions": {
@@ -76,10 +76,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 612,
+            "friends_count": 614,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 202,
+            "media_count": 209,
             "pinned_tweet_ids_str": [
                 "1927374783861117349"
             ],
@@ -98,7 +98,7 @@
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "privacy": {
-            "protected": true
+            "protected": false
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -109,8 +109,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219067732
+            "created_at": 1724411440000,
+            "updated_at": 1750232263366
         }
     }
 }

@@ -1,17 +1,17 @@
 {
     "id": "1545277694325116928",
     "screen_name": "yqua_",
-    "name": "你是想气死铨酱么🍥（二代目）",
-    "description": "Mid & Sup｜🏳️‍⚧️｜前世17kfo @ryq59｜前世的笨蛋@cy79p｜互fo4.6k寻回中｜如果我关注了你 说明你和@ryq59是互关",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1924861960644132864/luB0Qkx2_normal.jpg",
+    "name": "你是想气死铨酱么🍥（推油寻回中）",
+    "description": "Esports Analyst｜MTX🏳️‍⚧️｜前世17kfo @ryq59｜笨蛋@cy79p｜主人 @ckyf1134｜好妹妹@mhtqwq｜唯一指定协议客户@yanmin1105｜互fo寻回中",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1931558190036176896/2j5lVAN7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1748991627",
-    "followers_count": 1690,
-    "friends_count": 1513,
-    "statuses_count": 1389,
-    "favourites_count": 11600,
-    "listed_count": 5,
+    "followers_count": 1813,
+    "friends_count": 1645,
+    "statuses_count": 1575,
+    "favourites_count": 12744,
+    "listed_count": 4,
     "location": "",
-    "website": null,
+    "website": "https://t.co/LbGkYNpDZO",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-07-08 13:24:56 +08:00",
     "url": "https://twitter.com/yqua_",
     "metadata": {
         "__typename": "User",
@@ -54,11 +54,11 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1924861960644132864/luB0Qkx2_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1931558190036176896/2j5lVAN7_normal.jpg"
         },
         "core": {
             "created_at": "Fri Jul 08 05:24:56 +0000 2022",
-            "name": "你是想气死铨酱么🍥（二代目）",
+            "name": "你是想气死铨酱么🍥（推油寻回中）",
             "screen_name": "yqua_"
         },
         "dm_permissions": {
@@ -71,13 +71,26 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linktr.ee/ryq59",
+                            "expanded_url": "http://linktr.ee/ryq59",
+                            "url": "https://t.co/LbGkYNpDZO",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1513,
+            "friends_count": 1645,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 238,
+            "media_count": 258,
             "notifications": true,
             "pinned_tweet_ids_str": [
                 "1928106968264110539"
@@ -85,6 +98,7 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/LbGkYNpDZO",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -119,8 +133,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749299318461
+            "created_at": 1657257896000,
+            "updated_at": 1750232267029
         }
     }
 }

@@ -1,14 +1,14 @@
 {
     "id": "1697821509027573760",
     "screen_name": "xiaoyeluo",
-    "name": "Ame、🍥",
+    "name": "叶洛洛落落🍥",
     "description": "🌟Good luck!🌟\n05/mtf/休学中～/~同类互fo哦~/大猫猫老公@H03949416",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1929307489532571648/T6X6OKR8_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697821509027573760/1745790049",
-    "followers_count": 347,
-    "friends_count": 559,
-    "statuses_count": 251,
-    "favourites_count": 1702,
+    "followers_count": 351,
+    "friends_count": 562,
+    "statuses_count": 252,
+    "favourites_count": 1704,
     "listed_count": 0,
     "location": "襄阳",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-09-02 11:59:36 +08:00",
     "url": "https://twitter.com/xiaoyeluo",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat Sep 02 03:59:36 +0000 2023",
-            "name": "Ame、🍥",
+            "name": "叶洛洛落落🍥",
             "screen_name": "xiaoyeluo"
         },
         "dm_permissions": {
@@ -46,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 559,
+            "friends_count": 562,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 17,
@@ -90,8 +90,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219066708
+            "created_at": 1693627176000,
+            "updated_at": 1750232262453
         }
     }
 }

@@ -2,16 +2,16 @@
     "id": "1649826431055302658",
     "screen_name": "pwnint64",
     "name": "pwnint",
-    "description": "友一切，除了傻逼 | mtm                                                                                              \nTweets are under WTFPL v2 License. @64bit_ndk",
+    "description": "Basic interaction only.                                                                                           \nTweets are under WTFPL v2 License. @64bit_ndk",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1927074199819964417/5x-YbOYV_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649826431055302658/1748285267",
-    "followers_count": 758,
-    "friends_count": 1287,
-    "statuses_count": 5632,
-    "favourites_count": 36802,
-    "listed_count": 0,
+    "followers_count": 754,
+    "friends_count": 1207,
+    "statuses_count": 5660,
+    "favourites_count": 37223,
+    "listed_count": 1,
     "location": ":D",
-    "website": "https://t.co/cgXOrekjOM",
+    "website": "https://t.co/cgXOrekREk",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-04-23 01:24:25 +08:00",
     "url": "https://twitter.com/pwnint64",
     "metadata": {
         "__typename": "User",
@@ -49,7 +49,7 @@
                         {
                             "display_url": "ndk.moe",
                             "expanded_url": "https://ndk.moe",
-                            "url": "https://t.co/cgXOrekjOM",
+                            "url": "https://t.co/cgXOrekREk",
                             "indices": [
                                 0,
                                 23
@@ -59,17 +59,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1287,
+            "friends_count": 1207,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1050,
+            "media_count": 1039,
             "pinned_tweet_ids_str": [
-                "1900016464209256757"
+                "1931219234664989047"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/cgXOrekjOM",
+            "url": "https://t.co/cgXOrekREk",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -96,8 +96,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219059243
+            "created_at": 1682184265000,
+            "updated_at": 1750232255807
         }
     }
 }

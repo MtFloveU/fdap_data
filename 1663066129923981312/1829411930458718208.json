@@ -2,13 +2,13 @@
     "id": "1829411930458718208",
     "screen_name": "Natsuki_Akko",
     "name": "希希😮‍💨🥺🥹",
-    "description": "@saika114514常务老公（主持工作）。o(^▽^)o。好姐妹@miaokua，@lhoy440777",
+    "description": "铨@yqua_。\n好朋友@saika114514，好姐妹@miaokua，@lhoy440777。竟然奔三😭",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1926614531217768448/yO-88yO1_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829411930458718208/1749212926",
-    "followers_count": 792,
-    "friends_count": 1291,
-    "statuses_count": 883,
-    "favourites_count": 22121,
+    "profile_banner_url": null,
+    "followers_count": 896,
+    "friends_count": 1323,
+    "statuses_count": 1130,
+    "favourites_count": 23263,
     "listed_count": 1,
     "location": "",
     "website": "https://t.co/ArUVeE4Uuk",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-08-30 14:55:21 +08:00",
     "url": "https://twitter.com/Natsuki_Akko",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1291,
+            "friends_count": 1323,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 21,
+            "media_count": 30,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -91,8 +91,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219062663
+            "created_at": 1725000921000,
+            "updated_at": 1750232258410
         }
     }
 }

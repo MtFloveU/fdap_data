@@ -2,15 +2,15 @@
     "id": "1529654419213541376",
     "screen_name": "3LifeStrongWine",
     "name": "三生醇醪🍊",
-    "description": "时光足够温柔了吗",
+    "description": "泛黄的老照片里讲述了一个什么样的故事",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529654419213541376/1743689183",
-    "followers_count": 1538,
-    "friends_count": 239,
-    "statuses_count": 11124,
-    "favourites_count": 7432,
+    "followers_count": 1531,
+    "friends_count": 238,
+    "statuses_count": 11490,
+    "favourites_count": 7494,
     "listed_count": 11,
-    "location": "浮生三千不过大梦一场",
+    "location": "我会带你去看这世界上最独一无二的风景",
     "website": "https://t.co/3g5y5VovBM",
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-05-26 10:43:47 +08:00",
     "url": "https://twitter.com/3LifeStrongWine",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 239,
+            "friends_count": 238,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2734,
+            "media_count": 2832,
             "pinned_tweet_ids_str": [
                 "1874675451739971770"
             ],
@@ -74,7 +74,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "浮生三千不过大梦一场"
+            "location": "我会带你去看这世界上最独一无二的风景"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -86,8 +86,8 @@
             "professional_type": "Creator",
             "category": [
                 {
-                    "id": 933,
-                    "name": "Media Personality",
+                    "id": 552,
+                    "name": "Photographer",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
@@ -104,8 +104,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219071821
+            "created_at": 1653533027000,
+            "updated_at": 1750232267029
         }
     }
 }

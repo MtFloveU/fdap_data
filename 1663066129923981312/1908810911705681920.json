@@ -2,16 +2,16 @@
     "id": "1908810911705681920",
     "screen_name": "D1o2ng",
     "name": "Dong",
-    "description": "",
+    "description": "我是集泉こなたOffical🇺🇳(@tidy_fun8964) 𝓪𝓹𝓻𝓲𝓬𝓪𝓻𝓲 (淡退上学中😇)(@small_fun8964) apricari(@little_fun8964) NaiveJinP(@fun8964)与一身的超级泉此方备用小号 眼熟的回个fo谢谢 这个号炸了就自杀😇",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1908811082564841474/Tq8TMTCq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908810911705681920/1746945892",
-    "followers_count": 47,
-    "friends_count": 87,
-    "statuses_count": 68,
-    "favourites_count": 65,
+    "followers_count": 195,
+    "friends_count": 460,
+    "statuses_count": 1195,
+    "favourites_count": 3065,
     "listed_count": 0,
     "location": "",
-    "website": null,
+    "website": "https://t.co/FKy9ssw3Gz",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2025-04-06 17:16:10 +08:00",
     "url": "https://twitter.com/D1o2ng",
     "metadata": {
         "__typename": "User",
@@ -43,19 +43,33 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/nmbot",
+                            "expanded_url": "https://ngl.link/nmbot",
+                            "url": "https://t.co/FKy9ssw3Gz",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 87,
+            "friends_count": 460,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 9,
+            "media_count": 72,
             "pinned_tweet_ids_str": [
-                "1930938006019711055"
+                "1932818815873921533"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/FKy9ssw3Gz",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -79,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1743930970000,
+            "updated_at": 1750232254497
         }
     }
 }

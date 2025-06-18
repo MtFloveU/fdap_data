@@ -1,0 +1,100 @@
+{
+    "id": "1846264453463236608",
+    "screen_name": "sinokitatokyo",
+    "name": "篠北みれい😺（白魔爪重度依赖）",
+    "description": "形态复杂 | 基本友好 | 不定上推 | 干活机器 | 熬夜笨蛋 | 魔爪依赖 |查成分fo",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1903186990201487360/wRTdmbfj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1846264453463236608/1742590112",
+    "followers_count": 161,
+    "friends_count": 749,
+    "statuses_count": 1264,
+    "favourites_count": 231,
+    "listed_count": 1,
+    "location": "site-300，或俄罗斯克拉斯诺亚尔斯克边疆区",
+    "website": "https://t.co/eDNrHxaiMk",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2024-10-16 02:58:52 +08:00",
+    "url": "https://twitter.com/sinokitatokyo",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODQ2MjY0NDUzNDYzMjM2NjA4",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1903186990201487360/wRTdmbfj_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Oct 15 18:58:52 +0000 2024",
+            "name": "篠北みれい😺（白魔爪重度依赖）",
+            "screen_name": "sinokitatokyo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "google.com",
+                            "expanded_url": "http://www.google.com",
+                            "url": "https://t.co/eDNrHxaiMk",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 749,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 122,
+            "pinned_tweet_ids_str": [
+                "1903207666731847833"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/eDNrHxaiMk",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "site-300，或俄罗斯克拉斯诺亚尔斯克边疆区"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1729018732000,
+            "updated_at": 1750232254497
+        }
+    }
+}

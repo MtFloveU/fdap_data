@@ -1,31 +1,43 @@
 {
     "id": "1692511487531909120",
     "screen_name": "CicadaSeventeen",
-    "name": "蒸汽绵羊 🌈 Cic17",
-    "description": "名誉xyn（？）目前在北京能提供紧急避险或熟人借住，但住宿条件较差。 \n由于梯子而账号有时不稳定封控，偶尔由海外朋友暂管。可联系我：\ntg @CicadaSeventeen\n频道 https://t.co/0Kq0iSIEIZ\nbluesky @cic17.bsky.social",
-    "location": "北京",
+    "name": "🌈 Cic17",
+    "description": "一只特立独行的羊。名誉mtf（？）\n目前南方旅行中。\n在北京能提供紧急避险或熟人借住，但住宿条件较差。 \ntg @CicadaSeventeen\n频道 https://t.co/0Kq0iSIEIZ\nbluesky @cic17.bsky.social",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1860664221408833536/ABFkm6x-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692511487531909120/1732451900",
-    "followers_count": 290,
-    "statuses_count": 2044,
-    "favourites_count": 946,
+    "followers_count": 295,
+    "friends_count": 162,
+    "statuses_count": 2166,
+    "favourites_count": 958,
     "listed_count": 0,
+    "location": "北京",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-08-18 20:19:29 +08:00",
     "url": "https://twitter.com/CicadaSeventeen",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjkyNTExNDg3NTMxOTA5MTIw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1860664221408833536/ABFkm6x-_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Aug 18 12:19:29 +0000 2023",
+            "name": "🌈 Cic17",
+            "screen_name": "CicadaSeventeen"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -36,32 +48,49 @@
                             "expanded_url": "http://t.me/VoiceofC17",
                             "url": "https://t.co/0Kq0iSIEIZ",
                             "indices": [
-                                90,
-                                113
+                                76,
+                                99
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 158,
+            "friends_count": 162,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 241,
+            "media_count": 263,
             "pinned_tweet_ids_str": [
-                "1861940454486622242"
+                "1930996460713021537"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "北京"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1692361169000,
-            "updated_at": 1744350045478
+            "updated_at": 1750232241667
         }
     }
 }

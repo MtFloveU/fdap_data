@@ -1,17 +1,17 @@
 {
     "id": "1858396078644842496",
     "screen_name": "xioy372",
-    "name": "萧雨(笨蛋猫猫)",
-    "description": "🏳️‍⚧️🍥mtf(x)\n好想要贴贴…",
+    "name": "萧雨",
+    "description": "🏳️‍⚧️🍥mtf(x)噢噢咦咦啊啊/是笨笨/休学中…/请打扰我、、",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1911219393817620480/LTVGlio5_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858396078644842496/1738829723",
-    "followers_count": 695,
-    "friends_count": 1077,
-    "statuses_count": 1084,
-    "favourites_count": 4515,
-    "listed_count": 2,
+    "followers_count": 687,
+    "friends_count": 1073,
+    "statuses_count": 1082,
+    "favourites_count": 4542,
+    "listed_count": 0,
     "location": "",
-    "website": "https://t.co/RClIiELqkG",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-11-18 14:25:53 +08:00",
     "url": "https://twitter.com/xioy372",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Mon Nov 18 06:25:53 +0000 2024",
-            "name": "萧雨(笨蛋猫猫)",
+            "name": "萧雨",
             "screen_name": "xioy372"
         },
         "dm_permissions": {
@@ -43,31 +43,17 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/rain82684",
-                            "expanded_url": "https://ngl.link/rain82684",
-                            "url": "https://t.co/RClIiELqkG",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1077,
+            "friends_count": 1073,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 99,
+            "media_count": 91,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/RClIiELqkG",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -91,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219063571
+            "created_at": 1731911153000,
+            "updated_at": 1750232259424
         }
     }
 }

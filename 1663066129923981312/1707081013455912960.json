@@ -2,13 +2,13 @@
     "id": "1707081013455912960",
     "screen_name": "Hanxue0509",
     "name": "⌬🐱晗雪🍥",
-    "description": "🍥/游走于霓虹灯下的，梦想成为猫女仆的高三流浪猫/无论如何，很荣幸认识你",
+    "description": "🍥/游走于霓虹灯下的，梦想成为猫女仆的高三流浪猫/无论如何，很荣幸认识你/这个世界可能很冷，但是晗雪会给你烤又烫又香甜的黄油蔓越莓饼干吃",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1752204551850229760/mTKjbhTA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707081013455912960/1711371955",
-    "followers_count": 599,
-    "friends_count": 496,
-    "statuses_count": 1440,
-    "favourites_count": 21137,
+    "followers_count": 615,
+    "friends_count": 498,
+    "statuses_count": 1505,
+    "favourites_count": 21461,
     "listed_count": 2,
     "location": "晗雪窝",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-09-28 01:13:39 +08:00",
     "url": "https://twitter.com/Hanxue0509",
     "metadata": {
         "__typename": "User",
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 496,
+            "friends_count": 498,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 237,
+            "media_count": 250,
             "pinned_tweet_ids_str": [
-                "1919767883540005144"
+                "1934980605756022990"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219078458
+            "created_at": 1695834819000,
+            "updated_at": 1750232283136
         }
     }
 }

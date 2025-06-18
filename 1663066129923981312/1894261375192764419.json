@@ -2,13 +2,13 @@
     "id": "1894261375192764419",
     "screen_name": "Zhizhi041015",
     "name": "芝芝想知知",
-    "description": "成都/会各种乐器/烹饪小男娘/ISFJ/生日10.15/含糖2025.4/🦔姐姐@HzShibari86/闺蜜@xuny2776/又好又坏还笨笨的主人@YBScoolbaby12",
+    "description": "成都/正在学习催眠/烹饪小男娘/ISFJ/生日10.15/含糖2025.4/🦔姐姐@HzShibari86/闺蜜@xuny2776/又好又坏还笨笨的主人@YBScoolbaby12",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1908476465383170054/474ZVqur_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894261375192764419/1740462405",
-    "followers_count": 261,
-    "friends_count": 334,
-    "statuses_count": 3197,
-    "favourites_count": 5038,
+    "followers_count": 267,
+    "friends_count": 350,
+    "statuses_count": 3238,
+    "favourites_count": 5132,
     "listed_count": 0,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2025-02-25 13:41:41 +08:00",
     "url": "https://twitter.com/Zhizhi041015",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 334,
+            "friends_count": 350,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 314,
+            "media_count": 322,
             "pinned_tweet_ids_str": [
                 "1918681531184205927"
             ],
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1740462101000,
+            "updated_at": 1750232254497
         }
     }
 }

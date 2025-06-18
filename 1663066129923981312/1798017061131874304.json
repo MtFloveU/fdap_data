@@ -2,24 +2,24 @@
     "id": "1798017061131874304",
     "screen_name": "cupric_oxide_",
     "name": "氧化铜🍥",
-    "description": "事你铜\n穹璃：@Qiongli_BAKA\n此方： @ci_shang85157\n提问 ↓",
+    "description": "事你铜\n穹璃：@qiongli_baka\n此方： @ci_shang85157\n提问 ↓",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1908351908139638784/CvNsELNq_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798017061131874304/1742106826",
-    "followers_count": 1104,
-    "friends_count": 1381,
-    "statuses_count": 4738,
-    "favourites_count": 27149,
-    "listed_count": 5,
+    "followers_count": 1144,
+    "friends_count": 1385,
+    "statuses_count": 4825,
+    "favourites_count": 27746,
+    "listed_count": 6,
     "location": "wherever",
     "website": "https://t.co/KPi3tnq69a",
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-06-04 23:40:59 +08:00",
     "url": "https://twitter.com/cupric_oxide_",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1381,
+            "friends_count": 1385,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 667,
+            "media_count": 691,
             "pinned_tweet_ids_str": [
                 "1911043718855213290"
             ],
@@ -95,8 +95,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219060359
+            "created_at": 1717515659000,
+            "updated_at": 1750232256648
         }
     }
 }

@@ -1,14 +1,14 @@
 {
     "id": "1752528596718211072",
-    "screen_name": "GotouSugi_Kh",
-    "name": "⛩️後藤 스기🌸（大考半退網版）",
-    "description": "帳戶已（半）停用/09年/初三/原神/崩鐵/納西妲流螢廚/永遠愛著可愛的寶寶@Raiden_1927/小號@CharmingFirefly",
+    "screen_name": "Gotousugi",
+    "name": "⛩️後藤 스기🌸",
+    "description": "09年/准高一/原神/崩鐵/納西妲流螢廚/永遠愛著可愛的寶寶@Raiden_1927/小號@CharmingFirefly",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1845095597038239745/93vRoCpH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752528596718211072/1724133241",
-    "followers_count": 969,
-    "friends_count": 1895,
-    "statuses_count": 15067,
-    "favourites_count": 26938,
+    "followers_count": 981,
+    "friends_count": 1959,
+    "statuses_count": 15729,
+    "favourites_count": 27885,
     "listed_count": 3,
     "location": "青瓦台，大韓民國🇰🇷",
     "website": "https://t.co/FqSpnwSc2O",
@@ -19,8 +19,8 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/GotouSugi_Kh",
+    "created_at": "2024-01-31 11:06:13 +08:00",
+    "url": "https://twitter.com/Gotousugi",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzUyNTI4NTk2NzE4MjExMDcy",
@@ -30,8 +30,8 @@
         },
         "core": {
             "created_at": "Wed Jan 31 03:06:13 +0000 2024",
-            "name": "⛩️後藤 스기🌸（大考半退網版）",
-            "screen_name": "GotouSugi_Kh"
+            "name": "⛩️後藤 스기🌸",
+            "screen_name": "Gotousugi"
         },
         "dm_permissions": {
             "can_dm": true
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1895,
+            "friends_count": 1959,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 899,
+            "media_count": 915,
             "pinned_tweet_ids_str": [
                 "1891130806963142822"
             ],
@@ -106,8 +106,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219069841
+            "created_at": 1706670373000,
+            "updated_at": 1750232265295
         }
     }
 }
