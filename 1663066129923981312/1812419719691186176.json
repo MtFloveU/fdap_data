@@ -1,16 +1,16 @@
 {
     "id": "1812419719691186176",
     "screen_name": "qweomy10364583",
-    "name": "天下第一の习总书记公主殿下",
-    "description": "最好的老婆:@ygao1314 日更 支黑 介意请b,黑化小号:@vaslyoka9512",
+    "name": "海盐荔枝",
+    "description": "@ygao1314",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1931186168974184448/PIag76Uo_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812419719691186176/1748955744",
-    "followers_count": 973,
-    "friends_count": 696,
-    "statuses_count": 3792,
-    "favourites_count": 13882,
+    "followers_count": 971,
+    "friends_count": 692,
+    "statuses_count": 3787,
+    "favourites_count": 13872,
     "listed_count": 4,
-    "location": "我的云宝宝是世界上最好最好最好最好的人",
+    "location": "没有意义的事情不值得做下去",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,7 +18,7 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": false,
+    "protected": true,
     "created_at": "2024-07-14 17:32:04 +08:00",
     "url": "https://twitter.com/qweomy10364583",
     "metadata": {
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sun Jul 14 09:32:04 +0000 2024",
-            "name": "天下第一の习总书记公主殿下",
+            "name": "海盐荔枝",
             "screen_name": "qweomy10364583"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 696,
+            "friends_count": 692,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
+            "media_count": 4,
             "pinned_tweet_ids_str": [
                 "1926225964356313109"
             ],
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "我的云宝宝是世界上最好最好最好最好的人"
+            "location": "没有意义的事情不值得做下去"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -68,7 +68,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "privacy": {
-            "protected": false
+            "protected": true
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -80,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1720949524000,
-            "updated_at": 1750232263366
+            "updated_at": 1750404915082
         }
     }
 }

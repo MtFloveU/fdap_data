@@ -2,13 +2,13 @@
     "id": "1824428396258234368",
     "screen_name": "wingsing355236",
     "name": "毛新宇宙{TAKAO}(E486)🇨🇳🇹🇼🇭🇰🇲🇴",
-    "description": "Made in Hong Kong，優質服務，楓川做到，心動心動 精通鐵路/ 航空知識！个性極電波，剩下的⋯ Maybe I can find the answer in my note......",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1930071625426448386/ikVR4eOW_normal.jpg",
+    "description": "Made in Hong Kong，心動心動 精通鐵路/ 航空知識！个性極電波，剩下的⋯ Maybe I can find the answer in my note......",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1932665190858043394/c8S_6i-b_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824428396258234368/1735707863",
-    "followers_count": 451,
-    "friends_count": 620,
-    "statuses_count": 7843,
-    "favourites_count": 53934,
+    "followers_count": 501,
+    "friends_count": 650,
+    "statuses_count": 8339,
+    "favourites_count": 56731,
     "listed_count": 4,
     "location": "新宇國雙星市星拓區梁家河大道088號祥星中心55樓08室",
     "website": "https://t.co/qiEvdTcl9Q",
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-08-16 20:50:20 +08:00",
     "url": "https://twitter.com/wingsing355236",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI0NDI4Mzk2MjU4MjM0MzY4",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1930071625426448386/ikVR4eOW_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1932665190858043394/c8S_6i-b_normal.jpg"
         },
         "core": {
             "created_at": "Fri Aug 16 12:50:20 +0000 2024",
@@ -59,11 +59,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 620,
+            "friends_count": 650,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2792,
-            "pinned_tweet_ids_str": [],
+            "media_count": 2905,
+            "pinned_tweet_ids_str": [
+                "1933844400066687211"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -102,8 +104,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219063571
+            "created_at": 1723812620000,
+            "updated_at": 1750404910937
         }
     }
 }

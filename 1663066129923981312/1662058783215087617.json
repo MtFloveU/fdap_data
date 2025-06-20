@@ -2,14 +2,14 @@
     "id": "1662058783215087617",
     "screen_name": "Anastasia195113",
     "name": "Hacchi",
-    "description": "终其永怀，又窘阴雨。04年跨女，hrt纪念日2022.7.？匿名提问https://t.co/FqhYHQn60F 恋人@Sorsacerba ，家人@emiya436900",
+    "description": "终其永怀，又窘阴雨。04年跨女，hrt纪念日2022.7.？匿名提问https://t.co/FqhYHQnDQd 恋人@Sorsacerba ，家人@emiya436900 专门发h的小号@PALMACH_S",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1662061289781460993/EDwofmWk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662058783215087617/1702940079",
-    "followers_count": 2452,
-    "friends_count": 1454,
-    "statuses_count": 24122,
-    "favourites_count": 46760,
-    "listed_count": 8,
+    "followers_count": 3227,
+    "friends_count": 1567,
+    "statuses_count": 25821,
+    "favourites_count": 47698,
+    "listed_count": 9,
     "location": "距离2.4km",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-05-26 19:31:22 +08:00",
     "url": "https://twitter.com/Anastasia195113",
     "metadata": {
         "__typename": "User",
@@ -46,7 +46,7 @@
                         {
                             "display_url": "ngl.link/anastasia195113",
                             "expanded_url": "https://ngl.link/anastasia195113",
-                            "url": "https://t.co/FqhYHQn60F",
+                            "url": "https://t.co/FqhYHQnDQd",
                             "indices": [
                                 34,
                                 57
@@ -56,14 +56,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1454,
+            "friends_count": 1567,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 786,
+            "media_count": 845,
             "pinned_tweet_ids_str": [
                 "1927301590777479428"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "want_retweets": true,
@@ -89,8 +89,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219063571
+            "created_at": 1685100682000,
+            "updated_at": 1750404910937
         }
     }
 }

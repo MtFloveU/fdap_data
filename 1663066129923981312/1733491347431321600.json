@@ -2,30 +2,42 @@
     "id": "1733491347431321600",
     "screen_name": "AlphaOrionis09",
     "name": "Akari",
-    "description": "⚜️幽霊＆ﾃﾝｼ｜ＳＮＳノ詩人。",
-    "location": "无线电波",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1867493725351686145/mrgfkn29_normal.jpg",
+    "description": "⚜️幽霊＆ﾃﾝｼ｜ＳＮＳノ詩人。（最近打工战士是）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1927578034183282688/kbxoqUWc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733491347431321600/1732026659",
-    "followers_count": 1128,
-    "statuses_count": 7958,
-    "favourites_count": 14947,
+    "followers_count": 1132,
+    "friends_count": 685,
+    "statuses_count": 8159,
+    "favourites_count": 14672,
     "listed_count": 5,
+    "location": "无线电波",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-12-09 22:18:47 +08:00",
     "url": "https://twitter.com/AlphaOrionis09",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzMzNDkxMzQ3NDMxMzIxNjAw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1927578034183282688/kbxoqUWc_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Dec 09 14:18:47 +0000 2023",
+            "name": "Akari",
+            "screen_name": "AlphaOrionis09"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 686,
+            "friends_count": 685,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 610,
+            "media_count": 637,
             "pinned_tweet_ids_str": [
                 "1850896106701595124"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "无线电波"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1702131527000,
-            "updated_at": 1744350115040
+            "updated_at": 1750404925325
         }
     }
 }

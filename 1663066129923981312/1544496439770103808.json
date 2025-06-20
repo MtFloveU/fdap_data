@@ -1,37 +1,37 @@
 {
-    "id": "1422521161934643216",
-    "screen_name": "younstark3000",
-    "name": "豆奶",
-    "description": "🏳️‍⚧️｜只收口令红包188/288/520/1314｜置顶推广自辨真假，如果涉及钱或者其他情况请推上私信我｜小号：@younstark3000_",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1923010764467585025/MxjgxSSf_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1422521161934643216/1736013384",
-    "followers_count": 21246,
-    "friends_count": 989,
-    "statuses_count": 3604,
-    "favourites_count": 37326,
-    "listed_count": 59,
-    "location": "臺南",
+    "id": "1544496439770103808",
+    "screen_name": "LynoRoot",
+    "name": "自然是我茶叶啦！🍃（a.k.a. Teaa）",
+    "description": "努力着变得温柔\n普通通过音游玩家\n爱你们",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1925985276817498112/_NxrVYG2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544496439770103808/1708664750",
+    "followers_count": 498,
+    "friends_count": 703,
+    "statuses_count": 3772,
+    "favourites_count": 15026,
+    "listed_count": 0,
+    "location": "看看你后面呢",
     "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": true,
+    "following": false,
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2021-08-03 19:34:20 +08:00",
-    "url": "https://twitter.com/younstark3000",
+    "created_at": "2022-07-06 09:40:39 +08:00",
+    "url": "https://twitter.com/LynoRoot",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxNDIyNTIxMTYxOTM0NjQzMjE2",
+        "id": "VXNlcjoxNTQ0NDk2NDM5NzcwMTAzODA4",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1923010764467585025/MxjgxSSf_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1925985276817498112/_NxrVYG2_normal.jpg"
         },
         "core": {
-            "created_at": "Tue Aug 03 11:34:20 +0000 2021",
-            "name": "豆奶",
-            "screen_name": "younstark3000"
+            "created_at": "Wed Jul 06 01:40:39 +0000 2022",
+            "name": "自然是我茶叶啦！🍃（a.k.a. Teaa）",
+            "screen_name": "LynoRoot"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,21 +46,21 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 989,
-            "has_custom_timelines": true,
+            "friends_count": 703,
+            "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 182,
+            "media_count": 549,
             "pinned_tweet_ids_str": [
-                "1930900054539395076"
+                "1934250923842482538"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "want_retweets": true,
+            "want_retweets": false,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "臺南"
+            "location": "看看你后面呢"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -68,12 +68,12 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "professional": {
-            "rest_id": "1457290639960272900",
+            "rest_id": "1655616859318931458",
             "professional_type": "Creator",
             "category": [
                 {
-                    "id": 477,
-                    "name": "Professional Services",
+                    "id": 941,
+                    "name": "Music Producer",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
@@ -83,17 +83,15 @@
         },
         "relationship_perspectives": {
             "followed_by": true,
-            "following": true
+            "following": false
         },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
+        "tipjar_settings": {},
         "verification": {
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 1627990460000,
-            "updated_at": 1750404919168
+            "created_at": 1657071639000,
+            "updated_at": 1750404871235
         }
     }
 }

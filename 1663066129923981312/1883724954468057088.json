@@ -2,31 +2,42 @@
     "id": "1883724954468057088",
     "screen_name": "Itis_pft",
     "name": "百变小丑帕霏特",
-    "description": "可能是某人的另一个账户？到底是不是谁知道呢，反正也没有人会在意的吧？我的身份信息是捏造的，请不要当真，这是为了让那个真正的“我”不被任何人找到，欢迎私信聊天（帕霏特法则：我说的话将有一半是假的，无论何时我都将遵循法则）如果看到感兴趣的帖子就会进行互动，几乎什么内容都看，并不避讳政治话题和性话题，但我不会键政，顶多玩玩梗",
-    "location": "无法被定义，甚至可能根本不存在的宫殿",
+    "description": "可能是某人的另一个账户？无所谓吧？\n政治派别我从不站，帽子太高我戴不起\n不避讳任何话题，但并不讨论不感兴趣的东西【至于我说的话，真假自辩\n（简介中第2.3条绝对为真）】",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1907855971872874496/GjlUsYh2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883724954468057088/1737950380",
-    "followers_count": 124,
-    "statuses_count": 2171,
-    "favourites_count": 2894,
+    "followers_count": 160,
+    "friends_count": 664,
+    "statuses_count": 3976,
+    "favourites_count": 5147,
     "listed_count": 0,
+    "location": "无法被定义，甚至可能根本不存在的宫殿",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2025-01-27 11:54:22 +08:00",
     "url": "https://twitter.com/Itis_pft",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODgzNzI0OTU0NDY4MDU3MDg4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1907855971872874496/GjlUsYh2_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Jan 27 03:54:22 +0000 2025",
+            "name": "百变小丑帕霏特",
+            "screen_name": "Itis_pft"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 506,
+            "friends_count": 664,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 48,
+            "media_count": 89,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "无法被定义，甚至可能根本不存在的宫殿"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1737950062000,
-            "updated_at": 1744350076462
+            "updated_at": 1750404906747
         }
     }
 }

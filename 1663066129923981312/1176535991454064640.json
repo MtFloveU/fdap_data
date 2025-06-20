@@ -1,67 +1,37 @@
 {
     "id": "1176535991454064640",
-    "screen_name": "lumigj02",
-    "name": "Lumi 猫卷 (日雌泰补",
-    "description": "友跨顺男 | 日雌泰补在售 私信或联系下方Telegram | 🇸🇬 Yishun人跟我们Orchard人讲话要用敬语 | 家猫: @_FurryFur_",
+    "screen_name": "RetiredBizDev",
+    "name": "已退推",
+    "description": "不线下 不加私人联系方式 // 家猫: @_FurryFur_",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1935008461118664704/bvUzII5p_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1744406940",
-    "followers_count": 2732,
-    "friends_count": 902,
-    "statuses_count": 12503,
-    "favourites_count": 27186,
+    "followers_count": 2725,
+    "friends_count": 900,
+    "statuses_count": 12522,
+    "favourites_count": 27170,
     "listed_count": 12,
     "location": "",
-    "website": "https://t.co/xnU7yfJnaD",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": false,
+    "protected": true,
     "created_at": "2019-09-25 00:37:04 +08:00",
-    "url": "https://twitter.com/lumigj02",
+    "url": "https://twitter.com/RetiredBizDev",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTc2NTM1OTkxNDU0MDY0NjQw",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @_Sanxon",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 21,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "_Sanxon",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "_Sanxon"
-                                        },
-                                        "rest_id": "1552918719440924672"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "avatar": {
             "image_url": "https://pbs.twimg.com/profile_images/1935008461118664704/bvUzII5p_normal.jpg"
         },
         "core": {
             "created_at": "Tue Sep 24 16:37:04 +0000 2019",
-            "name": "Lumi 猫卷 (日雌泰补",
-            "screen_name": "lumigj02"
+            "name": "已退推",
+            "screen_name": "RetiredBizDev"
         },
         "dm_permissions": {
             "can_dm": true
@@ -73,33 +43,17 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/lumigj",
-                            "expanded_url": "https://t.me/lumigj",
-                            "url": "https://t.co/xnU7yfJnaD",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 902,
+            "friends_count": 900,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1110,
-            "pinned_tweet_ids_str": [
-                "1935009108744425845"
-            ],
+            "media_count": 1109,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/xnU7yfJnaD",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -112,7 +66,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "privacy": {
-            "protected": false
+            "protected": true
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -128,7 +82,7 @@
         },
         "twe_private_fields": {
             "created_at": 1569343024000,
-            "updated_at": 1750232262453
+            "updated_at": 1750404914160
         }
     }
 }

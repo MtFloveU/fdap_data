@@ -2,13 +2,13 @@
     "id": "1755765450707709952",
     "screen_name": "huajuanshiwo",
     "name": "树海",
-    "description": "啊啊啊啊啊啊还没死啊",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1876289236909092864/caccjc2M_normal.jpg",
+    "description": "小号@shuhaishiwo",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1935569978406658049/lW2hps1-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755765450707709952/1730289185",
-    "followers_count": 1450,
-    "friends_count": 1790,
-    "statuses_count": 8105,
-    "favourites_count": 38519,
+    "followers_count": 1446,
+    "friends_count": 1789,
+    "statuses_count": 8155,
+    "favourites_count": 38684,
     "listed_count": 5,
     "location": "蓝色空间号",
     "website": null,
@@ -26,7 +26,7 @@
         "id": "VXNlcjoxNzU1NzY1NDUwNzA3NzA5OTUy",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1876289236909092864/caccjc2M_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1935569978406658049/lW2hps1-_normal.jpg"
         },
         "core": {
             "created_at": "Fri Feb 09 01:28:44 +0000 2024",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1790,
+            "friends_count": 1789,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1268,
+            "media_count": 1276,
             "pinned_tweet_ids_str": [
                 "1876566723912229149"
             ],
@@ -87,7 +87,7 @@
         },
         "twe_private_fields": {
             "created_at": 1707442124000,
-            "updated_at": 1750232264361
+            "updated_at": 1750404916085
         }
     }
 }

@@ -1,17 +1,17 @@
 {
     "id": "1785828605387313154",
-    "screen_name": "LikXiaoZhai",
-    "name": "XiaoZHai",
-    "description": "这里是XiaoZhai 初二生 含糖",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1934636878227193856/1DvgJY8U_normal.jpg",
+    "screen_name": "XZh_aaa",
+    "name": "XZh🍥",
+    "description": "是LikXZh 含糖",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1935623330054434816/P-dlK6yD_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1785828605387313154/1750088379",
-    "followers_count": 655,
-    "friends_count": 1051,
-    "statuses_count": 391,
-    "favourites_count": 2951,
+    "followers_count": 653,
+    "friends_count": 1061,
+    "statuses_count": 394,
+    "favourites_count": 3039,
     "listed_count": 3,
     "location": "Not Found",
-    "website": "https://t.co/flD54SngND",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -20,18 +20,18 @@
     "can_dm": true,
     "protected": false,
     "created_at": "2024-05-02 08:28:22 +08:00",
-    "url": "https://twitter.com/LikXiaoZhai",
+    "url": "https://twitter.com/XZh_aaa",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzg1ODI4NjA1Mzg3MzEzMTU0",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1934636878227193856/1DvgJY8U_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1935623330054434816/P-dlK6yD_normal.jpg"
         },
         "core": {
             "created_at": "Thu May 02 00:28:22 +0000 2024",
-            "name": "XiaoZHai",
-            "screen_name": "LikXiaoZhai"
+            "name": "XZh🍥",
+            "screen_name": "XZh_aaa"
         },
         "dm_permissions": {
             "can_dm": true
@@ -43,31 +43,17 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "likzhai.space",
-                            "expanded_url": "http://likzhai.space",
-                            "url": "https://t.co/flD54SngND",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1051,
+            "friends_count": 1061,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 54,
+            "media_count": 53,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/flD54SngND",
             "want_retweets": false,
             "withheld_in_countries": []
         },
@@ -92,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1714609702000,
-            "updated_at": 1750232226184
+            "updated_at": 1750404871235
         }
     }
 }

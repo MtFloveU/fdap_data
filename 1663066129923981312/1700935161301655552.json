@@ -2,13 +2,13 @@
     "id": "1700935161301655552",
     "screen_name": "qingshixiang258",
     "name": "青石巷🍃🕊️",
-    "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1930642071146442752/DL727ikJ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700935161301655552/1748858469",
-    "followers_count": 1202,
-    "friends_count": 1034,
-    "statuses_count": 10180,
-    "favourites_count": 23319,
+    "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700935161301655552/1749260035",
+    "followers_count": 1244,
+    "friends_count": 1135,
+    "statuses_count": 10726,
+    "favourites_count": 24574,
     "listed_count": 6,
     "location": "？？？",
     "website": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-09-11 02:12:06 +08:00",
     "url": "https://twitter.com/qingshixiang258",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzAwOTM1MTYxMzAxNjU1NTUy",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1930642071146442752/DL727ikJ_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg"
         },
         "core": {
             "created_at": "Sun Sep 10 18:12:06 +0000 2023",
@@ -46,13 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1034,
+            "friends_count": 1135,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 582,
-            "pinned_tweet_ids_str": [
-                "1930276431860510793"
-            ],
+            "media_count": 628,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -81,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219064503
+            "created_at": 1694369526000,
+            "updated_at": 1750404912107
         }
     }
 }

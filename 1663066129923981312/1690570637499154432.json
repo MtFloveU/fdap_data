@@ -1,14 +1,14 @@
 {
     "id": "1690570637499154432",
-    "screen_name": "saonanaa",
-    "name": "澳门首家线上赌场",
+    "screen_name": "saoweve",
+    "name": "Zhi Wei",
     "description": "出错了，但是我们做对了",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1929479654408417280/ZWkvJo27_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1935628152086134784/6nkZKzqF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1748858689",
-    "followers_count": 2963,
-    "friends_count": 359,
-    "statuses_count": 12820,
-    "favourites_count": 23242,
+    "followers_count": 3265,
+    "friends_count": 364,
+    "statuses_count": 12885,
+    "favourites_count": 23402,
     "listed_count": 12,
     "location": "🌏🌐",
     "website": null,
@@ -20,18 +20,18 @@
     "can_dm": true,
     "protected": false,
     "created_at": "2023-08-13 11:47:17 +08:00",
-    "url": "https://twitter.com/saonanaa",
+    "url": "https://twitter.com/saoweve",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjkwNTcwNjM3NDk5MTU0NDMy",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1929479654408417280/ZWkvJo27_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1935628152086134784/6nkZKzqF_normal.jpg"
         },
         "core": {
             "created_at": "Sun Aug 13 03:47:17 +0000 2023",
-            "name": "澳门首家线上赌场",
-            "screen_name": "saonanaa"
+            "name": "Zhi Wei",
+            "screen_name": "saoweve"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 359,
+            "friends_count": 364,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1458,
+            "media_count": 1471,
             "pinned_tweet_ids_str": [
                 "1934236575246045618"
             ],
@@ -84,7 +84,7 @@
         },
         "twe_private_fields": {
             "created_at": 1691898437000,
-            "updated_at": 1750232282149
+            "updated_at": 1750404923083
         }
     }
 }

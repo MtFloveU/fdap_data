@@ -1,67 +1,72 @@
 {
     "id": "1804491731200864256",
-    "screen_name": "Ludwig_von_Remi",
-    "name": "最高領袖唯一伴侶 織田·Remi🇦🇺🇹🇼（永久退推）",
-    "description": "我來，我見，我征服 —— 蓋烏斯·尤利烏斯·凱撒\nVENI VIDI VICI ——Gaius Iulius Caesar",
-    "location": "I stand with Ukraine",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1810331335292329984/Jw9Iv_9O_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804491731200864256/1723483005",
-    "followers_count": 920,
-    "statuses_count": 12357,
-    "favourites_count": 35056,
+    "screen_name": "Higann_no_Kizna",
+    "name": "彼岸竹華",
+    "description": "折にふれて さまざまのうきふしをへて呉竹の よにすぐれたる人とこそなれ 風に従うより節を守る、孤に咲くは、逢わぬまま散る、それが彼岸の約束",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1935898727551582208/QWVIbJWi_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804491731200864256/1750389226",
+    "followers_count": 911,
+    "friends_count": 565,
+    "statuses_count": 11907,
+    "favourites_count": 34539,
     "listed_count": 4,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-06-22 20:29:04 +08:00",
-    "url": "https://twitter.com/Ludwig_von_Remi",
+    "url": "https://twitter.com/Higann_no_Kizna",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODA0NDkxNzMxMjAwODY0MjU2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1935898727551582208/QWVIbJWi_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 22 12:29:04 +0000 2024",
+            "name": "彼岸竹華",
+            "screen_name": "Higann_no_Kizna"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "donate.redcrossredcrescent.org/ua/500days-ad/…",
-                            "expanded_url": "https://donate.redcrossredcrescent.org/ua/500days-ad/~%D0%BC%D0%BE%D1%8F-%D0%BF%D0%BE%D0%B6%D0%B5%D1",
-                            "url": "https://t.co/E8iwSw3NqZ",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 710,
+            "friends_count": 565,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 311,
+            "media_count": 306,
             "pinned_tweet_ids_str": [
-                "1843074856059044302"
+                "1935905138121884043"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/E8iwSw3NqZ",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1804494950136254964",
             "professional_type": "Business",
@@ -73,10 +78,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1719059344000,
-            "updated_at": 1744350094637
+            "updated_at": 1750404916085
         }
     }
 }

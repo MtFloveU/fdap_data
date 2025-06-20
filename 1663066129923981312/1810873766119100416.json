@@ -1,16 +1,16 @@
 {
-    "id": "1811442458171179009",
-    "screen_name": "xingliangjizi",
-    "name": "量中毒🏳‍⚧️🍥(上岸版)",
-    "description": "05mtx/无证含糖/(正在下降中)/不od/不割手/诊断为抑郁/喜欢小说/门槛50(赞赏码/支付宝口令红包)/上岸啦，不接啦/最乖最要好最重要的妹妹@Hashinogu",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1811442651830644737/wVddPxyQ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811442458171179009/1720717549",
-    "followers_count": 2292,
-    "friends_count": 261,
-    "statuses_count": 822,
-    "favourites_count": 2054,
-    "listed_count": 7,
-    "location": "江苏徐州",
+    "id": "1810873766119100416",
+    "screen_name": "RainEngine2024",
+    "name": "雨晴晴",
+    "description": "RainEngine联合创始人/07年/貌似不是学生/目前小米在职/喜欢摄影/喜欢折腾各类的手机/欢迎各位小伙伴互fo",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1860123113566179328/KnVUrmuJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810873766119100416/1748938162",
+    "followers_count": 299,
+    "friends_count": 319,
+    "statuses_count": 355,
+    "favourites_count": 1490,
+    "listed_count": 0,
+    "location": "",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -19,19 +19,19 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2024-07-12 00:48:49 +08:00",
-    "url": "https://twitter.com/xingliangjizi",
+    "created_at": "2024-07-10 11:08:51 +08:00",
+    "url": "https://twitter.com/RainEngine2024",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxODExNDQyNDU4MTcxMTc5MDA5",
+        "id": "VXNlcjoxODEwODczNzY2MTE5MTAwNDE2",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1811442651830644737/wVddPxyQ_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1860123113566179328/KnVUrmuJ_normal.jpg"
         },
         "core": {
-            "created_at": "Thu Jul 11 16:48:49 +0000 2024",
-            "name": "量中毒🏳‍⚧️🍥(上岸版)",
-            "screen_name": "xingliangjizi"
+            "created_at": "Wed Jul 10 03:08:51 +0000 2024",
+            "name": "雨晴晴",
+            "screen_name": "RainEngine2024"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 261,
+            "friends_count": 319,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 111,
+            "media_count": 54,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -58,7 +58,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "江苏徐州"
+            "location": ""
         },
         "media_permissions": {
             "can_media_tag": true
@@ -66,12 +66,12 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "professional": {
-            "rest_id": "1822561484792283256",
+            "rest_id": "1813413460547653740",
             "professional_type": "Creator",
             "category": [
                 {
-                    "id": 103,
-                    "name": "Beauty, Cosmetic & Personal Care",
+                    "id": 713,
+                    "name": "Science & Technology",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
@@ -83,15 +83,13 @@
             "followed_by": true,
             "following": true
         },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
+        "tipjar_settings": {},
         "verification": {
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 1720716529000,
-            "updated_at": 1750404921163
+            "created_at": 1720580931000,
+            "updated_at": 1750404904094
         }
     }
 }

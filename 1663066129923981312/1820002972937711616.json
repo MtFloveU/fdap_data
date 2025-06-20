@@ -2,30 +2,42 @@
     "id": "1820002972937711616",
     "screen_name": "n9tank163",
     "name": "n9tank",
-    "description": "今天也是坠落的一天，什么时候才能到底呢？",
-    "location": "雾之湖旁边的冰屋",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1899083491180191744/X8wglMx8_normal.jpg",
+    "description": "每天早上起来头都很昏，为什么人不能睡16小时？",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1916776780150763520/cP_gW0xi_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 32,
-    "statuses_count": 332,
-    "favourites_count": 20,
+    "followers_count": 30,
+    "friends_count": 73,
+    "statuses_count": 353,
+    "favourites_count": 19,
     "listed_count": 0,
+    "location": "雾之湖旁边的冰屋",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-08-04 15:45:31 +08:00",
     "url": "https://twitter.com/n9tank163",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODIwMDAyOTcyOTM3NzExNjE2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1916776780150763520/cP_gW0xi_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Aug 04 07:45:31 +0000 2024",
+            "name": "n9tank",
+            "screen_name": "n9tank163"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 75,
+            "friends_count": 73,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 3,
@@ -44,14 +56,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "雾之湖旁边的冰屋"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1722757531000,
-            "updated_at": 1744350043524
+            "updated_at": 1750404887404
         }
     }
 }

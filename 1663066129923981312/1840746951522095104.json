@@ -2,28 +2,42 @@
     "id": "1840746951522095104",
     "screen_name": "poor_tomato_qaq",
     "name": "可憐の拖碼頭（坐牢中）",
-    "description": "@tomato11451419 的转世/一只北方小城的社恐/*时不时发癫/富哥可以V50吗/回复会一个一个看的/友跨/连直线都不会画的画渣/isfp/不涉政/定期回fo/日常推/可以聊天/好朋友@TXTYYDZ\n匿名提问：https://t.co/Cdv6kfoKQ3（原来的掉了）",
-    "location": "番茄种植基地",
+    "description": "@tomato11451419 的转世/一只北方小城的社恐/*时不时发癫/富哥可以V50吗/回复会一个一个看的/友跨/连直线都不会画的画渣/isfp/不涉政/定期回fo/日常推/可以聊天/过农历生日/好朋友@TXTYYDZ\n匿名提问：https://t.co/Cdv6kfoKQ3（原来的掉了）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906203587572797440/BEjRtMnp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840746951522095104/1739366308",
-    "followers_count": 302,
-    "statuses_count": 2840,
-    "favourites_count": 9762,
+    "followers_count": 352,
+    "friends_count": 259,
+    "statuses_count": 3764,
+    "favourites_count": 11730,
     "listed_count": 1,
+    "location": "番茄种植基地",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-09-30 21:34:22 +08:00",
     "url": "https://twitter.com/poor_tomato_qaq",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQwNzQ2OTUxNTIyMDk1MTA0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1906203587572797440/BEjRtMnp_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Sep 30 13:34:22 +0000 2024",
+            "name": "可憐の拖碼頭（坐牢中）",
+            "screen_name": "poor_tomato_qaq"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,34 +48,49 @@
                             "expanded_url": "https://ngl.link/poor_tomato_qaq1",
                             "url": "https://t.co/Cdv6kfoKQ3",
                             "indices": [
-                                111,
-                                134
+                                117,
+                                140
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 241,
+            "friends_count": 259,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 273,
+            "media_count": 343,
             "pinned_tweet_ids_str": [
                 "1908544188381356202"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "番茄种植基地"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1727703262000,
-            "updated_at": 1746077180863
+            "updated_at": 1750404915082
         }
     }
 }

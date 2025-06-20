@@ -1,31 +1,43 @@
 {
     "id": "1625157697761955842",
-    "screen_name": "hellouwu8964",
-    "name": "閒得發慌🇹🇼",
+    "screen_name": "1n_RikkA",
+    "name": "閒得發慌",
     "description": "🥺",
-    "location": "Glen",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1786743417730682880/Y0iFzltF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625157697761955842/1731250186",
-    "followers_count": 378,
-    "statuses_count": 537,
-    "favourites_count": 12367,
+    "followers_count": 381,
+    "friends_count": 2205,
+    "statuses_count": 579,
+    "favourites_count": 14459,
     "listed_count": 0,
+    "location": "Glen",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-02-13 23:39:45 +08:00",
-    "url": "https://twitter.com/hellouwu8964",
+    "url": "https://twitter.com/1n_RikkA",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjI1MTU3Njk3NzYxOTU1ODQy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1786743417730682880/Y0iFzltF_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Feb 13 15:39:45 +0000 2023",
+            "name": "閒得發慌",
+            "screen_name": "1n_RikkA"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2086,
+            "friends_count": 2205,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 65,
+            "media_count": 69,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Glen"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1676302785000,
-            "updated_at": 1744350033597
+            "updated_at": 1750404883724
         }
     }
 }

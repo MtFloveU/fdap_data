@@ -2,13 +2,13 @@
     "id": "1538218708879163393",
     "screen_name": "nekocatnyn",
     "name": "neko",
-    "description": "07 | mtx(male to femboy) | 南宁 | 03,24,24 | w/ @rong8338  |🔗 @lingqin7",
+    "description": "07 | mtx(male to femboy) | 南宁 | 03,24,24 |🔗 @lingqin7",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1611096891747622912/skXzRHe1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1538218708879163393/1656897317",
-    "followers_count": 929,
-    "friends_count": 468,
-    "statuses_count": 844,
-    "favourites_count": 1191,
+    "followers_count": 923,
+    "friends_count": 467,
+    "statuses_count": 845,
+    "favourites_count": 1176,
     "listed_count": 2,
     "location": "16.884km",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-06-19 01:55:49 +08:00",
     "url": "https://twitter.com/nekocatnyn",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 468,
+            "friends_count": 467,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 65,
+            "media_count": 66,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -77,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219045919
+            "created_at": 1655574949000,
+            "updated_at": 1750404891777
         }
     }
 }

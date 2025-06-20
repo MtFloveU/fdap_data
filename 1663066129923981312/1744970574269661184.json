@@ -2,30 +2,42 @@
     "id": "1744970574269661184",
     "screen_name": "0x70E_",
     "name": "0x70E",
-    "description": "常驻深圳｜成分较复杂 | 守旧二次元 | 超级鹿乃厨 | 喜欢音游 | FPS低手 |  术力口厨\n愿望是世界和平，人与人之间少点争端❤\n求互fo",
+    "description": "常驻深圳｜成分较复杂 | 守旧二次元 | 超级鹿乃厨 | 喜欢音游 | FPS低手 |  术力口厨\n愿望是世界和平，人与人之间少点争端",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1935603394284060672/-uPSJWNv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1744970574269661184/1749549681",
+    "followers_count": 485,
+    "friends_count": 952,
+    "statuses_count": 859,
+    "favourites_count": 2250,
+    "listed_count": 3,
     "location": "末班电车",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1907588693189341185/PE2bt5kG_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1744970574269661184/1743639587",
-    "followers_count": 479,
-    "statuses_count": 806,
-    "favourites_count": 2204,
-    "listed_count": 4,
+    "website": "https://t.co/eIy3JIop81",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-01-10 14:33:10 +08:00",
     "url": "https://twitter.com/0x70E_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzQ0OTcwNTc0MjY5NjYxMTg0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1935603394284060672/-uPSJWNv_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Jan 10 06:33:10 +0000 2024",
+            "name": "0x70E",
+            "screen_name": "0x70E_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,19 +59,26 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 942,
+            "friends_count": 952,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 101,
+            "media_count": 112,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/eIy3JIop81",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "末班电车"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1882762776776753624",
             "professional_type": "Creator",
@@ -71,12 +90,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1704868390000,
-            "updated_at": 1744350087213
+            "updated_at": 1750404913205
         }
     }
 }

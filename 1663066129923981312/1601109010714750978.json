@@ -5,10 +5,10 @@
     "description": "07的一名高二牲/170-61/INTP-T(原来是ISFJ)/🏳️‍⚧️（大概是MTX偏F） /最好的姐姐@maimai_dx///快fo咱的可爱",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1601611138491645952/v2V-0pa0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601109010714750978/1670688839",
-    "followers_count": 1177,
-    "friends_count": 685,
-    "statuses_count": 5269,
-    "favourites_count": 45393,
+    "followers_count": 1176,
+    "friends_count": 688,
+    "statuses_count": 5274,
+    "favourites_count": 45413,
     "listed_count": 3,
     "location": "距离你100m",
     "website": null,
@@ -16,7 +16,7 @@
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
-    "followed_by": null,
+    "followed_by": true,
     "can_dm": true,
     "protected": true,
     "created_at": "2022-12-09 14:58:40 +08:00",
@@ -76,7 +76,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 685,
+            "friends_count": 688,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 59,
@@ -99,6 +99,7 @@
             "protected": true
         },
         "relationship_perspectives": {
+            "followed_by": true,
             "following": true
         },
         "tipjar_settings": {
@@ -109,7 +110,7 @@
         },
         "twe_private_fields": {
             "created_at": 1670569120000,
-            "updated_at": 1750232254497
+            "updated_at": 1750404904094
         }
     }
 }

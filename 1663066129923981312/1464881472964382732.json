@@ -2,30 +2,42 @@
     "id": "1464881472964382732",
     "screen_name": "mengguyi",
     "name": "孟古一🍥",
-    "description": "GNU/Linux用户｜超业余级的Golang开发者｜19 y.o.｜个人TG: https://t.co/sId7D2qEtH｜GitHub: https://t.co/H0qW1rtPXv｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜实习圆角｜Nya! 若账号被限制请 @mengguyi2",
-    "location": "Macau",
+    "description": "GNU/Linux用户｜超业余级的Golang开发者｜20 y.o.｜个人TG: https://t.co/sId7D2qEtH｜GitHub: https://t.co/H0qW1rtPXv｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜实习圆角｜Nya! 若账号被限制请 @mengguyi2",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1775795384096600065/vu5kAWL9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464881472964382732/1685970901",
-    "followers_count": 2071,
-    "statuses_count": 3671,
-    "favourites_count": 36133,
+    "followers_count": 2540,
+    "friends_count": 1102,
+    "statuses_count": 3930,
+    "favourites_count": 38957,
     "listed_count": 5,
+    "location": "Macau",
+    "website": "https://t.co/TS2nZD0GVY",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2021-11-28 16:59:07 +08:00",
     "url": "https://twitter.com/mengguyi",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDY0ODgxNDcyOTY0MzgyNzMy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1775795384096600065/vu5kAWL9_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Nov 28 08:59:07 +0000 2021",
+            "name": "孟古一🍥",
+            "screen_name": "mengguyi"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -66,19 +78,26 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1069,
+            "friends_count": 1102,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 860,
+            "media_count": 927,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/TS2nZD0GVY",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Macau"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1713084361195823615",
             "professional_type": "Creator",
@@ -90,14 +109,24 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true,
             "bitcoin_handle": "bc1qm3xr0dtc6k5kppgky3ylqj2zfmpwk7698pznev",
             "ethereum_handle": "0xE3119e7293bf6Aa91C586fC19a3C2A7D5370D9F8"
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1638089947000,
-            "updated_at": 1744350118008
+            "updated_at": 1750404925325
         }
     }
 }

@@ -1,14 +1,14 @@
 {
     "id": "1792933283040284673",
     "screen_name": "tuamitx0",
-    "name": "小幫手🔫",
+    "name": "还不是因为不努力",
     "description": "我失业了",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1925229295536123904/nHpHZQ66_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792933283040284673/1746622667",
     "followers_count": 131,
-    "friends_count": 536,
-    "statuses_count": 5804,
-    "favourites_count": 10739,
+    "friends_count": 540,
+    "statuses_count": 5820,
+    "favourites_count": 10763,
     "listed_count": 1,
     "location": "臺灣 新北市",
     "website": null,
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Tue May 21 15:00:28 +0000 2024",
-            "name": "小幫手🔫",
+            "name": "还不是因为不努力",
             "screen_name": "tuamitx0"
         },
         "dm_permissions": {
@@ -46,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 536,
+            "friends_count": 540,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 19,
@@ -83,7 +83,7 @@
         },
         "twe_private_fields": {
             "created_at": 1716303628000,
-            "updated_at": 1750232264361
+            "updated_at": 1750404916085
         }
     }
 }

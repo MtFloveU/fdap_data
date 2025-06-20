@@ -2,23 +2,23 @@
     "id": "1884959792390938624",
     "screen_name": "mengqing5735",
     "name": "梦情🏳️‍⚧️🍥",
-    "description": "为什么不杀光",
+    "description": "历史爱好者/14岁",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1932034241610878976/HZNQGzCZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884959792390938624/1747308472",
-    "followers_count": 1629,
-    "friends_count": 976,
-    "statuses_count": 6280,
-    "favourites_count": 15417,
+    "followers_count": 1627,
+    "friends_count": 978,
+    "statuses_count": 6362,
+    "favourites_count": 15643,
     "listed_count": 5,
     "location": "美丽新世界",
-    "website": "https://t.co/x8mGnkT9CM",
+    "website": "https://t.co/0elVIHwpOu",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": true,
+    "protected": false,
     "created_at": "2025-01-30 21:40:24 +08:00",
     "url": "https://twitter.com/mengqing5735",
     "metadata": {
@@ -49,7 +49,7 @@
                         {
                             "display_url": "t.me/luna57351",
                             "expanded_url": "http://t.me/luna57351",
-                            "url": "https://t.co/x8mGnkT9CM",
+                            "url": "https://t.co/0elVIHwpOu",
                             "indices": [
                                 0,
                                 23
@@ -59,17 +59,15 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 976,
+            "friends_count": 978,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 157,
-            "pinned_tweet_ids_str": [
-                "1934036857748410614"
-            ],
+            "media_count": 163,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/x8mGnkT9CM",
+            "url": "https://t.co/0elVIHwpOu",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -93,7 +91,7 @@
             ]
         },
         "privacy": {
-            "protected": true
+            "protected": false
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -105,7 +103,7 @@
         },
         "twe_private_fields": {
             "created_at": 1738244424000,
-            "updated_at": 1750232256648
+            "updated_at": 1750404907751
         }
     }
 }

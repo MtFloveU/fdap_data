@@ -1,17 +1,17 @@
 {
-    "id": "1680514794401697794",
-    "screen_name": "XUNYISHI121212",
-    "name": "XUNYISHI",
-    "description": "來自徐州新沂的一位普普通通的初三學生/正在苦練音遊中/2010年 169cm 47kg/把這裡當朋友圈發",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1819716072825860096/fv3fiIiR_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680514794401697794/1748081734",
-    "followers_count": 57,
-    "friends_count": 256,
-    "statuses_count": 200,
-    "favourites_count": 4126,
+    "id": "1613697463906623489",
+    "screen_name": "T0rnado_ax",
+    "name": "T0rnado",
+    "description": "友跨\n政治冷漠\n苦逼高中生\n友善交流谢谢喵",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1911050323885527040/d7_FUNqG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613697463906623489/1746544715",
+    "followers_count": 12,
+    "friends_count": 58,
+    "statuses_count": 95,
+    "favourites_count": 335,
     "listed_count": 0,
-    "location": "34°14'32.4\"N 118°27'46.3\"E",
-    "website": "https://t.co/0cMTxHcHny",
+    "location": "Nearby",
+    "website": "https://t.co/wCQbjYBBTM",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,19 +19,19 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2023-07-16 17:49:24 +08:00",
-    "url": "https://twitter.com/XUNYISHI121212",
+    "created_at": "2023-01-13 08:40:52 +08:00",
+    "url": "https://twitter.com/T0rnado_ax",
     "metadata": {
         "__typename": "User",
-        "id": "VXNlcjoxNjgwNTE0Nzk0NDAxNjk3Nzk0",
+        "id": "VXNlcjoxNjEzNjk3NDYzOTA2NjIzNDg5",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1819716072825860096/fv3fiIiR_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1911050323885527040/d7_FUNqG_normal.jpg"
         },
         "core": {
-            "created_at": "Sun Jul 16 09:49:24 +0000 2023",
-            "name": "XUNYISHI",
-            "screen_name": "XUNYISHI121212"
+            "created_at": "Fri Jan 13 00:40:52 +0000 2023",
+            "name": "T0rnado",
+            "screen_name": "T0rnado_ax"
         },
         "dm_permissions": {
             "can_dm": true
@@ -47,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "linktr.ee/XUNYISHI",
-                            "expanded_url": "http://linktr.ee/XUNYISHI",
-                            "url": "https://t.co/0cMTxHcHny",
+                            "display_url": "t0rnado.netlify.app",
+                            "expanded_url": "http://t0rnado.netlify.app",
+                            "url": "https://t.co/wCQbjYBBTM",
                             "indices": [
                                 0,
                                 23
@@ -59,26 +59,33 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 256,
+            "friends_count": 58,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 118,
-            "pinned_tweet_ids_str": [],
+            "media_count": 7,
+            "pinned_tweet_ids_str": [
+                "1917450682409574491"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/0cMTxHcHny",
+            "url": "https://t.co/wCQbjYBBTM",
             "want_retweets": false,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "34°14'32.4\"N 118°27'46.3\"E"
+            "location": "Nearby"
         },
         "media_permissions": {
             "can_media_tag": true
         },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1919611361728033065",
+            "professional_type": "Business",
+            "category": []
+        },
         "privacy": {
             "protected": false
         },
@@ -93,8 +100,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 1689500964000,
-            "updated_at": 1750404890758
+            "created_at": 1673570452000,
+            "updated_at": 1750404871235
         }
     }
 }

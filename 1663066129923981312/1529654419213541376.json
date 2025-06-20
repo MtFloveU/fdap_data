@@ -5,10 +5,10 @@
     "description": "泛黄的老照片里讲述了一个什么样的故事",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529654419213541376/1743689183",
-    "followers_count": 1531,
-    "friends_count": 238,
-    "statuses_count": 11490,
-    "favourites_count": 7494,
+    "followers_count": 1586,
+    "friends_count": 207,
+    "statuses_count": 11594,
+    "favourites_count": 7508,
     "listed_count": 11,
     "location": "我会带你去看这世界上最独一无二的风景",
     "website": "https://t.co/3g5y5VovBM",
@@ -16,7 +16,7 @@
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
-    "followed_by": true,
+    "followed_by": null,
     "can_dm": true,
     "protected": false,
     "created_at": "2022-05-26 10:43:47 +08:00",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 238,
+            "friends_count": 207,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2832,
+            "media_count": 2842,
             "pinned_tweet_ids_str": [
                 "1874675451739971770"
             ],
@@ -96,7 +96,6 @@
             "protected": false
         },
         "relationship_perspectives": {
-            "followed_by": true,
             "following": true
         },
         "tipjar_settings": {},
@@ -105,7 +104,7 @@
         },
         "twe_private_fields": {
             "created_at": 1653533027000,
-            "updated_at": 1750232267029
+            "updated_at": 1750404919168
         }
     }
 }

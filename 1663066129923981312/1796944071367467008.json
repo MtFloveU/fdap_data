@@ -1,17 +1,17 @@
 {
     "id": "1796944071367467008",
     "screen_name": "vkontakteluv",
-    "name": "トントントントントントントントンサフル",
-    "description": "你好(´▽｀) 天天开心哦",
+    "name": "YesMTF | Mahiro",
+    "description": "天天开心哦",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916004288255455232/yoUjtWC3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796944071367467008/1731602390",
-    "followers_count": 489,
-    "friends_count": 1649,
-    "statuses_count": 2893,
-    "favourites_count": 5684,
+    "followers_count": 490,
+    "friends_count": 1651,
+    "statuses_count": 2925,
+    "favourites_count": 5727,
     "listed_count": 2,
     "location": "China",
-    "website": null,
+    "website": "https://t.co/5117Ur78cr",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat Jun 01 16:37:18 +0000 2024",
-            "name": "トントントントントントントントンサフル",
+            "name": "YesMTF | Mahiro",
             "screen_name": "vkontakteluv"
         },
         "dm_permissions": {
@@ -43,17 +43,31 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "yesmtf.com",
+                            "expanded_url": "http://www.yesmtf.com",
+                            "url": "https://t.co/5117Ur78cr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1649,
+            "friends_count": 1651,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 131,
+            "media_count": 132,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/5117Ur78cr",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -78,7 +92,7 @@
         },
         "twe_private_fields": {
             "created_at": 1717259838000,
-            "updated_at": 1750232264361
+            "updated_at": 1750404916085
         }
     }
 }

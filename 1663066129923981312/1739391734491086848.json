@@ -2,15 +2,15 @@
     "id": "1739391734491086848",
     "screen_name": "IXXA00",
     "name": "isla🥑",
-    "description": "🚪52/https://t.co/UDk836ufY8",
+    "description": "面目全非。🚪52/https://t.co/UDk836ufY8",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1934877841247883266/NrEE0FYl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1750041990",
-    "followers_count": 3726,
-    "friends_count": 3102,
-    "statuses_count": 23541,
-    "favourites_count": 23950,
+    "followers_count": 3721,
+    "friends_count": 3099,
+    "statuses_count": 23653,
+    "favourites_count": 24040,
     "listed_count": 7,
-    "location": "你不知道的地方",
+    "location": "鞍山市",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -48,19 +48,21 @@
                             "expanded_url": "https://ngl.link/ixxa00",
                             "url": "https://t.co/UDk836ufY8",
                             "indices": [
-                                4,
-                                27
+                                9,
+                                32
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3102,
+            "friends_count": 3099,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1762,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1767,
+            "pinned_tweet_ids_str": [
+                "1935636833834348590"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -68,7 +70,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "你不知道的地方"
+            "location": "鞍山市"
         },
         "media_permissions": {
             "can_media_tag": true
@@ -90,7 +92,7 @@
         },
         "twe_private_fields": {
             "created_at": 1703538291000,
-            "updated_at": 1750232283136
+            "updated_at": 1750404924380
         }
     }
 }
