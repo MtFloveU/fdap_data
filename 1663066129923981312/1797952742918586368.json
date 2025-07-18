@@ -2,30 +2,42 @@
     "id": "1797952742918586368",
     "screen_name": "Sakura_baimao",
     "name": "白猫official",
-    "description": "02年 | 本科 | 大四 | 制药工程 | 键政达咩 | 喜欢玩碧蓝航线、三角洲行动、PUBG、Apex、我的世界 | 是一个vup（已停播）| 欢迎互fo",
-    "location": "诺文斯克",
+    "description": "02年 | 本科 | 在工作 | 制药工程 | 键政达咩 | 喜欢玩碧蓝航线、三角洲行动、PUBG、Apex、我的世界 | 是一个vup（已停播）| 欢迎互fo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1797958178342375424/DJ1w-gGj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797952742918586368/1725749266",
-    "followers_count": 606,
-    "statuses_count": 2827,
-    "favourites_count": 7006,
+    "followers_count": 708,
+    "friends_count": 599,
+    "statuses_count": 3580,
+    "favourites_count": 10399,
     "listed_count": 1,
+    "location": "诺文斯克",
+    "website": "https://t.co/36svOAvF4A",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-06-04 19:25:25 +08:00",
     "url": "https://twitter.com/Sakura_baimao",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk3OTUyNzQyOTE4NTg2MzY4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1797958178342375424/DJ1w-gGj_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jun 04 11:25:25 +0000 2024",
+            "name": "白猫official",
+            "screen_name": "Sakura_baimao"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 534,
+            "friends_count": 599,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 412,
+            "media_count": 551,
             "pinned_tweet_ids_str": [
                 "1821717131794510244"
             ],
@@ -58,14 +70,31 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/36svOAvF4A",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "诺文斯克"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1717500325000,
-            "updated_at": 1744350101511
+            "updated_at": 1752846620643
         }
     }
 }

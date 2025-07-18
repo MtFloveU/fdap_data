@@ -2,13 +2,13 @@
     "id": "1719571122642161664",
     "screen_name": "AGeSang2008",
     "name": "绫音AGeSang🏳️‍⚧️🍥",
-    "description": "08.8.8｜mtf｜180/100｜HRT23.9.4｜infp｜是一只可爱小猫咪｜坐标上海｜有小证｜天残｜BPD｜ADHD｜ASD｜可以叫咱猫猫/绫音｜小号 @AGeCat2008｜姐姐 @Anan628769｜笨蛋55 @N552AA｜Andy @Andy1782010｜",
+    "description": "08.8.8｜mtf｜180/100｜HRT23.9.4｜infp｜是一只可爱小猫咪｜坐标上海｜有小证｜天残｜BPD｜ADHD｜ASD｜可以叫咱猫猫/绫音｜小号 @AGeCat2008｜姐姐 @Anan628769｜笨蛋Andy @Andy1782010｜",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1719571122642161664/1732270179",
-    "followers_count": 1037,
-    "friends_count": 773,
-    "statuses_count": 3830,
-    "favourites_count": 133,
+    "followers_count": 1224,
+    "friends_count": 870,
+    "statuses_count": 4451,
+    "favourites_count": 122,
     "listed_count": 0,
     "location": "中国上海",
     "website": "https://t.co/VmDoVugaXS",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-11-01 12:24:53 +08:00",
     "url": "https://twitter.com/AGeSang2008",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 773,
+            "friends_count": 870,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 188,
+            "media_count": 211,
             "pinned_tweet_ids_str": [
                 "1926815724040790523"
             ],
@@ -93,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219072953
+            "created_at": 1698812693000,
+            "updated_at": 1752846621551
         }
     }
 }

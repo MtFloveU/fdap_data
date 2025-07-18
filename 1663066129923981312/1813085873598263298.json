@@ -2,15 +2,15 @@
     "id": "1813085873598263298",
     "screen_name": "hkwxsl",
     "name": "好困我先睡了",
-    "description": "狸花｜19yo｜意识流bot｜小动物转发bot｜日记本https://t.co/52Ovg3TO5F｜最喜欢的巨大猫@Eglantine257",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1932989983926972416/PWGzAiSS_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813085873598263298/1750054579",
-    "followers_count": 769,
-    "friends_count": 784,
-    "statuses_count": 989,
-    "favourites_count": 7713,
-    "listed_count": 4,
-    "location": "Walk on the wild side",
+    "description": "狸花｜意识流bot｜小动物转发bot｜梦想是去伊斯坦布尔的咖啡馆晒下午的太阳｜最喜欢的巨大猫@Eglantine257",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1936490262559145984/DA4KA_qc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813085873598263298/1750258441",
+    "followers_count": 779,
+    "friends_count": 713,
+    "statuses_count": 1151,
+    "favourites_count": 9753,
+    "listed_count": 5,
+    "location": "",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -26,7 +26,7 @@
         "id": "VXNlcjoxODEzMDg1ODczNTk4MjYzMjk4",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1932989983926972416/PWGzAiSS_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1936490262559145984/DA4KA_qc_normal.jpg"
         },
         "core": {
             "created_at": "Tue Jul 16 05:39:19 +0000 2024",
@@ -42,24 +42,14 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/+QLoWmOfE4-9hN…",
-                            "expanded_url": "https://t.me/+QLoWmOfE4-9hNzM9",
-                            "url": "https://t.co/52Ovg3TO5F",
-                            "indices": [
-                                27,
-                                50
-                            ]
-                        }
-                    ]
+                    "urls": []
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 784,
+            "friends_count": 713,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 21,
+            "media_count": 19,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -68,7 +58,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "Walk on the wild side"
+            "location": ""
         },
         "media_permissions": {
             "can_media_tag": false
@@ -88,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1721108359000,
-            "updated_at": 1750232266173
+            "updated_at": 1752846619819
         }
     }
 }

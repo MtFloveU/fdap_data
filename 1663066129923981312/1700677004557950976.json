@@ -2,13 +2,13 @@
     "id": "1700677004557950976",
     "screen_name": "k1_6r",
     "name": "可愛いナヒーダ",
-    "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1859994537248403456/HvIEYVX2_normal.jpg",
+    "description": "祝你天天开心！互fo可私信",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1937745373269032960/2RLy5Sxd_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 70,
-    "friends_count": 49,
-    "statuses_count": 1911,
-    "favourites_count": 504,
+    "followers_count": 128,
+    "friends_count": 89,
+    "statuses_count": 2542,
+    "favourites_count": 807,
     "listed_count": 1,
     "location": "",
     "website": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-09-10 09:06:38 +08:00",
     "url": "https://twitter.com/k1_6r",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzAwNjc3MDA0NTU3OTUwOTc2",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1859994537248403456/HvIEYVX2_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1937745373269032960/2RLy5Sxd_normal.jpg"
         },
         "core": {
             "created_at": "Sun Sep 10 01:06:38 +0000 2023",
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 49,
+            "friends_count": 89,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 151,
+            "media_count": 179,
             "pinned_tweet_ids_str": [
-                "1872566786237112705"
+                "1944766635719442729"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1694307998000,
+            "updated_at": 1752846587235
         }
     }
 }

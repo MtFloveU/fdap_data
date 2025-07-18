@@ -2,16 +2,16 @@
     "id": "1526938197951131648",
     "screen_name": "xinxia_mtf",
     "name": "喵喵大王小夏🐱",
-    "description": "07年/身高165/INFP/持证含糖mtf/第二次HRT：23.9.10/妈妈意外变成家长党/音游人/推文当日记发（一些和对象的日常）/魔怔小药娘/想跟xyn互fo贴贴（没回fo可能是没看见)/最好的姐姐兼恋人: @Starrynightwglf /🚪30",
+    "description": "07年/身高165/INFP/持证含糖mtf/第二次HRT：23.9.10/妈妈意外变成家长党/推文当日记发（一些和对象的日常）/想跟xyn互fo贴贴（没回fo可能是没看见)/最好的姐姐兼恋人: @Starrynightwglf /🚪30",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1898947809514242048/m6eXmu55_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526938197951131648/1653923886",
-    "followers_count": 6765,
-    "friends_count": 1759,
-    "statuses_count": 3024,
-    "favourites_count": 8006,
-    "listed_count": 16,
+    "followers_count": 6804,
+    "friends_count": 1787,
+    "statuses_count": 3133,
+    "favourites_count": 8192,
+    "listed_count": 15,
     "location": "小风怀里",
-    "website": "https://t.co/vMsqLwpLYn",
+    "website": "https://t.co/vMsqLwqjNV",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-05-18 22:50:21 +08:00",
     "url": "https://twitter.com/xinxia_mtf",
     "metadata": {
         "__typename": "User",
@@ -79,7 +79,7 @@
                         {
                             "display_url": "ngl.link/xinxia90268",
                             "expanded_url": "https://ngl.link/xinxia90268",
-                            "url": "https://t.co/vMsqLwpLYn",
+                            "url": "https://t.co/vMsqLwqjNV",
                             "indices": [
                                 0,
                                 23
@@ -89,17 +89,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1759,
+            "friends_count": 1787,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 291,
+            "media_count": 316,
             "pinned_tweet_ids_str": [
                 "1871838248030671333"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/vMsqLwpLYn",
+            "url": "https://t.co/vMsqLwqjNV",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -125,8 +125,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219061680
+            "created_at": 1652885421000,
+            "updated_at": 1752846611714
         }
     }
 }

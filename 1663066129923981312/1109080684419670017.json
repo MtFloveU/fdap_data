@@ -2,31 +2,31 @@
     "id": "1109080684419670017",
     "screen_name": "KillerBeeSweety",
     "name": "ミズキ",
-    "description": "She/Her\nCN/EN/JP\n一般路過のゲーマー女子🎮\n優しいDM大歓迎！\nFFXIV DC:Meteor Valefor\n用户名日文翻译是观月。\nNGL匿名板∶https://t.co/y4SQBEYyVW",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1929322772117028864/zU8IX2nF_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109080684419670017/1747300184",
-    "followers_count": 16824,
-    "friends_count": 1699,
-    "statuses_count": 20443,
-    "favourites_count": 29404,
+    "description": "里垢\n随时清互关，被清了是你的问题\n\nNGL∶https://t.co/wyQ8zstbDb",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1944187600211693568/mU5VXh-x_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109080684419670017/1750688100",
+    "followers_count": 16665,
+    "friends_count": 1734,
+    "statuses_count": 21027,
+    "favourites_count": 30225,
     "listed_count": 21,
     "location": "Valefor(Meteor)",
     "website": null,
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "protected": true,
+    "created_at": "2019-03-22 21:13:35 +08:00",
     "url": "https://twitter.com/KillerBeeSweety",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTA5MDgwNjg0NDE5NjcwMDE3",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1929322772117028864/zU8IX2nF_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1944187600211693568/mU5VXh-x_normal.jpg"
         },
         "core": {
             "created_at": "Fri Mar 22 13:13:35 +0000 2019",
@@ -46,22 +46,22 @@
                         {
                             "display_url": "ngl.link/killerbeesweety",
                             "expanded_url": "https://ngl.link/killerbeesweety",
-                            "url": "https://t.co/y4SQBEYyVW",
+                            "url": "https://t.co/wyQ8zstbDb",
                             "indices": [
-                                83,
-                                106
+                                23,
+                                46
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1699,
+            "friends_count": 1734,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 2494,
+            "media_count": 2586,
             "pinned_tweet_ids_str": [
-                "1929051226844397888"
+                "1945835102652772433"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -89,7 +89,7 @@
             ]
         },
         "privacy": {
-            "protected": false
+            "protected": true
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -100,8 +100,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219074028
+            "created_at": 1553260415000,
+            "updated_at": 1752846623602
         }
     }
 }

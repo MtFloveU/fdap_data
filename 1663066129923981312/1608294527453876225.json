@@ -2,30 +2,42 @@
     "id": "1608294527453876225",
     "screen_name": "Paris1Von",
     "name": "Parish🇫🇷🏳️Orit 🇪🇺Von",
-    "description": "一只mtx🏳️‍🌈🏳️‍⚧️🇹🇼\n「理想主義者的反義詞，是心中沒有愛的人~」",
-    "location": "Foochow-Min; Republic of China",
+    "description": "一只mtx🏳️‍🌈🏳️‍⚧️🇹🇼\n「理想主義者的反義詞，是心中沒有愛的人~」🧀🧀🧀🌏🌍🌎",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1608643534894280707/BJqRXdbX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608294527453876225/1678543879",
-    "followers_count": 381,
-    "statuses_count": 2465,
-    "favourites_count": 54212,
+    "followers_count": 416,
+    "friends_count": 816,
+    "statuses_count": 2787,
+    "favourites_count": 64061,
     "listed_count": 2,
+    "location": "Foochow-Min; Republic of China",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-12-29 10:51:18 +08:00",
     "url": "https://twitter.com/Paris1Von",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjA4Mjk0NTI3NDUzODc2MjI1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1608643534894280707/BJqRXdbX_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Dec 29 02:51:18 +0000 2022",
+            "name": "Parish🇫🇷🏳️Orit 🇪🇺Von",
+            "screen_name": "Paris1Von"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,26 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 723,
+            "friends_count": 816,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 158,
+            "media_count": 183,
             "pinned_tweet_ids_str": [
                 "1884646748725125450"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Foochow-Min; Republic of China"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1672282278000,
-            "updated_at": 1744350080771
+            "updated_at": 1752846611714
         }
     }
 }

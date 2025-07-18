@@ -1,14 +1,14 @@
 {
     "id": "1670362954590728197",
-    "screen_name": "Citricacid_bz",
-    "name": "枸橼酸白粥缓释片",
+    "screen_name": "citric_baizhou",
+    "name": "坂下白粥🫲🌛🫲 ☭ 🟥 🚩 🔻 ✊🏿 🔨 🔥 💣 ⛓️ 📢 📕 🪧 🦾",
     "description": "友跨顺男 HRT：2025/01/14 唯有你是我的音乐",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1930857151398133760/9OCPjCmH_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670362954590728197/1749056504",
-    "followers_count": 796,
-    "friends_count": 1132,
-    "statuses_count": 3062,
-    "favourites_count": 13206,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670362954590728197/1751756670",
+    "followers_count": 832,
+    "friends_count": 1222,
+    "statuses_count": 3267,
+    "favourites_count": 14873,
     "listed_count": 2,
     "location": "土星",
     "website": null,
@@ -20,7 +20,7 @@
     "can_dm": true,
     "protected": true,
     "created_at": "2023-06-18 17:29:12 +08:00",
-    "url": "https://twitter.com/Citricacid_bz",
+    "url": "https://twitter.com/citric_baizhou",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjcwMzYyOTU0NTkwNzI4MTk3",
@@ -60,8 +60,8 @@
         },
         "core": {
             "created_at": "Sun Jun 18 09:29:12 +0000 2023",
-            "name": "枸橼酸白粥缓释片",
-            "screen_name": "Citricacid_bz"
+            "name": "坂下白粥🫲🌛🫲 ☭ 🟥 🚩 🔻 ✊🏿 🔨 🔥 💣 ⛓️ 📢 📕 🪧 🦾",
+            "screen_name": "citric_baizhou"
         },
         "dm_permissions": {
             "can_dm": true
@@ -76,13 +76,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1132,
+            "friends_count": 1222,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 431,
-            "pinned_tweet_ids_str": [
-                "1935323514208457155"
-            ],
+            "media_count": 479,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -112,7 +110,7 @@
         },
         "twe_private_fields": {
             "created_at": 1687080552000,
-            "updated_at": 1750404910937
+            "updated_at": 1752846612950
         }
     }
 }

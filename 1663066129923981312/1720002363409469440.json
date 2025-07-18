@@ -1,20 +1,20 @@
 {
     "id": "1720002363409469440",
     "screen_name": "Priestess1878",
-    "name": "lohalidle",
-    "description": "Reichstag議員",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1933778042528362496/GlV-NMDL_normal.jpg",
+    "name": "lohalidle符格",
+    "description": "恐懼是生物的本能 哈氣是基米的讚歌 街頭貓屋已經淪陷 億萬基米必須哈氣",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1941734667243192320/mnKbhMX__normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720002363409469440/1710591671",
-    "followers_count": 383,
-    "friends_count": 345,
-    "statuses_count": 8585,
-    "favourites_count": 8266,
+    "followers_count": 394,
+    "friends_count": 351,
+    "statuses_count": 8807,
+    "favourites_count": 8219,
     "listed_count": 2,
     "location": "Сыктывкар",
-    "website": "https://t.co/qTVreSJypd",
+    "website": "https://t.co/ujrzsq49HM",
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "can_dm": true,
@@ -26,11 +26,11 @@
         "id": "VXNlcjoxNzIwMDAyMzYzNDA5NDY5NDQw",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1933778042528362496/GlV-NMDL_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1941734667243192320/mnKbhMX__normal.jpg"
         },
         "core": {
             "created_at": "Thu Nov 02 08:58:24 +0000 2023",
-            "name": "lohalidle",
+            "name": "lohalidle符格",
             "screen_name": "Priestess1878"
         },
         "dm_permissions": {
@@ -47,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "ngl.link/crosz1878",
-                            "expanded_url": "https://ngl.link/crosz1878",
-                            "url": "https://t.co/qTVreSJypd",
+                            "display_url": "hachimi.com",
+                            "expanded_url": "http://hachimi.com",
+                            "url": "https://t.co/ujrzsq49HM",
                             "indices": [
                                 0,
                                 23
@@ -59,15 +59,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 345,
+            "friends_count": 351,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 988,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1056,
+            "pinned_tweet_ids_str": [
+                "1942973104692584709"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/qTVreSJypd",
+            "url": "https://t.co/ujrzsq49HM",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -103,7 +105,7 @@
         },
         "twe_private_fields": {
             "created_at": 1698915504000,
-            "updated_at": 1750232259424
+            "updated_at": 1752846612950
         }
     }
 }

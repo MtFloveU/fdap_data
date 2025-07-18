@@ -2,14 +2,14 @@
     "id": "1835764493231751168",
     "screen_name": "mirekintoc",
     "name": "Mirekintoc",
-    "description": "✨正在被文化课创飞｜09 年初三 OIer｜代词随意｜浙江杭州｜顺男，对人属生物个体友好｜拒绝鉴证｜ENTP-A｜朋友 @ninety_nine199｜妹妹 @MinaseAyano & @LiciiQAQ｜新小号 @omkechan",
+    "description": "✨正在重新拾起算法竞赛｜09 年高一 OIer｜代词随意｜浙江杭州｜顺男，对人属生物个体友好｜拒绝鉴证｜ENTP-A｜朋友 @ninety_nine199｜妹妹 @MinaseAyano & @LiciiQAQ｜新小号 @omkechan",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861219984820912128/yCyrRBXh_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835764493231751168/1726552831",
-    "followers_count": 536,
-    "friends_count": 868,
-    "statuses_count": 1908,
-    "favourites_count": 4451,
-    "listed_count": 3,
+    "followers_count": 553,
+    "friends_count": 885,
+    "statuses_count": 1976,
+    "favourites_count": 4561,
+    "listed_count": 4,
     "location": "VALEINT SHIN",
     "website": "https://t.co/Gm4k8wa7mW",
     "birthdate": null,
@@ -18,8 +18,8 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "protected": true,
+    "created_at": "2024-09-17 03:36:00 +08:00",
     "url": "https://twitter.com/mirekintoc",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 868,
+            "friends_count": 885,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 247,
+            "media_count": 259,
             "pinned_tweet_ids_str": [
                 "1917620497195622553"
             ],
@@ -82,7 +82,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "privacy": {
-            "protected": false
+            "protected": true
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -93,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219063571
+            "created_at": 1726515360000,
+            "updated_at": 1752846612950
         }
     }
 }

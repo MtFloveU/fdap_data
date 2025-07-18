@@ -2,13 +2,13 @@
     "id": "795240655287177216",
     "screen_name": "ShaDow_0528",
     "name": "白影Shadow 🍙🍙🍙",
-    "description": "猫又おかゆ推し🍙💜/ \n猫ちゃん @kuukichan0327 / Acg / ヲタ芸",
+    "description": "猫又おかゆ推し🍙💜/ Acg / ヲタ芸",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1823749594020503554/IaFn86mT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/795240655287177216/1749303800",
-    "followers_count": 1228,
-    "friends_count": 631,
-    "statuses_count": 8459,
-    "favourites_count": 42067,
+    "followers_count": 1223,
+    "friends_count": 624,
+    "statuses_count": 8501,
+    "favourites_count": 42488,
     "listed_count": 3,
     "location": "小粥的貓窩",
     "website": "https://t.co/CxwKhCdRgS",
@@ -59,11 +59,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 631,
+            "friends_count": 624,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1332,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1336,
+            "pinned_tweet_ids_str": [
+                "1927698289878507565"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -92,7 +94,7 @@
         },
         "twe_private_fields": {
             "created_at": 1478435121000,
-            "updated_at": 1750232263366
+            "updated_at": 1752846618060
         }
     }
 }

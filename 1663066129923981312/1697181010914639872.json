@@ -1,13 +1,13 @@
 {
     "id": "1697181010914639872",
-    "screen_name": "SChiharu20",
-    "name": "坂下 ちはる",
+    "screen_name": "KChiharu34",
+    "name": "神楽坂 ちはる（Kagurazaka Chiharu）",
     "description": "Plus Ultra ｜这里是Luka的逃生舱，处理紧急事务用，不常更新｜号主@LMegurine03｜前世@pNcYSzDUsc75790 @pNcYSzDUsc81146 @pNcYSzDUsc81147",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1929905044536864773/6NJsQ0LU_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1942574749634420740/TlgOV_un_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697181010914639872/1748960307",
-    "followers_count": 1820,
-    "friends_count": 2856,
-    "statuses_count": 131,
+    "followers_count": 2120,
+    "friends_count": 3260,
+    "statuses_count": 139,
     "favourites_count": 0,
     "listed_count": 0,
     "location": "Napoli，Italia ",
@@ -19,8 +19,8 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/SChiharu20",
+    "created_at": "2023-08-31 17:34:28 +08:00",
+    "url": "https://twitter.com/KChiharu34",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjk3MTgxMDEwOTE0NjM5ODcy",
@@ -56,12 +56,12 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1929905044536864773/6NJsQ0LU_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1942574749634420740/TlgOV_un_normal.jpg"
         },
         "core": {
             "created_at": "Thu Aug 31 09:34:28 +0000 2023",
-            "name": "坂下 ちはる",
-            "screen_name": "SChiharu20"
+            "name": "神楽坂 ちはる（Kagurazaka Chiharu）",
+            "screen_name": "KChiharu34"
         },
         "dm_permissions": {
             "can_dm": true
@@ -76,10 +76,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2856,
+            "friends_count": 3260,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 24,
+            "media_count": 27,
             "pinned_tweet_ids_str": [
                 "1829694214898344428"
             ],
@@ -122,8 +122,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219068775
+            "created_at": 1693474468000,
+            "updated_at": 1752846618060
         }
     }
 }

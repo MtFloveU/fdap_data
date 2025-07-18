@@ -2,24 +2,24 @@
     "id": "1601893417549967360",
     "screen_name": "AcboxLiu",
     "name": "📦Acbox",
-    "description": "💻开源开发/全栈&LLM/EN: @acbox_lol/全职开发EchoAI/UI&UX学习中/Founder of @bijon_ai/🐱Github: sheepbox8646/🚇轨道交通/🧭@sciuxkit @bugduckteam",
+    "description": "💻开源开发/全栈&LLM&UI&UX/EN: @acbox_lol/写代码的小女孩/想要成为人类的小阿斯/大湾区移民/Building EchoAI/Founder of @bijon_ai/🐱Github: sheepbox8646/🚇轨道交通/🧭@sciuxkit @bugduckteam",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1926469991936733184/Y4W4X94i_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1743358641",
-    "followers_count": 4705,
-    "friends_count": 2975,
-    "statuses_count": 3797,
-    "favourites_count": 2304,
-    "listed_count": 16,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1751593126",
+    "followers_count": 4976,
+    "friends_count": 3069,
+    "statuses_count": 4150,
+    "favourites_count": 2447,
+    "listed_count": 17,
     "location": "深圳-廣州-香港",
     "website": "https://t.co/mRP5RDvKAZ",
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-12-11 18:55:41 +08:00",
     "url": "https://twitter.com/AcboxLiu",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2975,
+            "friends_count": 3069,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 731,
+            "media_count": 803,
             "pinned_tweet_ids_str": [
                 "1925115627330839030"
             ],
@@ -106,8 +106,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219060359
+            "created_at": 1670756141000,
+            "updated_at": 1752846592776
         }
     }
 }

@@ -1,17 +1,17 @@
 {
     "id": "1639664012907429890",
     "screen_name": "Je1nFaur_l",
-    "name": "Mio大王666",
-    "description": "前世Previous acc:@moeTvT \n我是Mio大王 叫我澪澪 宅女一枚呀\n女宝互关大欢迎 Cute girls plz interact!\nFAFO|粉红婉拒|随缘回关",
+    "name": "澪澪大王",
+    "description": "我是Mio大王 叫我澪澪 宅女一枚呀\n女宝互关大欢迎 Cute girls plz interact!",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1781719164769726464/I0Oci5da_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639664012907429890/1704029690",
-    "followers_count": 513,
-    "friends_count": 2610,
-    "statuses_count": 5924,
-    "favourites_count": 72534,
+    "followers_count": 581,
+    "friends_count": 2720,
+    "statuses_count": 6576,
+    "favourites_count": 83851,
     "listed_count": 3,
     "location": "River Styx",
-    "website": "https://t.co/ak0vV5PfKQ",
+    "website": "https://t.co/ak0vV5OHVi",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat Mar 25 16:22:49 +0000 2023",
-            "name": "Mio大王666",
+            "name": "澪澪大王",
             "screen_name": "Je1nFaur_l"
         },
         "dm_permissions": {
@@ -49,7 +49,7 @@
                         {
                             "display_url": "truthsocial.com",
                             "expanded_url": "http://truthsocial.com",
-                            "url": "https://t.co/ak0vV5PfKQ",
+                            "url": "https://t.co/ak0vV5OHVi",
                             "indices": [
                                 0,
                                 23
@@ -59,15 +59,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2610,
+            "friends_count": 2720,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 154,
-            "pinned_tweet_ids_str": [],
+            "media_count": 158,
+            "pinned_tweet_ids_str": [
+                "1939326757410349487"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/ak0vV5PfKQ",
+            "url": "https://t.co/ak0vV5OHVi",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -92,7 +94,7 @@
         },
         "twe_private_fields": {
             "created_at": 1679761369000,
-            "updated_at": 1750232254497
+            "updated_at": 1752846587235
         }
     }
 }

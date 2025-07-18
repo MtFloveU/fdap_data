@@ -1,31 +1,43 @@
 {
     "id": "1395374832187965443",
     "screen_name": "enocxzlw",
-    "name": "创新者老王 🍥",
-    "description": "she / her | 08 年 mtf 一只🏳️‍⚧️🍥 | 可以叫我老王 | 无证 | 含糖自 2024 / 06 / 12 | 半出柜半炸柜 | 不会前端 | 抱抱妹妹 @Yizhikapaiqaq @sisiisthinking | 抱抱姐姐 @cyx036",
-    "location": "",
+    "name": "创新者老王 🏳️‍⚧️",
+    "description": "she / her | 08 年 | 可以叫我老王 | 🏳️‍⚧️ Proudly Transtioning 🏳️‍⚧️ | 不会前端（划） |  @Yizhikapaiqaq @sisiisthinking @cyx036",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1661336867625893888/z_HbeING_normal.png",
     "profile_banner_url": null,
-    "followers_count": 459,
-    "statuses_count": 709,
-    "favourites_count": 12553,
+    "followers_count": 483,
+    "friends_count": 1431,
+    "statuses_count": 963,
+    "favourites_count": 13354,
     "listed_count": 1,
+    "location": "",
+    "website": "https://t.co/lJJtkaTawP",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2021-05-20 21:44:32 +08:00",
     "url": "https://twitter.com/enocxzlw",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzk1Mzc0ODMyMTg3OTY1NDQz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1661336867625893888/z_HbeING_normal.png"
+        },
+        "core": {
+            "created_at": "Thu May 20 13:44:32 +0000 2021",
+            "name": "创新者老王 🏳️‍⚧️",
+            "screen_name": "enocxzlw"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,23 +59,40 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1392,
+            "friends_count": 1431,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 18,
+            "media_count": 26,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/lJJtkaTawP",
-            "verified": false,
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1621518272000,
-            "updated_at": 1744350052405
+            "updated_at": 1752846587235
         }
     }
 }

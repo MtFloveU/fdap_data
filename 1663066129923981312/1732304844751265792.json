@@ -2,30 +2,42 @@
     "id": "1732304844751265792",
     "screen_name": "fg2974866715661",
     "name": "FG",
-    "description": "#リバース1999 / ＃reverse1999 /\n20岁的鼠鼠 / 双性恋 / 178 52骷髅☠️兵/喜欢小男娘和漂亮姐姐/我就是来看涩涩的/ENTP/勿谈国事（毕竟都是凑合活的）/东北鼠鼠",
-    "location": "大东北",
+    "description": "#リバース1999 / ＃reverse1999 /\n我就是来看涩涩的",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1732305008882794496/s_3o_-Bp_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732304844751265792/1701963683",
-    "followers_count": 26,
-    "statuses_count": 862,
-    "favourites_count": 6453,
+    "followers_count": 37,
+    "friends_count": 878,
+    "statuses_count": 1059,
+    "favourites_count": 6932,
     "listed_count": 0,
+    "location": "大东北",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-12-06 15:44:04 +08:00",
     "url": "https://twitter.com/fg2974866715661",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzMyMzA0ODQ0NzUxMjY1Nzky",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1732305008882794496/s_3o_-Bp_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Dec 06 07:44:04 +0000 2023",
+            "name": "FG",
+            "screen_name": "fg2974866715661"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 835,
+            "friends_count": 878,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 106,
+            "media_count": 94,
             "pinned_tweet_ids_str": [
                 "1761289303827906800"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "大东北"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1701848644000,
-            "updated_at": 1744350059817
+            "updated_at": 1752846555811
         }
     }
 }

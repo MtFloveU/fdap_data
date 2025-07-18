@@ -1,37 +1,37 @@
 {
     "id": "1392059387573796869",
-    "screen_name": "U_Barbarossa_41",
-    "name": "Elfriede von Feuerbach🐉🏳️‍⚧️🏳️‍🌈🇵🇸",
-    "description": "是奥地利人，是贵族，是赛博女鬼/只是德三士兵在芬兰战场死去后的残影罢了/AuDHD/LGBTQ+权利万岁/Free Palestine🇵🇸/Orthodox Marxism/🏳️‍⚧️🏳️‍🌈🐉Enby(Any pronouns)/吃人血馒头的见一个死一个妈",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1921409378919559168/37VlX4-i_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392059387573796869/1740881716",
-    "followers_count": 872,
-    "friends_count": 3634,
-    "statuses_count": 5389,
-    "favourites_count": 2998,
+    "screen_name": "LUCRETIA_Kin",
+    "name": "Lucretia The Justice/上杉琴璃🐉🏳️‍⚧️🏳️‍🌈🇵🇸",
+    "description": "I am Venture Kindred, 5th Generation, ENFP-A, Methuselah/ASD/Orthodox Marxism/🏳️‍⚧️🏳️‍🌈Enby(Any pronouns)/Germanic people (Visigoth)",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1941054498656403456/M7CXdV5Z_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392059387573796869/1751618149",
+    "followers_count": 891,
+    "friends_count": 3737,
+    "statuses_count": 5479,
+    "favourites_count": 3108,
     "listed_count": 8,
     "location": "Zwettl an der Rodl, Österreich",
-    "website": "https://t.co/4xJOBvmelg",
+    "website": "https://t.co/j6PH7ki37b",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": true,
+    "protected": false,
     "created_at": "2021-05-11 18:10:05 +08:00",
-    "url": "https://twitter.com/U_Barbarossa_41",
+    "url": "https://twitter.com/LUCRETIA_Kin",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzkyMDU5Mzg3NTczNzk2ODY5",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1921409378919559168/37VlX4-i_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1941054498656403456/M7CXdV5Z_normal.jpg"
         },
         "core": {
             "created_at": "Tue May 11 10:10:05 +0000 2021",
-            "name": "Elfriede von Feuerbach🐉🏳️‍⚧️🏳️‍🌈🇵🇸",
-            "screen_name": "U_Barbarossa_41"
+            "name": "Lucretia The Justice/上杉琴璃🐉🏳️‍⚧️🏳️‍🌈🇵🇸",
+            "screen_name": "LUCRETIA_Kin"
         },
         "dm_permissions": {
             "can_dm": true
@@ -49,7 +49,7 @@
                         {
                             "display_url": "leftvalues.github.io/results.html?a…",
                             "expanded_url": "https://leftvalues.github.io/results.html?a=76.5&b=56.3&c=56.7&d=64.3&e=59.6&f=45.8&g=26.5",
-                            "url": "https://t.co/4xJOBvmelg",
+                            "url": "https://t.co/j6PH7ki37b",
                             "indices": [
                                 0,
                                 23
@@ -59,17 +59,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3634,
+            "friends_count": 3737,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 629,
+            "media_count": 632,
             "pinned_tweet_ids_str": [
                 "1884885909369139501"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/4xJOBvmelg",
+            "url": "https://t.co/j6PH7ki37b",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -83,17 +83,17 @@
         "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1556158089463640065",
-            "professional_type": "Creator",
+            "professional_type": "Business",
             "category": [
                 {
-                    "id": 713,
-                    "name": "Science & Technology",
+                    "id": 959,
+                    "name": "Gamer",
                     "icon_name": "IconBriefcaseStroke"
                 }
             ]
         },
         "privacy": {
-            "protected": true
+            "protected": false
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -107,7 +107,7 @@
         },
         "twe_private_fields": {
             "created_at": 1620727805000,
-            "updated_at": 1750232265295
+            "updated_at": 1752846618931
         }
     }
 }

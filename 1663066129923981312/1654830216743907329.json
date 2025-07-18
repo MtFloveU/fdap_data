@@ -4,14 +4,14 @@
     "name": "Xuan🍥",
     "description": "ENBY🏳️‍🌈/民國派🇹🇼/反侵略/社會自由主義",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1796835238058102784/0daXOSyd_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1654830216743907329/1746894898",
-    "followers_count": 263,
-    "friends_count": 2244,
-    "statuses_count": 6447,
-    "favourites_count": 31368,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1654830216743907329/1750259491",
+    "followers_count": 269,
+    "friends_count": 2311,
+    "statuses_count": 6722,
+    "favourites_count": 33480,
     "listed_count": 3,
-    "location": "Taiwan",
-    "website": "https://t.co/aOpFC8cg2s",
+    "location": "東京 千代田区",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-05-06 20:47:36 +08:00",
     "url": "https://twitter.com/Xuan_0731_",
     "metadata": {
         "__typename": "User",
@@ -43,38 +43,24 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/+mkYQZwEKsJgwM…",
-                            "expanded_url": "https://t.me/+mkYQZwEKsJgwMzU1",
-                            "url": "https://t.co/aOpFC8cg2s",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2244,
+            "friends_count": 2311,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 245,
+            "media_count": 254,
             "pinned_tweet_ids_str": [
                 "1680873301407846401"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/aOpFC8cg2s",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "Taiwan"
+            "location": "東京 千代田区"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -90,15 +76,15 @@
         },
         "tipjar_settings": {
             "is_enabled": true,
-            "bitcoin_handle": "17jnui8MVe9z8oV4r5zH3mTf2GVzWWeJaf",
-            "ethereum_handle": ""
+            "bitcoin_handle": "bc1ql8gjxzssx5sl30f5wjtmg4rqdu6vzepjf85p9u",
+            "ethereum_handle": "0x66642462d291f7c8d3a82b132ece6371b35154de"
         },
         "verification": {
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219062663
+            "created_at": 1683377256000,
+            "updated_at": 1752846611714
         }
     }
 }

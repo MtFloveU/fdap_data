@@ -1,17 +1,17 @@
 {
     "id": "1596652915959078913",
     "screen_name": "nanami5513",
-    "name": "海",
-    "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1932803989952999426/0TsNhQs1_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596652915959078913/1740318046",
-    "followers_count": 1192,
-    "friends_count": 408,
-    "statuses_count": 3207,
-    "favourites_count": 25612,
-    "listed_count": 2,
+    "name": "硅的化学符号是Si",
+    "description": "领养開設中，点击领取七海一只",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1935972529165758464/phocjsfB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596652915959078913/1751161768",
+    "followers_count": 1174,
+    "friends_count": 419,
+    "statuses_count": 2271,
+    "favourites_count": 30184,
+    "listed_count": 1,
     "location": "",
-    "website": "https://t.co/X8pmKTexG8",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
@@ -26,11 +26,11 @@
         "id": "VXNlcjoxNTk2NjUyOTE1OTU5MDc4OTEz",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1932803989952999426/0TsNhQs1_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1935972529165758464/phocjsfB_normal.jpg"
         },
         "core": {
             "created_at": "Sat Nov 26 23:51:38 +0000 2022",
-            "name": "海",
+            "name": "硅的化学符号是Si",
             "screen_name": "nanami5513"
         },
         "dm_permissions": {
@@ -43,31 +43,19 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/nanami99230",
-                            "expanded_url": "https://ngl.link/nanami99230",
-                            "url": "https://t.co/X8pmKTexG8",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 408,
+            "friends_count": 419,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 363,
-            "pinned_tweet_ids_str": [],
+            "media_count": 121,
+            "pinned_tweet_ids_str": [
+                "1938259214578885005"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/X8pmKTexG8",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -103,7 +91,7 @@
         },
         "twe_private_fields": {
             "created_at": 1669506698000,
-            "updated_at": 1750232255807
+            "updated_at": 1752846589901
         }
     }
 }

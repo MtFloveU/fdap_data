@@ -1,17 +1,17 @@
 {
     "id": "1622066090074607616",
     "screen_name": "hoshinofujivy",
-    "name": "星野ふじ",
+    "name": "星野ふじ（山城归隐中）",
     "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_(不知道怎么介绍）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622066090074607616/1749803075",
-    "followers_count": 1369,
-    "friends_count": 2439,
-    "statuses_count": 5048,
-    "favourites_count": 21405,
+    "followers_count": 1502,
+    "friends_count": 2472,
+    "statuses_count": 5461,
+    "favourites_count": 22779,
     "listed_count": 2,
     "location": "日本 京都",
-    "website": "https://t.co/CgxvdN2DbO",
+    "website": "https://t.co/CgxvdN25mg",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sun Feb 05 02:54:57 +0000 2023",
-            "name": "星野ふじ",
+            "name": "星野ふじ（山城归隐中）",
             "screen_name": "hoshinofujivy"
         },
         "dm_permissions": {
@@ -49,7 +49,7 @@
                         {
                             "display_url": "t.me/hanszimmer5272",
                             "expanded_url": "https://t.me/hanszimmer5272",
-                            "url": "https://t.co/CgxvdN2DbO",
+                            "url": "https://t.co/CgxvdN25mg",
                             "indices": [
                                 0,
                                 23
@@ -59,15 +59,15 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2439,
+            "friends_count": 2472,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 444,
+            "media_count": 495,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/CgxvdN2DbO",
+            "url": "https://t.co/CgxvdN25mg",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -92,7 +92,7 @@
         },
         "twe_private_fields": {
             "created_at": 1675565697000,
-            "updated_at": 1750232261519
+            "updated_at": 1752846615358
         }
     }
 }

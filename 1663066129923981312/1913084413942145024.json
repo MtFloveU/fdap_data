@@ -2,14 +2,14 @@
     "id": "1913084413942145024",
     "screen_name": "Sui_aini",
     "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
-    "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+    "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
-    "followers_count": 605,
-    "friends_count": 357,
-    "statuses_count": 967,
-    "favourites_count": 827,
-    "listed_count": 1,
+    "followers_count": 873,
+    "friends_count": 466,
+    "statuses_count": 1571,
+    "favourites_count": 1801,
+    "listed_count": 3,
     "location": "你的心",
     "website": null,
     "birthdate": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2025-04-18 12:18:07 +08:00",
     "url": "https://twitter.com/Sui_aini",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxOTEzMDg0NDEzOTQyMTQ1MDI0",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg"
         },
         "core": {
             "created_at": "Fri Apr 18 04:18:07 +0000 2025",
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 357,
+            "friends_count": 466,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 148,
+            "media_count": 267,
             "pinned_tweet_ids_str": [
-                "1928847462501920778"
+                "1941728194551538157"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1744949887000,
+            "updated_at": 1752846587235
         }
     }
 }

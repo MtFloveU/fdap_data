@@ -1,0 +1,84 @@
+{
+    "id": "1885154179922227200",
+    "screen_name": "Snow_Xue_",
+    "name": "雪🏳️‍⚧️",
+    "description": "梦爱奈发货喵😡🍥\n生产日期2010.3.16",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906588909070589953/QQGqwlVt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885154179922227200/1747799596",
+    "followers_count": 625,
+    "friends_count": 896,
+    "statuses_count": 1440,
+    "favourites_count": 19523,
+    "listed_count": 0,
+    "location": "上海 ",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2025-01-31 10:32:51 +08:00",
+    "url": "https://twitter.com/Snow_Xue_",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxODg1MTU0MTc5OTIyMjI3MjAw",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1906588909070589953/QQGqwlVt_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jan 31 02:32:51 +0000 2025",
+            "name": "雪🏳️‍⚧️",
+            "screen_name": "Snow_Xue_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 896,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 209,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "上海 "
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1738290771000,
+            "updated_at": 1752846587235
+        }
+    }
+}

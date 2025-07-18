@@ -2,18 +2,23 @@
     "id": "1670458419986464768",
     "screen_name": "nn66676",
     "name": "嗯嗯🀄️",
-    "description": "麻将/舞萌/12岁确诊ADHD/休学ing…                         努力让自己变得更好！最重要的人 @hakui_x",
-    "location": "云南昆明",
+    "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1806979035916029952/VFgFUc0L_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670458419986464768/1717741393",
-    "followers_count": 1793,
-    "statuses_count": 5199,
-    "favourites_count": 7244,
-    "listed_count": 4,
+    "followers_count": 1902,
+    "friends_count": 708,
+    "statuses_count": 5364,
+    "favourites_count": 7293,
+    "listed_count": 3,
+    "location": "云南昆明",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-06-18 23:50:22 +08:00",
     "url": "https://twitter.com/nn66676",
     "metadata": {
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "breath1024"
                                         },
                                         "rest_id": "1595402946694762496"
@@ -50,12 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1806979035916029952/VFgFUc0L_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jun 18 15:50:22 +0000 2023",
+            "name": "嗯嗯🀄️",
+            "screen_name": "nn66676"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -64,18 +76,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 694,
+            "friends_count": 708,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 871,
-            "pinned_tweet_ids_str": [],
+            "media_count": 911,
+            "pinned_tweet_ids_str": [
+                "1922208133612462127"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "云南昆明"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1679782604839714817",
             "professional_type": "Creator",
@@ -87,10 +108,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1687103422000,
-            "updated_at": 1744350115040
+            "updated_at": 1752846626571
         }
     }
 }

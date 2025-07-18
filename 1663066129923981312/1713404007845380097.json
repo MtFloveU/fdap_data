@@ -2,13 +2,13 @@
     "id": "1713404007845380097",
     "screen_name": "ILikeHappy_uwu",
     "name": "Happy 🍥",
-    "description": "i like u | hrt 2024/10/1 | 姐姐: @123nhh_awa & @zhi_cheng233 & @SmallBacon233 | 精神状态不稳定",
+    "description": "i like u | hrt 2024/10/1 | 姐姐: @123nhh_awa & @zhi_cheng233 & @SmallBacon233 & @AnkiLeave | 精神状态不稳定",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1816744837640605696/GK2bmWa2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1713404007845380097/1697342564",
-    "followers_count": 500,
-    "friends_count": 1102,
-    "statuses_count": 641,
-    "favourites_count": 2237,
+    "followers_count": 519,
+    "friends_count": 1114,
+    "statuses_count": 653,
+    "favourites_count": 2313,
     "listed_count": 2,
     "location": "ur Heart",
     "website": "https://t.co/0IdqjymOrE",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-10-15 11:58:55 +08:00",
     "url": "https://twitter.com/ILikeHappy_uwu",
     "metadata": {
         "__typename": "User",
@@ -59,7 +59,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1102,
+            "friends_count": 1114,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 42,
@@ -93,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219070872
+            "created_at": 1697342335000,
+            "updated_at": 1752846620643
         }
     }
 }

@@ -1,15 +1,15 @@
 {
     "id": "1407069627046416390",
     "screen_name": "Areter19",
-    "name": "Areter（找工作版）",
-    "description": "普普通通一男(?)的｜in my late 20s | 试着包容看到的世界｜NO Politics | Bi | INFP-T 9w1 | 波士顿的小伙伴可以线下玩 | ymsf警察 | depression & anxiety｜“牵引我们黑暗的心” | 绝赞求职中｜是猫",
+    "name": "Areter（找不到工作版）",
+    "description": "普普通通一男(?)的｜in my late 20s | 试着包容看到的世界｜NO Politics | Bi | INFP-T 9w1（划掉）intp4w5 | 波士顿的小伙伴可以线下玩 | ymsf警察 | depression & anxiety｜“牵引我们黑暗的心” | 绝赞求不到职中｜是猫",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1880103349682352128/mYkK63j1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1407069627046416390/1664926107",
-    "followers_count": 359,
-    "friends_count": 697,
-    "statuses_count": 6082,
-    "favourites_count": 19605,
-    "listed_count": 2,
+    "followers_count": 372,
+    "friends_count": 732,
+    "statuses_count": 6461,
+    "favourites_count": 21329,
+    "listed_count": 1,
     "location": "某个小房间",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2021-06-22 04:15:41 +08:00",
     "url": "https://twitter.com/Areter19",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Mon Jun 21 20:15:41 +0000 2021",
-            "name": "Areter（找工作版）",
+            "name": "Areter（找不到工作版）",
             "screen_name": "Areter19"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 697,
+            "friends_count": 732,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 543,
+            "media_count": 578,
             "pinned_tweet_ids_str": [
                 "1914395413697978840"
             ],
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219032940
+            "created_at": 1624306541000,
+            "updated_at": 1752846537498
         }
     }
 }

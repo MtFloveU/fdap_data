@@ -1,55 +1,100 @@
 {
     "id": "2792575020",
     "screen_name": "PieSilica",
-    "name": "Katy🏳️‍⚧️",
+    "name": "Katy🏳️‍⚧️Silica 🩷Haru Urara enjoyer🩷",
     "description": "🏳️‍⚧️(She/Her)Trans gynosexual, ace and poly pastel goth furry cat girl doll on a planet full of bunny girls with an RPG and idol obsession. Rika🐶Serena🐰",
-    "location": "Planet Usamin",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1908728635596386304/dCbewTAb_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1944965879097184256/QsMURwwU_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/2792575020/1738448645",
-    "followers_count": 1525,
-    "statuses_count": 116106,
-    "favourites_count": 112823,
-    "listed_count": 17,
+    "followers_count": 1548,
+    "friends_count": 1248,
+    "statuses_count": 116257,
+    "favourites_count": 115498,
+    "listed_count": 16,
+    "location": "Planet Usamin",
+    "website": "https://t.co/dxjr4cpmKD",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2014-09-06 05:09:24 +08:00",
     "url": "https://twitter.com/PieSilica",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoyNzkyNTc1MDIw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1944965879097184256/QsMURwwU_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Sep 05 21:09:24 +0000 2014",
+            "name": "Katy🏳️‍⚧️Silica 🩷Haru Urara enjoyer🩷",
+            "screen_name": "PieSilica"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "en.pronouns.page/@Katy",
+                            "expanded_url": "https://en.pronouns.page/@Katy",
+                            "url": "https://t.co/dxjr4cpmKD",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1228,
+            "friends_count": 1248,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 4887,
-            "pinned_tweet_ids_str": [],
+            "media_count": 4910,
+            "pinned_tweet_ids_str": [
+                "1945901751212589193"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/dxjr4cpmKD",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Planet Usamin"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1409951364000,
-            "updated_at": 1744350088738
+            "updated_at": 1752846617121
         }
     }
 }

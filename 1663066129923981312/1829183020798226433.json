@@ -2,30 +2,42 @@
     "id": "1829183020798226433",
     "screen_name": "Pathygugugu",
     "name": "Pahty",
-    "description": "特莉波卡的小幽灵，爱好是到处乱飞  |  全名Pathymella  |  小目标2026年之前arcaea上13.00  （2025.2.26改）",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1887784689299296256/Xpkq_oDY_normal.jpg",
+    "description": "Pathy，堂堂复活！  |   摆烂音游人，几乎什么都会玩，最近在玩电脑，星露谷啦戴森球啦之类的，估计大学开学之后再改一波简介（25年7月13日改）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1946150228727382016/ouSjjRkY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829183020798226433/1736784931",
-    "followers_count": 185,
-    "statuses_count": 1758,
-    "favourites_count": 4382,
+    "followers_count": 197,
+    "friends_count": 920,
+    "statuses_count": 2017,
+    "favourites_count": 4675,
     "listed_count": 2,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-08-29 23:43:21 +08:00",
     "url": "https://twitter.com/Pathygugugu",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI5MTgzMDIwNzk4MjI2NDMz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1946150228727382016/ouSjjRkY_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Aug 29 15:43:21 +0000 2024",
+            "name": "Pahty",
+            "screen_name": "Pathygugugu"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 891,
+            "friends_count": 920,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 422,
+            "media_count": 521,
             "pinned_tweet_ids_str": [
                 "1887719312540246019"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1724946201000,
-            "updated_at": 1744350082251
+            "updated_at": 1752846612950
         }
     }
 }

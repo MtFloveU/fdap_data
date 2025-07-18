@@ -1,31 +1,43 @@
 {
     "id": "1650614842800087040",
     "screen_name": "LavetaCandace",
-    "name": "灬野矢🏳️‍⚧️芽衣/",
-    "description": "0い卧狠んual誌、イ旦現shi告訴卧梛媞 撾誌、ヤ",
+    "name": "灬佩楽or🍥",
+    "description": "我的日常",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1945857921008783360/5y-ofGOu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650614842800087040/1752763668",
+    "followers_count": 2271,
+    "friends_count": 706,
+    "statuses_count": 182,
+    "favourites_count": 261,
+    "listed_count": 7,
     "location": "乌托邦",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1860250867687129089/K-YZZ-lC_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650614842800087040/1725754545",
-    "followers_count": 1904,
-    "statuses_count": 170,
-    "favourites_count": 239,
-    "listed_count": 5,
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-04-25 05:37:08 +08:00",
     "url": "https://twitter.com/LavetaCandace",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjUwNjE0ODQyODAwMDg3MDQw",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1945857921008783360/5y-ofGOu_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Apr 24 21:37:08 +0000 2023",
+            "name": "灬佩楽or🍥",
+            "screen_name": "LavetaCandace"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": false,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 719,
+            "friends_count": 706,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 16,
+            "media_count": 18,
             "pinned_tweet_ids_str": [
                 "1861336615869915318"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "乌托邦"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1682372228000,
-            "updated_at": 1744350085207
+            "updated_at": 1752846615357
         }
     }
 }

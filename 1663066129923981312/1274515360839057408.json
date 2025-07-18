@@ -2,14 +2,14 @@
     "id": "1274515360839057408",
     "screen_name": "Romanorum_",
     "name": "🌸神樂坂😼萱雨✞🏴‍☠️🇺🇦🇮🇱",
-    "description": "不鍵政\n蔷薇公主@l98808lju\n鱼@cryblacktea\n頭@Tinkles_12 \n狼@KawatukiYuyuko\n火@xinmengqaq\n月@ACtoDCADtoBC\n猫@Kawaiieru_\n寶@HANABIRIKAJIANG\n@sakubaikann\n@owl8964cat",
+    "description": "不鍵政\n蔷薇公主@l98808lju\n鱼@cryblacktea\n頭@Tinkles_12 \n狼@KawatukiYuyuko\n月@ACtoDCADtoBC\n猫@Kawaiieru_\n寶@HANABIRIKAJIANG\n@sakubaikann\n@owl8964cat",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1894678782671560704/JJ6PvtSB_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274515360839057408/1737631866",
-    "followers_count": 2104,
-    "friends_count": 1713,
-    "statuses_count": 22614,
-    "favourites_count": 51917,
-    "listed_count": 3,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274515360839057408/1749557623",
+    "followers_count": 2126,
+    "friends_count": 1737,
+    "statuses_count": 23649,
+    "favourites_count": 53499,
+    "listed_count": 5,
     "location": "Κύπρος",
     "website": null,
     "birthdate": null,
@@ -18,8 +18,8 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "protected": false,
+    "created_at": "2020-06-21 09:32:06 +08:00",
     "url": "https://twitter.com/Romanorum_",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1713,
+            "friends_count": 1737,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 5210,
+            "media_count": 5413,
             "pinned_tweet_ids_str": [
                 "1897215793794048071"
             ],
@@ -68,7 +68,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "privacy": {
-            "protected": true
+            "protected": false
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219075207
+            "created_at": 1592703126000,
+            "updated_at": 1752846623602
         }
     }
 }

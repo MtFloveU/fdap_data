@@ -1,15 +1,15 @@
 {
     "id": "1596416860752207872",
     "screen_name": "Longlinlon",
-    "name": "菠萝馅儿-Wiggin",
+    "name": "酷儿诱捕器失效-Wiggin",
     "description": "满庭芳🏳️‍⚧️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1713371694",
-    "followers_count": 1918,
-    "friends_count": 2445,
-    "statuses_count": 13805,
-    "favourites_count": 209600,
-    "listed_count": 7,
+    "followers_count": 1915,
+    "friends_count": 2476,
+    "statuses_count": 14006,
+    "favourites_count": 212718,
+    "listed_count": 0,
     "location": "崆",
     "website": null,
     "birthdate": null,
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat Nov 26 08:13:47 +0000 2022",
-            "name": "菠萝馅儿-Wiggin",
+            "name": "酷儿诱捕器失效-Wiggin",
             "screen_name": "Longlinlon"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2445,
+            "friends_count": 2476,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1219,
+            "media_count": 1246,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1669450427000,
-            "updated_at": 1750232282149
+            "updated_at": 1752846624465
         }
     }
 }

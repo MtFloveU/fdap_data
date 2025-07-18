@@ -2,16 +2,16 @@
     "id": "1877035470615638016",
     "screen_name": "LMegurine03",
     "name": "Luka Megurine 03",
-    "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+    "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1742842046",
-    "followers_count": 2296,
-    "friends_count": 7420,
-    "statuses_count": 2937,
-    "favourites_count": 3220,
-    "listed_count": 6,
+    "followers_count": 2692,
+    "friends_count": 7435,
+    "statuses_count": 3407,
+    "favourites_count": 3873,
+    "listed_count": 4,
     "location": "Genova，Italia ",
-    "website": "https://t.co/TPt8JQZ6F0",
+    "website": "https://t.co/TPt8JQYyPs",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -31,19 +31,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @SChiharu20",
+                    "text": "Automated by @KChiharu34",
                     "entities": [
                         {
                             "fromIndex": 13,
                             "toIndex": 24,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "SChiharu20",
+                                "screen_name": "KChiharu34",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "core": {
-                                            "screen_name": "SChiharu20"
+                                            "screen_name": "KChiharu34"
                                         },
                                         "rest_id": "1697181010914639872"
                                     }
@@ -56,7 +56,7 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg"
         },
         "core": {
             "created_at": "Wed Jan 08 16:52:03 +0000 2025",
@@ -79,7 +79,7 @@
                         {
                             "display_url": "ngl.link/pncyszdusc75790",
                             "expanded_url": "https://ngl.link/pncyszdusc75790",
-                            "url": "https://t.co/TPt8JQZ6F0",
+                            "url": "https://t.co/TPt8JQYyPs",
                             "indices": [
                                 0,
                                 23
@@ -89,17 +89,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7420,
+            "friends_count": 7435,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 714,
+            "media_count": 782,
             "pinned_tweet_ids_str": [
                 "1909615625351364662"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/TPt8JQZ6F0",
+            "url": "https://t.co/TPt8JQYyPs",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -107,7 +107,7 @@
             "location": "Genova，Italia "
         },
         "media_permissions": {
-            "can_media_tag": false
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
@@ -137,7 +137,7 @@
         },
         "twe_private_fields": {
             "created_at": 1736355123000,
-            "updated_at": 1750404910937
+            "updated_at": 1752846612950
         }
     }
 }

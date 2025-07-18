@@ -1,15 +1,15 @@
 {
     "id": "1657175394267848704",
     "screen_name": "Zh40Le1ZOOB",
-    "name": "nixpkgs#command_block | not Drum & Bass listener",
-    "description": "⚡Uplifting Trance⚡",
+    "name": "nixpkgs#ςσmmαηd_βλσςκ",
+    "description": "广州跨性别避难所运营者｜NixOS｜Uplifting Trance｜TG：https://t.co/Bcj9BmrTTv",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 596,
-    "friends_count": 494,
-    "statuses_count": 4219,
-    "favourites_count": 5539,
-    "listed_count": 1,
+    "followers_count": 592,
+    "friends_count": 491,
+    "statuses_count": 4421,
+    "favourites_count": 5814,
+    "listed_count": 0,
     "location": "",
     "website": "https://t.co/yxR4GeWz6U",
     "birthdate": null,
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat May 13 00:10:35 +0000 2023",
-            "name": "nixpkgs#command_block | not Drum & Bass listener",
+            "name": "nixpkgs#ςσmmαηd_βλσςκ",
             "screen_name": "Zh40Le1ZOOB"
         },
         "dm_permissions": {
@@ -42,7 +42,17 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "Zh40Le1ZOOB.t.me",
+                            "expanded_url": "http://Zh40Le1ZOOB.t.me",
+                            "url": "https://t.co/Bcj9BmrTTv",
+                            "indices": [
+                                38,
+                                61
+                            ]
+                        }
+                    ]
                 },
                 "url": {
                     "urls": [
@@ -59,7 +69,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 494,
+            "friends_count": 491,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 19,
@@ -92,7 +102,7 @@
         },
         "twe_private_fields": {
             "created_at": 1683936635000,
-            "updated_at": 1750232254497
+            "updated_at": 1752846587235
         }
     }
 }

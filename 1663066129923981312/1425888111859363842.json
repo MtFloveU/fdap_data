@@ -2,13 +2,13 @@
     "id": "1425888111859363842",
     "screen_name": "Anataha_sakana",
     "name": "Anataha_Sakana",
-    "description": "只是一个npc\n   /防失联安全屋@anataha_sakana2\n   /提问箱：https://t.co/uL768kFaAQ",
+    "description": "只是一个npc   /📬：lishiyu135@gmail.com   /防失联安全屋@anataha_sakana2\n/提问箱：https://t.co/uL768kECLi",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889708317590822917/8u44zi_Y_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1425888111859363842/1748673545",
-    "followers_count": 876,
-    "friends_count": 2758,
-    "statuses_count": 16465,
-    "favourites_count": 36009,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1425888111859363842/1750569386",
+    "followers_count": 926,
+    "friends_count": 2818,
+    "statuses_count": 17924,
+    "favourites_count": 38855,
     "listed_count": 6,
     "location": "Beijing",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2021-08-13 02:33:19 +08:00",
     "url": "https://twitter.com/Anataha_sakana",
     "metadata": {
         "__typename": "User",
@@ -46,20 +46,20 @@
                         {
                             "display_url": "ngl.link/anataha_sakana",
                             "expanded_url": "https://ngl.link/anataha_sakana",
-                            "url": "https://t.co/uL768kFaAQ",
+                            "url": "https://t.co/uL768kECLi",
                             "indices": [
-                                43,
-                                66
+                                65,
+                                88
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2758,
+            "friends_count": 2818,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1948,
+            "media_count": 2109,
             "pinned_tweet_ids_str": [
                 "1712117803455852794"
             ],
@@ -100,8 +100,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219038641
+            "created_at": 1628793199000,
+            "updated_at": 1752846543502
         }
     }
 }

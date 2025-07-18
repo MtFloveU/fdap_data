@@ -2,56 +2,99 @@
     "id": "1589604409826107392",
     "screen_name": "_yuluo_05",
     "name": "羽落",
-    "description": "自设/音游/曲师/绘画/非二元性别🏳️‍⚧️",
-    "location": "Macau",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1906812169980915712/As9_WPHR_normal.jpg",
+    "description": "自设/音游/同音曲师/绘画/非二元性别🏳️‍⚧️/纯碎碎念帐号",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1928467842904780801/5jTP_GGw_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589604409826107392/1742286752",
-    "followers_count": 163,
-    "statuses_count": 353,
-    "favourites_count": 2621,
+    "followers_count": 265,
+    "friends_count": 305,
+    "statuses_count": 603,
+    "favourites_count": 3132,
     "listed_count": 0,
+    "location": "Macau",
+    "website": "https://t.co/SjWrdHgrmG",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-11-07 21:03:32 +08:00",
     "url": "https://twitter.com/_yuluo_05",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTg5NjA0NDA5ODI2MTA3Mzky",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1928467842904780801/5jTP_GGw_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Nov 07 13:03:32 +0000 2022",
+            "name": "羽落",
+            "screen_name": "_yuluo_05"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "lit.link/yuluo05",
+                            "expanded_url": "https://lit.link/yuluo05",
+                            "url": "https://t.co/SjWrdHgrmG",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 242,
+            "friends_count": 305,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 121,
+            "media_count": 218,
             "pinned_tweet_ids_str": [
-                "1876951305018638726"
+                "1922687780012032075"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/SjWrdHgrmG",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Macau"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1667826212000,
-            "updated_at": 1744350096785
+            "updated_at": 1752846619818
         }
     }
 }

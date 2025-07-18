@@ -1,17 +1,17 @@
 {
     "id": "1618557658163970049",
     "screen_name": "qqqqqf5",
-    "name": "qqqqqf🍥",
-    "description": "名为清凤/091115/泛性恋/🏳️‍⚧️/ISTP-T/158CM/40KG/HRT-2025.1.3/不碰政治/双相_攻击高时请见谅/男朋友@kilock08",
+    "name": "清凤",
+    "description": "Null",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1815436051437285380/AdFj8fW3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618557658163970049/1721668658",
-    "followers_count": 1321,
-    "friends_count": 1479,
-    "statuses_count": 960,
-    "favourites_count": 3449,
+    "followers_count": 1390,
+    "friends_count": 1526,
+    "statuses_count": 1171,
+    "favourites_count": 4118,
     "listed_count": 6,
-    "location": "浙江宁波",
-    "website": null,
+    "location": "",
+    "website": "https://t.co/Qfc6ZTRmX7",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Thu Jan 26 10:33:19 +0000 2023",
-            "name": "qqqqqf🍥",
+            "name": "清凤",
             "screen_name": "qqqqqf5"
         },
         "dm_permissions": {
@@ -43,24 +43,36 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "github.com/qqqqqf-q",
+                            "expanded_url": "https://github.com/qqqqqf-q",
+                            "url": "https://t.co/Qfc6ZTRmX7",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1479,
+            "friends_count": 1526,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 298,
-            "pinned_tweet_ids_str": [
-                "1932337589224452249"
-            ],
+            "media_count": 361,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/Qfc6ZTRmX7",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "浙江宁波"
+            "location": ""
         },
         "media_permissions": {
             "can_media_tag": false
@@ -80,7 +92,7 @@
         },
         "twe_private_fields": {
             "created_at": 1674729199000,
-            "updated_at": 1750232259424
+            "updated_at": 1752846612950
         }
     }
 }

@@ -2,14 +2,14 @@
     "id": "1464881472964382732",
     "screen_name": "mengguyi",
     "name": "孟古一🍥",
-    "description": "GNU/Linux用户｜超业余级的Golang开发者｜20 y.o.｜个人TG: https://t.co/sId7D2qEtH｜GitHub: https://t.co/H0qW1rtPXv｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜实习圆角｜Nya! 若账号被限制请 @mengguyi2",
+    "description": "GNU/Linux用户｜超业余级的 Rust 开发者｜20 y.o.｜个人TG: https://t.co/sId7D2qEtH｜GitHub: https://t.co/H0qW1rtPXv｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜实习圆角｜Nya! 若账号被限制请 @mengguyi2",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1775795384096600065/vu5kAWL9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464881472964382732/1685970901",
-    "followers_count": 2540,
-    "friends_count": 1102,
-    "statuses_count": 3930,
-    "favourites_count": 38957,
-    "listed_count": 5,
+    "followers_count": 2804,
+    "friends_count": 1126,
+    "statuses_count": 4024,
+    "favourites_count": 40239,
+    "listed_count": 6,
     "location": "Macau",
     "website": "https://t.co/TS2nZD0GVY",
     "birthdate": null,
@@ -78,10 +78,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1102,
+            "friends_count": 1126,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 927,
+            "media_count": 944,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -126,7 +126,7 @@
         },
         "twe_private_fields": {
             "created_at": 1638089947000,
-            "updated_at": 1750404925325
+            "updated_at": 1752846627809
         }
     }
 }

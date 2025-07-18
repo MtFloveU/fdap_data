@@ -2,28 +2,42 @@
     "id": "1361669446645948421",
     "screen_name": "YueYinLanQi",
     "name": "岚柒🏳️‍⚧️（😶）",
-    "description": "良良惶惶多少次，纤素云丝一飞尘/深柜mtf/ INFJ废物/没事写点小破诗/精神状态暂时很好/白日做梦ing/steam好友码1181115828",
-    "location": "奥林匹斯-众人失足处",
+    "description": "良良惶惶多少次，纤素云丝一飞尘/深柜mtf/ INFJ废物/没时间写小破诗/精神状态暂时很好/白日做梦ing/steam好友码1181115828，最近沉迷酸角粥",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1874125474407776256/4NpDjtAm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361669446645948421/1705511182",
-    "followers_count": 727,
-    "statuses_count": 1696,
-    "favourites_count": 8000,
+    "followers_count": 731,
+    "friends_count": 1124,
+    "statuses_count": 1741,
+    "favourites_count": 8004,
     "listed_count": 1,
+    "location": "奥林匹斯-众人失足处",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2021-02-16 21:31:21 +08:00",
     "url": "https://twitter.com/YueYinLanQi",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzYxNjY5NDQ2NjQ1OTQ4NDIx",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1874125474407776256/4NpDjtAm_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Feb 16 13:31:21 +0000 2021",
+            "name": "岚柒🏳️‍⚧️（😶）",
+            "screen_name": "YueYinLanQi"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,14 +49,19 @@
             "friends_count": 1124,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 241,
+            "media_count": 251,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "奥林匹斯-众人失足处"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -57,12 +76,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1613482281000,
-            "updated_at": 1746077196170
+            "updated_at": 1752846627810
         }
     }
 }

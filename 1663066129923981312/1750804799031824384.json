@@ -2,14 +2,14 @@
     "id": "1750804799031824384",
     "screen_name": "lizi5202",
     "name": "枫糖小漓莫",
-    "description": "你好",
+    "description": "西郊有密林，助君出重围",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 1231,
-    "friends_count": 1231,
-    "statuses_count": 4309,
-    "favourites_count": 10657,
-    "listed_count": 4,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750804799031824384/1749978276",
+    "followers_count": 1400,
+    "friends_count": 1350,
+    "statuses_count": 5532,
+    "favourites_count": 13546,
+    "listed_count": 5,
     "location": "月之森女子学园",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-01-26 16:56:14 +08:00",
     "url": "https://twitter.com/lizi5202",
     "metadata": {
         "__typename": "User",
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1231,
+            "friends_count": 1350,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 458,
+            "media_count": 542,
             "pinned_tweet_ids_str": [
-                "1886654791146987559"
+                "1941489600012448048"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219067733
+            "created_at": 1706259374000,
+            "updated_at": 1752846618060
         }
     }
 }

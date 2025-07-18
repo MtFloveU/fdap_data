@@ -1,31 +1,43 @@
 {
     "id": "1754034649305952256",
     "screen_name": "linna65536",
-    "name": "linna🏳️‍⚧️",
+    "name": "刀刀罗-有知识-好故事~~",
     "description": "09年 | mtx(f) | GAHT(HRT) 2024.8.2 | 未出柜 | 应该不是家长党 | 计算机爱好者 | Debian GNU/Linux",
-    "location": "Shantou,Guangdong,China",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1886495877977788416/vwS3cBRP_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1944002290333233155/rHblW7X2_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754034649305952256/1723389531",
-    "followers_count": 59,
+    "followers_count": 68,
+    "friends_count": 444,
     "statuses_count": 16,
-    "favourites_count": 37,
+    "favourites_count": 56,
     "listed_count": 0,
+    "location": "Shantou,Guangdong,China",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-02-04 14:50:46 +08:00",
     "url": "https://twitter.com/linna65536",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzU0MDM0NjQ5MzA1OTUyMjU2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1944002290333233155/rHblW7X2_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Feb 04 06:50:46 +0000 2024",
+            "name": "刀刀罗-有知识-好故事~~",
+            "screen_name": "linna65536"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 448,
+            "friends_count": 444,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 2,
@@ -42,10 +54,17 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Shantou,Guangdong,China"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1812710177013141515",
             "professional_type": "Creator",
@@ -57,10 +76,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1707029446000,
-            "updated_at": 1744350054661
+            "updated_at": 1752846551851
         }
     }
 }

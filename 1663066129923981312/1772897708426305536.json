@@ -2,13 +2,13 @@
     "id": "1772897708426305536",
     "screen_name": "suming051026",
     "name": "小蛊",
-    "description": "上海 大骨架 46肩宽 mad 想当帅b\n115/250kg (神人玩家)\nfufu天下第一好",
+    "description": "上海 大骨架 46肩宽 mad 想当帅b 天炸开局(丑)\n115/250kg (神人玩家)\nfufu天下第一好",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1915480970582499328/Y4u5Guso_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 833,
-    "friends_count": 2360,
-    "statuses_count": 1586,
-    "favourites_count": 6,
+    "followers_count": 878,
+    "friends_count": 2696,
+    "statuses_count": 1646,
+    "favourites_count": 4,
     "listed_count": 3,
     "location": "",
     "website": null,
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2360,
+            "friends_count": 2696,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 23,
+            "media_count": 22,
             "pinned_tweet_ids_str": [
                 "1912908692871094368"
             ],
@@ -63,7 +63,7 @@
             "location": ""
         },
         "media_permissions": {
-            "can_media_tag": true
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -83,7 +83,7 @@
         },
         "twe_private_fields": {
             "created_at": 1711526738000,
-            "updated_at": 1750232229602
+            "updated_at": 1752846533812
         }
     }
 }

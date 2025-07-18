@@ -1,17 +1,17 @@
 {
     "id": "1846264453463236608",
-    "screen_name": "sinokitatokyo",
-    "name": "篠北みれい😺（白魔爪重度依赖）",
-    "description": "形态复杂 | 基本友好 | 不定上推 | 干活机器 | 熬夜笨蛋 | 魔爪依赖 |查成分fo",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1903186990201487360/wRTdmbfj_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1846264453463236608/1742590112",
-    "followers_count": 161,
-    "friends_count": 749,
-    "statuses_count": 1264,
-    "favourites_count": 231,
-    "listed_count": 1,
-    "location": "site-300，或俄罗斯克拉斯诺亚尔斯克边疆区",
-    "website": "https://t.co/eDNrHxaiMk",
+    "screen_name": "ZephyrClearyume",
+    "name": "拨云☁ZephyrClear",
+    "description": "一个会饥饿，会干渴，会疲惫，会害怕，会死亡的凡人。\n他疯的想要伸手抓住什么,我定睛一看，那是他的希望。",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1942358363066753025/dRc9uMgC_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1846264453463236608/1751929294",
+    "followers_count": 447,
+    "friends_count": 835,
+    "statuses_count": 1678,
+    "favourites_count": 342,
+    "listed_count": 3,
+    "location": "えすとるぐん，Углегорск",
+    "website": "https://t.co/4u1lFEsSz4",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -20,18 +20,18 @@
     "can_dm": true,
     "protected": false,
     "created_at": "2024-10-16 02:58:52 +08:00",
-    "url": "https://twitter.com/sinokitatokyo",
+    "url": "https://twitter.com/ZephyrClearyume",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQ2MjY0NDUzNDYzMjM2NjA4",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1903186990201487360/wRTdmbfj_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1942358363066753025/dRc9uMgC_normal.jpg"
         },
         "core": {
             "created_at": "Tue Oct 15 18:58:52 +0000 2024",
-            "name": "篠北みれい😺（白魔爪重度依赖）",
-            "screen_name": "sinokitatokyo"
+            "name": "拨云☁ZephyrClear",
+            "screen_name": "ZephyrClearyume"
         },
         "dm_permissions": {
             "can_dm": true
@@ -47,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "google.com",
-                            "expanded_url": "http://www.google.com",
-                            "url": "https://t.co/eDNrHxaiMk",
+                            "display_url": "t.me/tnews365",
+                            "expanded_url": "https://t.me/tnews365",
+                            "url": "https://t.co/4u1lFEsSz4",
                             "indices": [
                                 0,
                                 23
@@ -59,22 +59,22 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 749,
+            "friends_count": 835,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 122,
+            "media_count": 158,
             "pinned_tweet_ids_str": [
-                "1903207666731847833"
+                "1942360032471048684"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/eDNrHxaiMk",
+            "url": "https://t.co/4u1lFEsSz4",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "site-300，或俄罗斯克拉斯诺亚尔斯克边疆区"
+            "location": "えすとるぐん，Углегорск"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -94,7 +94,7 @@
         },
         "twe_private_fields": {
             "created_at": 1729018732000,
-            "updated_at": 1750232254497
+            "updated_at": 1752846587235
         }
     }
 }

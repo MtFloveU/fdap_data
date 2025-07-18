@@ -2,13 +2,13 @@
     "id": "1826871427972362240",
     "screen_name": "misaka__network",
     "name": "Misaka Makoto (御坂　まこと)🏳️‍🌈🏳️‍⚧️🍥🇳🇿🇦🇶🇹🇼",
-    "description": "Pronoun: Misaka/Misaka's; \nGPG Key Fingerprint: 3C01 D0C8 C0D2 3F40 C3E2  4EFD 2C99 FFA9 E7DF F7E2 E954; \nTrans Female; \nGAHT: 2025-1-24; \nMy dear: @Luo_yiyu",
+    "description": "Pronoun: Misaka/Misaka's;  1997-05-02 — 2026-08-09  Love Misaka Mikoto forever.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1892543426656415744/mYE7JEtM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826871427972362240/1726647335",
-    "followers_count": 409,
-    "friends_count": 623,
-    "statuses_count": 12381,
-    "favourites_count": 36835,
+    "followers_count": 469,
+    "friends_count": 729,
+    "statuses_count": 13733,
+    "favourites_count": 38738,
     "listed_count": 0,
     "location": "/Users/MisakaNetworkServices/",
     "website": "https://t.co/cDAtzx6l4u",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-08-23 14:38:09 +08:00",
     "url": "https://twitter.com/misaka__network",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 623,
+            "friends_count": 729,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 176,
+            "media_count": 208,
             "pinned_tweet_ids_str": [
                 "1925803308469334259"
             ],
@@ -98,8 +98,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219068775
+            "created_at": 1724395089000,
+            "updated_at": 1752846618060
         }
     }
 }

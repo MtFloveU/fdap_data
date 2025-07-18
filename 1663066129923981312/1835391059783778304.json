@@ -1,16 +1,16 @@
 {
     "id": "1835391059783778304",
-    "screen_name": "oldan_rev14",
+    "screen_name": "tomoyo_rev14",
     "name": "nothing",
-    "description": "天才俱乐部会员│J-POP，rnb享受者│崩坏星穹铁道享受者│希望多交朋友啦，可以叫我小n或者n酱",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1930936118146457600/YDMyZ0Cl_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835391059783778304/1746854776",
-    "followers_count": 75,
-    "friends_count": 136,
-    "statuses_count": 26,
-    "favourites_count": 414,
+    "description": "marxism and postmodernism",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1942566110361985024/H4EfYA7e_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835391059783778304/1751978828",
+    "followers_count": 183,
+    "friends_count": 289,
+    "statuses_count": 391,
+    "favourites_count": 2003,
     "listed_count": 0,
-    "location": "黑塔空间站",
+    "location": "下北泽",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -19,19 +19,19 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/oldan_rev14",
+    "created_at": "2024-09-16 02:51:54 +08:00",
+    "url": "https://twitter.com/tomoyo_rev14",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODM1MzkxMDU5NzgzNzc4MzA0",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1930936118146457600/YDMyZ0Cl_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1942566110361985024/H4EfYA7e_normal.jpg"
         },
         "core": {
             "created_at": "Sun Sep 15 18:51:54 +0000 2024",
             "name": "nothing",
-            "screen_name": "oldan_rev14"
+            "screen_name": "tomoyo_rev14"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 136,
+            "friends_count": 289,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 0,
+            "media_count": 6,
             "pinned_tweet_ids_str": [
-                "1918890093428847083"
+                "1941816706566889664"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "黑塔空间站"
+            "location": "下北泽"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219066708
+            "created_at": 1726426314000,
+            "updated_at": 1752846616262
         }
     }
 }

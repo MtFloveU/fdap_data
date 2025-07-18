@@ -2,30 +2,42 @@
     "id": "1851253052243865600",
     "screen_name": "pronsi114",
     "name": "pronsi🏳️‍⚧",
-    "description": "transles（ppl，单身ing），含糖，姐姐们来找我玩\nrin推，偶尔出点cos\n照片大部分都是原图不p（）\nchem/pharm",
-    "location": "瀋陽",
+    "description": "transles（ppl，单身ing），含糖，姐姐们来找我玩\nrin推，偶尔出点cos\n照片大部分都是原图不p（）\n男的不要来私信骚扰我好吗\nchem/pharm",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1851255555177730049/3LlrtXw6_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 260,
-    "statuses_count": 1302,
-    "favourites_count": 21407,
+    "followers_count": 353,
+    "friends_count": 1260,
+    "statuses_count": 1791,
+    "favourites_count": 28307,
     "listed_count": 0,
+    "location": "瀋陽",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-10-29 21:21:47 +08:00",
     "url": "https://twitter.com/pronsi114",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODUxMjUzMDUyMjQzODY1NjAw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1851255555177730049/3LlrtXw6_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Oct 29 13:21:47 +0000 2024",
+            "name": "pronsi🏳️‍⚧",
+            "screen_name": "pronsi114"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1002,
+            "friends_count": 1260,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 78,
+            "media_count": 97,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "瀋陽"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1730208107000,
-            "updated_at": 1744350087213
+            "updated_at": 1752846616262
         }
     }
 }

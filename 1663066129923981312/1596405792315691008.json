@@ -2,31 +2,42 @@
     "id": "1596405792315691008",
     "screen_name": "0502railgun1949",
     "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
-    "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
-    "location": "深圳市龍華区少年科學院(报刊亭)",
+    "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1724776088",
-    "followers_count": 1048,
-    "statuses_count": 5988,
-    "favourites_count": 6822,
-    "listed_count": 2,
+    "followers_count": 1113,
+    "friends_count": 635,
+    "statuses_count": 7079,
+    "favourites_count": 9626,
+    "listed_count": 3,
+    "location": "深圳市龍華区少年科學院(报刊亭)",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-11-26 15:31:03 +08:00",
     "url": "https://twitter.com/0502railgun1949",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTk2NDA1NzkyMzE1NjkxMDA4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Nov 26 07:31:03 +0000 2022",
+            "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+            "screen_name": "0502railgun1949"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,20 +46,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 736,
+            "friends_count": 635,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 953,
+            "media_count": 1012,
             "pinned_tweet_ids_str": [
                 "1867555700534325353"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "深圳市龍華区少年科學院(报刊亭)"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1734948361588158922",
             "professional_type": "Creator",
@@ -60,10 +78,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1669447863000,
-            "updated_at": 1744350115040
+            "updated_at": 1752846626571
         }
     }
 }

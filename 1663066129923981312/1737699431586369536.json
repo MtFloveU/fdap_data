@@ -2,13 +2,13 @@
     "id": "1737699431586369536",
     "screen_name": "ttxy1213",
     "name": "图腾晓瑶",
-    "description": "在努力学做菜的笨猫，含糖量极低🍥，喜欢当个小透明，永远的爱人没有",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1925629525179654144/uYq36XWC_normal.jpg",
+    "description": "在努力学做菜的笨猫，含糖量极低",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1944831090880917504/djcg0ED1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737699431586369536/1745437195",
-    "followers_count": 847,
-    "friends_count": 458,
-    "statuses_count": 326,
-    "favourites_count": 3443,
+    "followers_count": 850,
+    "friends_count": 468,
+    "statuses_count": 330,
+    "favourites_count": 3451,
     "listed_count": 3,
     "location": "Tokyo-to, Japan",
     "website": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-12-21 13:00:10 +08:00",
     "url": "https://twitter.com/ttxy1213",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzM3Njk5NDMxNTg2MzY5NTM2",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1925629525179654144/uYq36XWC_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1944831090880917504/djcg0ED1_normal.jpg"
         },
         "core": {
             "created_at": "Thu Dec 21 05:00:10 +0000 2023",
@@ -46,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 458,
+            "friends_count": 468,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 35,
@@ -81,8 +81,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219079495
+            "created_at": 1703134810000,
+            "updated_at": 1752846626572
         }
     }
 }

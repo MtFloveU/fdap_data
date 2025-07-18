@@ -2,13 +2,13 @@
     "id": "1849090545387528192",
     "screen_name": "Net2ach_",
     "name": "None",
-    "description": "当我死了就行",
+    "description": "当我死了就行\n不定期复活",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1927360953835769856/POQ419rm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849090545387528192/1748353633",
-    "followers_count": 294,
+    "followers_count": 286,
     "friends_count": 298,
-    "statuses_count": 3638,
-    "favourites_count": 4496,
+    "statuses_count": 3646,
+    "favourites_count": 4395,
     "listed_count": 0,
     "location": "Unkown",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-10-23 22:09:09 +08:00",
     "url": "https://twitter.com/Net2ach_",
     "metadata": {
         "__typename": "User",
@@ -49,7 +49,7 @@
             "friends_count": 298,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 247,
+            "media_count": 249,
             "pinned_tweet_ids_str": [
                 "1916677895919202705"
             ],
@@ -81,8 +81,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219063571
+            "created_at": 1729692549000,
+            "updated_at": 1752846614297
         }
     }
 }

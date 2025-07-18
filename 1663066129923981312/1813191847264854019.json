@@ -2,30 +2,42 @@
     "id": "1813191847264854019",
     "screen_name": "hhngki7292924",
     "name": "37（😇）",
-    "description": "里推@hhk1546562",
-    "location": "圣洛夫基金会",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1907850789537853443/Aoqp7FCS_normal.jpg",
+    "description": "先活着吧，剩下的我再想办法。。。（戒od中。。。）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1936863842778161152/YL0tcI6E_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813191847264854019/1738669367",
-    "followers_count": 276,
-    "statuses_count": 2482,
-    "favourites_count": 1313,
-    "listed_count": 2,
+    "followers_count": 548,
+    "friends_count": 841,
+    "statuses_count": 3902,
+    "favourites_count": 1978,
+    "listed_count": 3,
+    "location": "圣洛夫基金会",
+    "website": "https://t.co/eTZfSf6M4U",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-07-16 20:40:39 +08:00",
     "url": "https://twitter.com/hhngki7292924",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODEzMTkxODQ3MjY0ODU0MDE5",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1936863842778161152/YL0tcI6E_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jul 16 12:40:39 +0000 2024",
+            "name": "37（😇）",
+            "screen_name": "hhngki7292924"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,7 +49,7 @@
                         {
                             "display_url": "ngl.link/hhngki7262624",
                             "expanded_url": "https://ngl.link/hhngki7262624",
-                            "url": "https://t.co/eTZfSf7jUs",
+                            "url": "https://t.co/eTZfSf6M4U",
                             "indices": [
                                 0,
                                 23
@@ -47,27 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 463,
+            "friends_count": 841,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 144,
+            "media_count": 287,
             "pinned_tweet_ids_str": [
-                "1893247835769803221"
+                "1938235341393027504"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/eTZfSf7jUs",
-            "verified": false,
+            "url": "https://t.co/eTZfSf6M4U",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "圣洛夫基金会"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1721133639000,
-            "updated_at": 1744350082219
+            "updated_at": 1752846611714
         }
     }
 }

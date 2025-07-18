@@ -2,28 +2,42 @@
     "id": "1662427556123926528",
     "screen_name": "chenjingyao250",
     "name": "狗头附魔师",
-    "description": "我精神病患者之一只人类mtf",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1876526759677771776/0l7ikLOj_normal.jpg",
+    "description": "我是女巫之一只人类mtf，主要活跃在国内（china)，私信有空会回",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1940060867862630400/T8gKj9Xt_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 203,
-    "statuses_count": 88,
-    "favourites_count": 213,
+    "followers_count": 205,
+    "friends_count": 838,
+    "statuses_count": 96,
+    "favourites_count": 203,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-05-27 19:56:39 +08:00",
     "url": "https://twitter.com/chenjingyao250",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjYyNDI3NTU2MTIzOTI2NTI4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1940060867862630400/T8gKj9Xt_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat May 27 11:56:39 +0000 2023",
+            "name": "狗头附魔师",
+            "screen_name": "chenjingyao250"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": false,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 835,
+            "friends_count": 838,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 5,
+            "media_count": 9,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1685188599000,
-            "updated_at": 1746080524007
+            "updated_at": 1752846533812
         }
     }
 }

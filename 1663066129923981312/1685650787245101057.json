@@ -2,13 +2,13 @@
     "id": "1685650787245101057",
     "screen_name": "VLTHellolin",
     "name": "hellolin",
-    "description": "Front-end Developer, Competitive Programmer, Student of 14, ACG Enthusiast. He/Him",
+    "description": "Fullstack Developer (literally), Competitive Programmer, CTFer, Student of 14, ACG Enthusiast. He/Him",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1753683653849440256/h6Qa5b-o_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685650787245101057/1744551504",
-    "followers_count": 614,
-    "friends_count": 1246,
-    "statuses_count": 1657,
-    "favourites_count": 21403,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685650787245101057/1750864800",
+    "followers_count": 633,
+    "friends_count": 1277,
+    "statuses_count": 1805,
+    "favourites_count": 22994,
     "listed_count": 1,
     "location": "Shandong, China",
     "website": "https://t.co/yGNS8renlA",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-07-30 21:57:25 +08:00",
     "url": "https://twitter.com/VLTHellolin",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1246,
+            "friends_count": 1277,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 199,
+            "media_count": 222,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -93,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219066708
+            "created_at": 1690725445000,
+            "updated_at": 1752846616262
         }
     }
 }

@@ -1,29 +1,43 @@
 {
     "id": "1479298731887501314",
     "screen_name": "meng9017",
-    "name": "夢夢🍥",
-    "description": "可愛的寶寶@xxxxxxsbdd/最好的閨蜜@n_xiaonuo_n/笨蛋老公@_so_coin/🚪88（好友位、可聊天、同类免费）",
-    "location": "遼寧省大連市",
+    "name": "夢夢",
+    "description": "可愛的寶寶@xxxxxxsbdd/最好的閨蜜@n_xiaonuo_n/笨蛋老公@_so_coin",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1792653247242772480/KMjnsRW9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479298731887501314/1667122040",
-    "followers_count": 742,
-    "statuses_count": 1103,
-    "favourites_count": 2420,
+    "followers_count": 747,
+    "friends_count": 605,
+    "statuses_count": 1108,
+    "favourites_count": 2418,
     "listed_count": 2,
+    "location": "遼寧省大連市",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": true,
     "created_at": "2022-01-07 11:48:05 +08:00",
     "url": "https://twitter.com/meng9017",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDc5Mjk4NzMxODg3NTAxMzE0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1792653247242772480/KMjnsRW9_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jan 07 03:48:05 +0000 2022",
+            "name": "夢夢",
+            "screen_name": "meng9017"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 613,
+            "friends_count": 605,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 147,
+            "media_count": 148,
             "pinned_tweet_ids_str": [
                 "1824157157765353859"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "遼寧省大連市"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1641527285000,
-            "updated_at": 1746080552368
+            "updated_at": 1752846556773
         }
     }
 }

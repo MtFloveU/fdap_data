@@ -2,14 +2,14 @@
     "id": "1817584080437014528",
     "screen_name": "N552AA",
     "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
-    "description": "08/MTX（f?/ENTP-T/家长吓坏党/ADHD/双相/断续含糖/坐标上海/有小证/抱抱最最可爱的姐姐: @yizhikapaiqaq\n妈妈：@bolichara0\n主人：@yumekaayumi",
+    "description": "08/MTX（f?/ENTP-T/家长吓坏党/ADHD/双相/断续含糖/坐标上海/有小证/抱抱最最可爱的姐姐: @yizhikapaiqaq\n妈妈：@bolichara0\n主人：@yumekaayumi @nahida_miao",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1927899559306612736/St9dcsoX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817584080437014528/1728201559",
-    "followers_count": 1046,
-    "friends_count": 931,
-    "statuses_count": 1144,
-    "favourites_count": 3314,
-    "listed_count": 1,
+    "followers_count": 1081,
+    "friends_count": 938,
+    "statuses_count": 1187,
+    "favourites_count": 3416,
+    "listed_count": 0,
     "location": "参宿四",
     "website": "https://t.co/zkiZZtLQUz",
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-07-28 23:33:18 +08:00",
     "url": "https://twitter.com/N552AA",
     "metadata": {
         "__typename": "User",
@@ -89,10 +89,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 931,
+            "friends_count": 938,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 80,
+            "media_count": 86,
             "pinned_tweet_ids_str": [
                 "1926860966253257155"
             ],
@@ -123,8 +123,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219067732
+            "created_at": 1722180798000,
+            "updated_at": 1752846617121
         }
     }
 }

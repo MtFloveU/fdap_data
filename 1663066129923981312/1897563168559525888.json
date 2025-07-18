@@ -1,26 +1,26 @@
 {
     "id": "1897563168559525888",
-    "screen_name": "8964Moothreesan",
+    "screen_name": "miren_Moo",
     "name": "迷人の暮酱",
-    "description": "早安 午安 晚安",
+    "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1897564315567153152/uf5nUdBJ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897563168559525888/1746125423",
-    "followers_count": 537,
-    "friends_count": 510,
-    "statuses_count": 2752,
-    "favourites_count": 10040,
-    "listed_count": 2,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897563168559525888/1751706524",
+    "followers_count": 569,
+    "friends_count": 577,
+    "statuses_count": 3506,
+    "favourites_count": 13410,
+    "listed_count": 1,
     "location": "中南海",
-    "website": "https://t.co/mIAU0nXS78",
+    "website": "https://t.co/mIAU0nXkhA",
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/8964Moothreesan",
+    "created_at": "2025-03-06 16:21:49 +08:00",
+    "url": "https://twitter.com/miren_Moo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODk3NTYzMTY4NTU5NTI1ODg4",
@@ -31,7 +31,7 @@
         "core": {
             "created_at": "Thu Mar 06 08:21:49 +0000 2025",
             "name": "迷人の暮酱",
-            "screen_name": "8964Moothreesan"
+            "screen_name": "miren_Moo"
         },
         "dm_permissions": {
             "can_dm": true
@@ -49,7 +49,7 @@
                         {
                             "display_url": "cpcnews.cn",
                             "expanded_url": "http://www.cpcnews.cn",
-                            "url": "https://t.co/mIAU0nXS78",
+                            "url": "https://t.co/mIAU0nXkhA",
                             "indices": [
                                 0,
                                 23
@@ -59,17 +59,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 510,
+            "friends_count": 577,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 102,
+            "media_count": 114,
             "pinned_tweet_ids_str": [
-                "1905256193377141138"
+                "1941424463163326518"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/mIAU0nXS78",
+            "url": "https://t.co/mIAU0nXkhA",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -106,8 +106,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219059243
+            "created_at": 1741249309000,
+            "updated_at": 1752846592776
         }
     }
 }

@@ -2,15 +2,15 @@
     "id": "1811057149805834241",
     "screen_name": "Tarimarl",
     "name": "Tarimar",
-    "description": "我来自地狱  |  只是随处可见的普通人  |  玩推特是为了记录生活、发疯、交朋友…  |  想成为温柔的人",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1934141564152086528/JPmumLWG_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811057149805834241/1747061967",
-    "followers_count": 298,
-    "friends_count": 377,
-    "statuses_count": 732,
-    "favourites_count": 3634,
+    "description": "我需要很多钱，也需要很多爱 | 可以叫我小T | 请和我互fo",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1938299690325577735/Ltgu9l4J_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811057149805834241/1750604703",
+    "followers_count": 338,
+    "friends_count": 431,
+    "statuses_count": 1305,
+    "favourites_count": 5691,
     "listed_count": 1,
-    "location": "距您＜5km",
+    "location": "✟​Heaven✟",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -26,7 +26,7 @@
         "id": "VXNlcjoxODExMDU3MTQ5ODA1ODM0MjQx",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1934141564152086528/JPmumLWG_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1938299690325577735/Ltgu9l4J_normal.jpg"
         },
         "core": {
             "created_at": "Wed Jul 10 15:17:40 +0000 2024",
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 377,
+            "friends_count": 431,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 109,
+            "media_count": 166,
             "pinned_tweet_ids_str": [
-                "1934212952963657774"
+                "1938299205006889039"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "距您＜5km"
+            "location": "✟​Heaven✟"
         },
         "media_permissions": {
             "can_media_tag": true
@@ -74,13 +74,15 @@
             "followed_by": true,
             "following": true
         },
-        "tipjar_settings": {},
+        "tipjar_settings": {
+            "is_enabled": false
+        },
         "verification": {
             "verified": false
         },
         "twe_private_fields": {
             "created_at": 1720624660000,
-            "updated_at": 1750404908919
+            "updated_at": 1752846595659
         }
     }
 }

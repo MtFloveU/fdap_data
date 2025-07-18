@@ -2,13 +2,13 @@
     "id": "1841416962846695424",
     "screen_name": "shuhaishiwo",
     "name": "树海",
-    "description": "嗯，止于这个号",
+    "description": "窝的遗产",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1917121280291311621/6jGXlUei_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841416962846695424/1728491126",
-    "followers_count": 56,
-    "friends_count": 107,
-    "statuses_count": 554,
-    "favourites_count": 2482,
+    "followers_count": 72,
+    "friends_count": 124,
+    "statuses_count": 658,
+    "favourites_count": 2897,
     "listed_count": 1,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-10-02 17:56:48 +08:00",
     "url": "https://twitter.com/shuhaishiwo",
     "metadata": {
         "__typename": "User",
@@ -76,11 +76,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 107,
+            "friends_count": 124,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 81,
-            "pinned_tweet_ids_str": [],
+            "media_count": 94,
+            "pinned_tweet_ids_str": [
+                "1931032746299969599"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -107,8 +109,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219067732
+            "created_at": 1727863008000,
+            "updated_at": 1752846617121
         }
     }
 }

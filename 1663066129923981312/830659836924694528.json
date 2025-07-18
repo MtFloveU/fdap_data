@@ -1,14 +1,14 @@
 {
     "id": "830659836924694528",
-    "screen_name": "CcZh2zr",
-    "name": "白巧曲奇（避难所频道）",
-    "description": "一个得了类似空鼻症的脊椎神经未知痛苦疾病像空鼻狗阿申一样被迫从很好很好的学校辍学隐居的人",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1932800834250944515/6oPw46Nk_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/830659836924694528/1749650623",
-    "followers_count": 2740,
+    "screen_name": "ixtHRc75R7MTBYf",
+    "name": "地铁十号线",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1941141866654883840/AhgzCQpg_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 2731,
     "friends_count": 1163,
-    "statuses_count": 10762,
-    "favourites_count": 15146,
+    "statuses_count": 10785,
+    "favourites_count": 15105,
     "listed_count": 8,
     "location": "",
     "website": null,
@@ -18,20 +18,20 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": false,
+    "protected": true,
     "created_at": "2017-02-12 14:08:32 +08:00",
-    "url": "https://twitter.com/CcZh2zr",
+    "url": "https://twitter.com/ixtHRc75R7MTBYf",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjo4MzA2NTk4MzY5MjQ2OTQ1Mjg=",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1932800834250944515/6oPw46Nk_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1941141866654883840/AhgzCQpg_normal.jpg"
         },
         "core": {
             "created_at": "Sun Feb 12 06:08:32 +0000 2017",
-            "name": "白巧曲奇（避难所频道）",
-            "screen_name": "CcZh2zr"
+            "name": "地铁十号线",
+            "screen_name": "ixtHRc75R7MTBYf"
         },
         "dm_permissions": {
             "can_dm": true
@@ -73,7 +73,7 @@
             "category": []
         },
         "privacy": {
-            "protected": false
+            "protected": true
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -87,7 +87,7 @@
         },
         "twe_private_fields": {
             "created_at": 1486879712000,
-            "updated_at": 1750232264361
+            "updated_at": 1752846618931
         }
     }
 }

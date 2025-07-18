@@ -1,31 +1,43 @@
 {
     "id": "1334486452705615874",
     "screen_name": "Johnhana608",
-    "name": "3310（今天买到mate70rs了吗）",
+    "name": "3310（网络乞讨中）",
     "description": "“去相信吧！你最后一定会为人所爱！”",
-    "location": "Niigata City Chuo Ward",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889396470899765248/v-LXjxiO_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1334486452705615874/1727802339",
-    "followers_count": 318,
-    "statuses_count": 6784,
-    "favourites_count": 27271,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1334486452705615874/1748113183",
+    "followers_count": 356,
+    "friends_count": 3188,
+    "statuses_count": 9334,
+    "favourites_count": 35606,
     "listed_count": 1,
+    "location": "Niigata City Chuo Ward",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2020-12-03 21:15:54 +08:00",
     "url": "https://twitter.com/Johnhana608",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzM0NDg2NDUyNzA1NjE1ODc0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1889396470899765248/v-LXjxiO_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Dec 03 13:15:54 +0000 2020",
+            "name": "3310（网络乞讨中）",
+            "screen_name": "Johnhana608"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,20 +46,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3056,
+            "friends_count": 3188,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 558,
+            "media_count": 637,
             "pinned_tweet_ids_str": [
                 "1759212579078213920"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Niigata City Chuo Ward"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1608659918814588928",
             "professional_type": "Creator",
@@ -59,12 +78,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1607001354000,
-            "updated_at": 1744350061929
+            "updated_at": 1752846555811
         }
     }
 }

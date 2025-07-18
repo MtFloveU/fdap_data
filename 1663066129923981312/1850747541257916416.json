@@ -2,30 +2,42 @@
     "id": "1850747541257916416",
     "screen_name": "A_Fake_Menma",
     "name": "Unorthodox✝️Angel",
-    "description": "🇨🇳From PRC/2005.11./大学专科生/ISFP/友跨顺男（大抵不会翻🏳️‍⚧）/中文/Eng ok/日本語が分かりません/头像带旭日旗的滚开谢谢\n（@TianqiChen666 愿你在另一个世界安好）",
-    "location": "未知之地",
+    "description": "🇨🇳From PRC/2005.11./大学专科生/ISFP/友跨顺男（大抵不会翻🏳️‍⚧）/中文/Eng ok/日本語が分かりません/头像带旭日旗的滚开谢谢\n（@TianqiChen666 & @LCG_Akiball愿你在另一个世界安好）",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1904678308488634372/Cbh8mYpH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850747541257916416/1740586726",
-    "followers_count": 388,
-    "statuses_count": 4282,
-    "favourites_count": 5087,
-    "listed_count": 1,
+    "followers_count": 397,
+    "friends_count": 364,
+    "statuses_count": 4774,
+    "favourites_count": 5307,
+    "listed_count": 0,
+    "location": "未知之地",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-10-28 11:53:08 +08:00",
     "url": "https://twitter.com/A_Fake_Menma",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODUwNzQ3NTQxMjU3OTE2NDE2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1904678308488634372/Cbh8mYpH_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Oct 28 03:53:08 +0000 2024",
+            "name": "Unorthodox✝️Angel",
+            "screen_name": "A_Fake_Menma"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 351,
+            "friends_count": 364,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 185,
+            "media_count": 204,
             "pinned_tweet_ids_str": [
                 "1904476676651888797"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "未知之地"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1730087588000,
-            "updated_at": 1744350083621
+            "updated_at": 1752846614298
         }
     }
 }

@@ -2,15 +2,15 @@
     "id": "1819944260239851520",
     "screen_name": "Alice14_88",
     "name": "⸸𝔄𝔩𝔦𝔠𝔢⸸",
-    "description": "生者必滅",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1934107666466648064/L-48jTh8_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819944260239851520/1749789462",
-    "followers_count": 1667,
-    "friends_count": 2328,
-    "statuses_count": 13459,
-    "favourites_count": 30744,
-    "listed_count": 5,
-    "location": "桜高軽音部",
+    "description": "我们会在那个没有罪孽的世界",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1944352844791853056/GrYqPLyQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819944260239851520/1752548316",
+    "followers_count": 1737,
+    "friends_count": 2459,
+    "statuses_count": 14481,
+    "favourites_count": 33666,
+    "listed_count": 7,
+    "location": "Lifelover",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -26,7 +26,7 @@
         "id": "VXNlcjoxODE5OTQ0MjYwMjM5ODUxNTIw",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1934107666466648064/L-48jTh8_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1944352844791853056/GrYqPLyQ_normal.jpg"
         },
         "core": {
             "created_at": "Sun Aug 04 03:51:46 +0000 2024",
@@ -46,11 +46,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2328,
+            "friends_count": 2459,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1127,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1184,
+            "pinned_tweet_ids_str": [
+                "1893208949001789801"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -58,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "桜高軽音部"
+            "location": "Lifelover"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -78,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1722743506000,
-            "updated_at": 1750232262453
+            "updated_at": 1752846617121
         }
     }
 }

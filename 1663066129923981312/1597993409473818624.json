@@ -1,16 +1,16 @@
 {
     "id": "1597993409473818624",
     "screen_name": "KomeijiKoishi_1",
-    "name": "Matsuzaka Satou",
+    "name": "Satou🎀",
     "description": "而我仍梦到他踏着草地/在露水中飘飘荡荡行走/让我的欢歌轻易刺透",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1858998583766437888/VYsBeZ1a_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597993409473818624/1690311266",
     "followers_count": 731,
-    "friends_count": 604,
-    "statuses_count": 2909,
-    "favourites_count": 9575,
+    "friends_count": 612,
+    "statuses_count": 2921,
+    "favourites_count": 9701,
     "listed_count": 2,
-    "location": "Avernus",
+    "location": "Barovia",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,8 +18,8 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "protected": false,
+    "created_at": "2022-12-01 00:38:25 +08:00",
     "url": "https://twitter.com/KomeijiKoishi_1",
     "metadata": {
         "__typename": "User",
@@ -60,7 +60,7 @@
         },
         "core": {
             "created_at": "Wed Nov 30 16:38:25 +0000 2022",
-            "name": "Matsuzaka Satou",
+            "name": "Satou🎀",
             "screen_name": "KomeijiKoishi_1"
         },
         "dm_permissions": {
@@ -76,10 +76,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 604,
+            "friends_count": 612,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 247,
+            "media_count": 249,
             "pinned_tweet_ids_str": [
                 "1810255962789593353"
             ],
@@ -90,7 +90,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "Avernus"
+            "location": "Barovia"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -103,7 +103,7 @@
             "category": []
         },
         "privacy": {
-            "protected": true
+            "protected": false
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -114,8 +114,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219065464
+            "created_at": 1669826305000,
+            "updated_at": 1752846616262
         }
     }
 }

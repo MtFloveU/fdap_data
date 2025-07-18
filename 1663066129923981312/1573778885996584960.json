@@ -2,13 +2,13 @@
     "id": "1573778885996584960",
     "screen_name": "altaz_0",
     "name": "altaz",
-    "description": "会喵喵叫的小狐狸｜04年无证含糖mtf🏳️‍⚧️｜是xyn喵🍥｜gaht:1723106454｜姛｜intp-t｜扭曲阴暗双相地雷妹｜Engimeowing Science｜持证电工（高低压）｜刷新点：成都/oxford｜最爱的虾喵：@xiaxiamiao｜妹妹：@shenyuebanran｜欢迎多多交流喵~",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1906992291119529984/57MTjdlv_normal.jpg",
+    "description": "会喵喵叫的小狐狸｜🍥04年无证含糖mtf🏳️‍⚧️｜gaht:1723106454｜姛｜intp-t｜扭曲阴暗双相地雷妹｜Engimeowing Science｜持证电工（高低压）｜刷新点：成都/oxford｜最爱的虾喵：@xiaxiamiao｜妹妹：@shenyuebanran｜欢迎多多交流喵~",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1942862174491402240/Qq6L4sKr_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573778885996584960/1746384922",
-    "followers_count": 943,
-    "friends_count": 1604,
-    "statuses_count": 903,
-    "favourites_count": 96729,
+    "followers_count": 1122,
+    "friends_count": 1694,
+    "statuses_count": 1008,
+    "favourites_count": 102395,
     "listed_count": 5,
     "location": "10.10.0.10",
     "website": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-09-25 04:59:51 +08:00",
     "url": "https://twitter.com/altaz_0",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTczNzc4ODg1OTk2NTg0OTYw",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1906992291119529984/57MTjdlv_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1942862174491402240/Qq6L4sKr_normal.jpg"
         },
         "core": {
             "created_at": "Sat Sep 24 20:59:51 +0000 2022",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1604,
+            "friends_count": 1694,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 84,
+            "media_count": 91,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -77,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219062663
+            "created_at": 1664053191000,
+            "updated_at": 1752846612950
         }
     }
 }

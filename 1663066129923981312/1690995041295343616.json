@@ -2,14 +2,14 @@
     "id": "1690995041295343616",
     "screen_name": "Tairitsu_sgS0",
     "name": "貓與鯊",
-    "description": "此处只剩下一条小鲨鱼\n猫猫在这里@littletairitsu",
+    "description": "鍵盤bを越えし我らが神聖なる🦍を讃えよ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1919284897405173760/k8zrZpGW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690995041295343616/1727095482",
-    "followers_count": 416,
-    "friends_count": 538,
-    "statuses_count": 2837,
-    "favourites_count": 9816,
-    "listed_count": 3,
+    "followers_count": 419,
+    "friends_count": 540,
+    "statuses_count": 2954,
+    "favourites_count": 10629,
+    "listed_count": 1,
     "location": "现实（？）",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-08-14 15:53:48 +08:00",
     "url": "https://twitter.com/Tairitsu_sgS0",
     "metadata": {
         "__typename": "User",
@@ -46,13 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 538,
+            "friends_count": 540,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 471,
-            "pinned_tweet_ids_str": [
-                "1895766828158517629"
-            ],
+            "media_count": 505,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -79,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219068775
+            "created_at": 1691999628000,
+            "updated_at": 1752846618060
         }
     }
 }

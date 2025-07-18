@@ -2,15 +2,15 @@
     "id": "1840634278427889664",
     "screen_name": "DXL_888",
     "name": "滞黑迷因享受者",
-    "description": "一个脱离了趣味 有低级信仰的人",
+    "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1929559885785776128/vQmUwROX_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840634278427889664/1748811288",
-    "followers_count": 1895,
-    "friends_count": 1290,
-    "statuses_count": 1071,
-    "favourites_count": 1361,
-    "listed_count": 7,
-    "location": "日本人学校",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840634278427889664/1752688291",
+    "followers_count": 2128,
+    "friends_count": 1449,
+    "statuses_count": 1321,
+    "favourites_count": 1670,
+    "listed_count": 6,
+    "location": "",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-09-30 14:06:35 +08:00",
     "url": "https://twitter.com/DXL_888",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1290,
+            "friends_count": 1449,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 12,
+            "media_count": 11,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -58,7 +58,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "日本人学校"
+            "location": ""
         },
         "media_permissions": {
             "can_media_tag": false
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219062663
+            "created_at": 1727676395000,
+            "updated_at": 1752846612950
         }
     }
 }

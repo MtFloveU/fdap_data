@@ -1,14 +1,14 @@
 {
     "id": "1154437769596305408",
-    "screen_name": "DorkedPard",
+    "screen_name": "DePantheraUncia",
     "name": "-He11sPike-",
-    "description": "I think we can do it if we tried",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1857163054565441536/UBtBBp9E_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1154437769596305408/1730556505",
-    "followers_count": 117,
-    "friends_count": 3,
-    "statuses_count": 1206,
-    "favourites_count": 1,
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1938588761606230016/YcrcTwmN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1154437769596305408/1751030551",
+    "followers_count": 150,
+    "friends_count": 7232,
+    "statuses_count": 621,
+    "favourites_count": 11201,
     "listed_count": 2,
     "location": "Central Region, Singapore",
     "website": null,
@@ -20,18 +20,18 @@
     "can_dm": true,
     "protected": false,
     "created_at": "2019-07-26 01:06:27 +08:00",
-    "url": "https://twitter.com/DorkedPard",
+    "url": "https://twitter.com/DePantheraUncia",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTU0NDM3NzY5NTk2MzA1NDA4",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1857163054565441536/UBtBBp9E_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1938588761606230016/YcrcTwmN_normal.jpg"
         },
         "core": {
             "created_at": "Thu Jul 25 17:06:27 +0000 2019",
             "name": "-He11sPike-",
-            "screen_name": "DorkedPard"
+            "screen_name": "DePantheraUncia"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3,
+            "friends_count": 7232,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 6,
+            "media_count": 10,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -72,13 +72,15 @@
             "followed_by": true,
             "following": false
         },
-        "tipjar_settings": {},
+        "tipjar_settings": {
+            "is_enabled": false
+        },
         "verification": {
             "verified": false
         },
         "twe_private_fields": {
             "created_at": 1564074387000,
-            "updated_at": 1750232236925
+            "updated_at": 1752846542404
         }
     }
 }

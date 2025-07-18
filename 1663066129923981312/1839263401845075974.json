@@ -1,14 +1,14 @@
 {
     "id": "1839263401845075974",
-    "screen_name": "0NewYowlry",
+    "screen_name": "0Yowlry",
     "name": "Yowlry",
     "description": "私たちは二次元をこれほど熱愛している",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
-    "followers_count": 1594,
-    "friends_count": 2129,
-    "statuses_count": 5325,
-    "favourites_count": 13852,
+    "followers_count": 1731,
+    "friends_count": 2303,
+    "statuses_count": 6742,
+    "favourites_count": 16659,
     "listed_count": 6,
     "location": "Neoaurorium City",
     "website": null,
@@ -20,7 +20,7 @@
     "can_dm": true,
     "protected": false,
     "created_at": "2024-09-26 19:19:31 +08:00",
-    "url": "https://twitter.com/0NewYowlry",
+    "url": "https://twitter.com/0Yowlry",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODM5MjYzNDAxODQ1MDc1OTc0",
@@ -31,7 +31,7 @@
         "core": {
             "created_at": "Thu Sep 26 11:19:31 +0000 2024",
             "name": "Yowlry",
-            "screen_name": "0NewYowlry"
+            "screen_name": "0Yowlry"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,14 +46,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2129,
+            "friends_count": 2303,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 278,
+            "media_count": 289,
             "pinned_tweet_ids_str": [
                 "1895931291142627425"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "want_retweets": true,
@@ -93,7 +93,7 @@
         },
         "twe_private_fields": {
             "created_at": 1727349571000,
-            "updated_at": 1750232257457
+            "updated_at": 1752846595659
         }
     }
 }

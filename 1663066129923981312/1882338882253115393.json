@@ -1,16 +1,16 @@
 {
     "id": "1882338882253115393",
     "screen_name": "Xieshenmone8964",
-    "name": "绵羊酱归来，看虎兔鹿狐互斗瓦解，青青草原随便吃之日终将到来",
-    "description": "乳目之所及 图心之所想 我是绵羊梦女@SHEEPLOVESGRASS",
+    "name": "不是我干的，我不是，我没有",
+    "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1907799390229770242/DQFo7W3Q_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882338882253115393/1745115412",
-    "followers_count": 65,
-    "friends_count": 66,
-    "statuses_count": 14,
-    "favourites_count": 159,
+    "followers_count": 80,
+    "friends_count": 106,
+    "statuses_count": 4,
+    "favourites_count": 456,
     "listed_count": 0,
-    "location": "朝鲜人民共和国",
+    "location": "一直在这里",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,8 +18,8 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "protected": false,
+    "created_at": "2025-01-23 16:05:46 +08:00",
     "url": "https://twitter.com/Xieshenmone8964",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Thu Jan 23 08:05:46 +0000 2025",
-            "name": "绵羊酱归来，看虎兔鹿狐互斗瓦解，青青草原随便吃之日终将到来",
+            "name": "不是我干的，我不是，我没有",
             "screen_name": "Xieshenmone8964"
         },
         "dm_permissions": {
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 66,
+            "friends_count": 106,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1,
+            "media_count": 0,
             "pinned_tweet_ids_str": [
-                "1929448575424958965"
+                "1946204184749154619"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "朝鲜人民共和国"
+            "location": "一直在这里"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -68,7 +68,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "privacy": {
-            "protected": true
+            "protected": false
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1737619546000,
+            "updated_at": 1752846587235
         }
     }
 }

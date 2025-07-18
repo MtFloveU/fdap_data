@@ -2,15 +2,15 @@
     "id": "1632037928791838722",
     "screen_name": "nanaiskami",
     "name": "无糖可乐加冰🧊🥤",
-    "description": "🏳️‍⚧️ | 欢迎互fo | 打工人|常住上海/南京 | 老东西了",
-    "location": "~100m",
+    "description": "🏳️‍⚧️ | 欢迎互fo |04老东西|打工人|常住上海/南京 |",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1846019542902099969/xHBjIF_m_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1632037928791838722/1698378688",
-    "followers_count": 138,
-    "friends_count": 327,
-    "statuses_count": 299,
-    "favourites_count": 642,
+    "followers_count": 188,
+    "friends_count": 403,
+    "statuses_count": 500,
+    "favourites_count": 1309,
     "listed_count": 1,
+    "location": "~100m",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
+    "protected": false,
     "created_at": "2023-03-04 23:19:09 +08:00",
     "url": "https://twitter.com/nanaiskami",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjMyMDM3OTI4NzkxODM4NzIy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1846019542902099969/xHBjIF_m_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Mar 04 15:19:09 +0000 2023",
+            "name": "无糖可乐加冰🧊🥤",
+            "screen_name": "nanaiskami"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,17 +46,22 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 327,
+            "friends_count": 403,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 26,
+            "media_count": 62,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "~100m"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -62,10 +76,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1677943149000,
-            "updated_at": 1746277401156
+            "updated_at": 1752846612950
         }
     }
 }

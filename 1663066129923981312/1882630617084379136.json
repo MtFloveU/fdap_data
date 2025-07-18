@@ -2,13 +2,13 @@
     "id": "1882630617084379136",
     "screen_name": "XiMaoMao630244",
     "name": "小翌同学（二代目）🎉🎊✨",
-    "description": "一代目@y6302448844989，情绪状态随机。(暂时离线)",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1895743063693094912/o-eQp_Vp_normal.jpg",
+    "description": "一代目@xiaoyitongxueai。我是傻吊不要和我聊天，我不会聊天谢谢😅。除了打点破游戏其它都不会，不聊政治谢谢",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1937506722068987909/Q8nDL1Nl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882630617084379136/1737689472",
-    "followers_count": 386,
-    "friends_count": 866,
-    "statuses_count": 663,
-    "favourites_count": 1807,
+    "followers_count": 487,
+    "friends_count": 1025,
+    "statuses_count": 760,
+    "favourites_count": 2183,
     "listed_count": 1,
     "location": "",
     "website": "https://t.co/usijwP8MoT",
@@ -18,15 +18,15 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "protected": true,
+    "created_at": "2025-01-24 11:25:06 +08:00",
     "url": "https://twitter.com/XiMaoMao630244",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODgyNjMwNjE3MDg0Mzc5MTM2",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1895743063693094912/o-eQp_Vp_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1937506722068987909/Q8nDL1Nl_normal.jpg"
         },
         "core": {
             "created_at": "Fri Jan 24 03:25:06 +0000 2025",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 866,
+            "friends_count": 1025,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 47,
+            "media_count": 52,
             "pinned_tweet_ids_str": [
                 "1898655494320824536"
             ],
@@ -93,7 +93,7 @@
             ]
         },
         "privacy": {
-            "protected": false
+            "protected": true
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -106,8 +106,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219060359
+            "created_at": 1737689106000,
+            "updated_at": 1752846592776
         }
     }
 }

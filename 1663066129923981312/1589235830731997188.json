@@ -1,0 +1,100 @@
+{
+    "id": "1589235830731997188",
+    "screen_name": "PWaterawa",
+    "name": "汐汐",
+    "description": "为何而可爱?为何而残酷?\n因爱因恶\n爱为何物?恶为何物?\n不知不知\nPS.会回fo",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 203,
+    "friends_count": 715,
+    "statuses_count": 1201,
+    "favourites_count": 1162,
+    "listed_count": 0,
+    "location": "可爱的世界~也是残酷的世界…",
+    "website": "https://t.co/alRx9jSJdp",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2022-11-06 20:38:50 +08:00",
+    "url": "https://twitter.com/PWaterawa",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNTg5MjM1ODMwNzMxOTk3MTg4",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Nov 06 12:38:50 +0000 2022",
+            "name": "汐汐",
+            "screen_name": "PWaterawa"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "helloworld.com",
+                            "expanded_url": "http://helloworld.com",
+                            "url": "https://t.co/alRx9jSJdp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 715,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 17,
+            "pinned_tweet_ids_str": [
+                "1917968098625548312"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/alRx9jSJdp",
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "可爱的世界~也是残酷的世界…"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1667738330000,
+            "updated_at": 1752846528414
+        }
+    }
+}

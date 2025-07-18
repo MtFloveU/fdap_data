@@ -1,0 +1,102 @@
+{
+    "id": "1488080791125237760",
+    "screen_name": "MengXi969",
+    "name": "梦溪MengXi",
+    "description": "14 y.r. / A Software Engineer, Web / CTFer / zh_CN & en_UK  / Middle School Student / Nexaorion & LightXi Inc.\n👉The funder of @nexaorion",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1639818034406907904/P_yUZofL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488080791125237760/1688365670",
+    "followers_count": 482,
+    "friends_count": 1292,
+    "statuses_count": 1754,
+    "favourites_count": 26974,
+    "listed_count": 0,
+    "location": "People's Republic of China",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2022-01-31 17:25:09 +08:00",
+    "url": "https://twitter.com/MengXi969",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNDg4MDgwNzkxMTI1MjM3NzYw",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1639818034406907904/P_yUZofL_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Jan 31 09:25:09 +0000 2022",
+            "name": "梦溪MengXi",
+            "screen_name": "MengXi969"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1292,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 249,
+            "pinned_tweet_ids_str": [
+                "1853441796048814491"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "People's Republic of China"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1540617321412055041",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 713,
+                    "name": "Science & Technology",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
+        "tipjar_settings": {
+            "is_enabled": true,
+            "bitcoin_handle": "16LM2JKgz59gTdWYu1UM8JNXbxQseaS5eA",
+            "ethereum_handle": "0x3f9164b326c6b1496ad2dcbea2d1fd84e4ad7eec",
+            "patreon_handle": "MengXi"
+        },
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1643621109000,
+            "updated_at": 1752846528414
+        }
+    }
+}

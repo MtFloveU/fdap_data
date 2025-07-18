@@ -2,13 +2,13 @@
     "id": "1578699986065248256",
     "screen_name": "Frieastarsea",
     "name": "ℱ𝓇𝒾ℯ𝒶𝒮𝓉𝒶𝓇𝓈ℯ𝒶🌌",
-    "description": "豐川祥子",
+    "description": "豐川祥子bot",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1934940531643273216/CHFc3eap_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1578699986065248256/1750160727",
-    "followers_count": 1039,
-    "friends_count": 1090,
-    "statuses_count": 8813,
-    "favourites_count": 10039,
+    "followers_count": 1029,
+    "friends_count": 1089,
+    "statuses_count": 8950,
+    "favourites_count": 10083,
     "listed_count": 4,
     "location": "星海",
     "website": null,
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1090,
+            "friends_count": 1089,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1289,
+            "media_count": 1297,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -83,7 +83,7 @@
         },
         "twe_private_fields": {
             "created_at": 1665226403000,
-            "updated_at": 1750232265295
+            "updated_at": 1752846618931
         }
     }
 }

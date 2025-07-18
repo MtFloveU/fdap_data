@@ -1,31 +1,43 @@
 {
     "id": "1676500088221478912",
     "screen_name": "DOGYeah3376",
-    "name": "小皮",
-    "description": "忘记写简介了 于是打算不写",
-    "location": "Utopia",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676500088221478912/1740910514",
-    "followers_count": 61,
-    "statuses_count": 122,
-    "favourites_count": 2186,
+    "name": "小皮🍥",
+    "description": "无证含糖mtx 自伤 od 互fo（没看到的戳我一下好了） 最好的妹妹@xiaoyieQAQ 谢谢你的关注😉",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 181,
+    "friends_count": 428,
+    "statuses_count": 557,
+    "favourites_count": 16794,
     "listed_count": 0,
+    "location": "Utopia",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-07-05 15:55:57 +08:00",
     "url": "https://twitter.com/DOGYeah3376",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjc2NTAwMDg4MjIxNDc4OTEy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Jul 05 07:55:57 +0000 2023",
+            "name": "小皮🍥",
+            "screen_name": "DOGYeah3376"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 171,
+            "friends_count": 428,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 5,
+            "media_count": 15,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Utopia"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1688543757000,
-            "updated_at": 1744350076462
+            "updated_at": 1752846589901
         }
     }
 }

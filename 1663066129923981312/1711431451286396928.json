@@ -1,14 +1,14 @@
 {
     "id": "1711431451286396928",
-    "screen_name": "ikukou__",
-    "name": "盐酸白粥缓释片",
+    "screen_name": "kagurazakahyoto",
+    "name": "神楽坂 白粥",
     "description": "明天见",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1933882193358782464/yOFS-Amt_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1939546433222488064/3b1dY0Ps_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711431451286396928/1730617163",
-    "followers_count": 83,
-    "friends_count": 98,
-    "statuses_count": 1795,
-    "favourites_count": 6771,
+    "followers_count": 86,
+    "friends_count": 105,
+    "statuses_count": 1807,
+    "favourites_count": 6801,
     "listed_count": 1,
     "location": "上海市自来水厂",
     "website": null,
@@ -20,7 +20,7 @@
     "can_dm": true,
     "protected": true,
     "created_at": "2023-10-10 01:20:41 +08:00",
-    "url": "https://twitter.com/ikukou__",
+    "url": "https://twitter.com/kagurazakahyoto",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzExNDMxNDUxMjg2Mzk2OTI4",
@@ -54,12 +54,12 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1933882193358782464/yOFS-Amt_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1939546433222488064/3b1dY0Ps_normal.jpg"
         },
         "core": {
             "created_at": "Mon Oct 09 17:20:41 +0000 2023",
-            "name": "盐酸白粥缓释片",
-            "screen_name": "ikukou__"
+            "name": "神楽坂 白粥",
+            "screen_name": "kagurazakahyoto"
         },
         "dm_permissions": {
             "can_dm": true
@@ -74,10 +74,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 98,
+            "friends_count": 105,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 311,
+            "media_count": 319,
             "pinned_tweet_ids_str": [
                 "1872734137263767723"
             ],
@@ -119,7 +119,7 @@
         },
         "twe_private_fields": {
             "created_at": 1696872041000,
-            "updated_at": 1750232260551
+            "updated_at": 1752846614298
         }
     }
 }

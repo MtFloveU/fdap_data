@@ -2,28 +2,42 @@
     "id": "1865040323899998208",
     "screen_name": "irohalanzeguang",
     "name": "坂下星川蓝泽光",
-    "description": "🇰🇵\n🤚😭🤚\n小号@ruoyemu64",
-    "location": "天堂or地狱",
+    "description": "🇰🇵\n🤚😭🤚",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1885343937789124609/-zleKXqt_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865040323899998208/1734008464",
-    "followers_count": 952,
-    "statuses_count": 3140,
-    "favourites_count": 25235,
-    "listed_count": 2,
+    "followers_count": 1112,
+    "friends_count": 1176,
+    "statuses_count": 4359,
+    "favourites_count": 34179,
+    "listed_count": 4,
+    "location": "天堂or地狱",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-12-06 22:27:35 +08:00",
     "url": "https://twitter.com/irohalanzeguang",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODY1MDQwMzIzODk5OTk4MjA4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1885343937789124609/-zleKXqt_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Dec 06 14:27:35 +0000 2024",
+            "name": "坂下星川蓝泽光",
+            "screen_name": "irohalanzeguang"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,21 +46,26 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1077,
+            "friends_count": 1176,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 98,
+            "media_count": 123,
             "pinned_tweet_ids_str": [
                 "1867194505067417803"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "parody_commentary_fan_label": "Parody",
+        "location": {
+            "location": "天堂or地狱"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "Fan",
         "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1894705049101590925",
@@ -59,10 +78,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1733495255000,
-            "updated_at": 1746077175503
+            "updated_at": 1752846614297
         }
     }
 }

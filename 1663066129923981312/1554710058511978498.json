@@ -1,31 +1,43 @@
 {
     "id": "1554710058511978498",
     "screen_name": "MinurFur",
-    "name": "Minur🔜FRC 2024",
+    "name": "Minur_",
     "description": "『枫林醉染红尘梦，零散花影映清风』\nFurry | INFP-T | 普普通通的国际生 | English/中文 | programming | ❤️",
-    "location": "深圳",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1806679647708663808/mVdFPYci_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554710058511978498/1688869392",
-    "followers_count": 598,
-    "statuses_count": 908,
-    "favourites_count": 3930,
+    "followers_count": 591,
+    "friends_count": 600,
+    "statuses_count": 910,
+    "favourites_count": 3885,
     "listed_count": 2,
+    "location": "深圳",
+    "website": "https://t.co/4drsGFVgVC",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-08-03 14:05:47 +08:00",
     "url": "https://twitter.com/MinurFur",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTU0NzEwMDU4NTExOTc4NDk4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1806679647708663808/mVdFPYci_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Aug 03 06:05:47 +0000 2022",
+            "name": "Minur_",
+            "screen_name": "MinurFur"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 595,
+            "friends_count": 600,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 46,
+            "media_count": 47,
             "pinned_tweet_ids_str": [
                 "1790645674327101796"
             ],
@@ -58,14 +70,31 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/4drsGFVgVC",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "深圳"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1659506747000,
-            "updated_at": 1744350057958
+            "updated_at": 1752846554868
         }
     }
 }

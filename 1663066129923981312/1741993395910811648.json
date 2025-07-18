@@ -2,16 +2,16 @@
     "id": "1741993395910811648",
     "screen_name": "AnIncandescence",
     "name": "炽烈已极",
-    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | ⚠️目前没有售卖的商品",
+    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741993395910811648/1720619087",
-    "followers_count": 975,
-    "friends_count": 191,
-    "statuses_count": 2901,
-    "favourites_count": 8204,
+    "followers_count": 1066,
+    "friends_count": 203,
+    "statuses_count": 3253,
+    "favourites_count": 9059,
     "listed_count": 1,
     "location": "天鹅座X-1",
-    "website": "https://t.co/MuEKSg3VTk",
+    "website": "https://t.co/MuEKSg4tIS",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-01-02 09:22:57 +08:00",
     "url": "https://twitter.com/AnIncandescence",
     "metadata": {
         "__typename": "User",
@@ -49,7 +49,7 @@
                         {
                             "display_url": "ngl.link/anincandescence",
                             "expanded_url": "https://ngl.link/anincandescence",
-                            "url": "https://t.co/MuEKSg3VTk",
+                            "url": "https://t.co/MuEKSg4tIS",
                             "indices": [
                                 0,
                                 23
@@ -59,15 +59,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 191,
+            "friends_count": 203,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 596,
-            "pinned_tweet_ids_str": [],
+            "media_count": 664,
+            "pinned_tweet_ids_str": [
+                "1946071497279410611"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/MuEKSg3VTk",
+            "url": "https://t.co/MuEKSg4tIS",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -93,8 +95,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219069841
+            "created_at": 1704158577000,
+            "updated_at": 1752846618931
         }
     }
 }

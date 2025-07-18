@@ -2,30 +2,42 @@
     "id": "952681503862882304",
     "screen_name": "Miapanpanpan",
     "name": "哇哦 Mia",
-    "description": "MTF/大龄/🏳️‍⚧️ 又HRT 2024.04.11/欢迎互fo",
-    "location": "",
+    "description": "MTF/大龄/欢迎互fo",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1410794049397661697/M6Tg3wk1_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/952681503862882304/1723424067",
-    "followers_count": 2594,
-    "statuses_count": 3183,
-    "favourites_count": 3958,
-    "listed_count": 5,
+    "followers_count": 3780,
+    "friends_count": 508,
+    "statuses_count": 4319,
+    "favourites_count": 5341,
+    "listed_count": 9,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2018-01-15 07:19:05 +08:00",
     "url": "https://twitter.com/Miapanpanpan",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjo5NTI2ODE1MDM4NjI4ODIzMDQ=",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1410794049397661697/M6Tg3wk1_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jan 14 23:19:05 +0000 2018",
+            "name": "哇哦 Mia",
+            "screen_name": "Miapanpanpan"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 488,
+            "friends_count": 508,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 131,
+            "media_count": 188,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1515971945000,
-            "updated_at": 1744350094638
+            "updated_at": 1752846618931
         }
     }
 }

@@ -5,12 +5,12 @@
     "description": "最喜欢的推主是 @umichen0502324",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906343686289678336/ZKab83IO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1423220645383475200/1741170240",
-    "followers_count": 1353,
-    "friends_count": 1007,
-    "statuses_count": 18697,
-    "favourites_count": 15558,
-    "listed_count": 4,
-    "location": "未被创造出的，存在真实初音未来的世界",
+    "followers_count": 937,
+    "friends_count": 895,
+    "statuses_count": 19501,
+    "favourites_count": 17230,
+    "listed_count": 3,
+    "location": "1",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2021-08-05 17:53:54 +08:00",
     "url": "https://twitter.com/sysjf0",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1007,
+            "friends_count": 895,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1260,
+            "media_count": 1363,
             "pinned_tweet_ids_str": [
                 "1862539669592031578"
             ],
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "未被创造出的，存在真实初音未来的世界"
+            "location": "1"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219072953
+            "created_at": 1628157234000,
+            "updated_at": 1752846621551
         }
     }
 }

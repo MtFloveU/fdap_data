@@ -1,30 +1,43 @@
 {
     "id": "1202596674767425543",
     "screen_name": "Tabunkaede",
-    "name": "🍁多分、楓🐬",
-    "description": "静默中",
-    "location": "宇宙誕生時的餘暉",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1857841146464186368/d-NrkXwa_normal.jpg",
+    "name": "🍁多分、楓💊",
+    "description": "Rebirth?",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1944325277733007360/Z7DRSVYt_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1202596674767425543/1720813112",
-    "followers_count": 540,
-    "statuses_count": 2676,
-    "favourites_count": 33578,
+    "followers_count": 522,
+    "friends_count": 601,
+    "statuses_count": 2660,
+    "favourites_count": 33232,
     "listed_count": 2,
+    "location": "宇宙誕生時的餘暉",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2019-12-05 22:32:53 +08:00",
     "url": "https://twitter.com/Tabunkaede",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjAyNTk2Njc0NzY3NDI1NTQz",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1944325277733007360/Z7DRSVYt_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Dec 05 14:32:53 +0000 2019",
+            "name": "🍁多分、楓💊",
+            "screen_name": "Tabunkaede"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 620,
+            "friends_count": 601,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 288,
+            "media_count": 281,
             "pinned_tweet_ids_str": [
                 "1906225079987707940"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "宇宙誕生時的餘暉"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -60,12 +78,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1575556373000,
-            "updated_at": 1746077187244
+            "updated_at": 1752846622590
         }
     }
 }

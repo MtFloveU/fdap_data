@@ -1,14 +1,14 @@
 {
     "id": "1910137141570740225",
-    "screen_name": "AsabaLazy233",
+    "screen_name": "AsabaLazySSR",
     "name": "AsabaLazy⭐️",
-    "description": "这里是洛洛｜长存不灭的过去、逐渐消逝的未来",
+    "description": "洛｜长存不灭的过去、逐渐消逝的未来",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1929406731278589952/R_xVLztV_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910137141570740225/1748995737",
-    "followers_count": 173,
-    "friends_count": 178,
-    "statuses_count": 1212,
-    "favourites_count": 7665,
+    "followers_count": 156,
+    "friends_count": 186,
+    "statuses_count": 1780,
+    "favourites_count": 9544,
     "listed_count": 0,
     "location": "地球",
     "website": null,
@@ -18,9 +18,9 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/AsabaLazy233",
+    "protected": true,
+    "created_at": "2025-04-10 09:06:09 +08:00",
+    "url": "https://twitter.com/AsabaLazySSR",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxOTEwMTM3MTQxNTcwNzQwMjI1",
@@ -31,7 +31,7 @@
         "core": {
             "created_at": "Thu Apr 10 01:06:09 +0000 2025",
             "name": "AsabaLazy⭐️",
-            "screen_name": "AsabaLazy233"
+            "screen_name": "AsabaLazySSR"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 178,
+            "friends_count": 186,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 19,
+            "media_count": 36,
             "pinned_tweet_ids_str": [
                 "1928500024671089032"
             ],
@@ -68,7 +68,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "privacy": {
-            "protected": false
+            "protected": true
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1744247169000,
+            "updated_at": 1752846589901
         }
     }
 }

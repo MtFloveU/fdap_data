@@ -1,14 +1,14 @@
 {
     "id": "1512771023518957575",
     "screen_name": "keer12343",
-    "name": "纯情甜美咸鸭蛋（抠腚怒闻手版）",
+    "name": "我踏马明年高考",
     "description": "互联网冲浪达人 无🚪可自取联系方式，高二在校 167cm/48kg 上推纯发泄 偶尔讲故事，头像名字多变，认准本人标痔 。电报群进群不收费，群内不定期更新福利。常常思考怎么才能让自己火起来",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1879511066293440512/UF9QplNB_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512771023518957575/1649507950",
-    "followers_count": 935,
-    "friends_count": 538,
-    "statuses_count": 489,
-    "favourites_count": 685,
+    "followers_count": 1029,
+    "friends_count": 548,
+    "statuses_count": 510,
+    "favourites_count": 710,
     "listed_count": 2,
     "location": "",
     "website": "https://t.co/ujnKG6uj6z",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-04-09 20:35:07 +08:00",
     "url": "https://twitter.com/keer12343",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat Apr 09 12:35:07 +0000 2022",
-            "name": "纯情甜美咸鸭蛋（抠腚怒闻手版）",
+            "name": "我踏马明年高考",
             "screen_name": "keer12343"
         },
         "dm_permissions": {
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 538,
+            "friends_count": 548,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 103,
+            "media_count": 107,
             "pinned_tweet_ids_str": [
                 "1884962986197942350"
             ],
@@ -93,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219032940
+            "created_at": 1649507707000,
+            "updated_at": 1752846537498
         }
     }
 }

@@ -1,15 +1,15 @@
 {
     "id": "1916005601563590656",
     "screen_name": "Qiongli_BAKA",
-    "name": "穹璃（无法弥补）🏳️‍⚧️🍥",
+    "name": "穹…璃…？",
     "description": "@QiongliBAKA前代账号",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916005721982009344/1iGJn7lC_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916005601563590656/1745646633",
-    "followers_count": 400,
-    "friends_count": 414,
-    "statuses_count": 151,
-    "favourites_count": 1009,
-    "listed_count": 1,
+    "followers_count": 519,
+    "friends_count": 540,
+    "statuses_count": 340,
+    "favourites_count": 1824,
+    "listed_count": 3,
     "location": "fufu头顶",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2025-04-26 13:45:16 +08:00",
     "url": "https://twitter.com/Qiongli_BAKA",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat Apr 26 05:45:16 +0000 2025",
-            "name": "穹璃（无法弥补）🏳️‍⚧️🍥",
+            "name": "穹…璃…？",
             "screen_name": "Qiongli_BAKA"
         },
         "dm_permissions": {
@@ -46,13 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 414,
+            "friends_count": 540,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 7,
-            "pinned_tweet_ids_str": [
-                "1927721818447601689"
-            ],
+            "media_count": 58,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -81,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+            "created_at": 1745646316000,
+            "updated_at": 1752846587235
         }
     }
 }

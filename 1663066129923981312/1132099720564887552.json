@@ -2,13 +2,13 @@
     "id": "1132099720564887552",
     "screen_name": "anyneko_",
     "name": "北桥星子",
-    "description": "任意猫,18,She/Her. / @ZaindORp /@KitahasiKawa / @Skynext_China / '愿你幸福而自由.",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1826940856261324800/eGHT1hTm_normal.jpg",
+    "description": "任意猫,19,She/Her. / @ZaindORp /@KitahasiKawa / @Skynext_China / '愿你幸福而自由.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933893203125805056/LlsffB9o_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132099720564887552/1748029227",
-    "followers_count": 8317,
-    "friends_count": 2288,
-    "statuses_count": 8192,
-    "favourites_count": 109618,
+    "followers_count": 8391,
+    "friends_count": 2294,
+    "statuses_count": 8230,
+    "favourites_count": 110606,
     "listed_count": 25,
     "location": "语烟谷设计院",
     "website": "https://t.co/kekCWTVvYT",
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2019-05-25 09:43:01 +08:00",
     "url": "https://twitter.com/anyneko_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTMyMDk5NzIwNTY0ODg3NTUy",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1826940856261324800/eGHT1hTm_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1933893203125805056/LlsffB9o_normal.jpg"
         },
         "core": {
             "created_at": "Sat May 25 01:43:01 +0000 2019",
@@ -59,7 +59,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2288,
+            "friends_count": 2294,
             "has_custom_timelines": true,
             "is_translator": false,
             "media_count": 755,
@@ -108,8 +108,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219071821
+            "created_at": 1558748581000,
+            "updated_at": 1752846620643
         }
     }
 }

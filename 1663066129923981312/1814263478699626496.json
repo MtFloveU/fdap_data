@@ -2,14 +2,14 @@
     "id": "1814263478699626496",
     "screen_name": "PomeloSoda_OvO",
     "name": "柚子气泡水🍒",
-    "description": "もっと可愛くなりたいな～✨|🚪128r＝好友位和电报福利小群🍰 ，喜欢的可以投喂主播哦🍦| 被夸可爱会很开心🍧，谢谢大家的喜欢喵❤️",
+    "description": "もっと可愛くなりたいな～✨| 好友位🚪88r（置顶赞赏码+备注vx号哦，喜欢的可以投喂主播）| 不卖图包，不线下！只希望能给大家拍更多涩涩的照片～ | 被夸可爱会很开心🍧，谢谢大家的喜欢喵❤️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1922695378710953985/GJU9Cfwk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814263478699626496/1737014071",
-    "followers_count": 51333,
-    "friends_count": 129,
-    "statuses_count": 475,
-    "favourites_count": 1974,
-    "listed_count": 120,
+    "followers_count": 62692,
+    "friends_count": 131,
+    "statuses_count": 543,
+    "favourites_count": 2167,
+    "listed_count": 157,
     "location": "在睡觉喵💤",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-07-19 19:38:39 +08:00",
     "url": "https://twitter.com/PomeloSoda_OvO",
     "metadata": {
         "__typename": "User",
@@ -46,14 +46,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 129,
+            "friends_count": 131,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 33,
+            "media_count": 44,
             "pinned_tweet_ids_str": [
                 "1926868841839124905"
             ],
-            "possibly_sensitive": false,
+            "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "want_retweets": true,
@@ -63,7 +63,7 @@
             "location": "在睡觉喵💤"
         },
         "media_permissions": {
-            "can_media_tag": true
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -81,8 +81,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219074028
+            "created_at": 1721389119000,
+            "updated_at": 1752846623602
         }
     }
 }

@@ -2,13 +2,13 @@
     "id": "1827938552673386496",
     "screen_name": "Linler_sa",
     "name": "淋纱🍥",
-    "description": "人妖/定位安徽巢湖",
+    "description": "定位安徽巢湖",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1827941954279075840/zY2JnwY-_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827938552673386496/1724650315",
-    "followers_count": 389,
-    "friends_count": 259,
-    "statuses_count": 838,
-    "favourites_count": 1322,
+    "followers_count": 391,
+    "friends_count": 266,
+    "statuses_count": 877,
+    "favourites_count": 1383,
     "listed_count": 1,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-08-26 13:18:15 +08:00",
     "url": "https://twitter.com/Linler_sa",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 259,
+            "friends_count": 266,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 90,
+            "media_count": 91,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -77,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219063571
+            "created_at": 1724649495000,
+            "updated_at": 1752846612950
         }
     }
 }

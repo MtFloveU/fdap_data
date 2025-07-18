@@ -1,0 +1,86 @@
+{
+    "id": "1718158034638368768",
+    "screen_name": "BCA207091169457",
+    "name": "风笠翁",
+    "description": "【MTX】02  |  考研二战失败的傻子，三战中 | 这里留着我的碎碎念",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1942337228103114753/pOV1cFSK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718158034638368768/1751733079",
+    "followers_count": 20,
+    "friends_count": 238,
+    "statuses_count": 65,
+    "favourites_count": 232,
+    "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2023-10-28 14:49:46 +08:00",
+    "url": "https://twitter.com/BCA207091169457",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzE4MTU4MDM0NjM4MzY4NzY4",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1942337228103114753/pOV1cFSK_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Oct 28 06:49:46 +0000 2023",
+            "name": "风笠翁",
+            "screen_name": "BCA207091169457"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 238,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 10,
+            "pinned_tweet_ids_str": [
+                "1942141420560908358"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1698475786000,
+            "updated_at": 1752846528414
+        }
+    }
+}

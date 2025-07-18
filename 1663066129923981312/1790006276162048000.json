@@ -1,16 +1,16 @@
 {
     "id": "1790006276162048000",
-    "screen_name": "iCosint8964",
+    "screen_name": "iCosint1978",
     "name": "Freunsigned 🇲🇴",
-    "description": "\"纵使萤火微芒，愿汇星河璀璨\" || 现役OIer || ip: Yiwu, Chicago, Hangzhou || 🏳️‍🌈🏳️‍⚧️ || 🇭🇰🇲🇴🇹🇼🇨🇳 || 🇺🇸🇨🇦🇯🇵🇸🇬 || 100% 回fo\nlang: 简中 繁中 English C/C++ Python",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1884908812936916992/61ZB-f2e_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790006276162048000/1741398653",
-    "followers_count": 248,
-    "friends_count": 287,
-    "statuses_count": 509,
-    "favourites_count": 4705,
+    "description": "\"纵使萤火微芒，愿汇星河璀璨\" || 退役OIer || 𝑰 ❤️ 𝑴𝑨𝑪𝑨𝑶. || 🏳️‍🌈🏳️‍⚧️ || 🇭🇰🇲🇴🇨🇳 || 一国两制，和平统一 || 🇺🇸🇨🇦🇯🇵🇸🇬 || 100% 回fo || one China",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1943912291172249600/ssQzwuw9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790006276162048000/1752299783",
+    "followers_count": 283,
+    "friends_count": 326,
+    "statuses_count": 813,
+    "favourites_count": 5463,
     "listed_count": 1,
-    "location": "",
+    "location": "澳门大学 人文社科书院",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -20,18 +20,18 @@
     "can_dm": true,
     "protected": false,
     "created_at": "2024-05-13 21:08:58 +08:00",
-    "url": "https://twitter.com/iCosint8964",
+    "url": "https://twitter.com/iCosint1978",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzkwMDA2Mjc2MTYyMDQ4MDAw",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1884908812936916992/61ZB-f2e_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1943912291172249600/ssQzwuw9_normal.jpg"
         },
         "core": {
             "created_at": "Mon May 13 13:08:58 +0000 2024",
             "name": "Freunsigned 🇲🇴",
-            "screen_name": "iCosint8964"
+            "screen_name": "iCosint1978"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 287,
+            "friends_count": 326,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 42,
+            "media_count": 67,
             "pinned_tweet_ids_str": [
                 "1907798498302636269"
             ],
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": ""
+            "location": "澳门大学 人文社科书院"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -80,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1715605738000,
-            "updated_at": 1750232255807
+            "updated_at": 1752846589901
         }
     }
 }

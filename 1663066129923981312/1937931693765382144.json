@@ -1,0 +1,86 @@
+{
+    "id": "1937931693765382144",
+    "screen_name": "T0rnado_ax",
+    "name": "T0rnado | 暗宵",
+    "description": "@T0rnado_tmp 再世 |\n友🏳️‍⚧️\n政治冷漠\n苦逼高三生\n友善交流谢谢喵😋 | 迪克@JesusS2480",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1938194888002310144/_6-WLI2A_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937931693765382144/1750936368",
+    "followers_count": 26,
+    "friends_count": 73,
+    "statuses_count": 98,
+    "favourites_count": 441,
+    "listed_count": 0,
+    "location": "Nearby",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2025-06-26 01:51:53 +08:00",
+    "url": "https://twitter.com/T0rnado_ax",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxOTM3OTMxNjkzNzY1MzgyMTQ0",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1938194888002310144/_6-WLI2A_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Jun 25 17:51:53 +0000 2025",
+            "name": "T0rnado | 暗宵",
+            "screen_name": "T0rnado_ax"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 73,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 13,
+            "pinned_tweet_ids_str": [
+                "1938099250216550409"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Nearby"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1750873913000,
+            "updated_at": 1752846587235
+        }
+    }
+}

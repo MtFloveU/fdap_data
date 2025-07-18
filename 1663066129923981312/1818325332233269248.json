@@ -2,28 +2,42 @@
     "id": "1818325332233269248",
     "screen_name": "Alexe_Antonov",
     "name": "阿列克谢·安东诺夫",
-    "description": "此人拒绝评价自己\n                                                                       汉语/English/тоҷикӣ 三个国家，两个民族\n                              岁静ing",
-    "location": "巴达赫尚 塔吉克",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1822321024127623168/HtR2uNgC_normal.jpg",
+    "description": "此人拒绝评价自己\n                                                                       汉语/English/тоҷикӣ \n                 岁静ing",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1928855543063654400/ErDHNhcF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818325332233269248/1723310166",
-    "followers_count": 450,
-    "statuses_count": 3481,
-    "favourites_count": 35421,
-    "listed_count": 1,
+    "followers_count": 516,
+    "friends_count": 2406,
+    "statuses_count": 3898,
+    "favourites_count": 44909,
+    "listed_count": 3,
+    "location": "巴达赫尚 塔吉克",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-07-31 00:38:49 +08:00",
     "url": "https://twitter.com/Alexe_Antonov",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODE4MzI1MzMyMjMzMjY5MjQ4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1928855543063654400/ErDHNhcF_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jul 30 16:38:49 +0000 2024",
+            "name": "阿列克谢·安东诺夫",
+            "screen_name": "Alexe_Antonov"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,19 +46,22 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2359,
+            "friends_count": 2406,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 240,
-            "pinned_tweet_ids_str": [
-                "1903018531240960482"
-            ],
+            "media_count": 308,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "巴达赫尚 塔吉克"
+        },
+        "media_permissions": {
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -59,12 +76,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1722357529000,
-            "updated_at": 1746077174316
+            "updated_at": 1752846611714
         }
     }
 }

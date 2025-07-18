@@ -1,14 +1,14 @@
 {
     "id": "1608817124704923648",
     "screen_name": "Hyperbubuemia",
-    "name": "栖布布",
+    "name": "恰布啦",
     "description": "🍁🐹🏳️‍⚧️🍄",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1926685459117174784/DcnD654N_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608817124704923648/1730001726",
-    "followers_count": 904,
-    "friends_count": 743,
-    "statuses_count": 5590,
-    "favourites_count": 9868,
+    "followers_count": 934,
+    "friends_count": 771,
+    "statuses_count": 5924,
+    "favourites_count": 10597,
     "listed_count": 2,
     "location": "阳光卡布房 @McMasterU",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-12-30 21:28:18 +08:00",
     "url": "https://twitter.com/Hyperbubuemia",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Fri Dec 30 13:28:18 +0000 2022",
-            "name": "栖布布",
+            "name": "恰布啦",
             "screen_name": "Hyperbubuemia"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 743,
+            "friends_count": 771,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 332,
+            "media_count": 342,
             "pinned_tweet_ids_str": [
                 "1753991720667083028"
             ],
@@ -81,8 +81,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219071821
+            "created_at": 1672406898000,
+            "updated_at": 1752846620643
         }
     }
 }

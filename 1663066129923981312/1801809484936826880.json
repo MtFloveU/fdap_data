@@ -2,16 +2,16 @@
     "id": "1801809484936826880",
     "screen_name": "kadakisystem",
     "name": "Kadaki OS🔧",
-    "description": "Kadaki System is free and open-source.",
+    "description": "Kadaki is a mental-based operating system. It's free and open-source.",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1888544348238921728/U9JFVEhj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801809484936826880/1747930578",
-    "followers_count": 55,
+    "followers_count": 56,
     "friends_count": 10,
-    "statuses_count": 54,
-    "favourites_count": 272,
+    "statuses_count": 56,
+    "favourites_count": 278,
     "listed_count": 0,
     "location": "0.0.0.0",
-    "website": "https://t.co/16a9fNIDzH",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -73,31 +73,17 @@
             "entities": {
                 "description": {
                     "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "github.com/MtFloveU",
-                            "expanded_url": "https://github.com/MtFloveU",
-                            "url": "https://t.co/16a9fNIDzH",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
                 }
             },
             "fast_followers_count": 0,
             "friends_count": 10,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 5,
+            "media_count": 6,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/16a9fNIDzH",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -122,7 +108,7 @@
         },
         "twe_private_fields": {
             "created_at": 1718419867000,
-            "updated_at": 1750232257457
+            "updated_at": 1752846595659
         }
     }
 }

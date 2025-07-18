@@ -1,0 +1,100 @@
+{
+    "id": "1680262200773201920",
+    "screen_name": "suyang_233",
+    "name": "苏阳～♡",
+    "description": "这里是小苏喵～\n一只友跨猫猫（确信翻车了，是mtx）\n（极度反感建政，一切党派勿扰）",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1687408961199468544/w6WxZlv1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680262200773201920/1689441277",
+    "followers_count": 474,
+    "friends_count": 166,
+    "statuses_count": 1520,
+    "favourites_count": 11884,
+    "listed_count": 2,
+    "location": "Icr Plat",
+    "website": "https://t.co/v4S0B5nfe6",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2023-07-16 01:05:26 +08:00",
+    "url": "https://twitter.com/suyang_233",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNjgwMjYyMjAwNzczMjAxOTIw",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1687408961199468544/w6WxZlv1_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jul 15 17:05:26 +0000 2023",
+            "name": "苏阳～♡",
+            "screen_name": "suyang_233"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "twis.uk",
+                            "expanded_url": "http://twis.uk",
+                            "url": "https://t.co/v4S0B5nfe6",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 166,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 114,
+            "pinned_tweet_ids_str": [
+                "1927786720486900106"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/v4S0B5nfe6",
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Icr Plat"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1689440726000,
+            "updated_at": 1752846528414
+        }
+    }
+}

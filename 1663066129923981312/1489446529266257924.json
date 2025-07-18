@@ -1,14 +1,14 @@
 {
     "id": "1489446529266257924",
     "screen_name": "yuzumi_qwq",
-    "name": "蜂蜜柚子茶",
+    "name": "蜂蜜柚子茶🍥",
     "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1924792338800685056/Ri_OBSPv_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1936563168890822657/1KDvPBJW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489446529266257924/1743103708",
-    "followers_count": 2531,
-    "friends_count": 2387,
-    "statuses_count": 924,
-    "favourites_count": 28510,
+    "followers_count": 2532,
+    "friends_count": 2438,
+    "statuses_count": 926,
+    "favourites_count": 29020,
     "listed_count": 8,
     "location": "距离你5.20kmᡣ𐭩",
     "website": null,
@@ -19,18 +19,18 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-02-04 11:51:59 +08:00",
     "url": "https://twitter.com/yuzumi_qwq",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDg5NDQ2NTI5MjY2MjU3OTI0",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1924792338800685056/Ri_OBSPv_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1936563168890822657/1KDvPBJW_normal.jpg"
         },
         "core": {
             "created_at": "Fri Feb 04 03:51:59 +0000 2022",
-            "name": "蜂蜜柚子茶",
+            "name": "蜂蜜柚子茶🍥",
             "screen_name": "yuzumi_qwq"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2387,
+            "friends_count": 2438,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 43,
+            "media_count": 41,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -73,14 +73,14 @@
             "following": true
         },
         "tipjar_settings": {
-            "is_enabled": false
+            "is_enabled": true
         },
         "verification": {
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219068775
+            "created_at": 1643946719000,
+            "updated_at": 1752846618061
         }
     }
 }

@@ -2,15 +2,15 @@
     "id": "1621552410048237569",
     "screen_name": "amecandy_x",
     "name": "超絕最可愛 Rain 💙🧬",
-    "description": "小雨不乖，请你抱紧 我会写点东西求你看看 //// 互 fo 请私信 /// ♡❀✦💘 @appleneko2001 ✦❀♡",
+    "description": "｡･:*:･ﾟ☆ 今天也更爱我一些吧 ☆ﾟ･:*:･｡ // ❤恋人：@jingjiehaoshan2",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621552410048237569/1699572130",
-    "followers_count": 2447,
-    "friends_count": 1098,
-    "statuses_count": 4981,
-    "favourites_count": 15974,
+    "followers_count": 2601,
+    "friends_count": 1129,
+    "statuses_count": 5297,
+    "favourites_count": 17283,
     "listed_count": 7,
-    "location": "",
+    "location": "HRT：2022.7",
     "website": "https://t.co/Ul32kqG4uh",
     "birthdate": null,
     "verified_type": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-02-04 00:53:25 +08:00",
     "url": "https://twitter.com/amecandy_x",
     "metadata": {
         "__typename": "User",
@@ -59,12 +59,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1098,
+            "friends_count": 1129,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 334,
+            "media_count": 393,
             "pinned_tweet_ids_str": [
-                "1926501642251202861"
+                "1944976847433031937"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -74,7 +74,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": ""
+            "location": "HRT：2022.7"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -84,7 +84,13 @@
         "professional": {
             "rest_id": "1728714603398611373",
             "professional_type": "Creator",
-            "category": []
+            "category": [
+                {
+                    "id": 934,
+                    "name": "Social Media Influencer",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
         },
         "privacy": {
             "protected": false
@@ -100,8 +106,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219070872
+            "created_at": 1675443205000,
+            "updated_at": 1752846619818
         }
     }
 }

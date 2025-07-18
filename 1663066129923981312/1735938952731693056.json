@@ -1,14 +1,14 @@
 {
     "id": "1735938952731693056",
     "screen_name": "IWantMyLilDoggy",
-    "name": "🏳️‍⚧️魔法少猫饭团喵🏳️‍🌈",
-    "description": "但是我不爱我自己。 会在某天突然变成悲叹之种 请回关我我想和你聊天（也可以不回）这个号含有：#drugstwt #drugtwt #shtwt 有些时候会发不开评论的自言自语负能推 但请来和我交朋友求你了🥺🥺🥺 我从未试图隐藏我自己。",
+    "name": "🏳️‍⚧️鬼楽坂 鬼斬🏳️‍🌈",
+    "description": "会在某天突然变成悲叹之种的魔法少猫饭团喵/请回关我我想和你聊天（也可以不回）/关注请求选择性通过/大号是@FTMiaoX /这个号含有理智丧失的胡言乱语和xp放出/我从未试图隐藏我自己。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1748867381575716865/7grjcDZc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735938952731693056/1702715270",
-    "followers_count": 589,
-    "friends_count": 374,
-    "statuses_count": 2163,
-    "favourites_count": 4281,
+    "followers_count": 601,
+    "friends_count": 405,
+    "statuses_count": 2526,
+    "favourites_count": 6191,
     "listed_count": 1,
     "location": "",
     "website": null,
@@ -60,7 +60,7 @@
         },
         "core": {
             "created_at": "Sat Dec 16 08:24:56 +0000 2023",
-            "name": "🏳️‍⚧️魔法少猫饭团喵🏳️‍🌈",
+            "name": "🏳️‍⚧️鬼楽坂 鬼斬🏳️‍🌈",
             "screen_name": "IWantMyLilDoggy"
         },
         "dm_permissions": {
@@ -76,11 +76,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 374,
+            "friends_count": 405,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 91,
-            "pinned_tweet_ids_str": [],
+            "media_count": 111,
+            "pinned_tweet_ids_str": [
+                "1942166601031434300"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -108,7 +110,7 @@
         },
         "twe_private_fields": {
             "created_at": 1702715096000,
-            "updated_at": 1750232284269
+            "updated_at": 1752846626572
         }
     }
 }

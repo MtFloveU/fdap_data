@@ -2,30 +2,42 @@
     "id": "1564057527125708801",
     "screen_name": "keithttmaxwell",
     "name": "maxwell",
-    "description": "Christian/基督徒/🥰",
-    "location": "National Security Agency",
+    "description": "Christian/基督徒/🥰神爱世人，少恨多爱",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1830040455658209280/hiGwDc_H_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564057527125708801/1715968172",
-    "followers_count": 453,
-    "statuses_count": 12565,
-    "favourites_count": 99787,
-    "listed_count": 8,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564057527125708801/1750560264",
+    "followers_count": 488,
+    "friends_count": 1208,
+    "statuses_count": 13083,
+    "favourites_count": 105633,
+    "listed_count": 9,
+    "location": "刷新出错... 请重试",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-08-29 09:09:25 +08:00",
     "url": "https://twitter.com/keithttmaxwell",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTY0MDU3NTI3MTI1NzA4ODAx",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1830040455658209280/hiGwDc_H_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Aug 29 01:09:25 +0000 2022",
+            "name": "maxwell",
+            "screen_name": "keithttmaxwell"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1153,
+            "friends_count": 1208,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 253,
+            "media_count": 264,
             "pinned_tweet_ids_str": [
                 "1617179112648617985"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "刷新出错... 请重试"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1661735365000,
-            "updated_at": 1744350101510
+            "updated_at": 1752846620643
         }
     }
 }

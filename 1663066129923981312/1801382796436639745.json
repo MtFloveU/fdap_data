@@ -2,54 +2,99 @@
     "id": "1801382796436639745",
     "screen_name": "_Snow0717",
     "name": "洛雪🏳️‍⚧️🍥",
-    "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫猫\n║MtF / 家长党 / 无证含糖 2025.02.11\n║重度抑郁 / 双相二型 / ADHD / BPD / 疑似ASD\n║家里蹲 / 音游人 / 渴望温暖\n║最爱的人@Kinaiyurun0128 / 里推@_SnowUra0717",
-    "location": "互联网",
+    "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫\n║MtF / 家长党 / 小证含糖 2025.02.11\n║中郁 /双相二型 / ADHD / BPD / ASD / PTSD\n║家里蹲 / 音游人 / 渴望温暖\n║最爱的人@Kinaiyurun0128 / 里推@_SnowUra0717",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801382796436639745/1742270732",
-    "followers_count": 1208,
-    "statuses_count": 1262,
-    "favourites_count": 3514,
-    "listed_count": 2,
+    "followers_count": 1899,
+    "friends_count": 1658,
+    "statuses_count": 2182,
+    "favourites_count": 6490,
+    "listed_count": 0,
+    "location": "互联网",
+    "website": "https://t.co/3L4Ktfepse",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-06-14 06:35:19 +08:00",
     "url": "https://twitter.com/_Snow0717",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODAxMzgyNzk2NDM2NjM5NzQ1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jun 13 22:35:19 +0000 2024",
+            "name": "洛雪🏳️‍⚧️🍥",
+            "screen_name": "_Snow0717"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/_snow07171",
+                            "expanded_url": "https://ngl.link/_snow07171",
+                            "url": "https://t.co/3L4Ktfepse",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1354,
+            "friends_count": 1658,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 132,
-            "pinned_tweet_ids_str": [],
+            "media_count": 223,
+            "pinned_tweet_ids_str": [
+                "1938508830033240340"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
+            "url": "https://t.co/3L4Ktfepse",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "互联网"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1718318119000,
-            "updated_at": 1744350090667
+            "updated_at": 1752846617121
         }
     }
 }

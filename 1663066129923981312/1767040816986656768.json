@@ -2,30 +2,42 @@
     "id": "1767040816986656768",
     "screen_name": "MeviuslX_Xl",
     "name": "ℳℯ𝓋𝒾𝓊𝓈",
-    "description": "这里是持证含糖の小魅魔小梅哦～｜HRT：2024.04.05｜家暴党｜猫猫@Mevius01XXX｜小梅的主人+老公 +比翼鸟+未婚夫@Lovemostmevius ｜妈咪 @miya051223｜小梅最重要的朋友们@yanyan2567 、@Ming_xm2、 @XCCQAQ 、@LingYi13380｜提问箱⬇️",
-    "location": "往世乐土",
+    "description": "一只笨笨的邪恶小魅魔｜可以叫我小梅，或者梅子干也行｜有最爱的主人+老公@Lovemostmevius ，也有很喜欢很喜欢的姐姐大人@wang3289 ，小梅的妈咪@miya051223｜有点腹黑毒舌，但是很好相处，想认识好多好多朋友｜目前精神状态有点差，但是在努力克服啦｜最后……这里有提问箱⬇️可以问小梅任何问题哦～",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1899853858014466048/8KeK6HES_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767040816986656768/1735767413",
-    "followers_count": 12360,
-    "statuses_count": 6971,
-    "favourites_count": 15665,
-    "listed_count": 26,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767040816986656768/1746184781",
+    "followers_count": 13476,
+    "friends_count": 1096,
+    "statuses_count": 8207,
+    "favourites_count": 17725,
+    "listed_count": 29,
+    "location": "魔王城",
+    "website": "https://t.co/raPAD3yFdi",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-03-11 12:12:28 +08:00",
     "url": "https://twitter.com/MeviuslX_Xl",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY3MDQwODE2OTg2NjU2NzY4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1899853858014466048/8KeK6HES_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Mar 11 04:12:28 +0000 2024",
+            "name": "ℳℯ𝓋𝒾𝓊𝓈",
+            "screen_name": "MeviuslX_Xl"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,27 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1095,
+            "friends_count": 1096,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 883,
+            "media_count": 1040,
             "pinned_tweet_ids_str": [
-                "1910008859642716254"
+                "1912136272698839097"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/raPAD3yFdi",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "魔王城"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1710130348000,
-            "updated_at": 1744350078919
+            "updated_at": 1752846595659
         }
     }
 }

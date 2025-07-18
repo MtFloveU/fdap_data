@@ -1,14 +1,14 @@
 {
     "id": "1768924783734104064",
-    "screen_name": "yuan666ccc73844",
+    "screen_name": "shindeiru_ai",
     "name": "星野酱太可爱了🥰",
-    "description": "https://t.co/CfwPCco7NV匿名题问箱\n16岁高中生 幻想哥布林\n🥺周一到周五不在狸\n有时会用ai生图\n星怒⭐😡@xiaoliaoyou",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1919233646936117248/S2EIjKN4_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768924783734104064/1744396236",
-    "followers_count": 645,
-    "friends_count": 1904,
-    "statuses_count": 2486,
-    "favourites_count": 7927,
+    "description": "主动型虚无主义(active nihilism)\n|16岁高中生 |幻想哥布林\n🥺周一到周五不在狸\n有时会用ai生图\n星怒⭐😡@karakara_void",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1945809513816170497/vqKkKeCE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768924783734104064/1752209773",
+    "followers_count": 730,
+    "friends_count": 2304,
+    "statuses_count": 2850,
+    "favourites_count": 9191,
     "listed_count": 1,
     "location": "鸡窝托斯",
     "website": null,
@@ -19,19 +19,19 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/yuan666ccc73844",
+    "created_at": "2024-03-16 16:58:41 +08:00",
+    "url": "https://twitter.com/shindeiru_ai",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY4OTI0NzgzNzM0MTA0MDY0",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1919233646936117248/S2EIjKN4_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1945809513816170497/vqKkKeCE_normal.jpg"
         },
         "core": {
             "created_at": "Sat Mar 16 08:58:41 +0000 2024",
             "name": "星野酱太可爱了🥰",
-            "screen_name": "yuan666ccc73844"
+            "screen_name": "shindeiru_ai"
         },
         "dm_permissions": {
             "can_dm": true
@@ -42,26 +42,16 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/yuanhhh4",
-                            "expanded_url": "https://ngl.link/yuanhhh4",
-                            "url": "https://t.co/CfwPCco7NV",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
+                    "urls": []
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1904,
+            "friends_count": 2304,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 818,
+            "media_count": 936,
             "pinned_tweet_ids_str": [
-                "1928771668886933617"
+                "1943392081994481973"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -100,8 +90,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219023519
+            "created_at": 1710579521000,
+            "updated_at": 1752846530563
         }
     }
 }

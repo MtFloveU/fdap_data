@@ -2,13 +2,13 @@
     "id": "1508319011200651267",
     "screen_name": "lamte15072",
     "name": "怪异客服八幡小绿",
-    "description": "女，学生https://t.co/hKaNWls6uA\nlove @Ave_Nagasaki\n江宝@GlunekiKCA\n小莲@Amemyia_hasumi\n梦酱@melody221B_",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1925830545054875648/TS-ICmpB_normal.jpg",
+    "description": "女，学生https://t.co/YnqA90ASUO\nlove @Ave_Nagasaki\n江宝@GlunekiKCA\n小莲@Amemyia_hasumi",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1943966025751621632/sDZjlr1F_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1508319011200651267/1748487639",
-    "followers_count": 1083,
-    "friends_count": 1334,
-    "statuses_count": 1922,
-    "favourites_count": 24515,
+    "followers_count": 1093,
+    "friends_count": 1452,
+    "statuses_count": 2062,
+    "favourites_count": 25227,
     "listed_count": 11,
     "location": "花咲川高中",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-03-28 13:44:22 +08:00",
     "url": "https://twitter.com/lamte15072",
     "metadata": {
         "__typename": "User",
@@ -56,7 +56,7 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1925830545054875648/TS-ICmpB_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1943966025751621632/sDZjlr1F_normal.jpg"
         },
         "core": {
             "created_at": "Mon Mar 28 05:44:22 +0000 2022",
@@ -76,7 +76,7 @@
                         {
                             "display_url": "ngl.link/lamte15072",
                             "expanded_url": "https://ngl.link/lamte15072",
-                            "url": "https://t.co/hKaNWls6uA",
+                            "url": "https://t.co/YnqA90ASUO",
                             "indices": [
                                 4,
                                 27
@@ -86,10 +86,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1334,
+            "friends_count": 1452,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 243,
+            "media_count": 246,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -117,8 +117,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219071821
+            "created_at": 1648446262000,
+            "updated_at": 1752846620643
         }
     }
 }

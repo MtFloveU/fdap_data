@@ -2,15 +2,15 @@
     "id": "1851835690616864768",
     "screen_name": "maplefsnow",
     "name": "Maplef 猫扑枫(Fragile Tetrapod Catcher)",
-    "description": "温柔又平凡，悲痛却坚定 | 机器人系统 | 嵌入式工程师 | C++/Java/Python | RWTH Aachen | INFP-H/小猫 | 我想统治世界，我想被爱 | @anemoneheart912的小猫 | 都是@ARKKUMA_干的 | 老婆@lostattractor",
+    "description": "温柔又平凡，悲痛却坚定 | RWTH Aachen Robosys https://t.co/byUGdlkwpm. | INFP-H | 只要还有一双真诚的眼睛与我一同哭泣，就值得我为生命受苦 | @anemoneheart912 的小猫 | 都是@ARKKUMA_干的 | @LostAttractor",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1930198540648886275/bcEbrmxb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851835690616864768/1746294957",
+    "followers_count": 1222,
+    "friends_count": 180,
+    "statuses_count": 705,
+    "favourites_count": 4768,
+    "listed_count": 3,
     "location": "姑苏城外小枫窝",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1887354214759997444/DTmGEzEC_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851835690616864768/1746168575",
-    "followers_count": 967,
-    "friends_count": 146,
-    "statuses_count": 505,
-    "favourites_count": 2831,
-    "listed_count": 4,
     "website": "https://t.co/NXDaCnP3yG",
     "birthdate": null,
     "verified_type": null,
@@ -18,22 +18,41 @@
     "following": true,
     "followed_by": null,
     "can_dm": true,
-    "protected": null,
+    "protected": false,
     "created_at": "2024-10-31 11:57:08 +08:00",
     "url": "https://twitter.com/maplefsnow",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODUxODM1NjkwNjE2ODY0NzY4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1930198540648886275/bcEbrmxb_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Oct 31 03:57:08 +0000 2024",
+            "name": "Maplef 猫扑枫(Fragile Tetrapod Catcher)",
+            "screen_name": "maplefsnow"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
+                    "urls": [
+                        {
+                            "display_url": "M.Sc",
+                            "expanded_url": "http://M.Sc",
+                            "url": "https://t.co/byUGdlkwpm",
+                            "indices": [
+                                34,
+                                57
+                            ]
+                        }
+                    ]
                 },
                 "url": {
                     "urls": [
@@ -50,25 +69,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 146,
+            "friends_count": 180,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 169,
+            "media_count": 236,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/NXDaCnP3yG",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "姑苏城外小枫窝"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1730347028000,
-            "updated_at": 1746176977957
+            "updated_at": 1752846587235
         }
     }
 }

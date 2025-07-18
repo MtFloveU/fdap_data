@@ -1,14 +1,14 @@
 {
     "id": "1823771857755234305",
-    "screen_name": "azusayuri_8964",
-    "name": "あずにゃん8964🇮🇱🇨🇭🎌",
-    "description": "|🕷🕷人能不能冷靜一點|六四天安門事件|我ban你就是覺得你腦殘|\n|不是支黑也不反支黑|友正常的跨🏳️‍⚧️|點贊即已讀和“視奸”|轉發=認同|”中立“乐子人|😿如果我讓你難受了，我很抱歉。😿|\n|小號@azusayuri_1984|想挂的弱智@elonmusk",
+    "screen_name": "Asumi8964",
+    "name": "あずにゃん2952🇮🇱🇨🇭🎌",
+    "description": "我是誰 \"不鍵政\"\n小號:@azusayuri_1984 |討厭的人:@elonmusk",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1922696295535476739/MGTtO525_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823771857755234305/1739602695",
-    "followers_count": 304,
-    "friends_count": 850,
+    "followers_count": 309,
+    "friends_count": 848,
     "statuses_count": 252,
-    "favourites_count": 13056,
+    "favourites_count": 14079,
     "listed_count": 1,
     "location": "IP屬地：大日本帝国",
     "website": "https://t.co/BI7LH993xf",
@@ -20,7 +20,7 @@
     "can_dm": true,
     "protected": false,
     "created_at": "2024-08-15 01:22:28 +08:00",
-    "url": "https://twitter.com/azusayuri_8964",
+    "url": "https://twitter.com/Asumi8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODIzNzcxODU3NzU1MjM0MzA1",
@@ -31,19 +31,19 @@
                 },
                 "description": "Automated",
                 "longDescription": {
-                    "text": "Automated by @azusayuri_1984",
+                    "text": "Automated by @Vws8964",
                     "entities": [
                         {
                             "fromIndex": 13,
-                            "toIndex": 28,
+                            "toIndex": 21,
                             "ref": {
                                 "type": "TimelineRichTextMention",
-                                "screen_name": "azusayuri_1984",
+                                "screen_name": "Vws8964",
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
                                         "core": {
-                                            "screen_name": "azusayuri_1984"
+                                            "screen_name": "Vws8964"
                                         },
                                         "rest_id": "1886833813936070663"
                                     }
@@ -60,8 +60,8 @@
         },
         "core": {
             "created_at": "Wed Aug 14 17:22:28 +0000 2024",
-            "name": "あずにゃん8964🇮🇱🇨🇭🎌",
-            "screen_name": "azusayuri_8964"
+            "name": "あずにゃん2952🇮🇱🇨🇭🎌",
+            "screen_name": "Asumi8964"
         },
         "dm_permissions": {
             "can_dm": true
@@ -89,10 +89,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 850,
+            "friends_count": 848,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 4,
+            "media_count": 6,
             "pinned_tweet_ids_str": [
                 "1923521639188398258"
             ],
@@ -126,7 +126,7 @@
         },
         "twe_private_fields": {
             "created_at": 1723656148000,
-            "updated_at": 1750232259424
+            "updated_at": 1752846612950
         }
     }
 }

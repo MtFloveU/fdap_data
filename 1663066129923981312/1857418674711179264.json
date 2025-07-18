@@ -1,29 +1,43 @@
 {
     "id": "1857418674711179264",
     "screen_name": "eepiestfox",
-    "name": "eepy",
+    "name": "🏳️‍⚧️eepy🏳️‍⚧️",
     "description": "she/her | taken | 🏳️‍⚧️trans rights🏳️‍⚧️|pfp by me| join my discord server! https://t.co/hPL1DkEJi2",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898802341345886208/mBUvNezZ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857418674711179264/1741940048",
-    "followers_count": 1923,
-    "statuses_count": 1149,
-    "favourites_count": 1421,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1919095026308816896/JkXNbHrn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857418674711179264/1746382842",
+    "followers_count": 1934,
+    "friends_count": 922,
+    "statuses_count": 1489,
+    "favourites_count": 1842,
     "listed_count": 1,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": true,
+    "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-11-15 21:41:41 +08:00",
     "url": "https://twitter.com/eepiestfox",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODU3NDE4Njc0NzExMTc5MjY0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1919095026308816896/JkXNbHrn_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Nov 15 13:41:41 +0000 2024",
+            "name": "🏳️‍⚧️eepy🏳️‍⚧️",
+            "screen_name": "eepiestfox"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -42,19 +56,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 946,
+            "friends_count": 922,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 47,
+            "media_count": 64,
             "pinned_tweet_ids_str": [
                 "1903562439314354569"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -69,10 +88,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1731678101000,
-            "updated_at": 1746077173226
+            "updated_at": 1752846595659
         }
     }
 }

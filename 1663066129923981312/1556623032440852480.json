@@ -2,30 +2,42 @@
     "id": "1556623032440852480",
     "screen_name": "w1ndycat",
     "name": "w1ndycat",
-    "description": "人类进化的失败品",
-    "location": "Stars",
+    "description": "冬装灵梦是世界上最可爱的生物",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1820690351503609856/YU-98RFl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556623032440852480/1731162953",
-    "followers_count": 241,
-    "statuses_count": 1824,
-    "favourites_count": 29061,
+    "followers_count": 246,
+    "friends_count": 1293,
+    "statuses_count": 1845,
+    "favourites_count": 28726,
     "listed_count": 1,
+    "location": "Stars",
+    "website": "https://t.co/9PwC9LfbwW",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-08-08 20:47:21 +08:00",
     "url": "https://twitter.com/w1ndycat",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTU2NjIzMDMyNDQwODUyNDgw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1820690351503609856/YU-98RFl_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Aug 08 12:47:21 +0000 2022",
+            "name": "w1ndycat",
+            "screen_name": "w1ndycat"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1235,
+            "friends_count": 1293,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 166,
+            "media_count": 171,
             "pinned_tweet_ids_str": [
                 "1813176190573633757"
             ],
@@ -58,16 +70,33 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/9PwC9LfbwW",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Stars"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1659962841000,
-            "updated_at": 1744350054661
+            "updated_at": 1752846552849
         }
     }
 }

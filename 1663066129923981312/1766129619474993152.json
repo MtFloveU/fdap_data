@@ -2,30 +2,42 @@
     "id": "1766129619474993152",
     "screen_name": "AcetateFrag",
     "name": "Acetate🍰",
-    "description": "你好～ 请叫我小a就好。小a独处好久，变成了笨蛋。请多陪小a说话(很可爱的)。青石姐姐@qingshixiang258/超可爱的j酱@kkblm_",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1907823448719810560/8MqyrZpO_normal.jpg",
+    "description": "你好～ 请叫我小a就好。小a独处好久，变成了笨蛋。请多陪小a说话(很可爱的)。青石姐姐@qingshixiang258",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1919249348539633664/Mt1vI-Oz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766129619474993152/1737619912",
-    "followers_count": 210,
-    "statuses_count": 674,
-    "favourites_count": 1186,
-    "listed_count": 3,
+    "followers_count": 347,
+    "friends_count": 184,
+    "statuses_count": 883,
+    "favourites_count": 1556,
+    "listed_count": 2,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-03-08 23:52:00 +08:00",
     "url": "https://twitter.com/AcetateFrag",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY2MTI5NjE5NDc0OTkzMTUy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1919249348539633664/Mt1vI-Oz_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Mar 08 15:52:00 +0000 2024",
+            "name": "Acetate🍰",
+            "screen_name": "AcetateFrag"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 161,
+            "friends_count": 184,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 33,
+            "media_count": 42,
             "pinned_tweet_ids_str": [
                 "1881722587975479448"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1709913120000,
-            "updated_at": 1744350082250
+            "updated_at": 1752846611714
         }
     }
 }

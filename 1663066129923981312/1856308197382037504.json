@@ -1,31 +1,43 @@
 {
     "id": "1856308197382037504",
     "screen_name": "ChangS511911",
-    "name": "肠球菌属",
+    "name": "天冬氨酸🏳‍⚧🏳️‍🌈‌🇺🇳",
     "description": "🇦 🇷 🇴 🇳 🇦 & Maomao~ing Daisuki !                      \n1516～1848：我们一起从空想到科学⭐️                         \n             @ハルカ* 晚安風酱，我愿为你而前行໒꒰ྀིᜊ꒦ິ^꒦ິᜊ ꒱ྀིა",
-    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1856308572298326019/aIzzySoT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856308197382037504/1731611015",
-    "followers_count": 30,
-    "statuses_count": 29,
-    "favourites_count": 1122,
+    "followers_count": 68,
+    "friends_count": 287,
+    "statuses_count": 45,
+    "favourites_count": 2857,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-11-12 20:09:11 +08:00",
     "url": "https://twitter.com/ChangS511911",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODU2MzA4MTk3MzgyMDM3NTA0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1856308572298326019/aIzzySoT_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Nov 12 12:09:11 +0000 2024",
+            "name": "天冬氨酸🏳‍⚧🏳️‍🌈‌🇺🇳",
+            "screen_name": "ChangS511911"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 152,
+            "friends_count": 287,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 0,
+            "media_count": 1,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1731413351000,
-            "updated_at": 1744350028375
+            "updated_at": 1752846540146
         }
     }
 }

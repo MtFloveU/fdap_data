@@ -1,29 +1,43 @@
 {
     "id": "1687475463474626560",
     "screen_name": "CWorker62279",
-    "name": "葵矢枢（不混圈版）",
-    "description": "🎄00后 #xyn #木桶饭 #furry|🎊177cm/61kg|♀女高印象♀|🚪5/25/50/100|HRT 2023.8.01|🎯厦门-海沧/湖里\\姐妹@szc055555 @snowfairy011026  闺蜜@CoolWorker      霜落空飞雪，柔情似暖阳",
-    "location": "fujian.xiamen.",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1912902302064652289/CgBxxAcZ_normal.jpg",
+    "name": "カドビわか",
+    "description": "🎄00后 |🎊177cm/61kg|HRT 2023.8.01|🎯厦门-海沧/湖里\\姐妹@szc055555 闺蜜@aronicaend  我が剣は海を切り裂く！",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1943344075224059913/r35L_mQW_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687475463474626560/1691162314",
-    "followers_count": 1957,
-    "statuses_count": 5940,
-    "favourites_count": 9124,
-    "listed_count": 8,
+    "followers_count": 1924,
+    "friends_count": 487,
+    "statuses_count": 6130,
+    "favourites_count": 9199,
+    "listed_count": 6,
+    "location": "fujian.xiamen.",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-08-04 22:48:42 +08:00",
     "url": "https://twitter.com/CWorker62279",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjg3NDc1NDYzNDc0NjI2NTYw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1943344075224059913/r35L_mQW_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Aug 04 14:48:42 +0000 2023",
+            "name": "カドビわか",
+            "screen_name": "CWorker62279"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,28 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 398,
+            "friends_count": 487,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 813,
+            "media_count": 888,
             "pinned_tweet_ids_str": [
                 "1912900766060220513"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "fujian.xiamen."
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1691160522000,
-            "updated_at": 1746077196169
+            "updated_at": 1752846627810
         }
     }
 }

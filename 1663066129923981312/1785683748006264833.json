@@ -2,15 +2,15 @@
     "id": "1785683748006264833",
     "screen_name": "ChenXu233",
     "name": "沐浴晨煦",
-    "description": "害人精。",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1866002663978201088/tOqCKhzz_normal.jpg",
+    "description": "😶😶😶😶😶😶",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1942188347369148416/bmWQmFHm_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1785683748006264833/1735096165",
-    "followers_count": 230,
-    "friends_count": 257,
-    "statuses_count": 1167,
-    "favourites_count": 7981,
+    "followers_count": 302,
+    "friends_count": 294,
+    "statuses_count": 1744,
+    "favourites_count": 9534,
     "listed_count": 1,
-    "location": "Everywhere",
+    "location": "浙北化工职业技术学院",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-05-01 22:52:46 +08:00",
     "url": "https://twitter.com/ChenXu233",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzg1NjgzNzQ4MDA2MjY0ODMz",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1866002663978201088/tOqCKhzz_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1942188347369148416/bmWQmFHm_normal.jpg"
         },
         "core": {
             "created_at": "Wed May 01 14:52:46 +0000 2024",
@@ -46,13 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 257,
+            "friends_count": 294,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 114,
-            "pinned_tweet_ids_str": [
-                "1924859381755347059"
-            ],
+            "media_count": 163,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -60,7 +58,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "Everywhere"
+            "location": "浙北化工职业技术学院"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -79,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219065464
+            "created_at": 1714575166000,
+            "updated_at": 1752846615358
         }
     }
 }

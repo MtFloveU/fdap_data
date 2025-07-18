@@ -2,15 +2,15 @@
     "id": "1700935161301655552",
     "screen_name": "qingshixiang258",
     "name": "青石巷🍃🕊️",
-    "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700935161301655552/1749260035",
-    "followers_count": 1244,
-    "friends_count": 1135,
-    "statuses_count": 10726,
-    "favourites_count": 24574,
+    "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700935161301655552/1752164532",
+    "followers_count": 1279,
+    "friends_count": 1212,
+    "statuses_count": 11399,
+    "favourites_count": 26035,
     "listed_count": 6,
-    "location": "？？？",
+    "location": "风起地",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -26,7 +26,7 @@
         "id": "VXNlcjoxNzAwOTM1MTYxMzAxNjU1NTUy",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg"
         },
         "core": {
             "created_at": "Sun Sep 10 18:12:06 +0000 2023",
@@ -46,11 +46,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1135,
+            "friends_count": 1212,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 628,
-            "pinned_tweet_ids_str": [],
+            "media_count": 666,
+            "pinned_tweet_ids_str": [
+                "1940762370948944145"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -58,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "？？？"
+            "location": "风起地"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -80,7 +82,7 @@
         },
         "twe_private_fields": {
             "created_at": 1694369526000,
-            "updated_at": 1750404912107
+            "updated_at": 1752846615357
         }
     }
 }

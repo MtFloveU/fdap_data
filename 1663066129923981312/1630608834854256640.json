@@ -2,31 +2,42 @@
     "id": "1630608834854256640",
     "screen_name": "MtF_Hoshinoyuu",
     "name": "东方星憂",
-    "description": "🍥2023.10.29/最好的姐姐！！@Miaowu075/@nn77nn1035026   \n对象:@siyu9527",
-    "location": "距离您？米    与你一起",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898097112237457416/f9QIMyTs_normal.jpg",
+    "description": "🍥2023.10.29/最好的姐姐！！@Miaowu075/@nn77nn1035026/可互fo—",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1942954439410655232/X9ZiyQKg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1630608834854256640/1728098388",
-    "followers_count": 905,
-    "statuses_count": 2648,
-    "favourites_count": 12466,
+    "followers_count": 921,
+    "friends_count": 1579,
+    "statuses_count": 2718,
+    "favourites_count": 12508,
     "listed_count": 2,
+    "location": "距离您？米    与你一起",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-03-01 00:40:32 +08:00",
     "url": "https://twitter.com/MtF_Hoshinoyuu",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjMwNjA4ODM0ODU0MjU2NjQw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1942954439410655232/X9ZiyQKg_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Feb 28 16:40:32 +0000 2023",
+            "name": "东方星憂",
+            "screen_name": "MtF_Hoshinoyuu"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,20 +46,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1563,
+            "friends_count": 1579,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 93,
+            "media_count": 98,
             "pinned_tweet_ids_str": [
                 "1779366434298380581"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "距离您？米    与你一起"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1769958833865335016",
             "professional_type": "Creator",
@@ -60,10 +78,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1677602432000,
-            "updated_at": 1744350118007
+            "updated_at": 1752846626572
         }
     }
 }

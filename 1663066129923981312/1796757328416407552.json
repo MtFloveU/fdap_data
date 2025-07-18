@@ -1,14 +1,14 @@
 {
     "id": "1796757328416407552",
     "screen_name": "Rinnnnneo",
-    "name": "Rinりん",
-    "description": "这个人很懒，什么也没有写｜可爱猫猫@amsrntk3",
+    "name": "Rinですよ",
+    "description": "牡丹は散っても花だ、 夏が去っても追慕は切だ｜可爱猫猫 @amsrntk3",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1916147867808600064/7g3-hDtp_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796757328416407552/1739626870",
-    "followers_count": 338,
-    "friends_count": 779,
-    "statuses_count": 444,
-    "favourites_count": 2016,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796757328416407552/1751975402",
+    "followers_count": 337,
+    "friends_count": 792,
+    "statuses_count": 462,
+    "favourites_count": 2132,
     "listed_count": 0,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-06-01 12:15:41 +08:00",
     "url": "https://twitter.com/Rinnnnneo",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat Jun 01 04:15:41 +0000 2024",
-            "name": "Rinりん",
+            "name": "Rinですよ",
             "screen_name": "Rinnnnneo"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 779,
+            "friends_count": 792,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 90,
+            "media_count": 96,
             "pinned_tweet_ids_str": [
                 "1874650543693725741"
             ],
@@ -81,8 +81,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219036309
+            "created_at": 1717215341000,
+            "updated_at": 1752846541265
         }
     }
 }

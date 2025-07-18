@@ -1,16 +1,16 @@
 {
     "id": "1748763011140169729",
     "screen_name": "sxshuishuimao",
-    "name": "神仙水水猫🍕",
-    "description": "07 ｜互fo｜HRT咨询｜提问箱链接↓｜拼图积木代拼｜水猫永远14",
+    "name": "神仙水水猫🍕🧊",
+    "description": "07 ｜互fo｜INFP-t｜ HRT咨詢｜不吃肉不是素食主義者喵｜灌注水貓謝謝喵｜拼圖積木代拼｜最愛14歲｜是豪貓不o不圓不割不死｜提問箱鏈接↓｜杀杀杀️｜对象❤️@mengqing5735",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1746435698",
-    "followers_count": 934,
-    "friends_count": 752,
-    "statuses_count": 6044,
-    "favourites_count": 190,
-    "listed_count": 4,
-    "location": "距离你1.7km",
+    "followers_count": 1464,
+    "friends_count": 1018,
+    "statuses_count": 7891,
+    "favourites_count": 193,
+    "listed_count": 5,
+    "location": "距离你2.1km",
     "website": "https://t.co/qmQkMr39z5",
     "birthdate": null,
     "verified_type": null,
@@ -24,43 +24,13 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzQ4NzYzMDExMTQwMTY5NzI5",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @shenxianshx",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 25,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "shenxianshx",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "shenxianshx"
-                                        },
-                                        "rest_id": "1813531531534864384"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "avatar": {
             "image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg"
         },
         "core": {
             "created_at": "Sat Jan 20 17:42:54 +0000 2024",
-            "name": "神仙水水猫🍕",
+            "name": "神仙水水猫🍕🧊",
             "screen_name": "sxshuishuimao"
         },
         "dm_permissions": {
@@ -89,11 +59,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 752,
+            "friends_count": 1018,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1030,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1390,
+            "pinned_tweet_ids_str": [
+                "1945702414335779296"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -102,7 +74,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "距离你1.7km"
+            "location": "距离你2.1km"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -124,7 +96,7 @@
         },
         "twe_private_fields": {
             "created_at": 1705772574000,
-            "updated_at": 1750404904094
+            "updated_at": 1752846587235
         }
     }
 }

@@ -1,16 +1,16 @@
 {
     "id": "1697936336228126721",
-    "screen_name": "charming_xiaoyu",
-    "name": "陌小语poi",
-    "description": "每天都在好好爱着最喜欢我的人  @NickReyes8964 妈妈们: @hoshinofujivy @imilkdragon923 @HyotoChandesuyo｜唐氏牢猫 @Paranoia23334 查成分回fo/粉红滚/block必回｜负能量里推 @Charming_xy04｜Bilibili空间↓",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1912330844032606209/Jcpy5eZg_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697936336228126721/1747207288",
-    "followers_count": 1463,
-    "friends_count": 1342,
-    "statuses_count": 4947,
-    "favourites_count": 67598,
-    "listed_count": 7,
-    "location": "理塘国",
+    "screen_name": "M0ry_Wh1sp",
+    "name": "陌小语mory",
+    "description": "小男娘也是对象:@Seiunsky8964｜可以叫我Mory                  ｜幽默人柱力｜ 妈妈们: @imilkdragon923 @HyotoChandesuyo｜唐猫 @Paranoia23334｜查成分回fo/粉红滚/block必回｜里推 @Charming_xy04｜bilibili空间↓",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1944122585190739969/QOdGXV61_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697936336228126721/1752350702",
+    "followers_count": 1511,
+    "friends_count": 1381,
+    "statuses_count": 5171,
+    "favourites_count": 71537,
+    "listed_count": 6,
+    "location": "牢语TV",
     "website": "https://t.co/HHJcrPfn1y",
     "birthdate": null,
     "verified_type": null,
@@ -19,19 +19,19 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/charming_xiaoyu",
+    "created_at": "2023-09-02 19:35:50 +08:00",
+    "url": "https://twitter.com/M0ry_Wh1sp",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjk3OTM2MzM2MjI4MTI2NzIx",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1912330844032606209/Jcpy5eZg_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1944122585190739969/QOdGXV61_normal.jpg"
         },
         "core": {
             "created_at": "Sat Sep 02 11:35:50 +0000 2023",
-            "name": "陌小语poi",
-            "screen_name": "charming_xiaoyu"
+            "name": "陌小语mory",
+            "screen_name": "M0ry_Wh1sp"
         },
         "dm_permissions": {
             "can_dm": true
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1342,
+            "friends_count": 1381,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 342,
+            "media_count": 361,
             "pinned_tweet_ids_str": [
                 "1929405208448143823"
             ],
@@ -74,7 +74,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "理塘国"
+            "location": "牢语TV"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -93,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219072953
+            "created_at": 1693654550000,
+            "updated_at": 1752846622590
         }
     }
 }

@@ -2,13 +2,13 @@
     "id": "1453117730341605380",
     "screen_name": "philly030",
     "name": "白雲",
-    "description": "kig準備中~~ \n本號為主號\ncode: @wh173cl0ud\n之後會有用: @whitecloud_kig\nvrchat: 白雲whitecloud\n喜歡可愛的東西 不管是什麼~",
+    "description": "本號為主號\ncode: @wh173cl0ud\nkig號: @whitecloud_kig\nvrchat: 白雲whitecloud\n喜歡可愛的東西 不管是什麼~",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1582373311912497154/a_UF-whZ_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1453117730341605380/1741325172",
-    "followers_count": 225,
-    "friends_count": 816,
-    "statuses_count": 1499,
-    "favourites_count": 17882,
+    "followers_count": 237,
+    "friends_count": 831,
+    "statuses_count": 1517,
+    "favourites_count": 18708,
     "listed_count": 6,
     "location": "距離你7km",
     "website": "https://t.co/faqAws0CBI",
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2021-10-27 05:54:07 +08:00",
     "url": "https://twitter.com/philly030",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 816,
+            "friends_count": 831,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 313,
+            "media_count": 316,
             "pinned_tweet_ids_str": [
                 "1854605617706738028"
             ],
@@ -93,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219032940
+            "created_at": 1635285247000,
+            "updated_at": 1752846537498
         }
     }
 }

@@ -2,18 +2,23 @@
     "id": "1272930023926665216",
     "screen_name": "JawenZhu",
     "name": "🌹Jawen🌹（淡推中）",
-    "description": "老婆 @bfng19325059079\n@Zane_III_Ren @nationalPureVF3 基友 @mlo_yuwancumian 死宅，左，反帝反修，支持LGBT。沒玩過東方正作云東方眾。不喜歡滯納笑话",
-    "location": "대한민국",
+    "description": "老婆@Jiepaiki_meow @Zane_III_Ren @nationalPureVF3 基友 @mlo_yuwancumian 死宅，左，反帝反修，支持LGBT。沒玩過東方正作云東方眾。不喜歡滯納笑话",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883031013972180992/B3gpAvFj_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1272930023926665216/1713816526",
-    "followers_count": 3981,
-    "statuses_count": 21872,
-    "favourites_count": 73618,
-    "listed_count": 24,
+    "followers_count": 4163,
+    "friends_count": 2050,
+    "statuses_count": 22362,
+    "favourites_count": 74523,
+    "listed_count": 25,
+    "location": "대한민국",
+    "website": "https://t.co/wylUGcFql8",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2020-06-17 00:32:36 +08:00",
     "url": "https://twitter.com/JawenZhu",
     "metadata": {
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "Jawen_Kaiser"
                                         },
                                         "rest_id": "1722408555033268224"
@@ -50,12 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1883031013972180992/B3gpAvFj_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Jun 16 16:32:36 +0000 2020",
+            "name": "🌹Jawen🌹（淡推中）",
+            "screen_name": "JawenZhu"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -67,7 +79,7 @@
                         {
                             "display_url": "pilipili.com",
                             "expanded_url": "http://www.pilipili.com",
-                            "url": "https://t.co/wylUGcFYaG",
+                            "url": "https://t.co/wylUGcFql8",
                             "indices": [
                                 0,
                                 23
@@ -77,19 +89,28 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1979,
+            "friends_count": 2050,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1112,
-            "pinned_tweet_ids_str": [],
+            "media_count": 1154,
+            "pinned_tweet_ids_str": [
+                "1910882349757444541"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/wylUGcFYaG",
-            "verified": false,
+            "url": "https://t.co/wylUGcFql8",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "대한민국"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1598468862047301632",
             "professional_type": "Creator",
@@ -101,12 +122,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1592325156000,
-            "updated_at": 1744350094638
+            "updated_at": 1752846618061
         }
     }
 }

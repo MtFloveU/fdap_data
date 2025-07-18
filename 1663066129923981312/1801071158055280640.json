@@ -1,15 +1,15 @@
 {
     "id": "1801071158055280640",
     "screen_name": "moonyore0318",
-    "name": "古の月",
-    "description": "09/mtf/安徽亳州/爱哭/ 最好的闺蜜@_Nix24_/臭坏蛋@ssd0kknd",
+    "name": "没古月",
+    "description": "09/mtf/安徽亳州",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1822526559611191296/nEadpmJf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801071158055280640/1724835335",
-    "followers_count": 1160,
-    "friends_count": 175,
-    "statuses_count": 5904,
-    "favourites_count": 5224,
-    "listed_count": 1,
+    "followers_count": 1176,
+    "friends_count": 180,
+    "statuses_count": 6050,
+    "favourites_count": 5401,
+    "listed_count": 2,
     "location": "古月星球",
     "website": null,
     "birthdate": null,
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Thu Jun 13 01:56:49 +0000 2024",
-            "name": "古の月",
+            "name": "没古月",
             "screen_name": "moonyore0318"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 175,
+            "friends_count": 180,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 183,
+            "media_count": 189,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -61,9 +61,9 @@
             "location": "古月星球"
         },
         "media_permissions": {
-            "can_media_tag": true
+            "can_media_tag": false
         },
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Parody",
         "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1822489539799036263",
@@ -91,7 +91,7 @@
         },
         "twe_private_fields": {
             "created_at": 1718243809000,
-            "updated_at": 1750232264361
+            "updated_at": 1752846618931
         }
     }
 }

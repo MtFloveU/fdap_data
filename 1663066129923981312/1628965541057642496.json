@@ -2,14 +2,14 @@
     "id": "1628965541057642496",
     "screen_name": "Warma_Plaza",
     "name": "Warma广场",
-    "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+    "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1731584965",
-    "followers_count": 3595,
-    "friends_count": 7489,
-    "statuses_count": 1562,
-    "favourites_count": 607,
-    "listed_count": 3,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+    "followers_count": 3772,
+    "friends_count": 7488,
+    "statuses_count": 2082,
+    "favourites_count": 642,
+    "listed_count": 4,
     "location": "忆雨座-沃玛星",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-02-24 11:50:29 +08:00",
     "url": "https://twitter.com/Warma_Plaza",
     "metadata": {
         "__typename": "User",
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 7489,
+            "friends_count": 7488,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 354,
+            "media_count": 449,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -77,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219050498
+            "created_at": 1677210629000,
+            "updated_at": 1752846554868
         }
     }
 }

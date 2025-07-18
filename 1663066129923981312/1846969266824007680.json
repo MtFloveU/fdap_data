@@ -2,30 +2,42 @@
     "id": "1846969266824007680",
     "screen_name": "NaciMe537",
     "name": "空白",
-    "description": "君子不器/mtx满天星/别讨厌我aa",
-    "location": "距离您只有0.3km",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1874879684489719808/CzUUW4_t_normal.jpg",
+    "description": "君子不器/mtx满天星/嘻嘻\n我学会了谁能问我问题？👇🏻",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1945210972391792640/qfkXZVx4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1846969266824007680/1729620068",
-    "followers_count": 194,
-    "statuses_count": 1052,
-    "favourites_count": 2229,
+    "followers_count": 248,
+    "friends_count": 458,
+    "statuses_count": 1585,
+    "favourites_count": 3529,
     "listed_count": 0,
+    "location": "距离您只有0.3km",
+    "website": "https://t.co/pNLXSj04L0",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-10-18 01:39:35 +08:00",
     "url": "https://twitter.com/NaciMe537",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODQ2OTY5MjY2ODI0MDA3Njgw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1945210972391792640/qfkXZVx4_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Oct 17 17:39:35 +0000 2024",
+            "name": "空白",
+            "screen_name": "NaciMe537"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -35,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "florr.io",
-                            "expanded_url": "http://florr.io",
-                            "url": "https://t.co/wHKGoCVxeY",
+                            "display_url": "ngl.link/xinqi59359",
+                            "expanded_url": "https://ngl.link/xinqi59359",
+                            "url": "https://t.co/pNLXSj04L0",
                             "indices": [
                                 0,
                                 23
@@ -47,19 +59,26 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 374,
+            "friends_count": 458,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 33,
+            "media_count": 51,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/wHKGoCVxeY",
-            "verified": false,
+            "url": "https://t.co/pNLXSj04L0",
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "距离您只有0.3km"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "Commentary",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1855491701252755548",
             "professional_type": "Creator",
@@ -71,10 +90,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1729186775000,
-            "updated_at": 1744350087213
+            "updated_at": 1752846616262
         }
     }
 }

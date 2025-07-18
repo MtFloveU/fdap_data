@@ -1,14 +1,14 @@
 {
     "id": "1746169774147776512",
     "screen_name": "A1sakuMenh3ra",
-    "name": "🩵纯情蟑螂🌘",
+    "name": "🩵雨林鼬鲨🌘",
     "description": "Fake it till make it",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1930035511198146560/kLGuWTLq_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1943979515988127748/3Y7YjIgT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746169774147776512/1729489049",
-    "followers_count": 651,
-    "friends_count": 858,
-    "statuses_count": 40827,
-    "favourites_count": 57523,
+    "followers_count": 649,
+    "friends_count": 869,
+    "statuses_count": 42353,
+    "favourites_count": 60256,
     "listed_count": 2,
     "location": "",
     "website": null,
@@ -26,11 +26,11 @@
         "id": "VXNlcjoxNzQ2MTY5Nzc0MTQ3Nzc2NTEy",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1930035511198146560/kLGuWTLq_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1943979515988127748/3Y7YjIgT_normal.jpg"
         },
         "core": {
             "created_at": "Sat Jan 13 13:58:25 +0000 2024",
-            "name": "🩵纯情蟑螂🌘",
+            "name": "🩵雨林鼬鲨🌘",
             "screen_name": "A1sakuMenh3ra"
         },
         "dm_permissions": {
@@ -46,13 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 858,
+            "friends_count": 869,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1546,
-            "pinned_tweet_ids_str": [
-                "1934542258306707492"
-            ],
+            "media_count": 1605,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -80,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1705154305000,
-            "updated_at": 1750232266173
+            "updated_at": 1752846620643
         }
     }
 }

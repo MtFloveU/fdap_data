@@ -2,24 +2,24 @@
     "id": "1889157954143981568",
     "screen_name": "_blueberrysauce",
     "name": "小小菠萝包🍥",
-    "description": "少女进行时ing 10年 I mtf l 友跨友同 l 泛性恋 l 🚪门槛40支付宝🧧 I 最爱的老公🥰🥰🥰@wwjxx好朋友@liciiQAQ",
+    "description": "少女进行时ing 10年 I mtf l 友跨友同 l 泛性恋 l 不收门槛了 I 最爱的老公🥰🥰🥰@wwjxx好朋友@liciiQAQ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1907076397060808704/k0sUv7QG_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889157954143981568/1745678610",
-    "followers_count": 2214,
-    "friends_count": 1314,
-    "statuses_count": 2665,
-    "favourites_count": 9381,
-    "listed_count": 5,
+    "followers_count": 2854,
+    "friends_count": 1413,
+    "statuses_count": 2858,
+    "favourites_count": 9765,
+    "listed_count": 4,
     "location": "江苏",
     "website": "https://t.co/7oEMPv0yii",
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2025-02-11 11:42:26 +08:00",
     "url": "https://twitter.com/_blueberrysauce",
     "metadata": {
         "__typename": "User",
@@ -59,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1314,
+            "friends_count": 1413,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 151,
+            "media_count": 164,
             "pinned_tweet_ids_str": [
                 "1919217286923080152"
             ],
@@ -81,6 +81,17 @@
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1940392619529630007",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 15,
+                    "name": "Entertainment & Recreation",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
         "privacy": {
             "protected": false
         },
@@ -93,8 +104,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219060359
+            "created_at": 1739245346000,
+            "updated_at": 1752846592776
         }
     }
 }

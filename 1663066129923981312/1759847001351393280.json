@@ -2,14 +2,14 @@
     "id": "1759847001351393280",
     "screen_name": "kewenly12",
     "name": "inkwenly🍤🍛🍇🍼🌮",
-    "description": "这里墨墨",
+    "description": "朋友圈",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1836618631251382272/1gtyaij0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759847001351393280/1726739483",
-    "followers_count": 1187,
-    "friends_count": 1063,
-    "statuses_count": 4373,
-    "favourites_count": 39494,
-    "listed_count": 5,
+    "followers_count": 1183,
+    "friends_count": 1042,
+    "statuses_count": 4583,
+    "favourites_count": 39694,
+    "listed_count": 4,
     "location": "",
     "website": null,
     "birthdate": null,
@@ -18,7 +18,7 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": true,
+    "protected": false,
     "created_at": "2024-02-20 15:46:52 +08:00",
     "url": "https://twitter.com/kewenly12",
     "metadata": {
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1063,
+            "friends_count": 1042,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 24,
+            "media_count": 22,
             "pinned_tweet_ids_str": [
-                "1916834718798016600"
+                "1940817161179771163"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -68,7 +68,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "privacy": {
-            "protected": true
+            "protected": false
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -80,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1708415212000,
-            "updated_at": 1750232260551
+            "updated_at": 1752846614298
         }
     }
 }

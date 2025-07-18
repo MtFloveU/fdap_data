@@ -1,31 +1,43 @@
 {
     "id": "1619872728973967361",
     "screen_name": "fish__olo",
-    "name": "岸雨🐟",
+    "name": "小水母",
     "description": "社恐的小鱼🐟 希望大家都开开心心٩(๑^o^๑)۶",
-    "location": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1866681194584346628/U9dNJG42_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619872728973967361/1733313221",
-    "followers_count": 95,
+    "followers_count": 96,
+    "friends_count": 384,
     "statuses_count": 283,
-    "favourites_count": 3514,
+    "favourites_count": 3459,
     "listed_count": 1,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-01-30 09:39:07 +08:00",
     "url": "https://twitter.com/fish__olo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjE5ODcyNzI4OTczOTY3MzYx",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1866681194584346628/U9dNJG42_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Jan 30 01:39:07 +0000 2023",
+            "name": "小水母",
+            "screen_name": "fish__olo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 391,
+            "friends_count": 384,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 32,
@@ -42,16 +54,33 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1675042747000,
-            "updated_at": 1744350096785
+            "updated_at": 1752846618931
         }
     }
 }

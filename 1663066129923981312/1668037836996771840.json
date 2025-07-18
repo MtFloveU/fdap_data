@@ -2,15 +2,15 @@
     "id": "1668037836996771840",
     "screen_name": "cha_li_jin",
     "name": "天才少女察里津",
-    "description": "🏳️‍⚧️🍥丨人类观测日记丨最爱的： @heinai6",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1823981351139467269/mNT0SHzG_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668037836996771840/1739959852",
-    "followers_count": 2427,
-    "friends_count": 531,
-    "statuses_count": 1060,
-    "favourites_count": 5685,
-    "listed_count": 11,
-    "location": "距你10m",
+    "description": "🏳️‍⚧️🍥丨人类观测日记，亲密关系回避型，阴湿开朗系长发男，我发癫请你别当真，梦想成为技术全能型丨个人照片请戳“媒体”，扩列条请戳下面的网址丨没有门槛，不接线下丨最爱的： @heinai6丨负能发泄小号 @luckin_coffee_  不过人",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1937802250342322176/YVx9onB8_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668037836996771840/1751078395",
+    "followers_count": 3115,
+    "friends_count": 656,
+    "statuses_count": 1356,
+    "favourites_count": 7186,
+    "listed_count": 12,
+    "location": "距你114m",
     "website": "https://t.co/TUSit4woVz",
     "birthdate": null,
     "verified_type": null,
@@ -26,7 +26,7 @@
         "id": "VXNlcjoxNjY4MDM3ODM2OTk2NzcxODQw",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1823981351139467269/mNT0SHzG_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1937802250342322176/YVx9onB8_normal.jpg"
         },
         "core": {
             "created_at": "Sun Jun 11 23:29:56 +0000 2023",
@@ -59,12 +59,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 531,
+            "friends_count": 656,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 142,
+            "media_count": 169,
             "pinned_tweet_ids_str": [
-                "1922313335476768993"
+                "1940983556492435942"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -74,7 +74,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "距你10m"
+            "location": "距你114m"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -88,13 +88,15 @@
             "followed_by": true,
             "following": true
         },
-        "tipjar_settings": {},
+        "tipjar_settings": {
+            "is_enabled": false
+        },
         "verification": {
             "verified": false
         },
         "twe_private_fields": {
             "created_at": 1686526196000,
-            "updated_at": 1750404921163
+            "updated_at": 1752846622590
         }
     }
 }

@@ -1,31 +1,43 @@
 {
     "id": "1739181414237769728",
     "screen_name": "dezta0925",
-    "name": "User086766",
-    "description": "",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1858757139176820736/rfeBF6IB_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739181414237769728/1731997211",
-    "followers_count": 104,
-    "statuses_count": 7,
-    "favourites_count": 43,
+    "name": "HsuYuming🍥",
+    "description": "mtf 准高一新牲 15 接本地线下 小号@DeztaCode 如需技术支持请私信",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1938085938053394432/ooo1BMji_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739181414237769728/1750910669",
+    "followers_count": 106,
+    "friends_count": 288,
+    "statuses_count": 12,
+    "favourites_count": 44,
     "listed_count": 0,
+    "location": "山东省聊城市东昌府",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-12-25 15:09:24 +08:00",
     "url": "https://twitter.com/dezta0925",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzM5MTgxNDE0MjM3NzY5NzI4",
         "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1938085938053394432/ooo1BMji_normal.jpg"
+        },
+        "core": {
+            "created_at": "Mon Dec 25 07:09:24 +0000 2023",
+            "name": "HsuYuming🍥",
+            "screen_name": "dezta0925"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": false,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 292,
+            "friends_count": 288,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 0,
+            "media_count": 1,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "山东省聊城市东昌府"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1703488164000,
-            "updated_at": 1744350099731
+            "updated_at": 1752846619819
         }
     }
 }

@@ -2,28 +2,42 @@
     "id": "1344660543131557895",
     "screen_name": "k3Cat24",
     "name": "k᳐3喵᳐੭ 🍥",
-    "description": "不要问为什么明明是猫猫却要用狐狸头像。。。因为可爱。。。。qvq",
-    "location": "",
+    "description": "为什么是猫猫却要用狐狸头像？因为可爱。。。。qvq  #成分请自己查",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1344662106663170049/ED8HLJNr_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344660543131557895/1726674736",
-    "followers_count": 444,
-    "statuses_count": 1803,
-    "favourites_count": 3513,
+    "followers_count": 480,
+    "friends_count": 413,
+    "statuses_count": 1982,
+    "favourites_count": 3770,
     "listed_count": 2,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2020-12-31 23:04:51 +08:00",
     "url": "https://twitter.com/k3Cat24",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzQ0NjYwNTQzMTMxNTU3ODk1",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1344662106663170049/ED8HLJNr_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Dec 31 15:04:51 +0000 2020",
+            "name": "k᳐3喵᳐੭ 🍥",
+            "screen_name": "k3Cat24"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 412,
+            "friends_count": 413,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 33,
+            "media_count": 40,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1609427091000,
-            "updated_at": 1746080543873
+            "updated_at": 1752846550885
         }
     }
 }

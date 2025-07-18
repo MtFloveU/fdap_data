@@ -1,16 +1,16 @@
 {
     "id": "1795720702554787840",
     "screen_name": "ErinJohnso30164",
-    "name": "虚无味*薯片//🍥",
-    "description": "一只药娘/无人在意/意识流选手/一缕魂魄罢了..接线下 🚪看置顶内容",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1863112523630710785/PUc7HdSb_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795720702554787840/1732354838",
-    "followers_count": 1575,
-    "friends_count": 778,
-    "statuses_count": 125,
-    "favourites_count": 210,
-    "listed_count": 4,
-    "location": "福建",
+    "name": "ᓀ海葉ᓂ（淡推）🍥",
+    "description": "明天你还在吗",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1945859357603930112/CiWxDGl6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795720702554787840/1752764011",
+    "followers_count": 1617,
+    "friends_count": 790,
+    "statuses_count": 145,
+    "favourites_count": 287,
+    "listed_count": 5,
+    "location": "",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -26,17 +26,17 @@
         "id": "VXNlcjoxNzk1NzIwNzAyNTU0Nzg3ODQw",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1863112523630710785/PUc7HdSb_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1945859357603930112/CiWxDGl6_normal.jpg"
         },
         "core": {
             "created_at": "Wed May 29 07:36:03 +0000 2024",
-            "name": "虚无味*薯片//🍥",
+            "name": "ᓀ海葉ᓂ（淡推）🍥",
             "screen_name": "ErinJohnso30164"
         },
         "dm_permissions": {
             "can_dm": true
         },
-        "has_graduated_access": false,
+        "has_graduated_access": true,
         "legacy": {
             "default_profile": true,
             "default_profile_image": false,
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 778,
+            "friends_count": 790,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 24,
+            "media_count": 29,
             "pinned_tweet_ids_str": [
                 "1920824389882315179"
             ],
@@ -60,7 +60,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "福建"
+            "location": ""
         },
         "media_permissions": {
             "can_media_tag": true
@@ -80,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1716968163000,
-            "updated_at": 1750232237870
+            "updated_at": 1752846543502
         }
     }
 }

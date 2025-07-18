@@ -2,16 +2,16 @@
     "id": "1467175651954200577",
     "screen_name": "kjkluk",
     "name": "川井 橘音🏳️‍⚧️",
-    "description": "🦊/plurality/🍥🏳️‍⚧️/轉發機 @kawa1_kitsune/成分複雜/發病/一般情況無攻擊性/歡迎私信或網站中聯絡方式",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1927213078019481600/hoi_G8nk_normal.jpg",
+    "description": "🦊/plurality/🍥🏳️‍⚧️/轉發機 @kawa1_kitsune/成分複雜/發病/一般情況無攻擊性/歡迎私信或網站中聯絡方式/上一个出了點問題請後面再試",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1941254122218393600/AuxvyUXi_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 2262,
-    "friends_count": 2922,
-    "statuses_count": 11905,
-    "favourites_count": 261443,
-    "listed_count": 14,
+    "followers_count": 2333,
+    "friends_count": 3105,
+    "statuses_count": 13010,
+    "favourites_count": 286246,
+    "listed_count": 15,
     "location": "Japan",
-    "website": "https://t.co/i3MKU3U8dO",
+    "website": "https://t.co/i3MKU3UG3m",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2021-12-05 00:55:23 +08:00",
     "url": "https://twitter.com/kjkluk",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDY3MTc1NjUxOTU0MjAwNTc3",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1927213078019481600/hoi_G8nk_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1941254122218393600/AuxvyUXi_normal.jpg"
         },
         "core": {
             "created_at": "Sat Dec 04 16:55:23 +0000 2021",
@@ -49,7 +49,7 @@
                         {
                             "display_url": "kjkluk.github.io",
                             "expanded_url": "http://kjkluk.github.io",
-                            "url": "https://t.co/i3MKU3U8dO",
+                            "url": "https://t.co/i3MKU3UG3m",
                             "indices": [
                                 0,
                                 23
@@ -59,15 +59,17 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2922,
+            "friends_count": 3105,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 832,
-            "pinned_tweet_ids_str": [],
+            "media_count": 898,
+            "pinned_tweet_ids_str": [
+                "1932904144186360228"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/i3MKU3U8dO",
+            "url": "https://t.co/i3MKU3UG3m",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -94,8 +96,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219079495
+            "created_at": 1638636923000,
+            "updated_at": 1752846626572
         }
     }
 }

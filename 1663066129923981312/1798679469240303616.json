@@ -2,13 +2,13 @@
     "id": "1798679469240303616",
     "screen_name": "nmslnmsl233333",
     "name": "美月",
-    "description": "无社交意义，私人号",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1927581906561912832/2Hk-PFGR_normal.jpg",
+    "description": "一个坏人",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1945441349886447616/jzYPyvkl_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798679469240303616/1724522579",
     "followers_count": 9,
-    "friends_count": 205,
-    "statuses_count": 1259,
-    "favourites_count": 3605,
+    "friends_count": 224,
+    "statuses_count": 1637,
+    "favourites_count": 4071,
     "listed_count": 0,
     "location": "",
     "website": null,
@@ -19,14 +19,14 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-06-06 19:33:14 +08:00",
     "url": "https://twitter.com/nmslnmsl233333",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk4Njc5NDY5MjQwMzAzNjE2",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1927581906561912832/2Hk-PFGR_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1945441349886447616/jzYPyvkl_normal.jpg"
         },
         "core": {
             "created_at": "Thu Jun 06 11:33:14 +0000 2024",
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 205,
+            "friends_count": 224,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 96,
+            "media_count": 133,
             "pinned_tweet_ids_str": [
-                "1920620999457853903"
+                "1938201513458868347"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219029081
+            "created_at": 1717673594000,
+            "updated_at": 1752846533812
         }
     }
 }

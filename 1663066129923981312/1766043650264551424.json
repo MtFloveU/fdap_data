@@ -1,17 +1,17 @@
 {
     "id": "1766043650264551424",
     "screen_name": "qiqibushibendan",
-    "name": "七七七七七~",
-    "description": "xyn 🍥 抽象b 让人火大😡 不喜欢请把我屏蔽 很抱歉 不歧视讨厌任何人类 或者说平等的讨厌所有人类 友跨 友反贼 友粉红 友劳保 友站街 友所有碳基生物 地图炮轰到你或者骂你并不代表讨厌你👿同样 可以来骂我😡 我们还是充满爱🥰",
+    "name": "七七七七七(日雌红针泌乳长胸针)",
+    "description": "14岁xyn 🍥 抽象b 让人火大😡 不喜欢请把我屏蔽 很抱歉 自建翻墙服务器联系我 自建机场联系我 👿彩虹糖有售 客服频道在下面 直接私也行的 钱到位什么都做",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1923295237914632192/ed-SXsE7_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766043650264551424/1746005902",
-    "followers_count": 981,
-    "friends_count": 125,
-    "statuses_count": 2478,
-    "favourites_count": 7020,
-    "listed_count": 1,
-    "location": "宜家",
-    "website": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766043650264551424/1752569228",
+    "followers_count": 1271,
+    "friends_count": 138,
+    "statuses_count": 2577,
+    "favourites_count": 7367,
+    "listed_count": 0,
+    "location": "IKEA",
+    "website": "https://t.co/fcAij789Hx",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Fri Mar 08 10:10:03 +0000 2024",
-            "name": "七七七七七~",
+            "name": "七七七七七(日雌红针泌乳长胸针)",
             "screen_name": "qiqibushibendan"
         },
         "dm_permissions": {
@@ -43,24 +43,38 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/qiqibushibendan",
+                            "expanded_url": "http://t.me/qiqibushibendan",
+                            "url": "https://t.co/fcAij789Hx",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 125,
+            "friends_count": 138,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 196,
+            "media_count": 168,
             "pinned_tweet_ids_str": [
-                "1895686583023780159"
+                "1945880693793603816"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/fcAij789Hx",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "宜家"
+            "location": "IKEA"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -82,7 +96,7 @@
         },
         "twe_private_fields": {
             "created_at": 1709892603000,
-            "updated_at": 1750232279957
+            "updated_at": 1752846623602
         }
     }
 }

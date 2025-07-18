@@ -2,30 +2,42 @@
     "id": "1753419726582345728",
     "screen_name": "GravitySwiss",
     "name": "GravitySwiss",
-    "description": "open your eyes for the next ∅'s",
-    "location": "Κωνσταντινούπολις",
+    "description": "「神圣之泉干枯之时，凄厉的战士如雷电之态现身，太阳被黑暗埋葬」",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753419726582345728/1706885627",
-    "followers_count": 1914,
-    "statuses_count": 27928,
-    "favourites_count": 96367,
-    "listed_count": 17,
+    "followers_count": 2402,
+    "friends_count": 2892,
+    "statuses_count": 37042,
+    "favourites_count": 124222,
+    "listed_count": 14,
+    "location": "Κωνσταντινούπολις",
+    "website": "https://t.co/eEO2O5kmpg",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-02-02 22:07:38 +08:00",
     "url": "https://twitter.com/GravitySwiss",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzUzNDE5NzI2NTgyMzQ1NzI4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Feb 02 14:07:38 +0000 2024",
+            "name": "GravitySwiss",
+            "screen_name": "GravitySwiss"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,30 +59,47 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2585,
+            "friends_count": 2892,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1291,
+            "media_count": 1586,
             "pinned_tweet_ids_str": [
-                "1882848053792813350"
+                "1940446075699282266"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/eEO2O5kmpg",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Κωνσταντινούπολις"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1822268887968133204",
             "professional_type": "Creator",
             "category": []
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1706882858000,
-            "updated_at": 1744350106481
+            "updated_at": 1752846622590
         }
     }
 }

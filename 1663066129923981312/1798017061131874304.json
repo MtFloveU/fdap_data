@@ -1,17 +1,17 @@
 {
     "id": "1798017061131874304",
     "screen_name": "cupric_oxide_",
-    "name": "氧化铜🍥",
-    "description": "事你铜\n穹璃：@qiongli_baka\n此方： @ci_shang85157\n提问 ↓",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1908351908139638784/CvNsELNq_normal.jpg",
+    "name": "氧化铜",
+    "description": "好朋友： @ci_shang85157\n提问箱：https://t.co/KPi3tnq69a\n窝永远稀饭lin_io ！！！！！",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1937009406178156544/ulz_KmKT_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798017061131874304/1742106826",
-    "followers_count": 1144,
-    "friends_count": 1385,
-    "statuses_count": 4825,
-    "favourites_count": 27746,
-    "listed_count": 6,
-    "location": "wherever",
-    "website": "https://t.co/KPi3tnq69a",
+    "followers_count": 1158,
+    "friends_count": 1393,
+    "statuses_count": 5075,
+    "favourites_count": 27980,
+    "listed_count": 5,
+    "location": "南门二",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -26,11 +26,11 @@
         "id": "VXNlcjoxNzk4MDE3MDYxMTMxODc0MzA0",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1908351908139638784/CvNsELNq_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1937009406178156544/ulz_KmKT_normal.jpg"
         },
         "core": {
             "created_at": "Tue Jun 04 15:40:59 +0000 2024",
-            "name": "氧化铜🍥",
+            "name": "氧化铜",
             "screen_name": "cupric_oxide_"
         },
         "dm_permissions": {
@@ -42,39 +42,35 @@
             "default_profile_image": false,
             "entities": {
                 "description": {
-                    "urls": []
-                },
-                "url": {
                     "urls": [
                         {
                             "display_url": "ngl.link/cupric_oxide/",
                             "expanded_url": "https://ngl.link/cupric_oxide/",
                             "url": "https://t.co/KPi3tnq69a",
                             "indices": [
-                                0,
-                                23
+                                24,
+                                47
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1385,
+            "friends_count": 1393,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 691,
+            "media_count": 785,
             "pinned_tweet_ids_str": [
-                "1911043718855213290"
+                "1945827582550962223"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/KPi3tnq69a",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "wherever"
+            "location": "南门二"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -96,7 +92,7 @@
         },
         "twe_private_fields": {
             "created_at": 1717515659000,
-            "updated_at": 1750232256648
+            "updated_at": 1752846592776
         }
     }
 }

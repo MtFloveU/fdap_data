@@ -1,15 +1,15 @@
 {
     "id": "1804154448215969795",
-    "screen_name": "bushi_233",
-    "name": "枫糖万叶 (贴贴bot)",
-    "description": "坐标天津｜出生于2008年｜喜欢推油们😘｜淡推ing｜成分复杂｜mtf/x｜姐姐:@Muoujiang_｜好朋友:@mizuki_bot ｜树洞/逃生舱:@aaazbushi",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1919261449983283200/oSpFMpfT_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804154448215969795/1749404724",
-    "followers_count": 385,
-    "friends_count": 770,
-    "statuses_count": 1821,
-    "favourites_count": 3625,
-    "listed_count": 1,
+    "screen_name": "bushi_8964",
+    "name": "枫糖万叶喵⛩️ (贴贴bot)",
+    "description": "是一只猫猫｜喜欢推油们😘｜淡推ing｜坐标天津｜成分复杂｜mtf/x｜最爱的@Benji_Dune｜姐姐 @Moningmeng｜好朋友@mizuki_bot ｜早晚会似.小号: @bushi_233",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1942494297535692801/PQlihxX2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804154448215969795/1751378198",
+    "followers_count": 595,
+    "friends_count": 1042,
+    "statuses_count": 2603,
+    "favourites_count": 6431,
+    "listed_count": 2,
     "location": "IP属地：璃月港",
     "website": "https://t.co/eHYOCP1WJf",
     "birthdate": null,
@@ -20,7 +20,7 @@
     "can_dm": true,
     "protected": false,
     "created_at": "2024-06-21 22:08:50 +08:00",
-    "url": "https://twitter.com/bushi_233",
+    "url": "https://twitter.com/bushi_8964",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODA0MTU0NDQ4MjE1OTY5Nzk1",
@@ -56,12 +56,12 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1919261449983283200/oSpFMpfT_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1942494297535692801/PQlihxX2_normal.jpg"
         },
         "core": {
             "created_at": "Fri Jun 21 14:08:50 +0000 2024",
-            "name": "枫糖万叶 (贴贴bot)",
-            "screen_name": "bushi_233"
+            "name": "枫糖万叶喵⛩️ (贴贴bot)",
+            "screen_name": "bushi_8964"
         },
         "dm_permissions": {
             "can_dm": true
@@ -89,12 +89,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 770,
+            "friends_count": 1042,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 174,
+            "media_count": 260,
+            "notifications": true,
             "pinned_tweet_ids_str": [
-                "1849612974287462759"
+                "1941798200882680157"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -138,7 +139,7 @@
         },
         "twe_private_fields": {
             "created_at": 1718978930000,
-            "updated_at": 1750232265295
+            "updated_at": 1752846619818
         }
     }
 }

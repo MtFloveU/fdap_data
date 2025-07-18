@@ -3,29 +3,41 @@
     "screen_name": "huahuojiang_",
     "name": "花火酱～",
     "description": "诶嘿～好无聊呀~｜加点东西@Muoujiang_｜换一个提问箱：https://t.co/LtoB1mlWHz",
-    "location": "匹诺康尼",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769078117052854272/1711007696",
-    "followers_count": 5527,
-    "statuses_count": 65028,
-    "favourites_count": 77378,
+    "followers_count": 6220,
+    "friends_count": 3660,
+    "statuses_count": 77038,
+    "favourites_count": 89335,
     "listed_count": 13,
+    "location": "匹诺康尼",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-03-17 03:07:54 +08:00",
     "url": "https://twitter.com/huahuojiang_",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzY5MDc4MTE3MDUyODU0Mjcy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Mar 16 19:07:54 +0000 2024",
+            "name": "花火酱～",
+            "screen_name": "huahuojiang_"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -44,20 +56,27 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3519,
+            "friends_count": 3660,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 3499,
+            "media_count": 4825,
             "pinned_tweet_ids_str": [
-                "1874363360755831286"
+                "1939327665745564090"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "匹诺康尼"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1835715476992954700",
             "professional_type": "Creator",
@@ -69,12 +88,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1710616074000,
-            "updated_at": 1744350106481
+            "updated_at": 1752846623602
         }
     }
 }

@@ -1,15 +1,15 @@
 {
     "id": "1682428492078788608",
     "screen_name": "shiroko486318",
-    "name": "和摇滚的你说拜拜",
+    "name": "神秘粉毛",
     "description": "08|Wuhan|类人生物|EnOK|MtF|HRT240714|炸柜|小号@ARIAS114514",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1939655932293623809/k_67xx2S_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682428492078788608/1729538776",
-    "followers_count": 565,
-    "friends_count": 687,
-    "statuses_count": 2173,
-    "favourites_count": 1389,
-    "listed_count": 4,
+    "followers_count": 569,
+    "friends_count": 696,
+    "statuses_count": 2264,
+    "favourites_count": 1470,
+    "listed_count": 3,
     "location": "OM70##",
     "website": "https://t.co/XGIERxMtx3",
     "birthdate": null,
@@ -19,18 +19,18 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-07-22 00:33:21 +08:00",
     "url": "https://twitter.com/shiroko486318",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjgyNDI4NDkyMDc4Nzg4NjA4",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1939655932293623809/k_67xx2S_normal.jpg"
         },
         "core": {
             "created_at": "Fri Jul 21 16:33:21 +0000 2023",
-            "name": "和摇滚的你说拜拜",
+            "name": "神秘粉毛",
             "screen_name": "shiroko486318"
         },
         "dm_permissions": {
@@ -59,11 +59,13 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 687,
+            "friends_count": 696,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 286,
-            "pinned_tweet_ids_str": [],
+            "media_count": 312,
+            "pinned_tweet_ids_str": [
+                "1938795641771302991"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -91,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219062663
+            "created_at": 1689957201000,
+            "updated_at": 1752846611714
         }
     }
 }

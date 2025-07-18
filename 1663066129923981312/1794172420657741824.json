@@ -2,30 +2,42 @@
     "id": "1794172420657741824",
     "screen_name": "Twotk37Wang",
     "name": "吹皱一池春水",
-    "description": "INTP（话说真的有人信这种东西吗）害怕攻击性强的人🥲",
-    "location": "",
+    "description": "",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1818568124171755520/cluS2Lzg_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794172420657741824/1722415416",
-    "followers_count": 12,
-    "statuses_count": 33,
-    "favourites_count": 794,
+    "followers_count": 24,
+    "friends_count": 130,
+    "statuses_count": 34,
+    "favourites_count": 802,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-05-25 09:04:06 +08:00",
     "url": "https://twitter.com/Twotk37Wang",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk0MTcyNDIwNjU3NzQxODI0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1818568124171755520/cluS2Lzg_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat May 25 01:04:06 +0000 2024",
+            "name": "吹皱一池春水",
+            "screen_name": "Twotk37Wang"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 133,
+            "friends_count": 130,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 3,
@@ -42,14 +54,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1716599046000,
-            "updated_at": 1744350023458
+            "updated_at": 1752846537498
         }
     }
 }

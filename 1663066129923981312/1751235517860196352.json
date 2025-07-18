@@ -1,15 +1,15 @@
 {
     "id": "1751235517860196352",
     "screen_name": "Cynun75x",
-    "name": "Cynun🏳️‍⚧️",
+    "name": "Cynun",
     "description": "Cynun | 碎碎念 | 计算机用户 | 鱼网的鱼 | @cynun:https://t.co/HkIt3gWsqs",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1889986897759686656/qS6XIa1v_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751235517860196352/1715384753",
-    "followers_count": 731,
-    "friends_count": 839,
-    "statuses_count": 5443,
-    "favourites_count": 21860,
-    "listed_count": 7,
+    "followers_count": 735,
+    "friends_count": 880,
+    "statuses_count": 5981,
+    "favourites_count": 23475,
+    "listed_count": 6,
     "location": "鱼网",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-01-27 21:27:55 +08:00",
     "url": "https://twitter.com/Cynun75x",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat Jan 27 13:27:55 +0000 2024",
-            "name": "Cynun🏳️‍⚧️",
+            "name": "Cynun",
             "screen_name": "Cynun75x"
         },
         "dm_permissions": {
@@ -56,12 +56,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 839,
+            "friends_count": 880,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 518,
+            "media_count": 544,
             "pinned_tweet_ids_str": [
-                "1929723611323289917"
+                "1945768403098312790"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -89,8 +89,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219066708
+            "created_at": 1706362075000,
+            "updated_at": 1752846616262
         }
     }
 }

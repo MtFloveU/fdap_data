@@ -2,28 +2,42 @@
     "id": "1497064983968075776",
     "screen_name": "AdamTCanterbury",
     "name": "Adam Canterbury",
-    "description": "V8 powered Kiwi 🥝 🇳🇿 broke car enthusiast. @BMW lover, @Audi hater,  @Alfa_Romeo gooner. Worst driver in North Island. girlfriend: @invalid_not_f",
+    "description": "V8 powered Kiwi 🥝 🇳🇿 broke car enthusiast. No I’m not a conservative. girlfriend: @invalid_not_f",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1935948140416581637/yOE_XnVl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497064983968075776/1749800985",
+    "followers_count": 1310,
+    "friends_count": 857,
+    "statuses_count": 23672,
+    "favourites_count": 104393,
+    "listed_count": 9,
     "location": "Glentanner Parking Area",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1916896449805340672/lb3lM7PN_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497064983968075776/1745858743",
-    "followers_count": 1331,
-    "statuses_count": 23452,
-    "favourites_count": 104159,
-    "listed_count": 10,
+    "website": "https://t.co/gpczcGhUDG",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-02-25 12:24:55 +08:00",
     "url": "https://twitter.com/AdamTCanterbury",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDk3MDY0OTgzOTY4MDc1Nzc2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1935948140416581637/yOE_XnVl_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Feb 25 04:24:55 +0000 2022",
+            "name": "Adam Canterbury",
+            "screen_name": "AdamTCanterbury"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -45,29 +59,44 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 862,
+            "friends_count": 857,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1380,
+            "media_count": 1452,
             "pinned_tweet_ids_str": [
-                "1912431414060151223"
+                "1937483830463725961"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/gpczcGhUDG",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Glentanner Parking Area"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1645763095000,
-            "updated_at": 1746077182049
+            "updated_at": 1752846618060
         }
     }
 }

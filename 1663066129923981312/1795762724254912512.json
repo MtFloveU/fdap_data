@@ -2,13 +2,13 @@
     "id": "1795762724254912512",
     "screen_name": "ZDC114",
     "name": "ZDself-neutral",
-    "description": "爱好和平",
+    "description": "会关注任何感兴趣的人，无论观点赞同与否",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1795763095673196544/_j44KcOc_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 33,
-    "friends_count": 136,
-    "statuses_count": 423,
-    "favourites_count": 1803,
+    "followers_count": 36,
+    "friends_count": 150,
+    "statuses_count": 455,
+    "favourites_count": 1974,
     "listed_count": 0,
     "location": "北京市",
     "website": null,
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 136,
+            "friends_count": 150,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 17,
+            "media_count": 22,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -78,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1716978190000,
-            "updated_at": 1750232226184
+            "updated_at": 1752846530563
         }
     }
 }

@@ -3,28 +3,41 @@
     "screen_name": "JiZhenYouZi",
     "name": "纪真由子",
     "description": "九嶷山上白云飞，帝子乘风下翠微。",
-    "location": "彩云间",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1905429001339850752/NNL9e5cv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553107630511603712/1743124654",
-    "followers_count": 8211,
-    "statuses_count": 14487,
-    "favourites_count": 19380,
-    "listed_count": 34,
+    "followers_count": 8092,
+    "friends_count": 3233,
+    "statuses_count": 14575,
+    "favourites_count": 19678,
+    "listed_count": 31,
+    "location": "彩云间",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-07-30 03:58:53 +08:00",
     "url": "https://twitter.com/JiZhenYouZi",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTUzMTA3NjMwNTExNjAzNzEy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1905429001339850752/NNL9e5cv_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Jul 29 19:58:53 +0000 2022",
+            "name": "纪真由子",
+            "screen_name": "JiZhenYouZi"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,24 +46,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3266,
+            "friends_count": 3233,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 1310,
+            "media_count": 1311,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "彩云间"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1659124733000,
-            "updated_at": 1746077174316
+            "updated_at": 1752846611714
         }
     }
 }

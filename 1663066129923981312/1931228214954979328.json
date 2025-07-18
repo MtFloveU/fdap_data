@@ -1,0 +1,84 @@
+{
+    "id": "1931228214954979328",
+    "screen_name": "df_tra",
+    "name": "RyouDYFZ",
+    "description": "是一个小号呢（大号是死寂的@fengzihangdanny ）\n\n🏳️‍⚧️一个积极乐观的MtF（吧？）｜还在随访期的家长党\n🔨应用开发 开源贡献者 也参加本地化\n英语不错 | 目前同时在学法语与日语｜摄影爱好者 | 飞友\n希望世上永远没有对LGBT的歧视啦，也祝你天天都愉快哦\n\n最爱的男友@xiaopi0213",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1944621328662937600/RywXW1or_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1931228214954979328/1750947244",
+    "followers_count": 75,
+    "friends_count": 157,
+    "statuses_count": 138,
+    "favourites_count": 825,
+    "listed_count": 0,
+    "location": "Chongqing, China",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2025-06-07 13:54:33 +08:00",
+    "url": "https://twitter.com/df_tra",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxOTMxMjI4MjE0OTU0OTc5MzI4",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1944621328662937600/RywXW1or_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Jun 07 05:54:33 +0000 2025",
+            "name": "RyouDYFZ",
+            "screen_name": "df_tra"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 157,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 19,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Chongqing, China"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1749275673000,
+            "updated_at": 1752846528414
+        }
+    }
+}

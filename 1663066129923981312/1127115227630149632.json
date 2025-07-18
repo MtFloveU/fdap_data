@@ -1,14 +1,14 @@
 {
     "id": "1127115227630149632",
     "screen_name": "hatsuki_mumu",
-    "name": "叶",
-    "description": "mtx | @CelestialNeb @InnocetRabbit BFF | @storMTXsnow8964 猫猫 | 🟨⬜️🟪⬛️",
+    "name": "疯狂小叶",
+    "description": "@CelestialNeb @InnocetRabbit BFF | @storMTXsnow8964 猫猫 | 🟨⬜️🟪⬛️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1900930270666387456/cCA5FlvK_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127115227630149632/1741513565",
-    "followers_count": 305,
-    "friends_count": 48,
-    "statuses_count": 1391,
-    "favourites_count": 10289,
+    "followers_count": 301,
+    "friends_count": 47,
+    "statuses_count": 1446,
+    "favourites_count": 10417,
     "listed_count": 2,
     "location": "",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2019-05-11 15:36:25 +08:00",
     "url": "https://twitter.com/hatsuki_mumu",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Sat May 11 07:36:25 +0000 2019",
-            "name": "叶",
+            "name": "疯狂小叶",
             "screen_name": "hatsuki_mumu"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 48,
+            "friends_count": 47,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 347,
+            "media_count": 378,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -81,8 +81,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219071821
+            "created_at": 1557560185000,
+            "updated_at": 1752846620643
         }
     }
 }

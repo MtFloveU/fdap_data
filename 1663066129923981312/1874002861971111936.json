@@ -2,30 +2,42 @@
     "id": "1874002861971111936",
     "screen_name": "zxzxovo",
     "name": "芷OvO夏",
-    "description": "infp| 深柜半含糖🍥| 日常推🍭| 四年级自闭女大| 计算机| 游戏🎮| 没钱但摄影| 爱听歌| 蓄发中| 纸飞机 https://t.co/DRSuko6s7x| \n梯子 https://t.co/CWOXulqjjm 邀请码 Cxoxbuc9",
-    "location": "不知道在哪儿格勒",
+    "description": "infp| 日常推🍭| 自闭毕业女大| 计算机| 游戏🎮| 没钱但摄影| 爱听歌| 蓄发中| 纸飞机 https://t.co/DRSuko5UhZ",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1906153536381157377/wHbh8-jX_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874002861971111936/1743297486",
-    "followers_count": 144,
-    "statuses_count": 246,
-    "favourites_count": 2257,
+    "followers_count": 194,
+    "friends_count": 542,
+    "statuses_count": 306,
+    "favourites_count": 3332,
     "listed_count": 1,
+    "location": "不知道在哪儿格勒",
+    "website": "https://t.co/xOyiQTFna4",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-12-31 16:01:22 +08:00",
     "url": "https://twitter.com/zxzxovo",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODc0MDAyODYxOTcxMTExOTM2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1906153536381157377/wHbh8-jX_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Dec 31 08:01:22 +0000 2024",
+            "name": "芷OvO夏",
+            "screen_name": "zxzxovo"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,19 +46,10 @@
                         {
                             "display_url": "t.me/zhixiaovo",
                             "expanded_url": "http://t.me/zhixiaovo",
-                            "url": "https://t.co/DRSuko6s7x",
+                            "url": "https://t.co/DRSuko5UhZ",
                             "indices": [
-                                60,
-                                83
-                            ]
-                        },
-                        {
-                            "display_url": "bento.me/bingling",
-                            "expanded_url": "http://bento.me/bingling",
-                            "url": "https://t.co/CWOXulqjjm",
-                            "indices": [
-                                89,
-                                112
+                                51,
+                                74
                             ]
                         }
                     ]
@@ -56,7 +59,7 @@
                         {
                             "display_url": "hizhixia.site",
                             "expanded_url": "https://hizhixia.site",
-                            "url": "https://t.co/xOyiQTFUZC",
+                            "url": "https://t.co/xOyiQTFna4",
                             "indices": [
                                 0,
                                 23
@@ -66,25 +69,42 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 462,
+            "friends_count": 542,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 54,
+            "media_count": 65,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/xOyiQTFUZC",
-            "verified": false,
+            "url": "https://t.co/xOyiQTFna4",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "不知道在哪儿格勒"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1735632082000,
-            "updated_at": 1744350083621
+            "updated_at": 1752846612950
         }
     }
 }

@@ -2,30 +2,42 @@
     "id": "1303335410609790976",
     "screen_name": "Rococo90933671",
     "name": "大狐帝国史官邹智萱（笔名段歌文）",
-    "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
-    "location": "IP属地：大狐帝国京师文华殿",
+    "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1723203679",
-    "followers_count": 4723,
-    "statuses_count": 13615,
-    "favourites_count": 24183,
-    "listed_count": 10,
+    "followers_count": 5116,
+    "friends_count": 2155,
+    "statuses_count": 14900,
+    "favourites_count": 25550,
+    "listed_count": 9,
+    "location": "IP属地：大狐帝国京师文华殿",
+    "website": "https://t.co/FNHXVrsXJh",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2020-09-08 22:12:46 +08:00",
     "url": "https://twitter.com/Rococo90933671",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMzAzMzM1NDEwNjA5NzkwOTc2",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg"
+        },
+        "core": {
+            "created_at": "Tue Sep 08 14:12:46 +0000 2020",
+            "name": "大狐帝国史官邹智萱（笔名段歌文）",
+            "screen_name": "Rococo90933671"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -47,10 +59,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2142,
+            "friends_count": 2155,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1985,
+            "media_count": 2348,
             "pinned_tweet_ids_str": [
                 "1896091552017236177"
             ],
@@ -58,14 +70,31 @@
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/FNHXVrsXJh",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "IP属地：大狐帝国京师文华殿"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1599574366000,
-            "updated_at": 1744350109138
+            "updated_at": 1752846623602
         }
     }
 }

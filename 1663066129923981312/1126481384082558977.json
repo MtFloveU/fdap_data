@@ -2,30 +2,42 @@
     "id": "1126481384082558977",
     "screen_name": "natsu_kusa1",
     "name": "夏草🍀",
-    "description": "喜欢你 @tadaima33",
-    "location": "阴暗的角落",
+    "description": "淡推｜喜欢你 @tadaima33",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1839138075827646466/jis4_vpc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1126481384082558977/1727319660",
-    "followers_count": 1727,
-    "statuses_count": 886,
-    "favourites_count": 3705,
-    "listed_count": 4,
+    "followers_count": 1699,
+    "friends_count": 436,
+    "statuses_count": 953,
+    "favourites_count": 3594,
+    "listed_count": 5,
+    "location": "阴暗的角落",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2019-05-09 21:37:45 +08:00",
     "url": "https://twitter.com/natsu_kusa1",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTI2NDgxMzg0MDgyNTU4OTc3",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1839138075827646466/jis4_vpc_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu May 09 13:37:45 +0000 2019",
+            "name": "夏草🍀",
+            "screen_name": "natsu_kusa1"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 452,
+            "friends_count": 436,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 172,
+            "media_count": 192,
             "pinned_tweet_ids_str": [
-                "1902390615863898307"
+                "1925416213523693595"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "阴暗的角落"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1557409065000,
-            "updated_at": 1744350087213
+            "updated_at": 1752846616262
         }
     }
 }

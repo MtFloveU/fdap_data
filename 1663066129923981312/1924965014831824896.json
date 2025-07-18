@@ -1,17 +1,17 @@
 {
     "id": "1924965014831824896",
-    "screen_name": "Yuwen_Tang1019",
-    "name": "NoMTF | 唐毓文",
-    "description": "MTF木桶饭\n墨尔本\n其实一点也不傲娇\n反跨\nq群975641126\nhttps://t.co/HRulu0zTpS",
+    "screen_name": "Tang_1019",
+    "name": "唐毓文",
+    "description": "MTF（hrt2025.6.30）\nENFP-T/\n亲友:\n贱贱的老公:@zhishi_cook\n狗子:@gogh1988174\n家庭成员? 奴? 反正是我的人:@hyc945\n墨尔本\n道德价值观如钢板\n反跨\nq群975641126\nhttps://t.co/HRulu0zlAk",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924965014831824896/1750051955",
-    "followers_count": 1135,
-    "friends_count": 195,
-    "statuses_count": 1247,
-    "favourites_count": 78,
+    "followers_count": 1669,
+    "friends_count": 448,
+    "statuses_count": 1768,
+    "favourites_count": 117,
     "listed_count": 0,
-    "location": "Melbourne, Victoria",
-    "website": "https://t.co/itsNX2I7yj",
+    "location": "妈妈的怀里",
+    "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": true,
@@ -20,7 +20,7 @@
     "can_dm": true,
     "protected": false,
     "created_at": "2025-05-21 07:06:47 +08:00",
-    "url": "https://twitter.com/Yuwen_Tang1019",
+    "url": "https://twitter.com/Tang_1019",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxOTI0OTY1MDE0ODMxODI0ODk2",
@@ -30,8 +30,8 @@
         },
         "core": {
             "created_at": "Tue May 20 23:06:47 +0000 2025",
-            "name": "NoMTF | 唐毓文",
-            "screen_name": "Yuwen_Tang1019"
+            "name": "唐毓文",
+            "screen_name": "Tang_1019"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,46 +46,34 @@
                         {
                             "display_url": "t.me/+DhBw7EtOmx01Z…",
                             "expanded_url": "https://t.me/+DhBw7EtOmx01ZDY1",
-                            "url": "https://t.co/HRulu0zTpS",
+                            "url": "https://t.co/HRulu0zlAk",
                             "indices": [
-                                35,
-                                58
-                            ]
-                        }
-                    ]
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "NoMTF.COM",
-                            "expanded_url": "http://NoMTF.COM",
-                            "url": "https://t.co/itsNX2I7yj",
-                            "indices": [
-                                0,
-                                23
+                                117,
+                                140
                             ]
                         }
                     ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 195,
+            "friends_count": 448,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 127,
-            "pinned_tweet_ids_str": [],
+            "media_count": 182,
+            "pinned_tweet_ids_str": [
+                "1945777612221227472"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/itsNX2I7yj",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "Melbourne, Victoria"
+            "location": "妈妈的怀里"
         },
         "media_permissions": {
-            "can_media_tag": false
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -101,7 +89,7 @@
         },
         "twe_private_fields": {
             "created_at": 1747782407000,
-            "updated_at": 1750404904094
+            "updated_at": 1752846587235
         }
     }
 }

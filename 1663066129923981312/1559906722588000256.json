@@ -2,15 +2,15 @@
     "id": "1559906722588000256",
     "screen_name": "Luo_yiyu",
     "name": "洛忆雨Yiur",
-    "description": "不幸",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1933861735183921152/M1wSmPYo_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559906722588000256/1749913303",
-    "followers_count": 1665,
-    "friends_count": 393,
-    "statuses_count": 5657,
-    "favourites_count": 4979,
+    "description": "果然还是喜欢被叫小洛呢w   里@Mitaner_hidden",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1939983958986338304/5VjBgb8s_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559906722588000256/1751363149",
+    "followers_count": 1724,
+    "friends_count": 402,
+    "statuses_count": 6457,
+    "favourites_count": 5276,
     "listed_count": 5,
-    "location": "坟墓",
+    "location": "",
     "website": "https://t.co/A4NOlo75lV",
     "birthdate": null,
     "verified_type": null,
@@ -26,7 +26,7 @@
         "id": "VXNlcjoxNTU5OTA2NzIyNTg4MDAwMjU2",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1933861735183921152/M1wSmPYo_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1939983958986338304/5VjBgb8s_normal.jpg"
         },
         "core": {
             "created_at": "Wed Aug 17 14:15:28 +0000 2022",
@@ -59,13 +59,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 393,
+            "friends_count": 402,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 541,
-            "pinned_tweet_ids_str": [
-                "1933769249358819525"
-            ],
+            "media_count": 602,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -74,7 +72,7 @@
             "withheld_in_countries": []
         },
         "location": {
-            "location": "坟墓"
+            "location": ""
         },
         "media_permissions": {
             "can_media_tag": false
@@ -94,7 +92,7 @@
         },
         "twe_private_fields": {
             "created_at": 1660745728000,
-            "updated_at": 1750232265295
+            "updated_at": 1752846618931
         }
     }
 }

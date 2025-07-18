@@ -1,15 +1,15 @@
 {
     "id": "1650521797299953665",
     "screen_name": "yulingko_",
-    "name": "鱼岭",
-    "description": "💛🤍💜🖤 | he/they | 妄想成为不动点",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1907411523582279680/y9jBLrJj_normal.jpg",
+    "name": "与岭",
+    "description": "yǔlíng",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1939851266374737920/qeRTA8sv_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650521797299953665/1743597323",
-    "followers_count": 974,
-    "friends_count": 714,
-    "statuses_count": 10072,
-    "favourites_count": 58644,
-    "listed_count": 3,
+    "followers_count": 1014,
+    "friends_count": 698,
+    "statuses_count": 11005,
+    "favourites_count": 61960,
+    "listed_count": 2,
     "location": "Puewwoc Functional Streaming",
     "website": "https://t.co/y33zzlVlZu",
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-04-24 23:27:27 +08:00",
     "url": "https://twitter.com/yulingko_",
     "metadata": {
         "__typename": "User",
@@ -56,11 +56,11 @@
             }
         },
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1907411523582279680/y9jBLrJj_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1939851266374737920/qeRTA8sv_normal.jpg"
         },
         "core": {
             "created_at": "Mon Apr 24 15:27:27 +0000 2023",
-            "name": "鱼岭",
+            "name": "与岭",
             "screen_name": "yulingko_"
         },
         "dm_permissions": {
@@ -89,14 +89,14 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 714,
+            "friends_count": 698,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 496,
+            "media_count": 577,
             "pinned_tweet_ids_str": [
                 "1921841960538566873"
             ],
-            "possibly_sensitive": true,
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
             "url": "https://t.co/y33zzlVlZu",
@@ -136,8 +136,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219069841
+            "created_at": 1682350047000,
+            "updated_at": 1752846618931
         }
     }
 }

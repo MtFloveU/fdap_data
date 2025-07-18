@@ -1,16 +1,16 @@
 {
     "id": "1720819011057840128",
     "screen_name": "Pissenlit_AH",
-    "name": "AH",
-    "description": "死掉啦～",
-    "location": "辩证法的每个环节",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1910708897557733376/fRyr1PrR_normal.jpg",
+    "name": "真左要乐奈",
+    "description": "非二元小孩❤️：@ashitasiempre",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1928205755947323392/7xIdth2S_normal.jpg",
     "profile_banner_url": null,
-    "followers_count": 192,
-    "friends_count": 223,
-    "statuses_count": 2569,
-    "favourites_count": 8687,
+    "followers_count": 193,
+    "friends_count": 228,
+    "statuses_count": 2801,
+    "favourites_count": 9776,
     "listed_count": 2,
+    "location": "？",
     "website": null,
     "birthdate": null,
     "verified_type": null,
@@ -18,17 +18,26 @@
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": null,
+    "protected": false,
     "created_at": "2023-11-04 23:03:25 +08:00",
     "url": "https://twitter.com/Pissenlit_AH",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzIwODE5MDExMDU3ODQwMTI4",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1928205755947323392/7xIdth2S_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Nov 04 15:03:25 +0000 2023",
+            "name": "真左要乐奈",
+            "screen_name": "Pissenlit_AH"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -37,28 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 223,
+            "friends_count": 228,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 336,
+            "media_count": 357,
             "pinned_tweet_ids_str": [
                 "1909960673225847011"
             ],
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
-        "parody_commentary_fan_label": "Parody",
+        "location": {
+            "location": "？"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1699110205000,
-            "updated_at": 1746277412264
+            "updated_at": 1752846621550
         }
     }
 }

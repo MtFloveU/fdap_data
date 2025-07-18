@@ -2,30 +2,42 @@
     "id": "1578705594663710720",
     "screen_name": "Squaranree",
     "name": "Squarancee",
-    "description": "",
-    "location": "Heidelberg, Germany",
+    "description": "鉴赤五分钟 怒学一整天",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1778978528425623552/bAFDERLE_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1578705594663710720/1712976519",
-    "followers_count": 47,
-    "statuses_count": 1886,
-    "favourites_count": 734,
+    "followers_count": 51,
+    "friends_count": 2256,
+    "statuses_count": 2299,
+    "favourites_count": 1020,
     "listed_count": 1,
+    "location": "Ladenburg, Deutschland",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": false,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-10-08 19:15:27 +08:00",
     "url": "https://twitter.com/Squaranree",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTc4NzA1NTk0NjYzNzEwNzIw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1778978528425623552/bAFDERLE_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Oct 08 11:15:27 +0000 2022",
+            "name": "Squarancee",
+            "screen_name": "Squaranree"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1771,
+            "friends_count": 2256,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 25,
@@ -44,14 +56,31 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": false,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "Ladenburg, Deutschland"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "Parody",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1665227727000,
-            "updated_at": 1744350028375
+            "updated_at": 1752846540146
         }
     }
 }

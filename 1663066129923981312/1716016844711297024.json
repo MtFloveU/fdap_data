@@ -1,0 +1,100 @@
+{
+    "id": "1716016844711297024",
+    "screen_name": "orchidmalevol",
+    "name": "溺鱼",
+    "description": "一般装作一只偷偷路过的猫猫虫｜mtf｜一些碎碎念🏳️‍⚧️",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1941499532669575168/hI0ZPJUh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716016844711297024/1748603763",
+    "followers_count": 295,
+    "friends_count": 351,
+    "statuses_count": 1840,
+    "favourites_count": 4829,
+    "listed_count": 1,
+    "location": "猫猫虫星球",
+    "website": "https://t.co/xmAKzwtpLB",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2023-10-22 17:01:20 +08:00",
+    "url": "https://twitter.com/orchidmalevol",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxNzE2MDE2ODQ0NzExMjk3MDI0",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1941499532669575168/hI0ZPJUh_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Oct 22 09:01:20 +0000 2023",
+            "name": "溺鱼",
+            "screen_name": "orchidmalevol"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/%E6%BA%BA%E9%B…",
+                            "expanded_url": "https://ngl.link/%E6%BA%BA%E9%B1%BC",
+                            "url": "https://t.co/xmAKzwtpLB",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 351,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "media_count": 125,
+            "pinned_tweet_ids_str": [
+                "1944395922021978246"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/xmAKzwtpLB",
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "猫猫虫星球"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1697965280000,
+            "updated_at": 1752846528414
+        }
+    }
+}

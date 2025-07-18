@@ -2,30 +2,42 @@
     "id": "1753847571263488000",
     "screen_name": "LYC_240410",
     "name": "chen_🍥",
-    "description": "07｜isfp｜🏳️‍⚧️｜喜欢骑山地车｜💕@penguin_YYC1226",
-    "location": "地球🌍",
+    "description": "07｜喜欢骑山地车｜💕@penguin_YYC1226",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883898030321270784/-_Bt-JBc_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753847571263488000/1731704991",
-    "followers_count": 2442,
-    "statuses_count": 280,
-    "favourites_count": 4211,
+    "followers_count": 2381,
+    "friends_count": 1596,
+    "statuses_count": 238,
+    "favourites_count": 4249,
     "listed_count": 5,
+    "location": "地球🌍",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-02-04 02:28:09 +08:00",
     "url": "https://twitter.com/LYC_240410",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzUzODQ3NTcxMjYzNDg4MDAw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1883898030321270784/-_Bt-JBc_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Feb 03 18:28:09 +0000 2024",
+            "name": "chen_🍥",
+            "screen_name": "LYC_240410"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,18 +46,25 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1603,
+            "friends_count": 1596,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 117,
+            "media_count": 72,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "地球🌍"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1810502244422607124",
             "professional_type": "Business",
@@ -57,12 +76,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1706984889000,
-            "updated_at": 1744350109133
+            "updated_at": 1752846623602
         }
     }
 }

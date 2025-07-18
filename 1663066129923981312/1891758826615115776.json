@@ -5,21 +5,21 @@
     "description": "09年生产/芝士， 与你分享！/🍥 Never Dies./小废物一只/叫咱F酱好了喵/新号别搞/ISFP-T",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1891758936828805120/AfUXa-44_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891758826615115776/1740105776",
-    "followers_count": 432,
-    "friends_count": 723,
-    "statuses_count": 61,
-    "favourites_count": 497,
+    "followers_count": 562,
+    "friends_count": 922,
+    "statuses_count": 88,
+    "favourites_count": 999,
     "listed_count": 0,
     "location": "Mondstadt, Teyvat",
     "website": null,
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
-    "following": false,
+    "following": true,
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2025-02-18 15:57:16 +08:00",
     "url": "https://twitter.com/FDSawa",
     "metadata": {
         "__typename": "User",
@@ -46,15 +46,15 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 723,
+            "friends_count": 922,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 15,
+            "media_count": 17,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "want_retweets": false,
+            "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
@@ -70,15 +70,15 @@
         },
         "relationship_perspectives": {
             "followed_by": true,
-            "following": false
+            "following": true
         },
         "tipjar_settings": {},
         "verification": {
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219023519
+            "created_at": 1739865436000,
+            "updated_at": 1752846587235
         }
     }
 }

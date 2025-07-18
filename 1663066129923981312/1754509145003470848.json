@@ -2,16 +2,16 @@
     "id": "1754509145003470848",
     "screen_name": "mengxintu",
     "name": "MXT 2.0",
-    "description": "一只狐娘（1.0 @lovemostmevius）\n| MTX | 大四在读 | \n最爱的主人+对象+女朋友+比翼鸟+一直爱着守护陪伴的下去人+另一半+老婆+darling～+主人+兔兔的女王殿下 @MeviuslX_Xl｜最爱的大兔兔/姐姐～@miya051223",
+    "description": "一只狐娘（@lovemostmevius）\n| MTX | 工作ing| \n最爱的主人+对象+女朋友+比翼鸟+一直爱着守护陪伴的下去人+另一半+老婆+darling～+主人+兔兔的女王殿下 @MeviuslX_Xl/最爱一直守护的宝宝@miya051223| 如果有需要兔兔帮助的地方或者想提各种问题都可以哦|提问箱⬇️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1873761617328095233/YhvNiWRO_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754509145003470848/1726133312",
-    "followers_count": 1190,
-    "friends_count": 425,
-    "statuses_count": 2091,
-    "favourites_count": 7048,
+    "followers_count": 1185,
+    "friends_count": 426,
+    "statuses_count": 2160,
+    "favourites_count": 7336,
     "listed_count": 4,
     "location": "ℳℯ𝓋𝒾𝓊𝓈 的心",
-    "website": null,
+    "website": "https://t.co/g1Lex7bCA8",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-02-05 22:16:07 +08:00",
     "url": "https://twitter.com/mengxintu",
     "metadata": {
         "__typename": "User",
@@ -43,10 +43,23 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ngl.link/mengxintu",
+                            "expanded_url": "https://ngl.link/mengxintu",
+                            "url": "https://t.co/g1Lex7bCA8",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 425,
+            "friends_count": 426,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 34,
@@ -56,6 +69,7 @@
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/g1Lex7bCA8",
             "want_retweets": true,
             "withheld_in_countries": []
         },
@@ -79,8 +93,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219071821
+            "created_at": 1707142567000,
+            "updated_at": 1752846620643
         }
     }
 }

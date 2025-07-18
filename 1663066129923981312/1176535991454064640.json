@@ -1,37 +1,37 @@
 {
     "id": "1176535991454064640",
-    "screen_name": "RetiredBizDev",
-    "name": "已退推",
-    "description": "不线下 不加私人联系方式 // 家猫: @_FurryFur_",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1935008461118664704/bvUzII5p_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1744406940",
-    "followers_count": 2725,
-    "friends_count": 900,
-    "statuses_count": 12522,
-    "favourites_count": 27170,
+    "screen_name": "lumigj02",
+    "name": "ʟᴜᴍɪ¹",
+    "description": "愿意被我杀掉么? I 𝙲𝚘𝚖𝚙𝚂𝚌𝚒 @NUSingapore I 家猫 @_FurryFur_",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1752513065",
+    "followers_count": 2751,
+    "friends_count": 922,
+    "statuses_count": 13000,
+    "favourites_count": 27608,
     "listed_count": 12,
-    "location": "",
-    "website": null,
+    "location": "Tanglin Rd",
+    "website": "https://t.co/xnU7yfJnaD",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
     "can_dm": true,
-    "protected": true,
+    "protected": false,
     "created_at": "2019-09-25 00:37:04 +08:00",
-    "url": "https://twitter.com/RetiredBizDev",
+    "url": "https://twitter.com/lumigj02",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMTc2NTM1OTkxNDU0MDY0NjQw",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1935008461118664704/bvUzII5p_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg"
         },
         "core": {
             "created_at": "Tue Sep 24 16:37:04 +0000 2019",
-            "name": "已退推",
-            "screen_name": "RetiredBizDev"
+            "name": "ʟᴜᴍɪ¹",
+            "screen_name": "lumigj02"
         },
         "dm_permissions": {
             "can_dm": true
@@ -43,22 +43,36 @@
             "entities": {
                 "description": {
                     "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/lumigj",
+                            "expanded_url": "https://t.me/lumigj",
+                            "url": "https://t.co/xnU7yfJnaD",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 900,
+            "friends_count": 922,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 1109,
+            "media_count": 1098,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
+            "url": "https://t.co/xnU7yfJnaD",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": ""
+            "location": "Tanglin Rd"
         },
         "media_permissions": {
             "can_media_tag": false
@@ -66,7 +80,7 @@
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
         "privacy": {
-            "protected": true
+            "protected": false
         },
         "relationship_perspectives": {
             "followed_by": true,
@@ -82,7 +96,7 @@
         },
         "twe_private_fields": {
             "created_at": 1569343024000,
-            "updated_at": 1750404914160
+            "updated_at": 1752846616262
         }
     }
 }

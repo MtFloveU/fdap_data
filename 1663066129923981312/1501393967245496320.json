@@ -2,29 +2,42 @@
     "id": "1501393967245496320",
     "screen_name": "KaZeNaGi_Q",
     "name": "風凪不是疯子",
-    "description": "是有主的猫猫啦！最爱的老婆&主人 @BH2USU，生活中的一些东西会发在 @KaZeLife2411上面🥺",
-    "location": "在你身后",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1750344663960330240/TSHacDl2_normal.jpg",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1933374770130898944/BQVru8oY_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1501393967245496320/1708040854",
     "followers_count": 1098,
-    "statuses_count": 7617,
-    "favourites_count": 34350,
-    "listed_count": 1,
+    "friends_count": 2018,
+    "statuses_count": 7773,
+    "favourites_count": 36422,
+    "listed_count": 3,
+    "location": "在你身后",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": true,
     "created_at": "2022-03-09 11:06:38 +08:00",
     "url": "https://twitter.com/KaZeNaGi_Q",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTAxMzkzOTY3MjQ1NDk2MzIw",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1933374770130898944/BQVru8oY_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Mar 09 03:06:38 +0000 2022",
+            "name": "風凪不是疯子",
+            "screen_name": "KaZeNaGi_Q"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,26 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1916,
+            "friends_count": 2018,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 410,
+            "media_count": 411,
             "pinned_tweet_ids_str": [
                 "1830367284193628538"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "在你身后"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1646795198000,
-            "updated_at": 1746077192669
+            "updated_at": 1752846625712
         }
     }
 }

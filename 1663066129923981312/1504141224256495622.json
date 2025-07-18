@@ -2,28 +2,42 @@
     "id": "1504141224256495622",
     "screen_name": "pengpengyayaya",
     "name": "芃娅（已经炸柜版）",
-    "description": "是CD～？？？猫娘/已停🍥/民谣吉他超冷门歌手/PS5/反差风/正在留长发/ESFP/？ /中度自缚（虐）成瘾/xp是金属镣铐/非0️⃣ /未来会变成长发男娘博主/看到会互fo/小号逃生舱@pengyapengyaya",
-    "location": "厦门",
+    "description": "是CD～？？？猫娘/已停🍥/劳拉西泮成瘾者/民谣吉他超冷门歌手/PS5/反差风/正在留长发/ESFP/？ /中度自缚（虐）成瘾/xp是金属镣铐/非0️⃣ /未来会变成长发男娘博主/看到会互fo/小号逃生舱@pengyapengyaya",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1637283779265052672/m6IakSh0_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504141224256495622/1729788055",
-    "followers_count": 2252,
-    "statuses_count": 315,
-    "favourites_count": 7452,
-    "listed_count": 7,
+    "followers_count": 2335,
+    "friends_count": 3077,
+    "statuses_count": 396,
+    "favourites_count": 8813,
+    "listed_count": 9,
+    "location": "厦门",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-03-17 01:03:24 +08:00",
     "url": "https://twitter.com/pengpengyayaya",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTA0MTQxMjI0MjU2NDk1NjIy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1637283779265052672/m6IakSh0_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed Mar 16 17:03:24 +0000 2022",
+            "name": "芃娅（已经炸柜版）",
+            "screen_name": "pengpengyayaya"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,19 +46,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 2965,
+            "friends_count": 3077,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 59,
+            "media_count": 84,
             "pinned_tweet_ids_str": [
-                "1907090828356665381"
+                "1930443554561896928"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "厦门"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -59,12 +78,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": true
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1647450204000,
-            "updated_at": 1746077179549
+            "updated_at": 1752846617121
         }
     }
 }

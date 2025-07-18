@@ -3,28 +3,41 @@
     "screen_name": "NekoNoct",
     "name": "星韵狐狐🦊",
     "description": "😾 哈气米 | 🐱 热爱猫咪的幽默摄影师 | 📷 记录生活中的小确幸 | 🤔 对技术与游戏充满好奇 | 🎮 喜欢分享趣事与日常 | Feel free to DM me 💌",
-    "location": "幻境，星尘网络，星渊空间站",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1913814816533499904/ia4uYos__normal.jpg",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1945487075387600896/2LErtpDH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1233598865028403201/1736288484",
-    "followers_count": 288,
-    "statuses_count": 8741,
-    "favourites_count": 47242,
-    "listed_count": 2,
+    "followers_count": 306,
+    "friends_count": 520,
+    "statuses_count": 8977,
+    "favourites_count": 49932,
+    "listed_count": 3,
+    "location": "你再看看你后面呢",
+    "website": "https://t.co/ctF05rpaBT",
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2020-02-29 11:45:25 +08:00",
     "url": "https://twitter.com/NekoNoct",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjMzNTk4ODY1MDI4NDAzMjAx",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1945487075387600896/2LErtpDH_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Feb 29 03:45:25 +0000 2020",
+            "name": "星韵狐狐🦊",
+            "screen_name": "NekoNoct"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "notifications": true,
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "ccwiki.snnetwork.dpdns.org",
-                            "expanded_url": "http://ccwiki.snnetwork.dpdns.org",
-                            "url": "https://t.co/HaTLTX3p2c",
+                            "display_url": "ccwiki.snnetwork.top",
+                            "expanded_url": "http://ccwiki.snnetwork.top",
+                            "url": "https://t.co/ctF05rpaBT",
                             "indices": [
                                 0,
                                 23
@@ -46,20 +59,24 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 484,
+            "friends_count": 520,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 476,
-            "pinned_tweet_ids_str": [
-                "1844348759460937928"
-            ],
+            "media_count": 490,
+            "notifications": true,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/HaTLTX3p2c",
-            "verified": false,
+            "url": "https://t.co/ctF05rpaBT",
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "你再看看你后面呢"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -74,12 +91,22 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1582947925000,
-            "updated_at": 1746077186476
+            "updated_at": 1752846621550
         }
     }
 }

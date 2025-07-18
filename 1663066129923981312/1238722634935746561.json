@@ -1,0 +1,113 @@
+{
+    "id": "1238722634935746561",
+    "screen_name": "Chimo8964",
+    "name": "千萌Chimo8️⃣9️⃣6️⃣4️⃣",
+    "description": "DLLM仆街On9粉腸食屎\n電話13418727123",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1851171468660600832/hUWe9JrF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1238722634935746561/1730188646",
+    "followers_count": 255,
+    "friends_count": 332,
+    "statuses_count": 730,
+    "favourites_count": 11744,
+    "listed_count": 1,
+    "location": "Chuka Seitaigo",
+    "website": "https://t.co/C963KaSIot",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": true,
+    "created_at": "2020-03-14 15:05:09 +08:00",
+    "url": "https://twitter.com/Chimo8964",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMjM4NzIyNjM0OTM1NzQ2NTYx",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1851171468660600832/hUWe9JrF_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sat Mar 14 07:05:09 +0000 2020",
+            "name": "千萌Chimo8️⃣9️⃣6️⃣4️⃣",
+            "screen_name": "Chimo8964"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "64memo.com",
+                            "expanded_url": "http://64memo.com",
+                            "url": "https://t.co/C963KaSIot",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 332,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 90,
+            "pinned_tweet_ids_str": [
+                "1851173675179131180"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "url": "https://t.co/C963KaSIot",
+            "want_retweets": true,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "Chuka Seitaigo"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "professional": {
+            "rest_id": "1593951819335860224",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 1062,
+                    "name": "Editor",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        },
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
+        "tipjar_settings": {
+            "is_enabled": true
+        },
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1584169509000,
+            "updated_at": 1752846587235
+        }
+    }
+}

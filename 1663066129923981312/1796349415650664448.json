@@ -1,15 +1,15 @@
 {
     "id": "1796349415650664448",
     "screen_name": "KawaiiEru_",
-    "name": "坂下える🐱",
+    "name": "坂下える",
     "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1932849903782498304/uFHWrZNE_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796349415650664448/1749633593",
-    "followers_count": 2277,
-    "friends_count": 335,
-    "statuses_count": 11157,
-    "favourites_count": 23745,
-    "listed_count": 14,
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1945534724807528448/8RLe5-v3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796349415650664448/1752835395",
+    "followers_count": 2342,
+    "friends_count": 339,
+    "statuses_count": 11551,
+    "favourites_count": 24627,
+    "listed_count": 10,
     "location": "神山高中古典文学部",
     "website": null,
     "birthdate": null,
@@ -24,43 +24,13 @@
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNzk2MzQ5NDE1NjUwNjY0NDQ4",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @LovelyCheshire_",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 29,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "LovelyCheshire_",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "LovelyCheshire_"
-                                        },
-                                        "rest_id": "1848778576507842560"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
+        "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1932849903782498304/uFHWrZNE_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1945534724807528448/8RLe5-v3_normal.jpg"
         },
         "core": {
             "created_at": "Fri May 31 01:14:22 +0000 2024",
-            "name": "坂下える🐱",
+            "name": "坂下える",
             "screen_name": "KawaiiEru_"
         },
         "dm_permissions": {
@@ -76,13 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 335,
+            "friends_count": 339,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 2262,
-            "pinned_tweet_ids_str": [
-                "1904130140474581197"
-            ],
+            "media_count": 2346,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -110,7 +78,7 @@
         },
         "twe_private_fields": {
             "created_at": 1717118062000,
-            "updated_at": 1750404914160
+            "updated_at": 1752846616262
         }
     }
 }

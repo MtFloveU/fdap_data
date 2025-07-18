@@ -3,17 +3,22 @@
     "screen_name": "officia43006378",
     "name": "🇰🇵JANG SONGTHAEK_official🇰🇵（淡推）",
     "description": "🚩🏴 友🏳️‍⚧️🏳️‍🌈 需要互fo请私信\n战无不胜的罗伯斯庇尔主义、叶若夫思想、波尔布特理论万岁\n保÷、没脑子没理论还乱钦点的傻逼请上断头台\n极权b、社达蛆请下第聂伯河游泳\n自由之敌不配享有自由——罗伯斯庇尔",
-    "location": "삼지연",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1824594397964701696/CE5zKZRo_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599372446343143430/1721311159",
-    "followers_count": 2347,
-    "statuses_count": 1990,
-    "favourites_count": 122746,
-    "listed_count": 7,
+    "followers_count": 2362,
+    "friends_count": 3685,
+    "statuses_count": 2064,
+    "favourites_count": 130704,
+    "listed_count": 6,
+    "location": "김일성종합대학",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-12-04 19:58:12 +08:00",
     "url": "https://twitter.com/officia43006378",
     "metadata": {
@@ -37,7 +42,7 @@
                                 "mention_results": {
                                     "result": {
                                         "__typename": "User",
-                                        "legacy": {
+                                        "core": {
                                             "screen_name": "Ceauses1989"
                                         },
                                         "rest_id": "1612043013240549377"
@@ -50,12 +55,19 @@
                 "userLabelType": "AutomatedLabel"
             }
         },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1824594397964701696/CE5zKZRo_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Dec 04 11:58:12 +0000 2022",
+            "name": "🇰🇵JANG SONGTHAEK_official🇰🇵（淡推）",
+            "screen_name": "officia43006378"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -64,24 +76,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 3586,
+            "friends_count": 3685,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 181,
+            "media_count": 188,
             "pinned_tweet_ids_str": [
                 "1814953983003521261"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "김일성종합대학"
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1670155092000,
-            "updated_at": 1744350103152
+            "updated_at": 1752846621550
         }
     }
 }

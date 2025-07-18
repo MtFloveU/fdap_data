@@ -2,30 +2,42 @@
     "id": "1415686896915607572",
     "screen_name": "jeanne73596520",
     "name": "jeanne",
-    "description": "咕，大龄男娘（雾）25，177/63，希望有四爱姐姐（老公）看看我，主要还是康涩涩，偶尔发图啥的",
-    "location": "苏州",
+    "description": "咕，大龄男娘（雾）25，177/63，私聊zfb口令50过门槛喵\n不做了不做了，好痛QAQ插进去就要死了呜呜呜呜\n主要还是康涩涩，偶尔发图",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1632783674998652929/VnNqzP1z_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415686896915607572/1678120937",
-    "followers_count": 840,
-    "statuses_count": 170,
-    "favourites_count": 86,
-    "listed_count": 4,
+    "followers_count": 896,
+    "friends_count": 473,
+    "statuses_count": 188,
+    "favourites_count": 87,
+    "listed_count": 5,
+    "location": "苏州",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2021-07-15 22:57:24 +08:00",
     "url": "https://twitter.com/jeanne73596520",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNDE1Njg2ODk2OTE1NjA3NTcy",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1632783674998652929/VnNqzP1z_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Jul 15 14:57:24 +0000 2021",
+            "name": "jeanne",
+            "screen_name": "jeanne73596520"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,24 +46,43 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 406,
+            "friends_count": 473,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 117,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": true,
+            "media_count": 128,
+            "pinned_tweet_ids_str": [
+                "1943327430204088651"
+            ],
+            "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "苏州"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
         },
         "tipjar_settings": {
             "is_enabled": false
         },
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1626361044000,
-            "updated_at": 1744350074463
+            "updated_at": 1752846589901
         }
     }
 }

@@ -1,17 +1,17 @@
 {
     "id": "1538029712911515648",
     "screen_name": "yanyue0119",
-    "name": "烟火熄月光明🏳️‍⚧️🍥（放寒假玩具被扔版）",
-    "description": "美图转推bot丨想变可爱丨07丨是个玩机/垃圾佬/入门CTFer丨mt🐱丨泛性恋丨术力口丨日本語が勉強します丨Apex丨CSGO丨Project Sekai丨Yuzu Soft丨喜欢一切可爱的",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1558372986003935232/gvsRylWR_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1538029712911515648/1660982856",
-    "followers_count": 3971,
-    "friends_count": 5417,
-    "statuses_count": 14459,
-    "favourites_count": 45601,
+    "name": "木村光希（放暑假版）",
+    "description": "学web打CTF的美图转推bot",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1943043791667052544/2ACmqe-v_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1538029712911515648/1752092713",
+    "followers_count": 3989,
+    "friends_count": 5488,
+    "statuses_count": 14780,
+    "favourites_count": 46523,
     "listed_count": 14,
-    "location": "猫窝",
-    "website": "https://t.co/VhC8Z9Kc6P",
+    "location": "靶机",
+    "website": "https://t.co/o870DwU93c",
     "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
@@ -19,18 +19,18 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2022-06-18 13:23:59 +08:00",
     "url": "https://twitter.com/yanyue0119",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTM4MDI5NzEyOTExNTE1NjQ4",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1558372986003935232/gvsRylWR_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1943043791667052544/2ACmqe-v_normal.jpg"
         },
         "core": {
             "created_at": "Sat Jun 18 05:23:59 +0000 2022",
-            "name": "烟火熄月光明🏳️‍⚧️🍥（放寒假玩具被扔版）",
+            "name": "木村光希（放暑假版）",
             "screen_name": "yanyue0119"
         },
         "dm_permissions": {
@@ -47,9 +47,9 @@
                 "url": {
                     "urls": [
                         {
-                            "display_url": "miku.sci-fifans.net",
-                            "expanded_url": "http://miku.sci-fifans.net",
-                            "url": "https://t.co/VhC8Z9Kc6P",
+                            "display_url": "blog.kemurihinogatsu.top",
+                            "expanded_url": "https://blog.kemurihinogatsu.top/",
+                            "url": "https://t.co/o870DwU93c",
                             "indices": [
                                 0,
                                 23
@@ -59,25 +59,25 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 5417,
+            "friends_count": 5488,
             "has_custom_timelines": true,
             "is_translator": false,
-            "media_count": 375,
+            "media_count": 385,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "url": "https://t.co/VhC8Z9Kc6P",
+            "url": "https://t.co/o870DwU93c",
             "want_retweets": true,
             "withheld_in_countries": []
         },
         "location": {
-            "location": "猫窝"
+            "location": "靶机"
         },
         "media_permissions": {
-            "can_media_tag": true
+            "can_media_tag": false
         },
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Commentary",
         "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1745131237310935470",
@@ -98,8 +98,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219070872
+            "created_at": 1655529839000,
+            "updated_at": 1752846619819
         }
     }
 }

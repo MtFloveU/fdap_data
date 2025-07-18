@@ -2,29 +2,72 @@
     "id": "1263250188757426176",
     "screen_name": "yunyunyunnya",
     "name": "口腔溃疡！！！！！！",
-    "description": "在你眼中的我 是什么颜色的呢",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1907419740316078080/at0SSP_F_normal.jpg",
+    "description": "💤",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1925180057993334786/DIfqYJRH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263250188757426176/1743599290",
-    "followers_count": 1328,
-    "statuses_count": 7969,
-    "favourites_count": 108859,
+    "followers_count": 1305,
+    "friends_count": 1231,
+    "statuses_count": 8602,
+    "favourites_count": 117861,
     "listed_count": 3,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": true,
     "created_at": "2020-05-21 07:28:22 +08:00",
     "url": "https://twitter.com/yunyunyunnya",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxMjYzMjUwMTg4NzU3NDI2MTc2",
-        "affiliates_highlighted_label": {},
+        "affiliates_highlighted_label": {
+            "label": {
+                "badge": {
+                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "longDescription": {
+                    "text": "Automated by @yulingko_",
+                    "entities": [
+                        {
+                            "fromIndex": 13,
+                            "toIndex": 23,
+                            "ref": {
+                                "type": "TimelineRichTextMention",
+                                "screen_name": "yulingko_",
+                                "mention_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "core": {
+                                            "screen_name": "yulingko_"
+                                        },
+                                        "rest_id": "1650521797299953665"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "userLabelType": "AutomatedLabel"
+            }
+        },
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1925180057993334786/DIfqYJRH_normal.jpg"
+        },
+        "core": {
+            "created_at": "Wed May 20 23:28:22 +0000 2020",
+            "name": "口腔溃疡！！！！！！",
+            "screen_name": "yunyunyunnya"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -33,26 +76,39 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1190,
+            "friends_count": 1231,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 681,
-            "pinned_tweet_ids_str": [
-                "1854636951338631206"
-            ],
+            "media_count": 747,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": true
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1590017302000,
-            "updated_at": 1746077170591
+            "updated_at": 1752846589901
         }
     }
 }

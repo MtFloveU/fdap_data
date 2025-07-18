@@ -2,30 +2,42 @@
     "id": "1825021494805581824",
     "screen_name": "lumuyuanMadoka2",
     "name": "鹿目圆○",
-    "description": "@lumuyuanMadoka 的转生号——————————————————————\n日常丨百合豚丨ACGN丨MC丨🏳️‍🌈友好丨日本語を学ぶ丨🇨🇳，中华民族，网左，本号键政🚫",
-    "location": "圆环之理 ",
+    "description": "😭",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825021494805581824/1727490299",
-    "followers_count": 195,
-    "statuses_count": 2724,
-    "favourites_count": 7404,
+    "followers_count": 367,
+    "friends_count": 287,
+    "statuses_count": 3287,
+    "favourites_count": 8725,
     "listed_count": 1,
+    "location": "圆环之理 ",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2024-08-18 12:06:54 +08:00",
     "url": "https://twitter.com/lumuyuanMadoka2",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI1MDIxNDk0ODA1NTgxODI0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Aug 18 04:06:54 +0000 2024",
+            "name": "鹿目圆○",
+            "screen_name": "lumuyuanMadoka2"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,22 +46,41 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 267,
+            "friends_count": 287,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 252,
-            "pinned_tweet_ids_str": [],
+            "media_count": 277,
+            "pinned_tweet_ids_str": [
+                "1946139685933166935"
+            ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": "圆环之理 "
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1723954014000,
-            "updated_at": 1744350080771
+            "updated_at": 1752846611714
         }
     }
 }

@@ -2,30 +2,42 @@
     "id": "1588189703840231424",
     "screen_name": "GdbyrGfhgbh",
     "name": "秋语",
-    "description": "ENFJ，想要朋友，欢迎互fo",
-    "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1890687871105077248/SiNhMX5I_normal.jpg",
+    "description": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1917955990324142082/wX1WFdZR_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1588189703840231424/1719546364",
-    "followers_count": 58,
-    "statuses_count": 104,
-    "favourites_count": 109,
+    "followers_count": 70,
+    "friends_count": 403,
+    "statuses_count": 116,
+    "favourites_count": 121,
     "listed_count": 0,
+    "location": "",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2022-11-03 23:22:07 +08:00",
     "url": "https://twitter.com/GdbyrGfhgbh",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNTg4MTg5NzAzODQwMjMxNDI0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1917955990324142082/wX1WFdZR_normal.jpg"
+        },
+        "core": {
+            "created_at": "Thu Nov 03 15:22:07 +0000 2022",
+            "name": "秋语",
+            "screen_name": "GdbyrGfhgbh"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -34,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 407,
+            "friends_count": 403,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 1,
@@ -42,14 +54,31 @@
             "possibly_sensitive": true,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
         },
+        "location": {
+            "location": ""
+        },
+        "media_permissions": {
+            "can_media_tag": false
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1667488927000,
-            "updated_at": 1744350080771
+            "updated_at": 1752846611714
         }
     }
 }

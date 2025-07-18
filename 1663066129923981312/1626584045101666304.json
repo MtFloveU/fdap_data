@@ -1,29 +1,43 @@
 {
     "id": "1626584045101666304",
     "screen_name": "liychn30019070",
-    "name": "羽宸(初三地狱版)",
-    "description": "只是一个普通的中国初中生而已",
-    "location": "中国 浙江",
+    "name": "羽宸(高一新生版)",
+    "description": "只是一个普通的中国高中生而已",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1881635207822159872/sqkcvlzU_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626584045101666304/1737459694",
-    "followers_count": 1980,
-    "statuses_count": 3335,
-    "favourites_count": 32377,
+    "followers_count": 1960,
+    "friends_count": 1722,
+    "statuses_count": 3367,
+    "favourites_count": 32440,
     "listed_count": 6,
+    "location": "中国 浙江",
+    "website": null,
+    "birthdate": null,
     "verified_type": null,
     "is_blue_verified": false,
     "following": true,
     "followed_by": true,
+    "can_dm": true,
+    "protected": false,
     "created_at": "2023-02-17 22:07:41 +08:00",
     "url": "https://twitter.com/liychn30019070",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxNjI2NTg0MDQ1MTAxNjY2MzA0",
         "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1881635207822159872/sqkcvlzU_normal.jpg"
+        },
+        "core": {
+            "created_at": "Fri Feb 17 14:07:41 +0000 2023",
+            "name": "羽宸(高一新生版)",
+            "screen_name": "liychn30019070"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
         "has_graduated_access": true,
         "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
             "default_profile": true,
             "default_profile_image": false,
             "entities": {
@@ -32,17 +46,22 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 1737,
+            "friends_count": 1722,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 85,
+            "media_count": 87,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
-            "verified": false,
             "want_retweets": true,
             "withheld_in_countries": []
+        },
+        "location": {
+            "location": "中国 浙江"
+        },
+        "media_permissions": {
+            "can_media_tag": true
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -57,10 +76,20 @@
                 }
             ]
         },
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": true
+        },
         "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
         "twe_private_fields": {
             "created_at": 1676642861000,
-            "updated_at": 1746077190503
+            "updated_at": 1752846624465
         }
     }
 }

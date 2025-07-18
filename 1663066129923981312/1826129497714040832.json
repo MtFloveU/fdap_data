@@ -1,14 +1,14 @@
 {
     "id": "1826129497714040832",
-    "screen_name": "KangtongnaZJL",
-    "name": "シャオユウ",
-    "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1934822662909644801/Vxr_wsq9_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826129497714040832/1746588819",
-    "followers_count": 285,
-    "friends_count": 318,
-    "statuses_count": 3545,
-    "favourites_count": 5576,
+    "screen_name": "CREZAN_GA",
+    "name": "还没破㞮呢 就当上老蒯了",
+    "description": "在炒作中袒露 在袒露中炒作",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1935409582135742464/4kT7wcTV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826129497714040832/1752184077",
+    "followers_count": 326,
+    "friends_count": 335,
+    "statuses_count": 4082,
+    "favourites_count": 6304,
     "listed_count": 1,
     "location": "",
     "website": null,
@@ -20,18 +20,18 @@
     "can_dm": true,
     "protected": false,
     "created_at": "2024-08-21 13:29:47 +08:00",
-    "url": "https://twitter.com/KangtongnaZJL",
+    "url": "https://twitter.com/CREZAN_GA",
     "metadata": {
         "__typename": "User",
         "id": "VXNlcjoxODI2MTI5NDk3NzE0MDQwODMy",
         "affiliates_highlighted_label": {},
         "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1934822662909644801/Vxr_wsq9_normal.jpg"
+            "image_url": "https://pbs.twimg.com/profile_images/1935409582135742464/4kT7wcTV_normal.jpg"
         },
         "core": {
             "created_at": "Wed Aug 21 05:29:47 +0000 2024",
-            "name": "シャオユウ",
-            "screen_name": "KangtongnaZJL"
+            "name": "还没破㞮呢 就当上老蒯了",
+            "screen_name": "CREZAN_GA"
         },
         "dm_permissions": {
             "can_dm": true
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 318,
+            "friends_count": 335,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 824,
+            "media_count": 913,
             "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -63,7 +63,7 @@
         "media_permissions": {
             "can_media_tag": false
         },
-        "parody_commentary_fan_label": "None",
+        "parody_commentary_fan_label": "Fan",
         "profile_image_shape": "Circle",
         "professional": {
             "rest_id": "1851240962783371377",
@@ -83,7 +83,7 @@
         },
         "twe_private_fields": {
             "created_at": 1724218187000,
-            "updated_at": 1750232264361
+            "updated_at": 1752846618060
         }
     }
 }

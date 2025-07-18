@@ -1,0 +1,86 @@
+{
+    "id": "1081884310829813761",
+    "screen_name": "NomoreTsukum0",
+    "name": "九九",
+    "description": "水手服配百褶裙 最可愛妹妹@yukiaqwq123",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1762452022421528576/Rb5NeJGQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081884310829813761/1648384258",
+    "followers_count": 2950,
+    "friends_count": 1974,
+    "statuses_count": 57234,
+    "favourites_count": 579892,
+    "listed_count": 24,
+    "location": "距離你5m",
+    "website": null,
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": false,
+    "followed_by": true,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2019-01-06 20:04:54 +08:00",
+    "url": "https://twitter.com/NomoreTsukum0",
+    "metadata": {
+        "__typename": "User",
+        "id": "VXNlcjoxMDgxODg0MzEwODI5ODEzNzYx",
+        "affiliates_highlighted_label": {},
+        "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1762452022421528576/Rb5NeJGQ_normal.jpg"
+        },
+        "core": {
+            "created_at": "Sun Jan 06 12:04:54 +0000 2019",
+            "name": "九九",
+            "screen_name": "NomoreTsukum0"
+        },
+        "dm_permissions": {
+            "can_dm": true
+        },
+        "has_graduated_access": true,
+        "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "friends_count": 1974,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "media_count": 433,
+            "pinned_tweet_ids_str": [
+                "1654452448004812800"
+            ],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "translator_type": "none",
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "location": {
+            "location": "距離你5m"
+        },
+        "media_permissions": {
+            "can_media_tag": true
+        },
+        "parody_commentary_fan_label": "None",
+        "profile_image_shape": "Circle",
+        "privacy": {
+            "protected": false
+        },
+        "relationship_perspectives": {
+            "followed_by": true,
+            "following": false
+        },
+        "tipjar_settings": {},
+        "verification": {
+            "verified": false
+        },
+        "twe_private_fields": {
+            "created_at": 1546776294000,
+            "updated_at": 1752846528414
+        }
+    }
+}

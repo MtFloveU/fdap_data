@@ -2,19 +2,19 @@
     "id": "1933225223416864768",
     "screen_name": "Araya_Touka_222",
     "name": "灯華⚜️",
-    "description": "中文/English/Français \n现居魁北克的ACGN享受者，可以叫我Léo。\n我推：爱尔奎特，新谷灯華，咲畑梨深，荻浜茜！\nJe me souviens!",
+    "description": "中文/English/Français \n现居魁北克的ACGN享受者，可以叫我Léo。\n我推：爱尔奎特，新谷灯華，咲畑梨深，荻浜茜！\nJe me souviens!\n⚠ 我是挺🇺🇦🇮🇱的反川右🐶。",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1933232115555975169/fCyh7BT7_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933225223416864768/1749758219",
-    "followers_count": 101,
-    "friends_count": 636,
-    "statuses_count": 127,
-    "favourites_count": 664,
-    "listed_count": 0,
+    "followers_count": 283,
+    "friends_count": 2535,
+    "statuses_count": 1101,
+    "favourites_count": 6150,
+    "listed_count": 1,
     "location": "Québec",
     "website": null,
     "birthdate": null,
     "verified_type": null,
-    "is_blue_verified": false,
+    "is_blue_verified": true,
     "following": true,
     "followed_by": true,
     "can_dm": true,
@@ -36,7 +36,7 @@
         "dm_permissions": {
             "can_dm": true
         },
-        "has_graduated_access": false,
+        "has_graduated_access": true,
         "legacy": {
             "default_profile": true,
             "default_profile_image": false,
@@ -46,12 +46,12 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 636,
+            "friends_count": 2535,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 13,
+            "media_count": 102,
             "pinned_tweet_ids_str": [
-                "1933262800664572093"
+                "1937107668746809350"
             ],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
@@ -63,7 +63,7 @@
             "location": "Québec"
         },
         "media_permissions": {
-            "can_media_tag": true
+            "can_media_tag": false
         },
         "parody_commentary_fan_label": "None",
         "profile_image_shape": "Circle",
@@ -80,7 +80,7 @@
         },
         "twe_private_fields": {
             "created_at": 1749751898000,
-            "updated_at": 1750232254497
+            "updated_at": 1752846587235
         }
     }
 }

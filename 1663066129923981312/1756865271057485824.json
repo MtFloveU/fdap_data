@@ -1,15 +1,15 @@
 {
     "id": "1756865271057485824",
     "screen_name": "qHanTinp",
-    "name": "HanTin喵喵酱",
+    "name": "Stardust:NYA",
     "description": "这里是HanTin，只要你是ppy民，我们就是好朋友，情商超低，珍惜着身边的朋友们，随缘fo人w，不擅长日文、基本使用机翻｜咱超可爱的妹妹@teyop129314 @xingyue80934591｜咱可爱的小星怒@Mikhail_712｜涩涩的可爱性奴@Haruhi_LAP",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1922969079289348098/E6Hv8H9d_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756865271057485824/1734533983",
-    "followers_count": 246,
-    "friends_count": 388,
-    "statuses_count": 4057,
-    "favourites_count": 27248,
-    "listed_count": 3,
+    "followers_count": 282,
+    "friends_count": 455,
+    "statuses_count": 4488,
+    "favourites_count": 28507,
+    "listed_count": 2,
     "location": "无尽的音游之路",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-02-12 10:18:32 +08:00",
     "url": "https://twitter.com/qHanTinp",
     "metadata": {
         "__typename": "User",
@@ -30,7 +30,7 @@
         },
         "core": {
             "created_at": "Mon Feb 12 02:18:32 +0000 2024",
-            "name": "HanTin喵喵酱",
+            "name": "Stardust:NYA",
             "screen_name": "qHanTinp"
         },
         "dm_permissions": {
@@ -46,10 +46,10 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 388,
+            "friends_count": 455,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 50,
+            "media_count": 53,
             "pinned_tweet_ids_str": [
                 "1905048740215538012"
             ],
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219068775
+            "created_at": 1707704312000,
+            "updated_at": 1752846618931
         }
     }
 }

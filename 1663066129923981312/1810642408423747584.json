@@ -2,14 +2,14 @@
     "id": "1810642408423747584",
     "screen_name": "Aki_0728_",
     "name": "ほのか",
-    "description": "08在校高中生 maimai DX低手 這裡是我的日常推/08在校高校生 maimai DX低手 ここは私の日常推 頭像不代表任何屬性",
+    "description": "這裡像個垃圾桶🗑️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1913264754665156610/rZwfZZGD_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810642408423747584/1735900630",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810642408423747584/1752066310",
     "followers_count": 228,
-    "friends_count": 296,
-    "statuses_count": 2008,
-    "favourites_count": 5034,
-    "listed_count": 2,
+    "friends_count": 304,
+    "statuses_count": 2136,
+    "favourites_count": 5486,
+    "listed_count": 1,
     "location": "距離您0.1km",
     "website": null,
     "birthdate": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2024-07-09 19:49:34 +08:00",
     "url": "https://twitter.com/Aki_0728_",
     "metadata": {
         "__typename": "User",
@@ -46,13 +46,11 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 296,
+            "friends_count": 304,
             "has_custom_timelines": false,
             "is_translator": false,
-            "media_count": 206,
-            "pinned_tweet_ids_str": [
-                "1900963252093206678"
-            ],
+            "media_count": 227,
+            "pinned_tweet_ids_str": [],
             "possibly_sensitive": false,
             "profile_interstitial_type": "",
             "translator_type": "none",
@@ -79,8 +77,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219062663
+            "created_at": 1720525774000,
+            "updated_at": 1752846611714
         }
     }
 }

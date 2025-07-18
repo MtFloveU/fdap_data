@@ -2,13 +2,13 @@
     "id": "1716012172218974208",
     "screen_name": "Kino47413125163",
     "name": "アゾイクキノ🪼",
-    "description": "这里是Kino！mtfです/🍥2024-6-10/Arknights🪼/OMORI🌻/FF14🗡️/和七安安一起找主人中w",
+    "description": "这里是Kino！mtfです/🍥2024-6-10/Arknights🪼/OMORI🌻/FF14🗡️",
     "profile_image_url": "https://pbs.twimg.com/profile_images/1927030729294094336/SHF8t-zH_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716012172218974208/1733914705",
-    "followers_count": 94,
-    "friends_count": 294,
-    "statuses_count": 210,
-    "favourites_count": 2875,
+    "followers_count": 99,
+    "friends_count": 300,
+    "statuses_count": 217,
+    "favourites_count": 3118,
     "listed_count": 0,
     "location": "Tokyo",
     "website": null,
@@ -19,7 +19,7 @@
     "followed_by": true,
     "can_dm": true,
     "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
+    "created_at": "2023-10-22 16:42:54 +08:00",
     "url": "https://twitter.com/Kino47413125163",
     "metadata": {
         "__typename": "User",
@@ -46,7 +46,7 @@
                 }
             },
             "fast_followers_count": 0,
-            "friends_count": 294,
+            "friends_count": 300,
             "has_custom_timelines": false,
             "is_translator": false,
             "media_count": 52,
@@ -79,8 +79,8 @@
             "verified": false
         },
         "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219071821
+            "created_at": 1697964174000,
+            "updated_at": 1752846621550
         }
     }
 }
