@@ -11,11 +11,11 @@
         }
     },
     "protected": true,
-    "followers_count": 633,
-    "friends_count": 967,
+    "followers_count": 641,
+    "friends_count": 969,
     "listed_count": 0,
     "created_at": "Mon Apr 28 05:25:57 +0000 2025",
-    "favourites_count": 510,
+    "favourites_count": 511,
     "verified": false,
     "statuses_count": 60,
     "media_count": 0,
@@ -40,7 +40,7 @@
     "business_profile_state": "none",
     "translator_type": "none",
     "withheld_in_countries": [],
-    "followed_by": false,
+    "followed_by": true,
     "ext_is_blue_verified": false,
     "require_some_consent": false
 }

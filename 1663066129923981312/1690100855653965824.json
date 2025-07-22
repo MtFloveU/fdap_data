@@ -1,99 +1,51 @@
 {
     "id": "1690100855653965824",
+    "name": "新中国✨🚩叉鱼电鱼供应商你雷总",
     "screen_name": "iLIc5147",
-    "name": "新中国✨🚩解放牌汽车兵小雷",
-    "description": "直到我意识得到，我曾经在为人民的苦难哭泣，现在在为成为一名革命家自豪，未来的每一个憧憬都充满了群众的欢声笑语时，原来我也是这样的人📕\n世上还有千千万万像我像你一样的人，再多的千言万语和误解与偏见都胜不过一心要为解放人民火热的心✨\n重上井冈山马列主义学习小组，为继续革命的红色道路，前进↗",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1944821068104941568/VAYUhPej_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690100855653965824/1752516212",
-    "followers_count": 533,
-    "friends_count": 381,
-    "statuses_count": 5197,
-    "favourites_count": 12474,
-    "listed_count": 7,
+    "description": "直到我意识得到，我曾经在为融资的苦难哭泣，现在在为成为一名资本家而自豪，未来的每一个憧憬都充满了金钱落地时，原来我也是这样的人🎩💸\n世上还有千千万万像我像你一样的人，再多的千言万语和误解与偏见都胜不过一心要为咸鱼翻身赚钱的理想✨\n深圳叉鱼电鱼工厂欢迎老板们参观，为继续剥削剩余价值的道路，前进↗",
     "location": "北京天安门",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-08-12 04:40:59 +08:00",
-    "url": "https://twitter.com/iLIc5147",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjkwMTAwODU1NjUzOTY1ODI0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1944821068104941568/VAYUhPej_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Aug 11 20:40:59 +0000 2023",
-            "name": "新中国✨🚩解放牌汽车兵小雷",
-            "screen_name": "iLIc5147"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 381,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 422,
-            "pinned_tweet_ids_str": [
-                "1945080456912699792"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "北京天安门"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1861719049220075976",
-            "professional_type": "Business",
-            "category": [
-                {
-                    "id": 1015,
-                    "name": "Nonprofits & Activism",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1691786459000,
-            "updated_at": 1752846589901
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 531,
+    "friends_count": 378,
+    "listed_count": 0,
+    "created_at": "Fri Aug 11 20:40:59 +0000 2023",
+    "favourites_count": 12792,
+    "verified": false,
+    "statuses_count": 5389,
+    "media_count": 431,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1947516954526289920/7r4KVCT8_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690100855653965824/1753159301",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1946441679763915072
+    ],
+    "pinned_tweet_ids_str": [
+        "1946441679763915072"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
