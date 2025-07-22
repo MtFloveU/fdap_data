@@ -1,102 +1,47 @@
 {
     "id": "1315740114035777536",
-    "screen_name": "soiflytoMYwithU",
     "name": "蓝莓酸奶西兰花奶昔🕯️",
-    "description": "daodao（2002—2016.08）\ncang（2017［？］—2025.05）\n此账号目前由███接管，\nそれでも世界が続くなら。",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1914131356948566016/tQqpev2D_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315740114035777536/1746856882",
-    "followers_count": 187,
-    "friends_count": 569,
-    "statuses_count": 4460,
-    "favourites_count": 30976,
-    "listed_count": 1,
+    "screen_name": "soiflytoMYwithU",
+    "description": "Gasoline horses will take us away.",
     "location": "Razorback Drug Town",
-    "website": "https://t.co/noNAYbE4NG",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2020-10-13 03:44:59 +08:00",
-    "url": "https://twitter.com/soiflytoMYwithU",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMzE1NzQwMTE0MDM1Nzc3NTM2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1914131356948566016/tQqpev2D_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Oct 12 19:44:59 +0000 2020",
-            "name": "蓝莓酸奶西兰花奶昔🕯️",
-            "screen_name": "soiflytoMYwithU"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "y.music.163.com/m/song?id=1946…",
-                            "expanded_url": "https://y.music.163.com/m/song?id=19466000",
-                            "url": "https://t.co/noNAYbE4NG",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 569,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 701,
-            "pinned_tweet_ids_str": [
-                "1944477740482355249"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/noNAYbE4NG",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Razorback Drug Town"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1602531899000,
-            "updated_at": 1752846589901
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 172,
+    "friends_count": 501,
+    "listed_count": 0,
+    "created_at": "Mon Oct 12 19:44:59 +0000 2020",
+    "favourites_count": 32065,
+    "verified": false,
+    "statuses_count": 4600,
+    "media_count": 708,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1914131356948566016/tQqpev2D_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315740114035777536/1746856882",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

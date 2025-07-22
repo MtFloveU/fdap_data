@@ -1,98 +1,60 @@
 {
     "id": "1505492874971934721",
-    "screen_name": "CH3COSCoA",
     "name": "绮莉能",
-    "description": "没有",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1945431289433034753/KEcxH1-w_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1505492874971934721/1751006451",
-    "followers_count": 1577,
-    "friends_count": 3591,
-    "statuses_count": 22179,
-    "favourites_count": 37042,
-    "listed_count": 2,
+    "screen_name": "CH3COSCoA",
+    "description": "头像是我自己画的",
     "location": "Location",
-    "website": "https://t.co/gSbWDy4y2w",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2022-03-20 18:34:12 +08:00",
-    "url": "https://twitter.com/CH3COSCoA",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTA1NDkyODc0OTcxOTM0NzIx",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1945431289433034753/KEcxH1-w_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Mar 20 10:34:12 +0000 2022",
-            "name": "绮莉能",
-            "screen_name": "CH3COSCoA"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "marshmallow-qa.com/u5bhgpfa7c0x7w…",
-                            "expanded_url": "https://marshmallow-qa.com/u5bhgpfa7c0x7w5?t=9EZQWF&utm_medium=url_text&utm_source=promotion",
-                            "url": "https://t.co/gSbWDy4y2w",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/gSbWDy40cY",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/gSbWDy40cY",
+                    "expanded_url": "https://marshmallow-qa.com/u5bhgpfa7c0x7w5?t=9EZQWF&utm_medium=url_text&utm_source=promotion",
+                    "display_url": "marshmallow-qa.com/u5bhgpfa7c0x7w…",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 3591,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 1460,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/gSbWDy4y2w",
-            "want_retweets": false,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "Location"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1647772452000,
-            "updated_at": 1752846541265
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 1577,
+    "friends_count": 3594,
+    "listed_count": 2,
+    "created_at": "Sun Mar 20 10:34:12 +0000 2022",
+    "favourites_count": 37059,
+    "verified": false,
+    "statuses_count": 22186,
+    "media_count": 1460,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1945431289433034753/KEcxH1-w_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1505492874971934721/1751006451",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

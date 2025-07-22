@@ -1,86 +1,51 @@
 {
     "id": "1340318604852559874",
-    "screen_name": "x0710_x0710",
     "name": "x0710",
-    "description": "毕业了(悲)male。CS2，Minecraft。人在河北，很温柔,一般不会炸，欢迎骚扰，想和你熟识！\n别聊天突然失踪就好(恼)\n学习linux中...\n没有名字。x酱似乎也可以称呼？？",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1738584319915094016/kzRPn69E_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340318604852559874/1687272195",
-    "followers_count": 93,
-    "friends_count": 105,
-    "statuses_count": 1084,
-    "favourites_count": 2598,
-    "listed_count": 1,
+    "screen_name": "x0710_x0710",
+    "description": "来一个人，去救救我们的灵魂吧",
     "location": "河北, 中华人民共和国",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2020-12-19 23:30:47 +08:00",
-    "url": "https://twitter.com/x0710_x0710",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMzQwMzE4NjA0ODUyNTU5ODc0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1738584319915094016/kzRPn69E_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Dec 19 15:30:47 +0000 2020",
-            "name": "x0710",
-            "screen_name": "x0710_x0710"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 105,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 149,
-            "pinned_tweet_ids_str": [
-                "1943298284606623906"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "河北, 中华人民共和国"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1608391847000,
-            "updated_at": 1752846618931
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 96,
+    "friends_count": 109,
+    "listed_count": 1,
+    "created_at": "Sat Dec 19 15:30:47 +0000 2020",
+    "favourites_count": 2626,
+    "verified": false,
+    "statuses_count": 1098,
+    "media_count": 150,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1738584319915094016/kzRPn69E_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340318604852559874/1687272195",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1943298284606623906
+    ],
+    "pinned_tweet_ids_str": [
+        "1943298284606623906"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,88 +1,51 @@
 {
     "id": "1811057149805834241",
-    "screen_name": "Tarimarl",
     "name": "Tarimar",
-    "description": "我需要很多钱，也需要很多爱 | 可以叫我小T | 请和我互fo",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1938299690325577735/Ltgu9l4J_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811057149805834241/1750604703",
-    "followers_count": 338,
-    "friends_count": 431,
-    "statuses_count": 1305,
-    "favourites_count": 5691,
-    "listed_count": 1,
+    "screen_name": "Tarimarl",
+    "description": "我需要很多钱，也需要很多爱 | 可以叫我小T | 性别是沃尔玛塑料袋 | 请和我互fo",
     "location": "✟​Heaven✟",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-07-10 23:17:40 +08:00",
-    "url": "https://twitter.com/Tarimarl",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODExMDU3MTQ5ODA1ODM0MjQx",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1938299690325577735/Ltgu9l4J_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Jul 10 15:17:40 +0000 2024",
-            "name": "Tarimar",
-            "screen_name": "Tarimarl"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 431,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 166,
-            "pinned_tweet_ids_str": [
-                "1938299205006889039"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "✟​Heaven✟"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1720624660000,
-            "updated_at": 1752846595659
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 339,
+    "friends_count": 430,
+    "listed_count": 1,
+    "created_at": "Wed Jul 10 15:17:40 +0000 2024",
+    "favourites_count": 5817,
+    "verified": false,
+    "statuses_count": 1347,
+    "media_count": 173,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1938299690325577735/Ltgu9l4J_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811057149805834241/1750604703",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1938299205006889039
+    ],
+    "pinned_tweet_ids_str": [
+        "1938299205006889039"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
