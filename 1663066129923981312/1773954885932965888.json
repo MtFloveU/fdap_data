@@ -1,129 +1,51 @@
 {
     "id": "1773954885932965888",
-    "screen_name": "SoftCloud123456",
     "name": "不是泉此方鸭🍥🏳️‍⚧️",
+    "screen_name": "SoftCloud123456",
     "description": "断糖友跨|泛性恋|",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1874838492246888449/5i9jTB3c_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773954885932965888/1712322876",
-    "followers_count": 757,
-    "friends_count": 1193,
-    "statuses_count": 867,
-    "favourites_count": 495,
-    "listed_count": 0,
-    "location": "Kowloon City District",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-03-30 14:06:33 +08:00",
-    "url": "https://twitter.com/SoftCloud123456",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzczOTU0ODg1OTMyOTY1ODg4",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @SoftCloud654321",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 29,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "SoftCloud654321",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "SoftCloud654321"
-                                        },
-                                        "rest_id": "1522912177098797058"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1874838492246888449/5i9jTB3c_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Mar 30 06:06:33 +0000 2024",
-            "name": "不是泉此方鸭🍥🏳️‍⚧️",
-            "screen_name": "SoftCloud123456"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1193,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 23,
-            "pinned_tweet_ids_str": [
-                "1899192426180571428"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Kowloon City District"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1776227340580008401",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 343,
-                    "name": "Soul Food Restaurant",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1711778793000,
-            "updated_at": 1752846614297
+    "location": "九龍城, 香港",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 756,
+    "friends_count": 1193,
+    "listed_count": 0,
+    "created_at": "Sat Mar 30 06:06:33 +0000 2024",
+    "favourites_count": 494,
+    "verified": false,
+    "statuses_count": 867,
+    "media_count": 23,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1874838492246888449/5i9jTB3c_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773954885932965888/1712322876",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1899192426180571428
+    ],
+    "pinned_tweet_ids_str": [
+        "1899192426180571428"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

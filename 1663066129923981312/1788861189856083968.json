@@ -1,71 +1,63 @@
 {
     "id": "1788861189856083968",
-    "screen_name": "Sakura_Yukihane",
     "name": "小羽-樱雪羽🏳️‍⚧️🍥",
+    "screen_name": "Sakura_Yukihane",
     "description": "谁来弄死我",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1873309667964944384/IISivAsb_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 864,
-    "statuses_count": 446,
-    "favourites_count": 840,
-    "listed_count": 2,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2024-05-10 17:19:38 +08:00",
-    "url": "https://twitter.com/Sakura_Yukihane",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzg4ODYxMTg5ODU2MDgzOTY4",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/+XNqeEL12OHNlZ…",
-                            "expanded_url": "https://t.me/+XNqeEL12OHNlZmM5",
-                            "url": "https://t.co/BlCcaN6iVy",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/BlCcaN6iVy",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/BlCcaN6iVy",
+                    "expanded_url": "https://t.me/+XNqeEL12OHNlZmM5",
+                    "display_url": "t.me/+XNqeEL12OHNlZ…",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 200,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 31,
-            "pinned_tweet_ids_str": [
-                "1896072028660383997"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/BlCcaN6iVy",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1715332778000,
-            "updated_at": 1744350083621
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 823,
+    "friends_count": 195,
+    "listed_count": 2,
+    "created_at": "Fri May 10 09:19:38 +0000 2024",
+    "favourites_count": 791,
+    "verified": false,
+    "statuses_count": 445,
+    "media_count": 31,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1873309667964944384/IISivAsb_normal.jpg",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1896072028660383997
+    ],
+    "pinned_tweet_ids_str": [
+        "1896072028660383997"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

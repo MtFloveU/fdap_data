@@ -1,109 +1,60 @@
 {
     "id": "1884959792390938624",
+    "name": "梦情🏳️‍⚧️🍥",
     "screen_name": "mengqing5735",
-    "name": "梦情酱🏳️‍⚧️🍥🐱🤤",
-    "description": "14-year-old trans-girl/姐姐酱 @qqnjjwb    /政治当乐子/❤️@sxshuishuimao",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1932034241610878976/HZNQGzCZ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884959792390938624/1747308472",
-    "followers_count": 1674,
-    "friends_count": 1057,
-    "statuses_count": 7741,
-    "favourites_count": 17598,
-    "listed_count": 7,
+    "description": "14-year-old trans-girl/姐姐酱 @qqnjjwb    /政治当乐子，和平主义者，建制派/❤️@sxshuishuimao",
     "location": "美丽新世界",
-    "website": "https://t.co/8iYgYgFDXc",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2025-01-30 21:40:24 +08:00",
-    "url": "https://twitter.com/mengqing5735",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODg0OTU5NzkyMzkwOTM4NjI0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1932034241610878976/HZNQGzCZ_normal.jpg"
-        },
-        "core": {
-            "created_at": "Thu Jan 30 13:40:24 +0000 2025",
-            "name": "梦情酱🏳️‍⚧️🍥🐱🤤",
-            "screen_name": "mengqing5735"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/luna8964",
-                            "expanded_url": "http://t.me/luna8964",
-                            "url": "https://t.co/8iYgYgFDXc",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1057,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 217,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/8iYgYgFDXc",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "美丽新世界"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1906543348485431709",
-            "professional_type": "Business",
-            "category": [
+    "url": "https://t.co/8iYgYgFDXc",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 157,
-                    "name": "Secondary School",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/8iYgYgFDXc",
+                    "expanded_url": "http://t.me/luna8964",
+                    "display_url": "t.me/luna8964",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1738244424000,
-            "updated_at": 1752846592776
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1683,
+    "friends_count": 1062,
+    "listed_count": 7,
+    "created_at": "Thu Jan 30 13:40:24 +0000 2025",
+    "favourites_count": 17618,
+    "verified": false,
+    "statuses_count": 7807,
+    "media_count": 222,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1932034241610878976/HZNQGzCZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884959792390938624/1747308472",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,86 +1,51 @@
 {
     "id": "1597257668313260033",
-    "screen_name": "Minokakay",
     "name": "Minokakay（泰补色诺",
-    "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分 Pansexual MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/癌症靶向藥找 @ChosekiNoraneko，我在做客服",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597257668313260033/1706963304",
-    "followers_count": 8228,
-    "friends_count": 893,
-    "statuses_count": 19649,
-    "favourites_count": 44330,
-    "listed_count": 31,
+    "screen_name": "Minokakay",
+    "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/癌症靶向藥找 @ChosekiNoraneko，我在做客服",
     "location": "重庆市精神卫生中心门诊5楼",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-11-28 23:54:46 +08:00",
-    "url": "https://twitter.com/Minokakay",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTk3MjU3NjY4MzEzMjYwMDMz",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Nov 28 15:54:46 +0000 2022",
-            "name": "Minokakay（泰补色诺",
-            "screen_name": "Minokakay"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 893,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1316,
-            "pinned_tweet_ids_str": [
-                "1940009083995873344"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "重庆市精神卫生中心门诊5楼"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1669650886000,
-            "updated_at": 1752846618060
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 8256,
+    "friends_count": 895,
+    "listed_count": 31,
+    "created_at": "Mon Nov 28 15:54:46 +0000 2022",
+    "favourites_count": 44346,
+    "verified": false,
+    "statuses_count": 19685,
+    "media_count": 1316,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597257668313260033/1706963304",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1940009083995873344
+    ],
+    "pinned_tweet_ids_str": [
+        "1940009083995873344"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

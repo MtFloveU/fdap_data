@@ -1,113 +1,64 @@
 {
     "id": "1557353901044555776",
+    "name": "𝑨𝒓𝒄𝒖𝒌𝒊",
     "screen_name": "hatsuyuki_suki",
-    "name": "初雪🏳️‍⚧️in 冷凍庫 | 解放！",
-    "description": "💬记得和过去说再见 ❄️07低糖MtF，INFP 🔥变身酷姐帅爆大家 🌌大概是日常推 💫爱人@Letisin75 🐾 貼地爬行的陰暗b 🐱本體兔猻 半死不活  ☕關注初雪謝謝喵 🩷我一直都會陪著大家",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1892924726911094784/8tnLc2-T_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557353901044555776/1740143398",
-    "followers_count": 965,
-    "friends_count": 1338,
-    "statuses_count": 9889,
-    "favourites_count": 25874,
-    "listed_count": 3,
-    "location": "No Such BAR “不在这吧”",
-    "website": "https://t.co/Fu6MCIVzye",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-08-10 21:11:29 +08:00",
-    "url": "https://twitter.com/hatsuyuki_suki",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTU3MzUzOTAxMDQ0NTU1Nzc2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1892924726911094784/8tnLc2-T_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Aug 10 13:11:29 +0000 2022",
-            "name": "初雪🏳️‍⚧️in 冷凍庫 | 解放！",
-            "screen_name": "hatsuyuki_suki"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "elysium.fandom.com/zh",
-                            "expanded_url": "https://elysium.fandom.com/zh",
-                            "url": "https://t.co/Fu6MCIVzye",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1338,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 646,
-            "pinned_tweet_ids_str": [
-                "1921074820655034725"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/Fu6MCIVzye",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "No Such BAR “不在这吧”"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1875567556721045828",
-            "professional_type": "Creator",
-            "category": [
+    "description": "💬记得和过去说再见 🏳️‍⚧️07低糖MtF/X，INFP 🔥变身酷姐帅爆大家 🌌大概是日常推 💫爱人@Letisin75 🐾 貼地爬行的陰暗b 🐱本體兔猻 半死不活  ☕關注初雪謝謝喵 🩷我一直都會陪著大家",
+    "location": "冷凍庫",
+    "url": "https://t.co/tWGkNFKGgn",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 1092,
-                    "name": "Game Designer",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/tWGkNFKGgn",
+                    "expanded_url": "https://m.rtk.pm",
+                    "display_url": "m.rtk.pm",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1660137089000,
-            "updated_at": 1750232260551
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 995,
+    "friends_count": 1343,
+    "listed_count": 3,
+    "created_at": "Wed Aug 10 13:11:29 +0000 2022",
+    "favourites_count": 25804,
+    "verified": false,
+    "statuses_count": 9943,
+    "media_count": 657,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1892924726911094784/8tnLc2-T_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557353901044555776/1740143398",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1921074820655034725
+    ],
+    "pinned_tweet_ids_str": [
+        "1921074820655034725"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

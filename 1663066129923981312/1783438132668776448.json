@@ -1,106 +1,64 @@
 {
     "id": "1783438132668776448",
-    "screen_name": "zhonghuifufu",
     "name": "钟会",
+    "screen_name": "zhonghuifufu",
     "description": "文案/治愈/树洞/原创/二创/meme \n很高兴认识你 ˶ᵒ ᵕ ˂˶ 为爱发电ing...\n喜欢烦请关注一下=⩌⩊⩌=",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1860776680589340672/_pYAkm9y_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1783438132668776448/1734379625",
-    "followers_count": 66430,
-    "friends_count": 290,
-    "statuses_count": 2185,
-    "favourites_count": 1950,
-    "listed_count": 119,
     "location": "不卖号！不接推广！！要饭也不骗粉丝🥺",
-    "website": "https://t.co/LAJB1WgcZO",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-04-25 18:09:50 +08:00",
-    "url": "https://twitter.com/zhonghuifufu",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzgzNDM4MTMyNjY4Nzc2NDQ4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1860776680589340672/_pYAkm9y_normal.jpg"
-        },
-        "core": {
-            "created_at": "Thu Apr 25 10:09:50 +0000 2024",
-            "name": "钟会",
-            "screen_name": "zhonghuifufu"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "x.com/i/communities/…",
-                            "expanded_url": "https://x.com/i/communities/1805618030476706046",
-                            "url": "https://t.co/LAJB1WgcZO",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/LAJB1WgcZO",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/LAJB1WgcZO",
+                    "expanded_url": "https://x.com/i/communities/1805618030476706046",
+                    "display_url": "x.com/i/communities/…",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 290,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1968,
-            "pinned_tweet_ids_str": [
-                "1880240549116146007"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/LAJB1WgcZO",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "不卖号！不接推广！！要饭也不骗粉丝🥺"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1825890851752706175",
-            "professional_type": "Creator",
-            "category": []
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1714039790000,
-            "updated_at": 1750232281099
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 66371,
+    "friends_count": 292,
+    "listed_count": 122,
+    "created_at": "Thu Apr 25 10:09:50 +0000 2024",
+    "favourites_count": 1949,
+    "verified": false,
+    "statuses_count": 2187,
+    "media_count": 1970,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1860776680589340672/_pYAkm9y_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1783438132668776448/1734379625",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1880240549116146007
+    ],
+    "pinned_tweet_ids_str": [
+        "1880240549116146007"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

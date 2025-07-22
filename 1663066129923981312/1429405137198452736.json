@@ -1,116 +1,64 @@
 {
     "id": "1429405137198452736",
-    "screen_name": "DrEffie_Mtf",
     "name": "Dr.Effie #参宿四🏳️‍⚧️🕯️",
-    "description": "Effie Lingley Dorm/15.yo/Mtx/🍥hrt23.12.23/173cm 62kg/药娘圈合约战神/常驻重庆-深圳-惠州/两年实盘半年模拟/曾出席某知名币圈福利姬晚宴并以mtf身份发表演讲/回忆录随机掉落/部分推文可能会触发神经症/现任橘猫电子科技名誉CTO",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1945716383582420992/oRAOzt92_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429405137198452736/1750946534",
-    "followers_count": 8134,
-    "friends_count": 1049,
-    "statuses_count": 19632,
-    "favourites_count": 124003,
-    "listed_count": 36,
+    "screen_name": "DrEffie_Mtf",
+    "description": "n/a",
     "location": "找到你认为的我→",
-    "website": "https://t.co/s9ZUgLDLf4",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2021-08-22 19:28:44 +08:00",
-    "url": "https://twitter.com/DrEffie_Mtf",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDI5NDA1MTM3MTk4NDUyNzM2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1945716383582420992/oRAOzt92_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Aug 22 11:28:44 +0000 2021",
-            "name": "Dr.Effie #参宿四🏳️‍⚧️🕯️",
-            "screen_name": "DrEffie_Mtf"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/+TnEoktkrHQMzN…",
-                            "expanded_url": "https://t.me/+TnEoktkrHQMzNDdk",
-                            "url": "https://t.co/s9ZUgLDLf4",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1049,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 3341,
-            "pinned_tweet_ids_str": [
-                "1939172739853824485"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/s9ZUgLDLf4",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "找到你认为的我→"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1806347460299866263",
-            "professional_type": "Business",
-            "category": [
+    "url": "https://t.co/s9ZUgLDLf4",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 713,
-                    "name": "Science & Technology",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/s9ZUgLDLf4",
+                    "expanded_url": "https://t.me/+TnEoktkrHQMzNDdk",
+                    "display_url": "t.me/+TnEoktkrHQMzN…",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false,
-            "bitcoin_handle": "3KUg7xMkaq1QHKpRw8AE6rHj8peudLuwN4",
-            "ethereum_handle": "0x547b4a4936857d81f4e702d28b9e157cc0d6bb6b",
-            "patreon_handle": ""
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1629631724000,
-            "updated_at": 1752846617121
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 8267,
+    "friends_count": 1058,
+    "listed_count": 36,
+    "created_at": "Sun Aug 22 11:28:44 +0000 2021",
+    "favourites_count": 123905,
+    "verified": false,
+    "statuses_count": 19654,
+    "media_count": 3341,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1945716383582420992/oRAOzt92_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429405137198452736/1750946534",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1939172739853824485
+    ],
+    "pinned_tweet_ids_str": [
+        "1939172739853824485"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

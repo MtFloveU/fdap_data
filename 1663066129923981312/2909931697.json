@@ -1,0 +1,64 @@
+{
+    "id": "2909931697",
+    "name": "Joseph Chris",
+    "screen_name": "baobao1270",
+    "description": "「生如逆旅 · 一苇以航」| Naïve Vocaloid Producer - 天依粉 / 南北一生推 | Full Stack Developer - Python / TypeScript / C# / Linux / Docker / 云计算 / 网络工程",
+    "location": "Riverside",
+    "url": "https://t.co/zAct5bSovf",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/zAct5bSovf",
+                    "expanded_url": "https://josephcz.xyz/",
+                    "display_url": "josephcz.xyz",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 1728,
+    "friends_count": 310,
+    "listed_count": 16,
+    "created_at": "Tue Nov 25 10:56:02 +0000 2014",
+    "favourites_count": 1039,
+    "verified": false,
+    "statuses_count": 4351,
+    "media_count": 510,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/861241603763036160/fEbbOWJe_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2909931697/1735763934",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1727791349729309049
+    ],
+    "pinned_tweet_ids_str": [
+        "1727791349729309049"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
+}

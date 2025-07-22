@@ -1,94 +1,51 @@
 {
     "id": "1680508885394927616",
-    "screen_name": "04177_realname",
     "name": "真名🏳️‍⚧️",
-    "description": "不要自杀，我可以陪你聊天。",
+    "screen_name": "04177_realname",
+    "description": "不要自杀，我可以陪你聊天。❤️：@zqtlovekris99",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680508885394927616/1736369831",
-    "followers_count": 10336,
-    "statuses_count": 17278,
-    "favourites_count": 62573,
-    "listed_count": 32,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2023-07-16 17:25:35 +08:00",
-    "url": "https://twitter.com/04177_realname",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjgwNTA4ODg1Mzk0OTI3NjE2",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @zhenzhen_04177",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 28,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "zhenzhen_04177",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "legacy": {
-                                            "screen_name": "zhenzhen_04177"
-                                        },
-                                        "rest_id": "1773895753947369472"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 6124,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 2185,
-            "pinned_tweet_ids_str": [
-                "1864147494676123745"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1805155797397295559",
-            "professional_type": "Business",
-            "category": []
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "twe_private_fields": {
-            "created_at": 1689499535000,
-            "updated_at": 1744350115040
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 10926,
+    "friends_count": 6144,
+    "listed_count": 32,
+    "created_at": "Sun Jul 16 09:25:35 +0000 2023",
+    "favourites_count": 62700,
+    "verified": false,
+    "statuses_count": 17897,
+    "media_count": 2416,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680508885394927616/1736369831",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1864147494676123745
+    ],
+    "pinned_tweet_ids_str": [
+        "1864147494676123745"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

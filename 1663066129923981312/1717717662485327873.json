@@ -1,102 +1,64 @@
 {
     "id": "1717717662485327873",
-    "screen_name": "yanyan2567",
     "name": "白·鸦鸦",
-    "description": "06男娘，会点捆绑，可以找我约玩\n最喜欢的动漫人物是索菲酱~\n\n对我来说重要的人:@1812_z @MeviuslX_Xl @LoRaZePaM0128  @SasKuraMiku @xielingxi123\n\n想看绳图与约绳点这里→@eikst2567",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1922151215648911360/v7fvXsV5_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717717662485327873/1735475213",
-    "followers_count": 4391,
-    "friends_count": 768,
-    "statuses_count": 2116,
-    "favourites_count": 7365,
-    "listed_count": 13,
+    "screen_name": "yanyan2567",
+    "description": "06男娘，会点捆绑，可以找我约玩\n最喜欢的动漫人物是索菲酱~\n\n对我来说重要的人:@1812_z @MeviuslX_Xl @LoRaZePaM0128  @SasKuraMiku @xielingxi115\n\n想看绳图与约绳点这里→@eikst2567",
     "location": "泉州",
-    "website": "https://t.co/VtivjUsYZn",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/yanyan2567",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzE3NzE3NjYyNDg1MzI3ODcz",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1922151215648911360/v7fvXsV5_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Oct 27 01:39:54 +0000 2023",
-            "name": "白·鸦鸦",
-            "screen_name": "yanyan2567"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/baiyaya2567",
-                            "expanded_url": "https://t.me/baiyaya2567",
-                            "url": "https://t.co/VtivjUsYZn",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/VtivjUtwOV",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/VtivjUtwOV",
+                    "expanded_url": "https://t.me/baiyaya2567",
+                    "display_url": "t.me/baiyaya2567",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 768,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 3,
-            "pinned_tweet_ids_str": [
-                "1926933868386414870"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/VtivjUsYZn",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "泉州"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219075207
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4542,
+    "friends_count": 801,
+    "listed_count": 12,
+    "created_at": "Fri Oct 27 01:39:54 +0000 2023",
+    "favourites_count": 7740,
+    "verified": false,
+    "statuses_count": 2187,
+    "media_count": 22,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1922151215648911360/v7fvXsV5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717717662485327873/1750077104",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1934583999428694070
+    ],
+    "pinned_tweet_ids_str": [
+        "1934583999428694070"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

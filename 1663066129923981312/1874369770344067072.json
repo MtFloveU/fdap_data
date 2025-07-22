@@ -1,57 +1,51 @@
 {
     "id": "1874369770344067072",
-    "screen_name": "LostMemeArchive",
     "name": "Lost Meme Archive",
+    "screen_name": "LostMemeArchive",
     "description": "where memes go to die—and be reborn in your memory.",
     "location": "",
-    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-    "profile_banner_url": null,
-    "followers_count": 328816,
-    "statuses_count": 1407,
-    "favourites_count": 2422,
-    "listed_count": 198,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2025-01-01 16:19:26 +08:00",
-    "url": "https://twitter.com/LostMemeArchive",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODc0MzY5NzcwMzQ0MDY3MDcy",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": true,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 0,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1383,
-            "pinned_tweet_ids_str": [
-                "1904391039634280757"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1735719566000,
-            "updated_at": 1744350078919
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 528830,
+    "friends_count": 0,
+    "listed_count": 351,
+    "created_at": "Wed Jan 01 08:19:26 +0000 2025",
+    "favourites_count": 2402,
+    "verified": false,
+    "statuses_count": 2071,
+    "media_count": 2043,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1914120748567785472/ffFpNobt_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874369770344067072/1745196680",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1938042528546128112
+    ],
+    "pinned_tweet_ids_str": [
+        "1938042528546128112"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

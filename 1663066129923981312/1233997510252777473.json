@@ -1,90 +1,83 @@
 {
     "id": "1233997510252777473",
-    "screen_name": "hiddenisfun",
     "name": "Hidden is fun",
+    "screen_name": "hiddenisfun",
     "description": "ISFP, osu! all mode player / mania BN.\n友链：https://t.co/Cqgr4Dlz4s\n(?)：https://t.co/MITXtBuDOC",
     "location": "Dalian, Liaoning, China",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1792088942520729600/HnFNBxaT_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1233997510252777473/1716102756",
-    "followers_count": 3642,
-    "statuses_count": 97,
-    "favourites_count": 59,
-    "listed_count": 16,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2020-03-01 14:08:36 +08:00",
-    "url": "https://twitter.com/hiddenisfun",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMjMzOTk3NTEwMjUyNzc3NDcz",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": false,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "250king.top",
-                            "expanded_url": "http://250king.top",
-                            "url": "https://t.co/Cqgr4Dlz4s",
-                            "indices": [
-                                42,
-                                65
-                            ]
-                        },
-                        {
-                            "display_url": "hiddenis.fun",
-                            "expanded_url": "https://hiddenis.fun",
-                            "url": "https://t.co/MITXtBuDOC",
-                            "indices": [
-                                70,
-                                93
-                            ]
-                        }
-                    ]
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "osu.ppy.sh/users/10449071",
-                            "expanded_url": "https://osu.ppy.sh/users/10449071",
-                            "url": "https://t.co/ELtiyMwQ1P",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/ELtiyMwQ1P",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ELtiyMwQ1P",
+                    "expanded_url": "https://osu.ppy.sh/users/10449071",
+                    "display_url": "osu.ppy.sh/users/10449071",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1511,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 55,
-            "pinned_tweet_ids_str": [
-                "1906409115381092417"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/ELtiyMwQ1P",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1583042916000,
-            "updated_at": 1744350074462
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/Cqgr4Dlz4s",
+                    "expanded_url": "http://250king.top",
+                    "display_url": "250king.top",
+                    "indices": [
+                        42,
+                        65
+                    ]
+                },
+                {
+                    "url": "https://t.co/MITXtBuDOC",
+                    "expanded_url": "https://hiddenis.fun",
+                    "display_url": "hiddenis.fun",
+                    "indices": [
+                        70,
+                        93
+                    ]
+                }
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4354,
+    "friends_count": 1637,
+    "listed_count": 17,
+    "created_at": "Sun Mar 01 06:08:36 +0000 2020",
+    "favourites_count": 94,
+    "verified": false,
+    "statuses_count": 130,
+    "media_count": 74,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1792088942520729600/HnFNBxaT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1233997510252777473/1716102756",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1920538282330361901
+    ],
+    "pinned_tweet_ids_str": [
+        "1920538282330361901"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

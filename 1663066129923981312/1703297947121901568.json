@@ -1,121 +1,51 @@
 {
     "id": "1703297947121901568",
+    "name": "AA布织道第十六代传人 门静脉幼织",
     "screen_name": "xue_zhi2008",
-    "name": "AA布织道第十五代传人 四织发达",
     "description": "一般路过女高||\n在读物化生高中生/MtF/退役CChOer/高三||\n目标是临床医学(真的还能吗？)||\n业余爱好:声乐(女高音也是女高)\n明日方舟干员收集度98%",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1887703881578389506/l5PxO2Co_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703297947121901568/1738898651",
-    "followers_count": 1667,
-    "friends_count": 465,
-    "statuses_count": 2062,
-    "favourites_count": 6968,
-    "listed_count": 3,
     "location": "重庆市",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-09-17 14:41:15 +08:00",
-    "url": "https://twitter.com/xue_zhi2008",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzAzMjk3OTQ3MTIxOTAxNTY4",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @xue_zhi_2nd",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 25,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "xue_zhi_2nd",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "xue_zhi_2nd"
-                                        },
-                                        "rest_id": "1836957331198001152"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1887703881578389506/l5PxO2Co_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Sep 17 06:41:15 +0000 2023",
-            "name": "AA布织道第十五代传人 四织发达",
-            "screen_name": "xue_zhi2008"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 465,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 611,
-            "pinned_tweet_ids_str": [
-                "1907327813289730421"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "重庆市"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1848758841166680515",
-            "professional_type": "Creator",
-            "category": []
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1694932875000,
-            "updated_at": 1752846620643
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1673,
+    "friends_count": 465,
+    "listed_count": 3,
+    "created_at": "Sun Sep 17 06:41:15 +0000 2023",
+    "favourites_count": 6989,
+    "verified": false,
+    "statuses_count": 2075,
+    "media_count": 612,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1887703881578389506/l5PxO2Co_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703297947121901568/1738898651",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1907327813289730421
+    ],
+    "pinned_tweet_ids_str": [
+        "1907327813289730421"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

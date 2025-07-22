@@ -1,68 +1,51 @@
 {
     "id": "1775851282710122496",
-    "screen_name": "Vincy1230",
     "name": "Vincy SHI 🍥",
+    "screen_name": "Vincy1230",
     "description": "如果都回不来那么我该为了谁而存在 | 推友寻回中 | 只给熟人看的情绪垃圾场 @BeforeDawnBreak | 坏蛋主人 @HzShibari86",
     "location": "Macau SAR / Beijing, P.R.China",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1902751291916611584/iUFDX75D_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775851282710122496/1740850327",
-    "followers_count": 1231,
-    "statuses_count": 2841,
-    "favourites_count": 912,
-    "listed_count": 3,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2024-04-04 19:42:12 +08:00",
-    "url": "https://twitter.com/Vincy1230",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzc1ODUxMjgyNzEwMTIyNDk2",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 210,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 350,
-            "pinned_tweet_ids_str": [
-                "1775864235471536147"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1775878042721955876",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 986,
-                    "name": "Software Application",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1712230932000,
-            "updated_at": 1744350109133
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1817,
+    "friends_count": 202,
+    "listed_count": 5,
+    "created_at": "Thu Apr 04 11:42:12 +0000 2024",
+    "favourites_count": 949,
+    "verified": false,
+    "statuses_count": 3315,
+    "media_count": 402,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1902751291916611584/iUFDX75D_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775851282710122496/1740850327",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1775864235471536147
+    ],
+    "pinned_tweet_ids_str": [
+        "1775864235471536147"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

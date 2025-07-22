@@ -1,111 +1,64 @@
 {
     "id": "1720002363409469440",
+    "name": "lohalidle符格🍥",
     "screen_name": "Priestess1878",
-    "name": "lohalidle符格",
-    "description": "恐懼是生物的本能 哈氣是基米的讚歌 街頭貓屋已經淪陷 億萬基米必須哈氣",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1941734667243192320/mnKbhMX__normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720002363409469440/1710591671",
-    "followers_count": 394,
-    "friends_count": 351,
-    "statuses_count": 8807,
-    "favourites_count": 8219,
-    "listed_count": 2,
+    "description": "野火哈基米",
     "location": "Сыктывкар",
-    "website": "https://t.co/ujrzsq49HM",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-11-02 16:58:24 +08:00",
-    "url": "https://twitter.com/Priestess1878",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzIwMDAyMzYzNDA5NDY5NDQw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1941734667243192320/mnKbhMX__normal.jpg"
-        },
-        "core": {
-            "created_at": "Thu Nov 02 08:58:24 +0000 2023",
-            "name": "lohalidle符格",
-            "screen_name": "Priestess1878"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "hachimi.com",
-                            "expanded_url": "http://hachimi.com",
-                            "url": "https://t.co/ujrzsq49HM",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 351,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1056,
-            "pinned_tweet_ids_str": [
-                "1942973104692584709"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/ujrzsq49HM",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Сыктывкар"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1862900189805293870",
-            "professional_type": "Business",
-            "category": [
+    "url": "https://t.co/ujrzsq4Hxk",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 584,
-                    "name": "Medical & Health",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/ujrzsq4Hxk",
+                    "expanded_url": "http://hachimi.com",
+                    "display_url": "hachimi.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1698915504000,
-            "updated_at": 1752846612950
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 399,
+    "friends_count": 352,
+    "listed_count": 2,
+    "created_at": "Thu Nov 02 08:58:24 +0000 2023",
+    "favourites_count": 8238,
+    "verified": false,
+    "statuses_count": 8877,
+    "media_count": 1071,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1941734667243192320/mnKbhMX__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720002363409469440/1710591671",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1946414447657918752
+    ],
+    "pinned_tweet_ids_str": [
+        "1946414447657918752"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

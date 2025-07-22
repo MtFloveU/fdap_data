@@ -1,59 +1,51 @@
 {
     "id": "1497241020303495168",
-    "screen_name": "mosscghere",
     "name": "啥也不会墨姐姐🏳️‍⚧️🍥 #三玖天下第一！",
+    "screen_name": "mosscghere",
     "description": "这里是啥也不会的墨姐姐｜闲聊日常技术推｜后端Java+Python工程师｜早退OIer｜远古MC服主｜MossFrp老板娘｜Trans周边绝赞贩售中",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1866694402057572356/bVsoVvV7_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497241020303495168/1733889487",
-    "followers_count": 5703,
-    "statuses_count": 5317,
-    "favourites_count": 18954,
-    "listed_count": 8,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2022-02-26 00:04:20 +08:00",
-    "url": "https://twitter.com/mosscghere",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDk3MjQxMDIwMzAzNDk1MTY4",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 837,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1379,
-            "pinned_tweet_ids_str": [
-                "1805802094882078995"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "twe_private_fields": {
-            "created_at": 1645805060000,
-            "updated_at": 1744350115040
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 5717,
+    "friends_count": 827,
+    "listed_count": 8,
+    "created_at": "Fri Feb 25 16:04:20 +0000 2022",
+    "favourites_count": 18770,
+    "verified": false,
+    "statuses_count": 5323,
+    "media_count": 1379,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1866694402057572356/bVsoVvV7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497241020303495168/1733889487",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1805802094882078995
+    ],
+    "pinned_tweet_ids_str": [
+        "1805802094882078995"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

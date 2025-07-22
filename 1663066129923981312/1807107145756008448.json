@@ -1,130 +1,64 @@
 {
     "id": "1807107145756008448",
-    "screen_name": "KagurazakaAzure",
     "name": "。InSightの⛩️まや_翎",
-    "description": "⛩️🌊⁉️“洞烛の摩耶” | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜持证ADHD&ASD｜179cm55kg｜🇬🇧英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜Arc ptt 11.00｜买雌二醇找@minokakay｜洞烛@juhao0721❤️",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807107145756008448/1751900240",
-    "followers_count": 7887,
-    "friends_count": 1101,
-    "statuses_count": 20801,
-    "favourites_count": 36348,
-    "listed_count": 9,
+    "screen_name": "KagurazakaAzure",
+    "description": "⛩️🌊⁉️“洞烛の摩耶” | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜持证ADHD&ASD｜179cm55kg｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜Arc ptt 11.00｜买雌二醇找@minokakay｜洞烛@juhao0721❤️",
     "location": "「查看更多」里面有自我介绍⬇️",
-    "website": "https://t.co/zULBkaIhWS",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-06-30 01:41:40 +08:00",
-    "url": "https://twitter.com/KagurazakaAzure",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODA3MTA3MTQ1NzU2MDA4NDQ4",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @juhao0721",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 23,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "juhao0721",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "juhao0721"
-                                        },
-                                        "rest_id": "1919296206381170688"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Jun 29 17:41:40 +0000 2024",
-            "name": "。InSightの⛩️まや_翎",
-            "screen_name": "KagurazakaAzure"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/Allenium114",
-                            "expanded_url": "http://t.me/Allenium114",
-                            "url": "https://t.co/zULBkaIhWS",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/zULBkaIhWS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/zULBkaIhWS",
+                    "expanded_url": "http://t.me/Allenium114",
+                    "display_url": "t.me/Allenium114",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1101,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 2593,
-            "pinned_tweet_ids_str": [
-                "1900823119130227094"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "sensitive_media",
-            "translator_type": "none",
-            "url": "https://t.co/zULBkaIhWS",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "「查看更多」里面有自我介绍⬇️"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Fan",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1719682900000,
-            "updated_at": 1752846620643
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 7904,
+    "friends_count": 1153,
+    "listed_count": 10,
+    "created_at": "Sat Jun 29 17:41:40 +0000 2024",
+    "favourites_count": 37360,
+    "verified": false,
+    "statuses_count": 21652,
+    "media_count": 2665,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807107145756008448/1751900240",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1900823119130227094
+    ],
+    "pinned_tweet_ids_str": [
+        "1900823119130227094"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

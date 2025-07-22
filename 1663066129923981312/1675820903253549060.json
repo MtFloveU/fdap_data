@@ -1,85 +1,51 @@
 {
     "id": "1675820903253549060",
-    "screen_name": "BBgua520",
     "name": "小呱bb",
+    "screen_name": "BBgua520",
     "description": "🚪18.8加q/40有福利（觉得我可爱可以投喂）非常感谢！INFP，喜欢有礼貌的人，口令或者v赞赏码（置顶）🍥\n可爱宝宝可以互关互推",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1771864967131942912/uhxPquHe_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675820903253549060/1711280477",
-    "followers_count": 7607,
-    "friends_count": 516,
-    "statuses_count": 3069,
-    "favourites_count": 5963,
-    "listed_count": 13,
     "location": "Ukyo-ku, Kyoto",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-07-03 18:57:19 +08:00",
-    "url": "https://twitter.com/BBgua520",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjc1ODIwOTAzMjUzNTQ5MDYw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1771864967131942912/uhxPquHe_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Jul 03 10:57:19 +0000 2023",
-            "name": "小呱bb",
-            "screen_name": "BBgua520"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 516,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 226,
-            "pinned_tweet_ids_str": [
-                "1876213464877977920"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Ukyo-ku, Kyoto"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1688381839000,
-            "updated_at": 1752846587235
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 7668,
+    "friends_count": 527,
+    "listed_count": 13,
+    "created_at": "Mon Jul 03 10:57:19 +0000 2023",
+    "favourites_count": 5982,
+    "verified": false,
+    "statuses_count": 3083,
+    "media_count": 226,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1771864967131942912/uhxPquHe_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675820903253549060/1711280477",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1876213464877977920
+    ],
+    "pinned_tweet_ids_str": [
+        "1876213464877977920"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,117 +1,51 @@
 {
     "id": "1228638724583374848",
-    "screen_name": "Plantie_uwu",
     "name": "plantie✨💛🤍💜🖤",
+    "screen_name": "Plantie_uwu",
     "description": "They/them.🏳️‍🌈🏳️‍⚧️",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228638724583374848/1751351142",
-    "followers_count": 10479,
-    "friends_count": 1789,
-    "statuses_count": 5791,
-    "favourites_count": 19046,
-    "listed_count": 38,
     "location": "bed",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2020-02-15 19:14:49 +08:00",
-    "url": "https://twitter.com/Plantie_uwu",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMjI4NjM4NzI0NTgzMzc0ODQ4",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @plantie_awa",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 25,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "plantie_awa",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "plantie_awa"
-                                        },
-                                        "rest_id": "1612855155128504335"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Feb 15 11:14:49 +0000 2020",
-            "name": "plantie✨💛🤍💜🖤",
-            "screen_name": "Plantie_uwu"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1789,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 998,
-            "pinned_tweet_ids_str": [
-                "1936088066541994356"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "bed"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1581765289000,
-            "updated_at": 1752846625712
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 10501,
+    "friends_count": 1799,
+    "listed_count": 38,
+    "created_at": "Sat Feb 15 11:14:49 +0000 2020",
+    "favourites_count": 19066,
+    "verified": false,
+    "statuses_count": 5799,
+    "media_count": 1001,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228638724583374848/1751351142",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1936088066541994356
+    ],
+    "pinned_tweet_ids_str": [
+        "1936088066541994356"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

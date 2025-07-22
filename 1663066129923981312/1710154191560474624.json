@@ -1,68 +1,51 @@
 {
     "id": "1710154191560474624",
-    "screen_name": "Mofangqicheng",
     "name": "君山二小姐",
+    "screen_name": "Mofangqicheng",
     "description": "臭玩剑三的，推特就是我的发泄场地！秘密基地！所以如果你认识我，请你假装不认识，我会很感谢你。 累了，不想一个个解释了，加v200啥都没有",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1844970538617405442/IqoRiVXR_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1710154191560474624/1701870672",
-    "followers_count": 43630,
-    "statuses_count": 7590,
-    "favourites_count": 2957,
-    "listed_count": 153,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2023-10-06 12:45:14 +08:00",
-    "url": "https://twitter.com/Mofangqicheng",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzEwMTU0MTkxNTYwNDc0NjI0",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 341,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1288,
-            "pinned_tweet_ids_str": [
-                "1832614135747539170"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1765745169662611499",
-            "professional_type": "Business",
-            "category": [
-                {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1696567514000,
-            "updated_at": 1744350115040
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 52843,
+    "friends_count": 349,
+    "listed_count": 197,
+    "created_at": "Fri Oct 06 04:45:14 +0000 2023",
+    "favourites_count": 3483,
+    "verified": false,
+    "statuses_count": 9190,
+    "media_count": 1411,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1844970538617405442/IqoRiVXR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1710154191560474624/1701870672",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1832614135747539170
+    ],
+    "pinned_tweet_ids_str": [
+        "1832614135747539170"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,86 +1,64 @@
 {
     "id": "1393065220323647494",
-    "screen_name": "dangshuang0608",
     "name": "霜",
+    "screen_name": "dangshuang0608",
     "description": "Life is so wonderful…",
     "location": "Kuala Lumpur",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1833119548117319680/63fWi4wI_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393065220323647494/1661589176",
-    "followers_count": 1492,
-    "statuses_count": 5278,
-    "favourites_count": 4648,
-    "listed_count": 3,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2021-05-14 12:46:55 +08:00",
-    "url": "https://twitter.com/dangshuang0608",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMzkzMDY1MjIwMzIzNjQ3NDk0",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/dangshuang",
-                            "expanded_url": "http://t.me/dangshuang",
-                            "url": "https://t.co/v2rIN31BR3",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 549,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 646,
-            "pinned_tweet_ids_str": [
-                "1864318595834237066"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/v2rIN31BR3",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1555864754983673856",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/v2rIN31BR3",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/v2rIN31BR3",
+                    "expanded_url": "http://t.me/dangshuang",
+                    "display_url": "t.me/dangshuang",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "bitcoin_handle": "17A8kSMm3hvtHAbQK94FhkpUzFqYBycwWJ",
-            "ethereum_handle": "0x1f5f2fbE9d4d0BE998A758bea8ad54f0B1ECfb5A"
-        },
-        "twe_private_fields": {
-            "created_at": 1620967615000,
-            "updated_at": 1744350074462
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1501,
+    "friends_count": 564,
+    "listed_count": 3,
+    "created_at": "Fri May 14 04:46:55 +0000 2021",
+    "favourites_count": 5118,
+    "verified": false,
+    "statuses_count": 5678,
+    "media_count": 691,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1833119548117319680/63fWi4wI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393065220323647494/1661589176",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1928039030383620552
+    ],
+    "pinned_tweet_ids_str": [
+        "1928039030383620552"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

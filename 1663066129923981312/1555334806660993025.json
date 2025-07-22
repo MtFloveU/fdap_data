@@ -1,73 +1,64 @@
 {
     "id": "1555334806660993025",
-    "screen_name": "zheermao101",
     "name": "玖月折耳猫＃参宿四 †升天†",
+    "screen_name": "zheermao101",
     "description": "为什么是男孩子呢",
     "location": "伪神的国度",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1747064979759718400/epvegwua_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1555334806660993025/1666329345",
-    "followers_count": 825,
-    "statuses_count": 771,
-    "favourites_count": 824,
-    "listed_count": 7,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2022-08-05 07:28:26 +08:00",
-    "url": "https://twitter.com/zheermao101",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTU1MzM0ODA2NjYwOTkzMDI1",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "zheermao.xyz",
-                            "expanded_url": "http://zheermao.xyz",
-                            "url": "https://t.co/ggCgnmueiM",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/ggCgnmueiM",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ggCgnmueiM",
+                    "expanded_url": "http://zheermao.xyz",
+                    "display_url": "zheermao.xyz",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 436,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 109,
-            "pinned_tweet_ids_str": [
-                "1761765500609331366"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/ggCgnmueiM",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "twe_private_fields": {
-            "created_at": 1659655706000,
-            "updated_at": 1744350112277
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 816,
+    "friends_count": 425,
+    "listed_count": 7,
+    "created_at": "Thu Aug 04 23:28:26 +0000 2022",
+    "favourites_count": 806,
+    "verified": false,
+    "statuses_count": 770,
+    "media_count": 109,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1747064979759718400/epvegwua_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1555334806660993025/1666329345",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1761765500609331366
+    ],
+    "pinned_tweet_ids_str": [
+        "1761765500609331366"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

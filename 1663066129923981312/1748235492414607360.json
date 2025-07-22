@@ -1,92 +1,47 @@
 {
     "id": "1748235492414607360",
-    "screen_name": "YouRmyCause",
     "name": "冬がすぎたら",
+    "screen_name": "YouRmyCause",
     "description": "冬椿丨enby但你们当是我女的也行丨05年妈妈生的丨坐标你家床底丨病号服suki丨osdd丨drugtwt",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1924991315110203392/AxTzEOJY_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748235492414607360/1747784074",
-    "followers_count": 1676,
-    "friends_count": 43,
-    "statuses_count": 73,
-    "favourites_count": 3640,
-    "listed_count": 6,
     "location": "距离你0.5米",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/YouRmyCause",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzQ4MjM1NDkyNDE0NjA3MzYw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1924991315110203392/AxTzEOJY_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Jan 19 06:47:13 +0000 2024",
-            "name": "冬がすぎたら",
-            "screen_name": "YouRmyCause"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 43,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 9,
-            "pinned_tweet_ids_str": [
-                "1925005648947024229"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "距离你0.5米"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1760594249001931153",
-            "professional_type": "Creator",
-            "category": []
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219076818
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1658,
+    "friends_count": 39,
+    "listed_count": 5,
+    "created_at": "Fri Jan 19 06:47:13 +0000 2024",
+    "favourites_count": 3811,
+    "verified": false,
+    "statuses_count": 84,
+    "media_count": 9,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1924991315110203392/AxTzEOJY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748235492414607360/1747784074",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

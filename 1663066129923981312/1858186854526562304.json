@@ -1,85 +1,51 @@
 {
     "id": "1858186854526562304",
-    "screen_name": "meiyujijie",
     "name": "何六诚",
+    "screen_name": "meiyujijie",
     "description": "是一颗仙人球",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858186854526562304/1739373925",
-    "followers_count": 76057,
-    "friends_count": 88,
-    "statuses_count": 380,
-    "favourites_count": 1453,
-    "listed_count": 159,
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-11-18 00:34:14 +08:00",
-    "url": "https://twitter.com/meiyujijie",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODU4MTg2ODU0NTI2NTYyMzA0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Nov 17 16:34:14 +0000 2024",
-            "name": "何六诚",
-            "screen_name": "meiyujijie"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 88,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 113,
-            "pinned_tweet_ids_str": [
-                "1892435541817257985"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1731861254000,
-            "updated_at": 1750232259424
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 83793,
+    "friends_count": 89,
+    "listed_count": 176,
+    "created_at": "Sun Nov 17 16:34:14 +0000 2024",
+    "favourites_count": 1445,
+    "verified": false,
+    "statuses_count": 406,
+    "media_count": 139,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858186854526562304/1739373925",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1892435541817257985
+    ],
+    "pinned_tweet_ids_str": [
+        "1892435541817257985"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

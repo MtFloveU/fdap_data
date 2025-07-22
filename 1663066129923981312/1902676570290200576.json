@@ -1,57 +1,51 @@
 {
     "id": "1902676570290200576",
-    "screen_name": "cabofficial2024",
     "name": "《糖与刀》制作组",
+    "screen_name": "cabofficial2024",
     "description": "长篇小说《糖与刀》堂堂连载！ 平凡的mtf高中生邵枫霖偶然认识到自己仰慕已久的偶像芸子，意外发现对方也是mtf，她们会一起经历什么呢？／／读者qq群：676146589",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1902678532029104128/ZDNv3Ehx_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902676570290200576/1742469911",
-    "followers_count": 248,
-    "statuses_count": 48,
-    "favourites_count": 12,
-    "listed_count": 0,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2025-03-20 19:01:08 +08:00",
-    "url": "https://twitter.com/cabofficial2024",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxOTAyNjc2NTcwMjkwMjAwNTc2",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": false,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 175,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 5,
-            "pinned_tweet_ids_str": [
-                "1906390706241130831"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1742468468000,
-            "updated_at": 1744350074462
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 261,
+    "friends_count": 167,
+    "listed_count": 0,
+    "created_at": "Thu Mar 20 11:01:08 +0000 2025",
+    "favourites_count": 12,
+    "verified": false,
+    "statuses_count": 51,
+    "media_count": 7,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1902678532029104128/ZDNv3Ehx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902676570290200576/1742469911",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1906390706241130831
+    ],
+    "pinned_tweet_ids_str": [
+        "1906390706241130831"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

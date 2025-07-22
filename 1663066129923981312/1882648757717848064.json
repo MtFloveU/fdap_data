@@ -1,85 +1,51 @@
 {
     "id": "1882648757717848064",
-    "screen_name": "PoloCoconut3",
     "name": "第三代PoloCoconut高性能计算平台",
+    "screen_name": "PoloCoconut3",
     "description": "第三代PoloCoconut 计算平台！\n\n大号@PoloCoconut 二代目@PoloCoconut2 已被封\n\n背景：Pixiv@snowmya",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1882655082606743552/k2OCCfO8_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882648757717848064/1737694925",
-    "followers_count": 45,
-    "friends_count": 52,
-    "statuses_count": 11,
-    "favourites_count": 42,
-    "listed_count": 0,
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": false,
-    "protected": false,
-    "created_at": "2025-01-24 12:37:10 +08:00",
-    "url": "https://twitter.com/PoloCoconut3",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODgyNjQ4NzU3NzE3ODQ4MDY0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1882655082606743552/k2OCCfO8_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Jan 24 04:37:10 +0000 2025",
-            "name": "第三代PoloCoconut高性能计算平台",
-            "screen_name": "PoloCoconut3"
-        },
-        "dm_permissions": {
-            "can_dm": false
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 52,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1,
-            "pinned_tweet_ids_str": [
-                "1946021725864656928"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1737693430000,
-            "updated_at": 1752846587235
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 45,
+    "friends_count": 53,
+    "listed_count": 0,
+    "created_at": "Fri Jan 24 04:37:10 +0000 2025",
+    "favourites_count": 43,
+    "verified": false,
+    "statuses_count": 13,
+    "media_count": 1,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1882655082606743552/k2OCCfO8_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882648757717848064/1737694925",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1946021725864656928
+    ],
+    "pinned_tweet_ids_str": [
+        "1946021725864656928"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

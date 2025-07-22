@@ -1,68 +1,51 @@
 {
     "id": "957935539293847552",
-    "screen_name": "yozakura_momij1",
     "name": "猫猫",
+    "screen_name": "yozakura_momij1",
     "description": "⭐高功ADHD：拖延症+启动困难+不回消息\n⭐强迫症+抑郁症+焦虑状态\n⭐应该没有双相+不是ASD",
     "location": "西安，中国西北部",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1896472508486041600/Y7q6bTAB_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/957935539293847552/1718307958",
-    "followers_count": 18469,
-    "statuses_count": 23625,
-    "favourites_count": 48661,
-    "listed_count": 29,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2018-01-29 19:16:44 +08:00",
-    "url": "https://twitter.com/yozakura_momij1",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjo5NTc5MzU1MzkyOTM4NDc1NTI=",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1365,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 1852,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1560926006806220800",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 599,
-                    "name": "Medical Cannabis Dispensary",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "twe_private_fields": {
-            "created_at": 1517224604000,
-            "updated_at": 1744350096786
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 19533,
+    "friends_count": 1380,
+    "listed_count": 30,
+    "created_at": "Mon Jan 29 11:16:44 +0000 2018",
+    "favourites_count": 48726,
+    "verified": false,
+    "statuses_count": 23800,
+    "media_count": 1884,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1896472508486041600/Y7q6bTAB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/957935539293847552/1718307958",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1924469183263518922
+    ],
+    "pinned_tweet_ids_str": [
+        "1924469183263518922"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

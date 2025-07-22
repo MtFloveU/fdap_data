@@ -1,116 +1,51 @@
 {
     "id": "1778656100621152256",
-    "screen_name": "KagurazakaSusie",
     "name": "神楽坂 蘇西🍥🏳️‍⚧️",
+    "screen_name": "KagurazakaSusie",
     "description": "@Susiethegamer的赛博骨灰盒",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1837807280605233152/8kyTT6Xq_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778656100621152256/1727002386",
-    "followers_count": 167,
-    "friends_count": 189,
-    "statuses_count": 357,
-    "favourites_count": 1740,
-    "listed_count": 0,
-    "location": "Shinagawa-ku, Tokyo",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/KagurazakaSusie",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzc4NjU2MTAwNjIxMTUyMjU2",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @JR_YamanoteE235",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 29,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "JR_YamanoteE235",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "JR_YamanoteE235"
-                                        },
-                                        "rest_id": "1688233455363219456"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1837807280605233152/8kyTT6Xq_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Apr 12 05:27:23 +0000 2024",
-            "name": "神楽坂 蘇西🍥🏳️‍⚧️",
-            "screen_name": "KagurazakaSusie"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 189,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 31,
-            "pinned_tweet_ids_str": [
-                "1838416439231021197"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Shinagawa-ku, Tokyo"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749299314683
+    "location": "東京 品川区",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 166,
+    "friends_count": 188,
+    "listed_count": 0,
+    "created_at": "Fri Apr 12 05:27:23 +0000 2024",
+    "favourites_count": 1655,
+    "verified": false,
+    "statuses_count": 357,
+    "media_count": 31,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1837807280605233152/8kyTT6Xq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778656100621152256/1727002386",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1838416439231021197
+    ],
+    "pinned_tweet_ids_str": [
+        "1838416439231021197"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,116 +1,51 @@
 {
     "id": "1735938952731693056",
-    "screen_name": "IWantMyLilDoggy",
     "name": "🏳️‍⚧️鬼楽坂 鬼斬🏳️‍🌈",
-    "description": "会在某天突然变成悲叹之种的魔法少猫饭团喵/请回关我我想和你聊天（也可以不回）/关注请求选择性通过/大号是@FTMiaoX /这个号含有理智丧失的胡言乱语和xp放出/我从未试图隐藏我自己。",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1748867381575716865/7grjcDZc_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735938952731693056/1702715270",
-    "followers_count": 601,
-    "friends_count": 405,
-    "statuses_count": 2526,
-    "favourites_count": 6191,
-    "listed_count": 1,
+    "screen_name": "IWantMyLilDoggy",
+    "description": "会在某天突然变成悲叹之种的魔法少猫饭团喵/请回关我我想和你聊天（也可以不回）/关注请求选择性通过/大号是@FTMiaoX /这个号含有理智丧失的胡言乱语和xp放出/通向“我”的门在此为你打开/对不起其实我真的只是个天天乱发抽象文案的弱智",
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2023-12-16 16:24:56 +08:00",
-    "url": "https://twitter.com/IWantMyLilDoggy",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzM1OTM4OTUyNzMxNjkzMDU2",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @FTMiaoX",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 21,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "FTMiaoX",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "FTMiaoX"
-                                        },
-                                        "rest_id": "1025546987578556417"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1748867381575716865/7grjcDZc_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Dec 16 08:24:56 +0000 2023",
-            "name": "🏳️‍⚧️鬼楽坂 鬼斬🏳️‍🌈",
-            "screen_name": "IWantMyLilDoggy"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 405,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 111,
-            "pinned_tweet_ids_str": [
-                "1942166601031434300"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1702715096000,
-            "updated_at": 1752846626572
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 560,
+    "friends_count": 422,
+    "listed_count": 1,
+    "created_at": "Sat Dec 16 08:24:56 +0000 2023",
+    "favourites_count": 6746,
+    "verified": false,
+    "statuses_count": 2639,
+    "media_count": 117,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1748867381575716865/7grjcDZc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735938952731693056/1702715270",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1942166601031434300
+    ],
+    "pinned_tweet_ids_str": [
+        "1942166601031434300"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

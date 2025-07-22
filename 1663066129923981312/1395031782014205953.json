@@ -1,103 +1,64 @@
 {
     "id": "1395031782014205953",
+    "name": "小鞠",
     "screen_name": "komacyan_zZ",
-    "name": "小鞠（逝者纪念账号）",
-    "description": "躁鬱病 / JLPT-N2 / 日常垢 / 絵垢 / フォロバをご希望の方はDMお願いします/本账号目前由@MoeQike 代为管理",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1906494714863611904/APifHM8E_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395031782014205953/1743548805",
-    "followers_count": 2875,
-    "friends_count": 767,
-    "statuses_count": 6331,
-    "favourites_count": 13560,
-    "listed_count": 10,
+    "description": "躁鬱病 / JLPT-N2 / 日常垢 / 絵垢 / フォロバをご希望の方はDMお願いします",
     "location": "キミのとなり",
-    "website": "https://t.co/QRJQ9RUts6",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/komacyan_zZ",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMzk1MDMxNzgyMDE0MjA1OTUz",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1906494714863611904/APifHM8E_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed May 19 15:01:25 +0000 2021",
-            "name": "小鞠（逝者纪念账号）",
-            "screen_name": "komacyan_zZ"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "kona.icu",
-                            "expanded_url": "https://kona.icu",
-                            "url": "https://t.co/QRJQ9RUts6",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/71HeCHYqFm",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/71HeCHYqFm",
+                    "expanded_url": "https://kona.icu",
+                    "display_url": "kona.icu",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 767,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1374,
-            "pinned_tweet_ids_str": [
-                "1908835407950946407"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/QRJQ9RUts6",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "キミのとなり"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "bitcoin_handle": "bc1qm758hn7jllj0v7v08cmsnhuhtyf7lmzwln8nzx",
-            "ethereum_handle": "0x009777f1e7Fbe8529D185bA5308682927E6E8C7C"
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219078458
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2845,
+    "friends_count": 760,
+    "listed_count": 10,
+    "created_at": "Wed May 19 15:01:25 +0000 2021",
+    "favourites_count": 13371,
+    "verified": false,
+    "statuses_count": 6313,
+    "media_count": 1375,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1947315935863312384/nnFv7wNS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395031782014205953/1753111296",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1947311974892851567
+    ],
+    "pinned_tweet_ids_str": [
+        "1947311974892851567"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

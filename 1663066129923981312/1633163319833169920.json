@@ -1,57 +1,51 @@
 {
     "id": "1633163319833169920",
-    "screen_name": "Lune101398",
     "name": "meemee 🏳️‍⚧️",
+    "screen_name": "Lune101398",
     "description": "打游戏写曲子 / 请找我约饭！/ hrt&rle 2022.11.5",
     "location": "北京",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1733845957564116992/UvEm9iSn_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1633163319833169920/1700884592",
-    "followers_count": 5213,
-    "statuses_count": 3692,
-    "favourites_count": 11910,
-    "listed_count": 16,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2023-03-08 01:51:07 +08:00",
-    "url": "https://twitter.com/Lune101398",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjMzMTYzMzE5ODMzMTY5OTIw",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 601,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 541,
-            "pinned_tweet_ids_str": [
-                "1801595451155825138"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1678211467000,
-            "updated_at": 1744350115034
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 5242,
+    "friends_count": 598,
+    "listed_count": 21,
+    "created_at": "Tue Mar 07 17:51:07 +0000 2023",
+    "favourites_count": 12229,
+    "verified": false,
+    "statuses_count": 3932,
+    "media_count": 631,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1733845957564116992/UvEm9iSn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1633163319833169920/1700884592",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1801595451155825138
+    ],
+    "pinned_tweet_ids_str": [
+        "1801595451155825138"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

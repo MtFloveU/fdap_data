@@ -1,100 +1,64 @@
 {
     "id": "1911351259749294080",
-    "screen_name": "Quitewaterqwq",
     "name": "平静如水🇨🇳🇦🇶|第二转世|推友巡回",
-    "description": "09山东准高一|不b任何人|坚持对任何人友好原则|是岁静人，用心过好生活|对🏳️‍🌈🏳️‍⚧️友好，非跨非同|没有固定政治立场|本人是实验爱好者，爱看记录片\n|😘@1ka16103257 @tongtiaowhenXI @IzumiKonata2016 @Shimamura_Tako @你们所有人",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911351259749294080/1751555548",
-    "followers_count": 1062,
-    "friends_count": 682,
-    "statuses_count": 2370,
-    "favourites_count": 2119,
-    "listed_count": 2,
+    "screen_name": "Quitewaterqwq",
+    "description": "09山东准高一|不b任何人|infp|友🏳️‍🌈🏳️‍⚧️非性少数|立场是岁静(左))|实验爱好者|推荐关注朋友👉@elp15_ @hajixi12356 @MikuMikuDong @Shimamura_Tako @wusweet_i",
     "location": "IP属地:中国",
-    "website": "https://t.co/9QvFwvU0yb",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2025-04-13 17:31:56 +08:00",
-    "url": "https://twitter.com/Quitewaterqwq",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxOTExMzUxMjU5NzQ5Mjk0MDgw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Apr 13 09:31:56 +0000 2025",
-            "name": "平静如水🇨🇳🇦🇶|第二转世|推友巡回",
-            "screen_name": "Quitewaterqwq"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/PJRSYa",
-                            "expanded_url": "https://t.me/PJRSYa",
-                            "url": "https://t.co/9QvFwvU0yb",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/9QvFwvTsID",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/9QvFwvTsID",
+                    "expanded_url": "https://t.me/PJRSYa",
+                    "display_url": "t.me/PJRSYa",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 682,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 291,
-            "pinned_tweet_ids_str": [
-                "1941510780517745036"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/9QvFwvU0yb",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "IP属地:中国"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1744536716000,
-            "updated_at": 1752846587235
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1069,
+    "friends_count": 691,
+    "listed_count": 2,
+    "created_at": "Sun Apr 13 09:31:56 +0000 2025",
+    "favourites_count": 1878,
+    "verified": false,
+    "statuses_count": 1727,
+    "media_count": 96,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911351259749294080/1751555548",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1947285390538236348
+    ],
+    "pinned_tweet_ids_str": [
+        "1947285390538236348"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

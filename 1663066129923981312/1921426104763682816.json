@@ -1,86 +1,51 @@
 {
     "id": "1921426104763682816",
-    "screen_name": "hiner233",
     "name": "hiner",
-    "description": "这里是Hiner/15y准男高🌈/三次看黄男🚫/互关来找我玩",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921426104763682816/1746938876",
-    "followers_count": 1058,
-    "friends_count": 724,
-    "statuses_count": 3869,
-    "favourites_count": 22781,
-    "listed_count": 1,
+    "screen_name": "hiner233",
+    "description": "这里是Hiner/15y准男高🌈/三次看黄男🚫/互关来找我玩/好朋友们@KoiCJT0042 @Hotpot_2025 @lxu014461084686 😡@zhengze2508",
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2025-05-11 12:44:35 +08:00",
-    "url": "https://twitter.com/hiner233",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxOTIxNDI2MTA0NzYzNjgyODE2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun May 11 04:44:35 +0000 2025",
-            "name": "hiner",
-            "screen_name": "hiner233"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 724,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 131,
-            "pinned_tweet_ids_str": [
-                "1941704554388804094"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1746938675000,
-            "updated_at": 1752846587235
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1196,
+    "friends_count": 728,
+    "listed_count": 1,
+    "created_at": "Sun May 11 04:44:35 +0000 2025",
+    "favourites_count": 24109,
+    "verified": false,
+    "statuses_count": 4116,
+    "media_count": 137,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921426104763682816/1746938876",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1941704554388804094
+    ],
+    "pinned_tweet_ids_str": [
+        "1941704554388804094"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

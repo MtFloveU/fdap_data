@@ -1,100 +1,64 @@
 {
     "id": "1756922914291474432",
-    "screen_name": "LiuyuedeHuoban",
     "name": "Shadow_114514",
-    "description": "10後男孩紙是大陸人，蔚藍檔案/Deemo/女神異聞碌3/麥塊/phigros玩家，搞虛擬機，肯定100%回fo喵，憧憬成為美圖推薦使，接納所有人哦抱抱，小號:@VIGLbb79EI88783 @Fabian_AL1S ，一起互fo吧喵～任何人都可以\n（ps:不會參加任何的極端政治）",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756922914291474432/1752336568",
-    "followers_count": 1139,
-    "friends_count": 2646,
-    "statuses_count": 8266,
-    "favourites_count": 40750,
-    "listed_count": 5,
+    "screen_name": "LiuyuedeHuoban",
+    "description": "10後男孩紙是大陸人，蔚藍檔案/Deemo/女神異聞碌3/麥塊/phigros玩家，搞虛擬機，肯定100%回fo喵，憧憬成為美圖推薦官轉迷因轉美圖，接納所有人哦抱抱，小號:@VIGLbb79EI88783 @Fabian_AL1S ，一起互fo吧喵～任何人都可以\n（ps:不會參加任何的極端政治）",
     "location": "🇰🇷MILLENNIUM學園",
-    "website": "https://t.co/XdyIPZAMHq",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-02-12 14:07:43 +08:00",
-    "url": "https://twitter.com/LiuyuedeHuoban",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzU2OTIyOTE0MjkxNDc0NDMy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Feb 12 06:07:43 +0000 2024",
-            "name": "Shadow_114514",
-            "screen_name": "LiuyuedeHuoban"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/shadow_1145146…",
-                            "expanded_url": "https://ngl.link/shadow_11451468577",
-                            "url": "https://t.co/XdyIPZAMHq",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/XdyIPZAeRS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/XdyIPZAeRS",
+                    "expanded_url": "https://ngl.link/shadow_11451468577",
+                    "display_url": "ngl.link/shadow_1145146…",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2646,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 547,
-            "pinned_tweet_ids_str": [
-                "1945065135350874504"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/XdyIPZAMHq",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "🇰🇷MILLENNIUM學園"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1707718063000,
-            "updated_at": 1752846587235
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1143,
+    "friends_count": 2681,
+    "listed_count": 5,
+    "created_at": "Mon Feb 12 06:07:43 +0000 2024",
+    "favourites_count": 41279,
+    "verified": false,
+    "statuses_count": 8744,
+    "media_count": 555,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756922914291474432/1752336568",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1945065135350874504
+    ],
+    "pinned_tweet_ids_str": [
+        "1945065135350874504"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

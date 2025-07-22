@@ -1,57 +1,51 @@
 {
     "id": "1652582280974708736",
-    "screen_name": "yingxue20747802",
     "name": "樱雪（退役魔法少女） 🍜🍔🍱🍇🍰🍒🍓🍟🍧",
+    "screen_name": "yingxue20747802",
     "description": "对我不友善的替我挡灾！\n\n这里是简介，我可以打广告吗？（广告位招租）←假嘟~就算你给我钱也不会打广告喔（除非你给的太多啦！）\n\n文学少女📖 │ les-ppl │ 退役魔法少女🪄（尊嘟）│ 美食生活岁静日常推 │ 聪明的笨蛋 │ 愿我，也愿你能一而再，再而三，三而不竭，千次万次毫不犹豫地救自己于这世间水火之中",
     "location": "霍格沃茨",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1846140890232102912/ExumaWMa_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652582280974708736/1704030724",
-    "followers_count": 33687,
-    "statuses_count": 11773,
-    "favourites_count": 71879,
-    "listed_count": 37,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2023-04-30 15:55:02 +08:00",
-    "url": "https://twitter.com/yingxue20747802",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjUyNTgyMjgwOTc0NzA4NzM2",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": false,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 84,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 2757,
-            "pinned_tweet_ids_str": [
-                "1887136773245190229"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1682841302000,
-            "updated_at": 1744350118007
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 35736,
+    "friends_count": 79,
+    "listed_count": 43,
+    "created_at": "Sun Apr 30 07:55:02 +0000 2023",
+    "favourites_count": 73081,
+    "verified": false,
+    "statuses_count": 12211,
+    "media_count": 2913,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1846140890232102912/ExumaWMa_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652582280974708736/1704030724",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1932833092819169298
+    ],
+    "pinned_tweet_ids_str": [
+        "1932833092819169298"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

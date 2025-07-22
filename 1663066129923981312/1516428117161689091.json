@@ -1,87 +1,51 @@
 {
     "id": "1516428117161689091",
-    "screen_name": "HelpMiaoDestiny",
     "name": "喵喵～快润🍁或快跳L！",
+    "screen_name": "HelpMiaoDestiny",
     "description": "女大大二/双性恋跨女/童意识19岁雌二醇凝胶猫猫20泰蔡达武变女性术喉结术/废物韭菜/通模难久残废跨女无法骄傲/天赋党母亲党父家暴/脸好看女相女嗓260Hz无伪音/学金融/很穷绿推门槛妹/小猫找主人哥哥/喜欢可爱/求买衣服/民主自由福利/微键政不爆照/167/60/80A/39码/沙漏型/忧郁绝望痛哭树洞/吾将死勿fo",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1829205405588959236/dsr23eTn_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516428117161689091/1674905143",
-    "followers_count": 4307,
-    "friends_count": 446,
-    "statuses_count": 36276,
-    "favourites_count": 75730,
-    "listed_count": 11,
     "location": "深圳～喵～",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/HelpMiaoDestiny",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTE2NDI4MTE3MTYxNjg5MDkx",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1829205405588959236/dsr23eTn_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Apr 19 14:48:04 +0000 2022",
-            "name": "喵喵～快润🍁或快跳L！",
-            "screen_name": "HelpMiaoDestiny"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 446,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 985,
-            "pinned_tweet_ids_str": [
-                "1888896524958183547"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "深圳～喵～"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219066708
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4426,
+    "friends_count": 454,
+    "listed_count": 11,
+    "created_at": "Tue Apr 19 14:48:04 +0000 2022",
+    "favourites_count": 77879,
+    "verified": false,
+    "statuses_count": 37091,
+    "media_count": 1021,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1829205405588959236/dsr23eTn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516428117161689091/1674905143",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1936637694467281234
+    ],
+    "pinned_tweet_ids_str": [
+        "1936637694467281234"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

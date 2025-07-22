@@ -1,97 +1,51 @@
 {
     "id": "1596652915959078913",
-    "screen_name": "nanami5513",
     "name": "硅的化学符号是Si",
-    "description": "领养開設中，点击领取七海一只",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1935972529165758464/phocjsfB_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596652915959078913/1751161768",
-    "followers_count": 1174,
-    "friends_count": 419,
-    "statuses_count": 2271,
-    "favourites_count": 30184,
-    "listed_count": 1,
+    "screen_name": "nanami5513",
+    "description": "细数次次离别/心头忆起你的双手/落眼睑上的水滴 /至今依然记忆鲜明/请将忘记「当下」的办法/请将这首歌的　答案/请将走向明天的方法/告诉我们吧",
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-11-27 07:51:38 +08:00",
-    "url": "https://twitter.com/nanami5513",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTk2NjUyOTE1OTU5MDc4OTEz",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1935972529165758464/phocjsfB_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Nov 26 23:51:38 +0000 2022",
-            "name": "硅的化学符号是Si",
-            "screen_name": "nanami5513"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 419,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 121,
-            "pinned_tweet_ids_str": [
-                "1938259214578885005"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1860633188944740782",
-            "professional_type": "Business",
-            "category": [
-                {
-                    "id": 993,
-                    "name": "Psychiatric Hospital",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1669506698000,
-            "updated_at": 1752846589901
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1178,
+    "friends_count": 420,
+    "listed_count": 1,
+    "created_at": "Sat Nov 26 23:51:38 +0000 2022",
+    "favourites_count": 30446,
+    "verified": false,
+    "statuses_count": 2290,
+    "media_count": 123,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1946621604819005440/MDajPdOu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596652915959078913/1751161768",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1938259214578885005
+    ],
+    "pinned_tweet_ids_str": [
+        "1938259214578885005"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

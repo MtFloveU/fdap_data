@@ -1,101 +1,64 @@
 {
     "id": "1548275955319287818",
-    "screen_name": "daiwei0721",
     "name": "平泽唯😼😼😼",
+    "screen_name": "daiwei0721",
     "description": "欢迎你关注我😼😼不经常谈论政治，喜欢转发插画😽😽",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1911327618458132480/NDmxI0jT_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548275955319287818/1722940951",
-    "followers_count": 4140,
-    "friends_count": 2225,
-    "statuses_count": 10155,
-    "favourites_count": 34111,
-    "listed_count": 6,
     "location": "幻想乡",
-    "website": "https://t.co/2V08yhQira",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2022-07-16 19:58:57 +08:00",
-    "url": "https://twitter.com/daiwei0721",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTQ4Mjc1OTU1MzE5Mjg3ODE4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1911327618458132480/NDmxI0jT_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Jul 16 11:58:57 +0000 2022",
-            "name": "平泽唯😼😼😼",
-            "screen_name": "daiwei0721"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "reurl.cc/paYMa4",
-                            "expanded_url": "https://reurl.cc/paYMa4",
-                            "url": "https://t.co/2V08yhQira",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/2V08yhQira",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/2V08yhQira",
+                    "expanded_url": "https://reurl.cc/paYMa4",
+                    "display_url": "reurl.cc/paYMa4",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2225,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 179,
-            "pinned_tweet_ids_str": [
-                "1716105466692919495"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/2V08yhQira",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "幻想乡"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1657972737000,
-            "updated_at": 1750232254497
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4164,
+    "friends_count": 2228,
+    "listed_count": 4,
+    "created_at": "Sat Jul 16 11:58:57 +0000 2022",
+    "favourites_count": 34368,
+    "verified": false,
+    "statuses_count": 10335,
+    "media_count": 184,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1911327618458132480/NDmxI0jT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548275955319287818/1722940951",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1716105466692919495
+    ],
+    "pinned_tweet_ids_str": [
+        "1716105466692919495"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

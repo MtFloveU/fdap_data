@@ -1,57 +1,51 @@
 {
     "id": "1749411949786583040",
-    "screen_name": "William214245",
     "name": "水璃妆殓♪",
+    "screen_name": "William214245",
     "description": "08/mtf/2024.5.1已自切/2024.6.22开二刀/只以女性社会身份生活（非证件）/les/成分复杂/沟通存在障碍，会不理人或者说错话/心理和生理健康都很差，身体机能≈残疾/反跨别来找我，我是顺性别女性（",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1749412614919340032/aTCH59kg_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749411949786583040/1717497413",
-    "followers_count": 1246,
-    "statuses_count": 249,
-    "favourites_count": 34,
-    "listed_count": 2,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2024-01-22 20:41:35 +08:00",
-    "url": "https://twitter.com/William214245",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzQ5NDExOTQ5Nzg2NTgzMDQw",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 174,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 38,
-            "pinned_tweet_ids_str": [
-                "1796595404488028193"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1705927295000,
-            "updated_at": 1744350109138
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1262,
+    "friends_count": 172,
+    "listed_count": 2,
+    "created_at": "Mon Jan 22 12:41:35 +0000 2024",
+    "favourites_count": 34,
+    "verified": false,
+    "statuses_count": 249,
+    "media_count": 38,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1749412614919340032/aTCH59kg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749411949786583040/1717497413",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1796595404488028193
+    ],
+    "pinned_tweet_ids_str": [
+        "1796595404488028193"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

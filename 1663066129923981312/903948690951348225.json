@@ -1,96 +1,47 @@
 {
     "id": "903948690951348225",
-    "screen_name": "MAGNIFIERhuahua",
     "name": "MAGNIFIER",
+    "screen_name": "MAGNIFIERhuahua",
     "description": "攻击有待提高，素质有待降低",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1759563538140667904/fNEbEd_l_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/903948690951348225/1713923088",
-    "followers_count": 2593,
-    "friends_count": 676,
-    "statuses_count": 14037,
-    "favourites_count": 8699,
-    "listed_count": 4,
     "location": "Melbourne, Victoria",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/MAGNIFIERhuahua",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjo5MDM5NDg2OTA5NTEzNDgyMjU=",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1759563538140667904/fNEbEd_l_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Sep 02 11:52:17 +0000 2017",
-            "name": "MAGNIFIER",
-            "screen_name": "MAGNIFIERhuahua"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 676,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 1000,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Melbourne, Victoria"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1520030863446413314",
-            "professional_type": "Business",
-            "category": [
-                {
-                    "id": 37,
-                    "name": "Event Venue",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2609,
+    "friends_count": 684,
+    "listed_count": 4,
+    "created_at": "Sat Sep 02 11:52:17 +0000 2017",
+    "favourites_count": 8887,
+    "verified": false,
+    "statuses_count": 14520,
+    "media_count": 1044,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1759563538140667904/fNEbEd_l_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/903948690951348225/1713923088",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

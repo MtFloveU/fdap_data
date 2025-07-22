@@ -1,119 +1,83 @@
 {
     "id": "1589484921822781443",
-    "screen_name": "ObjectShadow",
     "name": "𝕆𝕓𝕛𝕖𝕔𝕥 𝕊𝕙𝕒𝕕𝕠𝕨",
-    "description": "🏳‍⚧互fo / 16y.o. / Undefined Mt...X? / 匿名无图，低强度上推/ Blog https://t.co/FrGwekEs35 TG https://t.co/02aZH8nSKd / 性别不是边界，偏见才是",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1589485031143211008/kIUjfSB__normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589484921822781443/1722163798",
-    "followers_count": 228,
-    "friends_count": 803,
-    "statuses_count": 2166,
-    "favourites_count": 4722,
-    "listed_count": 0,
-    "location": "0xfee1dead",
-    "website": "https://t.co/ikq0u4vsw8",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-11-07 13:08:42 +08:00",
-    "url": "https://twitter.com/ObjectShadow",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTg5NDg0OTIxODIyNzgxNDQz",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1589485031143211008/kIUjfSB__normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Nov 07 05:08:42 +0000 2022",
-            "name": "𝕆𝕓𝕛𝕖𝕔𝕥 𝕊𝕙𝕒𝕕𝕠𝕨",
-            "screen_name": "ObjectShadow"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "objshadow.is-a.dev",
-                            "expanded_url": "http://objshadow.is-a.dev/",
-                            "url": "https://t.co/FrGwekEs35",
-                            "indices": [
-                                55,
-                                78
-                            ]
-                        },
-                        {
-                            "display_url": "objshadow.t.me",
-                            "expanded_url": "http://objshadow.t.me",
-                            "url": "https://t.co/02aZH8nSKd",
-                            "indices": [
-                                82,
-                                105
-                            ]
-                        }
-                    ]
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "objshadow.is-a.dev",
-                            "expanded_url": "https://objshadow.is-a.dev/",
-                            "url": "https://t.co/ikq0u4vsw8",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "screen_name": "ObjectShadow",
+    "description": "🏳‍⚧互fo / 16y.o. / Undefined Mt...X? / 匿名无图，低强度上推/ Blog https://t.co/FrGwekEZSD TG https://t.co/02aZH8oqzL / 性别不是边界，偏见才是",
+    "location": "0xha1ow0rd",
+    "url": "https://t.co/ikq0u4w0lG",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ikq0u4w0lG",
+                    "expanded_url": "https://objshadow.is-a.dev/",
+                    "display_url": "objshadow.is-a.dev",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 803,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 66,
-            "pinned_tweet_ids_str": [
-                "1815043263843459575"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/ikq0u4vsw8",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "0xfee1dead"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1667797722000,
-            "updated_at": 1752846587235
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/FrGwekEZSD",
+                    "expanded_url": "http://objshadow.is-a.dev/",
+                    "display_url": "objshadow.is-a.dev",
+                    "indices": [
+                        55,
+                        78
+                    ]
+                },
+                {
+                    "url": "https://t.co/02aZH8oqzL",
+                    "expanded_url": "http://objshadow.t.me",
+                    "display_url": "objshadow.t.me",
+                    "indices": [
+                        82,
+                        105
+                    ]
+                }
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 234,
+    "friends_count": 808,
+    "listed_count": 0,
+    "created_at": "Mon Nov 07 05:08:42 +0000 2022",
+    "favourites_count": 4835,
+    "verified": false,
+    "statuses_count": 2192,
+    "media_count": 66,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1589485031143211008/kIUjfSB__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589484921822781443/1722163798",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1815043263843459575
+    ],
+    "pinned_tweet_ids_str": [
+        "1815043263843459575"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,145 +1,64 @@
 {
     "id": "1818315659673210880",
-    "screen_name": "NeK1GG",
     "name": "Nek1🇳🇴🦌☕✨",
-    "description": "我渺于一粒细尘，却又长于永恒。\n「和平主义🕊️/实用主义🌱/人权&平等🤝/LGBT正当权益🏳️‍🌈/反建制🌹/🚫极端主义🚫」淡推鉴政减少中\n逃生舱：@Nek1BOOM 欢迎互fo😘",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1940612208703975424/xaikKDDr_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818315659673210880/1730445806",
-    "followers_count": 1031,
-    "friends_count": 1113,
-    "statuses_count": 5824,
-    "favourites_count": 26068,
-    "listed_count": 0,
+    "screen_name": "NeK1GG",
+    "description": "我渺于一粒细尘，却又长于永恒。\n「和平主义🕊️/实用主义🌱/人权&平等🤝/反建制🌹/🚫极端主义🚫」淡推鉴政减少中\n逃生舱：@Nek1BOOM 欢迎互fo😘",
     "location": "Dawntown NightCity, California",
-    "website": "https://t.co/n61PuIvjOU",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-07-31 00:00:37 +08:00",
-    "url": "https://twitter.com/NeK1GG",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODE4MzE1NjU5NjczMjEwODgw",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @Nek1BOOM",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 22,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "Nek1BOOM",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "Nek1BOOM"
-                                        },
-                                        "rest_id": "1884512558171971585"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1940612208703975424/xaikKDDr_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Jul 30 16:00:37 +0000 2024",
-            "name": "Nek1🇳🇴🦌☕✨",
-            "screen_name": "NeK1GG"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "neki.work",
-                            "expanded_url": "http://neki.work",
-                            "url": "https://t.co/n61PuIvjOU",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1113,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 367,
-            "pinned_tweet_ids_str": [
-                "1945654553980055840"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/n61PuIvjOU",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Dawntown NightCity, California"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1820317279294562378",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/n61PuIvjOU",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/n61PuIvjOU",
+                    "expanded_url": "http://neki.work",
+                    "display_url": "neki.work",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "bitcoin_handle": "1DGezPBjhv9PuU87wW4JzdSEGRGYCcBB7z",
-            "ethereum_handle": "0x95232ecf79b058e01800fff2350e0487d65a3c65"
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1722355237000,
-            "updated_at": 1752846618060
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1038,
+    "friends_count": 1125,
+    "listed_count": 0,
+    "created_at": "Tue Jul 30 16:00:37 +0000 2024",
+    "favourites_count": 27249,
+    "verified": false,
+    "statuses_count": 6127,
+    "media_count": 380,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1946436939277582338/0EXpCeoe_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818315659673210880/1752965516",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1946608701743476946
+    ],
+    "pinned_tweet_ids_str": [
+        "1946608701743476946"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

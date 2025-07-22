@@ -1,115 +1,64 @@
 {
     "id": "1908668668919398400",
-    "screen_name": "Sasakikazumawa",
     "name": "𝑲𝒂𝒛𝒖𝒎𝒂 𝑺𝒂𝒔𝒂𝒌𝒊 🏳️‍🌈",
-    "description": "平成24年（2012年）生まれの普通の13歳🚹中学生。|とても大切な人@chaox1220_2nd🥰|📬DMはFF/認証済みアカウントのみ|#あつ森 #音ゲー #プロセカ #日本語間違えてたら教えて|サブ📒@hhaaiibot 音ゲー垢🎵@BbLlOoCcKk",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1945439337241292800/o7VO85t6_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908668668919398400/1752663869",
-    "followers_count": 706,
-    "friends_count": 2283,
-    "statuses_count": 2133,
-    "favourites_count": 1005,
-    "listed_count": 0,
+    "screen_name": "SasakiKazumawa",
+    "description": "平成24年（2012年）生まれの13歳🚹の中学二年生。| とても大切な人@chaox1220_2nd🥰 | 📬DMはFF/認証済みアカウントのみ | #あつ森 #音ゲー #プロセカ #日本語間違えてたら教えて | サブ📒@hhaaiibot 音ゲー垢🎵@BbLlOoCcKk 选择性回fo",
     "location": "叫我「佐佐木大将军/大统领」就好",
-    "website": "https://t.co/KCF5hleXIn",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2025-04-06 07:50:54 +08:00",
-    "url": "https://twitter.com/Sasakikazumawa",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxOTA4NjY4NjY4OTE5Mzk4NDAw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1945439337241292800/o7VO85t6_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Apr 05 23:50:54 +0000 2025",
-            "name": "𝑲𝒂𝒛𝒖𝒎𝒂 𝑺𝒂𝒔𝒂𝒌𝒊 🏳️‍🌈",
-            "screen_name": "Sasakikazumawa"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "twitter.com/hhaaiibot",
-                            "expanded_url": "https://twitter.com/hhaaiibot",
-                            "url": "https://t.co/KCF5hleXIn",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2283,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 467,
-            "pinned_tweet_ids_str": [
-                "1940757723765002505"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/KCF5hleXIn",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "叫我「佐佐木大将军/大统领」就好"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Commentary",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1909209718918467815",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/GoqUNkUVVr",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/GoqUNkUVVr",
+                    "expanded_url": "https://x.com/hhaaiibot",
+                    "display_url": "x.com/hhaaiibot",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "bitcoin_handle": "bc1q7y9kwn07h3hny03xmekqqu6j9s245zf94r96du",
-            "ethereum_handle": "0xF88FF1c86F4e4A5FA691F19fEaeab2d92104511A"
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1743897054000,
-            "updated_at": 1752846528414
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 760,
+    "friends_count": 2371,
+    "listed_count": 0,
+    "created_at": "Sat Apr 05 23:50:54 +0000 2025",
+    "favourites_count": 1222,
+    "verified": false,
+    "statuses_count": 2346,
+    "media_count": 507,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1945439337241292800/o7VO85t6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908668668919398400/1752663869",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1940757723765002505
+    ],
+    "pinned_tweet_ids_str": [
+        "1940757723765002505"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

@@ -1,107 +1,51 @@
 {
     "id": "1109080684419670017",
-    "screen_name": "KillerBeeSweety",
     "name": "ミズキ",
-    "description": "里垢\n随时清互关，被清了是你的问题\n\nNGL∶https://t.co/wyQ8zstbDb",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1944187600211693568/mU5VXh-x_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109080684419670017/1750688100",
-    "followers_count": 16665,
-    "friends_count": 1734,
-    "statuses_count": 21027,
-    "favourites_count": 30225,
-    "listed_count": 21,
-    "location": "Valefor(Meteor)",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2019-03-22 21:13:35 +08:00",
-    "url": "https://twitter.com/KillerBeeSweety",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMTA5MDgwNjg0NDE5NjcwMDE3",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1944187600211693568/mU5VXh-x_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Mar 22 13:13:35 +0000 2019",
-            "name": "ミズキ",
-            "screen_name": "KillerBeeSweety"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/killerbeesweety",
-                            "expanded_url": "https://ngl.link/killerbeesweety",
-                            "url": "https://t.co/wyQ8zstbDb",
-                            "indices": [
-                                23,
-                                46
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1734,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 2586,
-            "pinned_tweet_ids_str": [
-                "1945835102652772433"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Valefor(Meteor)"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1590416121034813441",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1553260415000,
-            "updated_at": 1752846623602
+    "screen_name": "KillerBeeSweety",
+    "description": "已停止更新的里垢号\n私信可以联系\n随时清互关，被清了是你的问题",
+    "location": "",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 16627,
+    "friends_count": 1734,
+    "listed_count": 21,
+    "created_at": "Fri Mar 22 13:13:35 +0000 2019",
+    "favourites_count": 30258,
+    "verified": false,
+    "statuses_count": 20712,
+    "media_count": 2252,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1944187600211693568/mU5VXh-x_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109080684419670017/1752932271",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1946551098460049856
+    ],
+    "pinned_tweet_ids_str": [
+        "1946551098460049856"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

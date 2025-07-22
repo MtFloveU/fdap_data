@@ -1,99 +1,51 @@
 {
     "id": "1690386306139111424",
-    "screen_name": "MetalRock1st",
     "name": "NaHCO3小苏打🏳️‍🌈📕🛠️",
-    "description": "“a.k.a 千叶天为”\n16/♂/双\n马列毛主义初学者｜康米/民社/中派（除粉红）友好丨都市天际线2丨CS2｜HOI4丨東方丨maimai/CHUNITHM｜友：@LinranOVERDOSE/@YukimiSinsyou/@SpaceSystemW\n小号：@Inner_NaHCO3",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1945945726036369408/lB-bITJE_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690386306139111424/1752602631",
-    "followers_count": 967,
-    "friends_count": 1141,
-    "statuses_count": 9474,
-    "favourites_count": 10509,
-    "listed_count": 5,
+    "screen_name": "MetalRock1st",
+    "description": "“a.k.a 千叶天为”\n16/♂/双\n马列毛主义初学｜康米/民社/中派友好丨天际线2丨CS2｜HOI4丨東方丨maimai/CHUNITHM｜总受组推し｜友：@LinranOVERDOSE/@YukimiSinsyou/@SpaceSystemW\n小号：@Inner_NaHCO3",
     "location": "新列宁格勒中区南北大道354号",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-08-12 23:34:46 +08:00",
-    "url": "https://twitter.com/MetalRock1st",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjkwMzg2MzA2MTM5MTExNDI0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1945945726036369408/lB-bITJE_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Aug 12 15:34:46 +0000 2023",
-            "name": "NaHCO3小苏打🏳️‍🌈📕🛠️",
-            "screen_name": "MetalRock1st"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1141,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1980,
-            "pinned_tweet_ids_str": [
-                "1883945474543309021"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "新列宁格勒中区南北大道354号"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1713750980754633136",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 1019,
-                    "name": "UI Designer",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1691854486000,
-            "updated_at": 1752846612950
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 979,
+    "friends_count": 1141,
+    "listed_count": 5,
+    "created_at": "Sat Aug 12 15:34:46 +0000 2023",
+    "favourites_count": 10572,
+    "verified": false,
+    "statuses_count": 9508,
+    "media_count": 1990,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1946571095856799744/akDose-6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690386306139111424/1752941761",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1883945474543309021
+    ],
+    "pinned_tweet_ids_str": [
+        "1883945474543309021"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

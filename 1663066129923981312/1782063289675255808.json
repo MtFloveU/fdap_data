@@ -1,86 +1,51 @@
 {
     "id": "1782063289675255808",
+    "name": "没有未来的桃枝酱🍥",
     "screen_name": "Kisaragi_Momoe",
-    "name": "那一天的如月 桃枝起来🍥",
-    "description": "🏳️‍⚧️ | 重度网瘾熬夜少女 | 前OIer | 疑似家长党(？) | 最重要的可爱主人&妹妹&老婆 @MinaseAyano | 很好很好的大姐姐 @EynDentleFly\n\n如果比起 九十岁死去荣光缠裹\n却无法在 此后被谁深情铭刻\n我宁愿折三折 轰轰烈烈趟过\n也偏要将错就错",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1895410848836759553/EbKJ2tNI_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782063289675255808/1737201756",
-    "followers_count": 879,
-    "friends_count": 837,
-    "statuses_count": 2646,
-    "favourites_count": 17217,
-    "listed_count": 4,
+    "description": "forget me pls... | 最爱的老婆大人@MinaseAyano | 超级好的大姐姐 @EynDentleFly",
     "location": "在你心里",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-04-21 23:06:19 +08:00",
-    "url": "https://twitter.com/Kisaragi_Momoe",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzgyMDYzMjg5Njc1MjU1ODA4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1895410848836759553/EbKJ2tNI_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Apr 21 15:06:19 +0000 2024",
-            "name": "那一天的如月 桃枝起来🍥",
-            "screen_name": "Kisaragi_Momoe"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 837,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 132,
-            "pinned_tweet_ids_str": [
-                "1923436598101721554"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "在你心里"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1713711979000,
-            "updated_at": 1752846614298
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 888,
+    "friends_count": 849,
+    "listed_count": 4,
+    "created_at": "Sun Apr 21 15:06:19 +0000 2024",
+    "favourites_count": 17618,
+    "verified": false,
+    "statuses_count": 2706,
+    "media_count": 132,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1946486481339781120/oWAhrkKf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782063289675255808/1737201756",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1923436598101721554
+    ],
+    "pinned_tweet_ids_str": [
+        "1923436598101721554"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

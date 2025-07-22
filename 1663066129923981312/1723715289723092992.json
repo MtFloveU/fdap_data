@@ -1,100 +1,64 @@
 {
     "id": "1723715289723092992",
-    "screen_name": "CharmingFurina",
     "name": "💙迷人的芙芙💙",
-    "description": "中推第一芙廚🥰/重慶07男高/高二/理科生/日常清水推/右翼中華民國派❂(RKMT)/183cm 62kg/澀澀/數學/語言文字學/中華&印度文化圈研究/喜歡東亞、東南亞/原神、崩鐵/友LGBT/漢英日韓泰法語ok/會發自拍🥰/小帳@Furina_Thailand/妹妹@LiciiQAQ",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1918590799119630336/Z2G66HRm_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723715289723092992/1743173318",
-    "followers_count": 2440,
-    "friends_count": 3387,
-    "statuses_count": 15343,
-    "favourites_count": 77988,
-    "listed_count": 12,
+    "screen_name": "CharmingFurina",
+    "description": "中推第一芙廚🥰/重慶07男高/準高三/理科生/日常清水推/右翼中華民國派❂(RKMT)/183cm 62kg/澀澀/數學/語言文字學/中華&印度文化圈研究/喜歡東亞、東南亞/原神、崩鐵/友LGBT/漢英日韓泰法語ok/會發自拍🥰/小帳@Furina_Thailand/妹妹@LiciiQAQ",
     "location": "Palais Mermonia, Fontaine",
-    "website": "https://t.co/Y8AOwF2rRY",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-11-12 22:52:12 +08:00",
-    "url": "https://twitter.com/CharmingFurina",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzIzNzE1Mjg5NzIzMDkyOTky",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1918590799119630336/Z2G66HRm_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Nov 12 14:52:12 +0000 2023",
-            "name": "💙迷人的芙芙💙",
-            "screen_name": "CharmingFurina"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/charmingfurina",
-                            "expanded_url": "http://ngl.link/charmingfurina",
-                            "url": "https://t.co/Y8AOwF2rRY",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/Y8AOwF2rRY",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/Y8AOwF2rRY",
+                    "expanded_url": "http://ngl.link/charmingfurina",
+                    "display_url": "ngl.link/charmingfurina",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 3387,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1185,
-            "pinned_tweet_ids_str": [
-                "1929101204237287777"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/Y8AOwF2rRY",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "Palais Mermonia, Fontaine"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1699800732000,
-            "updated_at": 1752846626571
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2441,
+    "friends_count": 3389,
+    "listed_count": 11,
+    "created_at": "Sun Nov 12 14:52:12 +0000 2023",
+    "favourites_count": 78597,
+    "verified": false,
+    "statuses_count": 15445,
+    "media_count": 1191,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1946860127404851200/QF1Ae3nI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723715289723092992/1743173318",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1929101204237287777
+    ],
+    "pinned_tweet_ids_str": [
+        "1929101204237287777"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

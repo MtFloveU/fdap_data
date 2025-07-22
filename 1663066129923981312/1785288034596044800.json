@@ -1,129 +1,64 @@
 {
     "id": "1785288034596044800",
-    "screen_name": "Shikoku_Metan",
     "name": "薔薇バラ",
+    "screen_name": "Shikoku_Metan",
     "description": "有病态心理的普通人 里账",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1943598183151443968/nUIweoSN_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1785288034596044800/1752224708",
-    "followers_count": 9,
-    "friends_count": 0,
-    "statuses_count": 138,
-    "favourites_count": 135,
-    "listed_count": 0,
     "location": "",
-    "website": "https://t.co/L7mlrShmf4",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": false,
-    "protected": true,
-    "created_at": "2024-04-30 20:40:18 +08:00",
-    "url": "https://twitter.com/Shikoku_Metan",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzg1Mjg4MDM0NTk2MDQ0ODAw",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @Inaba_Tsumugi",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 27,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "Inaba_Tsumugi",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "Inaba_Tsumugi"
-                                        },
-                                        "rest_id": "1689257282348158976"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1943598183151443968/nUIweoSN_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Apr 30 12:40:18 +0000 2024",
-            "name": "薔薇バラ",
-            "screen_name": "Shikoku_Metan"
-        },
-        "dm_permissions": {
-            "can_dm": false
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "cctv.com",
-                            "expanded_url": "http://cctv.com",
-                            "url": "https://t.co/L7mlrShmf4",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/L7mlrShmf4",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/L7mlrShmf4",
+                    "expanded_url": "http://cctv.com",
+                    "display_url": "cctv.com",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 0,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 43,
-            "pinned_tweet_ids_str": [
-                "1901098749746966671"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/L7mlrShmf4",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1714480818000,
-            "updated_at": 1752846589901
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 9,
+    "friends_count": 0,
+    "listed_count": 0,
+    "created_at": "Tue Apr 30 12:40:18 +0000 2024",
+    "favourites_count": 134,
+    "verified": false,
+    "statuses_count": 138,
+    "media_count": 43,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1943598183151443968/nUIweoSN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1785288034596044800/1752224708",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1901098749746966671
+    ],
+    "pinned_tweet_ids_str": [
+        "1901098749746966671"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

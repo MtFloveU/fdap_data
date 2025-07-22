@@ -1,101 +1,64 @@
 {
     "id": "1868205822511288320",
-    "screen_name": "VicoOci",
     "name": "vicoOci",
-    "description": "芨芨草@fuckpregabalin /浅草的@Lmao_Quien /标志@5mRtist 白粥姐@HyotoChandesuyo 小权@freequan2025 萌豚@niceball_wuwaa 厚米@kikyo4000 @muska56368",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1943523513643732995/2kx3p2bv_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868205822511288320/1752831206",
-    "followers_count": 3393,
-    "friends_count": 290,
-    "statuses_count": 5944,
-    "favourites_count": 15678,
-    "listed_count": 9,
+    "screen_name": "VicoOci",
+    "description": "芨芨草@fuckpregabalin /主人@Lmao_Quien /标志@5mRtist 白粥姐@HyotoChandesuyo 星酱 @whyuounot小权@freequan2025 萌豚@niceball_wuwaa 厚米@kikyo4000 @muska56368",
     "location": "距离2.50km",
-    "website": "https://t.co/fRl5cZXkGb",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-12-15 16:06:14 +08:00",
-    "url": "https://twitter.com/VicoOci",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODY4MjA1ODIyNTExMjg4MzIw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1943523513643732995/2kx3p2bv_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Dec 15 08:06:14 +0000 2024",
-            "name": "vicoOci",
-            "screen_name": "VicoOci"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "5mr.top",
-                            "expanded_url": "http://5mr.top",
-                            "url": "https://t.co/fRl5cZXkGb",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/fRl5cZXSvJ",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/fRl5cZXSvJ",
+                    "expanded_url": "http://5mr.top",
+                    "display_url": "5mr.top",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 290,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 327,
-            "pinned_tweet_ids_str": [
-                "1941144323904655732"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/fRl5cZXkGb",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "距离2.50km"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1734249974000,
-            "updated_at": 1752846587235
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 3396,
+    "friends_count": 291,
+    "listed_count": 9,
+    "created_at": "Sun Dec 15 08:06:14 +0000 2024",
+    "favourites_count": 15908,
+    "verified": false,
+    "statuses_count": 6077,
+    "media_count": 339,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1943523513643732995/2kx3p2bv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868205822511288320/1752831206",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1941144323904655732
+    ],
+    "pinned_tweet_ids_str": [
+        "1941144323904655732"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

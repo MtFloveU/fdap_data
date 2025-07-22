@@ -1,132 +1,64 @@
 {
     "id": "1025546987578556417",
-    "screen_name": "FTMiaoX",
     "name": "🏳️‍🌈发条喵🏳️‍⚧️",
-    "description": "FTX/FTM/enby/ta/他/AuDHD/S/Dom/我是发条/人类友好/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐/小号@IWantMyLilDoggy",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025546987578556417/1715804595",
-    "followers_count": 7495,
-    "friends_count": 3272,
-    "statuses_count": 27477,
-    "favourites_count": 164726,
-    "listed_count": 20,
+    "screen_name": "FTMiaoX",
+    "description": "FTX/FTM/enby/ta/他/AuDHD/S/Dom/我是发条/人类友好/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐/我会在这里与你互动：@IWantMyLilDoggy",
     "location": "关着BakaHDT的笼子旁边",
-    "website": "https://t.co/OfJi4k2BhE",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2018-08-04 09:00:30 +08:00",
-    "url": "https://twitter.com/FTMiaoX",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMDI1NTQ2OTg3NTc4NTU2NDE3",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @IWantMyLilDoggy",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 29,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "IWantMyLilDoggy",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "IWantMyLilDoggy"
-                                        },
-                                        "rest_id": "1735938952731693056"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Aug 04 01:00:30 +0000 2018",
-            "name": "🏳️‍🌈发条喵🏳️‍⚧️",
-            "screen_name": "FTMiaoX"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/LoveFTMiaoTV",
-                            "expanded_url": "https://t.me/LoveFTMiaoTV",
-                            "url": "https://t.co/OfJi4k2BhE",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/OfJi4k397c",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/OfJi4k397c",
+                    "expanded_url": "https://t.me/LoveFTMiaoTV",
+                    "display_url": "t.me/LoveFTMiaoTV",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 3272,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 3199,
-            "pinned_tweet_ids_str": [
-                "1754185922885611679"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/OfJi4k2BhE",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "关着BakaHDT的笼子旁边"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1533344430000,
-            "updated_at": 1752846627809
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 7558,
+    "friends_count": 3281,
+    "listed_count": 20,
+    "created_at": "Sat Aug 04 01:00:30 +0000 2018",
+    "favourites_count": 165063,
+    "verified": false,
+    "statuses_count": 27529,
+    "media_count": 3216,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025546987578556417/1715804595",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1754185922885611679
+    ],
+    "pinned_tweet_ids_str": [
+        "1754185922885611679"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

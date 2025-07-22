@@ -1,88 +1,47 @@
 {
     "id": "1127115227630149632",
+    "name": "星雲",
     "screen_name": "hatsuki_mumu",
-    "name": "疯狂小叶",
     "description": "@CelestialNeb @InnocetRabbit BFF | @storMTXsnow8964 猫猫 | 🟨⬜️🟪⬛️",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1900930270666387456/cCA5FlvK_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127115227630149632/1741513565",
-    "followers_count": 301,
-    "friends_count": 47,
-    "statuses_count": 1446,
-    "favourites_count": 10417,
-    "listed_count": 2,
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2019-05-11 15:36:25 +08:00",
-    "url": "https://twitter.com/hatsuki_mumu",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMTI3MTE1MjI3NjMwMTQ5NjMy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1900930270666387456/cCA5FlvK_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat May 11 07:36:25 +0000 2019",
-            "name": "疯狂小叶",
-            "screen_name": "hatsuki_mumu"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 47,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 378,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false,
-            "bitcoin_handle": "",
-            "ethereum_handle": ""
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1557560185000,
-            "updated_at": 1752846620643
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 302,
+    "friends_count": 47,
+    "listed_count": 2,
+    "created_at": "Sat May 11 07:36:25 +0000 2019",
+    "favourites_count": 10427,
+    "verified": false,
+    "statuses_count": 1447,
+    "media_count": 378,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1900930270666387456/cCA5FlvK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127115227630149632/1741513565",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

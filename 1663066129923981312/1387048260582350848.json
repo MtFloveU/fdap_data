@@ -1,58 +1,51 @@
 {
     "id": "1387048260582350848",
-    "screen_name": "Fulgiyan",
     "name": "璐",
+    "screen_name": "Fulgiyan",
     "description": "ᠠᡳᠰᡳᠮᡠ ᡤᡝᡤᡝ 🌸丨満州に生まれ育ってくるトランスガール🏳️‍⚧️//ホルモン～2023/4/25//20代//本垢：@mukdengise//言語学・音韻学・満州語・文化人類学・ジェンダースタディズが好き",
     "location": "ムクデン",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1878658793636282368/ooA4sTxi_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387048260582350848/1736742259",
-    "followers_count": 1067,
-    "statuses_count": 504,
-    "favourites_count": 36974,
-    "listed_count": 3,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "created_at": "2021-04-27 22:17:38 +08:00",
-    "url": "https://twitter.com/Fulgiyan",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMzg3MDQ4MjYwNTgyMzUwODQ4",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 154,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 45,
-            "pinned_tweet_ids_str": [
-                "1891117383940497830"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1619533058000,
-            "updated_at": 1744350118007
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 1048,
+    "friends_count": 151,
+    "listed_count": 3,
+    "created_at": "Tue Apr 27 14:17:38 +0000 2021",
+    "favourites_count": 36821,
+    "verified": false,
+    "statuses_count": 503,
+    "media_count": 45,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1878658793636282368/ooA4sTxi_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387048260582350848/1736742259",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1891117383940497830
+    ],
+    "pinned_tweet_ids_str": [
+        "1891117383940497830"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

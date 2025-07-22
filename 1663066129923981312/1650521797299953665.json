@@ -1,143 +1,64 @@
 {
     "id": "1650521797299953665",
-    "screen_name": "yulingko_",
     "name": "与岭",
-    "description": "yǔlíng",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1939851266374737920/qeRTA8sv_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650521797299953665/1743597323",
-    "followers_count": 1014,
-    "friends_count": 698,
-    "statuses_count": 11005,
-    "favourites_count": 61960,
-    "listed_count": 2,
+    "screen_name": "yulingko_",
+    "description": "🐟 yǔlíng | 喜欢的人@yulingko_",
     "location": "Puewwoc Functional Streaming",
-    "website": "https://t.co/y33zzlVlZu",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-04-24 23:27:27 +08:00",
-    "url": "https://twitter.com/yulingko_",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjUwNTIxNzk3Mjk5OTUzNjY1",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @yunyunyunnya",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 26,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "yunyunyunnya",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "yunyunyunnya"
-                                        },
-                                        "rest_id": "1263250188757426176"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1939851266374737920/qeRTA8sv_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Apr 24 15:27:27 +0000 2023",
-            "name": "与岭",
-            "screen_name": "yulingko_"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "yulingko.moe",
-                            "expanded_url": "http://yulingko.moe",
-                            "url": "https://t.co/y33zzlVlZu",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 698,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 577,
-            "pinned_tweet_ids_str": [
-                "1921841960538566873"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/y33zzlVlZu",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Puewwoc Functional Streaming"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1922913238100083044",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/y33zzlVlZu",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 955,
-                    "name": "Journalist",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/y33zzlVlZu",
+                    "expanded_url": "http://yulingko.moe",
+                    "display_url": "yulingko.moe",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1682350047000,
-            "updated_at": 1752846618931
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1017,
+    "friends_count": 698,
+    "listed_count": 2,
+    "created_at": "Mon Apr 24 15:27:27 +0000 2023",
+    "favourites_count": 62226,
+    "verified": false,
+    "statuses_count": 11065,
+    "media_count": 585,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1946767332623237120/jGFqoAw1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650521797299953665/1743597323",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1921841960538566873
+    ],
+    "pinned_tweet_ids_str": [
+        "1921841960538566873"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

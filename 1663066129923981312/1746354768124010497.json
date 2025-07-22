@@ -1,57 +1,47 @@
 {
     "id": "1746354768124010497",
-    "screen_name": "Niko41402",
     "name": "蛋黄派",
-    "description": "专注和简单。简单，可以比实现复杂的东西更难。你必须花很多力气去让你的思维变得简单、有条理",
+    "screen_name": "Niko41402",
+    "description": "芝士雪豹万岁",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1842547438202023936/2GCCbwzR_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746354768124010497/1707137497",
-    "followers_count": 21,
-    "statuses_count": 73,
-    "favourites_count": 1411,
-    "listed_count": 0,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "created_at": "2024-01-14 10:13:32 +08:00",
-    "url": "https://twitter.com/Niko41402",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzQ2MzU0NzY4MTI0MDEwNDk3",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 651,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 9,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "twe_private_fields": {
-            "created_at": 1705198412000,
-            "updated_at": 1744350042027
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 21,
+    "friends_count": 653,
+    "listed_count": 0,
+    "created_at": "Sun Jan 14 02:13:32 +0000 2024",
+    "favourites_count": 1416,
+    "verified": false,
+    "statuses_count": 75,
+    "media_count": 9,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1946550355199770624/UqojWnzF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746354768124010497/1753013472",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

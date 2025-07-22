@@ -1,100 +1,60 @@
 {
     "id": "1845491203124441093",
-    "screen_name": "yu_huacs",
     "name": "余華誠霜",
-    "description": "余华 单车佬 实习公路车技师 宅 双 抽象 我的世界  闪电S WROKS VENGE Allez sprint tfsa jhf06 OCR5500 Lain Overdoes 双相情感障碍治疗中  最喜欢的东西 是100%椰子汁\n接公路车各种异响\n\n第二人格 @yuhuacs5570\n最好の兄弟@Lizzy6315",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1922978167616143360/O6HKnIve_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845491203124441093/1740625782",
-    "followers_count": 905,
-    "friends_count": 964,
-    "statuses_count": 12902,
-    "favourites_count": 74573,
-    "listed_count": 9,
+    "screen_name": "yu_huacs",
+    "description": "余华 单车佬 实习公路车技师 宅 双 抽象 我的世界  闪电S WROKS VENGE Allez sprint tfsa jhf06 OCR5500 Lain Overdoes 害怕幸福治疗中  最喜欢的东西 是100%椰子汁\n接公路车各种异响\n\n第二人格 @yuhuacs5570\n最好の兄弟@Lizzy6315",
     "location": "shanghai",
-    "website": "https://t.co/fGARwmdWCT",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-10-13 23:46:25 +08:00",
-    "url": "https://twitter.com/yu_huacs",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODQ1NDkxMjAzMTI0NDQxMDkz",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1922978167616143360/O6HKnIve_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Oct 13 15:46:25 +0000 2024",
-            "name": "余華誠霜",
-            "screen_name": "yu_huacs"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/yu_huacs",
-                            "expanded_url": "https://ngl.link/yu_huacs",
-                            "url": "https://t.co/fGARwmdWCT",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/fGARwmdoNl",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/fGARwmdoNl",
+                    "expanded_url": "https://ngl.link/yu_huacs",
+                    "display_url": "ngl.link/yu_huacs",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 964,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1542,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/fGARwmdWCT",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "shanghai"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1728834385000,
-            "updated_at": 1752846611714
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 915,
+    "friends_count": 986,
+    "listed_count": 9,
+    "created_at": "Sun Oct 13 15:46:25 +0000 2024",
+    "favourites_count": 76519,
+    "verified": false,
+    "statuses_count": 13153,
+    "media_count": 1553,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1922978167616143360/O6HKnIve_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845491203124441093/1740625782",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

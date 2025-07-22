@@ -1,131 +1,83 @@
 {
     "id": "1468416451208179712",
-    "screen_name": "shina_makotsu",
     "name": "紫楓·恒箫·魔骨",
+    "screen_name": "shina_makotsu",
     "description": "持证上岗//COC跑团人//路过的骑士厨//学生\n长毛象 https://t.co/P1XBuGxUJO\n糖果药店表https://t.co/d7W8od16Xd\n已逝爱人 @ANQNKNy\n爱人 @Shina_Kaede",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468416451208179712/1667175228",
-    "followers_count": 3917,
-    "friends_count": 726,
-    "statuses_count": 21622,
-    "favourites_count": 5013,
-    "listed_count": 23,
     "location": "幻想乡 红魔馆",
-    "website": "https://t.co/FWQxuScjJA",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2021-12-08 11:05:47 +08:00",
-    "url": "https://twitter.com/shina_makotsu",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDY4NDE2NDUxMjA4MTc5NzEy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Dec 08 03:05:47 +0000 2021",
-            "name": "紫楓·恒箫·魔骨",
-            "screen_name": "shina_makotsu"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "mstdn.party/@makotsu",
-                            "expanded_url": "http://mstdn.party/@makotsu",
-                            "url": "https://t.co/P1XBuGxUJO",
-                            "indices": [
-                                29,
-                                52
-                            ]
-                        },
-                        {
-                            "display_url": "netsusyou-makotsu.github.io/E2-docs",
-                            "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
-                            "url": "https://t.co/d7W8od16Xd",
-                            "indices": [
-                                58,
-                                81
-                            ]
-                        }
-                    ]
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "makotsu.xyz",
-                            "expanded_url": "https://makotsu.xyz/",
-                            "url": "https://t.co/FWQxuScjJA",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 726,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 704,
-            "pinned_tweet_ids_str": [
-                "1500615371094691842"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/FWQxuScjJA",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "幻想乡 红魔馆"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1664797563764228096",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/FWQxuScjJA",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/FWQxuScjJA",
+                    "expanded_url": "https://makotsu.xyz/",
+                    "display_url": "makotsu.xyz",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1638932747000,
-            "updated_at": 1752846627810
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/P1XBuGxUJO",
+                    "expanded_url": "http://mstdn.party/@makotsu",
+                    "display_url": "mstdn.party/@makotsu",
+                    "indices": [
+                        29,
+                        52
+                    ]
+                },
+                {
+                    "url": "https://t.co/d7W8od16Xd",
+                    "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
+                    "display_url": "netsusyou-makotsu.github.io/E2-docs",
+                    "indices": [
+                        58,
+                        81
+                    ]
+                }
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 3911,
+    "friends_count": 727,
+    "listed_count": 23,
+    "created_at": "Wed Dec 08 03:05:47 +0000 2021",
+    "favourites_count": 5012,
+    "verified": false,
+    "statuses_count": 21628,
+    "media_count": 704,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468416451208179712/1667175228",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1500615371094691842
+    ],
+    "pinned_tweet_ids_str": [
+        "1500615371094691842"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

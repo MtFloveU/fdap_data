@@ -1,88 +1,51 @@
 {
     "id": "1691334965458604032",
-    "screen_name": "Siyan_Xiao",
     "name": "思言",
-    "description": "#ts / 性取向男 / 粉 / 历史爱好者 / 喜欢旅行 / 是只海豹宝宝，打一下不会哭，会咬你一口 / 鲨鱼妹妹：@Sharkie_4005 / 分享些日常",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1920615580484206592/JOXqPCSA_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691334965458604032/1746746671",
-    "followers_count": 4612,
-    "friends_count": 1258,
-    "statuses_count": 14844,
-    "favourites_count": 38938,
-    "listed_count": 19,
+    "screen_name": "Siyan_Xiao",
+    "description": "#ts / 粉 / 历史爱好者 / 喜欢旅行 / 是只海豹宝宝，打一下不会哭，会咬你一口 / 鲨鱼妹妹：@Sharkie_4005 / 分享些日常",
     "location": "London, England, UK 🇬🇧",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-08-15 14:24:34 +08:00",
-    "url": "https://twitter.com/Siyan_Xiao",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjkxMzM0OTY1NDU4NjA0MDMy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1920615580484206592/JOXqPCSA_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Aug 15 06:24:34 +0000 2023",
-            "name": "思言",
-            "screen_name": "Siyan_Xiao"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1258,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 651,
-            "pinned_tweet_ids_str": [
-                "1931243416513400839"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "London, England, UK 🇬🇧"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1692080674000,
-            "updated_at": 1752846625712
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4679,
+    "friends_count": 1263,
+    "listed_count": 20,
+    "created_at": "Tue Aug 15 06:24:34 +0000 2023",
+    "favourites_count": 39129,
+    "verified": false,
+    "statuses_count": 14932,
+    "media_count": 652,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1920615580484206592/JOXqPCSA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691334965458604032/1746746671",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1931243416513400839
+    ],
+    "pinned_tweet_ids_str": [
+        "1931243416513400839"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

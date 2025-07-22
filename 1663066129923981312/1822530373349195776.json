@@ -1,86 +1,51 @@
 {
     "id": "1822530373349195776",
-    "screen_name": "TaoWen44377",
     "name": "猫闻百合",
-    "description": "11年😇|159cm|47kg|男娘|NO吃🍥|NO od\n🚪25置顶扫码留下你的微信号或QQ号",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1929411908211257344/EnMMM1Ev_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822530373349195776/1748842618",
-    "followers_count": 50,
-    "friends_count": 183,
-    "statuses_count": 25,
-    "favourites_count": 889,
-    "listed_count": 0,
+    "screen_name": "TaoWen44377",
+    "description": "11年😇|159cm|47kg|男娘|NO吃🍥|NO od\n🚪25置顶扫码留下你的微信号或QQ号\n不接线下！",
     "location": "china",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-08-11 15:08:07 +08:00",
-    "url": "https://twitter.com/TaoWen44377",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODIyNTMwMzczMzQ5MTk1Nzc2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1929411908211257344/EnMMM1Ev_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Aug 11 07:08:07 +0000 2024",
-            "name": "猫闻百合",
-            "screen_name": "TaoWen44377"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 183,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 6,
-            "pinned_tweet_ids_str": [
-                "1934626650656002432"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "china"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1723360087000,
-            "updated_at": 1752846550885
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 55,
+    "friends_count": 186,
+    "listed_count": 0,
+    "created_at": "Sun Aug 11 07:08:07 +0000 2024",
+    "favourites_count": 903,
+    "verified": false,
+    "statuses_count": 26,
+    "media_count": 6,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1929411908211257344/EnMMM1Ev_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822530373349195776/1748842618",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1934626650656002432
+    ],
+    "pinned_tweet_ids_str": [
+        "1934626650656002432"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

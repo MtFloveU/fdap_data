@@ -1,109 +1,60 @@
 {
     "id": "1257988898724040705",
-    "screen_name": "KagrhitenData",
     "name": "𝒯𝒶𝓃𝑔𝓎𝒞𝒽𝒶𝓇𝓂🌏🌠🧃",
+    "screen_name": "KagrhitenData",
     "description": "while(1)（哈气(0：",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1940880383442034688/KEH22fnr_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257988898724040705/1746896790",
-    "followers_count": 254,
-    "friends_count": 858,
-    "statuses_count": 1768,
-    "favourites_count": 11091,
-    "listed_count": 0,
-    "location": "Republic of Korea",
-    "website": "https://t.co/2BbldtKPsJ",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2020-05-06 19:02:06 +08:00",
-    "url": "https://twitter.com/KagrhitenData",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMjU3OTg4ODk4NzI0MDQwNzA1",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1940880383442034688/KEH22fnr_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed May 06 11:02:06 +0000 2020",
-            "name": "𝒯𝒶𝓃𝑔𝓎𝒞𝒽𝒶𝓇𝓂🌏🌠🧃",
-            "screen_name": "KagrhitenData"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "whitehouse.gov/articles/2025/…",
-                            "expanded_url": "https://www.whitehouse.gov/articles/2025/03/50-wins-in-50-days-president-trump-delivers-for-american",
-                            "url": "https://t.co/2BbldtKPsJ",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 858,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 519,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/2BbldtKPsJ",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Republic of Korea"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1862798329999933893",
-            "professional_type": "Business",
-            "category": [
+    "location": "대한민국",
+    "url": "https://t.co/2BbldtKPsJ",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 1015,
-                    "name": "Nonprofits & Activism",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/2BbldtKPsJ",
+                    "expanded_url": "https://www.whitehouse.gov/articles/2025/03/50-wins-in-50-days-president-trump-delivers-for-american",
+                    "display_url": "whitehouse.gov/articles/2025/…",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1588762926000,
-            "updated_at": 1752846592776
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 252,
+    "friends_count": 856,
+    "listed_count": 0,
+    "created_at": "Wed May 06 11:02:06 +0000 2020",
+    "favourites_count": 11229,
+    "verified": false,
+    "statuses_count": 1789,
+    "media_count": 527,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1940880383442034688/KEH22fnr_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257988898724040705/1746896790",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,82 +1,64 @@
 {
     "id": "1639929500753600512",
-    "screen_name": "enracca",
     "name": "ENRⒶCCA 低浮上",
-    "description": "舊名戊夜。\n此號内容將逐步轉向清水推\n祝zyn套皮的仿冒號@Yoru_TsCiNoE1早点似",
+    "screen_name": "enracca",
+    "description": "清水推低浮上\n祝zyn套皮勾早似",
     "location": "utopia",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1890653238648832000/gNjuimNx_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639929500753600512/1739794591",
-    "followers_count": 449,
-    "statuses_count": 3406,
-    "favourites_count": 10939,
-    "listed_count": 1,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2023-03-26 17:57:30 +08:00",
-    "url": "https://twitter.com/enracca",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjM5OTI5NTAwNzUzNjAwNTEy",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "x.com/enracca_",
-                            "expanded_url": "https://x.com/enracca_",
-                            "url": "https://t.co/JYmjEHT1Q9",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1091,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 111,
-            "pinned_tweet_ids_str": [
-                "1817618856153845861"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/JYmjEHT1Q9",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1684112184727707648",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/JYmjEHT1Q9",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 920,
-                    "name": "Other",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/JYmjEHT1Q9",
+                    "expanded_url": "https://x.com/enracca_",
+                    "display_url": "x.com/enracca_",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1679824650000,
-            "updated_at": 1744350106481
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 439,
+    "friends_count": 1075,
+    "listed_count": 1,
+    "created_at": "Sun Mar 26 09:57:30 +0000 2023",
+    "favourites_count": 10719,
+    "verified": false,
+    "statuses_count": 3399,
+    "media_count": 111,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1890653238648832000/gNjuimNx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639929500753600512/1739794591",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1817618856153845861
+    ],
+    "pinned_tweet_ids_str": [
+        "1817618856153845861"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

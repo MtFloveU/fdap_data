@@ -1,93 +1,57 @@
 {
     "id": "1919296206381170688",
-    "screen_name": "juhao0721",
     "name": "juhao_我是可爱小句号",
+    "screen_name": "juhao0721",
     "description": "这里是可爱小句号~\n有可爱，有实力，更有整活（）\n灌注句号喵，灌注句号蟹蟹喵\nBilibili主页：https://t.co/gkIkiiDUIM  juhao_句号\n摩耶@KagurazakaAzure❤️",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1941547287982862336/73-KtESb_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1919296206381170688/1751735922",
-    "followers_count": 265,
-    "friends_count": 64,
-    "statuses_count": 412,
-    "favourites_count": 1002,
-    "listed_count": 1,
     "location": "重庆",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2025-05-05 15:42:19 +08:00",
-    "url": "https://twitter.com/juhao0721",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxOTE5Mjk2MjA2MzgxMTcwNjg4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1941547287982862336/73-KtESb_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon May 05 07:42:19 +0000 2025",
-            "name": "juhao_我是可爱小句号",
-            "screen_name": "juhao0721"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "b23.tv/sjWmIxU",
-                            "expanded_url": "http://b23.tv/sjWmIxU",
-                            "url": "https://t.co/gkIkiiDUIM",
-                            "indices": [
-                                50,
-                                73
-                            ]
-                        }
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/gkIkiiDUIM",
+                    "expanded_url": "http://b23.tv/sjWmIxU",
+                    "display_url": "b23.tv/sjWmIxU",
+                    "indices": [
+                        50,
+                        73
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 64,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 52,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "重庆"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1746430939000,
-            "updated_at": 1752846587235
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 266,
+    "friends_count": 65,
+    "listed_count": 1,
+    "created_at": "Mon May 05 07:42:19 +0000 2025",
+    "favourites_count": 1160,
+    "verified": false,
+    "statuses_count": 444,
+    "media_count": 53,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1941547287982862336/73-KtESb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1919296206381170688/1751735922",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

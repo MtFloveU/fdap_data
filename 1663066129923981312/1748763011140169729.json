@@ -1,102 +1,64 @@
 {
     "id": "1748763011140169729",
-    "screen_name": "sxshuishuimao",
     "name": "神仙水水猫🍕🧊",
-    "description": "07 ｜互fo｜INFP-t｜ HRT咨詢｜不吃肉不是素食主義者喵｜灌注水貓謝謝喵｜拼圖積木代拼｜最愛14歲｜是豪貓不o不圓不割不死｜提問箱鏈接↓｜杀杀杀️｜对象❤️@mengqing5735",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1746435698",
-    "followers_count": 1464,
-    "friends_count": 1018,
-    "statuses_count": 7891,
-    "favourites_count": 193,
-    "listed_count": 5,
+    "screen_name": "sxshuishuimao",
+    "description": "07 ｜互fo｜INFP-t｜ HRT咨詢｜不吃肉不是素食主義者喵｜灌注水貓謝謝喵｜拼圖積木代拼｜最愛14歲｜是豪貓不o不圓不割不死｜提問箱鏈接↓｜杀杀杀️｜❤️对象@mengqing5735｜偷情对象@saonanaa｜网恋对象@hiner233等",
     "location": "距离你2.1km",
-    "website": "https://t.co/qmQkMr39z5",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-01-21 01:42:54 +08:00",
-    "url": "https://twitter.com/sxshuishuimao",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzQ4NzYzMDExMTQwMTY5NzI5",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Jan 20 17:42:54 +0000 2024",
-            "name": "神仙水水猫🍕🧊",
-            "screen_name": "sxshuishuimao"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/%E6%B0%B4%E6%B…",
-                            "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
-                            "url": "https://t.co/qmQkMr39z5",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/qmQkMr39z5",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/qmQkMr39z5",
+                    "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                    "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1018,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1390,
-            "pinned_tweet_ids_str": [
-                "1945702414335779296"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/qmQkMr39z5",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "距离你2.1km"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1705772574000,
-            "updated_at": 1752846587235
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1475,
+    "friends_count": 1017,
+    "listed_count": 5,
+    "created_at": "Sat Jan 20 17:42:54 +0000 2024",
+    "favourites_count": 191,
+    "verified": false,
+    "statuses_count": 7985,
+    "media_count": 1397,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1746435698",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1946838738371555714
+    ],
+    "pinned_tweet_ids_str": [
+        "1946838738371555714"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

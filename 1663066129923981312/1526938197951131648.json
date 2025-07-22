@@ -1,132 +1,64 @@
 {
     "id": "1526938197951131648",
-    "screen_name": "xinxia_mtf",
     "name": "喵喵大王小夏🐱",
-    "description": "07年/身高165/INFP/持证含糖mtf/第二次HRT：23.9.10/妈妈意外变成家长党/推文当日记发（一些和对象的日常）/想跟xyn互fo贴贴（没回fo可能是没看见)/最好的姐姐兼恋人: @Starrynightwglf /🚪30",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898947809514242048/m6eXmu55_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526938197951131648/1653923886",
-    "followers_count": 6804,
-    "friends_count": 1787,
-    "statuses_count": 3133,
-    "favourites_count": 8192,
-    "listed_count": 15,
+    "screen_name": "xinxia_mtf",
+    "description": "2007.8.18🐣/身高165😭/INFP/持证含糖mtf😺/第二次HRT：23.9.10/妈妈意外变成家长党😀/推文当日记发📝（一些和对象的日常）/想跟xyn互fo贴贴🥺（没回fo可能是没看见)/最好的姐姐兼恋人: @Starrynightwglf 🥰🥰🥰/🚪30",
     "location": "小风怀里",
-    "website": "https://t.co/vMsqLwqjNV",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-05-18 22:50:21 +08:00",
-    "url": "https://twitter.com/xinxia_mtf",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTI2OTM4MTk3OTUxMTMxNjQ4",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @Starrynightwglf",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 29,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "Starrynightwglf",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "Starrynightwglf"
-                                        },
-                                        "rest_id": "1563508655256850433"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1898947809514242048/m6eXmu55_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed May 18 14:50:21 +0000 2022",
-            "name": "喵喵大王小夏🐱",
-            "screen_name": "xinxia_mtf"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/xinxia90268",
-                            "expanded_url": "https://ngl.link/xinxia90268",
-                            "url": "https://t.co/vMsqLwqjNV",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/vMsqLwqjNV",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/vMsqLwqjNV",
+                    "expanded_url": "https://ngl.link/xinxia90268",
+                    "display_url": "ngl.link/xinxia90268",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1787,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 316,
-            "pinned_tweet_ids_str": [
-                "1871838248030671333"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/vMsqLwqjNV",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "小风怀里"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1652885421000,
-            "updated_at": 1752846611714
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 6805,
+    "friends_count": 1791,
+    "listed_count": 15,
+    "created_at": "Wed May 18 14:50:21 +0000 2022",
+    "favourites_count": 8204,
+    "verified": false,
+    "statuses_count": 3142,
+    "media_count": 318,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1898947809514242048/m6eXmu55_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526938197951131648/1653923886",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1871838248030671333
+    ],
+    "pinned_tweet_ids_str": [
+        "1871838248030671333"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

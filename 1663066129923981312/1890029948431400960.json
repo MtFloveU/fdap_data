@@ -1,85 +1,47 @@
 {
     "id": "1890029948431400960",
-    "screen_name": "chen_qian97548",
     "name": "一只走在冰面上的猫🏳️‍⚧️🍥",
+    "screen_name": "chen_qian97548",
     "description": "15mtf 广东的可以一起玩呀 最好的姐姐@Asiacometfrank 最好的朋友 @khdrd4",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1896138779754450945/BajrbxWG_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890029948431400960/1742617072",
-    "followers_count": 732,
-    "friends_count": 96,
-    "statuses_count": 206,
-    "favourites_count": 204,
-    "listed_count": 3,
     "location": "Kyoto City Fushimi Ward, Kyoto",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": null,
-    "can_dm": false,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/chen_qian97548",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODkwMDI5OTQ4NDMxNDAwOTYw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1896138779754450945/BajrbxWG_normal.jpg"
-        },
-        "core": {
-            "created_at": "Thu Feb 13 13:27:18 +0000 2025",
-            "name": "一只走在冰面上的猫🏳️‍⚧️🍥",
-            "screen_name": "chen_qian97548"
-        },
-        "dm_permissions": {
-            "can_dm": false
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 96,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 5,
-            "pinned_tweet_ids_str": [
-                "1927238175094718473"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Kyoto City Fushimi Ward, Kyoto"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219057411
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 805,
+    "friends_count": 98,
+    "listed_count": 3,
+    "created_at": "Thu Feb 13 13:27:18 +0000 2025",
+    "favourites_count": 183,
+    "verified": false,
+    "statuses_count": 236,
+    "media_count": 4,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1896138779754450945/BajrbxWG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890029948431400960/1742617072",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
