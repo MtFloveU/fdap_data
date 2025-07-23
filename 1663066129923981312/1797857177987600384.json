@@ -1,86 +1,51 @@
 {
     "id": "1797857177987600384",
+    "name": "星澜^Fragments🧩",
     "screen_name": "Cerulean_Milo",
-    "name": "星澜",
-    "description": "“星光不会迷路，澜影也终将归海。” —— 星澜在黑暗中轻声说着，眼中映出你心底未曾说出的愿望。｜成分？见下😋 ｜Apple全家桶初体验｜男高（上学好累）｜音游痴（wm太菜 但Phi还行 Arc正在练）｜Minecraft好玩 等长大了要开自己的服务器 ｜",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1936441835590656000/l5jA7bl6_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797857177987600384/1749752717",
-    "followers_count": 3616,
-    "friends_count": 1504,
-    "statuses_count": 7305,
-    "favourites_count": 24646,
-    "listed_count": 3,
+    "description": "「听，那是来自远方世界的呼唤」｜Apple全家桶user｜男高（6-22时在校）｜音游痴｜Minecraft｜",
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-06-04 13:06:07 +08:00",
-    "url": "https://twitter.com/Cerulean_Milo",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzk3ODU3MTc3OTg3NjAwMzg0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1936441835590656000/l5jA7bl6_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Jun 04 05:06:07 +0000 2024",
-            "name": "星澜",
-            "screen_name": "Cerulean_Milo"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1504,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 305,
-            "pinned_tweet_ids_str": [
-                "1933222244874101118"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1717477567000,
-            "updated_at": 1752846614298
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 3626,
+    "friends_count": 1524,
+    "listed_count": 3,
+    "created_at": "Tue Jun 04 05:06:07 +0000 2024",
+    "favourites_count": 25189,
+    "verified": false,
+    "statuses_count": 7618,
+    "media_count": 312,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1936441835590656000/l5jA7bl6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797857177987600384/1749752717",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1947701726355853406
+    ],
+    "pinned_tweet_ids_str": [
+        "1947701726355853406"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

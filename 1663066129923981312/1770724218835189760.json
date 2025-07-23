@@ -1,86 +1,51 @@
 {
     "id": "1770724218835189760",
-    "screen_name": "EdgarRinik70648",
     "name": "貓落雨",
-    "description": "废物/男生/172/55/摆烂/是个只会睡觉的废物/不键政❌/可以聊天（有空的话）/🍭2025.1.3/吃过两个月但是心中的女孩子已经死了/会把这里当日记本＆回忆录&情绪发泄的地方&喜欢玩绳子&友🍥🏳️‍⚧️🍥/常住浙江台州榴岛/上海徐汇上学/",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1774316678471688192/cOu4SASr_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1770724218835189760/1716049007",
-    "followers_count": 1106,
-    "friends_count": 947,
-    "statuses_count": 1195,
-    "favourites_count": 3188,
-    "listed_count": 1,
+    "screen_name": "EdgarRinik70648",
+    "description": "废物/男生/172/55/摆烂/是个只会睡觉的废物/不键政❌/可以聊天（有空的话）/🍭2025.1.3/吃过两个月但是心中的女孩子已经死了/会把这里当日记本＆回忆录&情绪发泄的地方&喜欢玩绳子&友🍥🏳️‍⚧️🍥/常住浙江台州榴岛/上海徐汇上学/@Maoluoyu",
     "location": "魔法大陆",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-03-21 16:09:03 +08:00",
-    "url": "https://twitter.com/EdgarRinik70648",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzcwNzI0MjE4ODM1MTg5NzYw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1774316678471688192/cOu4SASr_normal.jpg"
-        },
-        "core": {
-            "created_at": "Thu Mar 21 08:09:03 +0000 2024",
-            "name": "貓落雨",
-            "screen_name": "EdgarRinik70648"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 947,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 77,
-            "pinned_tweet_ids_str": [
-                "1877408729521414175"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "魔法大陆"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1711008543000,
-            "updated_at": 1752846531625
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1121,
+    "friends_count": 965,
+    "listed_count": 1,
+    "created_at": "Thu Mar 21 08:09:03 +0000 2024",
+    "favourites_count": 3302,
+    "verified": false,
+    "statuses_count": 1232,
+    "media_count": 80,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1774316678471688192/cOu4SASr_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1770724218835189760/1716049007",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1877408729521414175
+    ],
+    "pinned_tweet_ids_str": [
+        "1877408729521414175"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

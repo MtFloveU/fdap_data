@@ -1,57 +1,50 @@
 {
     "id": "1233893730064699394",
+    "name": "Zéphyrine Freiberg🏳️‍⚧️🏳️‍🌈🇪🇺🇺🇦",
     "screen_name": "frei98029391",
-    "name": "Zephyrine Freiberg🏳️‍⚧️🏳️‍🌈🇪🇺🇺🇦",
     "description": "trans, lesbian, Software Architect she (her) / they (them) / 她 / zij (haar) / sie (sie, ihr) English, 中文，Nederlands, Deutsch bluesky: @zephyrinefreiberg.bsky",
     "location": "Wien",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1831835746921058304/mh2YW-_0_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 275,
-    "statuses_count": 2543,
-    "favourites_count": 10201,
-    "listed_count": 0,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2020-03-01 07:16:17 +08:00",
-    "url": "https://twitter.com/frei98029391",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMjMzODkzNzMwMDY0Njk5Mzk0",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 328,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 88,
-            "pinned_tweet_ids_str": [
-                "1902361703058198694"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1583018177000,
-            "updated_at": 1744350094638
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 310,
+    "friends_count": 367,
+    "listed_count": 1,
+    "created_at": "Sat Feb 29 23:16:17 +0000 2020",
+    "favourites_count": 11848,
+    "verified": false,
+    "statuses_count": 2894,
+    "media_count": 97,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1831835746921058304/mh2YW-_0_normal.jpg",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1902361703058198694
+    ],
+    "pinned_tweet_ids_str": [
+        "1902361703058198694"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

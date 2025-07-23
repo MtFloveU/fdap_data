@@ -1,89 +1,51 @@
 {
     "id": "1690570637499154432",
-    "screen_name": "saonanaa",
     "name": "Zhi Wei",
-    "description": "没有个人简介，简介是不断变幻的，去看看推文吧！",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1937167378510426116/OYo5MO_K_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1752216977",
-    "followers_count": 3720,
-    "friends_count": 394,
-    "statuses_count": 15062,
-    "favourites_count": 27726,
-    "listed_count": 15,
+    "screen_name": "saonanaa",
+    "description": "声明：本人行为与昵称无关",
     "location": "🌏🌐",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-08-13 11:47:17 +08:00",
-    "url": "https://twitter.com/saonanaa",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjkwNTcwNjM3NDk5MTU0NDMy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1937167378510426116/OYo5MO_K_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Aug 13 03:47:17 +0000 2023",
-            "name": "Zhi Wei",
-            "screen_name": "saonanaa"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 394,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1708,
-            "notifications": true,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "🌏🌐"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false,
-            "ethereum_handle": "",
-            "patreon_handle": "zhiweiinx"
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1691898437000,
-            "updated_at": 1752846624465
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 5150,
+    "friends_count": 395,
+    "listed_count": 14,
+    "created_at": "Sun Aug 13 03:47:17 +0000 2023",
+    "favourites_count": 28609,
+    "verified": false,
+    "statuses_count": 15487,
+    "media_count": 1752,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1937167378510426116/OYo5MO_K_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1753195728",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1946394383097680128
+    ],
+    "pinned_tweet_ids_str": [
+        "1946394383097680128"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": true,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }
