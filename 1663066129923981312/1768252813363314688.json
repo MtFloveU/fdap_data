@@ -1,57 +1,51 @@
 {
     "id": "1768252813363314688",
-    "screen_name": "LinKuoTian8964K",
     "name": "水中月-林阔天空",
+    "screen_name": "LinKuoTianKong",
     "description": "不友跨了。自己也不知道什么时候翻，有点受虐倾向，有时候脑子不太灵光，脾气比较暴躁，经常被人挂，还总遭人讨厌。所发的帖子经常贴脸开大，发言很逆天，且可能出现负能量内容，请谨慎关注。想被捆，想被关进笼子……嗯很好不知道写什么",
     "location": "广西省桂林市李老师故居开坦克举白纸报答恩情",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1853342112051503104/61LjScn9_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768252813363314688/1711552811",
-    "followers_count": 590,
-    "statuses_count": 3887,
-    "favourites_count": 37881,
-    "listed_count": 3,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2024-03-14 20:28:33 +08:00",
-    "url": "https://twitter.com/LinKuoTian8964K",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzY4MjUyODEzMzYzMzE0Njg4",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 186,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 316,
-            "pinned_tweet_ids_str": [
-                "1785209206301487387"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1710419313000,
-            "updated_at": 1744350074463
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 740,
+    "friends_count": 194,
+    "listed_count": 3,
+    "created_at": "Thu Mar 14 12:28:33 +0000 2024",
+    "favourites_count": 39826,
+    "verified": false,
+    "statuses_count": 4246,
+    "media_count": 332,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1853342112051503104/61LjScn9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768252813363314688/1711552811",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1912524604129825042
+    ],
+    "pinned_tweet_ids_str": [
+        "1912524604129825042"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

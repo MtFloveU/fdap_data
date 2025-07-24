@@ -1,111 +1,64 @@
 {
     "id": "1781308864438345728",
-    "screen_name": "FoxRed695449",
     "name": "RedFox（2代目）🇲🇴🇭🇰",
-    "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781308864438345728/1749049429",
-    "followers_count": 2653,
-    "friends_count": 666,
-    "statuses_count": 1685,
-    "favourites_count": 3578,
-    "listed_count": 6,
+    "screen_name": "FoxRed695449",
+    "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
     "location": "Hong Kong",
-    "website": "https://t.co/nfLXZUDtJe",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-04-19 21:08:37 +08:00",
-    "url": "https://twitter.com/FoxRed695449",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzgxMzA4ODY0NDM4MzQ1NzI4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Apr 19 13:08:37 +0000 2024",
-            "name": "RedFox（2代目）🇲🇴🇭🇰",
-            "screen_name": "FoxRed695449"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/redredfox002",
-                            "expanded_url": "https://t.me/redredfox002",
-                            "url": "https://t.co/nfLXZUDtJe",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 666,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 473,
-            "pinned_tweet_ids_str": [
-                "1935658649357340749"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/nfLXZUDtJe",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Hong Kong"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1858727151672938543",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/nfLXZUDtJe",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 934,
-                    "name": "Social Media Influencer",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/nfLXZUDtJe",
+                    "expanded_url": "https://t.me/redredfox002",
+                    "display_url": "t.me/redredfox002",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1713532117000,
-            "updated_at": 1750404913205
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2081,
+    "friends_count": 674,
+    "listed_count": 7,
+    "created_at": "Fri Apr 19 13:08:37 +0000 2024",
+    "favourites_count": 3780,
+    "verified": false,
+    "statuses_count": 1939,
+    "media_count": 572,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781308864438345728/1751302382",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1935658649357340749
+    ],
+    "pinned_tweet_ids_str": [
+        "1935658649357340749"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

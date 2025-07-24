@@ -1,86 +1,51 @@
 {
     "id": "1739391734491086848",
-    "screen_name": "IXXA00",
     "name": "isla",
-    "description": "可爱小妞，有🚪",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1752166561",
-    "followers_count": 3743,
-    "friends_count": 3152,
-    "statuses_count": 25560,
-    "favourites_count": 26053,
-    "listed_count": 6,
-    "location": "东百",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-12-26 05:04:51 +08:00",
-    "url": "https://twitter.com/IXXA00",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzM5MzkxNzM0NDkxMDg2ODQ4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Dec 25 21:04:51 +0000 2023",
-            "name": "isla",
-            "screen_name": "IXXA00"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 3152,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1911,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "东百"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1703538291000,
-            "updated_at": 1752846625712
+    "screen_name": "IXXA00",
+    "description": "团子外卖/可爱小妞，有🚪",
+    "location": "距离你 -18cm",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 3757,
+    "friends_count": 3152,
+    "listed_count": 5,
+    "created_at": "Mon Dec 25 21:04:51 +0000 2023",
+    "favourites_count": 26350,
+    "verified": false,
+    "statuses_count": 25858,
+    "media_count": 1934,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1940558275549806592/ocCFuINE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1752166561",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1947676446761357778
+    ],
+    "pinned_tweet_ids_str": [
+        "1947676446761357778"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,86 +1,47 @@
 {
     "id": "1924710110737334272",
-    "screen_name": "mx7383712668169",
     "name": "沐夕",
-    "description": "日常向/友跨顺男/泛性恋/想吃🍥版/大懒虫！/是08年9月哒/精神状态:良好/喜欢睡觉💤和安静的猫/杠精/减肥ing/具有选择互fo性\n\n大猫猫@flowers0952",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1926211622906802176/aJbDuICU_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924710110737334272/1750166583",
-    "followers_count": 111,
-    "friends_count": 253,
-    "statuses_count": 425,
-    "favourites_count": 916,
-    "listed_count": 0,
-    "location": "床上",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2025-05-20 14:15:30 +08:00",
-    "url": "https://twitter.com/mx7383712668169",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxOTI0NzEwMTEwNzM3MzM0Mjcy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1926211622906802176/aJbDuICU_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue May 20 06:15:30 +0000 2025",
-            "name": "沐夕",
-            "screen_name": "mx7383712668169"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 253,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 42,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "床上"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1747721730000,
-            "updated_at": 1752846528414
+    "screen_name": "mx7383712668169",
+    "description": "我是什么东西？我才不是东西!谁言夕阳无限好，只是讨厌刺眼的光(是真的，散光高)友跨顺男，且未翻车，有点想翻",
+    "location": "梦里",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 115,
+    "friends_count": 251,
+    "listed_count": 0,
+    "created_at": "Tue May 20 06:15:30 +0000 2025",
+    "favourites_count": 1030,
+    "verified": false,
+    "statuses_count": 461,
+    "media_count": 47,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1926211622906802176/aJbDuICU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924710110737334272/1750166583",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

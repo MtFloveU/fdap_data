@@ -1,103 +1,64 @@
 {
     "id": "1545787268501106688",
+    "name": "仿生初墨会梦见电子智障吗🍥",
     "screen_name": "zzzChumo",
-    "name": "⛩️ 神乐坂 墨初 🏳️‍⚧️🍥",
     "description": "有双相会发癫/中 Eng/無言フォロー失礼します/版权头图非请勿用/术术人/人称代词随意 但是被叫she her会很高兴/三代目/逃生舱@whatisnickidk/情商为0不会说话/智商为0放弃思考/机佬/热衷收集各种电子垃圾/四分之一个技术宅/错字受/沉迷刷推无法自拔/这个人懒死了，什么都没写 (⁠°∀⁠。)（？",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1886333649223868416/eRpWKwqP_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545787268501106688/1716975843",
-    "followers_count": 2313,
-    "friends_count": 972,
-    "statuses_count": 3226,
-    "favourites_count": 75084,
-    "listed_count": 6,
     "location": "地狱",
-    "website": "https://t.co/W0n01joHsj",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-07-09 23:09:53 +08:00",
-    "url": "https://twitter.com/zzzChumo",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTQ1Nzg3MjY4NTAxMTA2Njg4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1886333649223868416/eRpWKwqP_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Jul 09 15:09:53 +0000 2022",
-            "name": "⛩️ 神乐坂 墨初 🏳️‍⚧️🍥",
-            "screen_name": "zzzChumo"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "zzcm.fun",
-                            "expanded_url": "http://zzcm.fun",
-                            "url": "https://t.co/W0n01joHsj",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/W0n01joHsj",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/W0n01joHsj",
+                    "expanded_url": "http://zzcm.fun",
+                    "display_url": "zzcm.fun",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 972,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 782,
-            "pinned_tweet_ids_str": [
-                "1932777949692133812"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/W0n01joHsj",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "地狱"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "patreon_handle": "zzChumo"
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1657379393000,
-            "updated_at": 1752846595659
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2308,
+    "friends_count": 972,
+    "listed_count": 6,
+    "created_at": "Sat Jul 09 15:09:53 +0000 2022",
+    "favourites_count": 75928,
+    "verified": false,
+    "statuses_count": 3233,
+    "media_count": 787,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1886333649223868416/eRpWKwqP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545787268501106688/1716975843",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1932777949692133812
+    ],
+    "pinned_tweet_ids_str": [
+        "1932777949692133812"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

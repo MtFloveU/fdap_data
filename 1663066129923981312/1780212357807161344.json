@@ -1,98 +1,60 @@
 {
     "id": "1780212357807161344",
+    "name": "千早苏幽璃",
     "screen_name": "ChaserCHN0721",
-    "name": "七奈七奈七",
     "description": "INFP-T 🧬 | Asexual ⚪💜 | Embedded Linux 🧠🐧 | OpenSource 🛠️ | Android Modding 📱 | Magisk & LSPosed 🧩 | Transfeminine 🏳️‍⚧️ | @aoidailylife",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1821480594767044608/mE7Qw1Zg_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780212357807161344/1750828577",
-    "followers_count": 414,
-    "friends_count": 450,
-    "statuses_count": 2695,
-    "favourites_count": 7674,
-    "listed_count": 2,
     "location": "From /dev/null to your heart ❤",
-    "website": "https://t.co/dkB1p7CSdJ",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-04-16 20:31:35 +08:00",
-    "url": "https://twitter.com/ChaserCHN0721",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzgwMjEyMzU3ODA3MTYxMzQ0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1821480594767044608/mE7Qw1Zg_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Apr 16 12:31:35 +0000 2024",
-            "name": "七奈七奈七",
-            "screen_name": "ChaserCHN0721"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "github.com/Kagurazaka-Nana",
-                            "expanded_url": "https://github.com/Kagurazaka-Nana",
-                            "url": "https://t.co/dkB1p7CSdJ",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/dkB1p7CSdJ",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dkB1p7CSdJ",
+                    "expanded_url": "https://github.com/Kagurazaka-Nana",
+                    "display_url": "github.com/Kagurazaka-Nana",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 450,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 315,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/dkB1p7CSdJ",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "From /dev/null to your heart ❤"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1713270695000,
-            "updated_at": 1752846612950
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 414,
+    "friends_count": 450,
+    "listed_count": 2,
+    "created_at": "Tue Apr 16 12:31:35 +0000 2024",
+    "favourites_count": 7829,
+    "verified": false,
+    "statuses_count": 2717,
+    "media_count": 318,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1948063111216611328/oRFb1XV9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780212357807161344/1750828577",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
