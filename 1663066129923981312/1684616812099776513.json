@@ -1,86 +1,64 @@
 {
     "id": "1684616812099776513",
-    "screen_name": "Ce_404notfond",
     "name": "我還想和你談論宇宙和天空🌈⃤",
+    "screen_name": "Ce_404notfond",
     "description": "一般路过大陆南方网友\n请友善交流/淡推/友跨/不欢迎支黑",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1929005032516759557/LCGVs7dD_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684616812099776513/1690645741",
-    "followers_count": 627,
-    "friends_count": 954,
-    "statuses_count": 1599,
-    "favourites_count": 13114,
-    "listed_count": 1,
     "location": "距离你6km",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/Ce_404notfond",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjg0NjE2ODEyMDk5Nzc2NTEz",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1929005032516759557/LCGVs7dD_normal.jpg"
-        },
-        "core": {
-            "created_at": "Thu Jul 27 17:28:56 +0000 2023",
-            "name": "我還想和你談論宇宙和天空🌈⃤",
-            "screen_name": "Ce_404notfond"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
+    "url": "https://t.co/taKzk7w9bi",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/taKzk7w9bi",
+                    "expanded_url": "http://MtF.Report",
+                    "display_url": "MtF.Report",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 954,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 118,
-            "pinned_tweet_ids_str": [
-                "1841139718466965940"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "距离你6km"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219048360
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 660,
+    "friends_count": 875,
+    "listed_count": 1,
+    "created_at": "Thu Jul 27 17:28:56 +0000 2023",
+    "favourites_count": 16094,
+    "verified": false,
+    "statuses_count": 2038,
+    "media_count": 171,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1931795802734858240/EESgSzXu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684616812099776513/1690645741",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1931047808947392980
+    ],
+    "pinned_tweet_ids_str": [
+        "1931047808947392980"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

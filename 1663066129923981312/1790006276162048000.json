@@ -1,86 +1,51 @@
 {
     "id": "1790006276162048000",
-    "screen_name": "iCosint1978",
     "name": "Freunsigned 🇲🇴",
+    "screen_name": "iCosint1978",
     "description": "\"纵使萤火微芒，愿汇星河璀璨\" || 退役OIer || 𝑰 ❤️ 𝑴𝑨𝑪𝑨𝑶. || 🏳️‍🌈🏳️‍⚧️ || 🇭🇰🇲🇴🇨🇳 || 一国两制，和平统一 || 🇺🇸🇨🇦🇯🇵🇸🇬 || 100% 回fo || one China",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1943912291172249600/ssQzwuw9_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790006276162048000/1752299783",
-    "followers_count": 283,
-    "friends_count": 326,
-    "statuses_count": 813,
-    "favourites_count": 5463,
-    "listed_count": 1,
-    "location": "澳门大学 人文社科书院",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-05-13 21:08:58 +08:00",
-    "url": "https://twitter.com/iCosint1978",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzkwMDA2Mjc2MTYyMDQ4MDAw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1943912291172249600/ssQzwuw9_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon May 13 13:08:58 +0000 2024",
-            "name": "Freunsigned 🇲🇴",
-            "screen_name": "iCosint1978"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 326,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 67,
-            "pinned_tweet_ids_str": [
-                "1907798498302636269"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "澳门大学 人文社科书院"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1715605738000,
-            "updated_at": 1752846589901
+    "location": "澳门大学 荣誉学院",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 308,
+    "friends_count": 342,
+    "listed_count": 1,
+    "created_at": "Mon May 13 13:08:58 +0000 2024",
+    "favourites_count": 5969,
+    "verified": false,
+    "statuses_count": 1130,
+    "media_count": 70,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1943912291172249600/ssQzwuw9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790006276162048000/1752299783",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1907798498302636269
+    ],
+    "pinned_tweet_ids_str": [
+        "1907798498302636269"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

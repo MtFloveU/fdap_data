@@ -1,84 +1,47 @@
 {
     "id": "1805486587666644992",
+    "name": "Akira🅞Itona",
     "screen_name": "Asahi167503",
-    "name": "映🅞いとな",
     "description": "人生是妥协的延续",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1928804260235587590/EYkB9JHh_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805486587666644992/1752375321",
-    "followers_count": 324,
-    "friends_count": 2803,
-    "statuses_count": 472,
-    "favourites_count": 9285,
-    "listed_count": 1,
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-06-25 14:22:20 +08:00",
-    "url": "https://twitter.com/Asahi167503",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODA1NDg2NTg3NjY2NjQ0OTky",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1928804260235587590/EYkB9JHh_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Jun 25 06:22:20 +0000 2024",
-            "name": "映🅞いとな",
-            "screen_name": "Asahi167503"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2803,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 20,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1719296540000,
-            "updated_at": 1752846542404
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 333,
+    "friends_count": 2859,
+    "listed_count": 1,
+    "created_at": "Tue Jun 25 06:22:20 +0000 2024",
+    "favourites_count": 9845,
+    "verified": false,
+    "statuses_count": 538,
+    "media_count": 26,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1948268593159761920/9EHFc0ST_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805486587666644992/1752375321",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

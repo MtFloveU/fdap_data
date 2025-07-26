@@ -1,100 +1,64 @@
 {
     "id": "1845668678387515392",
-    "screen_name": "dilei114",
     "name": "爆浆地雷😘(淡推中)",
-    "description": "我会很友善的对待大家的哟 ✧(≖ ◡ ≖✿) 丨不对线｜会尽最大努力避免与任何人发生冲突｜想做个很温和的岁静人｜绝对不会主动骂人或人身攻击！｜很讨厌戾气重、乱骂人的人，见到了就屏蔽｜不会因立场不同而屏蔽或辱骂他人｜有时可能会出现误屏蔽的情况｜善待每一位能好好说话的推友❤️",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1928477544153759744/blr9epX7_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845668678387515392/1743343612",
-    "followers_count": 1100,
-    "friends_count": 637,
-    "statuses_count": 9899,
-    "favourites_count": 145590,
-    "listed_count": 2,
+    "screen_name": "dilei114",
+    "description": "我会很友善的对待大家的哟 ✧(≖ ◡ ≖✿) 丨不对线｜会尽最大努力避免与任何人发生冲突｜想做个很温和的岁静人｜绝对不会主动骂人或人身攻击！｜很讨厌乱骂人的人，见到了就屏蔽｜不会因立场不同而屏蔽或辱骂他人｜有时可能会出现误屏蔽的情况｜善待每一位能好好说话的推友❤️",
     "location": "D.P.R.KOREN",
-    "website": "https://t.co/li0aYkyZOF",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2024-10-14 11:31:27 +08:00",
-    "url": "https://twitter.com/dilei114",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODQ1NjY4Njc4Mzg3NTE1Mzky",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1928477544153759744/blr9epX7_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Oct 14 03:31:27 +0000 2024",
-            "name": "爆浆地雷😘(淡推中)",
-            "screen_name": "dilei114"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "18comic.vip",
-                            "expanded_url": "http://18comic.vip",
-                            "url": "https://t.co/li0aYkyZOF",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/Gv9IRu64Ni",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/Gv9IRu64Ni",
+                    "expanded_url": "http://18comic.vip",
+                    "display_url": "18comic.vip",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 637,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 905,
-            "pinned_tweet_ids_str": [
-                "1913817499562639368"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/li0aYkyZOF",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "D.P.R.KOREN"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1728876687000,
-            "updated_at": 1752846611714
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 1104,
+    "friends_count": 639,
+    "listed_count": 3,
+    "created_at": "Mon Oct 14 03:31:27 +0000 2024",
+    "favourites_count": 148539,
+    "verified": false,
+    "statuses_count": 9978,
+    "media_count": 917,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1928477544153759744/blr9epX7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845668678387515392/1743343612",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1913817499562639368
+    ],
+    "pinned_tweet_ids_str": [
+        "1913817499562639368"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
