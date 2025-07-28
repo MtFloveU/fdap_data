@@ -1,97 +1,51 @@
 {
     "id": "1768924783734104064",
-    "screen_name": "shindeiru_ai",
     "name": "星野酱太可爱了🥰",
-    "description": "主动型虚无主义(active nihilism)\n|16岁高中生 |幻想哥布林\n🥺周一到周五不在狸\n有时会用ai生图\n星怒⭐😡@karakara_void",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1945809513816170497/vqKkKeCE_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768924783734104064/1752209773",
-    "followers_count": 730,
-    "friends_count": 2304,
-    "statuses_count": 2850,
-    "favourites_count": 9191,
-    "listed_count": 1,
+    "screen_name": "shindeiru_ai",
+    "description": "低强度上推/主动型虚无主义(active nihilism)\n|16岁高中生 |幻想哥布林\n有时会用ai生图\n星怒⭐😡@karakara_void",
     "location": "鸡窝托斯",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-03-16 16:58:41 +08:00",
-    "url": "https://twitter.com/shindeiru_ai",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzY4OTI0NzgzNzM0MTA0MDY0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1945809513816170497/vqKkKeCE_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Mar 16 08:58:41 +0000 2024",
-            "name": "星野酱太可爱了🥰",
-            "screen_name": "shindeiru_ai"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2304,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 936,
-            "pinned_tweet_ids_str": [
-                "1943392081994481973"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "鸡窝托斯"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1903107380772213013",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1710579521000,
-            "updated_at": 1752846530563
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 760,
+    "friends_count": 2495,
+    "listed_count": 1,
+    "created_at": "Sat Mar 16 08:58:41 +0000 2024",
+    "favourites_count": 9771,
+    "verified": false,
+    "statuses_count": 2949,
+    "media_count": 964,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1948966542810775557/xkovzGIY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768924783734104064/1753459943",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1946089498347196502
+    ],
+    "pinned_tweet_ids_str": [
+        "1946089498347196502"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

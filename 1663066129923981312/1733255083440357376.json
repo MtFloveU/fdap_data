@@ -1,116 +1,51 @@
 {
     "id": "1733255083440357376",
-    "screen_name": "8964_xy11",
     "name": "曦夜（一般通过版本）",
-    "description": "尊重任何意识形态｜互fo互动大欢迎｜",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1930081381373358083/-W4GJvyu_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733255083440357376/1746624771",
-    "followers_count": 990,
-    "friends_count": 724,
-    "statuses_count": 3369,
-    "favourites_count": 37809,
-    "listed_count": 5,
+    "screen_name": "8964_xy11",
+    "description": "低精度伪人生物/任何互动互fo欢迎",
     "location": "Anywhere",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-12-09 06:40:22 +08:00",
-    "url": "https://twitter.com/8964_xy11",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzMzMjU1MDgzNDQwMzU3Mzc2",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @8964reckless_",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 27,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "8964reckless_",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "8964reckless_"
-                                        },
-                                        "rest_id": "1882697857393893376"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1930081381373358083/-W4GJvyu_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Dec 08 22:40:22 +0000 2023",
-            "name": "曦夜（一般通过版本）",
-            "screen_name": "8964_xy11"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 724,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 120,
-            "pinned_tweet_ids_str": [
-                "1933179098630906233"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Anywhere"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1702075222000,
-            "updated_at": 1750404916085
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1018,
+    "friends_count": 756,
+    "listed_count": 6,
+    "created_at": "Fri Dec 08 22:40:22 +0000 2023",
+    "favourites_count": 39132,
+    "verified": false,
+    "statuses_count": 2870,
+    "media_count": 94,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1930081381373358083/-W4GJvyu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733255083440357376/1751144291",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1949177395099115846
+    ],
+    "pinned_tweet_ids_str": [
+        "1949177395099115846"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

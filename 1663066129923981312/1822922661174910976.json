@@ -1,88 +1,51 @@
 {
     "id": "1822922661174910976",
-    "screen_name": "kongjingxiao94",
     "name": "古関ウイ🇭🇰🇲🇴🇯🇵🇩🇪",
+    "screen_name": "K4ALS__0486",
     "description": "丨拒极端粉红丨理性看待一切事物，细致分析问题。国家需采取强硬措施改变现状\n    淡推中\n礼貌互挂@LiciiQAQ",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1884912807071895552/GNmJGAiW_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822922661174910976/1749304422",
-    "followers_count": 741,
-    "friends_count": 751,
-    "statuses_count": 2600,
-    "favourites_count": 9525,
-    "listed_count": 2,
     "location": "雪国",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-08-12 17:07:00 +08:00",
-    "url": "https://twitter.com/kongjingxiao94",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODIyOTIyNjYxMTc0OTEwOTc2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1884912807071895552/GNmJGAiW_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Aug 12 09:07:00 +0000 2024",
-            "name": "古関ウイ🇭🇰🇲🇴🇯🇵🇩🇪",
-            "screen_name": "kongjingxiao94"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 751,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 179,
-            "pinned_tweet_ids_str": [
-                "1908798345272795619"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "雪国"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1723453620000,
-            "updated_at": 1752846595659
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 748,
+    "friends_count": 751,
+    "listed_count": 2,
+    "created_at": "Mon Aug 12 09:07:00 +0000 2024",
+    "favourites_count": 9817,
+    "verified": false,
+    "statuses_count": 2665,
+    "media_count": 182,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1884912807071895552/GNmJGAiW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822922661174910976/1749304422",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1908798345272795619
+    ],
+    "pinned_tweet_ids_str": [
+        "1908798345272795619"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

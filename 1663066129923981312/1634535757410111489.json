@@ -1,100 +1,47 @@
 {
     "id": "1634535757410111489",
-    "screen_name": "woshi_caicai",
     "name": "虹雨",
-    "description": "soyorin love~我的discord在这↓",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1923338673476816897/TtY_Yipm_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634535757410111489/1738046559",
-    "followers_count": 316,
-    "friends_count": 203,
-    "statuses_count": 2791,
-    "favourites_count": 7252,
-    "listed_count": 4,
+    "screen_name": "woshi_caicai",
+    "description": "soyorin love~",
     "location": "",
-    "website": "https://t.co/WtwxBThv40",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-03-11 20:44:37 +08:00",
-    "url": "https://twitter.com/woshi_caicai",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjM0NTM1NzU3NDEwMTExNDg5",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1923338673476816897/TtY_Yipm_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Mar 11 12:44:37 +0000 2023",
-            "name": "虹雨",
-            "screen_name": "woshi_caicai"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "discord.gg/cV8CZHDz",
-                            "expanded_url": "https://discord.gg/cV8CZHDz",
-                            "url": "https://t.co/WtwxBThv40",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 203,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 102,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/WtwxBThv40",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1678538677000,
-            "updated_at": 1752846589901
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 339,
+    "friends_count": 187,
+    "listed_count": 4,
+    "created_at": "Sat Mar 11 12:44:37 +0000 2023",
+    "favourites_count": 8048,
+    "verified": false,
+    "statuses_count": 3008,
+    "media_count": 113,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1948642937094492160/HKRsVsPQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634535757410111489/1738046559",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

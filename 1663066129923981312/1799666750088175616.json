@@ -1,86 +1,51 @@
 {
     "id": "1799666750088175616",
+    "name": "神樂坂🌸莉可（淡推.ing",
     "screen_name": "LycoReco_neneko",
-    "name": "神樂坂🌸莉可🐱",
     "description": "铃兰小姐我们的光！(雾）\n欢迎互相关注owo/\n不鉴证/猫猫\\学生党/好朋友 @my9361231136899 /主人 @owl8964cat /喜欢的@Tsugaru_1997 osu 4K 2300pp /yes lolita no touch /原神/源神/明日方舟/蔚蓝档案/蓝孩纸",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915776786039967744/CuNHRIfS_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799666750088175616/1717914070",
-    "followers_count": 444,
-    "friends_count": 443,
-    "statuses_count": 5046,
-    "favourites_count": 31388,
-    "listed_count": 2,
     "location": "二次元",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/LycoReco_neneko",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzk5NjY2NzUwMDg4MTc1NjE2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1915776786039967744/CuNHRIfS_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Jun 09 04:59:07 +0000 2024",
-            "name": "神樂坂🌸莉可🐱",
-            "screen_name": "LycoReco_neneko"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 443,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 2470,
-            "pinned_tweet_ids_str": [
-                "1925176522945814696"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "二次元"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219069841
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 465,
+    "friends_count": 464,
+    "listed_count": 3,
+    "created_at": "Sun Jun 09 04:59:07 +0000 2024",
+    "favourites_count": 34870,
+    "verified": false,
+    "statuses_count": 5517,
+    "media_count": 2697,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1949010684014145536/8vsKb2h-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799666750088175616/1717914070",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1925176522945814696
+    ],
+    "pinned_tweet_ids_str": [
+        "1925176522945814696"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

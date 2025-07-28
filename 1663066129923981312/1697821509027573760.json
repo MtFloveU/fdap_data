@@ -1,97 +1,47 @@
 {
     "id": "1697821509027573760",
+    "name": "叶洛洛🍥",
     "screen_name": "xiaoyeluo",
-    "name": "叶洛洛落落🍥",
     "description": "🌟Good luck!🌟\n05/mtf/休学中～/~同类互fo哦~/大猫猫老公@H03949416",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1929307489532571648/T6X6OKR8_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697821509027573760/1745790049",
-    "followers_count": 351,
-    "friends_count": 562,
-    "statuses_count": 252,
-    "favourites_count": 1704,
-    "listed_count": 0,
     "location": "襄阳",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-09-02 11:59:36 +08:00",
-    "url": "https://twitter.com/xiaoyeluo",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjk3ODIxNTA5MDI3NTczNzYw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1929307489532571648/T6X6OKR8_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Sep 02 03:59:36 +0000 2023",
-            "name": "叶洛洛落落🍥",
-            "screen_name": "xiaoyeluo"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 562,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 17,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "襄阳"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1868383023244411216",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 999,
-                    "name": "Media Manufacturing Company",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1693627176000,
-            "updated_at": 1750232262453
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 355,
+    "friends_count": 561,
+    "listed_count": 0,
+    "created_at": "Sat Sep 02 03:59:36 +0000 2023",
+    "favourites_count": 1710,
+    "verified": false,
+    "statuses_count": 259,
+    "media_count": 17,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1929307489532571648/T6X6OKR8_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697821509027573760/1745790049",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

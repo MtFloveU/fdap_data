@@ -1,100 +1,64 @@
 {
     "id": "1865831426303897600",
-    "screen_name": "Zero_158_Kana",
     "name": "北雁梦 - ドリームランド システム",
-    "description": "你们好！我们是北雁梦系统，目前可能在崩溃掉\n/无证hrt2025.1.10\n/里推：@DreamlandSysSub\n/Lover：@calsym456 @AsdQWD358224 @Caroline_9870",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1940127451700416512/Uey-rF84_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865831426303897600/1751923528",
-    "followers_count": 1135,
-    "friends_count": 830,
-    "statuses_count": 5448,
-    "favourites_count": 9482,
-    "listed_count": 8,
+    "screen_name": "Zero_158_Kana",
+    "description": "你们好！我们是北雁梦系统，目前暂时是零酱主导\n/无证hrt2025.1.10\n/里推：@DreamlandSysSub\n/Lover：@calsym456 @AsdQWD358224 @Caroline_9870",
     "location": "梦之彼岸",
-    "website": "https://t.co/ZxXMCZ2ANC",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-12-09 02:51:06 +08:00",
-    "url": "https://twitter.com/Zero_158_Kana",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODY1ODMxNDI2MzAzODk3NjAw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1940127451700416512/Uey-rF84_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Dec 08 18:51:06 +0000 2024",
-            "name": "北雁梦 - ドリームランド システム",
-            "screen_name": "Zero_158_Kana"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/zero_158gjzr",
-                            "expanded_url": "https://ngl.link/zero_158gjzr",
-                            "url": "https://t.co/ZxXMCZ2ANC",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/ZxXMCZ2ANC",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ZxXMCZ2ANC",
+                    "expanded_url": "https://ngl.link/zero_158gjzr",
+                    "display_url": "ngl.link/zero_158gjzr",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 830,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 301,
-            "pinned_tweet_ids_str": [
-                "1940194691842285589"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/ZxXMCZ2ANC",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "梦之彼岸"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1733683866000,
-            "updated_at": 1752846614298
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1133,
+    "friends_count": 828,
+    "listed_count": 8,
+    "created_at": "Sun Dec 08 18:51:06 +0000 2024",
+    "favourites_count": 9551,
+    "verified": false,
+    "statuses_count": 5506,
+    "media_count": 307,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1940127451700416512/Uey-rF84_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865831426303897600/1751923528",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1940194691842285589
+    ],
+    "pinned_tweet_ids_str": [
+        "1940194691842285589"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

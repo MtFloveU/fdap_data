@@ -1,102 +1,64 @@
 {
     "id": "1818678630824001538",
+    "name": "Misako～美沙子喵",
     "screen_name": "Misako_25ji",
-    "name": "Misako～美沙子喵🏳️‍⚧️",
-    "description": "寻找着坟墓与审判。｜主人：@zqtlovekris99｜小狗：@Silicium_28 好き@Cano_3118 @TsunamiLight｜常驻杭州｜全国可飞｜链接可以投喂哦!｜🚪50 （可加微信/QQ） 推特私信免费～",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818678630824001538/1751207171",
-    "followers_count": 2168,
-    "friends_count": 1027,
-    "statuses_count": 800,
-    "favourites_count": 1281,
-    "listed_count": 4,
+    "description": "朝霞和晚霞都消失不见。",
     "location": "Inkar-usi.",
-    "website": "https://t.co/YlSr2fYoKq",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-08-01 00:02:39 +08:00",
-    "url": "https://twitter.com/Misako_25ji",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODE4Njc4NjMwODI0MDAxNTM4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Jul 31 16:02:39 +0000 2024",
-            "name": "Misako～美沙子喵🏳️‍⚧️",
-            "screen_name": "Misako_25ji"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "buy.stripe.com/6oE3fLdpFdqm2q…",
-                            "expanded_url": "https://buy.stripe.com/6oE3fLdpFdqm2qs9AD",
-                            "url": "https://t.co/YlSr2fYoKq",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/YlSr2fYWzY",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/YlSr2fYWzY",
+                    "expanded_url": "https://buy.stripe.com/6oE3fLdpFdqm2qs9AD",
+                    "display_url": "buy.stripe.com/6oE3fLdpFdqm2q…",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1027,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 149,
-            "pinned_tweet_ids_str": [
-                "1945078556163297391"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/YlSr2fYoKq",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "Inkar-usi."
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1722441759000,
-            "updated_at": 1752846615357
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2169,
+    "friends_count": 1023,
+    "listed_count": 4,
+    "created_at": "Wed Jul 31 16:02:39 +0000 2024",
+    "favourites_count": 1283,
+    "verified": false,
+    "statuses_count": 805,
+    "media_count": 149,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818678630824001538/1751207171",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1945078556163297391
+    ],
+    "pinned_tweet_ids_str": [
+        "1945078556163297391"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

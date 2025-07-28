@@ -1,86 +1,51 @@
 {
     "id": "1662540652029304832",
-    "screen_name": "Mira10022568",
     "name": " Sky（泰补预售版）",
-    "description": "可咨询HRT、手术问题｜出糖｜手术陪护｜SRS25.2.10｜ 姐姐@Leighton1962610",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1906869103278862336/SFVdt4pv_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662540652029304832/1691075372",
-    "followers_count": 2302,
-    "friends_count": 1427,
-    "statuses_count": 10317,
-    "favourites_count": 47269,
-    "listed_count": 3,
+    "screen_name": "Mira10022568",
+    "description": "可咨询HRT、手术问题｜出糖｜手术咨询｜SRS25.2.10｜ 姐姐@Leighton1962610",
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-05-28 03:26:11 +08:00",
-    "url": "https://twitter.com/Mira10022568",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjYyNTQwNjUyMDI5MzA0ODMy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1906869103278862336/SFVdt4pv_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat May 27 19:26:11 +0000 2023",
-            "name": " Sky（泰补预售版）",
-            "screen_name": "Mira10022568"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1427,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 143,
-            "pinned_tweet_ids_str": [
-                "1880614863397097587"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1685215571000,
-            "updated_at": 1752846625712
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2360,
+    "friends_count": 1425,
+    "listed_count": 4,
+    "created_at": "Sat May 27 19:26:11 +0000 2023",
+    "favourites_count": 47473,
+    "verified": false,
+    "statuses_count": 10351,
+    "media_count": 143,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1906869103278862336/SFVdt4pv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662540652029304832/1691075372",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1880614863397097587
+    ],
+    "pinned_tweet_ids_str": [
+        "1880614863397097587"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

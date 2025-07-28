@@ -1,100 +1,64 @@
 {
     "id": "1705975905167020032",
+    "name": "云汐",
     "screen_name": "EmoooNET",
-    "name": "云星汐璇",
     "description": "年份: 2007 / 身高: 166cm / 体重: 55kg（减肥 ing...目标体重 50kg） / 语言：PHP、JS、TS / Web 全栈开发 / 有对象了 私信已关 请勿打扰 不必在意名字，昵称有时改变",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1899247971017125888/KYSy9Nvw_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705975905167020032/1744167590",
-    "followers_count": 2906,
-    "friends_count": 2095,
-    "statuses_count": 1470,
-    "favourites_count": 1144,
-    "listed_count": 6,
     "location": "",
-    "website": "https://t.co/yqcZ9ZzC1i",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-09-25 00:02:16 +08:00",
-    "url": "https://twitter.com/EmoooNET",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzA1OTc1OTA1MTY3MDIwMDMy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1899247971017125888/KYSy9Nvw_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Sep 24 16:02:16 +0000 2023",
-            "name": "云星汐璇",
-            "screen_name": "EmoooNET"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "emooo.net",
-                            "expanded_url": "https://emooo.net",
-                            "url": "https://t.co/yqcZ9ZzC1i",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/yqcZ9Zz4bK",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/yqcZ9Zz4bK",
+                    "expanded_url": "https://emooo.net",
+                    "display_url": "emooo.net",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2095,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 79,
-            "pinned_tweet_ids_str": [
-                "1891639129462517910"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/yqcZ9ZzC1i",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1695571336000,
-            "updated_at": 1752846614298
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2915,
+    "friends_count": 2099,
+    "listed_count": 6,
+    "created_at": "Sun Sep 24 16:02:16 +0000 2023",
+    "favourites_count": 1158,
+    "verified": false,
+    "statuses_count": 1514,
+    "media_count": 78,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1949572894155272192/lBx_km7C_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705975905167020032/1753649422",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1891639129462517910
+    ],
+    "pinned_tweet_ids_str": [
+        "1891639129462517910"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

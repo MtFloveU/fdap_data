@@ -1,102 +1,64 @@
 {
     "id": "1668037836996771840",
-    "screen_name": "cha_li_jin",
     "name": "天才少女察里津",
-    "description": "🏳️‍⚧️🍥丨人类观测日记，亲密关系回避型，阴湿开朗系长发男，我发癫请你别当真，梦想成为技术全能型丨个人照片请戳“媒体”，扩列条请戳下面的网址丨没有门槛，不接线下丨最爱的： @heinai6丨负能发泄小号 @luckin_coffee_  不过人",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1937802250342322176/YVx9onB8_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668037836996771840/1751078395",
-    "followers_count": 3115,
-    "friends_count": 656,
-    "statuses_count": 1356,
-    "favourites_count": 7186,
-    "listed_count": 12,
+    "screen_name": "cha_li_jin",
+    "description": "🏳️‍⚧️🍥含糖mtf丨人类观测日记，亲密关系回避型，阴湿开朗系长发男，我发癫请别当真，梦想成为技术全能型丨个人照片请戳“媒体”，扩列条请戳下面的网址丨大二网安在读，无门槛，不线下丨最爱的： @heinai6丨负能小号 @luckin_coffee_",
     "location": "距你114m",
-    "website": "https://t.co/TUSit4woVz",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-06-12 07:29:56 +08:00",
-    "url": "https://twitter.com/cha_li_jin",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjY4MDM3ODM2OTk2NzcxODQw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1937802250342322176/YVx9onB8_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Jun 11 23:29:56 +0000 2023",
-            "name": "天才少女察里津",
-            "screen_name": "cha_li_jin"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "blog.tsaritsyn.com",
-                            "expanded_url": "http://blog.tsaritsyn.com",
-                            "url": "https://t.co/TUSit4woVz",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/TUSit4woVz",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TUSit4woVz",
+                    "expanded_url": "http://blog.tsaritsyn.com",
+                    "display_url": "blog.tsaritsyn.com",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 656,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 169,
-            "pinned_tweet_ids_str": [
-                "1940983556492435942"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/TUSit4woVz",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "距你114m"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1686526196000,
-            "updated_at": 1752846622590
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 3434,
+    "friends_count": 675,
+    "listed_count": 12,
+    "created_at": "Sun Jun 11 23:29:56 +0000 2023",
+    "favourites_count": 7610,
+    "verified": false,
+    "statuses_count": 1423,
+    "media_count": 178,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1937802250342322176/YVx9onB8_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668037836996771840/1751078395",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1940983556492435942
+    ],
+    "pinned_tweet_ids_str": [
+        "1940983556492435942"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
