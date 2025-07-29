@@ -1,86 +1,51 @@
 {
     "id": "1825991186701524992",
+    "name": "男村群同誇我強有力",
     "screen_name": "Young2568",
-    "name": "資本被我做局了",
     "description": "「我就知道！什麼他爹的公司殖民主義，狗屁，你就是為了你那個果兒！」",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1905919207617056768/I6CSeWzt_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825991186701524992/1743711232",
-    "followers_count": 510,
-    "friends_count": 312,
-    "statuses_count": 10907,
-    "favourites_count": 27924,
-    "listed_count": 5,
     "location": "大官僚資產階級反革命司令部",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2024-08-21 04:20:06 +08:00",
-    "url": "https://twitter.com/Young2568",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODI1OTkxMTg2NzAxNTI0OTky",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1905919207617056768/I6CSeWzt_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Aug 20 20:20:06 +0000 2024",
-            "name": "資本被我做局了",
-            "screen_name": "Young2568"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 312,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 875,
-            "pinned_tweet_ids_str": [
-                "1936015358206316570"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "大官僚資產階級反革命司令部"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1724185206000,
-            "updated_at": 1752846544493
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 510,
+    "friends_count": 318,
+    "listed_count": 5,
+    "created_at": "Tue Aug 20 20:20:06 +0000 2024",
+    "favourites_count": 28695,
+    "verified": false,
+    "statuses_count": 11207,
+    "media_count": 892,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1905919207617056768/I6CSeWzt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825991186701524992/1743711232",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1936015358206316570
+    ],
+    "pinned_tweet_ids_str": [
+        "1936015358206316570"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
