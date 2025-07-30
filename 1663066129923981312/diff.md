@@ -1,13 +1,8 @@
-🕒Time: `2025-07-29 21:36:53 `
-📊Total followers: `1336`, following: `1051`
+🕒Time: `2025-07-30 14:47:03 `
+📊Total followers: `1338`, following: `1051`
 *Mutual Unfollow or Removal:*
-`Swayeeee` @`SWAYE12138`
-`譞譞譞譞譞🍀` @`Sudo2c897ssVer`
-`🏳️‍⚧️eepy🏳️‍⚧️` @`eepiestfox`
-
-*One-Way Unfollowers:*
-`一裏醬` @`Hitori_Gotoh520`
+`🍥青木里美🏳️‍⚧️` @`qing_mu31199`
 
 *Returning Follows:*
-`神仙水水猫🍕🧊` @`sxshuishuimao`
-`晓漓` @`AGXiaoLi`
+`Topia Urbica🍥` @`Topia_Urbica`
+`Swayeeee` @`SWAYE12138`

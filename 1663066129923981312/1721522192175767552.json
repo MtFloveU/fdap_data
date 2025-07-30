@@ -1,58 +1,51 @@
 {
     "id": "1721522192175767552",
+    "name": "Saint Monika「🏳️‍⚧️」",
     "screen_name": "Sa1ntM0n1ka",
-    "name": "Saint Monika · ナツメ アヤノ · 永雏塔黑猫「🏳️‍⚧️」",
     "description": "mtx🏳️‍⚧️/永久锁推 / 彼女 @NeneK0SMTWTF5_",
     "location": "猫猫星",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1906339202633191424/M2h89AL7_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721522192175767552/1740062875",
-    "followers_count": 1243,
-    "statuses_count": 2219,
-    "favourites_count": 50536,
-    "listed_count": 5,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2023-11-06 21:37:41 +08:00",
-    "url": "https://twitter.com/Sa1ntM0n1ka",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzIxNTIyMTkyMTc1NzY3NTUy",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1426,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 210,
-            "pinned_tweet_ids_str": [
-                "1878589499758043288"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1699277861000,
-            "updated_at": 1744350115040
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1306,
+    "friends_count": 1534,
+    "listed_count": 5,
+    "created_at": "Mon Nov 06 13:37:41 +0000 2023",
+    "favourites_count": 50010,
+    "verified": false,
+    "statuses_count": 2539,
+    "media_count": 269,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1913480776211148800/W56mKzsV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721522192175767552/1740062875",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1934798775551406435
+    ],
+    "pinned_tweet_ids_str": [
+        "1934798775551406435"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

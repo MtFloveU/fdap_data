@@ -1,100 +1,64 @@
 {
     "id": "1292153413573251073",
+    "name": "東風谷サブリン",
     "screen_name": "Sablinkochi1966",
-    "name": "📕🚩⚙️東風归来在天安门草死习近平8964防盗",
-    "description": "【三代目】某个三起三落左逼mtf复出丨革命无罪，造反有理/Marx-Lenin-Maoist 战无不胜的马克思列宁主义毛泽东思想万岁！/坐标左上偏下丨🏳️‍🌈🏳️‍⚧️LGBTQIA+友好丨革命风暴席卷全球，美帝中修必将灭亡丨互fo丨Stand with️🇵🇸🇺🇦",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1821826495830224899/D_cJQ9yH_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292153413573251073/1721197451",
-    "followers_count": 651,
-    "friends_count": 880,
-    "statuses_count": 840,
-    "favourites_count": 5282,
-    "listed_count": 2,
-    "location": "某扒衣地下室初生革命造反总司令部",
-    "website": "https://t.co/9lBzrLc8jQ",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/Sablinkochi1966",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMjkyMTUzNDEzNTczMjUxMDcz",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1821826495830224899/D_cJQ9yH_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Aug 08 17:39:26 +0000 2020",
-            "name": "📕🚩⚙️東風归来在天安门草死习近平8964防盗",
-            "screen_name": "Sablinkochi1966"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/transmarisa",
-                            "expanded_url": "http://t.me/transmarisa",
-                            "url": "https://t.co/9lBzrLc8jQ",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "description": "eng/中文/日本語勉強中丨愛音&魔理沙は激推し丨i lick up everything yuri丨might post my art and cosplays here sometimes丨BF!!! (or gf) @hatatewife 💞💞💞丨deleting my old posts",
+    "location": "Sulli-chan’s bed",
+    "url": "https://t.co/9lBzrLcG9o",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/9lBzrLcG9o",
+                    "expanded_url": "http://t.me/transmarisa",
+                    "display_url": "t.me/transmarisa",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 880,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 50,
-            "pinned_tweet_ids_str": [
-                "1757668966225621453"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/9lBzrLc8jQ",
-            "want_retweets": false,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "某扒衣地下室初生革命造反总司令部"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219048360
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 639,
+    "friends_count": 866,
+    "listed_count": 3,
+    "created_at": "Sat Aug 08 17:39:26 +0000 2020",
+    "favourites_count": 5524,
+    "verified": false,
+    "statuses_count": 235,
+    "media_count": 6,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1950219089638805507/pr49-apN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292153413573251073/1753803450",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1757668966225621453
+    ],
+    "pinned_tweet_ids_str": [
+        "1757668966225621453"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
