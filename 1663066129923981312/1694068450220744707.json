@@ -1,96 +1,61 @@
 {
     "id": "1694068450220744707",
-    "screen_name": "YS97OwO",
     "name": "游笙OωO",
-    "description": "🇨🇳大学生一名/轻小说&漫画&音游🥰/#maimai #Arcaea #CHUNITHM #Phigros #プロセカ/除音游外部分游戏均游玩过/Bilibili同名/互fo🉑/小号：①bluesky：https://t.co/XjEX0sUhIc  ②@ys97O_O（里）",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694068450220744707/1744550559",
-    "followers_count": 749,
-    "friends_count": 3932,
-    "statuses_count": 26591,
-    "favourites_count": 76723,
-    "listed_count": 6,
+    "screen_name": "YS97OwO",
+    "description": "🇨🇳大学生一名/轻小说&漫画&音游🥰/#maimai #Arcaea #CHUNITHM #Phigros #プロセカ/除音游外部分游戏均游玩过/Bilibili同名/互fo🉑/副账号：①bluesky：https://t.co/XjEX0sUhIc  ②@ys97O_O（日常&避难）",
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-08-23 03:26:15 +08:00",
-    "url": "https://twitter.com/YS97OwO",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjk0MDY4NDUwMjIwNzQ0NzA3",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Aug 22 19:26:15 +0000 2023",
-            "name": "游笙OωO",
-            "screen_name": "YS97OwO"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "ys1230.bsky.social",
-                            "expanded_url": "http://ys1230.bsky.social",
-                            "url": "https://t.co/XjEX0sUhIc",
-                            "indices": [
-                                101,
-                                124
-                            ]
-                        }
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/XjEX0sUhIc",
+                    "expanded_url": "http://ys1230.bsky.social",
+                    "display_url": "ys1230.bsky.social",
+                    "indices": [
+                        102,
+                        125
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 3932,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 2852,
-            "pinned_tweet_ids_str": [
-                "1854553242308686210"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1692732375000,
-            "updated_at": 1752846530563
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 717,
+    "friends_count": 4037,
+    "listed_count": 6,
+    "created_at": "Tue Aug 22 19:26:15 +0000 2023",
+    "favourites_count": 78346,
+    "verified": false,
+    "statuses_count": 27073,
+    "media_count": 2885,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694068450220744707/1744550559",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1854553242308686210
+    ],
+    "pinned_tweet_ids_str": [
+        "1854553242308686210"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

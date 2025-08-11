@@ -1,145 +1,64 @@
 {
     "id": "1804154448215969795",
+    "name": "枫糖万叶喵",
     "screen_name": "bushi_8964",
-    "name": "枫糖万叶喵⛩️ (贴贴bot)",
-    "description": "是一只猫猫｜喜欢推油们😘｜淡推ing｜坐标天津｜成分复杂｜mtf/x｜最爱的@Benji_Dune｜姐姐 @Moningmeng｜好朋友@mizuki_bot ｜早晚会似.小号: @bushi_233",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1942494297535692801/PQlihxX2_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804154448215969795/1751378198",
-    "followers_count": 595,
-    "friends_count": 1042,
-    "statuses_count": 2603,
-    "favourites_count": 6431,
-    "listed_count": 2,
+    "description": "是一只猫猫｜喜欢推油们😘｜淡推ing｜坐标天津｜成分复杂｜🏳️‍⚧️mtf/x｜最爱的@Benji_Dune｜姐姐 @Moningmeng｜好朋友@mizuki_bot ｜早晚会似.小号: @bushi_233",
     "location": "IP属地：璃月港",
-    "website": "https://t.co/eHYOCP1WJf",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-06-21 22:08:50 +08:00",
-    "url": "https://twitter.com/bushi_8964",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODA0MTU0NDQ4MjE1OTY5Nzk1",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @aaazbushi",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 23,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "aaazbushi",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "aaazbushi"
-                                        },
-                                        "rest_id": "1842810157417582592"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1942494297535692801/PQlihxX2_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Jun 21 14:08:50 +0000 2024",
-            "name": "枫糖万叶喵⛩️ (贴贴bot)",
-            "screen_name": "bushi_8964"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "bsky.app/profile/bushi-…",
-                            "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
-                            "url": "https://t.co/eHYOCP1WJf",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1042,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 260,
-            "notifications": true,
-            "pinned_tweet_ids_str": [
-                "1941798200882680157"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/eHYOCP1WJf",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "IP属地：璃月港"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1842818262603841753",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/eHYOCP1WJf",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 530,
-                    "name": "Astrologist",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/eHYOCP1WJf",
+                    "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
+                    "display_url": "bsky.app/profile/bushi-…",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "bitcoin_handle": "3D5hhE38Zpv5kM8qyu5ZwHWkEJXADh59vS"
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1718978930000,
-            "updated_at": 1752846619818
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 716,
+    "friends_count": 1120,
+    "listed_count": 2,
+    "created_at": "Fri Jun 21 14:08:50 +0000 2024",
+    "favourites_count": 7681,
+    "verified": false,
+    "statuses_count": 2927,
+    "media_count": 328,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1953129643411902464/fhUX5qjh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804154448215969795/1751378198",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1941798200882680157
+    ],
+    "pinned_tweet_ids_str": [
+        "1941798200882680157"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": true,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

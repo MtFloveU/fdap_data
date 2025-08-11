@@ -1,37 +1,24 @@
 {
     "id": "1608817124704923648",
-    "name": "怡布啦",
+    "name": "布栖栖",
     "screen_name": "Hyperbubuemia",
     "description": "🐹🍄🤍🏳️‍⚧️🍥",
     "location": "Hamilton 厦门",
-    "url": "https://t.co/MymzkbOZxy",
+    "url": null,
     "entities": {
-        "url": {
-            "urls": [
-                {
-                    "url": "https://t.co/MymzkbOZxy",
-                    "expanded_url": "http://nursing.mcmaster.ca",
-                    "display_url": "nursing.mcmaster.ca",
-                    "indices": [
-                        0,
-                        23
-                    ]
-                }
-            ]
-        },
         "description": {
             "urls": []
         }
     },
     "protected": false,
-    "followers_count": 943,
-    "friends_count": 777,
+    "followers_count": 956,
+    "friends_count": 785,
     "listed_count": 2,
     "created_at": "Fri Dec 30 13:28:18 +0000 2022",
-    "favourites_count": 10920,
+    "favourites_count": 11332,
     "verified": false,
-    "statuses_count": 6062,
-    "media_count": 346,
+    "statuses_count": 6161,
+    "media_count": 348,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1926685459117174784/DcnD654N_normal.jpg",

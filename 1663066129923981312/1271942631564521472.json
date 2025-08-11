@@ -1,88 +1,51 @@
 {
     "id": "1271942631564521472",
-    "screen_name": "KoishinFlandre",
     "name": "koishi！🏳️‍⚧️🍥",
-    "description": "咱喜歡你!這裡是來自河南的小藥娘一枚～有時候會發自己的照片喵，不時在線，可以來找咱私聊喵～姐姐 @ShengTian22332 hrt 主人@CountToLink hrt2024.8.31",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1793955184235913216/FhfDm6N1_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271942631564521472/1716547218",
-    "followers_count": 415,
-    "friends_count": 582,
-    "statuses_count": 2973,
-    "favourites_count": 28340,
-    "listed_count": 1,
+    "screen_name": "KoishinFlandre",
+    "description": "咱喜歡你!這裡是來自河南的小藥娘一枚～有時候會發自己的照片喵，不時在線，可以來找咱私聊喵～姐姐 @ShengTian22332 hrt2024.8.31",
     "location": "幻想鄉 地靈殿",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2020-06-14 07:09:11 +08:00",
-    "url": "https://twitter.com/KoishinFlandre",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMjcxOTQyNjMxNTY0NTIxNDcy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1793955184235913216/FhfDm6N1_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Jun 13 23:09:11 +0000 2020",
-            "name": "koishi！🏳️‍⚧️🍥",
-            "screen_name": "KoishinFlandre"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 582,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 42,
-            "pinned_tweet_ids_str": [
-                "1932367216877641872"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "幻想鄉 地靈殿"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1592089751000,
-            "updated_at": 1752846617121
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 413,
+    "friends_count": 585,
+    "listed_count": 1,
+    "created_at": "Sat Jun 13 23:09:11 +0000 2020",
+    "favourites_count": 28117,
+    "verified": false,
+    "statuses_count": 2970,
+    "media_count": 42,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1793955184235913216/FhfDm6N1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271942631564521472/1716547218",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1932367216877641872
+    ],
+    "pinned_tweet_ids_str": [
+        "1932367216877641872"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

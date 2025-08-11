@@ -1,128 +1,64 @@
 {
     "id": "1639894055948816387",
-    "screen_name": "sakumamutsuki",
     "name": "kayo",
-    "description": "不稱職的神明｜備考dse期間可能暫時死掉/精神不穩講怪話請見諒丨最萌小夜@lonelyxiaoye丨全能小希露@shirumesu丨最溫柔的姊姊@8964_xy11丨國服第一地雷王@Tsukishima_hane",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1909038412721729536/ihaW0tM6_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639894055948816387/1739550878",
-    "followers_count": 1118,
-    "friends_count": 1580,
-    "statuses_count": 6688,
-    "favourites_count": 22823,
-    "listed_count": 6,
+    "screen_name": "sakumamutsuki",
+    "description": "沉沒成本不參與重大決策，一切，我放棄。",
     "location": "",
-    "website": "https://t.co/sZHlu2ozaI",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-03-26 15:36:33 +08:00",
-    "url": "https://twitter.com/sakumamutsuki",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjM5ODk0MDU1OTQ4ODE2Mzg3",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @Pheeveen",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 22,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "Pheeveen",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "Pheeveen"
-                                        },
-                                        "rest_id": "1625104752035139587"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1909038412721729536/ihaW0tM6_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Mar 26 07:36:33 +0000 2023",
-            "name": "kayo",
-            "screen_name": "sakumamutsuki"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "line.me/ti/p/9SYzg9xb83",
-                            "expanded_url": "https://line.me/ti/p/9SYzg9xb83",
-                            "url": "https://t.co/sZHlu2ozaI",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/sZHlu2ozaI",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/sZHlu2ozaI",
+                    "expanded_url": "https://line.me/ti/p/9SYzg9xb83",
+                    "display_url": "line.me/ti/p/9SYzg9xb83",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1580,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 15,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/sZHlu2ozaI",
-            "want_retweets": false,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1679816193000,
-            "updated_at": 1752846531625
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1119,
+    "friends_count": 1613,
+    "listed_count": 6,
+    "created_at": "Sun Mar 26 07:36:33 +0000 2023",
+    "favourites_count": 23007,
+    "verified": false,
+    "statuses_count": 6960,
+    "media_count": 26,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1909038412721729536/ihaW0tM6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639894055948816387/1754891882",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1953069275176157473
+    ],
+    "pinned_tweet_ids_str": [
+        "1953069275176157473"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

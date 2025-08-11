@@ -1,9 +1,9 @@
 {
     "id": "1835391059783778304",
-    "name": "nothing",
+    "name": "muziko",
     "screen_name": "tomoyo_rev14",
-    "description": "I do not know",
-    "location": "Tiananmen square",
+    "description": "没啥好说",
+    "location": "月之森",
     "url": null,
     "entities": {
         "description": {
@@ -11,27 +11,27 @@
         }
     },
     "protected": false,
-    "followers_count": 183,
-    "friends_count": 286,
+    "followers_count": 180,
+    "friends_count": 289,
     "listed_count": 0,
     "created_at": "Sun Sep 15 18:51:54 +0000 2024",
-    "favourites_count": 2019,
+    "favourites_count": 1997,
     "verified": false,
-    "statuses_count": 396,
-    "media_count": 6,
+    "statuses_count": 16,
+    "media_count": 0,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1947589764221149185/5HzZ2JjT_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835391059783778304/1753176574",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1954065713280262144/iObkt9ro_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835391059783778304/1754720546",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
     "pinned_tweet_ids": [
-        1941816706566889664
+        1941448668542009723
     ],
     "pinned_tweet_ids_str": [
-        "1941816706566889664"
+        "1941448668542009723"
     ],
     "has_custom_timelines": false,
     "can_dm": null,

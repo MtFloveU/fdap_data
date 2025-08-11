@@ -1,132 +1,64 @@
 {
     "id": "1354545024046821376",
-    "screen_name": "KURANAGA0",
     "name": "甜甜怜怜子",
-    "description": "值得做的事情 就是值得做对的事情",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1906386649245962240/c71LsckR_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1354545024046821376/1737494736",
-    "followers_count": 1901,
-    "friends_count": 747,
-    "statuses_count": 7647,
-    "favourites_count": 7428,
-    "listed_count": 3,
+    "screen_name": "KURANAGA0",
+    "description": "珠沉玉没 其香犹存",
     "location": "致以辉煌的人们",
-    "website": "https://t.co/IHZrnYTTII",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/KURANAGA0",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMzU0NTQ1MDI0MDQ2ODIxMzc2",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @LianLianZiNya",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 27,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "LianLianZiNya",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "LianLianZiNya"
-                                        },
-                                        "rest_id": "1694626666684039169"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1906386649245962240/c71LsckR_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Jan 27 21:41:25 +0000 2021",
-            "name": "甜甜怜怜子",
-            "screen_name": "KURANAGA0"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/lianlianzinya",
-                            "expanded_url": "http://t.me/lianlianzinya",
-                            "url": "https://t.co/IHZrnYTTII",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/IHZrnYTTII",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/IHZrnYTTII",
+                    "expanded_url": "http://t.me/lianlianzinya",
+                    "display_url": "t.me/lianlianzinya",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 747,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 968,
-            "pinned_tweet_ids_str": [
-                "1930174546872807849"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/IHZrnYTTII",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "致以辉煌的人们"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219075207
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1880,
+    "friends_count": 735,
+    "listed_count": 3,
+    "created_at": "Wed Jan 27 21:41:25 +0000 2021",
+    "favourites_count": 6902,
+    "verified": false,
+    "statuses_count": 7705,
+    "media_count": 983,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1949991356056690688/Fm5VYIX1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1354545024046821376/1737494736",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1949063925045105022
+    ],
+    "pinned_tweet_ids_str": [
+        "1949063925045105022"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

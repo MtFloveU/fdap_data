@@ -1,107 +1,64 @@
 {
     "id": "1500818219493322754",
+    "name": "格里斯",
     "screen_name": "eee_bree",
-    "name": "戈列格里斯",
     "description": "低浮上｜07｜BPD｜互fo｜男朋友： @QianliFrost",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1873020186095501312/DzLhY3jJ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500818219493322754/1749469589",
-    "followers_count": 815,
-    "friends_count": 716,
-    "statuses_count": 7013,
-    "favourites_count": 27877,
-    "listed_count": 7,
     "location": "",
-    "website": "https://t.co/oLNh7gZl8W",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-03-07 21:07:20 +08:00",
-    "url": "https://twitter.com/eee_bree",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTAwODE4MjE5NDkzMzIyNzU0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1873020186095501312/DzLhY3jJ_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Mar 07 13:07:20 +0000 2022",
-            "name": "戈列格里斯",
-            "screen_name": "eee_bree"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "youtube.com/@eee_bre?si=mU…",
-                            "expanded_url": "https://youtube.com/@eee_bre?si=mU7w5AbPyz8dNvdW",
-                            "url": "https://t.co/oLNh7gZl8W",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/oLNh7gZl8W",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/oLNh7gZl8W",
+                    "expanded_url": "https://youtube.com/@eee_bre?si=mU7w5AbPyz8dNvdW",
+                    "display_url": "youtube.com/@eee_bre?si=mU…",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 716,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 595,
-            "pinned_tweet_ids_str": [
-                "1903973138846925049"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/oLNh7gZl8W",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1842405675886162349",
-            "professional_type": "Creator",
-            "category": []
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1646658440000,
-            "updated_at": 1750232279957
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 815,
+    "friends_count": 713,
+    "listed_count": 8,
+    "created_at": "Mon Mar 07 13:07:20 +0000 2022",
+    "favourites_count": 28100,
+    "verified": false,
+    "statuses_count": 6132,
+    "media_count": 503,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1873020186095501312/DzLhY3jJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500818219493322754/1749469589",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1914593391821906153
+    ],
+    "pinned_tweet_ids_str": [
+        "1914593391821906153"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

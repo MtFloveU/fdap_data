@@ -1,86 +1,51 @@
 {
     "id": "1720733273914257408",
-    "screen_name": "lyulka_in_true",
     "name": "Nothing.",
-    "description": "🏳️‍⚧️MTF🍥 | 2007 | DCS World | Kingdom of Erusea | 炸柜 | 回fo | 可以帮忙P头像 原@not_in_true号主 | 老婆：@aasdasd7265438_01",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1752341818732347392/jCzrHjAb_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720733273914257408/1704620973",
-    "followers_count": 999,
-    "friends_count": 736,
-    "statuses_count": 813,
-    "favourites_count": 1207,
-    "listed_count": 1,
+    "screen_name": "lyulka_in_true",
+    "description": "🏳️‍⚧️ | 2007 | 回fo | 可以帮忙P头像 原@not_in_true | 老婆：@aasdasd7265438_01",
     "location": "Kingdom of Erusea ",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/lyulka_in_true",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzIwNzMzMjczOTE0MjU3NDA4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1752341818732347392/jCzrHjAb_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Nov 04 09:22:45 +0000 2023",
-            "name": "Nothing.",
-            "screen_name": "lyulka_in_true"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 736,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 133,
-            "pinned_tweet_ids_str": [
-                "1741422828560482591"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Kingdom of Erusea "
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219079495
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 985,
+    "friends_count": 833,
+    "listed_count": 2,
+    "created_at": "Sat Nov 04 09:22:45 +0000 2023",
+    "favourites_count": 1206,
+    "verified": false,
+    "statuses_count": 823,
+    "media_count": 137,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1752341818732347392/jCzrHjAb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720733273914257408/1704620973",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1741422828560482591
+    ],
+    "pinned_tweet_ids_str": [
+        "1741422828560482591"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

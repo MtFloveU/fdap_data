@@ -1,95 +1,64 @@
 {
     "id": "1491429513779359745",
+    "name": "若水醬🐱🚇🚌",
     "screen_name": "mizuchanqwq",
-    "name": "︎︎︎︎︎ ︎︎︎︎︎",
-    "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1944972232138350594/mapLAyg-_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491429513779359745/1752542251",
-    "followers_count": 2302,
-    "friends_count": 2204,
-    "statuses_count": 9890,
-    "favourites_count": 86094,
-    "listed_count": 8,
-    "location": "︎︎︎︎︎ ",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2022-02-09 23:11:30 +08:00",
-    "url": "https://twitter.com/mizuchanqwq",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDkxNDI5NTEzNzc5MzU5NzQ1",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1944972232138350594/mapLAyg-_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Feb 09 15:11:30 +0000 2022",
-            "name": "︎︎︎︎︎ ︎︎︎︎︎",
-            "screen_name": "mizuchanqwq"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
+    "description": "唔該同志，下一站有落 | like 🚇 🚌",
+    "location": "︎︎︎香港九龍灣偉業街33號",
+    "url": "https://t.co/tcjbcDmEKy",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/tcjbcDmEKy",
+                    "expanded_url": "https://t.me/The7sRef",
+                    "display_url": "t.me/The7sRef",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2204,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 1875,
-            "pinned_tweet_ids_str": [
-                "1945524964620472360"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "︎︎︎︎︎ "
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1609611149175132166",
-            "professional_type": "Creator",
-            "category": []
-        },
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "bitcoin_handle": "",
-            "ethereum_handle": "0x856feb3528a0c1438F965fb143dCa1715b9419Ad"
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1644419490000,
-            "updated_at": 1752846625712
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 2295,
+    "friends_count": 2192,
+    "listed_count": 8,
+    "created_at": "Wed Feb 09 15:11:30 +0000 2022",
+    "favourites_count": 85991,
+    "verified": false,
+    "statuses_count": 10026,
+    "media_count": 1900,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1953110536339775489/AgnBjz6m_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491429513779359745/1754862632",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1952969233534730306
+    ],
+    "pinned_tweet_ids_str": [
+        "1952969233534730306"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

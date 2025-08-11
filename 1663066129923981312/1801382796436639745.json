@@ -1,100 +1,64 @@
 {
     "id": "1801382796436639745",
+    "name": "洛雪🏳️‍⚧️🍥 | 🌳树屋系统",
     "screen_name": "_Snow0717",
-    "name": "洛雪🏳️‍⚧️🍥",
     "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫\n║MtF / 家长党 / 小证含糖 2025.02.11\n║中郁 /双相二型 / ADHD / BPD / ASD / PTSD\n║家里蹲 / 音游人 / 渴望温暖\n║最爱的人@Kinaiyurun0128 / 里推@_SnowUra0717",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801382796436639745/1742270732",
-    "followers_count": 1899,
-    "friends_count": 1658,
-    "statuses_count": 2182,
-    "favourites_count": 6490,
-    "listed_count": 0,
     "location": "互联网",
-    "website": "https://t.co/3L4Ktfepse",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-06-14 06:35:19 +08:00",
-    "url": "https://twitter.com/_Snow0717",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODAxMzgyNzk2NDM2NjM5NzQ1",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg"
-        },
-        "core": {
-            "created_at": "Thu Jun 13 22:35:19 +0000 2024",
-            "name": "洛雪🏳️‍⚧️🍥",
-            "screen_name": "_Snow0717"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/_snow07171",
-                            "expanded_url": "https://ngl.link/_snow07171",
-                            "url": "https://t.co/3L4Ktfepse",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/3L4Ktfepse",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/3L4Ktfepse",
+                    "expanded_url": "https://ngl.link/_snow07171",
+                    "display_url": "ngl.link/_snow07171",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1658,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 223,
-            "pinned_tweet_ids_str": [
-                "1938508830033240340"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/3L4Ktfepse",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "互联网"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1718318119000,
-            "updated_at": 1752846617121
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1920,
+    "friends_count": 1646,
+    "listed_count": 2,
+    "created_at": "Thu Jun 13 22:35:19 +0000 2024",
+    "favourites_count": 6711,
+    "verified": false,
+    "statuses_count": 2280,
+    "media_count": 227,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801382796436639745/1742270732",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1949911363368665124
+    ],
+    "pinned_tweet_ids_str": [
+        "1949911363368665124"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

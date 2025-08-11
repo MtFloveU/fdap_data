@@ -1,86 +1,51 @@
 {
     "id": "1790275346899554304",
-    "screen_name": "H4lf_L13_F8964",
     "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+    "screen_name": "H4lf_L13_F",
     "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790275346899554304/1745386507",
-    "followers_count": 682,
-    "friends_count": 1114,
-    "statuses_count": 4313,
-    "favourites_count": 6407,
-    "listed_count": 0,
     "location": "The pathway of no return",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-05-14 14:58:07 +08:00",
-    "url": "https://twitter.com/H4lf_L13_F8964",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzkwMjc1MzQ2ODk5NTU0MzA0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1915506274004828160/c99MGKyD_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue May 14 06:58:07 +0000 2024",
-            "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
-            "screen_name": "H4lf_L13_F8964"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1114,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 440,
-            "pinned_tweet_ids_str": [
-                "1926955766629474549"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "The pathway of no return"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1715669887000,
-            "updated_at": 1752846616262
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 709,
+    "friends_count": 1157,
+    "listed_count": 0,
+    "created_at": "Tue May 14 06:58:07 +0000 2024",
+    "favourites_count": 6580,
+    "verified": false,
+    "statuses_count": 4444,
+    "media_count": 452,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790275346899554304/1745386507",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1926955766629474549
+    ],
+    "pinned_tweet_ids_str": [
+        "1926955766629474549"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

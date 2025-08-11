@@ -1,105 +1,64 @@
 {
     "id": "1615404813856178176",
-    "screen_name": "Lovemostmevius",
     "name": "MXT",
-    "description": "MTX |是狐娘～| 03老东西 | 兔兔的唯一+主人+对象+女朋友+比翼鸟+一直爱着守护陪伴的下去人+另一半+老婆+darling～+女王殿下+最爱的 @MeviuslX_Xl and 最爱+一直守护的宝宝@miya051223 |  如果需要帮助的地方可以私信哦～也可以向我倾诉烦恼，聊天或者提问各种问题|提问箱⬇️",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1873761540312313856/ltyDX-7Y_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1615404813856178176/1737783062",
-    "followers_count": 3593,
-    "friends_count": 1007,
-    "statuses_count": 6167,
-    "favourites_count": 19471,
-    "listed_count": 4,
+    "screen_name": "Lovemostmevius",
+    "description": "MTX |是温柔善良的狐娘～| 03老东西 | 兔兔的唯一+主人+对象+女朋友+比翼鸟+一直爱着守护陪伴的下去人+另一半+老婆+darling～+女王殿下+最爱的 @MeviuslX_Xl and 最爱+一直守护的宝宝@miya051223 |  如果需要帮助可以私信哦～可以向我倾诉烦恼，聊天或提问各种问题|提问箱⬇️",
     "location": "ℳℯ𝓋𝒾𝓊𝓈 的心",
-    "website": "https://t.co/RfllNMXetL",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-01-18 01:45:10 +08:00",
-    "url": "https://twitter.com/Lovemostmevius",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjE1NDA0ODEzODU2MTc4MTc2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1873761540312313856/ltyDX-7Y_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Jan 17 17:45:10 +0000 2023",
-            "name": "MXT",
-            "screen_name": "Lovemostmevius"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/mengxintu",
-                            "expanded_url": "https://ngl.link/mengxintu",
-                            "url": "https://t.co/RfllNMXetL",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/RfllNMWGEd",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/RfllNMWGEd",
+                    "expanded_url": "https://ngl.link/mengxintu",
+                    "display_url": "ngl.link/mengxintu",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1007,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 61,
-            "pinned_tweet_ids_str": [
-                "1911630089382666727"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/RfllNMXetL",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "ℳℯ𝓋𝒾𝓊𝓈 的心"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1619401180416966657",
-            "professional_type": "Creator",
-            "category": []
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1673977510000,
-            "updated_at": 1752846595659
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 3679,
+    "friends_count": 1046,
+    "listed_count": 4,
+    "created_at": "Tue Jan 17 17:45:10 +0000 2023",
+    "favourites_count": 19607,
+    "verified": false,
+    "statuses_count": 6307,
+    "media_count": 64,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1873761540312313856/ltyDX-7Y_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1615404813856178176/1737783062",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1952040935074009257
+    ],
+    "pinned_tweet_ids_str": [
+        "1952040935074009257"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,86 +1,51 @@
 {
     "id": "1672822866986024961",
-    "screen_name": "Lycaropia",
     "name": "居眠姬",
-    "description": "Aspie | TS Fullstack | Transgirl🏳️‍⚧️ | 🌈Les | GF @CatTalkerMitaka LOVE ❤ FOREVER",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672822866986024961/1687668245",
-    "followers_count": 1390,
-    "friends_count": 1091,
-    "statuses_count": 9786,
-    "favourites_count": 80945,
-    "listed_count": 2,
+    "screen_name": "Lycaropia",
+    "description": "Aspie | TS Fullstack | 无孩爱猫女 | GF @CatTalkerMitaka LOVE ❤ FOREVER",
     "location": "384,400km",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-06-25 12:24:03 +08:00",
-    "url": "https://twitter.com/Lycaropia",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjcyODIyODY2OTg2MDI0OTYx",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Jun 25 04:24:03 +0000 2023",
-            "name": "居眠姬",
-            "screen_name": "Lycaropia"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1091,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 228,
-            "pinned_tweet_ids_str": [
-                "1910250184527024612"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "384,400km"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1687667043000,
-            "updated_at": 1752846620643
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1467,
+    "friends_count": 1097,
+    "listed_count": 2,
+    "created_at": "Sun Jun 25 04:24:03 +0000 2023",
+    "favourites_count": 82250,
+    "verified": false,
+    "statuses_count": 10017,
+    "media_count": 241,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672822866986024961/1687668245",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1910250184527024612
+    ],
+    "pinned_tweet_ids_str": [
+        "1910250184527024612"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

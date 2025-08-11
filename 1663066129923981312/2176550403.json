@@ -1,64 +1,47 @@
 {
     "id": "2176550403",
-    "screen_name": "Ol_Sunflower",
     "name": "小葵🌻",
-    "description": "😈非正常人类😈 / 日常推 /「極」抽象 / 可能会发⚡ / Made up of pink🎀💅🏻🌸💫🧊 / 可爱即正义！(づ◡ど)",
+    "screen_name": "Ol_Sunflower",
+    "description": "😈非正常人类😈 / 日常推 /「極」抽象 / 可能会发⚡",
     "location": "San Francisco, CA",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1813319457722482688/sd2Wniij_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2176550403/1689615720",
-    "followers_count": 358,
-    "statuses_count": 1167,
-    "favourites_count": 13915,
-    "listed_count": 0,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2013-11-11 12:37:38 +08:00",
-    "url": "https://twitter.com/Ol_Sunflower",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoyMTc2NTUwNDAz",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 329,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 142,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1661789241289097216",
-            "professional_type": "Creator",
-            "category": []
-        },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "bitcoin_handle": "",
-            "ethereum_handle": "0x320a94e9d801a0213a4b61A2Eb6495DE7dfB9a1D"
-        },
-        "twe_private_fields": {
-            "created_at": 1384144658000,
-            "updated_at": 1744350074462
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 376,
+    "friends_count": 332,
+    "listed_count": 1,
+    "created_at": "Mon Nov 11 04:37:38 +0000 2013",
+    "favourites_count": 15051,
+    "verified": false,
+    "statuses_count": 1316,
+    "media_count": 155,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1813319457722482688/sd2Wniij_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2176550403/1689615720",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

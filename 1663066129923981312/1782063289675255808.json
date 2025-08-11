@@ -2,7 +2,7 @@
     "id": "1782063289675255808",
     "name": "如月 桃枝🍥🏳️‍⚧️",
     "screen_name": "Kisaragi_Momoe",
-    "description": "喵喵喵",
+    "description": "好想偷偷消失掉…",
     "location": "在你心里",
     "url": null,
     "entities": {
@@ -11,14 +11,14 @@
         }
     },
     "protected": false,
-    "followers_count": 926,
-    "friends_count": 898,
+    "followers_count": 994,
+    "friends_count": 956,
     "listed_count": 5,
     "created_at": "Sun Apr 21 15:06:19 +0000 2024",
-    "favourites_count": 18586,
+    "favourites_count": 21179,
     "verified": false,
-    "statuses_count": 2803,
-    "media_count": 135,
+    "statuses_count": 3153,
+    "media_count": 146,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1946486481339781120/oWAhrkKf_normal.jpg",
@@ -27,8 +27,12 @@
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1952988884109017516
+    ],
+    "pinned_tweet_ids_str": [
+        "1952988884109017516"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": false,

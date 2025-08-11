@@ -1,93 +1,50 @@
 {
     "id": "830659836924694528",
+    "name": "白巧曲奇",
     "screen_name": "ixtHRc75R7MTBYf",
-    "name": "地铁十号线",
     "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1941141866654883840/AhgzCQpg_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 2731,
-    "friends_count": 1163,
-    "statuses_count": 10785,
-    "favourites_count": 15105,
-    "listed_count": 8,
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2017-02-12 14:08:32 +08:00",
-    "url": "https://twitter.com/ixtHRc75R7MTBYf",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjo4MzA2NTk4MzY5MjQ2OTQ1Mjg=",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1941141866654883840/AhgzCQpg_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Feb 12 06:08:32 +0000 2017",
-            "name": "地铁十号线",
-            "screen_name": "ixtHRc75R7MTBYf"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1163,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 855,
-            "pinned_tweet_ids_str": [
-                "1926984437377466756"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1489295387794243584",
-            "professional_type": "Creator",
-            "category": []
-        },
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1486879712000,
-            "updated_at": 1752846618931
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2723,
+    "friends_count": 1161,
+    "listed_count": 8,
+    "created_at": "Sun Feb 12 06:08:32 +0000 2017",
+    "favourites_count": 15064,
+    "verified": false,
+    "statuses_count": 10770,
+    "media_count": 856,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1952000082867576832/v4AZXT21_normal.jpg",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1926984437377466756
+    ],
+    "pinned_tweet_ids_str": [
+        "1926984437377466756"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

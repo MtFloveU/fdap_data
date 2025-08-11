@@ -1,86 +1,51 @@
 {
     "id": "1762820280035250176",
-    "screen_name": "Ocelot8964",
     "name": "豹猫 Ocelot 🇺🇸",
-    "description": "Chinese🇨🇳(掌握)&English🇺🇸(competent)&German🇩🇪(Anfänger)｜libertarian｜He died to make men holy, let us die to make men free!｜请关注@lifa_Petter @PHIphi_idkwhoUR",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1818947910509240320/vVBphImo_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762820280035250176/1741966160",
-    "followers_count": 225,
-    "friends_count": 590,
-    "statuses_count": 6287,
-    "favourites_count": 13089,
-    "listed_count": 2,
+    "screen_name": "Ocelot8964",
+    "description": "Chinese🇨🇳(掌握)&English🇺🇸(competent)&German🇩🇪(Anfänger)｜libertarian｜He died to make men holy, let us die to make men free!｜请关注@lifa_Petter",
     "location": "IP地址：梁家河",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-02-28 20:41:36 +08:00",
-    "url": "https://twitter.com/Ocelot8964",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzYyODIwMjgwMDM1MjUwMTc2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1818947910509240320/vVBphImo_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Feb 28 12:41:36 +0000 2024",
-            "name": "豹猫 Ocelot 🇺🇸",
-            "screen_name": "Ocelot8964"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 590,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 306,
-            "pinned_tweet_ids_str": [
-                "1933085931491442965"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "IP地址：梁家河"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1709124096000,
-            "updated_at": 1750232254497
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 234,
+    "friends_count": 591,
+    "listed_count": 2,
+    "created_at": "Wed Feb 28 12:41:36 +0000 2024",
+    "favourites_count": 13907,
+    "verified": false,
+    "statuses_count": 6764,
+    "media_count": 332,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1818947910509240320/vVBphImo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762820280035250176/1741966160",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1952576171616686568
+    ],
+    "pinned_tweet_ids_str": [
+        "1952576171616686568"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

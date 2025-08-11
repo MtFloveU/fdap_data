@@ -2,7 +2,7 @@
     "id": "1689214483481452544",
     "name": "ZianTT",
     "screen_name": "ZianTT_Official",
-    "description": "Network Security, Web Application Developer | Python & GoLang & JavaScript | 16 y.o. | LightXi Inc.",
+    "description": "Network Security, Web Application Developer | Python & GoLang & JavaScript | 17 y.o. | LightXi Inc.",
     "location": "Shanghai, PRC",
     "url": null,
     "entities": {
@@ -10,15 +10,15 @@
             "urls": []
         }
     },
-    "protected": true,
-    "followers_count": 170,
-    "friends_count": 183,
+    "protected": false,
+    "followers_count": 242,
+    "friends_count": 211,
     "listed_count": 0,
     "created_at": "Wed Aug 09 09:58:21 +0000 2023",
-    "favourites_count": 263,
+    "favourites_count": 346,
     "verified": false,
-    "statuses_count": 543,
-    "media_count": 17,
+    "statuses_count": 706,
+    "media_count": 33,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1915481346602131456/-k-JJVrh_normal.jpg",
@@ -42,6 +42,6 @@
     "translator_type": "none",
     "withheld_in_countries": [],
     "followed_by": true,
-    "ext_is_blue_verified": false,
+    "ext_is_blue_verified": true,
     "require_some_consent": false
 }

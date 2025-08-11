@@ -1,97 +1,51 @@
 {
     "id": "1520336531831279616",
-    "screen_name": "GAP_DVQ_Huge",
     "name": "往日の🍵",
-    "description": "泥嚎，这里是🍵，叫我茶也行\n喜欢玩wt和kig，角色目前剩下两个，爱丽速子，曼城茶座（正在制作）\n门牌号：93788253，欢迎戳戳\n                                   ❤🐴： @Rain_5018",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1938554989980655616/nmaVk4dY_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520336531831279616/1747282465",
-    "followers_count": 2010,
-    "friends_count": 397,
-    "statuses_count": 2956,
-    "favourites_count": 2301,
-    "listed_count": 6,
+    "screen_name": "GAP_DVQ_Huge",
+    "description": "暴脾气⚠️内向⚠️\n泥嚎，这里是🍵，叫我茶也行\n喜欢玩wt和kig，角色目前剩下两个，爱丽速子，曼城茶座（正在制作）\n门牌号：93788253，欢迎戳戳\n                               \n❤🐴： @Rain_5018",
     "location": "影子里的朋友",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-04-30 17:37:38 +08:00",
-    "url": "https://twitter.com/GAP_DVQ_Huge",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTIwMzM2NTMxODMxMjc5NjE2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1938554989980655616/nmaVk4dY_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Apr 30 09:37:38 +0000 2022",
-            "name": "往日の🍵",
-            "screen_name": "GAP_DVQ_Huge"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 397,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 505,
-            "pinned_tweet_ids_str": [
-                "1900839574861213896"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "影子里的朋友"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1827018636164563256",
-            "professional_type": "Business",
-            "category": [
-                {
-                    "id": 144,
-                    "name": "Education",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1651311458000,
-            "updated_at": 1752846619819
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2038,
+    "friends_count": 332,
+    "listed_count": 6,
+    "created_at": "Sat Apr 30 09:37:38 +0000 2022",
+    "favourites_count": 2313,
+    "verified": false,
+    "statuses_count": 3011,
+    "media_count": 526,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1947329681847431168/l2HhHNbW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520336531831279616/1747282465",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1900839574861213896
+    ],
+    "pinned_tweet_ids_str": [
+        "1900839574861213896"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

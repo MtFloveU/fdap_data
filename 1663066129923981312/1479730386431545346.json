@@ -1,88 +1,51 @@
 {
     "id": "1479730386431545346",
+    "name": "🥺",
     "screen_name": "YuKi520OwO",
-    "name": "櫻井チユキ🏳️‍⚧️",
     "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
-    "followers_count": 8666,
-    "friends_count": 1026,
-    "statuses_count": 1784,
-    "favourites_count": 15001,
-    "listed_count": 15,
-    "location": "上海",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-01-08 16:23:35 +08:00",
-    "url": "https://twitter.com/YuKi520OwO",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDc5NzMwMzg2NDMxNTQ1MzQ2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Jan 08 08:23:35 +0000 2022",
-            "name": "櫻井チユキ🏳️‍⚧️",
-            "screen_name": "YuKi520OwO"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1026,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 239,
-            "pinned_tweet_ids_str": [
-                "1929498795588583863"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "上海"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1641630215000,
-            "updated_at": 1750404923083
+    "location": "喵星",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 8764,
+    "friends_count": 1072,
+    "listed_count": 14,
+    "created_at": "Sat Jan 08 08:23:35 +0000 2022",
+    "favourites_count": 15239,
+    "verified": false,
+    "statuses_count": 1881,
+    "media_count": 256,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479730386431545346/1742329722",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1929498795588583863
+    ],
+    "pinned_tweet_ids_str": [
+        "1929498795588583863"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

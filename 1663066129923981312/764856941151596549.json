@@ -1,88 +1,51 @@
 {
     "id": "764856941151596549",
-    "screen_name": "_AkitaYura",
     "name": "Akita Yura",
-    "description": "双t🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|\n▫️🍰@I_love_yumira\n▫️🥜@ShikuiL23822",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/764856941151596549/1749760835",
-    "followers_count": 884,
-    "friends_count": 678,
-    "statuses_count": 13608,
-    "favourites_count": 57800,
-    "listed_count": 8,
+    "screen_name": "_AkitaYura",
+    "description": "双性恋之颜性恋🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|\n▫️🍰@I_love_yumira\n▫️🥜@ShikuiL23822",
     "location": "R18禁止💢|文爱禁止💢",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2016-08-15 00:11:19 +08:00",
-    "url": "https://twitter.com/_AkitaYura",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjo3NjQ4NTY5NDExNTE1OTY1NDk=",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Aug 14 16:11:19 +0000 2016",
-            "name": "Akita Yura",
-            "screen_name": "_AkitaYura"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 678,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1506,
-            "pinned_tweet_ids_str": [
-                "1933062488725319684"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "R18禁止💢|文爱禁止💢"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1471191079000,
-            "updated_at": 1752846611714
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 882,
+    "friends_count": 671,
+    "listed_count": 8,
+    "created_at": "Sun Aug 14 16:11:19 +0000 2016",
+    "favourites_count": 58510,
+    "verified": false,
+    "statuses_count": 13846,
+    "media_count": 1550,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/764856941151596549/1749760835",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1954764048693952969
+    ],
+    "pinned_tweet_ids_str": [
+        "1954764048693952969"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

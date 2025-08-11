@@ -1,119 +1,88 @@
 {
     "id": "1886330442657214465",
-    "screen_name": "HHH2309nyan",
     "name": "HHH2309",
-    "description": "苦逼高中生|物化生|OIer|家实党|友跨🏳️‍⚧️|或许是MtX|喜欢一切可爱的东西\n祝你生活愉快！\n互fo喵喵\nhttps://t.co/XjEHnVuXHq\nhttps://t.co/NTzSRTUFyG（未完成）",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1886330590829613056/0gDUuvTD_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886330442657214465/1738581515",
-    "followers_count": 447,
-    "friends_count": 490,
-    "statuses_count": 454,
-    "favourites_count": 1940,
-    "listed_count": 0,
+    "screen_name": "HHH2309nyan",
+    "description": "苦逼高中生|物化生|OIer|C++|Python|HTML|家实党|友跨🏳️‍⚧️|或许是MtX|喜欢一切可爱的东西\n祝你生活愉快！\n互fo喵喵\n\nTG号 https://t.co/ZS545LodmW\n\nhttps://t.co/XjEHnVuXHq\n\nhttps://t.co/NTzSRTUFyG（未完成）",
     "location": "喵星！",
-    "website": "https://t.co/XjEHnVuXHq",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2025-02-03 16:27:13 +08:00",
-    "url": "https://twitter.com/HHH2309nyan",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODg2MzMwNDQyNjU3MjE0NDY1",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1886330590829613056/0gDUuvTD_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Feb 03 08:27:13 +0000 2025",
-            "name": "HHH2309",
-            "screen_name": "HHH2309nyan"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "oiermeow.love",
-                            "expanded_url": "http://oiermeow.love",
-                            "url": "https://t.co/XjEHnVuXHq",
-                            "indices": [
-                                58,
-                                81
-                            ]
-                        },
-                        {
-                            "display_url": "hhh2309.github.io",
-                            "expanded_url": "https://hhh2309.github.io/",
-                            "url": "https://t.co/NTzSRTUFyG",
-                            "indices": [
-                                82,
-                                105
-                            ]
-                        }
-                    ]
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "oiermeow.love",
-                            "expanded_url": "http://oiermeow.love",
-                            "url": "https://t.co/XjEHnVuXHq",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/XjEHnVuXHq",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/XjEHnVuXHq",
+                    "expanded_url": "http://oiermeow.love",
+                    "display_url": "oiermeow.love",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 490,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 14,
-            "pinned_tweet_ids_str": [
-                "1921562532063408222"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/XjEHnVuXHq",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "喵星！"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1738571233000,
-            "updated_at": 1752846587235
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/ZS545LodmW",
+                    "expanded_url": "http://t.me/hhh2309nyan",
+                    "display_url": "t.me/hhh2309nyan",
+                    "indices": [
+                        79,
+                        102
+                    ]
+                },
+                {
+                    "url": "https://t.co/XjEHnVuXHq",
+                    "expanded_url": "http://oiermeow.love",
+                    "display_url": "oiermeow.love",
+                    "indices": [
+                        104,
+                        127
+                    ]
+                },
+                {
+                    "url": "https://t.co/NTzSRTUFyG",
+                    "expanded_url": "https://hhh2309.github.io/",
+                    "display_url": "hhh2309.github.io",
+                    "indices": [
+                        129,
+                        152
+                    ]
+                }
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 508,
+    "friends_count": 571,
+    "listed_count": 0,
+    "created_at": "Mon Feb 03 08:27:13 +0000 2025",
+    "favourites_count": 3165,
+    "verified": false,
+    "statuses_count": 756,
+    "media_count": 17,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1886330590829613056/0gDUuvTD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886330442657214465/1738581515",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,71 +1,64 @@
 {
     "id": "1352930854448680960",
-    "screen_name": "hyhcrh",
     "name": "神楽坂 依云🍥",
-    "description": "R.I.P. starmoe / she | her | 自签名认证家暴党 | 不建政 | MC泰拉腐竹玩家 | 昵称可能变化，靠用户名找我 \\ 即使我锁推，只要同意我fo你我必定互关哦 🐘mastodon/🦋bluesky同名",
+    "screen_name": "hyhcrh",
+    "description": "R.I.P. starmoe / she | her | 不建政 | MC泰拉腐竹玩家 | 昵称可能变化，靠用户名找我 \\ 我fo的号永远接受互关 | 🐘mastodon/🦋bluesky同名",
     "location": "在服务器里",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1502807334170468352/3MDJLkyu_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352930854448680960/1641728266",
-    "followers_count": 3963,
-    "statuses_count": 8448,
-    "favourites_count": 117907,
-    "listed_count": 8,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2021-01-23 18:47:17 +08:00",
-    "url": "https://twitter.com/hyhcrh",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMzUyOTMwODU0NDQ4NjgwOTYw",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/hyhcrh",
-                            "expanded_url": "https://t.me/hyhcrh",
-                            "url": "https://t.co/WJ6oBwUGow",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/WJ6oBwUGow",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/WJ6oBwUGow",
+                    "expanded_url": "https://t.me/hyhcrh",
+                    "display_url": "t.me/hyhcrh",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1619,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 321,
-            "pinned_tweet_ids_str": [
-                "1657621571362783232"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/WJ6oBwUGow",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1611398837000,
-            "updated_at": 1744350118008
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4039,
+    "friends_count": 1605,
+    "listed_count": 8,
+    "created_at": "Sat Jan 23 10:47:17 +0000 2021",
+    "favourites_count": 116233,
+    "verified": false,
+    "statuses_count": 8451,
+    "media_count": 323,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1502807334170468352/3MDJLkyu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352930854448680960/1641728266",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1952774349351731705
+    ],
+    "pinned_tweet_ids_str": [
+        "1952774349351731705"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

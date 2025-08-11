@@ -1,111 +1,64 @@
 {
     "id": "1751084995312275456",
-    "screen_name": "MikuMiku3648",
     "name": "Miku🥝✞",
-    "description": "君といる毎日は奇跡だよ                                                           友達！：@Reisa_Music     @Ludwig_von_Remi  @miku_suki393939 对象：@Mikuloverr_  （新教徒谢谢喵",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1930668961777299456/Hz60qBx6_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751084995312275456/1749055276",
-    "followers_count": 2899,
-    "friends_count": 1267,
-    "statuses_count": 12810,
-    "favourites_count": 34984,
-    "listed_count": 14,
+    "screen_name": "MikuMiku3648",
+    "description": "君といる毎日は奇跡だよ                                                           友達！：@meguruKirara   Remi  @miku_suki393939 对象：@Mikuloverr_  （新教徒谢谢喵",
     "location": "「さよなら」じゃなく 「また明日ね」って言って",
-    "website": "https://t.co/TLtumacIN5",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-01-27 11:30:20 +08:00",
-    "url": "https://twitter.com/MikuMiku3648",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzUxMDg0OTk1MzEyMjc1NDU2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1930668961777299456/Hz60qBx6_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Jan 27 03:30:20 +0000 2024",
-            "name": "Miku🥝✞",
-            "screen_name": "MikuMiku3648"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "github.com/LittIeStar/MyG…",
-                            "expanded_url": "https://github.com/LittIeStar/MyGameCode",
-                            "url": "https://t.co/TLtumacIN5",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1267,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 2002,
-            "pinned_tweet_ids_str": [
-                "1809865925849674203"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/TLtumacIN5",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "「さよなら」じゃなく 「また明日ね」って言って"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1768825610363912600",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/TLtumadgCD",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 1037,
-                    "name": "Game Developer",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/TLtumadgCD",
+                    "expanded_url": "https://github.com/LittIeStar/MyGameCode",
+                    "display_url": "github.com/LittIeStar/MyG…",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1706326220000,
-            "updated_at": 1750232257457
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 3175,
+    "friends_count": 1277,
+    "listed_count": 16,
+    "created_at": "Sat Jan 27 03:30:20 +0000 2024",
+    "favourites_count": 37449,
+    "verified": false,
+    "statuses_count": 13578,
+    "media_count": 2164,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1930668961777299456/Hz60qBx6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751084995312275456/1753263183",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1809865925849674203
+    ],
+    "pinned_tweet_ids_str": [
+        "1809865925849674203"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

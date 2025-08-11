@@ -1,71 +1,64 @@
 {
     "id": "1511950915934187521",
-    "screen_name": "Tofucurd999",
     "name": "🏳️‍⚧️巧克力豆腐猫🍥",
-    "description": "08上海｜🏳️‍⚧️无证深柜-24.5.14 mtf 同类互fo｜躁郁｜惊恐｜病娇｜有喜欢的宝宝｜容貌焦虑｜独居｜GD｜日常｜轻度zcod｜不圆｜无政治立场｜猫娘｜绝望燃尽的一刻，希望就会来临，正如黎明时光会褪尽整夜黑暗♡",
+    "screen_name": "Tofucurd999",
+    "description": "08上海｜🏳️‍⚧️无证深柜-24.5.14 mtf 同类互fo｜躁郁｜惊恐｜病娇｜有喜欢的宝宝｜容貌焦虑｜独居｜ISFJ｜日常｜轻度zcod｜不圆｜无政治立场｜猫娘｜绝望燃尽的一刻，希望就会来临，正如黎明时光会褪尽整夜黑暗♡",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1814673517780348928/O0ZUCW1T_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511950915934187521/1690983258",
-    "followers_count": 1534,
-    "statuses_count": 645,
-    "favourites_count": 4489,
-    "listed_count": 3,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2022-04-07 14:16:13 +08:00",
-    "url": "https://twitter.com/Tofucurd999",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTExOTUwOTE1OTM0MTg3NTIx",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/tofucurd999",
-                            "expanded_url": "http://t.me/tofucurd999",
-                            "url": "https://t.co/t9JuOSvGDF",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/t9JuOSvGDF",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/t9JuOSvGDF",
+                    "expanded_url": "http://t.me/tofucurd999",
+                    "display_url": "t.me/tofucurd999",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1941,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 152,
-            "pinned_tweet_ids_str": [
-                "1893293744973107670"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/t9JuOSvGDF",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1649312173000,
-            "updated_at": 1744350106481
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1580,
+    "friends_count": 1951,
+    "listed_count": 4,
+    "created_at": "Thu Apr 07 06:16:13 +0000 2022",
+    "favourites_count": 4520,
+    "verified": false,
+    "statuses_count": 731,
+    "media_count": 199,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1814673517780348928/O0ZUCW1T_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511950915934187521/1690983258",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1893293744973107670
+    ],
+    "pinned_tweet_ids_str": [
+        "1893293744973107670"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,89 +1,46 @@
 {
     "id": "1908466480485961728",
-    "screen_name": "ratbbit3000",
     "name": "兔鼠煲🏳️‍⚧️",
+    "screen_name": "ratbbit3000qwq",
     "description": "即使身处不见光的角落，我们也要向阳而生。\n2009.07.22/双相休学中/INFP-T/不常在线/做题蛆一条/",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915112162714120192/clFXjeSs_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 264,
-    "friends_count": 336,
-    "statuses_count": 549,
-    "favourites_count": 7004,
-    "listed_count": 1,
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2025-04-05 18:27:30 +08:00",
-    "url": "https://twitter.com/ratbbit3000",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxOTA4NDY2NDgwNDg1OTYxNzI4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1915112162714120192/clFXjeSs_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Apr 05 10:27:30 +0000 2025",
-            "name": "兔鼠煲🏳️‍⚧️",
-            "screen_name": "ratbbit3000"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 336,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 16,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1908558739864773126",
-            "professional_type": "Creator",
-            "category": []
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1743848850000,
-            "updated_at": 1752846528414
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 284,
+    "friends_count": 354,
+    "listed_count": 2,
+    "created_at": "Sat Apr 05 10:27:30 +0000 2025",
+    "favourites_count": 7813,
+    "verified": false,
+    "statuses_count": 579,
+    "media_count": 16,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1915112162714120192/clFXjeSs_normal.jpg",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

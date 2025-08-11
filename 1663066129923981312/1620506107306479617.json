@@ -1,97 +1,51 @@
 {
     "id": "1620506107306479617",
+    "name": "霊狐製作所–公式ツイッター🏳️‍⚧️🧬",
     "screen_name": "Cheese_Ghostfox",
-    "name": "弗雷尔卓德–灵狐🏳️‍⚧️",
-    "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默无证可能含糖药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1676809255",
-    "followers_count": 297,
-    "friends_count": 555,
-    "statuses_count": 1362,
-    "favourites_count": 4069,
-    "listed_count": 0,
+    "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向 /超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推慎fo @HEX_Ghostfox",
     "location": "Turn around....(∞_눈)",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-02-01 03:36:01 +08:00",
-    "url": "https://twitter.com/Cheese_Ghostfox",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjIwNTA2MTA3MzA2NDc5NjE3",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Jan 31 19:36:01 +0000 2023",
-            "name": "弗雷尔卓德–灵狐🏳️‍⚧️",
-            "screen_name": "Cheese_Ghostfox"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 555,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 170,
-            "pinned_tweet_ids_str": [
-                "1919548841357148382"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Turn around....(∞_눈)"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1911929497462640692",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 688,
-                    "name": "Non-Governmental & Nonprofit Organization ",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1675193761000,
-            "updated_at": 1752846592776
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 381,
+    "friends_count": 631,
+    "listed_count": 0,
+    "created_at": "Tue Jan 31 19:36:01 +0000 2023",
+    "favourites_count": 5788,
+    "verified": false,
+    "statuses_count": 1771,
+    "media_count": 209,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1919548841357148382
+    ],
+    "pinned_tweet_ids_str": [
+        "1919548841357148382"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

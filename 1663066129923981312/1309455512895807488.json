@@ -1,115 +1,64 @@
 {
     "id": "1309455512895807488",
-    "screen_name": "idreamcore",
     "name": "但为君故✨",
-    "description": "愿你化为蝴蝶，在天堂自由飞舞｜2002｜匿名提问盒 https://t.co/2FfVZXcZ20｜不接推广｜打工赚学费中",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1933562367524417538/39vzpUNf_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309455512895807488/1749127102",
-    "followers_count": 4872,
-    "friends_count": 328,
-    "statuses_count": 9667,
-    "favourites_count": 63058,
-    "listed_count": 14,
-    "location": "🚪请我一杯咖啡",
-    "website": "https://t.co/ZOcRTfO7tM",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2020-09-25 19:31:43 +08:00",
-    "url": "https://twitter.com/idreamcore",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMzA5NDU1NTEyODk1ODA3NDg4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1933562367524417538/39vzpUNf_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Sep 25 11:31:43 +0000 2020",
-            "name": "但为君故✨",
-            "screen_name": "idreamcore"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "i.dreams.plus/box",
-                            "expanded_url": "http://i.dreams.plus/box",
-                            "url": "https://t.co/2FfVZXcZ20",
-                            "indices": [
-                                26,
-                                49
-                            ]
-                        }
-                    ]
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "dreams.plus",
-                            "expanded_url": "http://dreams.plus",
-                            "url": "https://t.co/ZOcRTfO7tM",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "screen_name": "idreamcore",
+    "description": "愿你化为蝴蝶，在天堂自由飞舞 | 2002 | 学术推@codemetic",
+    "location": "",
+    "url": "https://t.co/ZOcRTfO7tM",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ZOcRTfO7tM",
+                    "expanded_url": "http://dreams.plus",
+                    "display_url": "dreams.plus",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 328,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 722,
-            "pinned_tweet_ids_str": [
-                "1935022920805560774"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/ZOcRTfO7tM",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "🚪请我一杯咖啡"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "bitcoin_handle": "",
-            "ethereum_handle": "0xf7f80b11570e59368056f3efb44ffebf477ba66b",
-            "patreon_handle": "terminels"
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1601033503000,
-            "updated_at": 1752846614298
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4931,
+    "friends_count": 343,
+    "listed_count": 15,
+    "created_at": "Fri Sep 25 11:31:43 +0000 2020",
+    "favourites_count": 64580,
+    "verified": false,
+    "statuses_count": 9913,
+    "media_count": 744,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1933562367524417538/39vzpUNf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309455512895807488/1749127102",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1951331312582971576
+    ],
+    "pinned_tweet_ids_str": [
+        "1951331312582971576"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

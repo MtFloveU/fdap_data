@@ -2,33 +2,50 @@
     "id": "1176535991454064640",
     "name": "ʟᴜᴍɪ¹",
     "screen_name": "lumigj02",
-    "description": "Retired SWE @NUSingapore | 💌 @HobartR6 🐈 @_FurryFur_",
+    "description": "日雌390私信//我没有精神病//@NTUsg本科生//💌 @HobartR6 🐈 @_FurryFur_",
     "location": "",
-    "url": null,
+    "url": "https://t.co/xnU7yfJnaD",
     "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/xnU7yfJnaD",
+                    "expanded_url": "https://t.me/lumigj",
+                    "display_url": "t.me/lumigj",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
         "description": {
             "urls": []
         }
     },
     "protected": false,
-    "followers_count": 2794,
-    "friends_count": 926,
+    "followers_count": 2821,
+    "friends_count": 911,
     "listed_count": 12,
     "created_at": "Tue Sep 24 16:37:04 +0000 2019",
-    "favourites_count": 27669,
+    "favourites_count": 27747,
     "verified": false,
-    "statuses_count": 13144,
-    "media_count": 1107,
+    "statuses_count": 13471,
+    "media_count": 1130,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1945109908635934720/4teteaaw_normal.jpg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1954165686756057088/Ugb2yk5W_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176535991454064640/1752513065",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1952981494017700036
+    ],
+    "pinned_tweet_ids_str": [
+        "1952981494017700036"
+    ],
     "has_custom_timelines": true,
     "can_dm": null,
     "can_media_tag": false,

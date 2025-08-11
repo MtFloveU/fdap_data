@@ -2,7 +2,7 @@
     "id": "1764149440133447680",
     "name": "理想奈",
     "screen_name": "RinTka8964",
-    "description": "战斗仍将继续....?坚定守着，就有办法!",
+    "description": "战斗仍将继续....?坚定守着，就有办法!\n里@YUSEI1917",
     "location": "布里亚特",
     "url": null,
     "entities": {
@@ -11,14 +11,14 @@
         }
     },
     "protected": false,
-    "followers_count": 625,
-    "friends_count": 349,
+    "followers_count": 640,
+    "friends_count": 355,
     "listed_count": 4,
     "created_at": "Sun Mar 03 04:43:06 +0000 2024",
-    "favourites_count": 30732,
+    "favourites_count": 31524,
     "verified": false,
-    "statuses_count": 6367,
-    "media_count": 407,
+    "statuses_count": 6512,
+    "media_count": 409,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1946629073976864768/CBvhvm37_normal.jpg",
@@ -27,8 +27,12 @@
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1954564577632596385
+    ],
+    "pinned_tweet_ids_str": [
+        "1954564577632596385"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": false,

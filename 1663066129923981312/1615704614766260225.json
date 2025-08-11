@@ -1,100 +1,64 @@
 {
     "id": "1615704614766260225",
+    "name": "RanXi",
     "screen_name": "RanXi_MtF",
-    "name": "RanXi｜OS",
     "description": "摄影📷｜NIKON｜24.8.18｜日常｜@kikoxts｜@ycl_mtf",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1945652829969850368/8xFraQ8u_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1615704614766260225/1726720807",
-    "followers_count": 1886,
-    "friends_count": 752,
-    "statuses_count": 5340,
-    "favourites_count": 18540,
-    "listed_count": 8,
     "location": "日本国东京都港区港南2-15-3 品川城际",
-    "website": "https://t.co/0YOLczz4oq",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-01-18 21:36:22 +08:00",
-    "url": "https://twitter.com/RanXi_MtF",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjE1NzA0NjE0NzY2MjYwMjI1",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1945652829969850368/8xFraQ8u_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Jan 18 13:36:22 +0000 2023",
-            "name": "RanXi｜OS",
-            "screen_name": "RanXi_MtF"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "nikon.com.cn",
-                            "expanded_url": "http://www.nikon.com.cn",
-                            "url": "https://t.co/0YOLczz4oq",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/0YOLczz4oq",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/0YOLczz4oq",
+                    "expanded_url": "http://www.nikon.com.cn",
+                    "display_url": "nikon.com.cn",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 752,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 780,
-            "pinned_tweet_ids_str": [
-                "1865343341266890803"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/0YOLczz4oq",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "日本国东京都港区港南2-15-3 品川城际"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1674048982000,
-            "updated_at": 1752846618060
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1884,
+    "friends_count": 747,
+    "listed_count": 8,
+    "created_at": "Wed Jan 18 13:36:22 +0000 2023",
+    "favourites_count": 18660,
+    "verified": false,
+    "statuses_count": 5411,
+    "media_count": 785,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1945652829969850368/8xFraQ8u_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1615704614766260225/1754618238",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1865343341266890803
+    ],
+    "pinned_tweet_ids_str": [
+        "1865343341266890803"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

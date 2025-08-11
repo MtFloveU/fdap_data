@@ -1,86 +1,51 @@
 {
     "id": "1392802901949550595",
-    "screen_name": "StaceyH05550806",
     "name": "Coldwindoriginal",
-    "description": "业余爱好是玩外设。拥有全世界只卖了三张的鼠标垫（全CN唯一）。 大家喜欢的，不代表我喜欢。人生在世，不想做一颗工厂的螺丝，活成不一样的自己。01，从未和女孩牵过手，大魔法师一只。",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1761741292219064320/92qOs5i-_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392802901949550595/1708866829",
-    "followers_count": 263,
-    "friends_count": 2116,
-    "statuses_count": 2251,
-    "favourites_count": 6844,
-    "listed_count": 0,
+    "screen_name": "StaceyH05550806",
+    "description": "if I can’t hold, I can’t be rich",
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2021-05-13 19:24:40 +08:00",
-    "url": "https://twitter.com/StaceyH05550806",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMzkyODAyOTAxOTQ5NTUwNTk1",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1761741292219064320/92qOs5i-_normal.jpg"
-        },
-        "core": {
-            "created_at": "Thu May 13 11:24:40 +0000 2021",
-            "name": "Coldwindoriginal",
-            "screen_name": "StaceyH05550806"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2116,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 15,
-            "pinned_tweet_ids_str": [
-                "1828775665497481234"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1620905080000,
-            "updated_at": 1750232232844
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 271,
+    "friends_count": 2170,
+    "listed_count": 0,
+    "created_at": "Thu May 13 11:24:40 +0000 2021",
+    "favourites_count": 7091,
+    "verified": false,
+    "statuses_count": 2342,
+    "media_count": 15,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1761741292219064320/92qOs5i-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392802901949550595/1708866829",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1828775665497481234
+    ],
+    "pinned_tweet_ids_str": [
+        "1828775665497481234"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,111 +1,51 @@
 {
     "id": "2477499739",
-    "screen_name": "Sakurairinaqwq",
     "name": "樱井璃奈",
-    "description": "最最最最最最最重要的@popopopowu｜情绪很炸 想听歌打游戏可以专门给你练 不要说喜欢，你是喜欢我脸不洗牙不刷饭不吃OD酗酒屋子不收拾闭灯拉帘每天在家里改花刀连私宅都算不上的阴暗恶臭下水道老鼠吗，不要打破对可爱的幻想！",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1820307083084058624/UbODWjcv_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2477499739/1723051394",
-    "followers_count": 142,
-    "friends_count": 192,
-    "statuses_count": 569,
-    "favourites_count": 427,
-    "listed_count": 0,
+    "screen_name": "Sakurairinaqwq",
+    "description": "最最最最最最最重要的@popopopowu｜2025/7/10 R.I.P",
     "location": "",
-    "website": "https://t.co/l5I3Q9NshM",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/Sakurairinaqwq",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoyNDc3NDk5NzM5",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1820307083084058624/UbODWjcv_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun May 04 22:42:36 +0000 2014",
-            "name": "樱井璃奈",
-            "screen_name": "Sakurairinaqwq"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "rina.arkn.icu",
-                            "expanded_url": "https://rina.arkn.icu",
-                            "url": "https://t.co/l5I3Q9NshM",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 192,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 82,
-            "pinned_tweet_ids_str": [
-                "1819484268500078973"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/l5I3Q9NshM",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1816041314888343617",
-            "professional_type": "Business",
-            "category": [
-                {
-                    "id": 940,
-                    "name": "Musician",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219076818
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 141,
+    "friends_count": 190,
+    "listed_count": 0,
+    "created_at": "Sun May 04 22:42:36 +0000 2014",
+    "favourites_count": 424,
+    "verified": false,
+    "statuses_count": 568,
+    "media_count": 81,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1820307083084058624/UbODWjcv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2477499739/1723051394",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1819484268500078973
+    ],
+    "pinned_tweet_ids_str": [
+        "1819484268500078973"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

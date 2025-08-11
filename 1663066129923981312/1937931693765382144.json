@@ -1,86 +1,51 @@
 {
     "id": "1937931693765382144",
-    "screen_name": "T0rnado_ax",
     "name": "T0rnado | 暗宵",
-    "description": "@T0rnado_tmp 再世 |\n友🏳️‍⚧️\n政治冷漠\n苦逼高三生\n友善交流谢谢喵😋 | 迪克@JesusS2480",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1938194888002310144/_6-WLI2A_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937931693765382144/1750936368",
-    "followers_count": 26,
-    "friends_count": 73,
-    "statuses_count": 98,
-    "favourites_count": 441,
-    "listed_count": 0,
+    "screen_name": "T0rnado_ax",
+    "description": "@T0rnado_tmp 再世 | 叫我暗宵就好😇 | 友🏳️‍⚧️ | 政治冷漠 | 苦逼高三生 | 在计算机的路上越走越远 | 友善交流谢谢喵😋 | 亲友@hikigaya0715",
     "location": "Nearby",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2025-06-26 01:51:53 +08:00",
-    "url": "https://twitter.com/T0rnado_ax",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxOTM3OTMxNjkzNzY1MzgyMTQ0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1938194888002310144/_6-WLI2A_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Jun 25 17:51:53 +0000 2025",
-            "name": "T0rnado | 暗宵",
-            "screen_name": "T0rnado_ax"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 73,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 13,
-            "pinned_tweet_ids_str": [
-                "1938099250216550409"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Nearby"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1750873913000,
-            "updated_at": 1752846587235
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 26,
+    "friends_count": 87,
+    "listed_count": 0,
+    "created_at": "Wed Jun 25 17:51:53 +0000 2025",
+    "favourites_count": 851,
+    "verified": false,
+    "statuses_count": 199,
+    "media_count": 25,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1938194888002310144/_6-WLI2A_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937931693765382144/1750936368",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1938099250216550409
+    ],
+    "pinned_tweet_ids_str": [
+        "1938099250216550409"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

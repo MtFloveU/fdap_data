@@ -1,84 +1,50 @@
 {
     "id": "1860994908972048384",
-    "screen_name": "raindew877",
     "name": "雨露",
-    "description": "你...你好！如果被打扰到了...对不起... | 计算机学习中 | 害怕被责问 | 没有吃糖",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1860996345785442304/uzIwT7nM_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 110,
-    "friends_count": 242,
-    "statuses_count": 788,
-    "favourites_count": 7493,
-    "listed_count": 1,
+    "screen_name": "raindew877",
+    "description": "你...你好！如果被打扰到了...对不起... | 计算机学习中 | 害怕被责问 | 如果可以的话，请用 she/her 称呼我吧，谢谢你！",
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/raindew877",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODYwOTk0OTA4OTcyMDQ4Mzg0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1860996345785442304/uzIwT7nM_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Nov 25 10:32:39 +0000 2024",
-            "name": "雨露",
-            "screen_name": "raindew877"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 242,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219061680
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 133,
+    "friends_count": 270,
+    "listed_count": 2,
+    "created_at": "Mon Nov 25 10:32:39 +0000 2024",
+    "favourites_count": 9721,
+    "verified": false,
+    "statuses_count": 933,
+    "media_count": 1,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1953909423115546624/Sti-eGN8_normal.jpg",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1954652198530654519
+    ],
+    "pinned_tweet_ids_str": [
+        "1954652198530654519"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": true,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

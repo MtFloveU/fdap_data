@@ -1,111 +1,60 @@
 {
     "id": "1754734756326150145",
-    "screen_name": "F30102174650",
     "name": "铜锣湾玲纱厨",
-    "description": "K437轮椅神力/神秘の三角洲玩家：S3统帅&天才少年-铜锣湾猫羽雫/Waifu：@xunxunwangxun",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1940727494954319872/_W-UaI-p_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754734756326150145/1750944405",
-    "followers_count": 79,
-    "friends_count": 258,
-    "statuses_count": 366,
-    "favourites_count": 627,
-    "listed_count": 0,
+    "screen_name": "F30102174650",
+    "description": "K437轮椅神力/神秘の三角洲玩家：S3&S5统帅&天才少年-铜锣湾猫羽雫/Waifu：@xunxunwangxun",
     "location": "变电站技术室",
-    "website": "https://t.co/TbJjPVZaF5",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-02-06 13:12:30 +08:00",
-    "url": "https://twitter.com/F30102174650",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzU0NzM0NzU2MzI2MTUwMTQ1",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1940727494954319872/_W-UaI-p_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Feb 06 05:12:30 +0000 2024",
-            "name": "铜锣湾玲纱厨",
-            "screen_name": "F30102174650"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "htr0721.wordpress.com",
-                            "expanded_url": "https://htr0721.wordpress.com/",
-                            "url": "https://t.co/TbJjPVZaF5",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 258,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 115,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/TbJjPVZaF5",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "变电站技术室"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1754767226371272815",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/TbJjPVZaF5",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 880,
-                    "name": "Travel & Transportation",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/TbJjPVZaF5",
+                    "expanded_url": "https://htr0721.wordpress.com/",
+                    "display_url": "htr0721.wordpress.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1707196350000,
-            "updated_at": 1752846548485
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 95,
+    "friends_count": 283,
+    "listed_count": 0,
+    "created_at": "Tue Feb 06 05:12:30 +0000 2024",
+    "favourites_count": 749,
+    "verified": false,
+    "statuses_count": 431,
+    "media_count": 135,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1940727494954319872/_W-UaI-p_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754734756326150145/1750944405",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
