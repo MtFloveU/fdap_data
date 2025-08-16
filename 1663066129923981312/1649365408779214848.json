@@ -1,99 +1,64 @@
 {
     "id": "1649365408779214848",
+    "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
     "screen_name": "bolckAshley",
-    "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
     "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1750823561",
-    "followers_count": 2499,
-    "friends_count": 1855,
-    "statuses_count": 14948,
-    "favourites_count": 30303,
-    "listed_count": 10,
     "location": "Fujian, Republic of China",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-04-21 18:52:19 +08:00",
-    "url": "https://twitter.com/bolckAshley",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjQ5MzY1NDA4Nzc5MjE0ODQ4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Apr 21 10:52:19 +0000 2023",
-            "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
-            "screen_name": "bolckAshley"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1855,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 973,
-            "pinned_tweet_ids_str": [
-                "1927649358625063127"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Fujian, Republic of China"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1692904276170076235",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/7x8MsmOgUP",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 957,
-                    "name": "Author",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/7x8MsmOgUP",
+                    "expanded_url": "https://www.fes.de",
+                    "display_url": "fes.de",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1682074339000,
-            "updated_at": 1752846624465
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2515,
+    "friends_count": 1911,
+    "listed_count": 9,
+    "created_at": "Fri Apr 21 10:52:19 +0000 2023",
+    "favourites_count": 31837,
+    "verified": false,
+    "statuses_count": 15679,
+    "media_count": 1016,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1955524388197109771/vhZnsIMO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1754996438",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1946818545335386411
+    ],
+    "pinned_tweet_ids_str": [
+        "1946818545335386411"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

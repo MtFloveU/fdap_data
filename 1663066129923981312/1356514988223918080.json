@@ -1,114 +1,60 @@
 {
     "id": "1356514988223918080",
-    "screen_name": "StarrySkyOvO",
     "name": "StarrySky",
-    "description": " EN/漢語/日本語 INFP-T Dev. 💻web3+Crypto Photographer📷 Mixing/Mastering ENGR. 05后 友🏳️‍🌈 常驻027 接场照正片 接私房定制 接旅拍 逃生舱@StarrySkyUS bsky@starryskyovo.bsky.social",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1579650782344855553/SF85JWDo_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356514988223918080/1722527030",
-    "followers_count": 4207,
-    "friends_count": 3465,
-    "statuses_count": 20201,
-    "favourites_count": 0,
-    "listed_count": 27,
+    "screen_name": "StarrySkyOvO",
+    "description": " EN/漢語/日本語 INFP-T Dev. 💻web3+Crypto Photographer📷 Mixing/Mastering ENGR. 🎧重度发烧友 05后 友🏳️‍🌈 常驻027 接场照正片 接定制接旅拍 逃生舱@StarrySkyUS bsky@starryskyovo.bsky.social",
     "location": "🚪0 欢迎扩列",
-    "website": "https://t.co/qZoRN6mwUP",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2021-02-02 16:09:33 +08:00",
-    "url": "https://twitter.com/StarrySkyOvO",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMzU2NTE0OTg4MjIzOTE4MDgw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1579650782344855553/SF85JWDo_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Feb 02 08:09:33 +0000 2021",
-            "name": "StarrySky",
-            "screen_name": "StarrySkyOvO"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/StarrySkyOvO",
-                            "expanded_url": "https://t.me/StarrySkyOvO",
-                            "url": "https://t.co/qZoRN6mwUP",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 3465,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 2150,
-            "pinned_tweet_ids_str": [
-                "1934390483335381147"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/qZoRN6mwUP",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "🚪0 欢迎扩列"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1582779101622177792",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/qZoRN6mwUP",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/qZoRN6mwUP",
+                    "expanded_url": "https://t.me/StarrySkyOvO",
+                    "display_url": "t.me/StarrySkyOvO",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "cash_app_handle": "$StarrySkyCN"
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1612253373000,
-            "updated_at": 1750232281099
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4425,
+    "friends_count": 3489,
+    "listed_count": 27,
+    "created_at": "Tue Feb 02 08:09:33 +0000 2021",
+    "favourites_count": 81158,
+    "verified": false,
+    "statuses_count": 21123,
+    "media_count": 2239,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1579650782344855553/SF85JWDo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356514988223918080/1722527030",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

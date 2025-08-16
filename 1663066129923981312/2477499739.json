@@ -2,23 +2,36 @@
     "id": "2477499739",
     "name": "樱井璃奈",
     "screen_name": "Sakurairinaqwq",
-    "description": "最最最最最最最重要的@popopopowu｜2025/7/10 R.I.P",
+    "description": "最最最最最最最重要的@popopopowu｜预计2025/10/10 R.I.P?",
     "location": "",
-    "url": null,
+    "url": "https://t.co/h6t7HAW31m",
     "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/h6t7HAW31m",
+                    "expanded_url": "http://arkn.icu",
+                    "display_url": "arkn.icu",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
         "description": {
             "urls": []
         }
     },
     "protected": false,
     "followers_count": 141,
-    "friends_count": 190,
+    "friends_count": 196,
     "listed_count": 0,
     "created_at": "Sun May 04 22:42:36 +0000 2014",
-    "favourites_count": 424,
+    "favourites_count": 425,
     "verified": false,
-    "statuses_count": 568,
-    "media_count": 81,
+    "statuses_count": 571,
+    "media_count": 82,
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1820307083084058624/UbODWjcv_normal.jpg",

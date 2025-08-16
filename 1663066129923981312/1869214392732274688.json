@@ -1,68 +1,51 @@
 {
     "id": "1869214392732274688",
-    "screen_name": "yui30118177",
     "name": "原谅我那极强的占有欲",
-    "description": "三代目yui  泛性恋 下海来给自己和家里的猫猫赚零花钱  坐标重庆 我很好说话的🥺入门不退",
-    "location": "🚪88/128/228/520/1314",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1912386957021155329/N3xELMmN_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869214392732274688/1734657156",
-    "followers_count": 447,
-    "statuses_count": 335,
-    "favourites_count": 102,
-    "listed_count": 4,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "created_at": "2024-12-18 10:53:44 +08:00",
-    "url": "https://twitter.com/yui30118177",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODY5MjE0MzkyNzMyMjc0Njg4",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 96,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 84,
-            "pinned_tweet_ids_str": [
-                "1913613196537339977"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1894644944251621735",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1734490424000,
-            "updated_at": 1746080524007
+    "screen_name": "yui30118177",
+    "description": "三代目yui  泛性恋 不接线下 喜欢我可以入🚪找我玩呀",
+    "location": "🚪88听我吐槽",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 456,
+    "friends_count": 96,
+    "listed_count": 2,
+    "created_at": "Wed Dec 18 02:53:44 +0000 2024",
+    "favourites_count": 121,
+    "verified": false,
+    "statuses_count": 347,
+    "media_count": 67,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1955979495732862978/3LD1jk4T_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869214392732274688/1734657156",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1956743377300451713
+    ],
+    "pinned_tweet_ids_str": [
+        "1956743377300451713"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

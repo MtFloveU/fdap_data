@@ -1,57 +1,51 @@
 {
     "id": "1568981457112297473",
+    "name": "QianFoz🍥浅否",
     "screen_name": "QianFoz",
-    "name": "QianFoz🏳️‍⚧️🍥浅否",
-    "description": "🏳️‍⚧️这里是浅否哦 一个居住在男孩身体里的小女孩/持证含糖🍥(2024.2.15)/06.2.26/家长党/努力党/165  40.8kg / 萌新木桶饭 (￣へ￣)/ 欢迎贴贴2488817792/清水推/不常用X发动态就是了(˃ ⌑ ˂ഃ ) 不对为什么我什么社交软件上面都不喜欢发啊   「(°ヘ°)",
+    "description": "浅否哦，目前准备手术中，任何看黄建政或者是其他乱七八糟的都不聊，有另一半，一切有关hrt问题或者这种生活问题总之就是什么问题都可以问，扩列可以私信我哦",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1885286172957745152/DXQyps3B_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568981457112297473/1713629371",
-    "followers_count": 429,
-    "statuses_count": 21,
-    "favourites_count": 105,
-    "listed_count": 0,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "created_at": "2022-09-11 23:15:13 +08:00",
-    "url": "https://twitter.com/QianFoz",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTY4OTgxNDU3MTEyMjk3NDcz",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 495,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 5,
-            "pinned_tweet_ids_str": [
-                "1773359603457106194"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1662909313000,
-            "updated_at": 1744350059785
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 414,
+    "friends_count": 484,
+    "listed_count": 0,
+    "created_at": "Sun Sep 11 15:15:13 +0000 2022",
+    "favourites_count": 102,
+    "verified": false,
+    "statuses_count": 21,
+    "media_count": 5,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1885286172957745152/DXQyps3B_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568981457112297473/1713629371",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1773359603457106194
+    ],
+    "pinned_tweet_ids_str": [
+        "1773359603457106194"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

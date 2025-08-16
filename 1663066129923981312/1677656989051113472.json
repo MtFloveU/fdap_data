@@ -1,59 +1,51 @@
 {
     "id": "1677656989051113472",
+    "name": "清菡",
     "screen_name": "qinghanyufeng",
-    "name": "清菡🏳‍⚧",
-    "description": "mtf/双相/或许算二周目/精神状态欠佳/疯子/有紫餐倾向（可能掉落血图⚠️）/🚪30/或许会接圆角/可能有点碍您眼的渣滓/可爱爱人@1leassis",
+    "description": "mtf/双相/或许算二周目/精神状态欠佳/疯子/有紫餐倾向（可能掉落血图⚠️）/🚪30/可能有点碍您眼的渣滓/可爱爱人@1leassis",
     "location": "爱人的心底",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1766115507764400128/s3ahDo_v_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677656989051113472/1706196109",
-    "followers_count": 581,
-    "statuses_count": 2571,
-    "favourites_count": 8188,
-    "listed_count": 1,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2023-07-08 20:33:02 +08:00",
-    "url": "https://twitter.com/qinghanyufeng",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjc3NjU2OTg5MDUxMTEzNDcy",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 915,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 93,
-            "pinned_tweet_ids_str": [
-                "1850181881951887511"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "twe_private_fields": {
-            "created_at": 1688819582000,
-            "updated_at": 1744350112277
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 570,
+    "friends_count": 895,
+    "listed_count": 1,
+    "created_at": "Sat Jul 08 12:33:02 +0000 2023",
+    "favourites_count": 8038,
+    "verified": false,
+    "statuses_count": 2607,
+    "media_count": 97,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1766115507764400128/s3ahDo_v_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677656989051113472/1706196109",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1850181881951887511
+    ],
+    "pinned_tweet_ids_str": [
+        "1850181881951887511"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

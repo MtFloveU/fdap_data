@@ -1,8 +1,8 @@
 {
     "id": "1748763011140169729",
-    "name": "神仙水水猫🍕🧊",
+    "name": "神仙水水猫🍕",
     "screen_name": "sxshuishuimao",
-    "description": "INFP-t｜素食主義者｜永远14歲｜是豪貓不o不圓不割不死｜残缺b滚｜对象❤️@mengqing5735和 @saonanaa｜提問箱鏈接↓",
+    "description": "INFP-t｜素食主義者｜永远14｜含糖2年xyn｜是豪貓不o不圓不割不死｜对象❤️@mengqing5735和@saonanaa｜残缺b滚｜提問箱鏈接↓",
     "location": "距离你2.1km",
     "url": "https://t.co/qmQkMr39z5",
     "entities": {
@@ -24,24 +24,28 @@
         }
     },
     "protected": false,
-    "followers_count": 1570,
-    "friends_count": 1023,
+    "followers_count": 1641,
+    "friends_count": 1029,
     "listed_count": 5,
     "created_at": "Sat Jan 20 17:42:54 +0000 2024",
-    "favourites_count": 193,
+    "favourites_count": 196,
     "verified": false,
-    "statuses_count": 8512,
-    "media_count": 1571,
+    "statuses_count": 8836,
+    "media_count": 1658,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1951964320759529472/uz8MXAWB_normal.jpg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1956667554510131200/FTDrY2sF_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1746435698",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1955071368925679734
+    ],
+    "pinned_tweet_ids_str": [
+        "1955071368925679734"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": false,

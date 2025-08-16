@@ -1,98 +1,47 @@
 {
     "id": "1798017061131874304",
+    "name": "不安灵魂收容所",
     "screen_name": "cupric_oxide_",
-    "name": "氧化铜",
-    "description": "好朋友： @ci_shang85157\n提问箱：https://t.co/KPi3tnq69a\n窝永远稀饭lin_io ！！！！！",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1937009406178156544/ulz_KmKT_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798017061131874304/1742106826",
-    "followers_count": 1158,
-    "friends_count": 1393,
-    "statuses_count": 5075,
-    "favourites_count": 27980,
-    "listed_count": 5,
+    "description": "わたしは人類 \n@ci_shang85157",
     "location": "南门二",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-06-04 23:40:59 +08:00",
-    "url": "https://twitter.com/cupric_oxide_",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzk4MDE3MDYxMTMxODc0MzA0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1937009406178156544/ulz_KmKT_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Jun 04 15:40:59 +0000 2024",
-            "name": "氧化铜",
-            "screen_name": "cupric_oxide_"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/cupric_oxide/",
-                            "expanded_url": "https://ngl.link/cupric_oxide/",
-                            "url": "https://t.co/KPi3tnq69a",
-                            "indices": [
-                                24,
-                                47
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1393,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 785,
-            "pinned_tweet_ids_str": [
-                "1945827582550962223"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "南门二"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1717515659000,
-            "updated_at": 1752846592776
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 2369,
+    "friends_count": 1378,
+    "listed_count": 5,
+    "created_at": "Tue Jun 04 15:40:59 +0000 2024",
+    "favourites_count": 27996,
+    "verified": false,
+    "statuses_count": 5174,
+    "media_count": 814,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1955600452785168384/F3CLKBeJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798017061131874304/1742106826",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

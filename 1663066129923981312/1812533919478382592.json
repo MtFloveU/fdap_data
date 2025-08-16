@@ -1,58 +1,51 @@
 {
     "id": "1812533919478382592",
+    "name": "TomoRi🐧🚩",
     "screen_name": "BronyaZay0818",
-    "name": "🐧高松灯🐧🚩",
-    "description": "⭐性别:男\n⭐MBTI:infj\n⭐IP属地:重庆\n⭐出生年份:2008\n⭐受教育程度:高中（在读）\n🧠意识形态:卢森堡主义\n💫友LGBTQ+🏳️‍🌈\nstand with 🇵🇸\n好想要成为人类啊！\n欢迎互fo  ❛‿˂̵✧\n（支黑/极端粉红🚫）\n鹿宝🦌:@KaitlynXiaoLu99 🐧🐧🐧",
+    "description": "⭐性别:男\n⭐MBTI:infj\n⭐IP属地:重庆\n⭐出生年份:2008\n⭐受教育程度:高中（在读）\n🧠意识形态:卢森堡主义\n💫友LGBTQ+🏳️‍🌈\nstand with 🇵🇸\n欢迎互fo  \n（支黑/极端粉红🚫）",
     "location": "中国重庆",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1892569371790487552/Cw1ja5iA_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812533919478382592/1740058675",
-    "followers_count": 477,
-    "statuses_count": 2197,
-    "favourites_count": 14408,
-    "listed_count": 2,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2024-07-15 01:06:04 +08:00",
-    "url": "https://twitter.com/BronyaZay0818",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODEyNTMzOTE5NDc4MzgyNTky",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "protected": true,
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 804,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 77,
-            "pinned_tweet_ids_str": [
-                "1896587896980943118"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1720976764000,
-            "updated_at": 1744350076466
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 599,
+    "friends_count": 937,
+    "listed_count": 2,
+    "created_at": "Sun Jul 14 17:06:04 +0000 2024",
+    "favourites_count": 16793,
+    "verified": false,
+    "statuses_count": 2643,
+    "media_count": 112,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1922955887087321089/9z48wHiG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812533919478382592/1740058675",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1896587896980943118
+    ],
+    "pinned_tweet_ids_str": [
+        "1896587896980943118"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,102 +1,74 @@
 {
     "id": "1401916221214236674",
-    "screen_name": "XiJiangFo",
     "name": "夕酱🏴‍☠️",
-    "description": "♂｜INFJ-T｜🚫不键政｜🏴‍☠️ACG原教旨主义｜CS2养老玩家（主队：@TeamVitalityCS🐝 #VForVictory 副队：@FaZeEsports）｜小号：@XiJiangKurisu｜欢迎互fo｜",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1926908542608396289/xLstmFaJ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401916221214236674/1745843820",
-    "followers_count": 3827,
-    "friends_count": 4024,
-    "statuses_count": 14390,
-    "favourites_count": 32507,
-    "listed_count": 7,
+    "screen_name": "XiJiangFo",
+    "description": "♂｜INFJ-T｜🚫不键政｜🏴‍☠️ACG原教旨主义｜CS2休闲养老玩家｜反恐精英之神：@ropZyw0o ｜碎念本：@XiJiangKurisu｜欢迎互fo｜提问板：https://t.co/i5U0BiRq9Y",
     "location": "↓超自然研究部（telegram群组）",
-    "website": "https://t.co/dprzM8uoK5",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/XiJiangFo",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDAxOTE2MjIxMjE0MjM2Njc0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1926908542608396289/xLstmFaJ_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Jun 07 14:57:47 +0000 2021",
-            "name": "夕酱🏴‍☠️",
-            "screen_name": "XiJiangFo"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/+TRJVjF6gdXVjM…",
-                            "expanded_url": "https://t.me/+TRJVjF6gdXVjMjI1",
-                            "url": "https://t.co/dprzM8uoK5",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/dprzM8uoK5",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dprzM8uoK5",
+                    "expanded_url": "https://t.me/+TRJVjF6gdXVjMjI1",
+                    "display_url": "t.me/+TRJVjF6gdXVjM…",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 4024,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 1955,
-            "pinned_tweet_ids_str": [
-                "1927016913676226560"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/dprzM8uoK5",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "↓超自然研究部（telegram群组）"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219075207
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/i5U0BiRq9Y",
+                    "expanded_url": "https://ngl.link/xijiangfo",
+                    "display_url": "ngl.link/xijiangfo",
+                    "indices": [
+                        84,
+                        107
+                    ]
+                }
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 3819,
+    "friends_count": 4044,
+    "listed_count": 8,
+    "created_at": "Mon Jun 07 14:57:47 +0000 2021",
+    "favourites_count": 32491,
+    "verified": false,
+    "statuses_count": 14623,
+    "media_count": 2002,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1937125779906662400/hqZW079o_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401916221214236674/1745843820",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1954929266589884914
+    ],
+    "pinned_tweet_ids_str": [
+        "1954929266589884914"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
