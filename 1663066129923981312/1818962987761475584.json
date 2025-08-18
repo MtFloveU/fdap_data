@@ -1,57 +1,51 @@
 {
     "id": "1818962987761475584",
+    "name": "西園寺カゼネ🏳️‍⚧️🍥",
     "screen_name": "Anan628769",
-    "name": "白衣诺子🍥",
-    "description": "年龄党/家长党/2023.0906hrt/GnRH使用中/14岁小妹妹/是女孩子！/以温柔守护一切美好/姐姐们@QIANYU_ya @EG149829390 @xn0386104125206 @kite52154243/闺蜜@WZ305_ZTZ69/宠物猫@AGeSang2008",
+    "description": "2023.0906hrt/以温柔守护一切美好/姐姐们@QIANYU_ya @EG149829390 @xn0386104125206 @kite52154243/闺蜜@WZ305_ZTZ69/宠物猫@AGeSang2008",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1818963164404322304/vMLIZc-z_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818962987761475584/1734780727",
-    "followers_count": 194,
-    "statuses_count": 98,
-    "favourites_count": 199,
-    "listed_count": 0,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2024-08-01 18:52:45 +08:00",
-    "url": "https://twitter.com/Anan628769",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODE4OTYyOTg3NzYxNDc1NTg0",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 392,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 7,
-            "pinned_tweet_ids_str": [
-                "1826849297583014160"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1722509565000,
-            "updated_at": 1744350099731
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 230,
+    "friends_count": 408,
+    "listed_count": 0,
+    "created_at": "Thu Aug 01 10:52:45 +0000 2024",
+    "favourites_count": 200,
+    "verified": false,
+    "statuses_count": 99,
+    "media_count": 4,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1818963164404322304/vMLIZc-z_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818962987761475584/1734780727",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1826849297583014160
+    ],
+    "pinned_tweet_ids_str": [
+        "1826849297583014160"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

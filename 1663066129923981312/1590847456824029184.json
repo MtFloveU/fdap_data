@@ -1,89 +1,64 @@
 {
     "id": "1590847456824029184",
-    "screen_name": "RENHAIKING39",
     "name": "刃海KING39",
-    "description": "你可以叫我小海//ESTP//天蝎座//08年生人//工科生//湘东赣西地区活跃//有线耳机爱好者//Bang Dream//火车迷//口哨爱好者/音域B4~Eb8//ACGN//社会自由主义//邮箱：renhaiking39@Gmail.com//",
+    "screen_name": "RENHAIKING39",
+    "description": "你可以叫我小海//ESTP//天蝎座//08年生人//工科生//有线耳机爱好者//Bang Dream//火车迷//口哨爱好者/音域B4~Eb8//ACGN//社会自由主义//邮箱：renhaiking39@Gmail.com//",
     "location": "杀玛人民共和国",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1900124916470734850/NNhqAP1M_normal.png",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590847456824029184/1742992829",
-    "followers_count": 1212,
-    "friends_count": 2977,
-    "statuses_count": 3247,
-    "favourites_count": 163330,
-    "listed_count": 3,
-    "website": "https://t.co/IooKKL0eDm",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": null,
-    "created_at": "2022-11-11 07:22:55 +08:00",
-    "url": "https://twitter.com/RENHAIKING39",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTkwODQ3NDU2ODI0MDI5MTg0",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/renhaiking39",
-                            "expanded_url": "https://ngl.link/renhaiking39",
-                            "url": "https://t.co/IooKKL0eDm",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2977,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 526,
-            "pinned_tweet_ids_str": [
-                "1828686368546967906"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/IooKKL0eDm",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1878679340185264153",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/l1yJeHTkrM",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 919,
-                    "name": "Railroad Company",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/l1yJeHTkrM",
+                    "expanded_url": "https://ngl.link/renhaiking39",
+                    "display_url": "ngl.link/renhaiking39",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "twe_private_fields": {
-            "created_at": 1668122575000,
-            "updated_at": 1746277412264
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 1171,
+    "friends_count": 2953,
+    "listed_count": 3,
+    "created_at": "Thu Nov 10 23:22:55 +0000 2022",
+    "favourites_count": 160979,
+    "verified": false,
+    "statuses_count": 89,
+    "media_count": 23,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1900124916470734850/NNhqAP1M_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590847456824029184/1751725735",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1749825584115622168
+    ],
+    "pinned_tweet_ids_str": [
+        "1749825584115622168"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
