@@ -1,113 +1,64 @@
 {
     "id": "1577533051558514688",
-    "screen_name": "MizunoShio",
     "name": "Cecilia",
-    "description": "日本語勉強している | 中国語話す👌｜日本語ちょっと話す｜人像攝影｜在広州活動｜",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1823957370726440962/PWwul0an_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577533051558514688/1741416794",
-    "followers_count": 704,
-    "friends_count": 2874,
-    "statuses_count": 5039,
-    "favourites_count": 63558,
-    "listed_count": 3,
+    "screen_name": "MizunoShio",
+    "description": "日本語勉強している | 中国語話す👌｜日本語ちょっと話せ｜人像攝影｜在広州活動｜",
     "location": "Cfbdsir2149",
-    "website": "https://t.co/DcZlvNgCsm",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-10-05 13:36:14 +08:00",
-    "url": "https://twitter.com/MizunoShio",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTc3NTMzMDUxNTU4NTE0Njg4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1823957370726440962/PWwul0an_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Oct 05 05:36:14 +0000 2022",
-            "name": "Cecilia",
-            "screen_name": "MizunoShio"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/kazamiei",
-                            "expanded_url": "https://ngl.link/kazamiei",
-                            "url": "https://t.co/DcZlvNgCsm",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2874,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 644,
-            "pinned_tweet_ids_str": [
-                "1902388052296880270"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/DcZlvNgCsm",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Cfbdsir2149"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1692061141504274647",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/DcZlvNgCsm",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 552,
-                    "name": "Photographer",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/DcZlvNgCsm",
+                    "expanded_url": "https://ngl.link/kazamiei",
+                    "display_url": "ngl.link/kazamiei",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1664948174000,
-            "updated_at": 1752846549569
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 701,
+    "friends_count": 2906,
+    "listed_count": 3,
+    "created_at": "Wed Oct 05 05:36:14 +0000 2022",
+    "favourites_count": 65652,
+    "verified": false,
+    "statuses_count": 5102,
+    "media_count": 646,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1823957370726440962/PWwul0an_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577533051558514688/1741416794",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1902388052296880270
+    ],
+    "pinned_tweet_ids_str": [
+        "1902388052296880270"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

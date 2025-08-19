@@ -1,116 +1,50 @@
 {
     "id": "1521781722551103490",
-    "screen_name": "_XiaoYu_OvO_",
     "name": "筱雨awa",
-    "description": "| 小破县城准高三在读的笨蛋 | 奇怪的数字之071230和241002 | 可能会发带有各种情绪的推文 | 笨蛋姐姐@porphyrin49 | 好厉害好强的妹妹@Panxi___ | 呆受的k酱@raidraptormirai | hmm不知道说什么好了 祝看到的你开心快乐每一天awa（ '▿ ' ）|",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1842600495145168896/d9a8nlO-_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 209,
-    "friends_count": 238,
-    "statuses_count": 1784,
-    "favourites_count": 11922,
-    "listed_count": 1,
+    "screen_name": "_XiaoYu_OvO_",
+    "description": "| 小破县城高三在读的笨蛋 | 奇怪的数字之071230和241002 | 可能会发带有各种情绪的推文 | 笨蛋姐姐@porphyrin49 | 好厉害好强的妹妹@Panxi___ | 呆受的k酱@raidraptormirai | hmm不知道说什么好了 祝看到的你开心快乐每一天awa（ '▿ ' ）|",
     "location": "距你2147483647米",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-05-04 17:20:23 +08:00",
-    "url": "https://twitter.com/_XiaoYu_OvO_",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTIxNzgxNzIyNTUxMTAzNDkw",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @_yh_awa_",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 22,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "_yh_awa_",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "_yh_awa_"
-                                        },
-                                        "rest_id": "1796542163712675840"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1842600495145168896/d9a8nlO-_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed May 04 09:20:23 +0000 2022",
-            "name": "筱雨awa",
-            "screen_name": "_XiaoYu_OvO_"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 238,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 319,
-            "pinned_tweet_ids_str": [
-                "1922606074273661215"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "距你2147483647米"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1651656023000,
-            "updated_at": 1752846541265
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 210,
+    "friends_count": 235,
+    "listed_count": 1,
+    "created_at": "Wed May 04 09:20:23 +0000 2022",
+    "favourites_count": 13421,
+    "verified": false,
+    "statuses_count": 1893,
+    "media_count": 343,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1842600495145168896/d9a8nlO-_normal.jpg",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1922606074273661215
+    ],
+    "pinned_tweet_ids_str": [
+        "1922606074273661215"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

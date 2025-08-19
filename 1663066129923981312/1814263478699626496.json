@@ -2,23 +2,36 @@
     "id": "1814263478699626496",
     "name": "柚子サイダー 🍒",
     "screen_name": "PomeloSoda_OvO",
-    "description": "もっと可愛くなりたいな✨ | 我是成年人！好友位🚪128r（有小福利🍦）购买图包请先看置顶，喜欢的可以投喂主播哦🍧| みんなの応援，めっちゃありがとー❤️",
+    "description": "もっと可愛くなりたいな✨ | 我是成年人！好友位🚪128r，喜欢的可以投喂主播哦🍧| 图包购买请看置顶哦🍦| Purchase picture packs join my telegram group or click my fanbox link⬇️ | みんなの応援，めっちゃありがとー❤️",
     "location": "💤💤💤",
-    "url": null,
+    "url": "https://t.co/WfxeUPFOov",
     "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/WfxeUPFOov",
+                    "expanded_url": "https://lovexiaoxiao.fanbox.cc/",
+                    "display_url": "lovexiaoxiao.fanbox.cc",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
         "description": {
             "urls": []
         }
     },
     "protected": false,
-    "followers_count": 70709,
+    "followers_count": 71204,
     "friends_count": 128,
     "listed_count": 172,
     "created_at": "Fri Jul 19 11:38:39 +0000 2024",
-    "favourites_count": 2285,
+    "favourites_count": 2301,
     "verified": false,
-    "statuses_count": 634,
-    "media_count": 45,
+    "statuses_count": 653,
+    "media_count": 46,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1950514276260773888/7lAMBk_D_normal.jpg",
@@ -28,10 +41,10 @@
     "default_profile": true,
     "default_profile_image": false,
     "pinned_tweet_ids": [
-        1955895996472549874
+        1957757101381501431
     ],
     "pinned_tweet_ids_str": [
-        "1955895996472549874"
+        "1957757101381501431"
     ],
     "has_custom_timelines": false,
     "can_dm": null,
