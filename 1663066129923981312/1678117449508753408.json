@@ -1,111 +1,64 @@
 {
     "id": "1678117449508753408",
-    "screen_name": "Chunliang2nd",
     "name": "粘同学不是你同学☆",
-    "description": "我说老大哥，我刚刚在电幕旁边写日记的时候，你偷看了对吧？(错乱 ADHD/AS 双相待确诊 恐直🏳️‍⚧️Enby🍥HRT2023.6.9 半吊子geek ❄️NixOS Android SukiSU 中二HKer🇭🇰 贝贝珈毒唯 厌食/ED 维生素不足 @liminfin",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678117449508753408/1716017466",
-    "followers_count": 1315,
-    "friends_count": 1311,
-    "statuses_count": 19655,
-    "favourites_count": 12689,
-    "listed_count": 11,
+    "screen_name": "Chunliang2nd",
+    "description": "我说老大哥，我刚刚在电幕旁边写日记的时候，你偷看了对吧？(错乱 ADHD/AS 双相确诊 恐直🏳️‍⚧️Enby🍥HRT2023.6.9 半吊子geek ❄️NixOS Android SukiSU 中二HKer🇭🇰 贝贝珈毒唯 厌食/ED 维生素不足 @liminfin",
     "location": "乡北茶舍",
-    "website": "https://t.co/wpEdl7ukHh",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-07-10 03:02:54 +08:00",
-    "url": "https://twitter.com/Chunliang2nd",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjc4MTE3NDQ5NTA4NzUzNDA4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Jul 09 19:02:54 +0000 2023",
-            "name": "粘同学不是你同学☆",
-            "screen_name": "Chunliang2nd"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ouka.ro",
-                            "expanded_url": "http://ouka.ro",
-                            "url": "https://t.co/wpEdl7ukHh",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1311,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 924,
-            "pinned_tweet_ids_str": [
-                "1845803069252260212"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/wpEdl7ukHh",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "乡北茶舍"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "Fan",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1787589419446468967",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/wpEdl7ukHh",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 1055,
-                    "name": "Software developer/Programmer/Software engineer",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/wpEdl7ukHh",
+                    "expanded_url": "http://ouka.ro",
+                    "display_url": "ouka.ro",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1688929374000,
-            "updated_at": 1750404904094
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1298,
+    "friends_count": 1307,
+    "listed_count": 11,
+    "created_at": "Sun Jul 09 19:02:54 +0000 2023",
+    "favourites_count": 12885,
+    "verified": false,
+    "statuses_count": 19879,
+    "media_count": 936,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678117449508753408/1716017466",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1845803069252260212
+    ],
+    "pinned_tweet_ids_str": [
+        "1845803069252260212"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
