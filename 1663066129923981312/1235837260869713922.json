@@ -1,82 +1,64 @@
 {
     "id": "1235837260869713922",
-    "screen_name": "1034_MIRACLE",
     "name": "东少DのMiracle（摸鱼中）",
-    "description": "好好休息，好好吃饭，好好锻炼，大部分时候正能量get，月球人玩家(≧∇≦)/，咸鱼社畜一枚，愿大家每天元气满满，看心情互fo（实话）请适度且合理地键政，请勿轻易透过ID来随意批判他人！B站偶尔投稿用户，转生移至@MIRACLE91490649✌😋🚓",
+    "screen_name": "1034_MIRACLE",
+    "description": "好好休息，好好吃饭，好好锻炼，大部分时候正能量get，月球人玩家(≧∇≦)/，咸鱼社畜一枚，愿大家每天元气满满，看心情互fo（实话）请适度且合理地键政，请勿轻易透过ID来随意批判他人！B站偶尔投稿用户，转生移至@MIRACLE1034✌😋🚓",
     "location": "上海",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1902052081705574400/9vmFjRkX_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1235837260869713922/1716563886",
-    "followers_count": 2949,
-    "statuses_count": 67583,
-    "favourites_count": 157730,
-    "listed_count": 14,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2020-03-06 15:59:13 +08:00",
-    "url": "https://twitter.com/1034_MIRACLE",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMjM1ODM3MjYwODY5NzEzOTIy",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "pixiv.net/users/44358881",
-                            "expanded_url": "https://www.pixiv.net/users/44358881",
-                            "url": "https://t.co/jLKOoDkHQ6",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 5460,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 10062,
-            "pinned_tweet_ids_str": [
-                "1845455095498145960"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/jLKOoDkHQ6",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1465908744118751241",
-            "professional_type": "Business",
-            "category": [
+    "url": "https://t.co/jLKOoDkHQ6",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/jLKOoDkHQ6",
+                    "expanded_url": "https://www.pixiv.net/users/44358881",
+                    "display_url": "pixiv.net/users/44358881",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1583481553000,
-            "updated_at": 1744350103152
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2942,
+    "friends_count": 5701,
+    "listed_count": 15,
+    "created_at": "Fri Mar 06 07:59:13 +0000 2020",
+    "favourites_count": 164521,
+    "verified": false,
+    "statuses_count": 71178,
+    "media_count": 10577,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1956606186754871296/nIgLM6Xu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1235837260869713922/1716563886",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1958835172763476112
+    ],
+    "pinned_tweet_ids_str": [
+        "1958835172763476112"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,8 +1,8 @@
 {
     "id": "1790006276162048000",
-    "name": "𝐅𝐫𝐞𝐮𝐧𝐬𝐢𝐠𝐧𝐞𝐝 ⵣ🇭🇰🇲🇴",
+    "name": "𝐅𝐫𝐞𝐮𝐧𝐬𝐢𝐠𝐧𝐞𝐝 ⵣ🇭🇰🇲🇴(备考CSP版)",
     "screen_name": "iCosint1978",
-    "description": "𝖂𝖊 𝕾𝖍𝖆𝖑𝖑 𝕹𝖊𝖛𝖊𝖗 𝕾𝖚𝖗𝖗𝖊𝖓𝖉𝖊\n半AFO || 𝑰 ❤️ 𝑴𝑨𝑪𝑨𝑶. || 🏳️‍🌈🏳️‍⚧️ || 🇭🇰🇲🇴🇨🇳 || 一国两制，和平统一 || 🇺🇸🇨🇦🇯🇵🇸🇬 || 100% 回fo || one China",
+    "description": "𝕴 𝖌𝖑𝖎𝖒𝖕𝖘𝖊 𝖇𝖚𝖙 𝖆 𝖘𝖍𝖆𝖉𝖔𝖜\n半AFO || 𝑰 ❤️ 𝑴𝑨𝑪𝑨𝑶. || 🏳️‍🌈🏳️‍⚧️ || 🇭🇰🇲🇴🇨🇳 ||  🇺🇸🇨🇦🇯🇵🇸🇬",
     "location": "澳门大学 荣誉学院",
     "url": null,
     "entities": {
@@ -11,14 +11,14 @@
         }
     },
     "protected": false,
-    "followers_count": 405,
-    "friends_count": 461,
-    "listed_count": 2,
+    "followers_count": 429,
+    "friends_count": 486,
+    "listed_count": 1,
     "created_at": "Mon May 13 13:08:58 +0000 2024",
-    "favourites_count": 8879,
+    "favourites_count": 10545,
     "verified": false,
-    "statuses_count": 2725,
-    "media_count": 24,
+    "statuses_count": 3058,
+    "media_count": 51,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1943912291172249600/ssQzwuw9_normal.jpg",
@@ -27,8 +27,12 @@
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1958385042226659736
+    ],
+    "pinned_tweet_ids_str": [
+        "1958385042226659736"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": false,

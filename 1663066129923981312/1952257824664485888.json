@@ -2,23 +2,36 @@
     "id": "1952257824664485888",
     "name": "Libailu",
     "screen_name": "LibailuOne",
-    "description": "08l巨蟹座l爱哭l泪失禁l情绪不稳定l双相l躯体化l渴望自己是个xynl讨厌家长l深柜l想离开这个家，在默默无闻的地方死去。请叫我白鹭，同时不希望任何人记得我。（私聊请先关注，否则一律视为骚扰）",
+    "description": "08l巨蟹座l爱哭l泪失禁l情绪不稳定l双相l躯体化l渴望自己是个xynl讨厌家长l深柜l想离开这个家，在默默无闻的地方死去。请叫我白鹭，同时不希望任何人记得我。（私聊请先关注，否则一律视为骚扰）梦幻三人组：Libailu，Peiloxi，Sikerter。",
     "location": "亚神瑞亚尼赛亚（Asenruia Nisaa）",
-    "url": null,
+    "url": "https://t.co/ybSVcXZYco",
     "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ybSVcXZYco",
+                    "expanded_url": "http://mtf.wiki",
+                    "display_url": "mtf.wiki",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
         "description": {
             "urls": []
         }
     },
     "protected": false,
-    "followers_count": 193,
-    "friends_count": 238,
+    "followers_count": 225,
+    "friends_count": 270,
     "listed_count": 0,
     "created_at": "Mon Aug 04 06:38:58 +0000 2025",
-    "favourites_count": 3221,
+    "favourites_count": 3704,
     "verified": false,
-    "statuses_count": 262,
-    "media_count": 44,
+    "statuses_count": 374,
+    "media_count": 52,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1952271190934052864/mEH6qJN6_normal.jpg",
@@ -28,15 +41,15 @@
     "default_profile": true,
     "default_profile_image": false,
     "pinned_tweet_ids": [
-        1957630107545399473
+        1958465751389802649
     ],
     "pinned_tweet_ids_str": [
-        "1957630107545399473"
+        "1958465751389802649"
     ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": false,
-    "following": false,
+    "following": true,
     "follow_request_sent": false,
     "notifications": false,
     "muting": false,

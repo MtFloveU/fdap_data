@@ -1,10 +1,9 @@
-🕒Time: `2025-08-21 16:57:36 `
-📊Total followers: `1345`, following: `999`
+🕒Time: `2025-08-22 21:56:58 `
+📊Total followers: `1355`, following: `1006`
 *Mutual Unfollow or Removal:*
-`坂下りっか🍬` @`zuifeiwu`
-`姝姝🎀` @`MTF_shushu`
-`要坂下一切害人虫，全六花！` @`zhu6hua`
-`idiotthingie` @`idiotthingie`
+`风木木` @`BCA207091169457`
+`小葵🌻` @`Ol_Sunflower`
+`Demonkeyse Manell` @`allvulples`
 
 *Returning Follows:*
-`你是要气死铨酱么🍥` @`JDE_Alva`
+`小羽-樱雪羽🏳️‍⚧️🍥` @`Sakura_Yukihane`

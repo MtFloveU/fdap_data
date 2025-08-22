@@ -1,17 +1,17 @@
 {
-    "id": "1505492874971934721",
-    "name": "きららりのん",
-    "screen_name": "CH3COSCoA",
-    "description": "18↑/重音テト/ボカロ/中国語/物理/化学/APhO25/IChO25/IPhO25",
-    "location": "日本語/English/汉语",
-    "url": "https://t.co/JdvcQGjCJJ",
+    "id": "1954601674083053569",
+    "name": "雎咲柚檸Sakiyuri",
+    "screen_name": "JuSakuyuLime",
+    "description": "Antipathy World\n🇨🇳\n不知道自己為何物的phony\nChinese &English &Japanese自放送\n有事请私信喵",
+    "location": "格林纳达",
+    "url": "https://t.co/M4Cw7b0FnJ",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/JdvcQGjCJJ",
-                    "expanded_url": "https://lit.link/en/qilineng",
-                    "display_url": "lit.link/en/qilineng",
+                    "url": "https://t.co/M4Cw7b0FnJ",
+                    "expanded_url": "https://space.bilibili.com/374873057?spm_id_from=333.788.upinfo.head.click",
+                    "display_url": "space.bilibili.com/374873057?spm_…",
                     "indices": [
                         0,
                         23
@@ -24,29 +24,29 @@
         }
     },
     "protected": false,
-    "followers_count": 1626,
-    "friends_count": 3711,
-    "listed_count": 5,
-    "created_at": "Sun Mar 20 10:34:12 +0000 2022",
-    "favourites_count": 38379,
+    "followers_count": 103,
+    "friends_count": 1065,
+    "listed_count": 0,
+    "created_at": "Sun Aug 10 17:52:21 +0000 2025",
+    "favourites_count": 280,
     "verified": false,
-    "statuses_count": 22561,
-    "media_count": 1480,
+    "statuses_count": 269,
+    "media_count": 17,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1949389409725693952/CrTw8wjM_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1505492874971934721/1753611362",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1958581195630948352/iVdryU4k_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954601674083053569/1754848672",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
     "pinned_tweet_ids": [
-        1949401757102354582
+        1956399794840367171
     ],
     "pinned_tweet_ids_str": [
-        "1949401757102354582"
+        "1956399794840367171"
     ],
-    "has_custom_timelines": true,
+    "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": true,
     "following": false,
