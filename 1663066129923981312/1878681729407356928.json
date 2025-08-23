@@ -2,33 +2,23 @@
     "id": "1878681729407356928",
     "name": "祐穂・H",
     "screen_name": "HYuusui1999",
-    "description": "「等待并心怀希望吧。」 希望大家都好好生活。【我的tg频道 https://t.co/YW3LMuplZ2】",
+    "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
     "location": "人间边缘",
     "url": null,
     "entities": {
         "description": {
-            "urls": [
-                {
-                    "url": "https://t.co/YW3LMuplZ2",
-                    "expanded_url": "https://t.me/watashitachinorisou",
-                    "display_url": "t.me/watashitachino…",
-                    "indices": [
-                        30,
-                        53
-                    ]
-                }
-            ]
+            "urls": []
         }
     },
-    "protected": true,
-    "followers_count": 652,
-    "friends_count": 1580,
+    "protected": false,
+    "followers_count": 663,
+    "friends_count": 1603,
     "listed_count": 5,
     "created_at": "Mon Jan 13 05:53:31 +0000 2025",
-    "favourites_count": 28897,
+    "favourites_count": 29435,
     "verified": false,
-    "statuses_count": 7280,
-    "media_count": 248,
+    "statuses_count": 7482,
+    "media_count": 254,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",

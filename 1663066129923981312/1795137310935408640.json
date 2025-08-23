@@ -1,128 +1,59 @@
 {
     "id": "1795137310935408640",
-    "screen_name": "saksamalah2nd",
     "name": "太阳万寿无疆，向日葵🌻永远健康",
-    "description": "马来西亚是马来西亚人的马来西亚😞   不要遵宪要修宪📕  不要主人要平等📜 人民至上👨🛠 Ketuanan Rakyat  一國三制🇲🇾❤|雪兰莪州|惠州人|@lmao_quien",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1931578182454644737/I1JnCtn3_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 1211,
-    "friends_count": 1491,
-    "statuses_count": 27374,
-    "favourites_count": 79302,
-    "listed_count": 9,
+    "screen_name": "saksamalah2nd",
+    "description": "马来西亚是马来西亚人的马来西亚😞   不要遵宪要修宪📕   人民至上👨🛠 Ketuanan Rakyat  一國三制🇲🇾❤|雪兰莪州|惠州人|@lmao_quien",
     "location": "重庆 马来西亚/（广东省）闽粤交界",
-    "website": "https://t.co/GwUECa5QTg",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-05-28 00:57:58 +08:00",
-    "url": "https://twitter.com/saksamalah2nd",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzk1MTM3MzEwOTM1NDA4NjQw",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @saksamalah3rd",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 27,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "saksamalah3rd",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "saksamalah3rd"
-                                        },
-                                        "rest_id": "1822687533463207936"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1931578182454644737/I1JnCtn3_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon May 27 16:57:58 +0000 2024",
-            "name": "太阳万寿无疆，向日葵🌻永远健康",
-            "screen_name": "saksamalah2nd"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "youtu.be/g0moet-jLw8?si…",
-                            "expanded_url": "https://youtu.be/g0moet-jLw8?si=IxPxG6Xe51xCb20d",
-                            "url": "https://t.co/GwUECa5QTg",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/GwUECa6oIO",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/GwUECa6oIO",
+                    "expanded_url": "https://youtu.be/g0moet-jLw8?si=IxPxG6Xe51xCb20d",
+                    "display_url": "youtu.be/g0moet-jLw8?si…",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1491,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1882,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/GwUECa5QTg",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "重庆 马来西亚/（广东省）闽粤交界"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1716829078000,
-            "updated_at": 1752846618060
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1199,
+    "friends_count": 1470,
+    "listed_count": 8,
+    "created_at": "Mon May 27 16:57:58 +0000 2024",
+    "favourites_count": 80852,
+    "verified": false,
+    "statuses_count": 27849,
+    "media_count": 1891,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1931578182454644737/I1JnCtn3_normal.jpg",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
