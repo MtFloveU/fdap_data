@@ -1,10 +1,5 @@
-🕒Time: `2025-08-23 19:07:59 `
-📊Total followers: `1354`, following: `1007`
+🕒Time: `2025-08-23 20:18:59 `
+📊Total followers: `1353`, following: `1007`
 *Mutual Unfollow or Removal:*
-`璟江别` @`cy79p`
+`皮皮蛙` @`WPP52760990`
 
-*One-Way Unfollowers:*
-`𝕮𝖍𝖎𝖌𝖎𝖓𝖊금기산` @`Chigine1`
-
-*Returning Follows:*
-`Alice` @`AliceEslight`
