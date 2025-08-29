@@ -1,80 +1,61 @@
 {
     "id": "1316543566827548673",
-    "screen_name": "AikawaFuyuko",
     "name": "相川冬子official",
+    "screen_name": "AikawaFuyuko",
     "description": "这里是傲娇与色气并存的小男娘——相川冬子的官方账号\n世界第一烧鸡，来玩玩呗\n/底层cosplayer #伪娘 #女装COSER\nわがままの男の娘だよねー\n想被操，想变成彻底雌堕的榨汁姬！\n有偿约是可以的哦！\n个人电报群:https://t.co/rfdIIaiyqW\n＃加QQ前须知，我有30元的门槛费哦",
-    "location": "广东省中山市",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1899432387618152448/UGVNPeFn_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1316543566827548673/1693093193",
-    "followers_count": 12345,
-    "statuses_count": 1550,
-    "favourites_count": 1433,
-    "listed_count": 27,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "created_at": "2020-10-15 08:57:12 +08:00",
-    "url": "https://twitter.com/AikawaFuyuko",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMzE2NTQzNTY2ODI3NTQ4Njcz",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/+Nw7m0N7Io1syM…",
-                            "expanded_url": "https://t.me/+Nw7m0N7Io1syMmJl",
-                            "url": "https://t.co/rfdIIaiyqW",
-                            "indices": [
-                                110,
-                                133
-                            ]
-                        }
+    "location": "广东省肇庆市",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/rfdIIaiyqW",
+                    "expanded_url": "https://t.me/+Nw7m0N7Io1syMmJl",
+                    "display_url": "t.me/+Nw7m0N7Io1syM…",
+                    "indices": [
+                        110,
+                        133
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2589,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 977,
-            "pinned_tweet_ids_str": [
-                "1685188525308919810"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "sensitive_media",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1509091238917849089",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
-                }
             ]
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "twe_private_fields": {
-            "created_at": 1602723432000,
-            "updated_at": 1744350054661
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 6987,
+    "friends_count": 2703,
+    "listed_count": 33,
+    "created_at": "Thu Oct 15 00:57:12 +0000 2020",
+    "favourites_count": 1536,
+    "verified": false,
+    "statuses_count": 1715,
+    "media_count": 1094,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1958864065620844548/PxP1hnoX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1316543566827548673/1754232054",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1685188525308919810
+    ],
+    "pinned_tweet_ids_str": [
+        "1685188525308919810"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,99 +1,51 @@
 {
     "id": "1839263401845075974",
+    "name": "TMTV",
     "screen_name": "0Yowlry",
-    "name": "Yowlry",
     "description": "私たちは二次元をこれほど熱愛している",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
-    "followers_count": 1731,
-    "friends_count": 2303,
-    "statuses_count": 6742,
-    "favourites_count": 16659,
-    "listed_count": 6,
     "location": "Neoaurorium City",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-09-26 19:19:31 +08:00",
-    "url": "https://twitter.com/0Yowlry",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODM5MjYzNDAxODQ1MDc1OTc0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg"
-        },
-        "core": {
-            "created_at": "Thu Sep 26 11:19:31 +0000 2024",
-            "name": "Yowlry",
-            "screen_name": "0Yowlry"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2303,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 289,
-            "pinned_tweet_ids_str": [
-                "1895931291142627425"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Neoaurorium City"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1894213773226848702",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 93,
-                    "name": "Aviation",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1727349571000,
-            "updated_at": 1752846595659
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1808,
+    "friends_count": 2403,
+    "listed_count": 10,
+    "created_at": "Thu Sep 26 11:19:31 +0000 2024",
+    "favourites_count": 18355,
+    "verified": false,
+    "statuses_count": 7501,
+    "media_count": 301,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1960048268525858816/MjMpG-1y_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1895931291142627425
+    ],
+    "pinned_tweet_ids_str": [
+        "1895931291142627425"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

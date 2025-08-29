@@ -1,8 +1,8 @@
 {
     "id": "1809131584915918851",
-    "name": "シン·多分、楓🍁💧",
+    "name": "多分、楓🍁｜✰𝓔𝓷𝓰𝓮𝓵✰",
     "screen_name": "KaedeKure",
-    "description": "世界是褪色的底片，你是一道僭越的显影",
+    "description": "带我逃离那片冰冷的森林.......@PrivateofAlice",
     "location": "похороны",
     "url": null,
     "entities": {
@@ -11,24 +11,28 @@
         }
     },
     "protected": true,
-    "followers_count": 61,
-    "friends_count": 75,
+    "followers_count": 73,
+    "friends_count": 85,
     "listed_count": 0,
     "created_at": "Fri Jul 05 07:46:07 +0000 2024",
-    "favourites_count": 4771,
+    "favourites_count": 5674,
     "verified": false,
-    "statuses_count": 336,
-    "media_count": 85,
+    "statuses_count": 389,
+    "media_count": 83,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1944158928436097024/ouoXdndl_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809131584915918851/1752221614",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1961096271764262912/4pRHyJCQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809131584915918851/1756353243",
     "profile_use_background_image": true,
     "has_extended_profile": false,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1961096471656493468
+    ],
+    "pinned_tweet_ids_str": [
+        "1961096471656493468"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": false,

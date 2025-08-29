@@ -2,14 +2,14 @@
     "id": "1856699710981251072",
     "name": "Bernard",
     "screen_name": "Tim_Pan_44",
-    "description": "Danke Seb | 最爱最爱的饱饱：@bushi_8964｜私养の猫：@xmin240286 @MTNEKO123｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng ｜高一生｜居住长沙｜事不合格的xnn😭 | Passion is the reason and the answer",
+    "description": "Danke Seb ｜主业赛车，不是男娘也不翻车 ｜可以在各大赛事和展里逮我 | 最爱最爱的饱饱：@bushi_8964｜私养の猫：@MTNEKO123｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng ｜高一生｜居住长沙 |  热爱是唯一的理由和答案",
     "location": "Monaco",
-    "url": "https://t.co/hxccVFlwV5",
+    "url": "https://t.co/hxccVFkZ5x",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/hxccVFlwV5",
+                    "url": "https://t.co/hxccVFkZ5x",
                     "expanded_url": "http://checo.top",
                     "display_url": "checo.top",
                     "indices": [
@@ -24,24 +24,28 @@
         }
     },
     "protected": false,
-    "followers_count": 66,
-    "friends_count": 136,
+    "followers_count": 101,
+    "friends_count": 163,
     "listed_count": 0,
     "created_at": "Wed Nov 13 14:04:49 +0000 2024",
-    "favourites_count": 513,
+    "favourites_count": 861,
     "verified": false,
-    "statuses_count": 815,
-    "media_count": 149,
+    "statuses_count": 1452,
+    "media_count": 263,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1958933778044510208/FJ0RIsDv_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856699710981251072/1752157765",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856699710981251072/1756061132",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1961379262243774913
+    ],
+    "pinned_tweet_ids_str": [
+        "1961379262243774913"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": true,

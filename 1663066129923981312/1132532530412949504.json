@@ -1,86 +1,51 @@
 {
     "id": "1132532530412949504",
+    "name": "阿离舍（卖身葬夫版）🏳️‍🌈🏳️‍⚧️🍥",
     "screen_name": "AthenaRyo",
-    "name": "阿离舍🏳️‍🌈🏳️‍⚧️🍥",
     "description": "🏳️‍🌈🏳️‍⚧️🍥/泛性恋/MTX/无证半糖/INTJ /音频设计师/化妆师/美容师/纹身学习中/调酒学习中/重度抑郁/中度偏严重焦虑/半魅魔/略微雌堕/病娇/零度共情/人形玩偶/JY罐子/钻钱眼/偶尔擦边",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1925248414566277120/GSAqf4I-_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132532530412949504/1721579187",
-    "followers_count": 4140,
-    "friends_count": 7147,
-    "statuses_count": 517,
-    "favourites_count": 1173,
-    "listed_count": 7,
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2019-05-26 14:22:51 +08:00",
-    "url": "https://twitter.com/AthenaRyo",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMTMyNTMyNTMwNDEyOTQ5NTA0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1925248414566277120/GSAqf4I-_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun May 26 06:22:51 +0000 2019",
-            "name": "阿离舍🏳️‍🌈🏳️‍⚧️🍥",
-            "screen_name": "AthenaRyo"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 7147,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 62,
-            "pinned_tweet_ids_str": [
-                "1944437904086073642"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1558851771000,
-            "updated_at": 1752846618060
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4331,
+    "friends_count": 4207,
+    "listed_count": 9,
+    "created_at": "Sun May 26 06:22:51 +0000 2019",
+    "favourites_count": 1189,
+    "verified": false,
+    "statuses_count": 578,
+    "media_count": 83,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1925248414566277120/GSAqf4I-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132532530412949504/1721579187",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1944437904086073642
+    ],
+    "pinned_tweet_ids_str": [
+        "1944437904086073642"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

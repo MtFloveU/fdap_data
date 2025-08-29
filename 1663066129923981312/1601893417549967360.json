@@ -1,15 +1,15 @@
 {
     "id": "1601893417549967360",
-    "name": "📦花开富贵",
+    "name": "📦Acbox",
     "screen_name": "AcboxLiu",
-    "description": "📦可以叫我小箱子/💻开源开发/全栈&LLM&UI&UX/EN: @acbox_lol/写代码的小女孩/想要成为人类的小阿斯/大湾区移民/Building EchoAI and @sciuxkit /Founder of @bijon_ai/🐱Github: sheepbox8646/🚇轨道交通/🎨平面设计",
-    "location": "深圳-廣州-香港",
-    "url": "https://t.co/mRP5RDvcLr",
+    "description": "📦可以叫我小箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🐱Github: sheepbox8646/EN: @acbox_lol/写代码的小女孩/想要成为人类的小阿斯/常驻大湾区/Building EchoAI and @sciuxkit /Founder of @bijon_ai",
+    "location": "深圳/大湾区",
+    "url": "https://t.co/mRP5RDvKAZ",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/mRP5RDvcLr",
+                    "url": "https://t.co/mRP5RDvKAZ",
                     "expanded_url": "https://github.com/sheepbox8646",
                     "display_url": "github.com/sheepbox8646",
                     "indices": [
@@ -24,18 +24,18 @@
         }
     },
     "protected": false,
-    "followers_count": 5516,
-    "friends_count": 3015,
-    "listed_count": 21,
+    "followers_count": 5638,
+    "friends_count": 3017,
+    "listed_count": 23,
     "created_at": "Sun Dec 11 10:55:41 +0000 2022",
-    "favourites_count": 2576,
+    "favourites_count": 2600,
     "verified": false,
-    "statuses_count": 4630,
-    "media_count": 900,
+    "statuses_count": 4703,
+    "media_count": 917,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1959217836565659648/uOrEdwIj_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1751593126",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1756005828",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
@@ -59,6 +59,6 @@
     "translator_type": "none",
     "withheld_in_countries": [],
     "followed_by": true,
-    "ext_is_blue_verified": false,
+    "ext_is_blue_verified": true,
     "require_some_consent": false
 }

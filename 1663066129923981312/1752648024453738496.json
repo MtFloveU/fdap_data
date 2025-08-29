@@ -1,88 +1,51 @@
 {
     "id": "1752648024453738496",
-    "screen_name": "AItianlian",
-    "name": "爱天怜 🔪",
-    "description": "生成一个跨性别角色",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1919684693248933888/XycmPm9L_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752648024453738496/1746523471",
-    "followers_count": 5742,
-    "friends_count": 461,
-    "statuses_count": 1266,
-    "favourites_count": 132,
-    "listed_count": 16,
-    "location": "手枪星 ",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-01-31 19:01:10 +08:00",
-    "url": "https://twitter.com/AItianlian",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzUyNjQ4MDI0NDUzNzM4NDk2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1919684693248933888/XycmPm9L_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Jan 31 11:01:10 +0000 2024",
-            "name": "爱天怜 🔪",
-            "screen_name": "AItianlian"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 461,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 140,
-            "pinned_tweet_ids_str": [
-                "1871685504057717058"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "手枪星 "
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1706698870000,
-            "updated_at": 1752846624465
+    "name": "泰国医旅 · 代购 · 接待",
+    "screen_name": "ThaiBKKMed",
+    "description": "泰国 🇹🇭 医疗旅游 & 商务接待\n🏥 跨性别手术 / 医美抗衰 / 试管婴儿\n✈️ Travel & Shopping Concierge · 代购服务\n📩 私信咨询，专业保密",
+    "location": "盘谷",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 5635,
+    "friends_count": 456,
+    "listed_count": 17,
+    "created_at": "Wed Jan 31 11:01:10 +0000 2024",
+    "favourites_count": 129,
+    "verified": false,
+    "statuses_count": 2,
+    "media_count": 0,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1960980035365396480/0IRgs8eW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752648024453738496/1746523471",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1960983970331431274
+    ],
+    "pinned_tweet_ids_str": [
+        "1960983970331431274"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

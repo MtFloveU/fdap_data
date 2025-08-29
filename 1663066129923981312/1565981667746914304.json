@@ -2,23 +2,36 @@
     "id": "1565981667746914304",
     "name": "🏳️‍⚧️寄老师不是姬老师🍥",
     "screen_name": "Chinese_114514",
-    "description": "面对真相，其实谁都一样，那些你愿意信的，是被你筛选过的 ——-《网络锚定效应》",
+    "description": "还没和你说完的话  更痛恨自己迟钝的觉察 走吧 走吧 已经不怕———《124米的距离》",
     "location": "People's Republic of China",
-    "url": null,
+    "url": "https://t.co/ENIsNAGV8X",
     "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ENIsNAGV8X",
+                    "expanded_url": "https://t.me/jilaoshi",
+                    "display_url": "t.me/jilaoshi",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
         "description": {
             "urls": []
         }
     },
     "protected": false,
-    "followers_count": 427,
-    "friends_count": 572,
-    "listed_count": 0,
+    "followers_count": 945,
+    "friends_count": 960,
+    "listed_count": 2,
     "created_at": "Sat Sep 03 08:35:06 +0000 2022",
-    "favourites_count": 32501,
+    "favourites_count": 48139,
     "verified": false,
-    "statuses_count": 3548,
-    "media_count": 339,
+    "statuses_count": 5223,
+    "media_count": 425,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1945442779284340736/Pa29ayQ-_normal.jpg",

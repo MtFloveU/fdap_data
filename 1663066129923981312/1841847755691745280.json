@@ -1,86 +1,51 @@
 {
     "id": "1841847755691745280",
-    "screen_name": "jimi_yang22770",
     "name": "YYY",
-    "description": "友跨顺男（总有刁民想害朕翻车）\n  ENTJ  \n小鹿🦌@LightlyXiaoLu99    牢哥@AnYeEternal   一個抽象逼@Xinyi_ADHD\n\n怎么你们都那么变态，我跟不上节奏啊",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1906626847124983808/Ao9FzEG-_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841847755691745280/1739101867",
-    "followers_count": 1110,
-    "friends_count": 1358,
-    "statuses_count": 10595,
-    "favourites_count": 57818,
-    "listed_count": 8,
+    "screen_name": "jimi_yang22770",
+    "description": "友跨顺男（总有刁民想害朕翻车）\n  ENTJ  \n小鹿🦌@LightlyXiaoLu99    牢哥@AnYeEternal   一個抽象逼@Xinyi_ADHD\n  一起打hok的@JDE_Alva\n怎么你们都那么变态，我跟不上节奏啊",
     "location": "距您0.02公里",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/jimi_yang22770",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODQxODQ3NzU1NjkxNzQ1Mjgw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1906626847124983808/Ao9FzEG-_normal.jpg"
-        },
-        "core": {
-            "created_at": "Thu Oct 03 14:28:28 +0000 2024",
-            "name": "YYY",
-            "screen_name": "jimi_yang22770"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1358,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 439,
-            "pinned_tweet_ids_str": [
-                "1915238382072131802"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "距您0.02公里"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219064503
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1180,
+    "friends_count": 1448,
+    "listed_count": 9,
+    "created_at": "Thu Oct 03 14:28:28 +0000 2024",
+    "favourites_count": 65628,
+    "verified": false,
+    "statuses_count": 11605,
+    "media_count": 496,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1906626847124983808/Ao9FzEG-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841847755691745280/1739101867",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1945808220922257895
+    ],
+    "pinned_tweet_ids_str": [
+        "1945808220922257895"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

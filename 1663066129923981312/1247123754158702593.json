@@ -1,73 +1,60 @@
 {
     "id": "1247123754158702593",
-    "screen_name": "Rokumi_desu",
     "name": "海うみ",
-    "description": "#うみです",
+    "screen_name": "Rokumi_desu",
+    "description": "头在鞋上几千次，鞋在头上第一次",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1885752612664082432/wCJfFfg2_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247123754158702593/1737226465",
-    "followers_count": 2519,
-    "statuses_count": 8083,
-    "favourites_count": 79459,
-    "listed_count": 9,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2020-04-06 19:27:44 +08:00",
-    "url": "https://twitter.com/Rokumi_desu",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMjQ3MTIzNzU0MTU4NzAyNTkz",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/rokuuuunanami",
-                            "expanded_url": "https://t.me/rokuuuunanami",
-                            "url": "https://t.co/KvIHmQr4jg",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/KvIHmQr4jg",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/KvIHmQr4jg",
+                    "expanded_url": "https://t.me/rokuuuunanami",
+                    "display_url": "t.me/rokuuuunanami",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 829,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 426,
-            "pinned_tweet_ids_str": [
-                "1881768737059307547"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/KvIHmQr4jg",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "twe_private_fields": {
-            "created_at": 1586172464000,
-            "updated_at": 1746077186476
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2592,
+    "friends_count": 828,
+    "listed_count": 9,
+    "created_at": "Mon Apr 06 11:27:44 +0000 2020",
+    "favourites_count": 89077,
+    "verified": false,
+    "statuses_count": 8597,
+    "media_count": 455,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1955592332356853760/FlnAD39E_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247123754158702593/1754659159",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

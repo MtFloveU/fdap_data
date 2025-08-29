@@ -1,97 +1,51 @@
 {
     "id": "1426793440046632963",
+    "name": "白芷（冲击2030世锦赛冠军ing）",
     "screen_name": "reedreedandsoon",
-    "name": "白芷🏳️‍⚧️（冲击2030世锦赛冠军ing）",
-    "description": "06年的药药（性别酷儿）曾经是mtf/100％互fo/175，63kg/现居墨尔本，平常在南京/男生女生都接受的🏳️‍🌈🌈t/社民/肌肉and古典健身爱好者/容易吃醋/🚪200/正在冲击2030年奥林匹亚健美冠军/是病娇/地雷女/性冷淡/汉家儿女",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1865748407220056064/gJd5UpI9_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426793440046632963/1716448311",
-    "followers_count": 4404,
-    "friends_count": 3776,
-    "statuses_count": 10788,
-    "favourites_count": 13070,
-    "listed_count": 7,
+    "description": "胭脂泪，相留醉，几时重？自是人生长恨，水长东......",
     "location": "神圣泰拉 审判庭马上到你家门口",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2021-08-15 14:30:49 +08:00",
-    "url": "https://twitter.com/reedreedandsoon",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDI2NzkzNDQwMDQ2NjMyOTYz",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1865748407220056064/gJd5UpI9_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Aug 15 06:30:49 +0000 2021",
-            "name": "白芷🏳️‍⚧️（冲击2030世锦赛冠军ing）",
-            "screen_name": "reedreedandsoon"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 3776,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 1175,
-            "pinned_tweet_ids_str": [
-                "1913235767452901582"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "神圣泰拉 审判庭马上到你家门口"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1793540502761230749",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1629009049000,
-            "updated_at": 1752846624465
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4446,
+    "friends_count": 3750,
+    "listed_count": 9,
+    "created_at": "Sun Aug 15 06:30:49 +0000 2021",
+    "favourites_count": 13114,
+    "verified": false,
+    "statuses_count": 10938,
+    "media_count": 1193,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1865748407220056064/gJd5UpI9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426793440046632963/1716448311",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1913235767452901582
+    ],
+    "pinned_tweet_ids_str": [
+        "1913235767452901582"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }
