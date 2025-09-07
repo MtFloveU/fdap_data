@@ -1,113 +1,64 @@
 {
     "id": "1507781509788229632",
+    "name": "伊良子4698（和平必胜）",
     "screen_name": "Noira_M2F",
-    "name": "伊良子4698🇵🇸",
     "description": "うちのうずらは、かわいいうずら。\n持证含糖友跨顺男｜回民兼LGBTQ｜She/Hers｜#StandWithPalestinian｜#Kingquail\n请大胆发私信求回关，不然我大概率忘",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1881009486212841473/AQCDFQVH_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1507781509788229632/1648610197",
-    "followers_count": 3192,
-    "friends_count": 1435,
-    "statuses_count": 7614,
-    "favourites_count": 23591,
-    "listed_count": 7,
     "location": "距您18.74km",
-    "website": "https://t.co/wBYPU62ubK",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/Noira_M2F",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTA3NzgxNTA5Nzg4MjI5NjMy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1881009486212841473/AQCDFQVH_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Mar 26 18:08:28 +0000 2022",
-            "name": "伊良子4698🇵🇸",
-            "screen_name": "Noira_M2F"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "post.qingjuacg.top",
-                            "expanded_url": "http://post.qingjuacg.top",
-                            "url": "https://t.co/wBYPU62ubK",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1435,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 913,
-            "pinned_tweet_ids_str": [
-                "1880882186322374889"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/wBYPU62ubK",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "距您18.74km"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1732428003815109116",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/wBYPU62ubK",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 688,
-                    "name": "Non-Governmental & Nonprofit Organization ",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/wBYPU62ubK",
+                    "expanded_url": "http://post.qingjuacg.top",
+                    "display_url": "post.qingjuacg.top",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219066708
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 3232,
+    "friends_count": 1435,
+    "listed_count": 7,
+    "created_at": "Sat Mar 26 18:08:28 +0000 2022",
+    "favourites_count": 27393,
+    "verified": false,
+    "statuses_count": 8172,
+    "media_count": 1000,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1881009486212841473/AQCDFQVH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1507781509788229632/1648610197",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1880882186322374889
+    ],
+    "pinned_tweet_ids_str": [
+        "1880882186322374889"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

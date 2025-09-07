@@ -1,57 +1,64 @@
 {
     "id": "1255407520409100291",
+    "name": "SusSyrup",
     "screen_name": "SustainablSyrup",
-    "name": "可持续糖浆",
-    "description": "Things I touch are made of stone🧡💙",
+    "description": "Fortification | Image| Endurance | Grocery Store | Coffee | Dream Consultant",
     "location": "Los Angeles, CA",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1904743019078967299/AC2ItFFZ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255407520409100291/1715304052",
-    "followers_count": 2109,
-    "statuses_count": 3779,
-    "favourites_count": 5598,
-    "listed_count": 4,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2020-04-29 16:04:23 +08:00",
-    "url": "https://twitter.com/SustainablSyrup",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxMjU1NDA3NTIwNDA5MTAwMjkx",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
+    "url": "https://t.co/LiW8SKeMgI",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/LiW8SKeMgI",
+                    "expanded_url": "http://ruoxiwangsussyr.com",
+                    "display_url": "ruoxiwangsussyr.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1259,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 121,
-            "pinned_tweet_ids_str": [
-                "1903058217233498229"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1588147463000,
-            "updated_at": 1744350109138
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2174,
+    "friends_count": 1308,
+    "listed_count": 6,
+    "created_at": "Wed Apr 29 08:04:23 +0000 2020",
+    "favourites_count": 5554,
+    "verified": false,
+    "statuses_count": 4153,
+    "media_count": 172,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1963221766714925056/KXSX6hr4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255407520409100291/1715304052",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1963078889695326554
+    ],
+    "pinned_tweet_ids_str": [
+        "1963078889695326554"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

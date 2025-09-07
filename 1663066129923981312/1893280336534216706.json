@@ -2,8 +2,8 @@
     "id": "1893280336534216706",
     "name": "乌冬面🍥🐱",
     "screen_name": "mtnyan8964",
-    "description": "🍜🐱乌冬面也是一种面条，也是一只可爱的猫猫｜互fo",
-    "location": "在给晶格口",
+    "description": "猫",
+    "location": "亚硝酸钠共和国",
     "url": null,
     "entities": {
         "description": {
@@ -11,14 +11,14 @@
         }
     },
     "protected": false,
-    "followers_count": 240,
-    "friends_count": 334,
+    "followers_count": 814,
+    "friends_count": 875,
     "listed_count": 0,
     "created_at": "Sat Feb 22 12:43:12 +0000 2025",
-    "favourites_count": 859,
+    "favourites_count": 3219,
     "verified": false,
-    "statuses_count": 149,
-    "media_count": 5,
+    "statuses_count": 711,
+    "media_count": 50,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1961227208519028737/3F0v-y9L_normal.jpg",
@@ -28,10 +28,10 @@
     "default_profile": true,
     "default_profile_image": false,
     "pinned_tweet_ids": [
-        1961230660359623090
+        1964198000668155924
     ],
     "pinned_tweet_ids_str": [
-        "1961230660359623090"
+        "1964198000668155924"
     ],
     "has_custom_timelines": false,
     "can_dm": null,
@@ -46,6 +46,6 @@
     "translator_type": "none",
     "withheld_in_countries": [],
     "followed_by": true,
-    "ext_is_blue_verified": false,
+    "ext_is_blue_verified": true,
     "require_some_consent": false
 }

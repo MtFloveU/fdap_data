@@ -1,114 +1,51 @@
 {
     "id": "1419686621109174272",
-    "screen_name": "tnaylsyk7865209",
     "name": "如月咲雪/韞蘭/N.A.",
-    "description": "赫爾墨斯的臣民，雅典娜的僕從，普羅米修斯的使者。 \n是■■（檔案刪除）…… \n降臨的未知，琢磨不透的物。\n不明白意圖，𥥖而𢜛。\n\n性別不詳 性格不詳 愛好不詳 遙望水星",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1921943914883190784/UBq1oEV5_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1419686621109174272/1734845652",
-    "followers_count": 677,
-    "friends_count": 2587,
-    "statuses_count": 3911,
-    "favourites_count": 33363,
-    "listed_count": 4,
+    "screen_name": "tnaylsyk7865209",
+    "description": "赫爾墨斯的臣民，雅典娜的僕從，普羅米修斯的使者。 \n是■■（檔案刪除）…… \n降臨的未知，琢磨不透的物。\n不明白意圖，𥥖而𢜛。\n\n性別不詳 性格不詳 愛好不詳 惟遙望水星",
     "location": "是一只乖可爱鲨猫宝宝",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2021-07-26 23:50:51 +08:00",
-    "url": "https://twitter.com/tnaylsyk7865209",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDE5Njg2NjIxMTA5MTc0Mjcy",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @Mooy_viio",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 23,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "Mooy_viio",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "Mooy_viio"
-                                        },
-                                        "rest_id": "1908123958005604352"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1921943914883190784/UBq1oEV5_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Jul 26 15:50:51 +0000 2021",
-            "name": "如月咲雪/韞蘭/N.A.",
-            "screen_name": "tnaylsyk7865209"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2587,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 161,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "是一只乖可爱鲨猫宝宝"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1627314651000,
-            "updated_at": 1752846614298
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 683,
+    "friends_count": 2643,
+    "listed_count": 7,
+    "created_at": "Mon Jul 26 15:50:51 +0000 2021",
+    "favourites_count": 32918,
+    "verified": false,
+    "statuses_count": 3983,
+    "media_count": 168,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1921943914883190784/UBq1oEV5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1419686621109174272/1734845652",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1951197898127056978
+    ],
+    "pinned_tweet_ids_str": [
+        "1951197898127056978"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

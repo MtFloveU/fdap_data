@@ -2,8 +2,8 @@
     "id": "1764149440133447680",
     "name": "理想奈🍥",
     "screen_name": "RinTka8964",
-    "description": "战斗仍将继续....?坚定守着，就有办法!\n也许是个重度焦虑?site19常驻/mtf",
-    "location": "布里亚特",
+    "description": "战斗仍将继续....?坚定守着，就有办法!\n也许是个重度焦虑?site19常驻mtf",
+    "location": "site19",
     "url": null,
     "entities": {
         "description": {
@@ -11,24 +11,28 @@
         }
     },
     "protected": false,
-    "followers_count": 646,
-    "friends_count": 357,
+    "followers_count": 658,
+    "friends_count": 358,
     "listed_count": 5,
     "created_at": "Sun Mar 03 04:43:06 +0000 2024",
-    "favourites_count": 32389,
+    "favourites_count": 32531,
     "verified": false,
-    "statuses_count": 6682,
-    "media_count": 418,
+    "statuses_count": 6739,
+    "media_count": 420,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1946629073976864768/CBvhvm37_normal.jpg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1962388209171910656/Zu1f0Iaf_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764149440133447680/1752947749",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1962027727080620428
+    ],
+    "pinned_tweet_ids_str": [
+        "1962027727080620428"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": false,

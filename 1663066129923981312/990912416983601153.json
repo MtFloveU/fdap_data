@@ -1,86 +1,74 @@
 {
     "id": "990912416983601153",
-    "screen_name": "guiwow8964",
-    "name": "guiwow",
-    "description": "人生自古谁无死\n不幸的，此号原主已经离世\n因此以后将永远无法与您互动",
-    "location": "北京西城区",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1787194887726841856/QMGObFy-_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/990912416983601153/1635426191",
-    "followers_count": 4315,
-    "statuses_count": 847,
-    "favourites_count": 57738,
-    "listed_count": 13,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2018-04-30 19:15:05 +08:00",
-    "url": "https://twitter.com/guiwow8964",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjo5OTA5MTI0MTY5ODM2MDExNTM=",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "gov.cn",
-                            "expanded_url": "http://gov.cn",
-                            "url": "https://t.co/TbW0lX9674",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 4442,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 88,
-            "pinned_tweet_ids_str": [
-                "1895562600341254233"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/TbW0lX9674",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1584872936669794305",
-            "professional_type": "Creator",
-            "category": [
+    "name": "三角洲经济学教父",
+    "screen_name": "91DFjiaofu",
+    "description": "哈夫币回收/日报：https://t.co/jf7M8YmBxy（准星代售） 收起 甜妹/大神陪丸公宗号搜：帝空电竞 代肝哈夫币/3*3群：814917636",
+    "location": "航天基地",
+    "url": "https://t.co/Tx31jDcMut",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 934,
-                    "name": "Social Media Influencer",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/Tx31jDcMut",
+                    "expanded_url": "https://df.qq.com/",
+                    "display_url": "df.qq.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "bitcoin_handle": "3KbtgNPjaPor7VSEmFUhihYHuTuzn9hiXX",
-            "ethereum_handle": "0xa6a6308e4db39feec6daf2adbb9590b6bbe8ea46"
-        },
-        "twe_private_fields": {
-            "created_at": 1525086905000,
-            "updated_at": 1744350099731
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/jf7M8YmBxy",
+                    "expanded_url": "http://zxfps.com",
+                    "display_url": "zxfps.com",
+                    "indices": [
+                        9,
+                        32
+                    ]
+                }
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4342,
+    "friends_count": 4770,
+    "listed_count": 16,
+    "created_at": "Mon Apr 30 11:15:05 +0000 2018",
+    "favourites_count": 58788,
+    "verified": false,
+    "statuses_count": 987,
+    "media_count": 105,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1962282120837287936/11MXhV7j_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/990912416983601153/1635426191",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1952390523546636415
+    ],
+    "pinned_tweet_ids_str": [
+        "1952390523546636415"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

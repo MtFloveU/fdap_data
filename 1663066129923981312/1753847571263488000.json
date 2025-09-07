@@ -1,97 +1,47 @@
 {
     "id": "1753847571263488000",
-    "screen_name": "LYC_240410",
     "name": "chen_🍥",
-    "description": "07｜喜欢骑山地车｜💕@penguin_YYC1226",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1883898030321270784/-_Bt-JBc_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753847571263488000/1731704991",
-    "followers_count": 2381,
-    "friends_count": 1596,
-    "statuses_count": 238,
-    "favourites_count": 4249,
-    "listed_count": 5,
+    "screen_name": "LYC_240410",
+    "description": "07｜🍥｜mtb｜💕@penguin_YYC1226",
     "location": "地球🌍",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-02-04 02:28:09 +08:00",
-    "url": "https://twitter.com/LYC_240410",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzUzODQ3NTcxMjYzNDg4MDAw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1883898030321270784/-_Bt-JBc_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Feb 03 18:28:09 +0000 2024",
-            "name": "chen_🍥",
-            "screen_name": "LYC_240410"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1596,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 72,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "地球🌍"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1810502244422607124",
-            "professional_type": "Business",
-            "category": [
-                {
-                    "id": 97,
-                    "name": "Marine",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1706984889000,
-            "updated_at": 1752846623602
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 1839,
+    "friends_count": 1585,
+    "listed_count": 5,
+    "created_at": "Sat Feb 03 18:28:09 +0000 2024",
+    "favourites_count": 4416,
+    "verified": false,
+    "statuses_count": 241,
+    "media_count": 74,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1883898030321270784/-_Bt-JBc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753847571263488000/1731704991",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

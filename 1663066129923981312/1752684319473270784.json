@@ -1,9 +1,9 @@
 {
-    "id": "1609619970811482112",
-    "name": "Echo4th",
-    "screen_name": "3ch4O1H",
-    "description": "只有情感能超越时间\n最爱的伴侣@LixdH5jzYx99195",
-    "location": "unknown",
+    "id": "1752684319473270784",
+    "name": "mao",
+    "screen_name": "mao2060696",
+    "description": "一个平平无奇的小男生，轻度性瘾患者，在校职高生",
+    "location": "",
     "url": null,
     "entities": {
         "description": {
@@ -11,32 +11,31 @@
         }
     },
     "protected": false,
-    "followers_count": 966,
-    "friends_count": 3192,
-    "listed_count": 3,
-    "created_at": "Sun Jan 01 18:38:28 +0000 2023",
-    "favourites_count": 60625,
+    "followers_count": 0,
+    "friends_count": 747,
+    "listed_count": 0,
+    "created_at": "Wed Jan 31 13:24:55 +0000 2024",
+    "favourites_count": 7714,
     "verified": false,
-    "statuses_count": 27061,
-    "media_count": 866,
+    "statuses_count": 130,
+    "media_count": 6,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1925247331391479808/c3pLQLxw_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609619970811482112/1742482505",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1802369400106008576/Tm9KdmvT_normal.jpg",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
     "pinned_tweet_ids": [
-        1932518713498222834
+        1866154132413071684
     ],
     "pinned_tweet_ids_str": [
-        "1932518713498222834"
+        "1866154132413071684"
     ],
     "has_custom_timelines": false,
     "can_dm": null,
-    "can_media_tag": false,
-    "following": true,
+    "can_media_tag": true,
+    "following": false,
     "follow_request_sent": false,
     "notifications": false,
     "muting": false,

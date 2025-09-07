@@ -1,108 +1,69 @@
 {
     "id": "1657175394267848704",
-    "screen_name": "Zh40Le1ZOOB",
     "name": "nixpkgs#ςσmmαηd_βλσςκ",
-    "description": "广州跨性别避难所运营者｜NixOS｜Uplifting Trance｜TG：https://t.co/Bcj9BmrTTv",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 592,
-    "friends_count": 491,
-    "statuses_count": 4421,
-    "favourites_count": 5814,
-    "listed_count": 0,
+    "screen_name": "Zh40Le1ZOOB",
+    "description": "广州（含佛山）跨性别避难所运营者｜Nix 黑魔法｜Uplifting Trance｜TG：https://t.co/Bcj9BmrTTv",
     "location": "",
-    "website": "https://t.co/yxR4GeWz6U",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-05-13 08:10:35 +08:00",
-    "url": "https://twitter.com/Zh40Le1ZOOB",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjU3MTc1Mzk0MjY3ODQ4NzA0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat May 13 00:10:35 +0000 2023",
-            "name": "nixpkgs#ςσmmαηd_βλσςκ",
-            "screen_name": "Zh40Le1ZOOB"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "Zh40Le1ZOOB.t.me",
-                            "expanded_url": "http://Zh40Le1ZOOB.t.me",
-                            "url": "https://t.co/Bcj9BmrTTv",
-                            "indices": [
-                                38,
-                                61
-                            ]
-                        }
-                    ]
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "github.com/Zh40Le1ZOOB",
-                            "expanded_url": "https://github.com/Zh40Le1ZOOB",
-                            "url": "https://t.co/yxR4GeWz6U",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/yxR4GeWz6U",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/yxR4GeWz6U",
+                    "expanded_url": "https://github.com/Zh40Le1ZOOB",
+                    "display_url": "github.com/Zh40Le1ZOOB",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 491,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 19,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/yxR4GeWz6U",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1683936635000,
-            "updated_at": 1752846587235
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/Bcj9BmrTTv",
+                    "expanded_url": "http://Zh40Le1ZOOB.t.me",
+                    "display_url": "Zh40Le1ZOOB.t.me",
+                    "indices": [
+                        45,
+                        68
+                    ]
+                }
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 635,
+    "friends_count": 524,
+    "listed_count": 1,
+    "created_at": "Sat May 13 00:10:35 +0000 2023",
+    "favourites_count": 5948,
+    "verified": false,
+    "statuses_count": 4590,
+    "media_count": 24,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

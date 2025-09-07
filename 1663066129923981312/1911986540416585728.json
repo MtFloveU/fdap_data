@@ -1,86 +1,51 @@
 {
     "id": "1911986540416585728",
-    "screen_name": "mollymollysweet",
     "name": "🏳️‍⚧️小茉莉很甜🩷",
-    "description": "09mtf/🇭🇰/姐姐們叫我苿苿就好/生日3.15/she.her/infp/173.49/71.59.82/🍥202?.??.??🥹/清純可愛不💛不政/歡迎所有同類&友跨/喜歡聊天互相安慰/🩵動森/夢想是成為心理醫生/不開心的話可以嘗試找找我我會盡力協助🩷/EN @cwutemolly_en",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1924423688650211328/VFfLT3Ei_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911986540416585728/1747653920",
-    "followers_count": 455,
-    "friends_count": 822,
-    "statuses_count": 663,
-    "favourites_count": 372,
-    "listed_count": 1,
+    "screen_name": "mollymollysweet",
+    "description": "09mtf/🇭🇰/姐姐們叫我苿苿就好/生日3.15/she.her/infp/173.52/71.59.82/🍥202?.??.??🥹/喜歡聊天互相安慰/🩵動森/夢想是成為心理醫生/不開心的話可以嘗試找找我我會盡力協助🩷/EN @cwutemolly_en/好閨閨@dongguacute",
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/mollymollysweet",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxOTExOTg2NTQwNDE2NTg1NzI4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1924423688650211328/VFfLT3Ei_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Apr 15 03:34:58 +0000 2025",
-            "name": "🏳️‍⚧️小茉莉很甜🩷",
-            "screen_name": "mollymollysweet"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 822,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 86,
-            "pinned_tweet_ids_str": [
-                "1922821859600371839"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219023519
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 624,
+    "friends_count": 1083,
+    "listed_count": 1,
+    "created_at": "Tue Apr 15 03:34:58 +0000 2025",
+    "favourites_count": 483,
+    "verified": false,
+    "statuses_count": 873,
+    "media_count": 98,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1963882232504107008/Tk4Rl_wz_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911986540416585728/1747653920",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1922821859600371839
+    ],
+    "pinned_tweet_ids_str": [
+        "1922821859600371839"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
