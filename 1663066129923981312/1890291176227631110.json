@@ -1,17 +1,17 @@
 {
-    "id": "1624705678593134592",
-    "name": "金流☯",
-    "screen_name": "Ripperdoc2034",
-    "description": "06mtx 早断糖了/(⁠ ⁠≧⁠Д⁠≦⁠)/定居锦西or沈阳，假期随机刷新/可爱大姐姐&恋人&同居中@bibibizizizi/感谢你的关注",
-    "location": "龙脉过峡结穴处，藏风聚气所",
-    "url": "https://t.co/DBPSj6IdTv",
+    "id": "1890291176227631110",
+    "name": "小箱子🍥",
+    "screen_name": "xiaoxiangziqwq",
+    "description": "@AcboxLiu的小号/常年在深圳/仅好朋友可关注/MaimaiDX/",
+    "location": "🟩深圳地铁一号线",
+    "url": "https://t.co/pxn13TObMN",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/DBPSj6IdTv",
-                    "expanded_url": "http://JohnWilliams2034.blogspot.com",
-                    "display_url": "JohnWilliams2034.blogspot.com",
+                    "url": "https://t.co/pxn13TObMN",
+                    "expanded_url": "http://t.me/acboxsky",
+                    "display_url": "t.me/acboxsky",
                     "indices": [
                         0,
                         23
@@ -23,19 +23,19 @@
             "urls": []
         }
     },
-    "protected": false,
-    "followers_count": 484,
-    "friends_count": 236,
-    "listed_count": 2,
-    "created_at": "Sun Feb 12 09:43:55 +0000 2023",
-    "favourites_count": 19101,
+    "protected": true,
+    "followers_count": 235,
+    "friends_count": 132,
+    "listed_count": 0,
+    "created_at": "Fri Feb 14 06:45:28 +0000 2025",
+    "favourites_count": 16,
     "verified": false,
-    "statuses_count": 1523,
-    "media_count": 86,
+    "statuses_count": 75,
+    "media_count": 15,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1900766854106542082/zzK8Mu9t_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624705678593134592/1729793211",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1915780424359710720/fAscXWYm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890291176227631110/1744186651",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
@@ -54,7 +54,7 @@
     "business_profile_state": "none",
     "translator_type": "none",
     "withheld_in_countries": [],
-    "followed_by": true,
+    "followed_by": false,
     "ext_is_blue_verified": false,
     "require_some_consent": false
 }

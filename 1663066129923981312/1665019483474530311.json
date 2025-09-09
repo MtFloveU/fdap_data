@@ -2,16 +2,16 @@
     "id": "1665019483474530311",
     "name": "雨卿喵不是🐱",
     "screen_name": "yuqkchan",
-    "description": "春の中に 君と落ちていく。\nAmature Radio Callsign BD6IBL\n纯透明低质量kiger\nApex Legends / WOWS 成瘾(又菜又爱玩, 一起玩可治疗低血压\n精神极度不稳定概率掉落奇怪东西请注意⚠️\n🏳️‍🌈🏳️‍⚧️",
-    "location": "0371/OM64¿¿",
-    "url": "https://t.co/tPDi9AeczF",
+    "description": "春の中に 君と落ちていく。\nAmature Radio Callsign BD6IBL\n纯透明低质量kiger\nApex Legends / WOWS / osu! 成瘾(又菜又爱玩, 一起玩可治疗低血压\n精神极度不稳定概率掉落奇怪东西请注意⚠️\n🏳️‍🌈🏳️‍⚧️",
+    "location": "OM64¿¿",
+    "url": "https://t.co/Dggz99pwa8",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/tPDi9AeczF",
-                    "expanded_url": "https://t.me/yuqknya",
-                    "display_url": "t.me/yuqknya",
+                    "url": "https://t.co/Dggz99pwa8",
+                    "expanded_url": "https://osu.ppy.sh/users/33752668",
+                    "display_url": "osu.ppy.sh/users/33752668",
                     "indices": [
                         0,
                         23
@@ -24,14 +24,14 @@
         }
     },
     "protected": false,
-    "followers_count": 2900,
-    "friends_count": 1167,
+    "followers_count": 2889,
+    "friends_count": 1178,
     "listed_count": 7,
     "created_at": "Sat Jun 03 15:36:06 +0000 2023",
-    "favourites_count": 8713,
+    "favourites_count": 8810,
     "verified": false,
-    "statuses_count": 6948,
-    "media_count": 1007,
+    "statuses_count": 7015,
+    "media_count": 1017,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1949918404498116609/uf0xoe2-_normal.jpg",
@@ -44,7 +44,7 @@
     "pinned_tweet_ids_str": [],
     "has_custom_timelines": false,
     "can_dm": null,
-    "can_media_tag": false,
+    "can_media_tag": true,
     "following": true,
     "follow_request_sent": false,
     "notifications": false,

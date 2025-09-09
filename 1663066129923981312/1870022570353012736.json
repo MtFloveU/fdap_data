@@ -1,100 +1,64 @@
 {
     "id": "1870022570353012736",
-    "screen_name": "kukudejiaxibei",
     "name": "Jasiber🏳️‍⚧️🍥",
-    "description": "06liner INFJ Virgo♍\n🎮Gaming|🍸 Bartending 🍳 Cooking  \nBFF: @NataliaIcey2006💖@lyb1007\nBF:@xiyimeng04💕\nCat:@jiang_chua28655🐾\nHope I can transition✨\n🇺🇸/🇪🇸",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1933061552678318083/-zQhXG_A_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870022570353012736/1735747145",
-    "followers_count": 1410,
-    "friends_count": 2329,
-    "statuses_count": 5751,
-    "favourites_count": 21739,
-    "listed_count": 1,
+    "screen_name": "kukudejiaxibei",
+    "description": "06liner INFJ Virgo♍\n🎮Gaming|🍸 Bartending 🍳 Cooking  \nBFF: @NataliaIcey2006💖@No1uk_\nBF:@xiyimeng04💕\nCat:@jiang_chua28655🐾\nHope I can transition✨\n🇺🇸/🇪🇸",
     "location": "Sanctum 9 Inner Ring of Virgo",
-    "website": "https://t.co/lGi3Ux1gT3",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-12-20 16:25:12 +08:00",
-    "url": "https://twitter.com/kukudejiaxibei",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODcwMDIyNTcwMzUzMDEyNzM2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1933061552678318083/-zQhXG_A_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Dec 20 08:25:12 +0000 2024",
-            "name": "Jasiber🏳️‍⚧️🍥",
-            "screen_name": "kukudejiaxibei"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/NataliaICEY060…",
-                            "expanded_url": "https://t.me/NataliaICEY060910https://ngl.link/kukudejiaxibei1",
-                            "url": "https://t.co/lGi3Ux1gT3",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/lGi3Ux1gT3",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/lGi3Ux1gT3",
+                    "expanded_url": "https://t.me/NataliaICEY060910https://ngl.link/kukudejiaxibei1",
+                    "display_url": "t.me/NataliaICEY060…",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2329,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 575,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/lGi3Ux1gT3",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "Sanctum 9 Inner Ring of Virgo"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1734683112000,
-            "updated_at": 1750232259424
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1647,
+    "friends_count": 2694,
+    "listed_count": 2,
+    "created_at": "Fri Dec 20 08:25:12 +0000 2024",
+    "favourites_count": 24002,
+    "verified": false,
+    "statuses_count": 6508,
+    "media_count": 697,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1933061552678318083/-zQhXG_A_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870022570353012736/1735747145",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1909221888443949341
+    ],
+    "pinned_tweet_ids_str": [
+        "1909221888443949341"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

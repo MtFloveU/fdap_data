@@ -1,23 +1,16 @@
-🕒Time: `2025-09-07 19:28:04 `
-📊Total followers: `1361`, following: `1019`
+🕒Time: `2025-09-09 23:42:12 `
+📊Total followers: `1360`, following: `1019`
 *Mutual Unfollow or Removal:*
-`星野ふじ` @`hoshinofujivy`
-`Fight!x3McDTΣ💊🍵0SwchoolUCTLets MAGA! SBR8964%` @`pr139edxy`
-`七七七七七(药商泌乳针雌二醇)` @`qiqibushibendan`
-`波奇酱哭哭🥺🥺` @`kiriyama_hitori`
-`邪福` @`JOJOEvangelist`
-`Iris-de-luce` @`2_A_L_Iris_Z`
-`Ring.✦老师不是Ling.✦老师` @`SIRliquid_`
-`虛星鱼` @`xuxingyu514`
-`雯老师不是吻老师🏳️‍⚧️🍥` @`FGfr_218`
+`真左要乐奈` @`Pissenlit_AH`
+`VK2VCU BG5VCU AK6CU Qiuyuair` @`qiuyuair`
+`凌老师不是您老师🍥` @`LingRuoovo`
+`狸🏳️‍⚧️` @`yyyzlz3`
 
 *One-Way Unfollowers:*
-`VK2VCU BG5VCU AK6CU Qiuyuair` @`qiuyuair`
+`ValentinaRichter` @`RikaRika8964`
+`余华成霜8964` @`yu_huacs`
 
 *Returning Follows:*
-`Echo4th` @`3ch4O1H`
-`Suzunone` @`Suzunone147258`
-`璟江别` @`cy79p`
-`🍁多分、楓💊` @`Tabunkaede`
-`mao` @`mao2060696`
-`jeanne` @`jeanne73596520`
+`小翌同学🎊✨（二代目）` @`XiMaoMao630244`
+`星野ふじ` @`hoshinofujivy`
+`邪福` @`JOJOEvangelist`
