@@ -1,86 +1,51 @@
 {
     "id": "1834254666840080384",
+    "name": "不知道叫什么反正跟墙内不一样的小Mo",
     "screen_name": "Mo_www_",
-    "name": "不知道叫什么反正跟墙内不一样的小Mo🇨🇳🇹🇼🇺🇦🇵🇸",
-    "description": "人在大陆 OIer \n想要当南梁诶 | \n尊重历史 | \n两岸一家亲，反对武统 | \n自由左派 | \n碎碎念 | \n友🏳️‍⚧️ | \nINTP | \n互fo可以提醒我一下qwq | \n不知道什么能的里推@Mo__w__",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1894032224959320064/HjrkwVLT_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834254666840080384/1740407448",
-    "followers_count": 349,
-    "friends_count": 776,
-    "statuses_count": 838,
-    "favourites_count": 6622,
-    "listed_count": 0,
+    "description": "人在大陆 OIer | \n尊重历史 | \n两岸一家亲，反对武统 | \n社自B | \n碎碎念 | \n翻车友🏳️‍⚧️mtx😋 | \n同类贴贴😆 | \nINTP | \n互fo可以提醒我一下qwq | \n不知道什么能的里推@Mo__w__",
     "location": "Xi'an Shaanxi China",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-09-12 23:36:12 +08:00",
-    "url": "https://twitter.com/Mo_www_",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODM0MjU0NjY2ODQwMDgwMzg0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1894032224959320064/HjrkwVLT_normal.jpg"
-        },
-        "core": {
-            "created_at": "Thu Sep 12 15:36:12 +0000 2024",
-            "name": "不知道叫什么反正跟墙内不一样的小Mo🇨🇳🇹🇼🇺🇦🇵🇸",
-            "screen_name": "Mo_www_"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 776,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 81,
-            "pinned_tweet_ids_str": [
-                "1907789694449885251"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "Xi'an Shaanxi China"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1726155372000,
-            "updated_at": 1752846592776
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 433,
+    "friends_count": 796,
+    "listed_count": 1,
+    "created_at": "Thu Sep 12 15:36:12 +0000 2024",
+    "favourites_count": 7826,
+    "verified": false,
+    "statuses_count": 1083,
+    "media_count": 124,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1965700476151955457/wI9zgasX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834254666840080384/1740407448",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1947632764293157372
+    ],
+    "pinned_tweet_ids_str": [
+        "1947632764293157372"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

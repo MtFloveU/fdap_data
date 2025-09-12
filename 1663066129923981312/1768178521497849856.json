@@ -1,76 +1,70 @@
 {
     "id": "1768178521497849856",
-    "screen_name": "iriyaQWQ",
     "name": "小伊（日本烟韩国烟代免税香烟口粮代工国内香烟免税烟电子烟(全球可发)",
-    "description": "不知道怎么称呼我的可以叫我小伊！！\n日本卷烟，日本烟弹可直邮全球，七星，和平，云斯顿，万宝路，MEVIUS一手货源！国内也有自己大仓货品齐全。\nTG商品信息 https://t.co/YSqpdaKBTO\nTG https://t.co/LFCBbM7TKY\n微信号iriyaQAQ",
+    "screen_name": "iriyaQWQ",
+    "description": "不知道怎么称呼我的可以叫我小伊！！\n日本卷烟，日本烟弹可直邮全球，七星，和平，云斯顿，万宝路，MEVIUS一手货源！国内也有自己大仓货品齐全。\nTG商品信息 https://t.co/YSqpdaKBTO\nTG https://t.co/LFCBbM7TKY\n微信号iriyaOVO",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1827740012882116609/ijL-qfDf_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768178521497849856/1724873252",
-    "followers_count": 633,
-    "statuses_count": 6209,
-    "favourites_count": 5657,
-    "listed_count": 2,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "created_at": "2024-03-14 15:33:18 +08:00",
-    "url": "https://twitter.com/iriyaQWQ",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzY4MTc4NTIxNDk3ODQ5ODU2",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/iriyaQAQsuki",
-                            "expanded_url": "https://t.me/iriyaQAQsuki",
-                            "url": "https://t.co/YSqpdaKBTO",
-                            "indices": [
-                                79,
-                                102
-                            ]
-                        },
-                        {
-                            "display_url": "t.me/+PGoBTuAUL9M2O…",
-                            "expanded_url": "https://t.me/+PGoBTuAUL9M2OTM1",
-                            "url": "https://t.co/LFCBbM7TKY",
-                            "indices": [
-                                106,
-                                129
-                            ]
-                        }
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/YSqpdaKBTO",
+                    "expanded_url": "https://t.me/iriyaQAQsuki",
+                    "display_url": "t.me/iriyaQAQsuki",
+                    "indices": [
+                        79,
+                        102
+                    ]
+                },
+                {
+                    "url": "https://t.co/LFCBbM7TKY",
+                    "expanded_url": "https://t.me/+PGoBTuAUL9M2OTM1",
+                    "display_url": "t.me/+PGoBTuAUL9M2O…",
+                    "indices": [
+                        106,
+                        129
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 437,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 168,
-            "pinned_tweet_ids_str": [
-                "1876372528626868486"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1710401598000,
-            "updated_at": 1744350039515
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 688,
+    "friends_count": 457,
+    "listed_count": 2,
+    "created_at": "Thu Mar 14 07:33:18 +0000 2024",
+    "favourites_count": 5883,
+    "verified": false,
+    "statuses_count": 6775,
+    "media_count": 196,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1827740012882116609/ijL-qfDf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768178521497849856/1724873252",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1876372528626868486
+    ],
+    "pinned_tweet_ids_str": [
+        "1876372528626868486"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
