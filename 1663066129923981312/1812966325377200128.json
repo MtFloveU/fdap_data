@@ -1,74 +1,61 @@
 {
     "id": "1812966325377200128",
-    "screen_name": "04177_truth",
     "name": "神里真名",
-    "description": "互fo/大号：@04177_realname/🦋：@04177realname.bsky.social/提问箱：https://t.co/bJ4FH9IZlD",
+    "screen_name": "04177_truth",
+    "description": "互fo/这里能看到最真挚热烈的真名的日常生活，新奇想法和一些梗图/工作号：@04177_realname/🦋：@04177realname.bsky.social/提问箱：https://t.co/bJ4FH9IZlD（爱我的人恭喜你卡到了bug，在这里提问是免费的，我都会好好回答）",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1816188623089434624/FZD1bUcu_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812966325377200128/1721306021",
-    "followers_count": 629,
-    "statuses_count": 250,
-    "favourites_count": 878,
-    "listed_count": 0,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2024-07-16 05:44:06 +08:00",
-    "url": "https://twitter.com/04177_truth",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODEyOTY2MzI1Mzc3MjAwMTI4",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/04177_realname",
-                            "expanded_url": "https://ngl.link/04177_realname",
-                            "url": "https://t.co/bJ4FH9IZlD",
-                            "indices": [
-                                56,
-                                79
-                            ]
-                        }
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/bJ4FH9IZlD",
+                    "expanded_url": "https://ngl.link/04177_realname",
+                    "display_url": "ngl.link/04177_realname",
+                    "indices": [
+                        86,
+                        109
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 571,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 40,
-            "pinned_tweet_ids_str": [
-                "1864147652436509087"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1815657882513498119",
-            "professional_type": "Business",
-            "category": []
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "twe_private_fields": {
-            "created_at": 1721079846000,
-            "updated_at": 1744350078919
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 818,
+    "friends_count": 731,
+    "listed_count": 0,
+    "created_at": "Mon Jul 15 21:44:06 +0000 2024",
+    "favourites_count": 907,
+    "verified": false,
+    "statuses_count": 270,
+    "media_count": 46,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1816188623089434624/FZD1bUcu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812966325377200128/1721306021",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1864147652436509087
+    ],
+    "pinned_tweet_ids_str": [
+        "1864147652436509087"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

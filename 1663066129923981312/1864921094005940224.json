@@ -1,86 +1,51 @@
 {
     "id": "1864921094005940224",
-    "screen_name": "hotcat9269_",
     "name": "番原萌香💜🌸⛩️✨𝔹𝕒𝕟𝕓𝕒𝕣𝕒 𝕄𝕠𝕖𝕜𝕒✨",
-    "description": "2代目帳號 | 前世：@hotcat9269_2 | 種族：魔族 | 頭像是本人 |  地理愛好家 | 歡迎貼貼喵😽 | 寶寶：@gravityswiss @Lei_Y1n | 奈緒醬(小號)：@KomaneNao | 地理號：@geohotcat",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1885923533169328128/YHR7_E8o_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864921094005940224/1745928311",
-    "followers_count": 1583,
-    "friends_count": 1371,
-    "statuses_count": 8583,
-    "favourites_count": 55785,
-    "listed_count": 5,
+    "screen_name": "hotcat9269_",
+    "description": "2代目帳號 | 前世：@hotcat9269_2 | 種族：魔族 | 頭像是本人 |  地理愛好家 | 歡迎貼貼喵😽 | 寶寶：@gravityswiss @Lei_Y1n @ElberethXVIII | 奈緒醬(小號)：@KomaneNao | 地理號：@geohotcat",
     "location": "距離你-3cm",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-12-06 14:33:47 +08:00",
-    "url": "https://twitter.com/hotcat9269_",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODY0OTIxMDk0MDA1OTQwMjI0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1885923533169328128/YHR7_E8o_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Dec 06 06:33:47 +0000 2024",
-            "name": "番原萌香💜🌸⛩️✨𝔹𝕒𝕟𝕓𝕒𝕣𝕒 𝕄𝕠𝕖𝕜𝕒✨",
-            "screen_name": "hotcat9269_"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1371,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 562,
-            "pinned_tweet_ids_str": [
-                "1885263016398381473"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "距離你-3cm"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "Parody",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1733466827000,
-            "updated_at": 1752846612950
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1578,
+    "friends_count": 1376,
+    "listed_count": 5,
+    "created_at": "Fri Dec 06 06:33:47 +0000 2024",
+    "favourites_count": 57621,
+    "verified": false,
+    "statuses_count": 8740,
+    "media_count": 591,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1885923533169328128/YHR7_E8o_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864921094005940224/1745928311",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1885263016398381473
+    ],
+    "pinned_tweet_ids_str": [
+        "1885263016398381473"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

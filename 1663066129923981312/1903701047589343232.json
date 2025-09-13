@@ -2,7 +2,7 @@
     "id": "1903701047589343232",
     "name": "小方",
     "screen_name": "ceobrus",
-    "description": "xyn丨Femboy丨m丨180cm/56kg丨ISFP-T丨可互fo丨小方一号机@ceoberus",
+    "description": "Femboy丨180cm/56kg丨群：1060480957",
     "location": "武汉",
     "url": "https://t.co/jjy2nziSM9",
     "entities": {
@@ -23,15 +23,15 @@
             "urls": []
         }
     },
-    "protected": false,
+    "protected": true,
     "followers_count": 3044,
-    "friends_count": 1670,
+    "friends_count": 1673,
     "listed_count": 5,
     "created_at": "Sun Mar 23 06:51:21 +0000 2025",
-    "favourites_count": 7521,
+    "favourites_count": 7539,
     "verified": false,
-    "statuses_count": 1629,
-    "media_count": 114,
+    "statuses_count": 1640,
+    "media_count": 113,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1966365071845867520/qg3gtGsV_normal.jpg",
@@ -40,11 +40,15 @@
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1966820650896814115
+    ],
+    "pinned_tweet_ids_str": [
+        "1966820650896814115"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
-    "can_media_tag": true,
+    "can_media_tag": false,
     "following": true,
     "follow_request_sent": false,
     "notifications": false,
