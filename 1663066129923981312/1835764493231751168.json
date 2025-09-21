@@ -1,100 +1,64 @@
 {
     "id": "1835764493231751168",
-    "screen_name": "mirekintoc",
     "name": "Mirekintoc",
-    "description": "✨正在重新拾起算法竞赛｜09 年高一 OIer｜代词随意｜浙江杭州｜顺男，对人属生物个体友好｜拒绝鉴证｜ENTP-A｜朋友 @ninety_nine199｜妹妹 @MinaseAyano & @LiciiQAQ｜新小号 @omkechan",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1861219984820912128/yCyrRBXh_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835764493231751168/1726552831",
-    "followers_count": 553,
-    "friends_count": 885,
-    "statuses_count": 1976,
-    "favourites_count": 4561,
-    "listed_count": 4,
+    "screen_name": "mirekintoc",
+    "description": "✨正在冲刺 NOIP 2025｜09 年高一 OIer｜代词随意｜浙江杭州｜顺男，对人属生物个体友好｜拒绝鉴证｜ENTP-A｜朋友 @ninety_nine199｜妹妹 @MinaseAyano & @LiciiQAQ｜新小号 @omkechan",
     "location": "VALEINT SHIN",
-    "website": "https://t.co/Gm4k8wa7mW",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2024-09-17 03:36:00 +08:00",
-    "url": "https://twitter.com/mirekintoc",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODM1NzY0NDkzMjMxNzUxMTY4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1861219984820912128/yCyrRBXh_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Sep 16 19:36:00 +0000 2024",
-            "name": "Mirekintoc",
-            "screen_name": "mirekintoc"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/mirekintocvoid",
-                            "expanded_url": "https://ngl.link/mirekintocvoid",
-                            "url": "https://t.co/Gm4k8wa7mW",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/Gm4k8wa7mW",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/Gm4k8wa7mW",
+                    "expanded_url": "https://ngl.link/mirekintocvoid",
+                    "display_url": "ngl.link/mirekintocvoid",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 885,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 259,
-            "pinned_tweet_ids_str": [
-                "1917620497195622553"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/Gm4k8wa7mW",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "VALEINT SHIN"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1726515360000,
-            "updated_at": 1752846612950
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 573,
+    "friends_count": 913,
+    "listed_count": 4,
+    "created_at": "Mon Sep 16 19:36:00 +0000 2024",
+    "favourites_count": 4659,
+    "verified": false,
+    "statuses_count": 2057,
+    "media_count": 272,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1861219984820912128/yCyrRBXh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835764493231751168/1757953320",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1958160638943093236
+    ],
+    "pinned_tweet_ids_str": [
+        "1958160638943093236"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

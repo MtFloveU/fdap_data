@@ -1,59 +1,50 @@
 {
     "id": "1673546361302654977",
+    "name": "岚羽",
     "screen_name": "lanyu20040409",
-    "name": "岚羽🏳️‍⚧️",
-    "description": "04在读 欢迎互关 b站 R39Execute",
+    "description": "b站 R39Execute",
     "location": "苏州",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1735618406915756032/XVohXamW_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 53,
-    "statuses_count": 30,
-    "favourites_count": 34,
-    "listed_count": 0,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2023-06-27 12:18:50 +08:00",
-    "url": "https://twitter.com/lanyu20040409",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjczNTQ2MzYxMzAyNjU0OTc3",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": false,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 182,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 3,
-            "pinned_tweet_ids_str": [
-                "1736243869459595673"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "twe_private_fields": {
-            "created_at": 1687839530000,
-            "updated_at": 1744350118007
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 51,
+    "friends_count": 118,
+    "listed_count": 1,
+    "created_at": "Tue Jun 27 04:18:50 +0000 2023",
+    "favourites_count": 24,
+    "verified": false,
+    "statuses_count": 19,
+    "media_count": 0,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1735618406915756032/XVohXamW_normal.jpg",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1736243869459595673
+    ],
+    "pinned_tweet_ids_str": [
+        "1736243869459595673"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": false,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

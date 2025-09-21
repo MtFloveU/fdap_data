@@ -1,97 +1,51 @@
 {
     "id": "1596405792315691008",
-    "screen_name": "0502railgun1949",
     "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
-    "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1724776088",
-    "followers_count": 1113,
-    "friends_count": 635,
-    "statuses_count": 7079,
-    "favourites_count": 9626,
-    "listed_count": 3,
+    "screen_name": "0502railgun1949",
+    "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
     "location": "深圳市龍華区少年科學院(报刊亭)",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-11-26 15:31:03 +08:00",
-    "url": "https://twitter.com/0502railgun1949",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTk2NDA1NzkyMzE1NjkxMDA4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Nov 26 07:31:03 +0000 2022",
-            "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
-            "screen_name": "0502railgun1949"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 635,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 1012,
-            "pinned_tweet_ids_str": [
-                "1867555700534325353"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "深圳市龍華区少年科學院(报刊亭)"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1734948361588158922",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 144,
-                    "name": "Education",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1669447863000,
-            "updated_at": 1752846626571
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1146,
+    "friends_count": 632,
+    "listed_count": 4,
+    "created_at": "Sat Nov 26 07:31:03 +0000 2022",
+    "favourites_count": 10851,
+    "verified": false,
+    "statuses_count": 7659,
+    "media_count": 1061,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1724776088",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1867555700534325353
+    ],
+    "pinned_tweet_ids_str": [
+        "1867555700534325353"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

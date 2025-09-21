@@ -1,99 +1,51 @@
 {
     "id": "1816944578496536576",
-    "screen_name": "Yizhikapaiqaq",
     "name": "一只卡牌qaq",
-    "description": "好欸! | Eternal Academics!",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1898556923857055745/AQts4mkg_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816944578496536576/1722167680",
-    "followers_count": 1282,
-    "friends_count": 1791,
-    "statuses_count": 2102,
-    "favourites_count": 28642,
-    "listed_count": 3,
+    "screen_name": "Yizhikapaiqaq",
+    "description": "好欸! | Eternal Academics!\n近期暂行退推",
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/Yizhikapaiqaq",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODE2OTQ0NTc4NDk2NTM2NTc2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1898556923857055745/AQts4mkg_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Jul 26 21:12:09 +0000 2024",
-            "name": "一只卡牌qaq",
-            "screen_name": "Yizhikapaiqaq"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 1791,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 47,
-            "pinned_tweet_ids_str": [
-                "1923220006159946050"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1880245142604640412",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 1065,
-                    "name": "Academic",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219072953
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1260,
+    "friends_count": 1764,
+    "listed_count": 4,
+    "created_at": "Fri Jul 26 21:12:09 +0000 2024",
+    "favourites_count": 30498,
+    "verified": false,
+    "statuses_count": 2173,
+    "media_count": 50,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1898556923857055745/AQts4mkg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816944578496536576/1722167680",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1967272012457595216
+    ],
+    "pinned_tweet_ids_str": [
+        "1967272012457595216"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -1,111 +1,64 @@
 {
     "id": "1691242509815754754",
-    "screen_name": "LastTrouvaille",
     "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
-    "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1742315025",
-    "followers_count": 3190,
-    "friends_count": 2722,
-    "statuses_count": 6718,
-    "favourites_count": 29157,
-    "listed_count": 12,
+    "screen_name": "LastTrouvaille",
+    "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
     "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
-    "website": "https://t.co/cjyY2KdsGB",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-08-15 08:17:03 +08:00",
-    "url": "https://twitter.com/LastTrouvaille",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjkxMjQyNTA5ODE1NzU0NzU0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg"
-        },
-        "core": {
-            "created_at": "Tue Aug 15 00:17:03 +0000 2023",
-            "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
-            "screen_name": "LastTrouvaille"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "ngl.link/lasttrouvaille",
-                            "expanded_url": "https://ngl.link/lasttrouvaille",
-                            "url": "https://t.co/cjyY2KdsGB",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2722,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 609,
-            "pinned_tweet_ids_str": [
-                "1873030514250268931"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/cjyY2KdsGB",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "禁阁·星光沙漠·玫瑰园&纪念馆"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1873018104814682187",
-            "professional_type": "Creator",
-            "category": [
+    "url": "https://t.co/cjyY2KdsGB",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 358,
-                    "name": "Chocolate Shop",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/cjyY2KdsGB",
+                    "expanded_url": "https://ngl.link/lasttrouvaille",
+                    "display_url": "ngl.link/lasttrouvaille",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1692058623000,
-            "updated_at": 1752846612950
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 3339,
+    "friends_count": 2685,
+    "listed_count": 12,
+    "created_at": "Tue Aug 15 00:17:03 +0000 2023",
+    "favourites_count": 30698,
+    "verified": false,
+    "statuses_count": 7192,
+    "media_count": 681,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1742315025",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1873030514250268931
+    ],
+    "pinned_tweet_ids_str": [
+        "1873030514250268931"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

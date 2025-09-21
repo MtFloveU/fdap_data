@@ -1,102 +1,64 @@
 {
     "id": "1421238969346445316",
-    "screen_name": "qianduzz",
     "name": "前度",
-    "description": "死亡倒计时中～私宅阴暗b isfp mtx  非二元性别者    重度精神病 精神状态不太稳定 od 自伤 雪兔 会发癫 0.5  泛性恋 成分复杂 可以做你的树洞噢   (全是负能量/介意慎入)   可以叫我天天！我很好说话 喜欢所有乖宝宝  欢迎互fo！",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1881935423548870656/foFkOjX6_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1421238969346445316/1737523343",
-    "followers_count": 447,
-    "friends_count": 519,
-    "statuses_count": 963,
-    "favourites_count": 2255,
-    "listed_count": 0,
+    "screen_name": "qianduzz",
+    "description": "最爱的宝宝@maque478728\n\n死亡倒计时中～私宅阴暗b isfp   mtx  非二元性别    重度精神病 精神状态不太稳定 od 自伤 雪兔 会发癫 0.5  泛性恋 成分复杂 可以做你的树洞噢   (全是负能量/介意慎入)   可以叫我天天！我很好说话 喜欢所有乖宝宝 \n 🚪52 168 388",
     "location": "上海市奉贤区",
-    "website": "https://t.co/dhhgMYDCl2",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2021-07-31 06:39:18 +08:00",
-    "url": "https://twitter.com/qianduzz",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDIxMjM4OTY5MzQ2NDQ1MzE2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1881935423548870656/foFkOjX6_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Jul 30 22:39:18 +0000 2021",
-            "name": "前度",
-            "screen_name": "qianduzz"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "zhangweishihundan.com",
-                            "expanded_url": "https://www.zhangweishihundan.com/",
-                            "url": "https://t.co/dhhgMYDCl2",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/dhhgMYDCl2",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dhhgMYDCl2",
+                    "expanded_url": "https://www.zhangweishihundan.com/",
+                    "display_url": "zhangweishihundan.com",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 519,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 52,
-            "pinned_tweet_ids_str": [
-                "1891299718463934716"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/dhhgMYDCl2",
-            "want_retweets": true,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "上海市奉贤区"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": false
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1627684758000,
-            "updated_at": 1752846611714
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 510,
+    "friends_count": 527,
+    "listed_count": 1,
+    "created_at": "Fri Jul 30 22:39:18 +0000 2021",
+    "favourites_count": 2214,
+    "verified": false,
+    "statuses_count": 1004,
+    "media_count": 59,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1881935423548870656/foFkOjX6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1421238969346445316/1737523343",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1957146344755458078
+    ],
+    "pinned_tweet_ids_str": [
+        "1957146344755458078"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

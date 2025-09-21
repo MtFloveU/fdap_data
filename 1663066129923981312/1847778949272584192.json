@@ -1,103 +1,83 @@
 {
     "id": "1847778949272584192",
-    "screen_name": "jingsheng237248",
     "name": "脑斧酱-聪明吧",
-    "description": "觉得梗图有意思的话可以给我的YouTube 频道点个订阅求求你了https://t.co/sbQiOkuo3u｜墙外聪明吧联盟tg群https://t.co/hO6v9AsESp｜💯回关，漏fo请私信｜接推广，广告",
+    "screen_name": "jingsheng237248",
+    "description": "觉得梗图有意思的话可以给我的YouTube 频道点个订阅求求你了https://t.co/sbQiOktQdW｜墙外聪明吧联盟tg群https://t.co/hO6v9As72R｜💯回关，漏fo请私信｜接推广，广告",
     "location": "小号@xiaobenzhu211",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1873060612315455488/mf2pvdmw_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847778949272584192/1729391196",
-    "followers_count": 12068,
-    "statuses_count": 3635,
-    "favourites_count": 4060,
-    "listed_count": 21,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2024-10-20 07:17:00 +08:00",
-    "url": "https://twitter.com/jingsheng237248",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODQ3Nzc4OTQ5MjcyNTg0MTky",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "youtube.com/@naofujiang?si…",
-                            "expanded_url": "https://youtube.com/@naofujiang?si=PB1KJBBda1TvehWg",
-                            "url": "https://t.co/sbQiOkuo3u",
-                            "indices": [
-                                32,
-                                55
-                            ]
-                        },
-                        {
-                            "display_url": "t.me/+-r03gqqFd_9jN…",
-                            "expanded_url": "https://t.me/+-r03gqqFd_9jNmIx",
-                            "url": "https://t.co/hO6v9AsESp",
-                            "indices": [
-                                66,
-                                89
-                            ]
-                        }
-                    ]
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "bsky.app/profile/xiaona…",
-                            "expanded_url": "https://bsky.app/profile/xiaonaofujiang.bsky.social",
-                            "url": "https://t.co/t48ryNaoYR",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 11795,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 754,
-            "pinned_tweet_ids_str": [
-                "1875765496647446584"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/t48ryNaoYR",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1872949729081901268",
-            "professional_type": "Business",
-            "category": [
+    "url": "https://t.co/t48ryN9R9j",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 132,
-                    "name": "Commercial & Industrial",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/t48ryN9R9j",
+                    "expanded_url": "https://bsky.app/profile/xiaonaofujiang.bsky.social",
+                    "display_url": "bsky.app/profile/xiaona…",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "twe_private_fields": {
-            "created_at": 1729379820000,
-            "updated_at": 1744350085207
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/sbQiOktQdW",
+                    "expanded_url": "https://youtube.com/@naofujiang?si=PB1KJBBda1TvehWg",
+                    "display_url": "youtube.com/@naofujiang?si…",
+                    "indices": [
+                        32,
+                        55
+                    ]
+                },
+                {
+                    "url": "https://t.co/hO6v9As72R",
+                    "expanded_url": "https://t.me/+-r03gqqFd_9jNmIx",
+                    "display_url": "t.me/+-r03gqqFd_9jN…",
+                    "indices": [
+                        66,
+                        89
+                    ]
+                }
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 11647,
+    "friends_count": 11690,
+    "listed_count": 21,
+    "created_at": "Sat Oct 19 23:17:00 +0000 2024",
+    "favourites_count": 4185,
+    "verified": false,
+    "statuses_count": 3652,
+    "media_count": 761,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1873060612315455488/mf2pvdmw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847778949272584192/1729391196",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1875765496647446584
+    ],
+    "pinned_tweet_ids_str": [
+        "1875765496647446584"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

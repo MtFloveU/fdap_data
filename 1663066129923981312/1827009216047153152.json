@@ -1,86 +1,51 @@
 {
     "id": "1827009216047153152",
-    "screen_name": "yuanyunwu1112",
     "name": "苑云鹜",
-    "description": "苑猫猫在此♪\n中国人~是猫猫/INFP/大一预备/ftx（伪娘喵）/想成为可爱的猫猫！/负能日常推/键政哒咩/awmc/pjsk/米游三坑玩家/粥粥博士/鸣潮漂泊者/计科新生/喵~欢迎互fo",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1907379675539849217/TPB3ZP53_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827009216047153152/1735578810",
-    "followers_count": 444,
-    "friends_count": 673,
-    "statuses_count": 928,
-    "favourites_count": 7782,
-    "listed_count": 0,
+    "screen_name": "yuanyunwu1112",
+    "description": "苑猫猫在此♪\n中国人~是猫猫/INFP/大一/ftx（伪娘喵）/想成为可爱的猫猫！/负能日常推/键政哒咩/awmc/pjsk/米游三坑玩家/粥粥博士/鸣潮漂泊者/计科新生/喵~欢迎互fo",
     "location": "往世乐土♪",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-08-23 23:45:39 +08:00",
-    "url": "https://twitter.com/yuanyunwu1112",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODI3MDA5MjE2MDQ3MTUzMTUy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1907379675539849217/TPB3ZP53_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Aug 23 15:45:39 +0000 2024",
-            "name": "苑云鹜",
-            "screen_name": "yuanyunwu1112"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 673,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 76,
-            "pinned_tweet_ids_str": [
-                "1909209574332404021"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "往世乐土♪"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1724427939000,
-            "updated_at": 1752846592776
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 461,
+    "friends_count": 711,
+    "listed_count": 1,
+    "created_at": "Fri Aug 23 15:45:39 +0000 2024",
+    "favourites_count": 9224,
+    "verified": false,
+    "statuses_count": 1055,
+    "media_count": 90,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1907379675539849217/TPB3ZP53_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827009216047153152/1735578810",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1960608980331585906
+    ],
+    "pinned_tweet_ids_str": [
+        "1960608980331585906"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

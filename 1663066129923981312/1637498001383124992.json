@@ -1,82 +1,64 @@
 {
     "id": "1637498001383124992",
-    "screen_name": "free_lin1921",
     "name": "林1927",
-    "description": "🫡",
+    "screen_name": "free_lin1921",
+    "description": "@Lin_freeMi  Forged of steel and code, a fleeting radiance of freedom in a world of chains",
     "location": "中南海",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1845126228702801926/-qRsR79__normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637498001383124992/1724911235",
-    "followers_count": 1141,
-    "statuses_count": 3969,
-    "favourites_count": 11984,
-    "listed_count": 5,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2023-03-20 00:55:32 +08:00",
-    "url": "https://twitter.com/free_lin1921",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjM3NDk4MDAxMzgzMTI0OTky",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "zh.m.wikipedia.org/zh-cn/%E8%83%A…",
-                            "expanded_url": "https://zh.m.wikipedia.org/zh-cn/%E8%83%A1%E9%94%A6%E6%B6%9B",
-                            "url": "https://t.co/0rx2nIucea",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 490,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 538,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/0rx2nIucea",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1692495240656257345",
-            "professional_type": "Business",
-            "category": [
+    "url": "https://t.co/b3DcLMS3Ye",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 934,
-                    "name": "Social Media Influencer",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/b3DcLMS3Ye",
+                    "expanded_url": "https://www.youtube.com/@lin_hubot",
+                    "display_url": "youtube.com/@lin_hubot",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "twe_private_fields": {
-            "created_at": 1679244932000,
-            "updated_at": 1744350115034
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1520,
+    "friends_count": 476,
+    "listed_count": 6,
+    "created_at": "Sun Mar 19 16:55:32 +0000 2023",
+    "favourites_count": 13215,
+    "verified": false,
+    "statuses_count": 4876,
+    "media_count": 757,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1845126228702801926/-qRsR79__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637498001383124992/1724911235",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1969082860381344203
+    ],
+    "pinned_tweet_ids_str": [
+        "1969082860381344203"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }
