@@ -2,23 +2,46 @@
     "id": "1824818634809806848",
     "name": "萌新 honoka🍥🏳️‍⚧️",
     "screen_name": "hsgmxz",
-    "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|mtf🏳️‍⚧️|含糖2025.7.26|初音ミク大好き。🥰|欢迎贴贴|同类互fo|2011.1.24|intp-t|最最最最最最爱的姐姐：     @Haruka25999588",
+    "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|14岁mtf🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|11.1.24|同类互fo|欢迎贴贴😺|极度社恐|重焦重郁|intp-t|匿名提问箱https://t.co/eJ9r7NqD38|❤️@Haruka25999588",
     "location": "誰もいないセカイ",
-    "url": null,
+    "url": "https://t.co/Xrx6CgHM4p",
     "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/Xrx6CgHM4p",
+                    "expanded_url": "http://t.me/mx_honoka",
+                    "display_url": "t.me/mx_honoka",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
         "description": {
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/eJ9r7NqD38",
+                    "expanded_url": "http://ngl.link/hsgmxz1",
+                    "display_url": "ngl.link/hsgmxz1",
+                    "indices": [
+                        111,
+                        134
+                    ]
+                }
+            ]
         }
     },
     "protected": false,
-    "followers_count": 846,
-    "friends_count": 1004,
+    "followers_count": 983,
+    "friends_count": 1079,
     "listed_count": 1,
     "created_at": "Sat Aug 17 14:40:51 +0000 2024",
-    "favourites_count": 4178,
+    "favourites_count": 5375,
     "verified": false,
-    "statuses_count": 700,
-    "media_count": 66,
+    "statuses_count": 866,
+    "media_count": 76,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1956290303792660480/uak33Kmx_normal.jpg",

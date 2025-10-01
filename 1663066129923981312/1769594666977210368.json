@@ -1,61 +1,51 @@
 {
     "id": "1769594666977210368",
-    "screen_name": "aiaijiango",
     "name": "爱爱酱🍥🏳️‍⚧",
-    "description": "无证含糖已炸柜 肉肉系 偏4i/INTJ药娘，攒钱做srs，绝赞私信请直接入门 不过🚪不回 私信过🚪128口令红包 支持Btc ETH",
-    "location": "上海 ",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1893620196599881728/7N6JyNGt_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769594666977210368/1727084578",
-    "followers_count": 8814,
-    "statuses_count": 855,
-    "favourites_count": 358,
-    "listed_count": 29,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2024-03-18 13:21:16 +08:00",
-    "url": "https://twitter.com/aiaijiango",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzY5NTk0NjY2OTc3MjEwMzY4",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 119,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 124,
-            "pinned_tweet_ids_str": [
-                "1899871820603367849"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "bitcoin_handle": "3Pt8xm8ce5Bx9PmZ7q8FEw7Mwbo2tnq71M",
-            "ethereum_handle": "0xEE3F20c33c3f6772b75c1C97925701d3b6E04FEF"
-        },
-        "twe_private_fields": {
-            "created_at": 1710739276000,
-            "updated_at": 1744350085207
+    "screen_name": "aiaijiango",
+    "description": "无证含糖已炸柜 肉肉系 偏4i/INTJ药娘，攒钱做srs，绝赞私信请直接入门 不过🚪不回 私信过🚪128口令红包 支持usdt",
+    "location": "🚪128❤️",
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 8778,
+    "friends_count": 136,
+    "listed_count": 31,
+    "created_at": "Mon Mar 18 05:21:16 +0000 2024",
+    "favourites_count": 343,
+    "verified": false,
+    "statuses_count": 864,
+    "media_count": 110,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1893620196599881728/7N6JyNGt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769594666977210368/1727084578",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1913106725940695531
+    ],
+    "pinned_tweet_ids_str": [
+        "1913106725940695531"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

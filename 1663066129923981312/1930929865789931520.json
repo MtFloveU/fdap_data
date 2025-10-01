@@ -1,24 +1,37 @@
 {
     "id": "1930929865789931520",
-    "name": "mi huan😺",
+    "name": "mi huan🐾",
     "screen_name": "mi_huan030",
-    "description": "（真的会有人看吗？）🐈‍⬛栖影｜🎮｜🎵｜INTP- T｜社恐｜03年mtx｜阴暗b｜brat｜日常｜不建政｜不知名营业大号（狒狒和r18）@sleepmihuan｜豪🐱@sanmiguelnoodle",
+    "description": "（真的会有人看吗？）🐈‍⬛｜豪🐱@sanmiguelnoodle",
     "location": "",
-    "url": null,
+    "url": "https://t.co/4qvoOYB2tq",
     "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/4qvoOYB2tq",
+                    "expanded_url": "https://ngl.link/mihuan1",
+                    "display_url": "ngl.link/mihuan1",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
         "description": {
             "urls": []
         }
     },
     "protected": false,
-    "followers_count": 333,
-    "friends_count": 340,
+    "followers_count": 353,
+    "friends_count": 364,
     "listed_count": 1,
     "created_at": "Fri Jun 06 10:09:01 +0000 2025",
-    "favourites_count": 8752,
+    "favourites_count": 9782,
     "verified": false,
-    "statuses_count": 2157,
-    "media_count": 265,
+    "statuses_count": 2418,
+    "media_count": 310,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1935782534383628288/3ONnKKBE_normal.jpg",

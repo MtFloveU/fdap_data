@@ -1,9 +1,9 @@
 {
     "id": "1479730386431545346",
-    "name": "樱井🥺千雪🏳️‍⚧️🏳️‍🌈",
+    "name": "樱井千雪🏳️‍⚧️🏳️‍🌈",
     "screen_name": "YuKi520OwO",
-    "description": "。",
-    "location": "Shinjuku-ku, Tokyo",
+    "description": "呆呆的男娘(MTX)/二次元/English、日本語/美食/可爱的事物/maimaidx/ENTP/想要补偿@xiaoyuzhiyao/请多关注@Snow_YuKi_OvO",
+    "location": "北京/上海/广州",
     "url": null,
     "entities": {
         "description": {
@@ -11,14 +11,14 @@
         }
     },
     "protected": false,
-    "followers_count": 8694,
-    "friends_count": 1094,
+    "followers_count": 8569,
+    "friends_count": 1106,
     "listed_count": 15,
     "created_at": "Sat Jan 08 08:23:35 +0000 2022",
-    "favourites_count": 15476,
+    "favourites_count": 15576,
     "verified": false,
-    "statuses_count": 1986,
-    "media_count": 271,
+    "statuses_count": 2018,
+    "media_count": 277,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
@@ -27,11 +27,15 @@
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1971710946822574227
+    ],
+    "pinned_tweet_ids_str": [
+        "1971710946822574227"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
-    "can_media_tag": true,
+    "can_media_tag": false,
     "following": true,
     "follow_request_sent": false,
     "notifications": false,

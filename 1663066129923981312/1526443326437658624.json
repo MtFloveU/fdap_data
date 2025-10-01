@@ -1,57 +1,51 @@
 {
     "id": "1526443326437658624",
-    "screen_name": "thanks9874",
     "name": "🐾闭关型瓜瓜࿐",
-    "description": "🏳️‍⚧️mtf‖长沙‖免费提供医学咨询‖爱人@miku_tofacegirl‖讨厌sex",
+    "screen_name": "thanks9874",
+    "description": "🏳️‍⚧️mtf‖CHANGSHA‖免费提供医学咨询‖爱人@miku_tofacegirl‖",
     "location": "NGC 2237",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1786328982616678400/D_ZflZsF_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526443326437658624/1714728995",
-    "followers_count": 1438,
-    "statuses_count": 12938,
-    "favourites_count": 4462,
-    "listed_count": 4,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "created_at": "2022-05-17 14:04:14 +08:00",
-    "url": "https://twitter.com/thanks9874",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTI2NDQzMzI2NDM3NjU4NjI0",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 380,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 682,
-            "pinned_tweet_ids_str": [
-                "1830663056109773108"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1652767454000,
-            "updated_at": 1744350118007
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1404,
+    "friends_count": 380,
+    "listed_count": 5,
+    "created_at": "Tue May 17 06:04:14 +0000 2022",
+    "favourites_count": 4288,
+    "verified": false,
+    "statuses_count": 13132,
+    "media_count": 708,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1914922548858368000/O4ytHHr5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526443326437658624/1748235487",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1830663056109773108
+    ],
+    "pinned_tweet_ids_str": [
+        "1830663056109773108"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

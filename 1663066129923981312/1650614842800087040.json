@@ -1,86 +1,51 @@
 {
     "id": "1650614842800087040",
+    "name": "是双鱼座or佩楽🍥",
     "screen_name": "LavetaCandace",
-    "name": "灬佩楽or🍥",
     "description": "我的日常",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1945857921008783360/5y-ofGOu_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650614842800087040/1752763668",
-    "followers_count": 2271,
-    "friends_count": 706,
-    "statuses_count": 182,
-    "favourites_count": 261,
-    "listed_count": 7,
     "location": "乌托邦",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-04-25 05:37:08 +08:00",
-    "url": "https://twitter.com/LavetaCandace",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjUwNjE0ODQyODAwMDg3MDQw",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1945857921008783360/5y-ofGOu_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Apr 24 21:37:08 +0000 2023",
-            "name": "灬佩楽or🍥",
-            "screen_name": "LavetaCandace"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": false,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 706,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 18,
-            "pinned_tweet_ids_str": [
-                "1861336615869915318"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "乌托邦"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1682372228000,
-            "updated_at": 1752846615357
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2450,
+    "friends_count": 891,
+    "listed_count": 7,
+    "created_at": "Mon Apr 24 21:37:08 +0000 2023",
+    "favourites_count": 1117,
+    "verified": false,
+    "statuses_count": 234,
+    "media_count": 19,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1945857921008783360/5y-ofGOu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650614842800087040/1752763668",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1861336615869915318
+    ],
+    "pinned_tweet_ids_str": [
+        "1861336615869915318"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

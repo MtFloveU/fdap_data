@@ -1,96 +1,61 @@
 {
     "id": "1454757291291410436",
-    "screen_name": "datadelete_4444",
     "name": "［数据删除］－4444",
-    "description": "软瘫状态变形虫｜可爱妹妹 @Shenyuebanran｜最重要的恋人 @Hongcha_Orchids｜mtf🏳️‍⚧️｜性格稳定而动荡｜infp但tp核心｜避世太久试图重新联系基金会｜军武赛车空中马戏机甲｜mr设备折腾｜自我性格分析与实验｜44的胡思乱想https://t.co/9ixy6uj5tS",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1927387781434580992/JYdFmqhE_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454757291291410436/1729294368",
-    "followers_count": 1636,
-    "friends_count": 3668,
-    "statuses_count": 4364,
-    "favourites_count": 131800,
-    "listed_count": 5,
+    "screen_name": "datadelete_4444",
+    "description": "软瘫状态变形虫｜可爱妹妹 @Shenyuebanran｜mtf🏳️‍⚧️｜性格稳定而动荡｜infp但tp核心｜避世太久试图重新联系基金会｜军武赛车空中马戏机甲｜mr设备折腾｜自我性格分析与实验｜44的胡思乱想https://t.co/9ixy6uj5tS",
     "location": "红茶身边",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2021-10-31 18:29:11 +08:00",
-    "url": "https://twitter.com/datadelete_4444",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDU0NzU3MjkxMjkxNDEwNDM2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1927387781434580992/JYdFmqhE_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun Oct 31 10:29:11 +0000 2021",
-            "name": "［数据删除］－4444",
-            "screen_name": "datadelete_4444"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": [
-                        {
-                            "display_url": "t.me/+TLWPHou6saRjO…",
-                            "expanded_url": "https://t.me/+TLWPHou6saRjOGM1",
-                            "url": "https://t.co/9ixy6uj5tS",
-                            "indices": [
-                                128,
-                                151
-                            ]
-                        }
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": [
+                {
+                    "url": "https://t.co/9ixy6uj5tS",
+                    "expanded_url": "https://t.me/+TLWPHou6saRjOGM1",
+                    "display_url": "t.me/+TLWPHou6saRjO…",
+                    "indices": [
+                        104,
+                        127
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 3668,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 214,
-            "pinned_tweet_ids_str": [
-                "1943953950052692191"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "红茶身边"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1635676151000,
-            "updated_at": 1752846616262
+            ]
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1698,
+    "friends_count": 3690,
+    "listed_count": 8,
+    "created_at": "Sun Oct 31 10:29:11 +0000 2021",
+    "favourites_count": 129681,
+    "verified": false,
+    "statuses_count": 4431,
+    "media_count": 217,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1927387781434580992/JYdFmqhE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454757291291410436/1729294368",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1943953950052692191
+    ],
+    "pinned_tweet_ids_str": [
+        "1943953950052692191"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

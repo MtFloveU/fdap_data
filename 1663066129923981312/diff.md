@@ -1,19 +1,17 @@
-🕒Time: `2025-09-21 22:05:01 `
-📊Total followers: `1362`, following: `1023`
+🕒Time: `2025-10-01 11:36:07 `
+📊Total followers: `1364`, following: `1025`
 *Mutual Unfollow or Removal:*
-`🇵🇸🍉🕊️舞狮🦁小嘉明🐴🌈🏳️‍🌈🏳️‍⚧💖💛💙` @`GaMing_YuLuo`
-`袁世凯✝️（帝国派）` @`realPresidentY`
-`白粥ひょと🍥🐳` @`HyotoChandesuyo`
-`天童 アリス` @`sunxiaochu1145`
-`乌冬面🍥🐱` @`mtnyan8964`
-
-*One-Way Unfollowers:*
-`岚羽🏳️‍⚧️` @`lanyu20040409`
+`-He11sPike-` @`DePantheraUncia`
+`魔女奏奏妈咪的乖巧无底线胸奴4290号` @`zl0zw1C0ZNNqUQi`
+`末日暗影亚马乌罗提` @`iranon_amoroto`
+`🏳️‍⚧️秋月🍥` @`imqiuy`
+`岚羽` @`lanyu20040409`
+`南？` @`xx1xx9xx8xx8xx`
+`男村群同誇我強有力` @`Young2568`
+`☯️🧬葉加瀬水素 公式ツイッター` @`HydrogenNeko`
+`白芷梦瑶🍥` @`baizhimengyao`
 
 *Returning Follows:*
-`索灵瑰` @`SomoFeysi`
-`凌嘉欣🍥` @`LingJiaXin233`
-`面条喵🍥🐱🐈` @`MTNEKO8964`
-`koishi！🏳️‍⚧️🍥` @`KoishinFlandre`
-`游戳` @`kagurazakaAkira`
-`邪福` @`JOJOEvangelist`
+`小葵🌻` @`Ol_Sunflower`
+`idiotthingie` @`idiotthingie`
+`𝑨𝒓𝒄𝒖𝒌𝒊` @`hatsuyuki_suki`

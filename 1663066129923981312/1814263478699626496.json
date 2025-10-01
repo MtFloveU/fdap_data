@@ -2,16 +2,16 @@
     "id": "1814263478699626496",
     "name": "柚子气泡水🍒",
     "screen_name": "YZsoda_ovo",
-    "description": "もっと可愛くなりたいな✨，もう成人です🐱 | 购买图包🍰/イラスト 写真 ⬇️ | みんなの応援，めっちゃありがとー❤️，谢谢大家的喜欢呀～🍦",
+    "description": "もっと可愛くなりたいな✨，もう成人です🐱 | 购买图包🍰/イラスト/purchase pictures ：https://t.co/bk8n7kku4n，国内可以用电报⬇️ | みんなの応援，めっちゃありがとー❤️，谢谢大家的喜欢呀～🍦",
     "location": "💤",
-    "url": "https://t.co/kDl5aIGULf",
+    "url": "https://t.co/lWROZNaWKP",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/kDl5aIGULf",
-                    "expanded_url": "https://linktr.ee/yzsoda",
-                    "display_url": "linktr.ee/yzsoda",
+                    "url": "https://t.co/lWROZNaWKP",
+                    "expanded_url": "https://t.me/hoshino52213202",
+                    "display_url": "t.me/hoshino52213202",
                     "indices": [
                         0,
                         23
@@ -20,18 +20,28 @@
             ]
         },
         "description": {
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/bk8n7kku4n",
+                    "expanded_url": "http://linktr.ee/yzsoda",
+                    "display_url": "linktr.ee/yzsoda",
+                    "indices": [
+                        53,
+                        76
+                    ]
+                }
+            ]
         }
     },
     "protected": false,
-    "followers_count": 73453,
+    "followers_count": 73085,
     "friends_count": 141,
-    "listed_count": 174,
+    "listed_count": 172,
     "created_at": "Fri Jul 19 11:38:39 +0000 2024",
-    "favourites_count": 2407,
+    "favourites_count": 2403,
     "verified": false,
     "statuses_count": 503,
-    "media_count": 30,
+    "media_count": 29,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1963294086041059328/FHl5jXnS_normal.jpg",

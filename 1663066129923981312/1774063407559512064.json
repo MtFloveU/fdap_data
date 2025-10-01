@@ -1,141 +1,64 @@
 {
     "id": "1774063407559512064",
-    "screen_name": "lightly_wind",
     "name": "温柔的风穿堂过",
-    "description": "辞暮尔尔，烟火年年。",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1936615233667399680/RTrcnK9A_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774063407559512064/1737754338",
-    "followers_count": 796,
-    "friends_count": 861,
-    "statuses_count": 8835,
-    "favourites_count": 21531,
-    "listed_count": 17,
+    "screen_name": "lightly_wind",
+    "description": "风风已半隐，生活很安宁，没有梦想了。",
     "location": "异世界，王国都城，上城区",
-    "website": "https://t.co/6iDsLyipfL",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-03-30 21:17:38 +08:00",
-    "url": "https://twitter.com/lightly_wind",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzc0MDYzNDA3NTU5NTEyMDY0",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @Lightly_Neko",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 26,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "Lightly_Neko",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "User",
-                                        "core": {
-                                            "screen_name": "Lightly_Neko"
-                                        },
-                                        "rest_id": "1896940327833042944"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1936615233667399680/RTrcnK9A_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Mar 30 13:17:38 +0000 2024",
-            "name": "温柔的风穿堂过",
-            "screen_name": "lightly_wind"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "limestart.cn",
-                            "expanded_url": "https://limestart.cn/",
-                            "url": "https://t.co/6iDsLyipfL",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 861,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 879,
-            "pinned_tweet_ids_str": [
-                "1942299943278108943"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/6iDsLyipfL",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "异世界，王国都城，上城区"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1867227615456874894",
-            "professional_type": "Business",
-            "category": [
+    "url": "https://t.co/6iDsLyipfL",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 552,
-                    "name": "Photographer",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/6iDsLyipfL",
+                    "expanded_url": "https://limestart.cn/",
+                    "display_url": "limestart.cn",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1711804658000,
-            "updated_at": 1752846595659
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 782,
+    "friends_count": 844,
+    "listed_count": 18,
+    "created_at": "Sat Mar 30 13:17:38 +0000 2024",
+    "favourites_count": 21291,
+    "verified": false,
+    "statuses_count": 8901,
+    "media_count": 897,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1936615233667399680/RTrcnK9A_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774063407559512064/1737754338",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1942299943278108943
+    ],
+    "pinned_tweet_ids_str": [
+        "1942299943278108943"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

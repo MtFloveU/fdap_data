@@ -1,98 +1,60 @@
 {
     "id": "1732931627813330944",
-    "screen_name": "Frysland155149",
     "name": "咸鱼主义者Official",
-    "description": "Angels wings lifting and setting me free.",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1935511919613415424/Xcd5saFB_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732931627813330944/1742035715",
-    "followers_count": 587,
-    "friends_count": 5253,
-    "statuses_count": 2686,
-    "favourites_count": 26170,
-    "listed_count": 0,
+    "screen_name": "Frysland155149",
+    "description": "Delighting in your company.",
     "location": "？",
-    "website": "https://t.co/IuJMumOEFt",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-12-08 09:14:39 +08:00",
-    "url": "https://twitter.com/Frysland155149",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzMyOTMxNjI3ODEzMzMwOTQ0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1935511919613415424/Xcd5saFB_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Dec 08 01:14:39 +0000 2023",
-            "name": "咸鱼主义者Official",
-            "screen_name": "Frysland155149"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "b23.tv/igVGk1d",
-                            "expanded_url": "https://b23.tv/igVGk1d",
-                            "url": "https://t.co/IuJMumOEFt",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
+    "url": "https://t.co/IuJMumOEFt",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/IuJMumOEFt",
+                    "expanded_url": "https://b23.tv/igVGk1d",
+                    "display_url": "b23.tv/igVGk1d",
+                    "indices": [
+                        0,
+                        23
                     ]
                 }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 5253,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 164,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/IuJMumOEFt",
-            "want_retweets": false,
-            "withheld_in_countries": []
+            ]
         },
-        "location": {
-            "location": "？"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1701998079000,
-            "updated_at": 1752846550885
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 613,
+    "friends_count": 5810,
+    "listed_count": 2,
+    "created_at": "Fri Dec 08 01:14:39 +0000 2023",
+    "favourites_count": 31729,
+    "verified": false,
+    "statuses_count": 3230,
+    "media_count": 180,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1965332985126981632/prjfJjOJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732931627813330944/1742035715",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

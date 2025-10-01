@@ -2,8 +2,8 @@
     "id": "1818315659673210880",
     "name": "Nek1🇳🇴🦌☕✨",
     "screen_name": "NeK1GG",
-    "description": "我渺于一粒细尘，却又长于永恒。\n「和平主义🕊️/实用主义🌱/人权&平等🤝/反建制🌹/🚫极端主义🚫」无固定立场 不回复代表你说的对 什么都黑别来查成分了\n逃生舱：@Nek1BOOM 欢迎互fo😘",
-    "location": "Dawntown NightCity, California",
+    "description": "我渺于一粒细尘，却又长于永恒。\n「INFP-T/和平主义🕊️/实用主义🌱/人权&平等🤝/反建制🌹/🚫极端主义🚫」🇺🇦友无其他固定立场 不回复代表你说的对 什么都黑别来查成分了\ntg：https://t.co/APvtJZ5cKy",
+    "location": "Westbrook, Night City, CA",
     "url": "https://t.co/n61PuIvjOU",
     "entities": {
         "url": {
@@ -20,31 +20,41 @@
             ]
         },
         "description": {
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/APvtJZ5cKy",
+                    "expanded_url": "http://t.me/Nek1A",
+                    "display_url": "t.me/Nek1A",
+                    "indices": [
+                        91,
+                        114
+                    ]
+                }
+            ]
         }
     },
     "protected": false,
-    "followers_count": 1066,
-    "friends_count": 1163,
-    "listed_count": 0,
+    "followers_count": 1131,
+    "friends_count": 1214,
+    "listed_count": 6,
     "created_at": "Tue Jul 30 16:00:37 +0000 2024",
-    "favourites_count": 29538,
+    "favourites_count": 35785,
     "verified": false,
-    "statuses_count": 6673,
-    "media_count": 408,
+    "statuses_count": 7917,
+    "media_count": 509,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1946436939277582338/0EXpCeoe_normal.png",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1951581549780144128/fFe05120_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818315659673210880/1752965516",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
     "pinned_tweet_ids": [
-        1946608701743476946
+        1966864736529912175
     ],
     "pinned_tweet_ids_str": [
-        "1946608701743476946"
+        "1966864736529912175"
     ],
     "has_custom_timelines": false,
     "can_dm": null,

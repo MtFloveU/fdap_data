@@ -2,26 +2,39 @@
     "id": "1821304109451931648",
     "name": "翎",
     "screen_name": "Fisa_wo",
-    "description": "⭐：不见证！不鉴政！不涉政！",
+    "description": "⭐：不见证！不鉴政！不涉政！\n欢迎来tg找我聊天喔～",
     "location": "Japan",
-    "url": null,
+    "url": "https://t.co/C6HXIofQDX",
     "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/C6HXIofQDX",
+                    "expanded_url": "http://t.me/Fisa_Sanswgh",
+                    "display_url": "t.me/Fisa_Sanswgh",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
         "description": {
             "urls": []
         }
     },
     "protected": false,
-    "followers_count": 459,
-    "friends_count": 1050,
-    "listed_count": 3,
+    "followers_count": 487,
+    "friends_count": 1118,
+    "listed_count": 4,
     "created_at": "Wed Aug 07 21:55:18 +0000 2024",
-    "favourites_count": 11161,
+    "favourites_count": 12300,
     "verified": false,
-    "statuses_count": 2098,
-    "media_count": 341,
+    "statuses_count": 2339,
+    "media_count": 370,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1941491525302550528/hXj-dWlf_normal.jpg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1965845216365260800/bpP8wSZk_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821304109451931648/1728020198",
     "profile_use_background_image": true,
     "has_extended_profile": true,

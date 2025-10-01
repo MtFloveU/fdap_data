@@ -1,125 +1,51 @@
 {
     "id": "1711431451286396928",
+    "name": ".",
     "screen_name": "kagurazakahyoto",
-    "name": "神楽坂 白粥",
     "description": "明天见",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1939546433222488064/3b1dY0Ps_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711431451286396928/1730617163",
-    "followers_count": 86,
-    "friends_count": 105,
-    "statuses_count": 1807,
-    "favourites_count": 6801,
-    "listed_count": 1,
     "location": "上海市自来水厂",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2023-10-10 01:20:41 +08:00",
-    "url": "https://twitter.com/kagurazakahyoto",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzExNDMxNDUxMjg2Mzk2OTI4",
-        "affiliates_highlighted_label": {
-            "label": {
-                "badge": {
-                    "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
-                },
-                "description": "Automated",
-                "longDescription": {
-                    "text": "Automated by @President_Lei",
-                    "entities": [
-                        {
-                            "fromIndex": 13,
-                            "toIndex": 27,
-                            "ref": {
-                                "type": "TimelineRichTextMention",
-                                "screen_name": "President_Lei",
-                                "mention_results": {
-                                    "result": {
-                                        "__typename": "UserUnavailable",
-                                        "reason": "Suspended",
-                                        "message": "User is suspended"
-                                    }
-                                }
-                            }
-                        }
-                    ]
-                },
-                "userLabelType": "AutomatedLabel"
-            }
-        },
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1939546433222488064/3b1dY0Ps_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon Oct 09 17:20:41 +0000 2023",
-            "name": "神楽坂 白粥",
-            "screen_name": "kagurazakahyoto"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 105,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 319,
-            "pinned_tweet_ids_str": [
-                "1872734137263767723"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "上海市自来水厂"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1778452449831104938",
-            "professional_type": "Creator",
-            "category": [
-                {
-                    "id": 478,
-                    "name": "Advertising & Marketing Agency",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1696872041000,
-            "updated_at": 1752846614298
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": true,
+    "followers_count": 85,
+    "friends_count": 103,
+    "listed_count": 1,
+    "created_at": "Mon Oct 09 17:20:41 +0000 2023",
+    "favourites_count": 6948,
+    "verified": false,
+    "statuses_count": 1832,
+    "media_count": 329,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1939546433222488064/3b1dY0Ps_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711431451286396928/1730617163",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1872734137263767723
+    ],
+    "pinned_tweet_ids_str": [
+        "1872734137263767723"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

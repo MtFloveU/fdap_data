@@ -1,86 +1,51 @@
 {
     "id": "1660637215335014402",
-    "screen_name": "cngcngyngy38992",
     "name": "瓜子🍥曾宇葵🌻 そねざき うき",
-    "description": "07｜二次元｜機動戰士GQuuuuuuX｜不定時發評分系列｜互fo私信",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1925093123728015364/ZBVvwexq_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660637215335014402/1751856283",
-    "followers_count": 3018,
-    "friends_count": 4022,
-    "statuses_count": 4144,
-    "favourites_count": 11735,
-    "listed_count": 13,
+    "screen_name": "cngcngyngy38992",
+    "description": "07｜二次元｜機動戰士GQuuuuuuX｜苦逼打工人｜不定時發評分系列｜互fo私信",
     "location": "HK",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-05-22 21:23:04 +08:00",
-    "url": "https://twitter.com/cngcngyngy38992",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjYwNjM3MjE1MzM1MDE0NDAy",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1925093123728015364/ZBVvwexq_normal.jpg"
-        },
-        "core": {
-            "created_at": "Mon May 22 13:23:04 +0000 2023",
-            "name": "瓜子🍥曾宇葵🌻 そねざき うき",
-            "screen_name": "cngcngyngy38992"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 4022,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 759,
-            "pinned_tweet_ids_str": [
-                "1932718625783177450"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "HK"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1684761784000,
-            "updated_at": 1752846623602
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 3242,
+    "friends_count": 4301,
+    "listed_count": 14,
+    "created_at": "Mon May 22 13:23:04 +0000 2023",
+    "favourites_count": 12345,
+    "verified": false,
+    "statuses_count": 4721,
+    "media_count": 856,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1925093123728015364/ZBVvwexq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660637215335014402/1751856283",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1973229327543419077
+    ],
+    "pinned_tweet_ids_str": [
+        "1973229327543419077"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

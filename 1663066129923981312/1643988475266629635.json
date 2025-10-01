@@ -1,55 +1,51 @@
 {
     "id": "1643988475266629635",
+    "name": "🕊️東亞伊蕾娜🐲⛩️🏯☯️🕊️",
     "screen_name": "SundayoftheROC",
-    "name": "🕊️網友豊順祥🇹🇼🇯🇵🇰🇷🇻🇳🐲⛩️🏯☯️🕊️",
-    "description": "東亞文明圈愛好者🇹🇼🇯🇵🇰🇷🇻🇳‖ACGN文化愛好者‖淡政ing‖東亞和平🕊️‖極端支黑粉蛆不服來戰",
+    "description": "東亞文化圈愛好者🇹🇼🇯🇵🇰🇷🇻🇳‖ACGN文化愛好者‖東亞和平🕊️",
     "location": "南京-東京-漢城-河內",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1903469620369248256/f3WJ7K-J_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643988475266629635/1732420485",
-    "followers_count": 970,
-    "statuses_count": 3312,
-    "favourites_count": 17339,
-    "listed_count": 4,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "created_at": "2023-04-06 22:46:25 +08:00",
-    "url": "https://twitter.com/SundayoftheROC",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjQzOTg4NDc1MjY2NjI5NjM1",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 780,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 482,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1680792385000,
-            "updated_at": 1744350015679
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 927,
+    "friends_count": 751,
+    "listed_count": 2,
+    "created_at": "Thu Apr 06 14:46:25 +0000 2023",
+    "favourites_count": 17113,
+    "verified": false,
+    "statuses_count": 3366,
+    "media_count": 491,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1971747725223120898/jYshjIuc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643988475266629635/1758863745",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1913217638601527357
+    ],
+    "pinned_tweet_ids_str": [
+        "1913217638601527357"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

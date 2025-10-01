@@ -1,40 +1,27 @@
 {
     "id": "1505492874971934721",
-    "name": "小绮",
+    "name": "绮",
     "screen_name": "CH3COSCoA",
-    "description": "tk74\n18↑/重音テト/ボカロ/中国語/物理/化学/化グラ金金金/物チャレ銀金/APhO25銀/IChO25銀/IPhO25銀",
-    "location": "日本語/English/汉语",
-    "url": "https://t.co/JdvcQGjCJJ",
+    "description": "",
+    "location": "",
+    "url": null,
     "entities": {
-        "url": {
-            "urls": [
-                {
-                    "url": "https://t.co/JdvcQGjCJJ",
-                    "expanded_url": "https://lit.link/en/qilineng",
-                    "display_url": "lit.link/en/qilineng",
-                    "indices": [
-                        0,
-                        23
-                    ]
-                }
-            ]
-        },
         "description": {
             "urls": []
         }
     },
     "protected": false,
-    "followers_count": 1708,
+    "followers_count": 1695,
     "friends_count": 3821,
     "listed_count": 5,
     "created_at": "Sun Mar 20 10:34:12 +0000 2022",
-    "favourites_count": 38804,
+    "favourites_count": 38883,
     "verified": false,
-    "statuses_count": 22860,
-    "media_count": 1495,
+    "statuses_count": 22901,
+    "media_count": 1500,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1962070835306614784/fK7P6wiK_normal.jpg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1973058275768975360/XVww9As4_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1505492874971934721/1753611362",
     "profile_use_background_image": true,
     "has_extended_profile": true,
