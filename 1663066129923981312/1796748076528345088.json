@@ -1,84 +1,51 @@
 {
     "id": "1796748076528345088",
-    "screen_name": "DOUFUNAO_ever",
     "name": "速食味增汤",
-    "description": "我不想在人际关系里被粗暴对待，我想在做爱的时候被粗暴对待",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1890036200221925376/kc-_uNmT_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796748076528345088/1717214556",
-    "followers_count": 170,
-    "friends_count": 798,
-    "statuses_count": 1428,
-    "favourites_count": 22717,
-    "listed_count": 1,
+    "screen_name": "DOUFUNAO_ever",
+    "description": "我不想在人际关系里被粗暴对待，我想在做爱的时候被粗暴对待♡最喜欢的主人/恋人@Joe_Sury_114514♡",
     "location": "永远在你心里",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": true,
-    "created_at": "2000-01-01 00:00:00 +08:00",
-    "url": "https://twitter.com/DOUFUNAO_ever",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzk2NzQ4MDc2NTI4MzQ1MDg4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1890036200221925376/kc-_uNmT_normal.jpg"
-        },
-        "core": {
-            "created_at": "Sat Jun 01 03:38:51 +0000 2024",
-            "name": "速食味增汤",
-            "screen_name": "DOUFUNAO_ever"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 798,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 58,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "永远在你心里"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": true
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 946656000000,
-            "updated_at": 1749219026953
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 303,
+    "friends_count": 890,
+    "listed_count": 2,
+    "created_at": "Sat Jun 01 03:38:51 +0000 2024",
+    "favourites_count": 46978,
+    "verified": false,
+    "statuses_count": 3323,
+    "media_count": 117,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1890036200221925376/kc-_uNmT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796748076528345088/1717214556",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1965055085827985434
+    ],
+    "pinned_tweet_ids_str": [
+        "1965055085827985434"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

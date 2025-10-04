@@ -2,7 +2,7 @@
     "id": "1023521981495308288",
     "name": "淫墮男娘萱萱醬",
     "screen_name": "CD_XuanXuan",
-    "description": "17y抖S小男娘天生男娘聖體\n寵物貓貓@CD_BruteCat",
+    "description": "17y抖S小男娘\n寵物貓貓@CD_BruteCat",
     "location": "",
     "url": null,
     "entities": {
@@ -11,14 +11,14 @@
         }
     },
     "protected": false,
-    "followers_count": 12047,
-    "friends_count": 957,
-    "listed_count": 25,
+    "followers_count": 12006,
+    "friends_count": 946,
+    "listed_count": 26,
     "created_at": "Sun Jul 29 10:53:51 +0000 2018",
-    "favourites_count": 12633,
+    "favourites_count": 12664,
     "verified": false,
-    "statuses_count": 4043,
-    "media_count": 392,
+    "statuses_count": 4056,
+    "media_count": 393,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1804025065144721408/FZemE8VY_normal.jpg",
@@ -27,8 +27,12 @@
     "has_extended_profile": false,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1939381290991837236
+    ],
+    "pinned_tweet_ids_str": [
+        "1939381290991837236"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": true,

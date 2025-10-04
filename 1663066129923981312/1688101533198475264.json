@@ -1,17 +1,17 @@
 {
-    "id": "1753419726582345728",
-    "name": "GravitySwiss",
-    "screen_name": "GravitySwiss",
-    "description": "Власть рождает паразитов. Да здравствует анархия!\nСмерть буржуям!",
-    "location": "Κωνσταντινούπολις",
-    "url": "https://t.co/eEO2O5kmpg",
+    "id": "1688101533198475264",
+    "name": "拧巴的命",
+    "screen_name": "Distorted_ming",
+    "description": "千世可爱捏💙💙💙 | 喜欢听HDM | TANO*C👊👊👊 | Kobaryo爽💜💜💜 | 音游人 | 时不时发神经的理科生 | 想要变可爱 | 心理可能是女 | 疑似双性恋",
+    "location": "",
+    "url": "https://t.co/55oeyPdTsj",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/eEO2O5kmpg",
-                    "expanded_url": "https://otomad.wiki/",
-                    "display_url": "otomad.wiki",
+                    "url": "https://t.co/55oeyPdTsj",
+                    "expanded_url": "http://guthib.com",
+                    "display_url": "guthib.com",
                     "indices": [
                         0,
                         23
@@ -24,31 +24,31 @@
         }
     },
     "protected": false,
-    "followers_count": 2628,
-    "friends_count": 3058,
-    "listed_count": 17,
-    "created_at": "Fri Feb 02 14:07:38 +0000 2024",
-    "favourites_count": 136812,
+    "followers_count": 609,
+    "friends_count": 817,
+    "listed_count": 1,
+    "created_at": "Sun Aug 06 08:16:08 +0000 2023",
+    "favourites_count": 6894,
     "verified": false,
-    "statuses_count": 40802,
-    "media_count": 1736,
+    "statuses_count": 2420,
+    "media_count": 151,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753419726582345728/1706885627",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1958539311487520768/nq36PK4d_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688101533198475264/1748153071",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
     "pinned_tweet_ids": [
-        1940446075699282266
+        1972089445404103176
     ],
     "pinned_tweet_ids_str": [
-        "1940446075699282266"
+        "1972089445404103176"
     ],
     "has_custom_timelines": false,
     "can_dm": null,
-    "can_media_tag": false,
+    "can_media_tag": true,
     "following": true,
     "follow_request_sent": false,
     "notifications": false,

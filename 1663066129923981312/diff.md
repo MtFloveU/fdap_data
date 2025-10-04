@@ -1,17 +1,12 @@
-🕒Time: `2025-10-01 11:36:07 `
-📊Total followers: `1364`, following: `1025`
+🕒Time: `2025-10-04 22:51:07 `
+📊Total followers: `1368`, following: `1025`
 *Mutual Unfollow or Removal:*
-`-He11sPike-` @`DePantheraUncia`
-`魔女奏奏妈咪的乖巧无底线胸奴4290号` @`zl0zw1C0ZNNqUQi`
-`末日暗影亚马乌罗提` @`iranon_amoroto`
-`🏳️‍⚧️秋月🍥` @`imqiuy`
-`岚羽` @`lanyu20040409`
-`南？` @`xx1xx9xx8xx8xx`
-`男村群同誇我強有力` @`Young2568`
-`☯️🧬葉加瀬水素 公式ツイッター` @`HydrogenNeko`
-`白芷梦瑶🍥` @`baizhimengyao`
+`乇乇 momo 糖商 泰补 艾斯妥凝胶 诺坤复🍥🏳️‍⚧️` @`tbh2317X`
+`Your幽小乐🍥` @`Your962497980`
+`boilingwatter🍥` @`boilingwatter`
+`汐眠시오민🏳️‍⚧️🍥（自杀倒计时）🔪🩸` @`xmin240286`
+`知式🍥(2nd)` @`TypezhiQWQ`
+`🧀小狐狸🦊` @`foooxwww`
 
 *Returning Follows:*
-`小葵🌻` @`Ol_Sunflower`
-`idiotthingie` @`idiotthingie`
-`𝑨𝒓𝒄𝒖𝒌𝒊` @`hatsuyuki_suki`
+`-He11sPike-` @`DePantheraUncia`

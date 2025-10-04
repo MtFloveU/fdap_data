@@ -2,7 +2,7 @@
     "id": "1716016844711297024",
     "name": "溺鱼",
     "screen_name": "orchidmalevol",
-    "description": "一般装作一只偷偷路过的猫猫虫，可以叫我鱼鱼，也可以是玉和雨",
+    "description": "人生是偶然",
     "location": "猫猫虫星球",
     "url": "https://t.co/xmAKzwtpLB",
     "entities": {
@@ -24,14 +24,14 @@
         }
     },
     "protected": false,
-    "followers_count": 299,
-    "friends_count": 356,
+    "followers_count": 297,
+    "friends_count": 358,
     "listed_count": 2,
     "created_at": "Sun Oct 22 09:01:20 +0000 2023",
-    "favourites_count": 4879,
+    "favourites_count": 4896,
     "verified": false,
-    "statuses_count": 1921,
-    "media_count": 150,
+    "statuses_count": 1939,
+    "media_count": 158,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1941499532669575168/hI0ZPJUh_normal.jpg",
@@ -40,12 +40,8 @@
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [
-        1963953036285386902
-    ],
-    "pinned_tweet_ids_str": [
-        "1963953036285386902"
-    ],
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": false,
