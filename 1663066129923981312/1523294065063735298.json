@@ -1,113 +1,64 @@
 {
     "id": "1523294065063735298",
-    "screen_name": "Daryl336",
     "name": "東京の雪蓮い⛩️",
-    "description": "关注莲莲，好运连连～最喜欢😘：@AzumaSeren_Suki ｜莲宝：@AzumaSeren",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1938376093867581440/oo0V9tg__normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1523294065063735298/1740501429",
-    "followers_count": 4090,
-    "friends_count": 2954,
-    "statuses_count": 3616,
-    "favourites_count": 50607,
-    "listed_count": 15,
+    "screen_name": "Daryl336",
+    "description": "全网最尊重东雪莲博主。星野酱：@QiangGuoYouZi ｜莲宝：@AzumaSeren",
     "location": "二次元世界",
-    "website": "https://t.co/2VU2VE9tFl",
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-05-08 21:29:58 +08:00",
-    "url": "https://twitter.com/Daryl336",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNTIzMjk0MDY1MDYzNzM1Mjk4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1938376093867581440/oo0V9tg__normal.jpg"
-        },
-        "core": {
-            "created_at": "Sun May 08 13:29:58 +0000 2022",
-            "name": "東京の雪蓮い⛩️",
-            "screen_name": "Daryl336"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "lit.link/azumaseren",
-                            "expanded_url": "https://lit.link/azumaseren",
-                            "url": "https://t.co/2VU2VE9tFl",
-                            "indices": [
-                                0,
-                                23
-                            ]
-                        }
-                    ]
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2954,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 616,
-            "pinned_tweet_ids_str": [
-                "1795925402092785966"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "url": "https://t.co/2VU2VE9tFl",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "二次元世界"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1523295420801200129",
-            "professional_type": "Business",
-            "category": [
+    "url": "https://t.co/2VU2VE8VPN",
+    "entities": {
+        "url": {
+            "urls": [
                 {
-                    "id": 15,
-                    "name": "Entertainment & Recreation",
-                    "icon_name": "IconBriefcaseStroke"
+                    "url": "https://t.co/2VU2VE8VPN",
+                    "expanded_url": "https://lit.link/azumaseren",
+                    "display_url": "lit.link/azumaseren",
+                    "indices": [
+                        0,
+                        23
+                    ]
                 }
             ]
         },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1652016598000,
-            "updated_at": 1752846618931
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 4265,
+    "friends_count": 2984,
+    "listed_count": 20,
+    "created_at": "Sun May 08 13:29:58 +0000 2022",
+    "favourites_count": 52767,
+    "verified": false,
+    "statuses_count": 4039,
+    "media_count": 723,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1976027691032657920/atmtbwt2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1523294065063735298/1740501429",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1795925402092785966
+    ],
+    "pinned_tweet_ids_str": [
+        "1795925402092785966"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

@@ -2,16 +2,16 @@
     "id": "1847778949272584192",
     "name": "脑斧酱",
     "screen_name": "jingsheng237248",
-    "description": "#OKX 开户🔗https://t.co/H5pQD29zot #Coinbase 开户🔗https://t.co/pLWg0WNkDF 墙外聪明吧联盟tg群https://t.co/Ql2Mtd6Kz1 💯回关，漏fo请私信｜推广自辨",
+    "description": "#OKX 开户https://t.co/ZUWcynIsjA 接推广 #Binance #币安 开户 https://t.co/2mJHQObDAT 推广自辨",
     "location": "",
-    "url": "https://t.co/t48ryN9R9j",
+    "url": "https://t.co/mQSW9mc9Eh",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/t48ryN9R9j",
-                    "expanded_url": "https://bsky.app/profile/xiaonaofujiang.bsky.social",
-                    "display_url": "bsky.app/profile/xiaona…",
+                    "url": "https://t.co/mQSW9mc9Eh",
+                    "expanded_url": "http://t.me/naofujiang",
+                    "display_url": "t.me/naofujiang",
                     "indices": [
                         0,
                         23
@@ -22,44 +22,35 @@
         "description": {
             "urls": [
                 {
-                    "url": "https://t.co/H5pQD29zot",
-                    "expanded_url": "https://okx.com/join/72922796",
+                    "url": "https://t.co/ZUWcynIsjA",
+                    "expanded_url": "http://okx.com/join/72922796",
                     "display_url": "okx.com/join/72922796",
                     "indices": [
-                        8,
-                        31
+                        7,
+                        30
                     ]
                 },
                 {
-                    "url": "https://t.co/pLWg0WNkDF",
-                    "expanded_url": "https://advanced.coinbase.com/join/U4THL45",
-                    "display_url": "advanced.coinbase.com/join/U4THL45",
+                    "url": "https://t.co/2mJHQObDAT",
+                    "expanded_url": "http://www.binance.us/universal_JHHGDSKDJ/auth/registration?ref=614050518",
+                    "display_url": "binance.us/universal_JHHG…",
                     "indices": [
-                        45,
-                        68
-                    ]
-                },
-                {
-                    "url": "https://t.co/Ql2Mtd6Kz1",
-                    "expanded_url": "https://t.me/+Th-lYpSsPhNhZWEx",
-                    "display_url": "t.me/+Th-lYpSsPhNhZ…",
-                    "indices": [
-                        79,
-                        102
+                        51,
+                        74
                     ]
                 }
             ]
         }
     },
     "protected": false,
-    "followers_count": 13531,
-    "friends_count": 13417,
-    "listed_count": 23,
+    "followers_count": 14902,
+    "friends_count": 14741,
+    "listed_count": 27,
     "created_at": "Sat Oct 19 23:17:00 +0000 2024",
-    "favourites_count": 6358,
+    "favourites_count": 7961,
     "verified": false,
-    "statuses_count": 4079,
-    "media_count": 886,
+    "statuses_count": 4360,
+    "media_count": 963,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1873060612315455488/mf2pvdmw_normal.jpg",
@@ -69,10 +60,10 @@
     "default_profile": true,
     "default_profile_image": false,
     "pinned_tweet_ids": [
-        1973544570630947240
+        1975346261793604048
     ],
     "pinned_tweet_ids_str": [
-        "1973544570630947240"
+        "1975346261793604048"
     ],
     "has_custom_timelines": false,
     "can_dm": null,
@@ -87,6 +78,6 @@
     "translator_type": "none",
     "withheld_in_countries": [],
     "followed_by": true,
-    "ext_is_blue_verified": false,
+    "ext_is_blue_verified": true,
     "require_some_consent": false
 }

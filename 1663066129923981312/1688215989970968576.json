@@ -2,14 +2,14 @@
     "id": "1688215989970968576",
     "name": "凉老师不是娘老师",
     "screen_name": "mizuki_liang",
-    "description": "wmc | mtf🏳️‍⚧️ | 喜欢折腾 | 喜欢发日常 | 极度缺乏安全感 | 善待彼此 拥抱不同 | 拒绝R18 目前拒绝线下",
+    "description": "wmc | mtf🏳️‍⚧️ | 喜欢发日常 | 安全感自我创造中 | 善待彼此 拥抱不同 | 拒绝涩涩 拒绝线下",
     "location": "舞萌国",
-    "url": "https://t.co/6xL3ldqhNJ",
+    "url": "https://t.co/MdPdxsnisz",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/6xL3ldqhNJ",
+                    "url": "https://t.co/MdPdxsnisz",
                     "expanded_url": "https://t.me/liangowo",
                     "display_url": "t.me/liangowo",
                     "indices": [
@@ -23,14 +23,14 @@
             "urls": []
         }
     },
-    "protected": false,
-    "followers_count": 1065,
-    "friends_count": 825,
+    "protected": true,
+    "followers_count": 1024,
+    "friends_count": 808,
     "listed_count": 1,
     "created_at": "Sun Aug 06 15:50:37 +0000 2023",
-    "favourites_count": 6175,
+    "favourites_count": 6155,
     "verified": false,
-    "statuses_count": 3682,
+    "statuses_count": 3685,
     "media_count": 114,
     "profile_background_image_url": null,
     "profile_background_tile": false,
@@ -55,6 +55,6 @@
     "translator_type": "none",
     "withheld_in_countries": [],
     "followed_by": true,
-    "ext_is_blue_verified": true,
+    "ext_is_blue_verified": false,
     "require_some_consent": false
 }

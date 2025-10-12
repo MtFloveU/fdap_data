@@ -1,99 +1,51 @@
 {
     "id": "1656308315021012994",
-    "screen_name": "fc1164283287992",
     "name": "星域",
-    "description": "死人一个",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1899298178270445568/X2ZntDAZ_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1656308315021012994/1738350719",
-    "followers_count": 1205,
-    "friends_count": 779,
-    "statuses_count": 1030,
-    "favourites_count": 314,
-    "listed_count": 1,
+    "screen_name": "fc1164283287992",
+    "description": "挥霍生命，直到死亡",
     "location": "盛开玫瑰的天堂",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2023-05-10 22:41:03 +08:00",
-    "url": "https://twitter.com/fc1164283287992",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNjU2MzA4MzE1MDIxMDEyOTk0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1899298178270445568/X2ZntDAZ_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed May 10 14:41:03 +0000 2023",
-            "name": "星域",
-            "screen_name": "fc1164283287992"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 779,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 212,
-            "pinned_tweet_ids_str": [
-                "1888184063401615425"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "盛开玫瑰的天堂"
-        },
-        "media_permissions": {
-            "can_media_tag": true
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "professional": {
-            "rest_id": "1895949925491544079",
-            "professional_type": "Business",
-            "category": [
-                {
-                    "id": 132,
-                    "name": "Commercial & Industrial",
-                    "icon_name": "IconBriefcaseStroke"
-                }
-            ]
-        },
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1683729663000,
-            "updated_at": 1750232262453
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 1163,
+    "friends_count": 771,
+    "listed_count": 2,
+    "created_at": "Wed May 10 14:41:03 +0000 2023",
+    "favourites_count": 315,
+    "verified": false,
+    "statuses_count": 1051,
+    "media_count": 223,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1899298178270445568/X2ZntDAZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1656308315021012994/1738350719",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1888184063401615425
+    ],
+    "pinned_tweet_ids_str": [
+        "1888184063401615425"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

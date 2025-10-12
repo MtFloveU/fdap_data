@@ -2,23 +2,33 @@
     "id": "1799666750088175616",
     "name": "神樂坂🌸莉可（淡推.ing",
     "screen_name": "LycoReco_neneko",
-    "description": "铃兰小姐我们的光！(雾）\n欢迎互相关注owo/\n不鉴证/猫猫\\学生党/好朋友 @my9361231136899 /主人 @owl8964cat /喜欢的@Tsugaru_1997 osu 4K 2300pp /yes lolita no touch /原神/源神/明日方舟/蔚蓝档案/蓝孩纸",
+    "description": "铃兰小姐我们的光！(雾）\n欢迎互相关注owo/\n不鉴证/猫猫\\学生党/好朋友 @my9361231136899 /主人 @owl8964cat /喜欢的@Tsugaru_1997 https://t.co/CFewIUGTz9\n yes lolita no touch 原神/明日方舟/蓝孩纸",
     "location": "夜之国",
     "url": null,
     "entities": {
         "description": {
-            "urls": []
+            "urls": [
+                {
+                    "url": "https://t.co/CFewIUGTz9",
+                    "expanded_url": "https://osu.ppy.sh/users/36368076",
+                    "display_url": "osu.ppy.sh/users/36368076",
+                    "indices": [
+                        90,
+                        113
+                    ]
+                }
+            ]
         }
     },
-    "protected": true,
-    "followers_count": 460,
-    "friends_count": 460,
-    "listed_count": 4,
+    "protected": false,
+    "followers_count": 468,
+    "friends_count": 467,
+    "listed_count": 5,
     "created_at": "Sun Jun 09 04:59:07 +0000 2024",
-    "favourites_count": 36968,
+    "favourites_count": 39015,
     "verified": false,
-    "statuses_count": 5968,
-    "media_count": 2941,
+    "statuses_count": 6213,
+    "media_count": 3047,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1949010684014145536/8vsKb2h-_normal.jpg",

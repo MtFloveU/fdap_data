@@ -2,23 +2,36 @@
     "id": "1794617194954850304",
     "name": "白小铭",
     "screen_name": "Baixiaoming0707",
-    "description": "总有一天我会离去，在此之前我会发光到最后一刻 | 不著名螺蛳粉与学校蛋挞爱好者 | 08年广西土著 | 简中/正體/English | 政史地亡命文科生 | 都去关注@virtual_kaf ！ | 永远追随国王→@oldsddl4gunmu @diangunottosm",
-    "location": "无处不在 无影无踪",
-    "url": null,
+    "description": "不著名螺蛳粉与学校蛋挞爱好者 | 08年广西土著 | 简中/正體/En | 政史地亡命文科生 | 助ta们涨粉:@virtual_kaf @IzayoiMarin @ninarin_tokyo @QQ5915179 | 永远追随国王→@oldsddl4gunmu @diangunottosm",
+    "location": "↓discord群→",
+    "url": "https://t.co/XlFsCAnf0y",
     "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/XlFsCAnf0y",
+                    "expanded_url": "https://discord.gg/TvdkBws4WA",
+                    "display_url": "discord.gg/TvdkBws4WA",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
         "description": {
             "urls": []
         }
     },
     "protected": false,
-    "followers_count": 1932,
-    "friends_count": 1490,
+    "followers_count": 2037,
+    "friends_count": 1574,
     "listed_count": 10,
     "created_at": "Sun May 26 06:31:28 +0000 2024",
-    "favourites_count": 17920,
+    "favourites_count": 18848,
     "verified": false,
-    "statuses_count": 5289,
-    "media_count": 885,
+    "statuses_count": 5547,
+    "media_count": 921,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",

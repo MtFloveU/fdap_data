@@ -1,84 +1,51 @@
 {
     "id": "1796349415650664448",
-    "screen_name": "KawaiiEru_",
     "name": "坂下える",
-    "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1945534724807528448/8RLe5-v3_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796349415650664448/1752835395",
-    "followers_count": 2342,
-    "friends_count": 339,
-    "statuses_count": 11551,
-    "favourites_count": 24627,
-    "listed_count": 10,
+    "screen_name": "KawaiiEru_",
+    "description": "啊啊啊啊啊傻逼粉蛆宝宝你是一颗香香软软的和成天下精品大果",
     "location": "神山高中古典文学部",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-05-31 09:14:22 +08:00",
-    "url": "https://twitter.com/KawaiiEru_",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzk2MzQ5NDE1NjUwNjY0NDQ4",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1945534724807528448/8RLe5-v3_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri May 31 01:14:22 +0000 2024",
-            "name": "坂下える",
-            "screen_name": "KawaiiEru_"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 339,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 2346,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "神山高中古典文学部"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {},
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1717118062000,
-            "updated_at": 1752846616262
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2568,
+    "friends_count": 336,
+    "listed_count": 12,
+    "created_at": "Fri May 31 01:14:22 +0000 2024",
+    "favourites_count": 25845,
+    "verified": false,
+    "statuses_count": 12259,
+    "media_count": 2496,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1964657202142314496/hQMvxFgB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796349415650664448/1758819761",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1948788722897437042
+    ],
+    "pinned_tweet_ids_str": [
+        "1948788722897437042"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }

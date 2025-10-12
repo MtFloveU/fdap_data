@@ -1,24 +1,37 @@
 {
     "id": "1955503492145283072",
-    "name": "o(￣ヘ￣o)",
+    "name": "🍥(￣ヘ￣🍥)",
     "screen_name": "QWQ73416",
-    "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
-    "location": "China",
-    "url": null,
+    "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+    "location": "∠( ᐛ 」∠)_",
+    "url": "https://t.co/7tmPTkeoFF",
     "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/7tmPTkeoFF",
+                    "expanded_url": "http://MTF.wiki",
+                    "display_url": "MTF.wiki",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
         "description": {
             "urls": []
         }
     },
     "protected": false,
-    "followers_count": 112,
-    "friends_count": 216,
+    "followers_count": 194,
+    "friends_count": 266,
     "listed_count": 0,
     "created_at": "Wed Aug 13 05:35:59 +0000 2025",
-    "favourites_count": 2260,
+    "favourites_count": 4071,
     "verified": false,
-    "statuses_count": 614,
-    "media_count": 10,
+    "statuses_count": 1088,
+    "media_count": 17,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
@@ -27,8 +40,12 @@
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1971859627869708434
+    ],
+    "pinned_tweet_ids_str": [
+        "1971859627869708434"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": false,

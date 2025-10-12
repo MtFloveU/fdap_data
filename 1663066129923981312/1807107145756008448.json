@@ -1,15 +1,15 @@
 {
     "id": "1807107145756008448",
-    "name": "蓝原 樁",
+    "name": "艾伦 耶格尔",
     "screen_name": "kagurazakaAkira",
     "description": "愿我们都能达到理想的彼岸 / 大号：@FxxkApexLegend",
     "location": "重庆市渝北区红锦大道60号",
-    "url": "https://t.co/zULBkaIhWS",
+    "url": "https://t.co/SFZpOvz5Se",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/zULBkaIhWS",
+                    "url": "https://t.co/SFZpOvz5Se",
                     "expanded_url": "http://t.me/Allenium114",
                     "display_url": "t.me/Allenium114",
                     "indices": [
@@ -23,19 +23,19 @@
             "urls": []
         }
     },
-    "protected": true,
-    "followers_count": 7868,
-    "friends_count": 845,
+    "protected": false,
+    "followers_count": 7814,
+    "friends_count": 842,
     "listed_count": 11,
     "created_at": "Sat Jun 29 17:41:40 +0000 2024",
-    "favourites_count": 46233,
+    "favourites_count": 46075,
     "verified": false,
-    "statuses_count": 28057,
-    "media_count": 3466,
+    "statuses_count": 28054,
+    "media_count": 3467,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1971473889558777856/OI1u9mJK_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807107145756008448/1751900240",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1976511670819409920/RIxZ5_fA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807107145756008448/1759948622",
     "profile_use_background_image": true,
     "has_extended_profile": true,
     "default_profile": true,
@@ -48,7 +48,7 @@
     ],
     "has_custom_timelines": false,
     "can_dm": null,
-    "can_media_tag": true,
+    "can_media_tag": false,
     "following": true,
     "follow_request_sent": false,
     "notifications": false,

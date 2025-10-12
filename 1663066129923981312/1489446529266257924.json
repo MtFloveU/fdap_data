@@ -1,86 +1,47 @@
 {
     "id": "1489446529266257924",
-    "screen_name": "yuzumi_qwq",
     "name": "蜂蜜柚子茶🍥",
-    "description": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1936563168890822657/1KDvPBJW_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489446529266257924/1743103708",
-    "followers_count": 2532,
-    "friends_count": 2438,
-    "statuses_count": 926,
-    "favourites_count": 29020,
-    "listed_count": 8,
+    "screen_name": "yuzumi_qwq",
+    "description": "含糖小男娘/坐标：南京🇹🇼（中/en/日/粤）",
     "location": "距离你5.20kmᡣ𐭩",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": true,
-    "following": true,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2022-02-04 11:51:59 +08:00",
-    "url": "https://twitter.com/yuzumi_qwq",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDg5NDQ2NTI5MjY2MjU3OTI0",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1936563168890822657/1KDvPBJW_normal.jpg"
-        },
-        "core": {
-            "created_at": "Fri Feb 04 03:51:59 +0000 2022",
-            "name": "蜂蜜柚子茶🍥",
-            "screen_name": "yuzumi_qwq"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2438,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 41,
-            "pinned_tweet_ids_str": [],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": true,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": "距离你5.20kmᡣ𐭩"
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": true
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1643946719000,
-            "updated_at": 1752846618061
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 2552,
+    "friends_count": 2533,
+    "listed_count": 9,
+    "created_at": "Fri Feb 04 03:51:59 +0000 2022",
+    "favourites_count": 29955,
+    "verified": false,
+    "statuses_count": 950,
+    "media_count": 42,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1977036523754471427/2hsVd1Jt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489446529266257924/1743103708",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
 }
