@@ -1,89 +1,50 @@
 {
     "id": "1772897708426305536",
-    "screen_name": "suming051026",
     "name": "小蛊",
-    "description": "上海 大骨架 46肩宽 mad 想当帅b 天炸开局(丑)\n115/250kg (神人玩家)\nfufu天下第一好",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1915480970582499328/Y4u5Guso_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 878,
-    "friends_count": 2696,
-    "statuses_count": 1646,
-    "favourites_count": 4,
-    "listed_count": 3,
+    "screen_name": "suming051026",
+    "description": "上海 大骨架 46肩宽 mad 想当帅b 天炸开局(丑)\n115/250kg (神人玩家)\nfufu天下第一好\nqq:3477584366",
     "location": "",
-    "website": null,
-    "birthdate": null,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "can_dm": true,
-    "protected": false,
-    "created_at": "2024-03-27 16:05:38 +08:00",
-    "url": "https://twitter.com/suming051026",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNzcyODk3NzA4NDI2MzA1NTM2",
-        "affiliates_highlighted_label": {},
-        "avatar": {
-            "image_url": "https://pbs.twimg.com/profile_images/1915480970582499328/Y4u5Guso_normal.jpg"
-        },
-        "core": {
-            "created_at": "Wed Mar 27 08:05:38 +0000 2024",
-            "name": "小蛊",
-            "screen_name": "suming051026"
-        },
-        "dm_permissions": {
-            "can_dm": true
-        },
-        "has_graduated_access": true,
-        "legacy": {
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 2696,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 22,
-            "pinned_tweet_ids_str": [
-                "1912908692871094368"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "location": {
-            "location": ""
-        },
-        "media_permissions": {
-            "can_media_tag": false
-        },
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "privacy": {
-            "protected": false
-        },
-        "relationship_perspectives": {
-            "followed_by": true,
-            "following": false
-        },
-        "tipjar_settings": {
-            "is_enabled": true,
-            "patreon_handle": ""
-        },
-        "verification": {
-            "verified": false
-        },
-        "twe_private_fields": {
-            "created_at": 1711526738000,
-            "updated_at": 1752846533812
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 913,
+    "friends_count": 2934,
+    "listed_count": 4,
+    "created_at": "Wed Mar 27 08:05:38 +0000 2024",
+    "favourites_count": 3,
+    "verified": false,
+    "statuses_count": 1770,
+    "media_count": 25,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1915480970582499328/Y4u5Guso_normal.jpg",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1912908692871094368
+    ],
+    "pinned_tweet_ids_str": [
+        "1912908692871094368"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

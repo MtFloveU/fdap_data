@@ -2,14 +2,14 @@
     "id": "1618557658163970049",
     "name": "清凤🍥",
     "screen_name": "qqqqqf5",
-    "description": "Null         \n逃生舱:@qqqqqf_",
+    "description": "15岁MTF\n拒绝键政 | 如果你有建政成分我都会block\n逃生舱:@qqqqqf_",
     "location": "",
-    "url": "https://t.co/Qfc6ZTRmX7",
+    "url": "https://t.co/Qfc6ZTQP7z",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/Qfc6ZTRmX7",
+                    "url": "https://t.co/Qfc6ZTQP7z",
                     "expanded_url": "https://github.com/qqqqqf-q",
                     "display_url": "github.com/qqqqqf-q",
                     "indices": [
@@ -24,24 +24,28 @@
         }
     },
     "protected": false,
-    "followers_count": 1437,
-    "friends_count": 1601,
+    "followers_count": 2063,
+    "friends_count": 1879,
     "listed_count": 6,
     "created_at": "Thu Jan 26 10:33:19 +0000 2023",
-    "favourites_count": 4559,
+    "favourites_count": 6226,
     "verified": false,
-    "statuses_count": 1391,
-    "media_count": 408,
+    "statuses_count": 1898,
+    "media_count": 602,
     "profile_background_image_url": null,
     "profile_background_tile": false,
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1954277450147676160/PCuFGyKd_normal.jpg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618557658163970049/1721668658",
     "profile_use_background_image": true,
     "has_extended_profile": false,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1973106690578063618
+    ],
+    "pinned_tweet_ids_str": [
+        "1973106690578063618"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": false,

@@ -1,57 +1,51 @@
 {
     "id": "1868275566614654976",
+    "name": "𝓵𝓮𝓶𝓸𝓷 𝓳𝓾𝓲𝓬𝓮",
     "screen_name": "hotaru_314",
-    "name": "⚝𝓗𝓸𝓽𝓪𝓻𝓾♪",
     "description": "好想睡觉！！！",
     "location": "Guangzhou,china",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1882906599163043840/jtwFAQ1d_normal.jpg",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868275566614654976/1737865302",
-    "followers_count": 36,
-    "statuses_count": 21,
-    "favourites_count": 222,
-    "listed_count": 0,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "created_at": "2024-12-15 20:43:19 +08:00",
-    "url": "https://twitter.com/hotaru_314",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxODY4Mjc1NTY2NjE0NjU0OTc2",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": true,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 116,
-            "has_custom_timelines": false,
-            "is_translator": false,
-            "media_count": 8,
-            "pinned_tweet_ids_str": [
-                "1884035527927816255"
-            ],
-            "possibly_sensitive": false,
-            "profile_interstitial_type": "",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "tipjar_settings": {},
-        "twe_private_fields": {
-            "created_at": 1734266599000,
-            "updated_at": 1744350021262
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 40,
+    "friends_count": 138,
+    "listed_count": 0,
+    "created_at": "Sun Dec 15 12:43:19 +0000 2024",
+    "favourites_count": 271,
+    "verified": false,
+    "statuses_count": 22,
+    "media_count": 9,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1911112577523888128/wEoBNCBg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868275566614654976/1737865302",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1884035527927816255
+    ],
+    "pinned_tweet_ids_str": [
+        "1884035527927816255"
+    ],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

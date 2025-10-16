@@ -1,64 +1,50 @@
 {
     "id": "1435580213522436096",
-    "screen_name": "openwrt666",
-    "name": "老司机收藏夹",
-    "description": "收集各种稀有资源,大家可以点点关注，点点赞，以防迷路！",
+    "name": "军师",
+    "screen_name": "niubirenwu800",
+    "description": "",
     "location": "",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/1498723998422601729/kwJC_UgF_normal.jpg",
-    "profile_banner_url": null,
-    "followers_count": 6201,
-    "statuses_count": 9,
-    "favourites_count": 4,
-    "listed_count": 10,
-    "verified_type": null,
-    "is_blue_verified": false,
-    "following": false,
-    "followed_by": true,
-    "created_at": "2021-09-08 20:26:31 +08:00",
-    "url": "https://twitter.com/openwrt666",
-    "metadata": {
-        "__typename": "User",
-        "id": "VXNlcjoxNDM1NTgwMjEzNTIyNDM2MDk2",
-        "affiliates_highlighted_label": {},
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "profile_image_shape": "Circle",
-        "legacy": {
-            "can_dm": true,
-            "can_media_tag": false,
-            "default_profile": true,
-            "default_profile_image": false,
-            "entities": {
-                "description": {
-                    "urls": []
-                }
-            },
-            "fast_followers_count": 0,
-            "friends_count": 5186,
-            "has_custom_timelines": true,
-            "is_translator": false,
-            "media_count": 7,
-            "pinned_tweet_ids_str": [
-                "1555236611863982080"
-            ],
-            "possibly_sensitive": true,
-            "profile_interstitial_type": "sensitive_media",
-            "translator_type": "none",
-            "verified": false,
-            "want_retweets": false,
-            "withheld_in_countries": []
-        },
-        "professional": {
-            "rest_id": "1509475780728098816",
-            "professional_type": "Business",
-            "category": []
-        },
-        "tipjar_settings": {
-            "is_enabled": true
-        },
-        "twe_private_fields": {
-            "created_at": 1631103991000,
-            "updated_at": 1744350042027
+    "url": null,
+    "entities": {
+        "description": {
+            "urls": []
         }
-    }
+    },
+    "protected": false,
+    "followers_count": 6020,
+    "friends_count": 5689,
+    "listed_count": 9,
+    "created_at": "Wed Sep 08 12:26:31 +0000 2021",
+    "favourites_count": 2,
+    "verified": false,
+    "statuses_count": 0,
+    "media_count": 0,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1978240111642021888/IR_NNGQv_normal.jpg",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+        1555236611863982080
+    ],
+    "pinned_tweet_ids_str": [
+        "1555236611863982080"
+    ],
+    "has_custom_timelines": true,
+    "can_dm": null,
+    "can_media_tag": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": false,
+    "require_some_consent": false
 }

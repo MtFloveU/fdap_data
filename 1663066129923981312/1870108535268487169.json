@@ -1,0 +1,60 @@
+{
+    "id": "1870108535268487169",
+    "name": "桃濑玲奈",
+    "screen_name": "MomoseReina",
+    "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(请私信哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+    "location": "",
+    "url": "https://t.co/OdaAdEyNlK",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/OdaAdEyNlK",
+                    "expanded_url": "https://t.me/MomoseReina",
+                    "display_url": "t.me/MomoseReina",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 184,
+    "friends_count": 167,
+    "listed_count": 0,
+    "created_at": "Fri Dec 20 14:06:54 +0000 2024",
+    "favourites_count": 806,
+    "verified": false,
+    "statuses_count": 608,
+    "media_count": 8,
+    "profile_background_image_url": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [],
+    "pinned_tweet_ids_str": [],
+    "has_custom_timelines": false,
+    "can_dm": null,
+    "can_media_tag": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "followed_by": true,
+    "ext_is_blue_verified": true,
+    "require_some_consent": false
+}

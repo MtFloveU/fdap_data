@@ -2,14 +2,14 @@
     "id": "1895778392227921921",
     "name": "伊飘雪🍥",
     "screen_name": "ypx0o0",
-    "description": "🐱xyn🍥药龄2年🍥170/60🍥记录生活🍥书写美好🍥自用蜂鸟VPN:https://t.co/NJyuDRGRTd",
-    "location": "佛山",
-    "url": "https://t.co/R3yWWHFvQx",
+    "description": "🐱xyn🍥药龄2年🍥纵然浮世如朝露，依然不枉活此生🍥自用蜂鸟VPN:https://t.co/NJyuDRGk3F",
+    "location": "广东",
+    "url": "https://t.co/R3yWWHEY0Z",
     "entities": {
         "url": {
             "urls": [
                 {
-                    "url": "https://t.co/R3yWWHFvQx",
+                    "url": "https://t.co/R3yWWHEY0Z",
                     "expanded_url": "https://qm.qq.com/q/1Dg5lLedTe",
                     "display_url": "qm.qq.com/q/1Dg5lLedTe",
                     "indices": [
@@ -22,26 +22,26 @@
         "description": {
             "urls": [
                 {
-                    "url": "https://t.co/NJyuDRGRTd",
+                    "url": "https://t.co/NJyuDRGk3F",
                     "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=oQDZ47Iy",
                     "display_url": "vpn1.fnvpn1.top/#/register?cod…",
                     "indices": [
-                        35,
-                        58
+                        34,
+                        57
                     ]
                 }
             ]
         }
     },
     "protected": false,
-    "followers_count": 2455,
-    "friends_count": 423,
+    "followers_count": 2464,
+    "friends_count": 431,
     "listed_count": 10,
     "created_at": "Sat Mar 01 10:10:02 +0000 2025",
-    "favourites_count": 5659,
+    "favourites_count": 5677,
     "verified": false,
-    "statuses_count": 1639,
-    "media_count": 86,
+    "statuses_count": 1583,
+    "media_count": 0,
     "profile_background_image_url": null,
     "profile_background_tile": false,
     "profile_image_url": "http://pbs.twimg.com/profile_images/1966869746059800582/m23ovxF-_normal.jpg",
@@ -50,8 +50,12 @@
     "has_extended_profile": true,
     "default_profile": true,
     "default_profile_image": false,
-    "pinned_tweet_ids": [],
-    "pinned_tweet_ids_str": [],
+    "pinned_tweet_ids": [
+        1978335288603631726
+    ],
+    "pinned_tweet_ids_str": [
+        "1978335288603631726"
+    ],
     "has_custom_timelines": false,
     "can_dm": null,
     "can_media_tag": false,
